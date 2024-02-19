@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,768 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,320 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 32 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 |
 | 33 | [Psicodelica](https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 4:13 |
 | 34 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 |
-| 35 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 |
-| 36 | [Intro](https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:00 |
-| 37 | [Aquellos Botones](https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:04 |
-| 38 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 |
-| 39 | [1004 KM](https://open.spotify.com/track/54udnumOCHpq4SRpbKleat) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:42 |
-| 40 | [Clave Ali](https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:21 |
+| 35 | [Intro](https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:00 |
+| 36 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 |
+| 37 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 |
+| 38 | [Aquellos Botones](https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:04 |
+| 39 | [Clave Ali](https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:21 |
+| 40 | [1004 KM](https://open.spotify.com/track/54udnumOCHpq4SRpbKleat) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:42 |
 | 41 | [Tronando Ligas](https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Tronando Ligas](https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3) | 2:35 |
 | 42 | [VETE YA](https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:50 |
 | 43 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 50 | [Jueves 10](https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 4:47 |
 | 51 | [TUS BESOX](https://open.spotify.com/track/6hxsXcuaPbHmIR8DsZJCyr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 4:00 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA3MzIyNWE3ZGRiYjZkZWQzYWJjZDMxNjMzNjBhZTc0NA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBhZmFjNmVmOGQzNzhhY2I5ZjcyOTJlYzYwOTZmM2IxMg==`

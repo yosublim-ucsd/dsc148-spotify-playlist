@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,392 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,392 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 21 | [The Heinrich Maneuver](https://open.spotify.com/track/4CKuOiUPeGbDsHkT3fmALJ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK) | 3:28 |
 | 22 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
 | 23 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
-| 24 | [Hello Operator](https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 2:36 |
-| 25 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
+| 24 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
+| 25 | [Hello Operator](https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 2:36 |
 | 26 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 |
 | 27 | [I'm Not Making out With You](https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sad Boys](https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C) | 2:39 |
 | 28 | [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 56 | [Nerve Jamming](https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 2:36 |
 | 57 | [Glazin'](https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Glazin'](https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69) | 3:23 |
 | 58 | [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 |
-| 59 | [Hot Wax](https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z) | 3:29 |
-| 60 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
+| 59 | [No Waves](https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC) | 2:14 |
+| 60 | [Hot Wax](https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z) | 3:29 |
 
-Snapshot ID: `MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3`
+Snapshot ID: `MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk`

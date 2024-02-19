@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > ✨ life in plastic is fantastic ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,172 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,938 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 17 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
 | 18 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
 | 19 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
-| 20 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
-| 21 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
+| 20 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
+| 21 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 22 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 23 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
 | 24 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 46 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 47 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:10 |
 | 48 | [Not Your Barbie Girl](https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Not Your Barbie Girl](https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF) | 3:06 |
-| 49 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 |
+| 49 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
 | 50 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
-| 51 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
+| 51 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 |
 | 52 | [Conceited](https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:26 |
 | 53 | [Thot Shit](https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 3:04 |
 | 54 | [Rich Girl](https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 74 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
 | 75 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
 
-Snapshot ID: `MCwxOWFlMWZmNDg1Y2U1ZWRiYWYzMmFkNjE1OTMyYjVjNzgzOWI3YmIz`
+Snapshot ID: `MCw4YzFkN2FkMjc2NzU0OTViYWMwZTQzYmY0N2IzNTVkMTRjODhkNjc2`

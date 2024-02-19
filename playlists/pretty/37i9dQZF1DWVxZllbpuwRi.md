@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,619 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,587 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 57 | [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 |
 | 58 | [Sunshine](https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Sunshine](https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF) | 3:03 |
 | 59 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
-| 60 | [Socadona](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 |
-| 61 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 |
+| 60 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 |
+| 61 | [Socadona](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 |
 | 62 | [YES! \(feat\. Rich The Kid & K CAMP\)](https://open.spotify.com/track/2XeMW0BNHdAbXVRZ3C1D09) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [See You When I am Famous!!!!!!!!!!!!](https://open.spotify.com/album/3AlnhGxi6Mdfe0ndoTwKSj) | 3:14 |
 | 63 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 |
 | 64 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [FORASTEIRO](https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:46 |
 | 100 | [Light Years Away](https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Light Years Away](https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF) | 3:43 |
 
-Snapshot ID: `MCwwNjJkMmY0MGY0ZjkyMzJkYzExNTA4ZDg4MzEyMmZmYTVjYzU3ZDQx`
+Snapshot ID: `MCxjM2FjMzlkOTA2YTJlY2NlY2YwZjg2MDNiZjczODZjNmJlMDM2ZWM4`

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 281899,
+  "2024-02-19": 281985,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Paraguay.",
   "name": "Top 50 - Paraguay",
@@ -6623,7 +6623,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -7827,6 +7827,28 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
     },
     {
       "album": {

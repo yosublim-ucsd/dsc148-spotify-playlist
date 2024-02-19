@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,663 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,707 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 38 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 39 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
 | 40 | [裝幀](https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [裝幀](https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6) | 4:05 |
-| 41 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
-| 42 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
-| 43 | [天堂與泥土](https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 3:54 |
+| 41 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
+| 42 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
+| 43 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
 | 44 | [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 |
-| 45 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
-| 46 | [Miss missed Love](https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:06 |
-| 47 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
+| 45 | [天堂與泥土](https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 3:54 |
+| 46 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
+| 47 | [Miss missed Love](https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:06 |
 | 48 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 |
 | 49 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
-| 50 | [南方的月亮](https://open.spotify.com/track/5O8tEg0NEqZE6AgMpbAiZ0) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [南方的月亮](https://open.spotify.com/album/7p4Sy8J4q3Ix3HdNSpG1Rb) | 3:23 |
+| 50 | [悄悄告訴你](https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB) | [Christine Fan](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) | [悄悄告訴你](https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC) | 2:16 |
 
-Snapshot ID: `MCw1NmRmOWZiZjNiZTkzMTBmY2IwYjA2ZTg2OWNhMzhmN2UxOTEyOWNm`
+Snapshot ID: `MCwyN2NmNmY5NzM4MTYyYTllZmIzYjRkZTU5YzM5NDhhNmEyNGEwODdh`

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 909284,
+  "2024-02-19": 909292,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Netherlands.",
   "name": "Top 50 - Netherlands",
@@ -2515,7 +2515,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 295471,
       "name": "BACK TO ME",
       "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
@@ -9181,7 +9181,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
@@ -15391,6 +15391,24 @@
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195643,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
     },
     {
       "album": {
@@ -24641,7 +24659,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -25005,6 +25023,24 @@
       "duration_ms": 174680,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/30V5d38AvuTJHaeifAnhqE"
+    },
+    {
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "album": {
@@ -28069,6 +28105,36 @@
       "duration_ms": 230400,
       "name": "Zolang Ik Er Ben",
       "url": "https://open.spotify.com/track/6k1pgvw4WtAwEwiCOVsh02"
+    },
+    {
+      "album": {
+        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
     },
     {
       "album": {

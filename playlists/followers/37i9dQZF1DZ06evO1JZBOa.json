@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 8852,
+  "2024-02-19": 8853,
   "date_first_scraped": "2021-12-29",
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
   "name": "This Is Manu Dibango",
@@ -339,7 +339,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 206973,
       "name": "Bessoka - Version courte",
       "url": "https://open.spotify.com/track/6iJvaERQxKK0ci0zv3jqTH"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 264106,
       "name": "Cerisiers Roses Et Pommiers Blancs",
       "url": "https://open.spotify.com/track/4k3YTY6Oyaux2UdaZM9NUU"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 230106,
       "name": "Lagos Go Slow",
       "url": "https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl"
@@ -2529,7 +2529,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 180906,
       "name": "Soul Machine",
       "url": "https://open.spotify.com/track/0MP07TNfHYY4YGGHl31AVq"

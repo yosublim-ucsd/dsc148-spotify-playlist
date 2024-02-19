@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 445744,
+  "2024-02-19": 445934,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -8014,6 +8014,32 @@
     },
     {
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367066,
+      "name": "OnlyL ft. TSHA & NIMMO",
+      "url": "https://open.spotify.com/track/6IgYMKfaqv8VIYYIbsmlpo"
+    },
+    {
+      "album": {
         "name": "Open Secret",
         "url": "https://open.spotify.com/album/1GipAiG1HNG1npI5lSeWs7"
       },
@@ -8887,7 +8913,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 159677,
       "name": "Rej",
       "url": "https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af"

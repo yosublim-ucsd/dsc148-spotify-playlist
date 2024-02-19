@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 
 > Unwind in time to these 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,004 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,018 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 5 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 |
 | 6 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 7 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 |
-| 8 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
-| 9 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
+| 8 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
+| 9 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
 | 10 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
 | 11 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
 | 12 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 |
-| 13 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
+| 13 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
 | 14 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 |
-| 15 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
+| 15 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
 | 16 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 17 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 |
 | 18 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 42 | [Who'll Stop The Rain](https://open.spotify.com/track/2ciMJGCDW70hqq18Vgui68) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory](https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG) | 2:27 |
 | 43 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 | 44 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
-| 45 | [Spirit In The Sky \- Deluxe Edition](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky \(Deluxe Edition\)](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 |
-| 46 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
+| 45 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
+| 46 | [Spirit In The Sky \- Deluxe Edition](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky \(Deluxe Edition\)](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 |
 | 47 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 |
 | 48 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:22 |
 | 49 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 50 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
 
-Snapshot ID: `MCwxMzRkMDZjODdhNzU1NDExYmNjNmQ5NmIxMDE2ZjEyOGIwYjdkZGFm`
+Snapshot ID: `MCxkNzYwZGMwZDZmNWU0NDFiMGFjOWYzMTk3YTVmZDAwZDk2Nzc0MGMw`

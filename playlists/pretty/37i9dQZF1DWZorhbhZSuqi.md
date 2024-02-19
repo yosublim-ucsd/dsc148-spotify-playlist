@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > Leave room in your garden for fairies to dance 🍀🧚🏼‍♀️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,373 likes - 77 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,393 likes - 77 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 10 | [I Saw You in the Blue](https://open.spotify.com/track/5ub9HfLeox5yJamTvYY1yo) | [People in Dreams](https://open.spotify.com/artist/2NS92kmIbk2cHK4NqhIewu) | [I Saw You in the Blue](https://open.spotify.com/album/2MBVu7t8kW1tjmDOtM7rgY) | 5:42 |
 | 11 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 |
 | 12 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 |
-| 13 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
+| 13 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
 | 14 | [Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:32 |
 | 15 | [Golden Mile \- Live in Pioneertown](https://open.spotify.com/track/7FEEQ8Qd7K2dlCrTdXsQj4) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Golden Mile \(Live in Pioneertown\)](https://open.spotify.com/album/77G0y3ln7mf7Y7hPAnVXP1) | 3:54 |
-| 16 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
+| 16 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
 | 17 | [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 |
 | 18 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
 | 19 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 26 | [Fairy Fountain](https://open.spotify.com/track/3uhGWxwYdkwzI9vHITtaza) | [Super Guitar Bros](https://open.spotify.com/artist/2WosnSaZPybvQfyGUvD3NX) | [Ocarina of Time](https://open.spotify.com/album/0oCRqcXxOyKQsIjOvDfeQB) | 1:03 |
 | 27 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 |
 | 28 | [The Flower Garden](https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 2:58 |
-| 29 | [Without You Without Them](https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 1:21 |
+| 29 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 |
 | 30 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
-| 31 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 |
+| 31 | [Without You Without Them](https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 1:21 |
 | 32 | [Woodland](https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:51 |
 | 33 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
 | 34 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 76 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
 | 77 | [The Book Lovers](https://open.spotify.com/track/1c8L2UYpJp0EkilO1duOK8) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j) | 4:49 |
 
-Snapshot ID: `MCw5ZGUwODU0ODgyMjYxYWMwMzI4ODc1ZTVhNjIzODU1ZGQ4ZDU3ODhi`
+Snapshot ID: `MCw4NGE1NzU2ZDcxZWFjNjZmZmMwMTA5M2M5NjlhZjZmMmJjMjg3Njg3`

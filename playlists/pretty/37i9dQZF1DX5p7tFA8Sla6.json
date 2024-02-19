@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55250,
+  "num_followers": 55258,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDM4NmZkMmZiN2QyNTg3ZmEyZmE2MWQxZGQwYTQ0MGJkNWU0NjA5",
+  "snapshot_id": "MCw4ZWM4NTQ2NDhmYzVmYzg2YTE1NmNlMTQ3MDk1YWIyZGVjYjhiMmRh",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Funky President (People It's Bad)",
+      "url": "https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep"
+    },
+    {
       "added_at": "2019-09-20 18:33:34",
       "album": {
         "name": "Stay Good",
@@ -963,22 +979,6 @@
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Funky President (People It's Bad)",
-      "url": "https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1043,38 +1043,6 @@
       "duration_ms": 387893,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Funk Ain't Ova",
-        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        },
-        {
-          "name": "Papa Dee",
-          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
-        },
-        {
-          "name": "Desmond Foster",
-          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
-        },
-        {
-          "name": "Anna Brooks",
-          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "Dance Or Die",
-      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1159,6 +1127,38 @@
       "duration_ms": 217373,
       "name": "Do Me Right",
       "url": "https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk Ain't Ova",
+        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        },
+        {
+          "name": "Papa Dee",
+          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
+        },
+        {
+          "name": "Desmond Foster",
+          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
+        },
+        {
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "Dance Or Die",
+      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Mindblastin'",
+        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
+      },
+      "artists": [
+        {
+          "name": "The Soul Motivators",
+          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
+        }
+      ],
+      "duration_ms": 261184,
+      "name": "Mindblastin'",
+      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Mindblastin'",
-        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
-      },
-      "artists": [
-        {
-          "name": "The Soul Motivators",
-          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
-        }
-      ],
-      "duration_ms": 261184,
-      "name": "Mindblastin'",
-      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
     },
     {
       "added_at": "2019-08-22 14:26:16",

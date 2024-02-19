@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,684 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,686 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 12 | [Ça mène à rien](https://open.spotify.com/track/7GLtEcaxxQpdK63YsiG51g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 3:18 |
 | 13 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 |
 | 14 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 |
-| 15 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 |
-| 16 | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL) | 3:06 |
+| 15 | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL) | 3:06 |
+| 16 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 |
 | 17 | [3 MAI 2025](https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 MAI 2025](https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG) | 2:46 |
 | 18 | ["Il y a"](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 |
 | 19 | [Faut pas](https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:18 |
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 22 | [Love de toi](https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:22 |
 | 23 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 |
 | 24 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 |
-| 25 | [Ferrero \(feat\. Gambi\)](https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:21 |
+| 25 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 |
 | 26 | [Aller sans retour](https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Aller sans retour](https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN) | 2:56 |
-| 27 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 |
-| 28 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 |
+| 27 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 |
+| 28 | [Ferrero \(feat\. Gambi\)](https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:21 |
 | 29 | [La fusion](https://open.spotify.com/track/5zDwN3tjp5OGK7SD6gXYbr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 3:39 |
 | 30 | [Kawasaki](https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Kawasaki](https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc) | 3:54 |
 | 31 | [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 |
 | 50 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 |
 
-Snapshot ID: `MCxkYWU0NjUwNTEwYWFiM2E4Nzk3MzU2MDE3NTViZGQxZWNiNmUwNzlj`
+Snapshot ID: `MCw5ODgzZDgxNjAwMzIwOTAyZjllMDFhYWU4ZGZmOTMxNjAyYWNmNWE2`

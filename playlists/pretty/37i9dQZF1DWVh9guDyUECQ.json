@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 179116,
+  "num_followers": 179139,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj",
+  "snapshot_id": "MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -775,30 +775,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Energ\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 266181,
-      "name": "Energ\u00eda - Remix",
-      "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "El Hijo del Borracho",
         "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 135850,
       "name": "Somos Uno",
       "url": "https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Energ\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 266181,
+      "name": "Energ\u00eda - Remix",
+      "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Si T\u00fa No Estas",
-      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Llename",
         "url": "https://open.spotify.com/album/4bYRZq6XgwYabQAbqVSm8M"
       },
@@ -947,22 +927,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "123 Enemies",
-        "url": "https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "123 Enemies",
-      "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Pura Alegr\u00eda",
         "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
       },
@@ -975,6 +939,42 @@
       "duration_ms": 186367,
       "name": "Pura Alegr\u00eda",
       "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Si T\u00fa No Estas",
+      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "123 Enemies",
+        "url": "https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "123 Enemies",
+      "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Para Amarte",
         "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 228000,
       "name": "Para Amarte",
       "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1731,18 +1731,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
+        "name": "Picheo",
+        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
       },
       "artists": [
         {
-          "name": "Rudy Torres",
-          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
+          "name": "Mireyli Rosa",
+          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
         }
       ],
-      "duration_ms": 157100,
-      "name": "Los Bendigo",
-      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
+      "duration_ms": 240500,
+      "name": "Picheo",
+      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1771,22 +1775,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Picheo",
-        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
+        "name": "La Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
       },
       "artists": [
         {
-          "name": "Mireyli Rosa",
-          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+          "name": "Rudy Torres",
+          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
         }
       ],
-      "duration_ms": 240500,
-      "name": "Picheo",
-      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
+      "duration_ms": 157100,
+      "name": "Los Bendigo",
+      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
     },
     {
       "added_at": "2022-08-27 05:04:45",

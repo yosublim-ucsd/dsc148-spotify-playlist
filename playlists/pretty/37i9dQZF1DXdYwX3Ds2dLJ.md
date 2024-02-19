@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 
 > Querencia is here !
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,668 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,670 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 74 | [REMEDY](https://open.spotify.com/track/3BcVxAJ4Ok0zbQ6nsu1No4) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:21 |
 | 75 | [LALALA](https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi) | 3:34 |
 
-Snapshot ID: `MCwxM2UwZGQ4YWMzYWY3ZTZiYTA2ZTU5NTcxMTQxZjkxYTFlNzA2MjQw`
+Snapshot ID: `MCxmZGM5OTM1NGE0Y2U2OWQwNDBmZDRlNTJmY2VhZWRmZWVmMmQwOWZi`

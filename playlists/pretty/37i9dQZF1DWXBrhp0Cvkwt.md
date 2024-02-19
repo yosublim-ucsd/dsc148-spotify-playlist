@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,520 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,816 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 13 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 |
 | 14 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 |
 | 15 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
-| 16 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
-| 17 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
+| 16 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
+| 17 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
 | 18 | [Friends](https://open.spotify.com/track/7uDUb37h7Xdhza1eWMkoJv) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia \- EP](https://open.spotify.com/album/4hZ8kmFKSmguXiWpGjUzcF) | 3:50 |
 | 19 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
 | 20 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 79 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 |
 | 80 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
 
-Snapshot ID: `MCw1MDJkYTc1NDc3ZDc3YzZmZGQwMGFmNmNlZWY1YWZjOTg2MzhlNGQ0`
+Snapshot ID: `MCwyZTYwOTBmNDViNmExM2E2ZTAwMjFkYjAwYTRlYTkyZTFkMTBmMjBh`

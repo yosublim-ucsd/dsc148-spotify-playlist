@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,159 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,173 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 45 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
 | 46 | [Cuéntenle Mentiras](https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Cuéntenle Mentiras](https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY) | 3:18 |
 | 47 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 |
-| 48 | [Quizás Mañana](https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Quizás Mañana](https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw) | 4:35 |
-| 49 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
+| 48 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
+| 49 | [Quizás Mañana](https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Quizás Mañana](https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw) | 4:35 |
 | 50 | [Si Quieres Verme Llorar](https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 3:26 |
 | 51 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
 | 52 | [Ese es el problema](https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ese es el problema](https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f) | 2:47 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 61 | [En Mil Cosas \- En Vivo](https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [En Mil Cosas \(En Vivo\)](https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL) | 3:14 |
 | 62 | [Lento](https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8) | [Katia Morales](https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg) | [Lento](https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru) | 3:00 |
 | 63 | [Busca Otro Amor \(En Vivo\)](https://open.spotify.com/track/612bRKznhv8gN6Jwsr5IPX) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Busca Otro Amor \(En Vivo\)](https://open.spotify.com/album/6fvx4HALVK3h4cGd24v6IQ) | 3:49 |
-| 64 | [Voy A Quedarte Mal](https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Voy A Quedarte Mal](https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r) | 3:43 |
+| 64 | [Por Confiar En El Amor](https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn) | [Alessa](https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T) | [Por Confiar En El Amor](https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6) | 2:46 |
 | 65 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
 
-Snapshot ID: `MCw0Zjg1ZmRmNDFmYjZkNzE2MWM0MDAyN2NhZDQ1MWYzMTc4ZGVmYTIx`
+Snapshot ID: `MCw0ZTM0YTcyNDlkNGJlMjkzMjZlZGU0ZDMxMjMzNjZmMTdmNjc1M2Rj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,719 likes - 32 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,723 likes - 32 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 31 | [Ticklish](https://open.spotify.com/track/52u5f5h1sARj7zEmHi2o6G) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 4:35 |
 | 32 | [Pendulum In A Peasant Dress](https://open.spotify.com/track/2Io9R14w2r1ZkrZJSAw9T6) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:41 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBlNzEzMWZhMGEyNjFhNjYzNjA1ZTFhMWUwNzhiNzQ5OQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA4MDI3NWNjNjk3Zjc2MGUyNjEyMjUxZmNmMWFmN2I5ZQ==`

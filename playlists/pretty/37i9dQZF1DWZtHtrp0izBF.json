@@ -1,12 +1,12 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 914,
+  "num_followers": 981,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGIzNjU5MDMwZjBkOTg0MTllNmFhNjM1MjM5NjE0MzI0MjViYTU4",
+  "snapshot_id": "MCw5NGE3YjVmMTA5N2JkYTgyOTViNDBkNTkyZGIyZjY5OTJiMGY5MGYw",
   "tracks": [
     {
       "added_at": "2021-11-25 14:50:11",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Viceversa",
-        "url": "https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 273880,
-      "name": "Un Mont\u00f3n de Estrellas",
-      "url": "https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8"
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -787,18 +787,18 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+        "name": "Viceversa",
+        "url": "https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+      "duration_ms": 273880,
+      "name": "Un Mont\u00f3n de Estrellas",
+      "url": "https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8"
     },
     {
       "added_at": "2021-11-25 14:50:11",

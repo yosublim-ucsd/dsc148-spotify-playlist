@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,383 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,640 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 40 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
 | 41 | [Bicycle](https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Hero Raw: Deluxe](https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs) | 2:17 |
 | 42 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
-| 43 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
-| 44 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
+| 43 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
+| 44 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 45 | [Gyal Bruk Out](https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva](https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha) | 2:42 |
 | 46 | [Ova Dweet](https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Ova Dweet \- Single](https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5) | 3:41 |
 | 47 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 55 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 |
 | 56 | [Bedroom Bully](https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [It \(Incomparable Talent\)](https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ) | 2:45 |
 | 57 | [Kotch](https://open.spotify.com/track/0V64KIinm3gUN04DhxEHwW) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch](https://open.spotify.com/album/0oprdfurN8Dhv9mdLl0iPC) | 3:15 |
-| 58 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
-| 59 | [Party Shot \(Ravin Part\. 2\)](https://open.spotify.com/track/0rGKPQZZxLlNBPfhYQ2JU1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [When Mi Party](https://open.spotify.com/album/0tE82B0ff2X8Ss6JSMqpMH) | 3:50 |
+| 58 | [Party Shot \(Ravin Part\. 2\)](https://open.spotify.com/track/0rGKPQZZxLlNBPfhYQ2JU1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [When Mi Party](https://open.spotify.com/album/0tE82B0ff2X8Ss6JSMqpMH) | 3:50 |
+| 59 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
 | 60 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 | 61 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
 | 62 | [Likes](https://open.spotify.com/track/0L7ByJIFyro93nWs7wwioM) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:18 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 74 | [Click Mi Finger](https://open.spotify.com/track/2gUCdANxjdifegHVvt9BVC) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [First Semester: Dancehall](https://open.spotify.com/album/6dMkzA6Tv5vyMCjbW3ccdx) | 2:38 |
 | 75 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
 | 76 | [One Drop](https://open.spotify.com/track/54GRkvaa7ZUA6OtrPl3VUc) | [QQ](https://open.spotify.com/artist/06SIuEAp0Cqena9c2bZfgq), [Venomus](https://open.spotify.com/artist/15ebKuZun256dB6EBr8HUB) | [Kingston 20](https://open.spotify.com/album/4kD72g4mw4e97K5BAcY494) | 2:54 |
-| 77 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
-| 78 | [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 |
+| 77 | [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 |
+| 78 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
 | 79 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
 | 80 | [Punanny Medley](https://open.spotify.com/track/5GEid99RgStd0cQIhAlGHQ) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [Ward 21](https://open.spotify.com/artist/0iRwqSYn7fG3WkEBYQpcqJ), [Harry Toddler](https://open.spotify.com/artist/4ytwWK7bEj7noRfvIVDsgj), [Lexxus](https://open.spotify.com/artist/6LCFuJlEO46XKJlT3ZguIa), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Baby G](https://open.spotify.com/artist/5s2H4Qminkygl0u2u8fTbk), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Admiral Bailey](https://open.spotify.com/artist/1zYGgHaZVz4Q2NrPngXiCx) | [Strictly The Best Vol\. 25](https://open.spotify.com/album/3dY688fGsIBNj7AcgKOU7d) | 3:51 |
 
-Snapshot ID: `MCwyNjA1MTdmZDJmNmNmMzE1NWFkN2E0YWM5NzQ1NWI1YTVmMzY3M2Fm`
+Snapshot ID: `MCw1YTYwZWQwMGYzYzFiNzk4MTFkNzA2MDFiMWI0MjBjMWY5OTEzZDZi`

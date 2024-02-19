@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,304 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,326 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 60 | [Mi Ranchito](https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 2:41 |
 | 61 | [Te Recuerdo Amanda](https://open.spotify.com/track/6FuMNYFqISPu4zhFyRnzkv) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Best Of Victor Jara \(Remastered\)](https://open.spotify.com/album/4ELZeRbJiJBrEplZtEKTh1) | 2:34 |
 | 62 | [Yolanda](https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:44 |
-| 63 | [Melina](https://open.spotify.com/track/2UXCWyEOySmZR97yq4OIAY) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 2:47 |
+| 63 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 3:26 |
 | 64 | [Anacaona \- Live](https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 7:15 |
 | 65 | [Vieja Luna](https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 3:15 |
 | 66 | [Manuela \- Spanish](https://open.spotify.com/track/2IPv4vBcEN7IPveNv4imeq) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [My Life: The Greatest Hits](https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U) | 3:37 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 70 | [Voy a Perder la Cabeza por Tu Amor](https://open.spotify.com/track/6aOHV5MoVmS5UeHEhXIXtT) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Serie de Autores \- Vol\. II, Manuel Alejandro](https://open.spotify.com/album/4pRW2FxKY2Ir5sNqSPwh5g) | 5:19 |
 | 71 | [La de la Mochila Azul \- Tema Remasterizado](https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [La Gran Coleccion Del 60 Aniversario CBS \- Pedro Fernandez](https://open.spotify.com/album/352knvMHml1CF221Etuqnw) | 2:47 |
 | 72 | [Libre](https://open.spotify.com/track/2zC0ObgALavrI8pg23ggPR) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Lo Mejor De...](https://open.spotify.com/album/3UJiui06mKfzd3ERnIrcCA) | 4:11 |
-| 73 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 3:26 |
+| 73 | [Melina](https://open.spotify.com/track/2UXCWyEOySmZR97yq4OIAY) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 2:47 |
 | 74 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/4lNIfnscCanglCCUuVVUan) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [La Discoteca del Siglo \- Historia de la Cumbia en el Siglo Xx, Vol\. 3](https://open.spotify.com/album/0QIW02TgQwYnJtQ4JW0J6Z) | 2:37 |
 | 75 | [Stay Out Of My Life](https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:56 |
 | 76 | [No Mercedes](https://open.spotify.com/track/6c8xw7vfxc0gDz3OFU2qxC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:18 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Iremos de la Mano](https://open.spotify.com/track/11eMjGWRKv0ZuUTCk42sEU) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 3:25 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:03 |
 
-Snapshot ID: `MCxhY2I0Mjg1OWM2NWM2YWE1YzkzOGJiMjg1ODRkNTIxODJjZGNhM2Ez`
+Snapshot ID: `MCxkMWNjZmZlMzhjNTRjNDFlNDIyMDE3ZWNjNzBjZTk3MjM0M2IzYTQ5`

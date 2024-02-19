@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,402 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,409 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 20 | [El Cimarron](https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:36 |
 | 21 | [Jardin Verde](https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:29 |
 | 22 | [La Querian Facil](https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Querian Facil](https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY) | 3:45 |
-| 23 | [Power](https://open.spotify.com/track/4l1d34SW8r4yD4klZZj8oC) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Jaimito Morales](https://open.spotify.com/artist/1dpLkjxULQu1OJDED7cjs9) | [Power](https://open.spotify.com/album/2W0a475HJ51N4lLX0czxQG) | 3:09 |
-| 24 | [El R De Houston](https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:55 |
+| 23 | [Debajo De La Gorra](https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Debajo De La Gorra](https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw) | 3:05 |
+| 24 | [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 |
 | 25 | [Carta A Mi Familia](https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:51 |
-| 26 | [Debajo De La Gorra](https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Debajo De La Gorra](https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw) | 3:05 |
-| 27 | [La Greñita](https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm) | [La Nueva C](https://open.spotify.com/artist/1tl27rwbbTb7px4vcga4R3), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Greñita](https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz) | 2:37 |
-| 28 | [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 |
-| 29 | [Mujer Paseada \- En Vivo](https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:03 |
+| 26 | [Power](https://open.spotify.com/track/4l1d34SW8r4yD4klZZj8oC) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Jaimito Morales](https://open.spotify.com/artist/1dpLkjxULQu1OJDED7cjs9) | [Power](https://open.spotify.com/album/2W0a475HJ51N4lLX0czxQG) | 3:09 |
+| 27 | [Mujer Paseada \- En Vivo](https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:03 |
+| 28 | [El R De Houston](https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:55 |
+| 29 | [La Greñita](https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm) | [La Nueva C](https://open.spotify.com/artist/1tl27rwbbTb7px4vcga4R3), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Greñita](https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz) | 2:37 |
 | 30 | [Vivo En Los Angeles](https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:26 |
-| 31 | [De Texas A California](https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:15 |
-| 32 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 |
-| 33 | [Bohemio de Afición \- En Vivo](https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 2:57 |
+| 31 | [Bohemio de Afición \- En Vivo](https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 2:57 |
+| 32 | [De Texas A California](https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:15 |
+| 33 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 |
 | 34 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 |
 | 35 | [Los 3 Del NM](https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 1:50 |
 | 36 | [Aqui Nada Me Va Mal](https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Aqui Nada Me Va Mal](https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 49 | [Le Pegue a lo Grande](https://open.spotify.com/track/0JMNj5ZXQK74Nyfq05O88Y) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:57 |
 | 50 | [Blanca Nieves](https://open.spotify.com/track/0cIjGS69xkKGavLQG8n0YK) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Blanca Nieves](https://open.spotify.com/album/70riXpr57NKCdX0b6h2siw) | 4:17 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBkMGRmNzU0MWVjZWViZTQwNTViZGZhYjQ0MDQ4MDY2OQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBiNmQxMDFkZTU1NTQxMmZiY2E2ZWJmNDczY2M1MmJlYg==`

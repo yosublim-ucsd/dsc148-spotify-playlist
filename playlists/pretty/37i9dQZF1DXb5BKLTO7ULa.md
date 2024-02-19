@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Douwe Bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,965 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,985 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 70 | [STEP BY STEP](https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [STEP BY STEP](https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal) | 3:29 |
 | 71 | [Friemelen](https://open.spotify.com/track/2dkw6pe4LbTcJCxlxfsXvW) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Friemelen](https://open.spotify.com/album/2lFmg47ABA7R8D8Q2iXkMo) | 1:48 |
 | 72 | [House On Fire](https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [House On Fire](https://open.spotify.com/album/5AWBcDTeoE569GmknHWFN9) | 3:05 |
-| 73 | [Weak in the knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak in the knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 |
+| 73 | [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 |
 | 74 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 |
 | 75 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 |
 | 76 | [Drunk](https://open.spotify.com/track/75IOx6kKgDOwhxT1aKaNWZ) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Drunk](https://open.spotify.com/album/7aylO1OWSFeTACBVVZyenD) | 3:21 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 83 | [Ooh Yeah!](https://open.spotify.com/track/7dy5LEAmmUayP7z3HMEkqv) | [Tom & Jame](https://open.spotify.com/artist/6ZXRsQeAoGPspf8tNeEtPo) | [Ooh Yeah!](https://open.spotify.com/album/3TgvjWxcx0s4oJEmNAPQBP) | 3:22 |
 | 84 | [Lovesick](https://open.spotify.com/track/3lMofUMejkswjxho8onh3R) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Lovesick](https://open.spotify.com/album/3yf5mwmce6LPh474COyevw) | 2:52 |
 | 85 | [Nothing](https://open.spotify.com/track/0tNrKgDkrktMm5QKRbvWWv) | [Aristoteles](https://open.spotify.com/artist/6jZRXGOQiOFPCHcvDHvhYy), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Nothing](https://open.spotify.com/album/5UH47NIEKQbj5oivxQ6pyn) | 2:06 |
-| 86 | [S.A.D](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
+| 86 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
 | 87 | [Daydream Repeat](https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Daydream Repeat](https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK) | 6:08 |
 | 88 | [What If](https://open.spotify.com/track/4CyEI2dlPs5oxEvMh6vc1i) | [Dalo Monnier](https://open.spotify.com/artist/4CBuQutO19ay1mazXQqpJp) | [What If](https://open.spotify.com/album/2qxb2oNkfeP09U2GWMdgYm) | 2:13 |
 | 89 | [Don't Break My Heart](https://open.spotify.com/track/3dg7tObLQxGlONwR7pY1km) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Don't Break My Heart](https://open.spotify.com/album/75gy1qwD1coMnpnFnYSHAf) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Matter Of Time](https://open.spotify.com/track/4P5POsIpc0LColFSr7cHFO) | [Classic Water](https://open.spotify.com/artist/6168i8zD9r91n3VtWSr6ju) | [Matter Of Time](https://open.spotify.com/album/2Em5gQaLi1Y3019p7PJZeF) | 5:56 |
 | 100 | [LALALA Ik Luister Niet](https://open.spotify.com/track/2sO7p28bfJjvcT8ls1HHR6) | [Nachtcassie](https://open.spotify.com/artist/1CDw8i54G5IEfOMzQtFsix) | [LALALA Ik Luister Niet](https://open.spotify.com/album/71tWrtJKq1kdEDvoDj8xo4) | 2:57 |
 
-Snapshot ID: `MCxhNmY0NGI1YTA5NmZhYWFlOGY1Y2U3MjMzNjA5MDQ0ZGQzMzk3YWRj`
+Snapshot ID: `MCxiNmQyMzc0OGU2NTZkODY0ZDQ5ZTJmY2QyZTgxODkxYzkzOWVhZGRh`

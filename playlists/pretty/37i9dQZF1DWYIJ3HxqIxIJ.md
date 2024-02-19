@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Blusher is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,297 likes - 72 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,300 likes - 72 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 14 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
 | 15 | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/album/2uykIyf5aQOuwSfpfEo8zL) | 3:50 |
 | 16 | [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 |
-| 17 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 |
+| 17 | [Adored](https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 2:40 |
 | 18 | [Tale Of A Man](https://open.spotify.com/track/1rBmKmG7hM3gp4lpKQCmj1) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Tale of A Man](https://open.spotify.com/album/47fxxzNYoFylPsmR7xvrLy) | 2:46 |
 | 19 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 |
 | 20 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 71 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 |
 | 72 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
 
-Snapshot ID: `MCw1ZDYzY2FiMmQ1ZTE2ZDk2MmYxZDRkMTczNDM3NTRkYmM2MzU2MGJk`
+Snapshot ID: `MCw3ZDk0ZTFkMmU0YWQ4MzRiZmZiZWZiMjAwZTk4OTRmOWNjOTJiMmFj`

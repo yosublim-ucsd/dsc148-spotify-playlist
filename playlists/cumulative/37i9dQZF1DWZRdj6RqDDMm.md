@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=3qqDM921SPKxfSoe\_xxi2g">Naffymar</a>
 
-163 songs - 10 hr 10 min
+164 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Holy Hip\-Hop](https://open.spotify.com/track/2PiygCTWtDWGfNeAFbVEoE) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Holy Hip\-Hop](https://open.spotify.com/album/4ek9Wu3eDpVLyxzwVTRBAN) | 2:17 | 2024-01-12 |  |
 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 | 2024-01-26 |  |
 | [I Thank the Lord](https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [I Thank the Lord](https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB) | 3:16 | 2023-12-15 |  |
-| [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-10-20 |  |
+| [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2023-10-20 |  |
+| [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-10-20 | 2024-02-19 |
 | [I'm Grateful \(Live\)](https://open.spotify.com/track/2PZ0PgLrppcVON5sGS0VRE) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [I'm Grateful \(Live\)](https://open.spotify.com/album/4jaJrW5388WekmIDZgQt8z) | 7:12 | 2023-12-08 | 2024-02-02 |
 | [I'm in Love](https://open.spotify.com/track/26Cd5eyE4jyLFhKgcZULsy) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [I'm in Love](https://open.spotify.com/album/35VR01xOmMuijf913ZPfIA) | 2:58 | 2023-10-20 | 2024-01-12 |
 | [In Your Presence](https://open.spotify.com/track/103mpS18abp23kxOPtnnnK) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Real Essence Crew](https://open.spotify.com/artist/0lONQtQ4Xf7c0x72kIagLW) | [In Your Presence](https://open.spotify.com/album/4mj0RquFfkMuwLQ8RJezpM) | 15:16 | 2023-11-03 | 2024-01-26 |

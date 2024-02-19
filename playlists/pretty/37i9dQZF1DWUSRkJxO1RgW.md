@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,030 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,094 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 37 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
 | 38 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
 | 39 | [El Satánico Dr\. Cadillac \- Remasterizado 2008](https://open.spotify.com/track/1GcL18n7WMpc6xRwY7D0bE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Satánico Dr\. Cadillac](https://open.spotify.com/album/5VNRf3l7z1prtgHuKNhsc8) | 4:01 |
-| 40 | [Rezo Por Vos](https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Prive](https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS) | 3:22 |
-| 41 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
+| 40 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
+| 41 | [Rezo Por Vos](https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Prive](https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS) | 3:22 |
 | 42 | [Wadu Wadu](https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Wadu Wadu](https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU) | 2:36 |
 | 43 | [Buscando un Símbolo de Paz](https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:42 |
 | 44 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 59 | [Fantasma De Canterville](https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma De Canterville](https://open.spotify.com/album/5ftByhg3rSWly4WhsALmh8) | 3:48 |
 | 60 | [El Ritual De La Banana](https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:39 |
 
-Snapshot ID: `MCxjOTM2NjYyNDQ4ZjVmYWM0MGFlMjllY2U2OWU3OTM5NWFjNzQxYThk`
+Snapshot ID: `MCw5ZjJiMzE3ZWFjZjA5NmUzZDQ0NDQ3YTE3YzQwZThmNDg5MWNmZTkw`

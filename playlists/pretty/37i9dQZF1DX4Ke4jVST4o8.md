@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 
 > Floor fillers and big streamers of 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,096 likes - 64 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,165 likes - 64 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 51 | [Midnight City \- Eric Prydz Private Remix](https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Midnight City \(Eric Prydz Private Remix\)](https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU) | 5:57 |
 | 52 | [Live My Life](https://open.spotify.com/track/5MWx5bkuRauFJenpG1w5wt) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Dirty Bass](https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe) | 3:57 |
 | 53 | [Years](https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x) | 3:15 |
-| 54 | [Hot Right Now \(feat\. RITA ORA\) \- Radio Edit](https://open.spotify.com/track/7uHw9gnuf6Fq8nKYFg4p1E) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Hot Right Now \(Remixes\) \(feat\. RITA ORA\)](https://open.spotify.com/album/40mKp2q5A9Kq0vnsAvMsXz) | 3:02 |
-| 55 | [What I Might Do](https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [DJ Central Groove Vol, 15](https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c) | 3:14 |
+| 54 | [Love Is All I Got](https://open.spotify.com/track/3INFQGizSgnmEJJlLIUJt1) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/6eamRXvrKVz5VN1noerGMr) | 3:05 |
+| 55 | [Hot Right Now \(feat\. RITA ORA\) \- Radio Edit](https://open.spotify.com/track/7uHw9gnuf6Fq8nKYFg4p1E) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Hot Right Now \(Remixes\) \(feat\. RITA ORA\)](https://open.spotify.com/album/40mKp2q5A9Kq0vnsAvMsXz) | 3:02 |
 | 56 | [Diamonds \- The Bimbo Jones Vocal Edit](https://open.spotify.com/track/5VlyxtjCKSk2ETp1D3W0GX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Lee Dagger](https://open.spotify.com/artist/7hEDdJUgflzNOt4ow0OnuC), [Marc Jackson Burrows](https://open.spotify.com/artist/3IoIRHbV0weqdZmN6ewOtH) | [Diamonds \(Remixes\)](https://open.spotify.com/album/5VViXjruVTgTp1eY2i0Yzp) | 3:14 |
-| 57 | [Love Is All I Got](https://open.spotify.com/track/3INFQGizSgnmEJJlLIUJt1) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/6eamRXvrKVz5VN1noerGMr) | 3:05 |
+| 57 | [What I Might Do](https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [DJ Central Groove Vol, 15](https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c) | 3:14 |
 | 58 | [Somebody That I Used To Know \- Tiësto Remix](https://open.spotify.com/track/0RtMRbaqeadQFvlYxcAczv) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Somebody That I Used To Know \(Tiësto Remix\)](https://open.spotify.com/album/515vCYHyqghzFEdRRhYWZn) | 4:33 |
 | 59 | [Turn Up The Love](https://open.spotify.com/track/2R0eIBJGHpiv1nKbSzW4zq) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Cover Drive](https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP) | [Dirty Bass](https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe) | 3:15 |
 | 60 | [Get It Started \(feat\. Shakira\)](https://open.spotify.com/track/3JNqJPbbS1KhVzStLyxw1h) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Get It Started \(feat\. Shakira\)](https://open.spotify.com/album/78yPCn5PoKJLrIV8DtLLnc) | 4:05 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 63 | [Hungry Hearts](https://open.spotify.com/track/6kILX4JxWPMGSe7lNWZmqL) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Hungry Hearts](https://open.spotify.com/album/6H4pJ3ttHtF4fFYHaw93Cb) | 3:45 |
 | 64 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 |
 
-Snapshot ID: `MCw2NTc4ZWEzNzllNzc3MTE4ZWQ3NzNlOGNmOWExNzE3ZjY3Mzg4OTFj`
+Snapshot ID: `MCxkNDc2N2VmZmI1YWUzOTg2NGI4NGY0ZjA2M2Y5ODBhNjQ5MmVlOWE5`

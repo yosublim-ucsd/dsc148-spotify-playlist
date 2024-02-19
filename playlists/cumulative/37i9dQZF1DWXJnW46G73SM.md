@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-853 songs - 2 day 0 hr 21 min
+854 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Asef](https://open.spotify.com/track/6lWCaMrjUxopxKJfsO0e1W) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Asef](https://open.spotify.com/album/3bwbHPTavXwjHsGsRaPVy7) | 3:16 | 2023-09-29 | 2024-01-05 |
 | [Asrar](https://open.spotify.com/track/17kMbUwpSIdXdLUe70XHps) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Asrar](https://open.spotify.com/album/79LLrOm3su0LwbV2JGkMlt) | 3:19 | 2023-03-21 | 2023-05-12 |
 | [Awel Gawla](https://open.spotify.com/track/1l4MnoTcwYZN2yUpd7Wwuy) | [Sedawy](https://open.spotify.com/artist/317hp6Z5h0o05KwsqXk9tR) | [Awel Gawla](https://open.spotify.com/album/6jBiGjq1Ojvao2sh1orMRB) | 3:18 | 2023-03-07 | 2023-05-06 |
+| [Aysha w Mabsouta](https://open.spotify.com/track/07VbeX7HRoHVSTHI6ZS1TP) | [Mirna nasser](https://open.spotify.com/artist/6V50iHFrnnkOzahS4QbvbR) | [Aysha w Mabsouta](https://open.spotify.com/album/4RcJd2zIAn78Bqqj7wVoHZ) | 3:45 | 2024-02-16 |  |
 | [Aywa](https://open.spotify.com/track/7zvJlh2aBSiWeQ6sTHSecc) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [My Maya I](https://open.spotify.com/album/3MTvNPfeRGJl2QBevmUuXe) | 3:20 | 2023-05-02 | 2023-06-02 |
 | [Ayzak Ala Enferad](https://open.spotify.com/track/7GvJaBiQmrzLP5FNz61p47) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Ayzak Ala Enferad](https://open.spotify.com/album/5gtfKG7lMH9U5hZjCoV3U3) | 3:18 | 2023-09-22 | 2023-12-30 |
 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2022-04-28 | 2022-08-09 |

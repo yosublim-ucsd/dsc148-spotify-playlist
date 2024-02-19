@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 69189,
+  "num_followers": 69254,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDYzYjNkZDEzMDhkNzUwNDEwN2VjMzUxYWRjZTBjOGQ2ZWQ4ODQx",
+  "snapshot_id": "MCxkNGZkZTBhOWFkMzdhMjMxMTk3MjY4YTFkYjhhNDBkMTM5OWI3MjAx",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Tete a Tete Margareth",
-        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
-      },
-      "artists": [
-        {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "Fara\u00f3",
-      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
+      },
+      "artists": [
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Pochete",
-        "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 235712,
-      "name": "Pochete",
-      "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 183053,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Pochete",
+        "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 235712,
+      "name": "Pochete",
+      "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Pequim",
+        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        },
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Pequim",
+      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Rosa Neon",
         "url": "https://open.spotify.com/album/3Cp8fCtFU6VIi9lqwsgobL"
       },
@@ -1107,22 +1127,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Meu Nome \u00c9 Gal",
-      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Pequim",
-        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        },
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 198897,
-      "name": "Pequim",
-      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
+      "duration_ms": 226000,
+      "name": "Meu Nome \u00c9 Gal",
+      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2022-09-22 18:13:04",

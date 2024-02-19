@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,732 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,756 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 27 | [Ghetto Princess \(feat\. Chief Keef\)](https://open.spotify.com/track/7yqOIcohmWYSGosoIKHc3M) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 3:38 |
 | 28 | [Sexyy & Conceited](https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SEXT8PE](https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp) | 2:50 |
 | 29 | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 |
-| 30 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 |
+| 30 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 31 | [Sexyy Red For President](https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
-| 32 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
+| 32 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 |
 | 33 | [Sticky Icky \(Roll Det\)](https://open.spotify.com/track/3k56wuGvKg3l9g1t61C9jW) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 3:00 |
 | 34 | [Slob on My Ckat](https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Slob on My Ckat](https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1) | 2:28 |
 | 35 | [Hold On Yeah](https://open.spotify.com/track/6M41zLwqgg0hK2ELUaVnH9) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:25 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 41 | [Sexyy](https://open.spotify.com/track/0MeW6WVJH6ogfpVxKg61CG) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 3:17 |
 | 42 | [FYM](https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FYM](https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG) | 2:40 |
 | 43 | [Throw That Mf](https://open.spotify.com/track/7sWUDFmphDkMZI5GboXscb) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throw That Mf](https://open.spotify.com/album/0cHwkVrWatS1hHHfDzewJ2) | 2:07 |
-| 44 | [Area Codes \(314 Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/36pwNmujPFvx0IwdR2GYqU) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Area Codes: The Remixes](https://open.spotify.com/album/4rOzFoHxBS1O7H4Rv0Xbk8) | 2:17 |
-| 45 | [My Twin](https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [My Twin](https://open.spotify.com/album/7bHnK6ophizURvIWgEKUyE) | 2:48 |
-| 46 | [Ghetto Freestyle](https://open.spotify.com/track/14cDqt0n4v50DerFfFpBXD) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:37 |
+| 44 | [My Twin](https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [My Twin](https://open.spotify.com/album/7bHnK6ophizURvIWgEKUyE) | 2:48 |
+| 45 | [Ghetto Freestyle](https://open.spotify.com/track/14cDqt0n4v50DerFfFpBXD) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:37 |
+| 46 | [Area Codes \(314 Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/36pwNmujPFvx0IwdR2GYqU) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Area Codes: The Remixes](https://open.spotify.com/album/4rOzFoHxBS1O7H4Rv0Xbk8) | 2:17 |
 | 47 | [Push Start](https://open.spotify.com/track/0iwW0dxjJk0sA08HNyDscr) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Push Start](https://open.spotify.com/album/7xuDlK70JLIameLE27289x) | 2:48 |
 | 48 | [Northside](https://open.spotify.com/track/03t5G8yq7OkU7zK2gFy0OA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Northside](https://open.spotify.com/album/14DUsgTIeAW8GhMsZVeQsN) | 3:00 |
-| 49 | [Don't Get Beat](https://open.spotify.com/track/5pcTiNM6KXYjvOEgmKxIXH) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Don't Get Beat](https://open.spotify.com/album/5zfiG2ja4Nh4OBph2QAOMK) | 2:21 |
-| 50 | [FaceTime](https://open.spotify.com/track/4KbbzhLFx8pGzQ8EJkqNFx) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:31 |
+| 49 | [FaceTime](https://open.spotify.com/track/4KbbzhLFx8pGzQ8EJkqNFx) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:31 |
+| 50 | [Don't Get Beat](https://open.spotify.com/track/5pcTiNM6KXYjvOEgmKxIXH) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Don't Get Beat](https://open.spotify.com/album/5zfiG2ja4Nh4OBph2QAOMK) | 2:21 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBjZmQ5ZDMyM2E5OGVjNTQxNDE5MDhmYmEzMTA1ZGU2Nw==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBkODQ3MTExNjI1MDJhNzVjNjYyNGQ3ZmI1MTgzYzZmYQ==`

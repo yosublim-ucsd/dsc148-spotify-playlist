@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Blusher.",
-  "num_followers": 59048,
+  "num_followers": 59071,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGJkODFlODkzZmNlMTM3MzYwMmUwYzBkZTNkN2NjYTdhNjIxMjc1",
+  "snapshot_id": "MCw5NjlhZjI1NTVmNGMzZTQ5YTgxYTk0NjIwOWFkNWI4Mzg0MmUwNDJm",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
     },
     {
-      "added_at": "2023-10-27 06:00:00",
-      "album": {
-        "name": "1.6",
-        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 175304,
-      "name": "HINATA",
-      "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
-    },
-    {
       "added_at": "2024-02-09 06:00:00",
       "album": {
         "name": "ME DUELE QUERERTE",
@@ -215,6 +199,22 @@
       "duration_ms": 146966,
       "name": "ME DUELE QUERERTE",
       "url": "https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA"
+    },
+    {
+      "added_at": "2023-10-27 06:00:00",
+      "album": {
+        "name": "1.6",
+        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 175304,
+      "name": "HINATA",
+      "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7"
     },
     {
-      "added_at": "2023-10-27 10:47:14",
-      "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 148074,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "GIAYPHUT",
@@ -457,6 +441,38 @@
       "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
     },
     {
+      "added_at": "2023-10-27 10:47:14",
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 148074,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Kisah Yang Lain",
+        "url": "https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "duration_ms": 242822,
+      "name": "Kisah Yang Lain",
+      "url": "https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az"
+    },
+    {
       "added_at": "2023-12-07 06:00:00",
       "album": {
         "name": "Jadoo",
@@ -487,22 +503,6 @@
       "duration_ms": 245201,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Kisah Yang Lain",
-        "url": "https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss"
-      },
-      "artists": [
-        {
-          "name": "Anggi Marito",
-          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
-        }
-      ],
-      "duration_ms": 242822,
-      "name": "Kisah Yang Lain",
-      "url": "https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
     },
     {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "F\u00fchrerschein",
-        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 242671,
-      "name": "F\u00fchrerschein",
-      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
-    },
-    {
       "added_at": "2023-11-17 06:00:00",
       "album": {
         "name": "in real life",
@@ -643,6 +627,22 @@
       "duration_ms": 142857,
       "name": "NIE OTWIERAJ DRZWI",
       "url": "https://open.spotify.com/track/3xMn54eE8d34T9lcsuWLey"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "F\u00fchrerschein",
+        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 242671,
+      "name": "F\u00fchrerschein",
+      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF"
     },
     {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Also was jetzt?",
-        "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 160082,
-      "name": "Mond",
-      "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
-    },
-    {
       "added_at": "2024-01-26 06:00:00",
       "album": {
         "name": "Combo",
@@ -805,20 +789,20 @@
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
+      "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Hoa C\u1ecf Lau",
-        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
+        "name": "Also was jetzt?",
+        "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
       },
       "artists": [
         {
-          "name": "Phong Max",
-          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
         }
       ],
-      "duration_ms": 210820,
-      "name": "Hoa C\u1ecf Lau",
-      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
+      "duration_ms": 160082,
+      "name": "Mond",
+      "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -837,6 +821,22 @@
       "url": "https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY"
     },
     {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Hoa C\u1ecf Lau",
+        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
+      },
+      "artists": [
+        {
+          "name": "Phong Max",
+          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
+        }
+      ],
+      "duration_ms": 210820,
+      "name": "Hoa C\u1ecf Lau",
+      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
+    },
+    {
       "added_at": "2023-10-20 06:00:00",
       "album": {
         "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
@@ -851,6 +851,22 @@
       "duration_ms": 203011,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Krishna sang Radha",
+        "url": "https://open.spotify.com/album/2uUFXxGxjpBw5A554xP2Ll"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Krishna sang Radha",
+      "url": "https://open.spotify.com/track/3qo3osfNpgjILcztncqWPX"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -885,20 +901,20 @@
       "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
-      "added_at": "2024-02-09 06:00:00",
+      "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Krishna sang Radha",
-        "url": "https://open.spotify.com/album/2uUFXxGxjpBw5A554xP2Ll"
+        "name": "Alta Tensione",
+        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
       },
       "artists": [
         {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
         }
       ],
-      "duration_ms": 222500,
-      "name": "Krishna sang Radha",
-      "url": "https://open.spotify.com/track/3qo3osfNpgjILcztncqWPX"
+      "duration_ms": 153200,
+      "name": "Alta Tensione",
+      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -917,20 +933,20 @@
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Alta Tensione",
-        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
+        "name": "OIK",
+        "url": "https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1"
       },
       "artists": [
         {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
         }
       ],
-      "duration_ms": 153200,
-      "name": "Alta Tensione",
-      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
+      "duration_ms": 159069,
+      "name": "OIK",
+      "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -955,22 +971,6 @@
       "duration_ms": 130039,
       "name": "GENNAIO 24",
       "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "OIK",
-        "url": "https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1"
-      },
-      "artists": [
-        {
-          "name": "163 braces",
-          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "OIK",
-      "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
     },
     {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 184795,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
-    },
-    {
       "added_at": "2023-12-07 06:00:00",
       "album": {
         "name": "Two Moon",
@@ -1117,20 +1101,20 @@
       "url": "https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ"
     },
     {
-      "added_at": "2023-09-01 09:20:13",
+      "added_at": "2024-02-02 09:24:46",
       "album": {
-        "name": "Khamakhaa",
-        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
       },
       "artists": [
         {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
         }
       ],
-      "duration_ms": 179210,
-      "name": "Khamakhaa",
-      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
+      "duration_ms": 180812,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1149,20 +1133,36 @@
       "url": "https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S"
     },
     {
-      "added_at": "2024-02-02 09:24:46",
+      "added_at": "2023-09-01 09:20:13",
       "album": {
-        "name": "Born To Lose",
-        "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
+        "name": "Khamakhaa",
+        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
       },
       "artists": [
         {
-          "name": "Elle Coves",
-          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
         }
       ],
-      "duration_ms": 180812,
-      "name": "Born To Lose",
-      "url": "https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X"
+      "duration_ms": 179210,
+      "name": "Khamakhaa",
+      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 184795,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
     },
     {
       "added_at": "2024-02-02 09:24:46",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/4odsSGg1pT5Qrpj3ZOqQx0"
     },
     {
-      "added_at": "2023-12-07 06:00:00",
-      "album": {
-        "name": "WE'LL DIE THIS WAY",
-        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "PRO",
-      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
-    },
-    {
       "added_at": "2024-02-09 06:00:00",
       "album": {
         "name": "Girls Night",
@@ -1227,6 +1211,22 @@
       "duration_ms": 197095,
       "name": "Girls Night",
       "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
+    },
+    {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
     },
     {
       "added_at": "2024-02-02 14:58:23",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX"
     },
     {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "LOSTWITHOUTMARIA",
+        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 154104,
+      "name": "LOSTWITHOUTMARIA",
+      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
+    },
+    {
       "added_at": "2023-10-13 06:00:00",
       "album": {
         "name": "Eleven Songs",
@@ -1349,6 +1365,22 @@
       "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
     },
     {
+      "added_at": "2023-07-07 07:23:00",
+      "album": {
+        "name": "Kenaniah",
+        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "duration_ms": 280769,
+      "name": "Totoo",
+      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
+    },
+    {
       "added_at": "2023-11-23 06:00:00",
       "album": {
         "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
@@ -1371,34 +1403,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "LOSTWITHOUTMARIA",
-        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
       },
       "artists": [
         {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
         }
       ],
-      "duration_ms": 154104,
-      "name": "LOSTWITHOUTMARIA",
-      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
-    },
-    {
-      "added_at": "2023-07-07 07:23:00",
-      "album": {
-        "name": "Kenaniah",
-        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
-      },
-      "artists": [
-        {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
-        }
-      ],
-      "duration_ms": 280769,
-      "name": "Totoo",
-      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
+      "duration_ms": 187775,
+      "name": "LDN GRLS - Gboyega's Theme",
+      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
     },
     {
       "added_at": "2023-12-01 06:29:10",
@@ -1419,22 +1435,6 @@
       "duration_ms": 158507,
       "name": "Mi\u0142o\u015b\u0107 w czasach",
       "url": "https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
-      },
-      "artists": [
-        {
-          "name": "Love Remain",
-          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
-        }
-      ],
-      "duration_ms": 187775,
-      "name": "LDN GRLS - Gboyega's Theme",
-      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Doll",
-        "url": "https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3"
-      },
-      "artists": [
-        {
-          "name": "Arches",
-          "url": "https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR"
-        }
-      ],
-      "duration_ms": 211913,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC"
-    },
-    {
       "added_at": "2024-02-09 06:00:00",
       "album": {
         "name": "Antes",
@@ -1583,6 +1567,22 @@
       "duration_ms": 167997,
       "name": "imagining things",
       "url": "https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Doll",
+        "url": "https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3"
+      },
+      "artists": [
+        {
+          "name": "Arches",
+          "url": "https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR"
+        }
+      ],
+      "duration_ms": 211913,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl"
     },
     {
-      "added_at": "2023-10-11 14:30:00",
-      "album": {
-        "name": "Naz",
-        "url": "https://open.spotify.com/album/6uTzHHdZEfYVw26JY970QZ"
-      },
-      "artists": [
-        {
-          "name": "Sena \u015eahin",
-          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Naz",
-      "url": "https://open.spotify.com/track/4BQN5kE1xzJoBSoG75Sedr"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "Boomerang",
@@ -1631,6 +1615,22 @@
       "duration_ms": 196956,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/3N6SFaFJWGirRC5nWIDLvD"
+    },
+    {
+      "added_at": "2023-10-11 14:30:00",
+      "album": {
+        "name": "Naz",
+        "url": "https://open.spotify.com/album/6uTzHHdZEfYVw26JY970QZ"
+      },
+      "artists": [
+        {
+          "name": "Sena \u015eahin",
+          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Naz",
+      "url": "https://open.spotify.com/track/4BQN5kE1xzJoBSoG75Sedr"
     },
     {
       "added_at": "2023-10-13 06:00:00",

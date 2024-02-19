@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,813 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,812 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 15 | [Tutti I Miei Ricordi](https://open.spotify.com/track/6TcnHPvUaY3OH6SKKiS2N1) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/38nebQ0IpOOQ4y8OERnIwZ) | 3:24 |
 | 16 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
 | 17 | [CON\(TORTA\)...](https://open.spotify.com/track/1DJZ3oXntTxMIeqQKodeX0) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Con\(torta\)](https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd) | 3:16 |
-| 18 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 |
-| 19 | [DIAMANTI GREZZI](https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [DIAMANTI GREZZI](https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV) | 3:12 |
+| 18 | [DIAMANTI GREZZI](https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 3:12 |
+| 19 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 |
 | 20 | [6 PM](https://open.spotify.com/track/5Lh0AgBMU1xRNLZ8iPW4bS) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [6 PM](https://open.spotify.com/album/7hrXbPpSWQ4xd1uuOnAuT5) | 3:08 |
 | 21 | [Giove](https://open.spotify.com/track/7B6OCZyGDckCQvg839dN7N) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 2:44 |
 | 22 | [Tasche](https://open.spotify.com/track/2MLEfq2eP8lGfQaupsALXc) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tasche](https://open.spotify.com/album/1Vtj0G5V5TjH7AE5SVwhRe) | 3:17 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 46 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 47 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
 
-Snapshot ID: `Mjg0NzAzNjAsMDAwMDAwMDAzZjE1MTM3YjIyMzMyYmVmYjI0N2QyMzcyNTY4OWRiZg==`
+Snapshot ID: `Mjg0NzE4MDAsMDAwMDAwMDAzMTgwMTUyMjYwYWZlZmQ1MmFjOWJiMzYyZWE2Y2JhZg==`

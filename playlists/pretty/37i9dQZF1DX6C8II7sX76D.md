@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,509 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,536 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 32 | [Ain't No Way 2024](https://open.spotify.com/track/4R2lfQVqaPgvqt3gwMcj6I) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [The Riddler](https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l) | [Ain't No Way 2024](https://open.spotify.com/album/0hnWRdRsayfrvFEKurtWJD) | 2:58 |
 | 33 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
 | 34 | [I Just Need \(with Lyrah\)](https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \(with Lyrah\)](https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck) | 2:26 |
-| 35 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
-| 36 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
+| 35 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
+| 36 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 37 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 |
 | 38 | [Miss You \- Bonus Track](https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 3:26 |
 | 39 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 50 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
 
-Snapshot ID: `MCxiNjIwYWQwNDlhYWNlM2NhZWY1NjI3NzcyN2UwYTAyNWY5NGI0NDhh`
+Snapshot ID: `MCwxYzFlNTI4NmU1Y2EzMzVhMzE1MTYzZTg2MTBjM2M2YjJjNDM3OTVi`

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 30092,
+  "2024-02-19": 30121,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Addy Nagar",
   "name": "Hip-Hop Haryanvi",
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 240000,
       "name": "Kalam",
       "url": "https://open.spotify.com/track/4uJPEOUXnM7lJ1POTT0bqV"
@@ -3633,6 +3633,28 @@
       "duration_ms": 193527,
       "name": "TAMASHA",
       "url": "https://open.spotify.com/track/4T8C29foDJgAbVNKZT14Vq"
+    },
+    {
+      "album": {
+        "name": "21.22",
+        "url": "https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        },
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tera Shahar",
+      "url": "https://open.spotify.com/track/2Ve3umbXJFvaACYqqOzGz5"
     },
     {
       "album": {

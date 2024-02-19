@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,231 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,492 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 40 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
 | 41 | [We Don't Fight Anymore](https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [We Don't Fight Anymore](https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m) | 3:40 |
 | 42 | [Dancin’ In The Country](https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 2:59 |
-| 43 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
+| 43 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 |
 | 44 | [goodbye looks good on you \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/2otAb5kIGdZzJCqcUHNztT) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 2:51 |
-| 45 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 |
+| 45 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 46 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
 | 47 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 |
 | 48 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 68 | [Ain't Missin' You](https://open.spotify.com/track/7tthSTXf5hvLdzW8fb2Kzy) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/023kFfJCSir9ZO6PjS13UB) | 2:56 |
 | 69 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
 | 70 | [Watermelon Moonshine](https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
-| 71 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 |
-| 72 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
+| 71 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
+| 72 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 |
 | 73 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
 | 74 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
 | 75 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 93 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 |
 | 94 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
 | 95 | [God Gave Me A Girl](https://open.spotify.com/track/7kkLBfxW41iVO0cdLU9e9S) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Russell Dickerson](https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8) | 3:07 |
-| 96 | [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 |
-| 97 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
+| 96 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
+| 97 | [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 |
 | 98 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 |
 | 99 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
 | 100 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 |
 
-Snapshot ID: `MCxjNjRlMjFlOGU5YWJkNGJhNzZlZmI5ZWFhNWZiMjcwMzM5MWFhODc0`
+Snapshot ID: `MCxmNmExNjJkN2I3OTcyNmZmYTFhMzk2M2RiMDU1M2VlZmRlNGMwZDY5`

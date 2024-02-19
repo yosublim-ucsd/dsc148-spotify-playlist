@@ -4,7 +4,7 @@
 
 > de peda en peda me la llevo todo el fin
 
-189 songs - 11 hr 37 min
+190 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2023-01-18 | 2023-10-20 |
 | [Golpes En El Corazón](https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:41 | 2023-10-19 | 2023-12-02 |
 | [GOZANDO](https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [GOZANDO](https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH) | 2:51 | 2023-12-01 |  |
-| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2023-12-01 |  |
+| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2023-12-01 | 2024-02-19 |
+| [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 | 2023-12-01 |  |
 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-12-01 |  |
 | [Hasta Que Te Conocí](https://open.spotify.com/track/6r8t20G50P998dip0uc4Py) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [La Historia Del Piano De América](https://open.spotify.com/album/48A9pXe7Ru29bibYuWidFM) | 7:01 | 2023-10-19 | 2023-12-02 |
 | [Hay Otro En Tu Lugar](https://open.spotify.com/track/7uI0VJfZMt61a8TMGQw94R) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [10 De Coleccion](https://open.spotify.com/album/2O7jjxB4hcts359JvnybOC) | 3:10 | 2023-10-19 | 2023-12-02 |

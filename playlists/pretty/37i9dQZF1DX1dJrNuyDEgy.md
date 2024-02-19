@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,058 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,085 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 12 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 |
 | 13 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 |
 | 14 | [La Malagueña](https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 5:24 |
-| 15 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 |
-| 16 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 |
+| 15 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 |
+| 16 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 |
 | 17 | [Somos Mas Americanos](https://open.spotify.com/track/1grsm6TpzFbgxXEVa2PmmS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |
 | 18 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete, Trio Calaveras y Silvestre Vargas](https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8) | 2:25 |
 | 19 | [La Marcha De Zacatecas](https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 49 | [Los machetes](https://open.spotify.com/track/1xSDPL5ae24cnZFDwaIO6z) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Memorias Musicales del Mariachi](https://open.spotify.com/album/6DsXaAZwKKpOP1Lex4jDig) | 2:38 |
 | 50 | [La Cucaracha](https://open.spotify.com/track/4b0FVK3GdHI75vdUm8QrHV) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Aires de Mexico](https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi) | 2:28 |
 
-Snapshot ID: `MCw4ZDE1MzVmNDFkMmQ4NDdiMjYyMDM5MzIwMmFlZWYwNWZjOGZmMzg1`
+Snapshot ID: `MCwyYTJmNjc2ZDZhZTE5MDhhYmQ0OTViMDQ2ZWI5MDNiZmI1ZTEzOWY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 
 > The most romantic tracks of all time, featuring today's hits and all the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,049 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,276 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 51 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 52 | [You & I](https://open.spotify.com/track/2afCBiru10AFckfOa49wIa) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:57 |
 | 53 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
-| 54 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
-| 55 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 54 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 55 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 56 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
 | 57 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 |
 | 58 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 69 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 70 | [Rewrite The Stars](https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:37 |
 | 71 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
-| 72 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
-| 73 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
+| 72 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
+| 73 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 74 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 75 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 76 | [How Long Will I Love You](https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 2:34 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 84 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
 | 85 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 |
 | 86 | [Let's Get It On](https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | 4:51 |
-| 87 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
-| 88 | [Open Arms \(2022 Remaster\)](https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 3:19 |
+| 87 | [Open Arms \(2022 Remaster\)](https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 3:19 |
+| 88 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
 | 89 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
 | 90 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 |
 | 91 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
 | 92 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
 | 93 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 |
-| 94 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
-| 95 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
-| 96 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
+| 94 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
+| 95 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
+| 96 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
 | 97 | [Faithfully \(2023 Remaster\)](https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 4:26 |
 | 98 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 99 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 100 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 
-Snapshot ID: `MCxmMDYyMjIxNDI0OTFmMzRkYTZlZGQxZDE1ZjEwNmJkYzI5NDA3YjE5`
+Snapshot ID: `MCxkYTc0YjgwYTU4ODFjZjJkNThmZTMyNzY3MzFmMTI5ZGVjNmJlMTA1`

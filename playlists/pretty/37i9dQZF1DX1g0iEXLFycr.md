@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,636 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,598 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 89 | [Place Your Hands](https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [Together \- The Best Of](https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq) | 3:37 |
 | 90 | [Sunchyme \(Radio Edit\) \[Instrumental\] \- 2023 Remaster](https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine \(25th Anniversary Edition\)](https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU) | 3:55 |
 | 91 | [When I Was A Youngster](https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Stereo Typical](https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp) | 2:55 |
-| 92 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
-| 93 | [Shine](https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 4:15 |
-| 94 | [I Will Never Let You Down](https://open.spotify.com/track/03rhu2vIylSFLUagt7wi5D) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/7iiXSRiQJch2XontyEzOcG) | 3:23 |
+| 92 | [I Will Never Let You Down](https://open.spotify.com/track/03rhu2vIylSFLUagt7wi5D) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/7iiXSRiQJch2XontyEzOcG) | 3:23 |
+| 93 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
+| 94 | [Shine](https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 4:15 |
 | 95 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 |
 | 96 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
 | 97 | [Between You and Me](https://open.spotify.com/track/1k0HaXwqnev6ITPjYqvtxF) | [One Bit](https://open.spotify.com/artist/7jlMwr0xUcRO1xS6WjkkUT), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Between You and Me](https://open.spotify.com/album/1ZwqV0aR3jirvbjp96bLQn) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 99 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 |
 | 100 | [Bright Idea](https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae) | [Orson](https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ) | [Bright Idea](https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG) | 4:14 |
 
-Snapshot ID: `MCw0MGZmNWFkYjJiNjE3MmI5YzJmOTQ3ZmMwYTg5ZjZlNDllNjI2MGNj`
+Snapshot ID: `MCxmZTFhNTQwMTZlMmIyNzE1MDAyZDBkM2JjODZkYWY1YTNmYWZjM2Zi`

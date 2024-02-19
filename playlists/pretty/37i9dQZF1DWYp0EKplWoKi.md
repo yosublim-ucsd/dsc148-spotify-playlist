@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde las estrellas de la Música Mexicana se juntan\. Piso 21, Eden Muñoz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,079 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,124 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 37 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 |
 | 38 | [Acelerado](https://open.spotify.com/track/0hUu9Q1KZ39VPDIRw9zZel) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Acelerado](https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y) | 3:01 |
 | 39 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
-| 40 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 |
+| 40 | [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 |
 | 41 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
 | 42 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 |
 | 43 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 |
 | 50 | [La Cumbia De La Baliniza](https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF) | [Los Cómplices](https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Cumbia De La Baliniza](https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc) | 2:47 |
 
-Snapshot ID: `MCxhZjUzMDhlYjFjNDM5Mzk4YzFlZTZhZmM5YjU5ZWU2ZmUyOGViZWRk`
+Snapshot ID: `MCwxZmIxNjFkOTNlNjRmZGQ4MmNkYjI5ZTZjZWE0OTg4Mzc4NDc3Zjg3`

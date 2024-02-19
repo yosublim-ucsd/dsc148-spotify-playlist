@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,708 likes - 105 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,725 likes - 105 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 3 | [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 |
 | 4 | [Overnight](https://open.spotify.com/track/5AxhA8xrGrHFqUjIVbrDk0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Overnight](https://open.spotify.com/album/3qGZswU9EIOUzL9nRaONit) | 2:10 |
 | 5 | [Drives](https://open.spotify.com/track/4MOjkGH2sVPELfgpZ5AvwK) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Drives](https://open.spotify.com/album/7fe0FHC1dSAzgBI6hix4zQ) | 2:53 |
-| 6 | [S.A.D](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
+| 6 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
 | 7 | [Fishnets](https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Fishnets](https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs) | 3:05 |
 | 8 | [TEA TIME](https://open.spotify.com/track/2dqCuDCcwHVZHWJnt8oT1L) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [TEA TIME](https://open.spotify.com/album/4Cn5xL9Bn15qCxIByqQYic) | 2:20 |
 | 9 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 104 | [safe to say](https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [safe to say](https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA) | 2:02 |
 | 105 | [Walking Blind](https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Walking Blind](https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU) | 2:18 |
 
-Snapshot ID: `MCw5MjdhYmQ1NzYwN2JlNmFhYzQ1MDk0MTM3Y2ZkY2MwZDkzOTY3NzBi`
+Snapshot ID: `MCw4Y2E4NmNhMmRiZGY5NWY5NGYyZmQzMzFhMzNmY2JmMWEzMmQzOTVh`

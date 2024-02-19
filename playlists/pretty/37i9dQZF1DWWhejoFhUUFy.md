@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,446 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,541 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 53 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
 | 54 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 55 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 |
-| 56 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
-| 57 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
+| 56 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
+| 57 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
 | 58 | [Lagan Laagi Re](https://open.spotify.com/track/3bM0sCyyhglscs8EvsBZ36) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:38 |
 | 59 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 |
 | 60 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 70 | [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 |
 | 71 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 |
 | 72 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
-| 73 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
-| 74 | [Nindiya Re \- Studio Version](https://open.spotify.com/track/0NsYZt7iTFoLMw3pZTQEDQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Nindiya Re \(Studio Version\)](https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT) | 3:45 |
+| 73 | [Nindiya Re \- Studio Version](https://open.spotify.com/track/0NsYZt7iTFoLMw3pZTQEDQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Nindiya Re \(Studio Version\)](https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT) | 3:45 |
+| 74 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
 | 75 | [Aao Chalein](https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:05 |
 
-Snapshot ID: `MCw0ZDgyY2VlMjFiZmI2OThkYzRjM2Y0YzNmZDlhOGZhYmZiNGQ5N2Ni`
+Snapshot ID: `MCxjNDZmNzVlMTg0MzZiYTFmYjRiNmU5ZDNkNTVjMGU3ZjFlZDE4YjRh`

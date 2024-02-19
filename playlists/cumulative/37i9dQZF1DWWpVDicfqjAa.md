@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-303 songs - 19 hr 6 min
+304 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [House & Pressure](https://open.spotify.com/track/4BG03MHYQwuWENZ31vFlsV) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [House & Pressure](https://open.spotify.com/album/1KRUeWNgOQvxzJDTT9MApz) | 2:28 | 2023-11-02 |  |
 | [House of Helix](https://open.spotify.com/track/66fMWRocZy1nESetjcKcj6) | [CalvoMusic](https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo) | [Nights Into Mornings EP](https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea) | 3:22 | 2023-04-14 | 2023-07-21 |
 | [Inhale Exhale](https://open.spotify.com/track/0jl8XWES6VNZ5eMVvzZN0M) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Inhale Exhale](https://open.spotify.com/album/4PgKGF2Ey6keEkcbqGpAGv) | 3:25 | 2023-02-17 |  |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2024-02-02 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2024-02-02 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-16 |  |
 | [It Girl \(Jaded Remix\)](https://open.spotify.com/track/3zwsE6MoxEDKiPaJqIDv8h) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(Jaded Remix\)](https://open.spotify.com/album/1Q5xQLLBWToWgQuvg2jdLk) | 4:58 | 2023-03-08 | 2023-06-08 |
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2023-03-24 | 2023-04-15 |
 | [Jaiye \(Aluna and Sigag Lauren Remix\)](https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA) | [Jaiye \(Aluna and Sigag Lauren Remix\)](https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA) | 3:41 | 2022-09-08 | 2023-04-09 |

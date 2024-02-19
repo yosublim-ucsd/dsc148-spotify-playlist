@@ -1,12 +1,12 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 279897,
+  "num_followers": 280006,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTMwNDA3YzU4MjBhODhmNjEyNmYzZWEyNGM5YWU4NzA4MTJhNjIz",
+  "snapshot_id": "MCwwZTExMTk3ZDlhZjIwYTU4M2ViMjg4MzAzZjNlZmE3YjM4ZmZiYjg3",
   "tracks": [
     {
       "added_at": "2024-02-09 03:54:06",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "Kaikai Kitan / Ao No Waltz",
-        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 221426,
-      "name": "Kaikai Kitan",
-      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
+      "duration_ms": 198971,
+      "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
+      "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -667,18 +667,34 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 198971,
-      "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
-      "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
+      "duration_ms": 221426,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
+        "url": "https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 262984,
+      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
+      "url": "https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -703,22 +719,6 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
-        "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
-        "url": "https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 262984,
-      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
-      "url": "https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
       },
@@ -851,22 +835,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
       },
@@ -879,6 +847,38 @@
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -927,22 +927,6 @@
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "Stay Alive (Prod. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 210928,
-      "name": "Stay Alive (Prod. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
         "name": "CRAZY IN LOVE",
         "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 194765,
-      "name": "Lovesick Girls",
-      "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1231,22 +1215,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "SET ME FREE",
-      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -1263,18 +1231,18 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 197093,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
+      "duration_ms": 194765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1295,22 +1263,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
@@ -1323,6 +1275,54 @@
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1371,22 +1371,6 @@
       "duration_ms": 335465,
       "name": "HEART BEAT",
       "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
         "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
         "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "\u5730\u7403\u5100 - Spinning Globe",
-        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100 - Spinning Globe",
-      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "Hello Future - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 182453,
       "name": "Cheshire",
       "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "\u71c8",
-        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
-      },
-      "artists": [
-        {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "\u71c8",
-      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
     }
   ],
   "unique_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,588 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,622 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 42 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 | 43 | [atlas](https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO) | [hard to dream](https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq) | 3:52 |
 | 44 | [Something to Say](https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Something to Say](https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri) | 4:04 |
-| 45 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
-| 46 | [Stranger](https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:19 |
-| 47 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
+| 45 | [Stranger](https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:19 |
+| 46 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
+| 47 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
 | 48 | [Calm Before the Storm](https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Calm Before the Storm](https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q) | 3:55 |
 | 49 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 |
 | 50 | [Still Mighty](https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Still Mighty](https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs) | 3:52 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 53 | [Rooftops](https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Rooftops](https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq) | 2:49 |
 | 54 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 |
 | 55 | [Somebody](https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Somebody](https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E) | 3:12 |
-| 56 | [Finish Line](https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Treehouse](https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn) | 3:37 |
-| 57 | [Peter](https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Move of Heaven](https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD) | 5:39 |
-| 58 | [Heaven Is Everywhere](https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heaven Is Everywhere](https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1) | 3:54 |
+| 56 | [Peter](https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Move of Heaven](https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD) | 5:39 |
+| 57 | [Heaven Is Everywhere](https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heaven Is Everywhere](https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1) | 3:54 |
+| 58 | [Finish Line](https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Treehouse](https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn) | 3:37 |
 | 59 | [Every Morning](https://open.spotify.com/track/17P6kojDstdaw65xDCOARU) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Every Morning](https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy) | 3:43 |
 | 60 | [WILD THINGS](https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g), [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW), [TRAPSHIP COLLECTIVE](https://open.spotify.com/artist/7CsdYLl6ItJb7WK7Kak1Sz) | [WILD THINGS](https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i) | 3:03 |
 | 61 | [Way, Truth, Life](https://open.spotify.com/track/5INCnWloUf354udWzwGgYs) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Naomi Mae](https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK) | [Way, Truth, Life](https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB) | 2:53 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 67 | [Broken Places](https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Broken Places](https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF) | 4:15 |
 | 68 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
 | 69 | [Raise Up](https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Stages Of A Breakdown](https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT) | 3:12 |
-| 70 | [Lifeline](https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Closer](https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw) | 3:12 |
-| 71 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 |
+| 70 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 |
+| 71 | [Lifeline](https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Closer](https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw) | 3:12 |
 | 72 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 |
 | 73 | [Fighting Myself](https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Fighting Myself](https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx) | 3:38 |
 | 74 | [Give My All](https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [Give My All](https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [Here We Are](https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Praise](https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY) | 3:52 |
 | 100 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 
-Snapshot ID: `MCwzNDEyMDkyOGI5MzNhMWQzNjk3YmM4MTU2NGFlZjgzNGY2Y2UwOTU2`
+Snapshot ID: `MCw3MWNiNzZmZmI2Yzc4MzlmMDdjNmY0MWNmM2IwYmFlZDNjMmZkNjhk`

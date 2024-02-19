@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 231315,
+  "num_followers": 231432,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjUzZmZjYjRiZjYyOGE3MTc3MGNmMDA5MTNiNTFhYjNiOTM4OWUy",
+  "snapshot_id": "MCwzMDBiYzIyYzJjYmUwMDU3ZGY3YzRiNzhkNmU0NjdkNjA0YmM3ODFl",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -323,22 +323,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
+        "name": "Get to Me",
+        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
       },
       "artists": [
         {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 195818,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc"
+      "duration_ms": 198373,
+      "name": "Get to Me",
+      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -359,18 +355,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Get to Me",
-        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Get to Me",
-      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+      "duration_ms": 195818,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "A Good Thing",
-        "url": "https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS"
-      },
-      "artists": [
-        {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
-        },
-        {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
-        }
-      ],
-      "duration_ms": 172940,
-      "name": "A Good Thing",
-      "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "So Much To Say (Pt. III)",
         "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 164542,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "A Good Thing",
+        "url": "https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        }
+      ],
+      "duration_ms": 172940,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Freedom Dance",
-        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 224606,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "I Rely",
-        "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "I Rely",
-      "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "GOOD TO ME",
         "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 207840,
       "name": "GOOD TO ME",
       "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "I Rely",
+        "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "I Rely",
+      "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Your Love Will Never Change",
-        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Your Love Will Never Change",
-      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "MAN-UH",
         "url": "https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe"
       },
@@ -1035,6 +1019,54 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Your Love Will Never Change",
+        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Your Love Will Never Change",
+      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Thousands of Years",
+        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 181352,
+      "name": "Thousands of Years",
+      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "HOMIE",
         "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
       },
@@ -1059,38 +1091,6 @@
       "duration_ms": 153083,
       "name": "HOMIE",
       "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Thousands of Years",
-        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 181352,
-      "name": "Thousands of Years",
-      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "With Him",
-        "url": "https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH"
-      },
-      "artists": [
-        {
-          "name": "Kaye-Marie",
-          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "With Him",
-      "url": "https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 214736,
       "name": "Liar",
       "url": "https://open.spotify.com/track/4kKP41Wo6UVb2rZpKZEgyg"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "With Him",
+        "url": "https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH"
+      },
+      "artists": [
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "With Him",
+      "url": "https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "For Your Grace",
         "url": "https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 200605,
       "name": "For Your Grace",
       "url": "https://open.spotify.com/track/5iZP8YJeKHZticyPAbJjyW"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4upyzpqbWE0SvJvn8ZimeQ"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/3ezoX2cVZKnRy1frok8PQC"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Lover of My Soul",
         "url": "https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 202434,
       "name": "Lover of My Soul",
       "url": "https://open.spotify.com/track/4YvMr5qhiFghZLsf0KUXio"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4upyzpqbWE0SvJvn8ZimeQ"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/3ezoX2cVZKnRy1frok8PQC"
     },
     {
       "added_at": "2024-01-12 07:49:20",

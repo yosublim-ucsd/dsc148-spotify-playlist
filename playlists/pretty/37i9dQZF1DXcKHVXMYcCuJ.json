@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144200,
+  "num_followers": 144211,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTFhZjQ4YWViYTIyMTg2NTFlOWY5MmUyNzNhMDYxZTU4Zjc2NDAy",
+  "snapshot_id": "MCwxMmRiN2FlMjZjMzY4YTQ3YjY4ZGIxMTgzZjM0YTc1YzQ3MGIzMWM4",
   "tracks": [
     {
       "added_at": "2024-01-18 09:41:12",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Millennial",
-        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 106420,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
+      "duration_ms": 165506,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "The Balance",
-        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 165506,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy"
+      "duration_ms": 106420,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "The Rift",
-      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Gish (Deluxe Edition)",
         "url": "https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 308773,
       "name": "Snail - Remastered 2011",
       "url": "https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 458293,
+      "name": "Thru The Eyes Of Ruby - Remastered 2012",
+      "url": "https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
         "name": "Wiretap Scars",
         "url": "https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 198160,
       "name": "Used For Glue",
       "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 458293,
-      "name": "Thru The Eyes Of Ruby - Remastered 2012",
-      "url": "https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "to me",
-        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 243329,
-      "name": "to me",
-      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
+        "name": "to me",
+        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
       },
       "artists": [
         {
-          "name": "Superchunk",
-          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
         }
       ],
-      "duration_ms": 281173,
-      "name": "Driveway to Driveway",
-      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
+      "duration_ms": 243329,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1611,6 +1595,22 @@
       "duration_ms": 201933,
       "name": "57",
       "url": "https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
+      },
+      "artists": [
+        {
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Driveway to Driveway",
+      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

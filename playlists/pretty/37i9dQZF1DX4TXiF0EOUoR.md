@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,092 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,242 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 28 | [Huapango el Pistolero](https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 3:20 |
 | 29 | [El Ahualulco](https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Que Bonito Es Lo Bonito](https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl) | 2:46 |
 | 30 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
-| 31 | [El Muchacho Alegre](https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Decimo Aniversario](https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF) | 3:19 |
-| 32 | [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 |
+| 31 | [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 |
+| 32 | [El Muchacho Alegre](https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Decimo Aniversario](https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF) | 3:19 |
 | 33 | [Por Una Lagrima](https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:58 |
 | 34 | [El Son de la Tambora](https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [Puras Pa'levantar la Polvadera](https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F) | 2:51 |
 | 35 | [El Jaripeo](https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Esta...Si! Es Banda! Pegando Con Tubo](https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5) | 2:39 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 41 | [La Gitanilla \- En VIvo](https://open.spotify.com/track/4ltMP51sYJbA6LZP91jtoK) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(En Vivo\)](https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj) | 3:12 |
 | 42 | [El Guapo](https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [El Guapo](https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP) | 3:08 |
 | 43 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
-| 44 | [Mujer Interesada](https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:40 |
+| 44 | [Mi Gusto Es](https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Era Cab \- El Viejo](https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu) | 2:33 |
 | 45 | [Cinco De Té \- En Vivo](https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Parranda De Los Amigos \(Vol\. 2 / En Vivo\)](https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX) | 3:40 |
-| 46 | [Mi Gusto Es](https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Era Cab \- El Viejo](https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu) | 2:33 |
+| 46 | [Mujer Interesada](https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:40 |
 | 47 | [Al Estilo Potosí: El Pistolero / Ordeñando la Vaca / Cuando los Frijoles Bailan](https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 4:24 |
 | 48 | [Los Enanitos](https://open.spotify.com/track/4ZLhxHhBhApFccTNllmxMK) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:47 |
 | 49 | [Sangoloteadito](https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ) | [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Homenaje a un Grande](https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1) | 2:47 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 78 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
 | 79 | [El Olotito \- En Vivo](https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt) | 2:47 |
 | 80 | [El Sauce y la Palma](https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:15 |
-| 81 | [La Vaquilla](https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k) | 3:12 |
-| 82 | [Por el Puro Gusto \- Puro Añuuu Weiii](https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Por el Puro Gusto \(Puro Añuuu Weiii\)](https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT) | 2:08 |
+| 81 | [Por el Puro Gusto \- Puro Añuuu Weiii](https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Por el Puro Gusto \(Puro Añuuu Weiii\)](https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT) | 2:08 |
+| 82 | [La Vaquilla](https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k) | 3:12 |
 | 83 | [Los Once Pueblos](https://open.spotify.com/track/3r6RZczKIOru45X6M7YzQQ) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:15 |
 | 84 | [Popurrí: Bésame Morenita / La Loba del Mal / Las Guilotas](https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV) | [Banda Cruz De La Candelaria](https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr) | [Y de Aquí Pal Real \- La Herencia del Rey](https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR) | 4:34 |
 | 85 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [La Vaquilla, El Pájaro Chogüi](https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 5:00 |
 | 100 | [El Colirio](https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:07 |
 
-Snapshot ID: `MCwyNjc1NGIyOGRmMmNiN2YwMzQ3NzhjMDQyOTA0ZmFmMGFhYzFiMDZi`
+Snapshot ID: `MCw3N2M4ZDMyNjc3YmRkMmMwZTY3M2YwYTE2Njc1ZDc5ODMzMTA3OTM0`

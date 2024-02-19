@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover:  Strongman
 
-417 songs - 21 hr 4 min
+418 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Find My Way](https://open.spotify.com/track/6mEANMBVUXc5TS996pevl8) | [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E) | [Big Mafioso Not Guilty](https://open.spotify.com/album/2gDFdv7wzMnzApKlIBYGud) | 3:26 | 2023-06-02 | 2023-06-10 |
 | [Fine](https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Fine](https://open.spotify.com/album/2xS0FKkPCvYQuHW2lel1lp) | 2:41 | 2023-11-24 | 2024-01-05 |
 | [Finesse](https://open.spotify.com/track/0tVYiZ24VNX1qkneRl9R5C) | [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP) | [Finesse](https://open.spotify.com/album/4YJxiU98oIImqFmuqsT0ng) | 1:58 | 2023-12-08 | 2024-01-05 |
-| [Fire](https://open.spotify.com/track/75PVJ4G4p6lBGSIOn1jhoc) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fire](https://open.spotify.com/album/2hlL9lYpRlJrjtlUeazYz4) | 4:04 | 2023-05-04 |  |
+| [Fire](https://open.spotify.com/track/49Y4yVawnNjt4HTSTxqsJP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fire](https://open.spotify.com/album/7d378pcfq6kBgDsxrn73Ko) | 4:04 | 2024-02-16 |  |
+| [Fire](https://open.spotify.com/track/75PVJ4G4p6lBGSIOn1jhoc) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fire](https://open.spotify.com/album/2hlL9lYpRlJrjtlUeazYz4) | 4:04 | 2023-05-04 | 2024-02-19 |
 | [Fire \- Remix](https://open.spotify.com/track/27413RLXJwf8qnCuJynC66) | [Kwame Vybz](https://open.spotify.com/artist/16MxvE6X1uGG7ddY3XLgdY), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Fire \(Remix\)](https://open.spotify.com/album/3rex4m0MhEg1FzcUPcyT0K) | 3:28 | 2022-08-12 | 2023-09-29 |
 | [First in Class](https://open.spotify.com/track/6NmwEiA27SB5k66nA2VBXp) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Paedae Drop a Flow](https://open.spotify.com/album/604se8iMB1MPJW9VGpSYkk) | 3:52 | 2022-07-04 | 2023-09-29 |
 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 | 2022-06-24 | 2022-12-09 |

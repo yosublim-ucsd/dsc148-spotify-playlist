@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 343965,
+  "num_followers": 344107,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2JiM2UyMjE4YWMyYWJhOGNjZTM0NTRmNDgyNDQ4OTU3YWNmMTlh",
+  "snapshot_id": "MCw1NWZkNmM2OTg0MmE2NDU1MGZmNmFkY2YzOWI4M2NkZTMyOWY1NzRj",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
       "artists": [
         {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Conway Twitty Sings",
-        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
         }
       ],
-      "duration_ms": 132026,
-      "name": "It's Only Make Believe",
-      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 142693,
+      "name": "The Theme from \"A Summer Place\"",
+      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Rock with Sedaka (Expanded Edition)",
         "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 142693,
-      "name": "The Theme from \"A Summer Place\"",
-      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
     },
     {
       "added_at": "2022-05-30 12:59:00",

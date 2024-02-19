@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 142091,
+  "2024-02-19": 142672,
   "date_first_scraped": "2023-08-11",
   "description": "what's the move?",
   "name": "Pregame",
@@ -181,7 +181,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 343150,
       "name": "Bad and Boujee (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
@@ -2243,6 +2243,24 @@
       "duration_ms": 270670,
       "name": "trademark usa",
       "url": "https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk"
+    },
+    {
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "album": {

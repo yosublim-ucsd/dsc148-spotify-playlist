@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 71362,
+  "2024-02-19": 71373,
   "date_first_scraped": "2022-09-09",
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
   "name": "This Is Maren Morris",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 194453,
       "name": "A Song for Everything",
       "url": "https://open.spotify.com/track/59C9WyONT72bKyaystIzjq"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 211747,
       "name": "Drunk Girls Don't Cry",
       "url": "https://open.spotify.com/track/5zpZxvuwfG7IXZ2s6iT8CN"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 208893,
       "name": "Rich",
       "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"

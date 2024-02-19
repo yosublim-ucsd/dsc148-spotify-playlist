@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: Re:name
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,041 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,058 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 50 | [沈丁花](https://open.spotify.com/track/6JpqwdFajjlWIWJ4QD6zBd) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [TRIANGLE](https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD) | 3:52 |
 | 51 | [面影](https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [面影](https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs) | 3:41 |
 | 52 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |
-| 53 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 |
+| 53 | [花瓶](https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 3:27 |
 | 54 | [まぶた](https://open.spotify.com/track/2TUKLEXyjtKOmTjJupAexh) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:16 |
-| 55 | [花瓶](https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 3:27 |
+| 55 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 |
 | 56 | [ホワイトアウト](https://open.spotify.com/track/6ueqIFxAqxPnFdZXKNPSrr) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 3:31 |
 | 57 | [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/4d0ivoN64aC4n3v5y2SaPq) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ハートブレイク・ダンスミュージック](https://open.spotify.com/album/1aqfxGXKz8tIvIi95ibwoW) | 2:47 |
-| 58 | [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 |
-| 59 | [愛してるって](https://open.spotify.com/track/5et9C4LRKM9hJjPzuZRhmv) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [DOPAMINE](https://open.spotify.com/album/4HvRTaeyzeSVXOHcPStadL) | 2:58 |
+| 58 | [愛してるって](https://open.spotify.com/track/5et9C4LRKM9hJjPzuZRhmv) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [DOPAMINE](https://open.spotify.com/album/4HvRTaeyzeSVXOHcPStadL) | 2:58 |
+| 59 | [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 |
 | 60 | [月が綺麗だって](https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [月が綺麗だって](https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj) | 4:28 |
 | 61 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 |
 | 62 | [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 99 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 |
 | 100 | [Any](https://open.spotify.com/track/5Daxs3uXYluqXbyrIIHbG3) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Any](https://open.spotify.com/album/6YP2GEUk3S6r1rY1pgf2Jz) | 3:35 |
 
-Snapshot ID: `MCxkM2JjMWM3NzgwMWE5NjVkNDg5YzU0OGYyOGY5NWY2MGE1Njk1OTg0`
+Snapshot ID: `MCw5Yjg1YjNmYzVjNmNkMWQ1ZjJhNGExNGIxYjVlMjE2ZDAyNTk1YmY0`

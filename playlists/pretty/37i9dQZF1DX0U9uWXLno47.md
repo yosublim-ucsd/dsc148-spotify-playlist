@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > ¡Eres el más cool de todos los papás! Feliz día 🥰
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,117 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,129 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 5 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 |
 | 6 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 7 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:58 |
-| 8 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
-| 9 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
+| 8 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
+| 9 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 10 | [Hoy Tengo Que Decirte Papá](https://open.spotify.com/track/2Yh87wCTg5rmDJySNWk0Rd) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche](https://open.spotify.com/album/1tYN9b0KEg8DnwFz9uPF4O) | 3:29 |
 | 11 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
 | 12 | [Un Gran Papá](https://open.spotify.com/track/4AH45LbMXw3sfaECiPtjOx) | [Romeo Beltran](https://open.spotify.com/artist/6vG4diX9aZFCFf9Q8x7I93), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Un Gran Papá](https://open.spotify.com/album/3rvPPqnnHnAXnrQs2SGz6c) | 2:30 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 35 | [Pal' Viejo](https://open.spotify.com/track/2Y3rv0OdQUfw7natHxySCq) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Pal' Viejo](https://open.spotify.com/album/5mw5HlOacycrGhEGEx4TTk) | 3:41 |
 | 36 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
 | 37 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
-| 38 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
-| 39 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
+| 38 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
+| 39 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
 | 40 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 41 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
 | 42 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 74 | [Algo Está Cambiando](https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 4:00 |
 | 75 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 |
 
-Snapshot ID: `MCw2NDYxY2QyZTIxNTJhNmNmMWMzNzliY2RiNTA4YmMwYzdiZTI3NmRm`
+Snapshot ID: `MCw1YjI3MzZmMTIzMWFmYWQzNGEwOTViYzFjODE4YmI1ZWE5YjRiNjIx`

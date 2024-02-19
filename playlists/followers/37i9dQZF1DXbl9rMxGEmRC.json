@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 465744,
+  "2024-02-19": 465754,
   "date_first_scraped": "2021-12-21",
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
   "name": "Extreme Metal",
@@ -129,6 +129,24 @@
       "duration_ms": 416040,
       "name": "A Reluctance of Being",
       "url": "https://open.spotify.com/track/1lWTj52J0d7kVVdiHD63TH"
+    },
+    {
+      "album": {
+        "name": "IHSAHN",
+        "url": "https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263240,
+      "name": "A TASTE OF THE AMBROSIA",
+      "url": "https://open.spotify.com/track/4MVPc7byRVEiwGACOIKPXY"
     },
     {
       "album": {
@@ -2709,6 +2727,28 @@
       "duration_ms": 272200,
       "name": "Drained of Color",
       "url": "https://open.spotify.com/track/5lrKrPesGrJIX681A3wEKR"
+    },
+    {
+      "album": {
+        "name": "Dreadbringer",
+        "url": "https://open.spotify.com/album/0jSVZMYKV2kaI2mePVHF1v"
+      },
+      "artists": [
+        {
+          "name": "Aborted",
+          "url": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR"
+        },
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330941,
+      "name": "Dreadbringer",
+      "url": "https://open.spotify.com/track/2w5EUUiQUnbgWe3kwZAh4n"
     },
     {
       "album": {
@@ -6651,7 +6691,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 246615,
       "name": "One Man Army",
       "url": "https://open.spotify.com/track/6nkyZOVPhcS8CWvzBn3hoM"
@@ -6723,7 +6763,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 164500,
       "name": "Oppressing Compassion",
       "url": "https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L"
@@ -8294,6 +8334,24 @@
     },
     {
       "album": {
+        "name": "Spontaneous Rot",
+        "url": "https://open.spotify.com/album/4g9tD8qVzoV8HthY31zhot"
+      },
+      "artists": [
+        {
+          "name": "Coffins",
+          "url": "https://open.spotify.com/artist/34Dog4Ylyg3eUFJF5Rk7Hc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272677,
+      "name": "Spontaneous Rot",
+      "url": "https://open.spotify.com/track/3cytkwbdtMKg7CLwX4tpCc"
+    },
+    {
+      "album": {
         "name": "Spores of Gnosis",
         "url": "https://open.spotify.com/album/08i20ClwOx3a6RCbGGTk0L"
       },
@@ -8843,7 +8901,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 272788,
       "name": "The Common Breed",
       "url": "https://open.spotify.com/track/229FIG47MznxJy6077DAIM"

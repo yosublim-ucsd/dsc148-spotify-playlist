@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,281 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,341 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 42 | [Te Voy a Mostrar](https://open.spotify.com/track/6bxZEPqWc9oSqYBa1NgA7d) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:18 |
 | 43 | [Tu Nombre \- Live](https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:20 |
 | 44 | [Mala Memoria](https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:02 |
-| 45 | [Debajo de Mi Lengua](https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:38 |
-| 46 | [Tu Historia](https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:25 |
-| 47 | [Si ella me faltara alguna vez \(feat\. Julieta Venegas\)](https://open.spotify.com/track/3t6kEf5nJMOG2tYtUCgiwN) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 2:56 |
+| 45 | [Tu Historia](https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:25 |
+| 46 | [Si ella me faltara alguna vez \(feat\. Julieta Venegas\)](https://open.spotify.com/track/3t6kEf5nJMOG2tYtUCgiwN) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 2:56 |
+| 47 | [Debajo de Mi Lengua](https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:38 |
 | 48 | [Saudade](https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Certa Manha Acordei De Sonhos Intranquilos](https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK) | 3:23 |
-| 49 | [Suavecito](https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Suavecito](https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz) | 3:03 |
-| 50 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
-| 51 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 |
+| 49 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
+| 50 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 |
+| 51 | [Tu Calor](https://open.spotify.com/track/2MISJ8EIpcM8nN2V2CK2wY) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q) | 3:20 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA5YmJhNjE4NzNkNmZhZTBmOWNkODU2M2QzN2IwYWFmYQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA1YmMxNzZmNGI1NzU1YzQzZjdmOTUyZWQ3NmEzNTFhYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,268 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,398 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 68 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode \- Single](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
 | 69 | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs) | 3:34 |
 | 70 | [Seihor \(feat\. Dblack\)](https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e), [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB) | [Seihor \(feat\. Dblack\)](https://open.spotify.com/album/7os1p9cKa1Mt78qAs1GUeg) | 3:57 |
-| 71 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
-| 72 | [Love Me, Love Me, Love Me](https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:39 |
+| 71 | [Love Me, Love Me, Love Me](https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:39 |
+| 72 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
 | 73 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 |
 | 74 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
 | 75 | [Simple](https://open.spotify.com/track/1ZneNgmfcgGBGshd7VgqBf) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Simple](https://open.spotify.com/album/4XS1iaLdd3g4IxKYoZs2jh) | 4:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Ololufe](https://open.spotify.com/track/7Ii6zkFLSkHD2zArtAPNsM) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Wande Coal](https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66) | 4:52 |
 | 80 | [The Thing](https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu) | [Drumz](https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s) | [The Thing](https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n) | 4:52 |
 
-Snapshot ID: `MCwwYTg1OTM2YzE1NmM3OWZjMzA2NTNmYzZmYjU2NWZjODkwMjNjN2E4`
+Snapshot ID: `MCw0ZjUyNmVmODIxMTZlZTM1NzA5OWQ4MzdjOGZhMTY4YmQ3OWNmNzBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,006 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,052 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 34 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
 | 35 | [Fuego](https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Fuego](https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny) | 3:14 |
 | 36 | [Mi Agüita Amarilla](https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 5:39 |
-| 37 | [La taberna del Buda](https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La taberna del Buda](https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw) | 3:46 |
-| 38 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 |
+| 37 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 |
+| 38 | [La taberna del Buda](https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La taberna del Buda](https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw) | 3:46 |
 | 39 | [La lista de la compra \(feat\. María Jiménez\)](https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje), [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Vestidos De Domingo](https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA) | 3:41 |
 | 40 | [A la luz del Lorenzo](https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw) | [Los Delinquentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 4:11 |
 | 41 | [Sin documentos](https://open.spotify.com/track/0VD9b7IXBWM0lKGagkYOKu) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Hasta luego](https://open.spotify.com/album/17zbU7662bSZyECndKCYio) | 4:45 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 59 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 |
 | 60 | [Para no olvidar](https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Hasta luego](https://open.spotify.com/album/17zbU7662bSZyECndKCYio) | 3:54 |
 | 61 | [Sabor, Sabor](https://open.spotify.com/track/4zMJYmYSTZBNn1YdZVznSS) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [De Ley](https://open.spotify.com/album/3ZzjYCQIk6eQKdcIllvk05) | 4:23 |
-| 62 | [Isla de Palma](https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:37 |
-| 63 | [Echo De Menos](https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 4:00 |
+| 62 | [Echo De Menos](https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 4:00 |
+| 63 | [Isla de Palma](https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:37 |
 | 64 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
 | 65 | [Vivir \(with Estopa\)](https://open.spotify.com/track/7BHiGNHqbH89W8ftWrI3tc) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 2:49 |
 | 66 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/5lBospeeFzg0ZeFhQP0oJs) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Para no olvidar](https://open.spotify.com/album/1od6yWsJUCkYblUYwc5RIS) | 3:54 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 73 | [Probe Miguel](https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu) | [Triana Pura](https://open.spotify.com/artist/7suCoxqWwcH7yxF8gbgydg) | [De Triana al Cielo](https://open.spotify.com/album/4sWOyP3HSXKO5omktW61om) | 4:08 |
 | 74 | [Avisa a tu madre \(feat\. Tarque\)](https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p) | [Adelantando](https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I) | 3:13 |
 | 75 | [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1vcZt7qwR9bgVSh7obMjFd) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World](https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z) | 3:13 |
-| 76 | [Noche En Vela](https://open.spotify.com/track/3PvcPcIj8lh53Zb0FwstTm) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [Noche En Vela](https://open.spotify.com/album/0okEU4q3SOHt7DBLEht0EB) | 3:46 |
-| 77 | [Bonito Es](https://open.spotify.com/track/3F7LwUGXeXIm7Br3QCxvd5) | [Los Sencillos](https://open.spotify.com/artist/4tckU58lAHcyNaWWswLubb) | [Doctor Amor](https://open.spotify.com/album/2ll1b7hDO1Js4I9cMukxBx) | 2:59 |
+| 76 | [Bonito Es](https://open.spotify.com/track/3F7LwUGXeXIm7Br3QCxvd5) | [Los Sencillos](https://open.spotify.com/artist/4tckU58lAHcyNaWWswLubb) | [Doctor Amor](https://open.spotify.com/album/2ll1b7hDO1Js4I9cMukxBx) | 2:59 |
+| 77 | [Noche En Vela](https://open.spotify.com/track/3PvcPcIj8lh53Zb0FwstTm) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [Noche En Vela](https://open.spotify.com/album/0okEU4q3SOHt7DBLEht0EB) | 3:46 |
 | 78 | [La Ultima Carta](https://open.spotify.com/track/0snvfum1KpU3X8DdAvV9bo) | [Los Cucas](https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW) | [El Ser Humano Es Raro](https://open.spotify.com/album/5fSWHnEpxK10oYZrK7DOTK) | 4:52 |
 | 79 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:54 |
 | 80 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \- Kalikeño](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 
-Snapshot ID: `MCw3Njg5YmNmZGRhM2RlNDg4ZjQ5NjE4NTcxNGY5MWFiMjBiNGJhZDFi`
+Snapshot ID: `MCxiZDQwOWY2MmY4Y2UyZThlNDQxMjUzOTFkMGYxZjVmNGE2MGQ4NWM5`

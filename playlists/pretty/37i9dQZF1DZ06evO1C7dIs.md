@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,278 likes - 51 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,322 likes - 51 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 15 | [Ever Dream](https://open.spotify.com/track/375WKKRNkbtqzTl50lQZuD) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:42 |
 | 16 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 |
 | 17 | [While Your Lips Are Still Red \- Theme from the Movie "Lieksa!"](https://open.spotify.com/track/3r3KRYYOFjNGD4OJB5ddam) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Sound of Nightwish Reborn](https://open.spotify.com/album/4A8TYBcOB8B2lIOlpU4k30) | 4:18 |
-| 18 | [Wishmaster](https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:24 |
-| 19 | [I Want My Tears Back](https://open.spotify.com/track/3HCzXf0lNpekSqsGBcGrCd) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:07 |
+| 18 | [I Want My Tears Back](https://open.spotify.com/track/3HCzXf0lNpekSqsGBcGrCd) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:07 |
+| 19 | [Wishmaster](https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:24 |
 | 20 | [Planet Hell](https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:38 |
 | 21 | [Shoemaker](https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:19 |
 | 22 | [Shudder Before the Beautiful](https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 6:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 50 | [Ocean Soul](https://open.spotify.com/track/4q3sAUULz1S77l4651FrTz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:14 |
 | 51 | [The Heart Asks Pleasure First](https://open.spotify.com/track/4rsqx0pmutBNt3TQQtLyKL) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, the Owl and the Dove](https://open.spotify.com/album/7lY1FLP3cGbOurnNtF0jfJ) | 4:21 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA1YzEwM2Y5YmUzNzg0Zjk0ZTBmNjA3YzRjMTE1YmRhNA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBhMmE2N2ZjODUyMzQzNWYzMTE4NzUyM2UwMjkwZWZkMw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,354 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,343 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 97 | [Promenade en traîneau](https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 2:54 |
 | 98 | [C'est Noël](https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:20 |
 | 99 | [Mon Beau Sapin](https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf) | [Marie Michèle Desrosiers](https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS) | [Marie\-Michèle Desrosiers Chante Les Classiques De Noël](https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV) | 3:09 |
-| 100 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
+| 100 | [Le Père Noël c't'un québécois](https://open.spotify.com/track/50UiWq1BJChAKQ0nhXl88O) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Le Père Noël c't'un québécois](https://open.spotify.com/album/6EzADwk0qEoRKPxoMWGIvk) | 2:32 |
 
-Snapshot ID: `MCw0YzE1YzFmZDE1ZDdlN2IyNTQxNDkyMWNkMjcyNzFmOTM3OTFmMzc4`
+Snapshot ID: `MCw0ZDNkNWE1OGE2MjViZmUyMmVjYzU5NjZiZDA0YTMwZGNlNmVkNDM3`

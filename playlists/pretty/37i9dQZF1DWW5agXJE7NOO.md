@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5agXJE7NOO.md) - [plain]
 
 > de peda en peda me la llevo todo el fin
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,255 likes - 36 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,396 likes - 36 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5agXJE7NOO.md) - [plain]
 | 5 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 |
 | 6 | [PVTIVUELTA](https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [PVTIVUELTA](https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E) | 2:23 |
 | 7 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 |
-| 8 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 |
+| 8 | [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 |
 | 9 | [LAST SONG](https://open.spotify.com/track/1uR70Wokz35V2Jv75za2lx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:20 |
 | 10 | [GOZANDO](https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [GOZANDO](https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH) | 2:51 |
 | 11 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5agXJE7NOO.md) - [plain]
 | 35 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 |
 | 36 | [Cara A La Muerte \(DJ Hessler Remix\)](https://open.spotify.com/track/6mib5fBRUO8NQVG2aV9kFp) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 4:29 |
 
-Snapshot ID: `MCxmNzZmMDE4ODcwMzlhZjBjMzJlODQ0ZmQ1NzY5NzcwYzg3OTViMjk0`
+Snapshot ID: `MCxhNjhhYWUyOWQ4ZWM0OWU3MzI3MDA4NzBkOTQ3NDMwMzA0NzQ4ODI4`

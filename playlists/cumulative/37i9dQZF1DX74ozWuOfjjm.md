@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Jessica Mauboy
 
-558 songs - 1 day 5 hr 57 min
+559 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [DO IT AGAIN \- Official Song of the FIFA Women’s World Cup 2023™](https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [DO IT AGAIN \(Official Song of the FIFA Women’s World Cup 2023™\)](https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub) | 2:56 | 2023-06-30 |  |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2022-02-03 | 2022-03-02 |
 | [Done With Boys](https://open.spotify.com/track/4N9ZQzyILp50rhNKJd7W27) | [Matilda Pearl](https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw) | [Done With Boys](https://open.spotify.com/album/4SktpyPG6ajCauuQpn8stq) | 3:16 | 2023-08-31 |  |
-| [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 | 2023-10-31 |  |
+| [Dramamine](https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:57 | 2024-02-14 |  |
+| [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 | 2023-10-31 | 2024-02-19 |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2022-02-03 | 2022-04-06 |
 | [Dreamhigh](https://open.spotify.com/track/3EXEIb1Oemh1ETsMP7157G) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Dreamhigh](https://open.spotify.com/album/3gODbR7sqAoy6PbslACQ5x) | 3:25 | 2022-05-27 | 2022-09-06 |
 | [Dreaming](https://open.spotify.com/track/1bdcogn7ZNXhXl86hOymsL) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [I'm Feeling Hopeful](https://open.spotify.com/album/2CNatNsNZUkdSeJ7BxLNOI) | 3:18 | 2022-02-03 | 2022-05-28 |

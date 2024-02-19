@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-445 songs - 22 hr 26 min
+446 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 | 2023-09-29 | 2023-10-13 |
 | [Luv You](https://open.spotify.com/track/1UND1NooKdD1nW8zKLaSF9) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Luv You](https://open.spotify.com/album/6EMCwCvW8DACv8CdvhFcFQ) | 2:50 | 2024-01-26 | 2024-02-03 |
 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 | 2023-10-27 |  |
-| [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 | 2024-02-09 |  |
+| [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 | 2024-02-09 | 2024-02-19 |
 | [Mad Over You](https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad Over You](https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78) | 3:36 | 2024-02-13 | 2024-02-16 |
 | [Make Me Believe \(Nana\)](https://open.spotify.com/track/6tCXMkEeYrlU2fKf1YhNZO) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Make Me Believe \(Nana\)](https://open.spotify.com/album/03MqZoZQMFlQ6XiM2HalZ0) | 3:11 | 2023-06-30 | 2023-08-04 |
 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2022-08-25 | 2024-02-09 |
@@ -258,6 +258,7 @@
 | [Melody](https://open.spotify.com/track/5HMk6l89LGrGxG7hnlme1y) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:23 | 2022-08-12 | 2022-08-26 |
 | [Mercedes](https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1) | [Samba Peuzzi](https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Mercedes](https://open.spotify.com/album/3qZWv38DiTCaImDx6ylRed) | 3:22 | 2023-01-27 | 2023-03-04 |
 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 | 2023-10-13 | 2023-10-27 |
+| [MI AMOR](https://open.spotify.com/track/0OzPsBQnK0MLUFVat8ueSE) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [MI AMOR](https://open.spotify.com/album/7lRBRgmbbGJpTh7CoSdxD7) | 3:07 | 2024-02-16 |  |
 | [Mine Alone](https://open.spotify.com/track/4fnxxV0RRzHLaMHBAp4FCe) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:07 | 2022-09-30 | 2023-02-26 |
 | [MISS UNIVERSE](https://open.spotify.com/track/6rOY9kHJxwJCNMqsqd2LUO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Dumey](https://open.spotify.com/artist/0OEKjS8wv0c1cdc9ogqjFz) | [MISS UNIVERSE](https://open.spotify.com/album/2F4eqhwtKRJtq4B8slZoTO) | 4:14 | 2022-09-15 | 2022-10-14 |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-08 |  |

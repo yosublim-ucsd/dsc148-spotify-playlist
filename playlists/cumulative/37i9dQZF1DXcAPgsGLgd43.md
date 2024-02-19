@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-180 songs - 10 hr 2 min
+181 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Baila Le Digo](https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [Baila Le Digo](https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B) | 2:19 | 2024-01-26 |  |
 | [Baila Mi Gente](https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Baila Mi Gente](https://open.spotify.com/album/0WwClPZncNg0Oqb25jB2q4) | 2:40 | 2023-11-10 | 2024-02-17 |
 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 | 2021-10-08 | 2023-11-11 |
-| [Balafon](https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd) | [Blvckr](https://open.spotify.com/artist/1Uh9u2rcNvMsoYgbgBsj6y) | [Balafon](https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2) | 2:53 | 2023-11-10 |  |
+| [Balafon](https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd) | [Blvckr](https://open.spotify.com/artist/1Uh9u2rcNvMsoYgbgBsj6y) | [Balafon](https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2) | 2:53 | 2023-11-10 | 2024-02-19 |
 | [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 | 2023-12-15 |  |
 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 | 2021-10-08 | 2023-11-11 |
 | [Bandolera \(feat\. Buza\)](https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [Buza](https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB) | [Bandolera \(feat\. Buza\)](https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh) | 2:55 | 2024-02-02 |  |
@@ -151,6 +151,7 @@
 | [Safari](https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [Safari](https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA) | 3:06 | 2021-10-08 | 2023-11-11 |
 | [Sandia](https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu) | [Adiel Mora](https://open.spotify.com/artist/30KnooN1xQy6naR8IT0cEo), [Cris Ocana](https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI) | [Sandia](https://open.spotify.com/album/7csNLiVDk128lLGoJgd3Bp) | 2:32 | 2023-12-01 |  |
 | [Sarava](https://open.spotify.com/track/0bszKc6KnjdZxtLjUMFs52) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Sarava](https://open.spotify.com/album/32hf6dpv1rxU5OcFtsg9R8) | 3:18 | 2023-12-01 |  |
+| [Se Acaba \- Sinego Remix](https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Se Acaba \(Sinego Remix\)](https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT) | 6:21 | 2024-02-16 |  |
 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 | 2023-11-10 |  |
 | [Senta Relaxa](https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP) | [De Qualite](https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Senta Relaxa](https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0) | 3:00 | 2024-02-02 |  |
 | [Serena](https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Serena](https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom) | 2:33 | 2023-11-10 |  |

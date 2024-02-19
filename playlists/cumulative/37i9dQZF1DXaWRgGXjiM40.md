@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-83 songs - 4 hr 14 min
+84 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Declaração pro Bar \- Ao Vivo](https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:41 | 2024-01-05 |  |
 | [Deixa Eu Te Amar \- Ao Vivo](https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Eu E Você De Novo \(Ao Vivo\)](https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin) | 3:21 | 2023-02-10 | 2023-04-16 |
 | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/track/3056x1XkmICnQmji68rrft) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP) | 2:40 | 2023-04-07 | 2024-01-31 |
-| [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 | 2023-09-01 |  |
+| [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 | 2023-09-01 | 2024-02-19 |
 | [Dois Enganados](https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs) | 2:52 | 2023-02-10 |  |
 | [Espaçosa Demais \- Ao Vivo](https://open.spotify.com/track/4frNT1Vw4MbKbS1ngKodkv) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:59 | 2023-02-10 | 2023-12-18 |
 | [Eu Nunca Fui \- Ao Vivo](https://open.spotify.com/track/3gqzwytSXoWI8xgRloB6WL) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Eu Nunca Fui \(Ao Vivo\)](https://open.spotify.com/album/3H4aDTT9MmDdYCkrwiczJf) | 2:42 | 2023-02-17 | 2023-05-21 |
@@ -87,6 +87,7 @@
 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 | 2023-02-17 | 2023-03-02 |
 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 | 2023-02-10 |  |
 | [Vestido Curto \- Ao Vivo](https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vestido Curto \(Ao Vivo\)](https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC) | 2:31 | 2023-12-22 |  |
+| [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 | 2024-01-05 |  |
 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 | 2023-04-07 |  |
 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 | 2023-02-10 |  |
 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília \- EP1](https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL) | 3:10 | 2023-04-07 | 2023-12-13 |

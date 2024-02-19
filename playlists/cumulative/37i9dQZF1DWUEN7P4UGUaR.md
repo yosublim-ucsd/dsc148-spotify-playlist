@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
-81 songs - 7 hr 9 min
+82 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Highest Praise](https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE), [Adrian Sing](https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:42 | 2023-06-09 | 2023-07-16 |
 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 | 2023-04-06 |  |
 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 | 2023-05-26 | 2024-01-25 |
-| [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-06-09 |  |
+| [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-02-16 |  |
+| [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-06-09 | 2024-02-19 |
 | [LET IT SHINE ON ME\(LISOM\)](https://open.spotify.com/track/7vA9DhhMVBW6Krsev5SqmD) | [Corby Rhymez](https://open.spotify.com/artist/2LzvaWfoTlVuuSh6bBo0n3) | [LET IT SHINE ON ME\(LISOM\)](https://open.spotify.com/album/5Li3VDCIkKNPuZbQfmng6o) | 3:06 | 2023-05-26 | 2023-06-26 |
 | [Letting Go](https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Letting Go](https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ) | 3:33 | 2023-06-22 | 2023-12-30 |
 | [Lord Have Your Way](https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE) | [Efe Grace Official](https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS) | [Lord Have Your Way](https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD) | 6:08 | 2023-04-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,029 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,243 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 49 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 50 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 
-Snapshot ID: `MCw4MGU2YjE0OGM3M2Q1MzgzMTRjNGVjYjE4YTgyMGRmYmU0OWJmODNj`
+Snapshot ID: `MCw2NjY1YTEzNTBhMzEyNzYyZGI5NDQ5MjJkYTE2OTU0YTdhMDM2YjAx`

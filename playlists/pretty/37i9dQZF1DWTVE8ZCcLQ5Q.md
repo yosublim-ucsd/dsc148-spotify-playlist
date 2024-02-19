@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,839 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,823 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 48 | [Daqui de Cima](https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri) | [Do Alto da Laje](https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H) | 2:39 |
 | 49 | [Rompe](https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Rompe](https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT) | 2:33 |
 | 50 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 |
-| 51 | [Face ID](https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Face ID](https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI) | 2:32 |
-| 52 | [24K o Spotify Que Paga](https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ) | [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [24K o Spotify Que Paga](https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR) | 3:00 |
-| 53 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 |
+| 51 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 |
+| 52 | [Face ID](https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Face ID](https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI) | 2:32 |
+| 53 | [24K o Spotify Que Paga](https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ) | [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [24K o Spotify Que Paga](https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR) | 3:00 |
 | 54 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 55 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 |
 | 56 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCw1NWE5ZGNhOTY4MWZlYzFmYWZkNTE0OTIwZTA1ZjExNjAxZDU4MjM0`
+Snapshot ID: `MCxjMmNjZjg3ZjkwNDU2MTQ0MWI2YjM5OWFhZjUxNjk3ODhkYmU3ZmM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Rels B en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,246 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,318 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 10 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 |
 | 11 | [PARA SIEMPRE](https://open.spotify.com/track/0xvaM53zDst3zcIpcNc37M) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [PARA SIEMPRE](https://open.spotify.com/album/10c4dLSQaTsSkmXLNBZGuK) | 3:28 |
 | 12 | [Nos Entendemos](https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Nos Entendemos](https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa) | 2:56 |
-| 13 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
+| 13 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/0Kz96xXGxiyZIEJ2pOpUxe) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
 | 14 | [EN MI PIEL](https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Fainal & Shako](https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD) | [EN MI PIEL](https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3) | 3:29 |
 | 15 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 |
 | 16 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 99 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 |
 | 100 | [ESTÁ CABRÓN](https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af) | [ESTÁ CABRÓN](https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl) | 3:04 |
 
-Snapshot ID: `MCwyMmNiMDM3MWJjNmJjM2JkZmFkMTZiYzRhN2VhNzRjM2MyOThlN2E1`
+Snapshot ID: `MCwzYjUzOTI5ODhlYzA1OGMyZjE3MGE5ZDZjYWE2ZDA5NTA4YTZlMWJj`

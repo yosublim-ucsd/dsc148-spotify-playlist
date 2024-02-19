@@ -4,7 +4,7 @@
 
 > That's that big energy\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:6eXZu6O7nAUA5z6vLV8NKI">Little Simz</a>
 
-226 songs - 11 hr 1 min
+227 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-08-18 |  |
 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 | 2023-09-04 | 2024-02-03 |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-29 | 2023-11-18 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-11-17 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-11-17 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-17 |  |
 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 | 2023-09-02 |  |
 | [JUMP](https://open.spotify.com/track/1CEVdjVIYLBShPyCIojtp5) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [JUMP](https://open.spotify.com/album/6TabIjGq34czYmTHf7XEYi) | 3:27 | 2023-10-06 | 2023-11-11 |
 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 | 2024-02-02 |  |

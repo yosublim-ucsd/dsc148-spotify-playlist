@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,054 songs - 2 day 9 hr 19 min
+1,055 songs - 2 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 | 2020-10-10 | 2020-11-03 |
 | [404 Anonymous](https://open.spotify.com/track/1oBNrANxBIDWwBAW4tb4aH) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [We Are Friends, Vol\. 8](https://open.spotify.com/album/1IFiPfRCcOFei774vVJOMS) | 4:04 | 2020-09-21\* | 2020-10-10 |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2021-11-13 | 2022-03-12 |
-| [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 | 2024-02-09 |  |
+| [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 | 2024-02-09 | 2024-02-19 |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2022-07-01 |  |
 | [About You](https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [About You](https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId) | 3:38 | 2022-03-11 | 2022-07-25 |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-05-12 |  |
@@ -157,6 +157,7 @@
 | [Cards](https://open.spotify.com/track/1ccFqw0622Uh8IGiCz8I8e) | [Sybranax](https://open.spotify.com/artist/3HVmNeY8aLOP41uNZ8BQ8G) | [Cards](https://open.spotify.com/album/28r0itSRfFyQrdq9x2AcNQ) | 2:52 | 2020-09-21\* | 2020-11-27 |
 | [Carry On \- Nicky Romero Remix](https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Carry On \(Nicky Romero Remix\)](https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM) | 2:55 | 2020-09-21\* | 2021-01-23 |
 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 | 2021-08-21 | 2022-03-12 |
+| [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 | 2024-02-16 |  |
 | [Catch My Love](https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Catch My Love](https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs) | 2:28 | 2021-11-13 | 2022-03-12 |
 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 | 2023-04-21 | 2023-07-15 |
 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 | 2021-06-12 | 2021-09-18 |

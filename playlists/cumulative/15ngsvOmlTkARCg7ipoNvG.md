@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,685 songs - 1 day 11 hr 10 min
+1,688 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [Lightly Ringing](https://open.spotify.com/track/4AlyP6alVNMgb5T8JUnPYr) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:02 | 2022-03-18 |  |
 | [Lightness](https://open.spotify.com/track/7GfOZxJAxQyQkBzLnrTCk1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Lightness](https://open.spotify.com/album/3Sp4cmR9KA2hu8RVWwXIlk) | 1:00 | 2024-02-12 |  |
 | [Lightness Appears](https://open.spotify.com/track/5NloHLffvoZluBiGgy6xiq) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:02 | 2022-05-15 |  |
+| [Linger](https://open.spotify.com/track/3RRftMRYVExyFko5930wQ9) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Linger](https://open.spotify.com/album/6IfJcGOBSBqCYISe3uSGeC) | 1:00 | 2024-02-18 |  |
 | [Little Adventures Arr\. For Cello And Piano](https://open.spotify.com/track/6F3MRLVJ0XNSPIIVshThOd) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Little Adventures Arr\. For Cello And Piano](https://open.spotify.com/album/7CpmYNfe9eEmOf7m18a9ft) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Little Adventures Arr\. For Felt Piano](https://open.spotify.com/track/0SZPRSfniO3M9jWiS2q0kQ) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Felt Piano Lullabies](https://open.spotify.com/album/32PpJ7q4DdWKYEiy0EtRLw) | 1:00 | 2023-07-06 | 2024-01-30 |
 | [Little Boy Blue \- Cello Version](https://open.spotify.com/track/3gnN57VH92SSk3GkDd9FY0) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Little Boy Blue](https://open.spotify.com/album/3kDWywnD7VrGdysszlQrwi) | 1:00 | 2024-02-09 | 2024-02-13 |
@@ -1360,6 +1361,7 @@
 | [Spring Sun](https://open.spotify.com/track/7uwwThNv4jACx8G2HBicP1) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
 | [Spring Warmth Again \- Cello Version](https://open.spotify.com/track/7MQhI8USlPbgNtamZs5SV7) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spring Warmth Again \(Cello Version\)](https://open.spotify.com/album/2UXnDLSHUF8Il2sKg23Wfl) | 1:00 | 2022-07-15 |  |
 | [Springs](https://open.spotify.com/track/2TeIwE6hFj5ChMP3Eifq7m) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Springs](https://open.spotify.com/album/6nYmCTJRGkzYRuGntxjzpf) | 1:00 | 2024-02-17 |  |
+| [Springs \- Cello Version](https://open.spotify.com/track/495yaUZWilmyzDJegFsSzv) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Springs \(Cello Version\)](https://open.spotify.com/album/5e9UBTSSn9TCCfK2o05tAa) | 1:00 | 2024-02-18 |  |
 | [Springtime Serenade \- Piano Version](https://open.spotify.com/track/4sDMgmdCGm0pnYb7NGuRAs) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Springtime Serenade \(Piano Version\)](https://open.spotify.com/album/10gZyaNfOYTkxZPsfcbOLv) | 3:00 | 2022-01-12 | 2024-02-13 |
 | [Stability](https://open.spotify.com/track/7roDSXiPANfzVC8BAtpazE) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Light](https://open.spotify.com/album/5C2zmwAubUVPf7sNfzUZC5) | 1:00 | 2024-02-16 |  |
 | [Stained Blue Windows](https://open.spotify.com/track/3mosxpcwbtA2hjVB9IXC8U) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Shifting Sands](https://open.spotify.com/album/0tOrP1XUnI0UU7qZjOhIjD) | 1:07 | 2024-02-09 | 2024-02-13 |
@@ -1482,6 +1484,7 @@
 | [Through The Mist](https://open.spotify.com/track/2uQGrAsmfB6OOcT0HXga5s) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:01 | 2023-12-23 | 2024-01-30 |
 | [Through the Storm](https://open.spotify.com/track/38MmCuRVSk3Pzh1EBRJl8O) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Daydreaming](https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8) | 1:25 | 2022-01-12 | 2024-01-30 |
 | [Through The Trees](https://open.spotify.com/track/0zoo4Id49U8D7bqj5O4na8) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forest Walk](https://open.spotify.com/album/0Nk7maUYaBAgpyF1lUPoHH) | 1:04 | 2022-01-12 |  |
+| [Tides](https://open.spotify.com/track/2TuFLsiFkATI7EprEkz83d) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Tides](https://open.spotify.com/album/1KQl7NoGj7yHH9lEIC67b3) | 1:00 | 2024-02-18 |  |
 | [Time](https://open.spotify.com/track/1nCsl1a568L4TYtPwMPT8e) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Space and Time](https://open.spotify.com/album/5OIjHx2iEBOJbGgsexP069) | 1:25 | 2022-01-20 |  |
 | [Time](https://open.spotify.com/track/0NXzdtGwPUpLTxV9mJVGtT) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:47 | 2022-01-20 | 2024-01-30 |
 | [Time And Light](https://open.spotify.com/track/0cpsAC1TOA0H9gTEjbUBzS) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 | 2024-01-30 |

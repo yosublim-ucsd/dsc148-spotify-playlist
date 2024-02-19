@@ -4,7 +4,7 @@
 
 > Crossing over like Allen I\. Cover: 4batz
 
-757 songs - 1 day 14 hr 0 min
+758 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,8 @@
 | [Involved](https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Involved](https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv) | 3:00 | 2022-06-24 | 2022-08-13 |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-29 | 2023-10-14 |
 | [issues](https://open.spotify.com/track/7MmBhKBQnaa0I8TaDJs9ia) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 3:39 | 2021-09-10 | 2022-03-26 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-13 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-13 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-16 |  |
 | [It's Getting Hot](https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Getting Hot](https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO) | 2:14 | 2023-08-04 | 2023-08-26 |
 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 | 2022-04-15 | 2022-07-23 |
 | [It's Officially Done](https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [It's Officially Done](https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD) | 2:56 | 2023-01-13 | 2023-06-03 |

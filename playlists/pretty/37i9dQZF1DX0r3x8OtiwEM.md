@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,811 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,983 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 37 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 38 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |
 | 39 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 |
-| 40 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 |
-| 41 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
+| 40 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
+| 41 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 |
 | 42 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 |
 | 43 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
 | 44 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 |
 | 45 | [Dreamcast](https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF) | 5:25 |
-| 46 | [Gravity](https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:29 |
-| 47 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
+| 46 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
+| 47 | [Gravity](https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:29 |
 | 48 | [I Don't Need You](https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:04 |
 | 49 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 | 50 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 |
 | 60 | [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 |
 
-Snapshot ID: `MCxlY2VkNGNkNWJkMDQwMDMzNjIzYzhiOTAxZGFkMGU3MTI5NDQ3YWFi`
+Snapshot ID: `MCxhOTZlN2E0OTBjNmUwMjEwMzg5MDU0NDRkMWU2MTVmMjVmNzAyODJj`

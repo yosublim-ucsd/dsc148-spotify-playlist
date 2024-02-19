@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Eagle
 
-194 songs - 12 hr 40 min
+195 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Inka Inka \(From "Naa Saami Ranga"\)](https://open.spotify.com/track/3Tmry3mvrMXSQDxqkFezqC) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Maman Kumar](https://open.spotify.com/artist/7uI5mgeZckjDanJrVVVatP), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu) | [Inka Inka \(From "Naa Saami Ranga"\)](https://open.spotify.com/album/2JPKhBno99Tsb7NrfDLawO) | 3:31 | 2024-01-10 | 2024-01-12 |
 | [Inka Inka \(From "Naa Saami Ranga"\)](https://open.spotify.com/track/1XEO0GOd3Ds453Ee0uXJLk) | [Maman Kumar](https://open.spotify.com/artist/7uI5mgeZckjDanJrVVVatP), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Inka Inka \(From "Naa Saami Ranga"\)](https://open.spotify.com/album/5K5MJb8Ql2kI6sQNrZtVtP) | 3:31 | 2024-01-10 |  |
 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 | 2022-07-05 | 2023-04-25 |
-| [Jaanavule \(From "BRO"\)](https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Jaanavule \(From "BRO"\)](https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg) | 3:44 | 2023-07-15 |  |
+| [Jaanavule \(From "BRO"\)](https://open.spotify.com/track/6YuOxaMb7UC3gL8snkZvHL) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Jaanavule \(From "BRO"\)](https://open.spotify.com/album/3CjTEOn02KVq8zw0BONyKZ) | 3:44 | 2023-07-15 |  |
+| [Jaanavule \(From "BRO"\)](https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Jaanavule \(From "BRO"\)](https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg) | 3:44 | 2023-07-15 | 2024-02-19 |
 | [Jada](https://open.spotify.com/track/5C25HcH9Z4C86cC3YhHyBS) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ) | [Jada \(From "Chor Bazaar"\)](https://open.spotify.com/album/0SrSkkcfAv01mebfuDIuqu) | 3:32 | 2022-03-13 | 2023-02-21 |
 | [Jessica](https://open.spotify.com/track/2o0RShGeaY7ZIo8NV2oNQk) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Prince \(Telugu\)](https://open.spotify.com/album/5R14xZQax12U6x54pL6Mrt) | 4:19 | 2022-09-26 | 2023-04-25 |
 | [Kaanunna Kalyanam \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kaanunna Kalyanam \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6) | 3:52 | 2022-07-20 | 2023-04-25 |

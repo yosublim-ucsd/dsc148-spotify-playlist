@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-328 songs - 22 hr 22 min
+329 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Georgia On My Mind](https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa Brewer And The Dixieland Band](https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla) | 3:45 | 2022-01-20 |  |
 | [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2) | [Jazzy Sky](https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3) | [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz) | 2:50 | 2022-03-17 |  |
 | [Gone Again](https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [In Her Words](https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv) | 4:27 | 2022-01-20 |  |
-| [Grey Season](https://open.spotify.com/track/3YV2Cyh7vwDXeQYMmqrwf9) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W), [Gil Goldstein](https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q), [Steve Cardenas](https://open.spotify.com/artist/3PI1YMvdT8Eunyd30D2PcM) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:56 | 2022-01-20 |  |
+| [Grey Season](https://open.spotify.com/track/3YV2Cyh7vwDXeQYMmqrwf9) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W), [Gil Goldstein](https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q), [Steve Cardenas](https://open.spotify.com/artist/3PI1YMvdT8Eunyd30D2PcM) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:56 | 2022-01-20 | 2024-02-19 |
 | [Hallelujah, I Love Him So \- First Sessions Outtake](https://open.spotify.com/track/1P8IC0DO01A93VHjQGHEIW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Hallelujah, I Love Him So / Spring Can Really Hang You Up The Most / Come Away With Me](https://open.spotify.com/album/2E8I6DjTIdq7GITlFrnNEq) | 3:05 | 2022-04-14 | 2022-07-29 |
 | [Hallelujah, I Love Him So \- First Sessions Outtake](https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:05 | 2022-07-14 |  |
 | [He's A Tramp](https://open.spotify.com/track/0NwM9L7Kd0sXbpuaCdaAIy) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [He’s A Tramp](https://open.spotify.com/album/0yJFgnL3fkkgbjDGehlg58) | 3:42 | 2022-01-20 | 2023-08-26 |
@@ -292,6 +292,7 @@
 | [The Moon Is Made of Gold](https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Balm in Gilead](https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e) | 3:00 | 2022-01-20 |  |
 | [The Nearness of You](https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt) | [Camille Harris](https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL), [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l) | [The Nearness of You](https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu) | 5:03 | 2022-01-20 | 2023-08-26 |
 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-02-18 |  |
+| [The Sound of Music](https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [The Sound of Music](https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL) | 4:05 | 2024-02-09 |  |
 | [The Streets of Berlin](https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 4:53 | 2022-01-20 |  |
 | [The Sweetest Moments](https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla) | [Alex Bird](https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB), [The Jazz Mavericks](https://open.spotify.com/artist/4h5LEfrmdlpbNxjUbvnkBt), [Ewen Farncombe](https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH) | [The Sweetest Moments](https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF) | 4:38 | 2022-10-11 |  |
 | [The Thrill Is Gone](https://open.spotify.com/track/1W0we35aHpMp7AkOYyh76Q) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 4:54 | 2022-01-20 | 2023-08-26 |

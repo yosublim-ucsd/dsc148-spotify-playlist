@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Niklas Dee, Kiara Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,473 likes - 76 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,540 likes - 76 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 47 | [ONE NiGHT STAND \(ONS\)](https://open.spotify.com/track/1TWqmtN3u2peKwZHPP36gX) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [ONE NiGHT STAND \(ONS\)](https://open.spotify.com/album/3Y8P5Y0HwyqG6BBDOimEjS) | 2:09 |
 | 48 | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV) | 2:53 |
 | 49 | [TIESTO](https://open.spotify.com/track/6AOW1nBs5C4YCvwTZEt4WZ) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [TIESTO](https://open.spotify.com/album/0L2D5vnjrP7TWYoYu1Bvnv) | 3:12 |
-| 50 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/19TWCY08zuSX6kdXR9C751) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
+| 50 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
 | 51 | [Nothing To Lose](https://open.spotify.com/track/0giznUU5R4yLZoLrTJu48q) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa) | [Nothing To Lose](https://open.spotify.com/album/6DkYekiOjDhbYvXsWTmEwT) | 2:48 |
 | 52 | [Farewell](https://open.spotify.com/track/47BdlC1iKhEFlCNQYIWB1V) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Farewell](https://open.spotify.com/album/3DRL6N3ZRgGyUTa75N5Uuv) | 2:35 |
 | 53 | [Explode](https://open.spotify.com/track/04ErJiS734u76JgX5JQayC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Explode](https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o) | 2:39 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 75 | [Wrong](https://open.spotify.com/track/4otuzKmUDIdVQrYBHWKubm) | [TRITICUM](https://open.spotify.com/artist/4ZoQmoFXF0JJAMTcgopOjd) | [Wrong](https://open.spotify.com/album/2OduFi86uh7XTtN4X3Jao5) | 2:18 |
 | 76 | [With Me](https://open.spotify.com/track/48a0xF4oMibCyQig3bwMbc) | [Max Lean](https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh) | [With Me](https://open.spotify.com/album/11OGHFlP0RTx0okxu98Uk5) | 3:01 |
 
-Snapshot ID: `MCxjNjkxNGY2NjRhNGFjNjExOTE2NDFlMGExN2YxZDNkYjgwZDdkMTE2`
+Snapshot ID: `MCwwMWZjZWFiNWJmMWNiZDBiZWYxNWMxOWMxYmM1MTJmMzQ0ZDE0ZDAy`

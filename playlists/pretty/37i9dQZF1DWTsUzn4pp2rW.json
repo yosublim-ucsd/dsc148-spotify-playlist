@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 147746,
+  "num_followers": 147814,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2E0Y2QzNWYzNzU3MGU4MDA1MGZjYzUyZGQxMDk1YTgzNGJjNGU1",
+  "snapshot_id": "MCwwZDI0ZjkwYzYzN2UyZWY2ZTYwM2QwM2NjYzQxYjk5YWZmNzk0YjZk",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 283893,
-      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
-      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 226389,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 283893,
+      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
+      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Not For Me",
-        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 243170,
-      "name": "Not for Me",
-      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Bagatelles",
         "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 127426,
       "name": "How About You",
       "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Not For Me",
+        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 243170,
+      "name": "Not for Me",
+      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "90 Degrees",
-        "url": "https://open.spotify.com/album/5EQ1ea2Hs4SNRwmnRBp2cm"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 255024,
-      "name": "90 Degrees",
-      "url": "https://open.spotify.com/track/46T4UTffeX2GrfqAU1hGjZ"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "90 Degrees",
+        "url": "https://open.spotify.com/album/5EQ1ea2Hs4SNRwmnRBp2cm"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 255024,
+      "name": "90 Degrees",
+      "url": "https://open.spotify.com/track/46T4UTffeX2GrfqAU1hGjZ"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "H I M",
         "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 220728,
       "name": "H I M",
       "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Rogue",
-        "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
-      },
-      "artists": [
-        {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
-        },
-        {
-          "name": "Carol Riddick",
-          "url": "https://open.spotify.com/artist/0TXTa4w6P9h0tJ1GFTZIhL"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "2nite",
-      "url": "https://open.spotify.com/track/2EVvYPOMpYIjP9mxyxmvE4"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1087,6 +1067,26 @@
       "duration_ms": 274091,
       "name": "I Have Nothing Left for You",
       "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Rogue",
+        "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
+      },
+      "artists": [
+        {
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        },
+        {
+          "name": "Carol Riddick",
+          "url": "https://open.spotify.com/artist/0TXTa4w6P9h0tJ1GFTZIhL"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "2nite",
+      "url": "https://open.spotify.com/track/2EVvYPOMpYIjP9mxyxmvE4"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 284213,
+      "name": "Things Are Looking up Again",
+      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 200933,
       "name": "Just A Little Lovin' (Early In The Mornin')",
       "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "You Can't Hide Away From Love",
-      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 284213,
-      "name": "Things Are Looking up Again",
-      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
+      "duration_ms": 188413,
+      "name": "You Can't Hide Away From Love",
+      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8"
-      },
-      "artists": [
-        {
-          "name": "Parry Ray",
-          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "She Used To Be Mine",
-      "url": "https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "No Meanness",
         "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 238524,
       "name": "No Meanness",
       "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8"
+      },
+      "artists": [
+        {
+          "name": "Parry Ray",
+          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "She Used To Be Mine",
+      "url": "https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+        "name": "Beautiful Way",
+        "url": "https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql"
       },
       "artists": [
         {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Jake Sherman",
+          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
         }
       ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
+      "duration_ms": 227400,
+      "name": "Beautiful Way",
+      "url": "https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1479,6 +1483,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+      },
+      "artists": [
+        {
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+        }
+      ],
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Song Like Ours",
         "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 298549,
       "name": "Song Like Ours",
       "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Beautiful Way",
-        "url": "https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Jake Sherman",
-          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Beautiful Way",
-      "url": "https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Back to the Start",
-        "url": "https://open.spotify.com/album/0vjT6cQ1x6LoMXidziBoJm"
-      },
-      "artists": [
-        {
-          "name": "Gordon Robertson",
-          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
-        }
-      ],
-      "duration_ms": 196154,
-      "name": "Back to the Start",
-      "url": "https://open.spotify.com/track/7agNYU4Fce4a529KY5JH4n"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Can't Fight Love",
         "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 256000,
       "name": "Can't Fight Love",
       "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/0vjT6cQ1x6LoMXidziBoJm"
+      },
+      "artists": [
+        {
+          "name": "Gordon Robertson",
+          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
+        }
+      ],
+      "duration_ms": 196154,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/7agNYU4Fce4a529KY5JH4n"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Sugilite",
-        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Newhall",
-          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
-        }
-      ],
-      "duration_ms": 278961,
-      "name": "Sugilite",
-      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 177680,
       "name": "River",
       "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Sugilite",
+        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Newhall",
+          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
+        }
+      ],
+      "duration_ms": 278961,
+      "name": "Sugilite",
+      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Enough to Be on Your Way",
+        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 318175,
+      "name": "Enough to Be on Your Way",
+      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "This Is Not Jazz",
         "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 188273,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Enough to Be on Your Way",
-        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 318175,
-      "name": "Enough to Be on Your Way",
-      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Her House (Single Edit) [Star of Spring]",
+        "url": "https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK"
+      },
+      "artists": [
+        {
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
+        }
+      ],
+      "duration_ms": 227645,
+      "name": "Her House (Single Edit)",
+      "url": "https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
       },
@@ -2063,22 +2079,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Dynamite EP",
-        "url": "https://open.spotify.com/album/4nR20Yz3OUZhFbg0dFgAsO"
-      },
-      "artists": [
-        {
-          "name": "Equal Echo",
-          "url": "https://open.spotify.com/artist/0W22sUJ7JzaGdjJvZ94H4X"
-        }
-      ],
-      "duration_ms": 210454,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5U16vigbwV6tA5v9XHCm4h"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Dynamite EP",
+        "url": "https://open.spotify.com/album/4nR20Yz3OUZhFbg0dFgAsO"
+      },
+      "artists": [
+        {
+          "name": "Equal Echo",
+          "url": "https://open.spotify.com/artist/0W22sUJ7JzaGdjJvZ94H4X"
+        }
+      ],
+      "duration_ms": 210454,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5U16vigbwV6tA5v9XHCm4h"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR"
       },
@@ -2111,26 +2127,6 @@
       "duration_ms": 180000,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Same Way Home",
-        "url": "https://open.spotify.com/album/4tzpMQQJ5JPI6n7xEsxs7e"
-      },
-      "artists": [
-        {
-          "name": "Rotem Sivan",
-          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
-        },
-        {
-          "name": "Mike Goldstein",
-          "url": "https://open.spotify.com/artist/6qfMf8A1BZZsPeQdVkewVA"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Same Way Home",
-      "url": "https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -2155,6 +2151,26 @@
       "duration_ms": 224400,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Same Way Home",
+        "url": "https://open.spotify.com/album/4tzpMQQJ5JPI6n7xEsxs7e"
+      },
+      "artists": [
+        {
+          "name": "Rotem Sivan",
+          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
+        },
+        {
+          "name": "Mike Goldstein",
+          "url": "https://open.spotify.com/artist/6qfMf8A1BZZsPeQdVkewVA"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Same Way Home",
+      "url": "https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -2195,38 +2211,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
-      },
-      "artists": [
-        {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
-        }
-      ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Her House (Single Edit) [Star of Spring]",
-        "url": "https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK"
-      },
-      "artists": [
-        {
-          "name": "Anna Gr\u00e9ta",
-          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
-        }
-      ],
-      "duration_ms": 227645,
-      "name": "Her House (Single Edit)",
-      "url": "https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Sorrows Into Silk",
         "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
       },
@@ -2243,18 +2227,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Best Time Of The Year",
-        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
       },
       "artists": [
         {
-          "name": "Budbud",
-          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
         }
       ],
-      "duration_ms": 189688,
-      "name": "Best Time Of The Year",
-      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -2271,6 +2255,22 @@
       "duration_ms": 235539,
       "name": "Love is Easy",
       "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Best Time Of The Year",
+        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+      },
+      "artists": [
+        {
+          "name": "Budbud",
+          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+        }
+      ],
+      "duration_ms": 189688,
+      "name": "Best Time Of The Year",
+      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
     },
     {
       "added_at": "2024-02-09 00:01:00",

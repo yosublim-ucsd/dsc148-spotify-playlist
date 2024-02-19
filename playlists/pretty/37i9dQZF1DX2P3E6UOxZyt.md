@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: KIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,548 likes - 72 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,553 likes - 72 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [So Sad \- Remix](https://open.spotify.com/track/387i62hO8kJDqGmPZmsjM1) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [So Sad \(Remix\)](https://open.spotify.com/album/0uoJdmKAdyhKO4WkVwwClL) | 3:43 |
 | 72 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 |
 
-Snapshot ID: `MCxhZGQ5NmY0YjhlMDIyNWIxNGUyNWVmZTZjOGU0ZGMwOGFiYjYyMzQ2`
+Snapshot ID: `MCxmMTM3MGNlNWNlYWViM2U2YThhMjA3YWJjNThhM2FhMGU2MDQ0YmE1`

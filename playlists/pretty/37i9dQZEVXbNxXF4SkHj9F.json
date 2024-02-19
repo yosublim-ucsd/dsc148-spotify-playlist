@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 111608,
+  "num_followers": 111665,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYxNTM0NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYxNjIwODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Closer Than This",
         "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Like Crazy (English Version)",
+      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -81,23 +97,7 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Like Crazy (English Version)",
-      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Bam Yang Gang",
         "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Set Me Free Pt.2",
         "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "TWS 1st Mini Album 'Sparkling Blue'",
         "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts"
@@ -177,23 +177,7 @@
       "url": "https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Grain of Sand",
         "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
@@ -209,7 +193,23 @@
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
@@ -225,55 +225,7 @@
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "Love wins all",
-        "url": "https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 271080,
-      "name": "Love wins all",
-      "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "To. X - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 170386,
-      "name": "To. X",
-      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
@@ -289,31 +241,39 @@
       "url": "https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
       "artists": [
         {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 264324,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "Love wins all",
+        "url": "https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 271080,
+      "name": "Love wins all",
+      "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -329,43 +289,55 @@
       "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
-        "name": "Love 119",
-        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 173489,
-      "name": "Love 119",
-      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
+      "duration_ms": 170386,
+      "name": "To. X",
+      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
-        "name": "wherever u r (ft. V of BTS)",
-        "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 153034,
-      "name": "wherever u r (ft. V of BTS)",
-      "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 229627,
+      "name": "Face-off",
+      "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
@@ -389,39 +361,43 @@
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+        "name": "wherever u r (ft. V of BTS)",
+        "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 229627,
-      "name": "Face-off",
-      "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
+      "duration_ms": 153034,
+      "name": "wherever u r (ft. V of BTS)",
+      "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+        "name": "Love 119",
+        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 274386,
-      "name": "If We Ever Meet Again",
-      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
+      "duration_ms": 173489,
+      "name": "Love 119",
+      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -437,55 +413,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -501,7 +429,39 @@
       "url": "https://open.spotify.com/track/2gkVEnpahpE3bQuvGuCpAV"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
@@ -517,23 +477,79 @@
       "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
-        "name": "Fe3O4: BREAK",
-        "url": "https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP"
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 166979,
-      "name": "DASH",
-      "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
+      "duration_ms": 130996,
+      "name": "Interlude : Dive",
+      "url": "https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/50xSycnGMDy0Wg5jJcOv3S"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "Standing Next to You (USHER Remix)",
         "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
@@ -553,71 +569,23 @@
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+      "duration_ms": 166979,
+      "name": "DASH",
+      "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 130996,
-      "name": "Interlude : Dive",
-      "url": "https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 154236,
-      "name": "Hate You",
-      "url": "https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
@@ -628,12 +596,28 @@
           "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 196400,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/50xSycnGMDy0Wg5jJcOv3S"
+      "duration_ms": 256372,
+      "name": "A bientot",
+      "url": "https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Our Blues, Our Life",
+      "url": "https://open.spotify.com/track/2jidjmWNeRmKgLjXhW52Gz"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -653,7 +637,55 @@
       "url": "https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 154236,
+      "name": "Hate You",
+      "url": "https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
@@ -669,63 +701,7 @@
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 154486,
-      "name": "Left and Right (Feat. Jung Kook of BTS)",
-      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Our Blues, Our Life",
-      "url": "https://open.spotify.com/track/2jidjmWNeRmKgLjXhW52Gz"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
@@ -741,7 +717,55 @@
       "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "LOVE IN STEREO",
         "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
@@ -761,7 +785,7 @@
       "url": "https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
@@ -772,60 +796,12 @@
           "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 256372,
-      "name": "A bientot",
-      "url": "https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu"
+      "duration_ms": 239026,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2lsRp40mCRkhqULWdMbOzn"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
-      "album": {
-        "name": "NewJeans 'OMG'",
-        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
-    },
-    {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -841,20 +817,36 @@
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
     },
     {
-      "added_at": "2024-02-17 09:58:52",
+      "added_at": "2024-02-18 08:56:07",
       "album": {
-        "name": "The 4th Mini Album 'VERSUS'",
-        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 195520,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "added_at": "2024-02-18 08:56:07",
+      "album": {
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/7lSbnSqrOfg2aSOLaJHDsL"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/43u5DDtK4vQ1coWXb4S5a8"
     }
   ],
   "unique_name": "Top 50 - South Korea",

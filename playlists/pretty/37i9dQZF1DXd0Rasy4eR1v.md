@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,684 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,698 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 79 | [Club Road](https://open.spotify.com/track/7LDHUzYbSe9B2a4bzFOxpV) | [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Club Road](https://open.spotify.com/album/22AdTIhTLsX18XBYnOQuMO) | 2:53 |
 | 80 | [CRYLOOP \#2](https://open.spotify.com/track/0vEfhFwwRrNw1R6cXEzPof) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY), [Umar.](https://open.spotify.com/artist/4INRTjmbOR0tkPGC3ySXIm) | [CRYLOOP \#2](https://open.spotify.com/album/286iWmypvu6vXCVlwPgiF0) | 2:23 |
 
-Snapshot ID: `MCxjNGMwYzdkNTM3NTIyYjFmMjlhM2M0MWJkMzcwYmU4NDk5N2JjZTJm`
+Snapshot ID: `MCwxYTE4YWViZmQ2Njk1NjEzMmNmYTc2YzBmZjVmNzgzOTk0ZTAyZTc3`

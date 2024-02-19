@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 67378,
+  "num_followers": 67389,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGVjN2IxMjIzZGEwMjUzZmRlYzA4MzQwOWQ5ZGI4MDI4ZTE5ZjBi",
+  "snapshot_id": "MCw1MWQ3ODBlZTU0MmRhY2I5OGVjZjIxMzY1YzIyYjhjNWJjZTU0ZjBi",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:41",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "Junker's Blues",
-      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Doc Watson",
         "url": "https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 159000,
       "name": "Sittin On Top Of The World",
       "url": "https://open.spotify.com/track/3GgvAt2Cyp7GRhYy9Luus1"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Junker's Blues",
+      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 227893,
       "name": "I Can Feel You Smiling",
       "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "It Would Be Better for the Bad to Be Good",
-        "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "It Would Be Better for the Bad to Be Good",
-      "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "It Would Be Better for the Bad to Be Good",
+        "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "It Would Be Better for the Bad to Be Good",
+      "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Skip James Live Vol. 2 Bloomington 1968 Part 1",
-        "url": "https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 143673,
-      "name": "Crow Jane",
-      "url": "https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/2jmS1jYAeh5mpl7DSfZS0B"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 249806,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/6LfPMqwKz9h4Vs3Lf2hMDz"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Skip James Live Vol. 2 Bloomington 1968 Part 1",
+        "url": "https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "duration_ms": 143673,
+      "name": "Crow Jane",
+      "url": "https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Assossam",
+      "url": "https://open.spotify.com/track/4mrDCkjzLhi9CfxYfHWPaD"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "All The Bad Things (Stripped Back)",
         "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 160213,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Assossam",
-      "url": "https://open.spotify.com/track/4mrDCkjzLhi9CfxYfHWPaD"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Berkshire House Recordings Pt. I",
-        "url": "https://open.spotify.com/album/5DNRTQeL3O0kPgsCnqzXOi"
-      },
-      "artists": [
-        {
-          "name": "Pat Hodge",
-          "url": "https://open.spotify.com/artist/2jy7wJNqGfrBHQpME3q2mk"
-        }
-      ],
-      "duration_ms": 176738,
-      "name": "Wasting Time With You",
-      "url": "https://open.spotify.com/track/6QMZqQ1BqqeNVknaEWzUhe"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "If These Walls Could Talk",
         "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 267512,
       "name": "Only Porter at the Station",
       "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Berkshire House Recordings Pt. I",
+        "url": "https://open.spotify.com/album/5DNRTQeL3O0kPgsCnqzXOi"
+      },
+      "artists": [
+        {
+          "name": "Pat Hodge",
+          "url": "https://open.spotify.com/artist/2jy7wJNqGfrBHQpME3q2mk"
+        }
+      ],
+      "duration_ms": 176738,
+      "name": "Wasting Time With You",
+      "url": "https://open.spotify.com/track/6QMZqQ1BqqeNVknaEWzUhe"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Forever On My Mind",
         "url": "https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a"
       },
@@ -1803,18 +1819,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+        "name": "Country Blues",
+        "url": "https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+      "duration_ms": 194346,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1835,22 +1851,6 @@
       "duration_ms": 236720,
       "name": "Good, Good Man",
       "url": "https://open.spotify.com/track/7uSkpPhm94n4USbGTq9U31"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Country Blues",
-        "url": "https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Pray For Rain",
+        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Pray For Rain",
+      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Trying to Hold On",
         "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 249626,
       "name": "Be for Me",
       "url": "https://open.spotify.com/track/5QNR5H81d2G2BZk4uDdaR7"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "The Tumbler",
-        "url": "https://open.spotify.com/album/0MFLGuQwM22kc38Gt5XVAV"
-      },
-      "artists": [
-        {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
-        }
-      ],
-      "duration_ms": 140853,
-      "name": "Winin\u2019 Boy Blues",
-      "url": "https://open.spotify.com/track/3bLcw2Fh2FTR7orvOQeNFg"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1935,34 +1935,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The Country Blues Of John Lee Hooker",
-        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+        "name": "The Tumbler",
+        "url": "https://open.spotify.com/album/0MFLGuQwM22kc38Gt5XVAV"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
         }
       ],
-      "duration_ms": 167400,
-      "name": "She's Long, She's Tall, She Weeps Like A Willow Tree",
-      "url": "https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Pray For Rain",
-        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Pray For Rain",
-      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
+      "duration_ms": 140853,
+      "name": "Winin\u2019 Boy Blues",
+      "url": "https://open.spotify.com/track/3bLcw2Fh2FTR7orvOQeNFg"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1987,22 +1971,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Good Morning Little School Girl",
-      "url": "https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "original soundtrack to my nightmare",
         "url": "https://open.spotify.com/album/7egqzjudOsyV9zYWWGfdpT"
       },
@@ -2015,6 +1983,38 @@
       "duration_ms": 244320,
       "name": "This Ain't the Way I Came Up",
       "url": "https://open.spotify.com/track/4MtQq37dHX2xQLqbgeSJW3"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "The Country Blues Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "She's Long, She's Tall, She Weeps Like A Willow Tree",
+      "url": "https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
+      },
+      "artists": [
+        {
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Good Morning Little School Girl",
+      "url": "https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+        "name": "75-71",
+        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
       },
       "artists": [
         {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 153493,
-      "name": "Preachin' the Blues",
-      "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
+      "duration_ms": 224186,
+      "name": "75-71",
+      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "75-71",
-        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
         }
       ],
-      "duration_ms": 224186,
-      "name": "75-71",
-      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
+      "duration_ms": 153493,
+      "name": "Preachin' the Blues",
+      "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Teach Me How to Stay (Live)",
-        "url": "https://open.spotify.com/album/5KnOlJerBisARbyK4AAijY"
-      },
-      "artists": [
-        {
-          "name": "Boneshakers",
-          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
-        }
-      ],
-      "duration_ms": 323040,
-      "name": "Teach Me How to Stay - Live",
-      "url": "https://open.spotify.com/track/2KXTHCc7NbLlR57VVaVxEN"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Lost On Your Time",
         "url": "https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 233704,
       "name": "Lost On Your Time",
       "url": "https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Teach Me How to Stay (Live)",
+        "url": "https://open.spotify.com/album/5KnOlJerBisARbyK4AAijY"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Teach Me How to Stay - Live",
+      "url": "https://open.spotify.com/track/2KXTHCc7NbLlR57VVaVxEN"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Huldenberg Blues (Remastered)",
-        "url": "https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4UikUDx3HNDM1NEqNaJnGE"
       },
       "artists": [
         {
-          "name": "Wizz Jones",
-          "url": "https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG"
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Dallas Blues - Remastered",
-      "url": "https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh"
+      "duration_ms": 163933,
+      "name": "I Want to Hear You Sing",
+      "url": "https://open.spotify.com/track/3Ek5imwgbQxR8bWdtxJJwk"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2247,18 +2247,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/4UikUDx3HNDM1NEqNaJnGE"
+        "name": "Huldenberg Blues (Remastered)",
+        "url": "https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM"
       },
       "artists": [
         {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+          "name": "Wizz Jones",
+          "url": "https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG"
         }
       ],
-      "duration_ms": 163933,
-      "name": "I Want to Hear You Sing",
-      "url": "https://open.spotify.com/track/3Ek5imwgbQxR8bWdtxJJwk"
+      "duration_ms": 234240,
+      "name": "Dallas Blues - Remastered",
+      "url": "https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2275,22 +2275,6 @@
       "duration_ms": 169410,
       "name": "Hard Times Are Comin'",
       "url": "https://open.spotify.com/track/5wx9L4JVX7jKBX4w5lFmkE"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Grey Sky Blue",
-        "url": "https://open.spotify.com/album/4clzWU8Hi3Xd3xftWH5pER"
-      },
-      "artists": [
-        {
-          "name": "Kyla Brox",
-          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "Kasbah",
-      "url": "https://open.spotify.com/track/61QnpQqwH3F3HtvgZguOQW"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2335,6 +2319,38 @@
       "duration_ms": 144763,
       "name": "Painting the Clouds with Sunshine",
       "url": "https://open.spotify.com/track/3iJ7zN5gMrIoL5Q3oVpe5g"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Make It Through",
+        "url": "https://open.spotify.com/album/0oXWOuYMNIxsVHs9PgXfvC"
+      },
+      "artists": [
+        {
+          "name": "Heather Luckhart",
+          "url": "https://open.spotify.com/artist/7tP1inVHEFMPLI87sp6RRu"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "I\u2019ve Got Something",
+      "url": "https://open.spotify.com/track/1D6bIicQYlT2aZLzj0EfZo"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Grey Sky Blue",
+        "url": "https://open.spotify.com/album/4clzWU8Hi3Xd3xftWH5pER"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Kasbah",
+      "url": "https://open.spotify.com/track/61QnpQqwH3F3HtvgZguOQW"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2407,22 +2423,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Mashing Rain",
-        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
-      },
-      "artists": [
-        {
-          "name": "Honky Fish",
-          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
-        }
-      ],
-      "duration_ms": 134333,
-      "name": "Mashing Rain",
-      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Good to You Blues",
         "url": "https://open.spotify.com/album/5xbLjTvVtrdVaOFFJ709iE"
       },
@@ -2435,6 +2435,22 @@
       "duration_ms": 322437,
       "name": "Good to You Blues",
       "url": "https://open.spotify.com/track/671nwzfH2ruB5CRyhNaeiw"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Mashing Rain",
+        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
+      },
+      "artists": [
+        {
+          "name": "Honky Fish",
+          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
+        }
+      ],
+      "duration_ms": 134333,
+      "name": "Mashing Rain",
+      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2467,22 +2483,6 @@
       "duration_ms": 197386,
       "name": "Make it Talk",
       "url": "https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Agnes Water Blues",
-        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
-      },
-      "artists": [
-        {
-          "name": "Maynard Heap",
-          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
-        }
-      ],
-      "duration_ms": 236655,
-      "name": "Agnes Water Blues",
-      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
     },
     {
       "added_at": "2023-09-15 11:42:41",

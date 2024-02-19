@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:6zSsJYBB1393jyFNRy7JrK">Melvin Crispell III</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,508 likes - 96 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,594 likes - 96 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 95 | [Planted](https://open.spotify.com/track/5E6lx3w4GqLbKPKQrYyFIn) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b), [Ethan Kent](https://open.spotify.com/artist/6tkZDZILZdLZaCuY801ef3) | [Planted](https://open.spotify.com/album/0iPVkBWSUkUvRs3GMAK5Pm) | 4:02 |
 | 96 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
 
-Snapshot ID: `MCwyZTY0YTkwZTU3MzE0ZGRiMDg1ZGZiYTJiZTMwYTdiOGVlNGU5ZTBh`
+Snapshot ID: `MCxmZDM5YzNmOTcxMjQwM2IwZDk5YTg3YTFmOGJmMmU4ZGE4YjZkZTdk`

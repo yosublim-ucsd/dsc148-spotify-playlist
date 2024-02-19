@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 143479,
+  "num_followers": 143501,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGIyODI1NTkyNzBiY2ZkYTI1NmYwNDdkOWVmYjE3ZjU1OTc2MTAz",
+  "snapshot_id": "MCxmZGRjZTgzODkzOTgzYmQyZDAzYTlkYWI0NzM3MDU5NDkwNjAwY2Yz",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Louisiana (Soundtrack from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4vFZ8HSqPCNYQpwqXKrAZS"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Davis",
+          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "There's A New Moon Over My Shoulder",
+      "url": "https://open.spotify.com/track/0zJyenyeIqcu7h8OyXBJ4n"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
         "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 153373,
       "name": "Room Full of Roses",
       "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Louisiana (Soundtrack from the Motion Picture)",
-        "url": "https://open.spotify.com/album/4vFZ8HSqPCNYQpwqXKrAZS"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Davis",
-          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "There's A New Moon Over My Shoulder",
-      "url": "https://open.spotify.com/track/0zJyenyeIqcu7h8OyXBJ4n"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Columbia Singles Collection (1949-1964)",
-        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
-      },
-      "artists": [
-        {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Candy Kisses - 78 rpm Version",
-      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Columbia Country Classics Volume 2: Honky Tonk Heroes",
         "url": "https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "The Columbia Singles Collection (1949-1964)",
+        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+      },
+      "artists": [
+        {
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Candy Kisses - 78 rpm Version",
+      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Copasetic",
         "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "So, Round, So Firm, So Fully Packed",
-      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Columbia Country Classics Volume 1: The Golden Age",
         "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
@@ -991,6 +975,38 @@
       "duration_ms": 159800,
       "name": "Born to Lose",
       "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Bob Wills And His Texas Playboys",
+        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "New San Antonio Rose",
+      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "So, Round, So Firm, So Fully Packed",
+      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Bob Wills And His Texas Playboys",
-        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Little Jimmy Dickens",
+          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
         }
       ],
-      "duration_ms": 156373,
-      "name": "New San Antonio Rose",
-      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+      "duration_ms": 167826,
+      "name": "Take an Old Cold 'Tater (and Wait)",
+      "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1071,22 +1087,6 @@
       "duration_ms": 161120,
       "name": "Texarkana Baby",
       "url": "https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
-      },
-      "artists": [
-        {
-          "name": "Little Jimmy Dickens",
-          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Take an Old Cold 'Tater (and Wait)",
-      "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
+        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "Invisible Stripes",
+      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "My Favorite Country Songs",
         "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
       },
@@ -1139,34 +1155,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Presenting Al Dexter",
-        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
       },
       "artists": [
         {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
         }
       ],
-      "duration_ms": 163053,
-      "name": "Too Late to Worry, Too Blue to Cry",
-      "url": "https://open.spotify.com/track/39oDv2nFjiDVRpj0DLBXIl"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
-        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Invisible Stripes",
-      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
+      "duration_ms": 153960,
+      "name": "Rocky Road Blues",
+      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
     }
   ],
   "unique_name": "40s Country",

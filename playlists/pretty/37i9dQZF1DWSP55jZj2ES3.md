@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,088 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,099 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 73 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 |
 | 74 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 |
 | 75 | [Beach Bummer](https://open.spotify.com/track/1EEon0WCgeb8cTUbqo6qlq) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq) | 2:28 |
-| 76 | [Clueless](https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:47 |
-| 77 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
+| 76 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
+| 77 | [Clueless](https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:47 |
 | 78 | [Dapper \(feat\. Anderson .Paak\)](https://open.spotify.com/track/2Nh2cMryoXl7BrZoIeN2Pr) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Genesis](https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW) | 3:13 |
 | 79 | [Shadow Man](https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 5:11 |
 | 80 | [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 91 | [Stay High](https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime \(Reimagined\)](https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP) | 3:38 |
 | 92 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
 | 93 | [Napkins](https://open.spotify.com/track/0YvzawIC5nFFYj5YAvv5HP) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Napkins](https://open.spotify.com/album/1JyG3QDEsxszuDQYsqrivA) | 3:35 |
-| 94 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 |
-| 95 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 |
+| 94 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 |
+| 95 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 |
 | 96 | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Moe Moks](https://open.spotify.com/artist/7DkftpjbqLhwjlCUe567y9) | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL) | 3:37 |
 | 97 | [Who Am I But Someone](https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:42 |
 | 98 | [Movie Screen](https://open.spotify.com/track/1OEEIcF2Q2aK0zZNnFmc05) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tommy Gun](https://open.spotify.com/album/62A2Ye3DprnbewfUJyPHuh) | 3:03 |
 | 99 | [Tangerine \- Channel Tres Remix](https://open.spotify.com/track/00la3AttWg75aLlKhJT8Tj) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tangerine \(Channel Tres Remix\)](https://open.spotify.com/album/4uznz11iOtwglAsrjKEqwy) | 4:54 |
 | 100 | [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 |
 
-Snapshot ID: `MCxhMTY5ZGI0MTg1NDBkYzc2MzRkOGUxY2ZjYWRkMGMzODc1N2M4YzJj`
+Snapshot ID: `MCw0NjE5MjRkNDljZDViZTZhZmVmMjYyODkzOWIzODBkMWM2NGVjYTBm`

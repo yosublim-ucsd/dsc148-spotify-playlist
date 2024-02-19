@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,800 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,201 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 46 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
 | 47 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
 | 48 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 |
-| 49 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 |
+| 49 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
 | 50 | [BLOODY STREAM](https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [BLOODY STREAM](https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW) | 4:21 |
-| 51 | [Black Catcher](https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:16 |
-| 52 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
+| 51 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 |
+| 52 | [Black Catcher](https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:16 |
 | 53 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 |
 | 54 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 |
 | 55 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 83 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
 | 84 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 |
 | 85 | [空に歌えば](https://open.spotify.com/track/3XKMO7tvyyUmxRvlJGhYQm) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [地方都市のメメント・モリ](https://open.spotify.com/album/5H70NIneu6i4h5LKIG9TH6) | 3:37 |
-| 86 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 |
-| 87 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 |
-| 88 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
+| 86 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
+| 87 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 |
+| 88 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 |
 | 89 | [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 |
 | 90 | [アイタリナイ](https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [アイタリナイ](https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj) | 2:42 |
 | 91 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
 | 92 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
 | 93 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
 | 94 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
-| 95 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 |
-| 96 | [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 |
+| 95 | [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 |
+| 96 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 |
 | 97 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 | 98 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 |
 | 99 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 |
 | 100 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 |
 
-Snapshot ID: `MCw0NTI2NGUxYThhNzRjYjc5ZGI1YWZkOWE1ZGY3NjExNzI5MTEwMzM1`
+Snapshot ID: `MCwyOWUzYTM3M2NiZTJjMTM5MTY1ZDYzMTExMzBlYTQ5MmM2MDA0ZmNm`

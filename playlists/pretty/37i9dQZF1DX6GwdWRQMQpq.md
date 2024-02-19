@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,064,195 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,064,609 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 27 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |
 | 28 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 29 | [Grip](https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 3:16 |
-| 30 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
+| 30 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
 | 31 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 32 | [Snooze](https://open.spotify.com/track/24yrJJkmVUMkJHvCaR85BN) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Snooze](https://open.spotify.com/album/0L632gxhMbscW5mY9ewbOq) | 3:21 |
 | 33 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 |
 | 50 | [Na Na Na](https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Na Na Na](https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0) | 1:40 |
 
-Snapshot ID: `MCwyYTJkZjAwNjk0ODMwMDMwZTUxYThlMWE1ZGJiOWMwM2YyNjJkZDY2`
+Snapshot ID: `MCw4NDYzNmZjMTdhYmE2OTQ1ZTFiODM2Njg2YTA1OGYxZWI3MDBhYzA2`

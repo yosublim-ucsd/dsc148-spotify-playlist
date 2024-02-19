@@ -4,7 +4,7 @@
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-45 songs - 4 hr 8 min
+46 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Em Fervente Oração \- Acústico](https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Em Fervente Oração \(Acústico\)](https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx) | 4:53 | 2023-07-09 |  |
 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 | 2023-07-09 |  |
 | [Essência Da Adoração \- Ao Vivo](https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Essência Da Adoração \(Ao Vivo\)](https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3) | 5:17 | 2023-07-09 |  |
+| [Eu Canto \- Ao Vivo](https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Para as Nações \(Ao Vivo\)](https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v) | 8:19 | 2024-02-18 |  |
 | [Fome e Sede](https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Fome e Sede](https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq) | 6:01 | 2023-07-09 |  |
 | [Hambre Y Sed](https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Hambre Y Sed](https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB) | 6:01 | 2023-07-09 |  |
 | [Há Liberdade Aqui \- Ao Vivo](https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Há Liberdade Aqui \(Ao Vivo\)](https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn) | 9:28 | 2023-09-15 |  |

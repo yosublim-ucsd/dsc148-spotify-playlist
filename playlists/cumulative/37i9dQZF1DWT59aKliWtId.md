@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Mumford & Sons
 
-953 songs - 2 day 10 hr 26 min
+954 songs - 2 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,8 @@
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-01-28 | 2022-04-23 |
 | [High & Unsteady](https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [High & Unsteady](https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57) | 3:43 | 2023-01-20 | 2023-04-22 |
 | [Highest Bidder](https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder](https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb) | 3:34 | 2022-02-11 | 2022-04-09 |
-| [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 | 2023-08-18 |  |
+| [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 | 2023-08-18 | 2024-02-19 |
+| [Highlands](https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 3:31 | 2024-01-22 |  |
 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 | 2022-07-01 | 2022-08-27 |
 | [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-08-26 | 2022-10-08 |
 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-12-10 | 2022-03-12 |

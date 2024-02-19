@@ -4,7 +4,7 @@
 
 > Songs that will make you fall in love without even seeing your date 👀 Meira and Oskar from Netflix series Love is Blind Sweden bless us with their best ❤️ songs.
 
-29 songs - 1 hr 56 min
+30 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Soltane Ghalbha](https://open.spotify.com/track/1q4U2zOXyMAlVoA5stAN04) | [Aref](https://open.spotify.com/artist/1FEABcMZtFitRlvH8V0UJI) | [Aref Greatest Hits \- Persian Music](https://open.spotify.com/album/5Bvp4WQHji4HIdc1lMbNAW) | 4:39 | 2024-02-08 |  |
 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2024-02-08 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2024-02-08 |  |
-| [Uncover](https://open.spotify.com/track/3DQisSEr1TLp9H0BEeKiQS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Uncover](https://open.spotify.com/album/0vXJ3rh6Sy7KWjp2P5d7ll) | 3:33 | 2024-02-08 |  |
+| [Uncover](https://open.spotify.com/track/3DQisSEr1TLp9H0BEeKiQS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Uncover](https://open.spotify.com/album/0vXJ3rh6Sy7KWjp2P5d7ll) | 3:33 | 2024-02-08 | 2024-02-19 |
+| [Uncover](https://open.spotify.com/track/131l5GkXPIk81bxihGypPt) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Introducing](https://open.spotify.com/album/4K1Jjk7BdhdLbsMdl3q1f2) | 3:34 | 2024-02-08 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2024-02-08 |  |
 | [Vem vet?](https://open.spotify.com/track/0oKOAL9nhFMieApXNLYkZ8) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Lisa Ekdahl](https://open.spotify.com/album/7zt7vhLaqKhVuR08UZSwNP) | 3:03 | 2024-02-08 |  |
 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 | 2024-02-08 |  |

@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 79 | [One and Lonely](https://open.spotify.com/track/0br1EHWkZNvoi0KFruBUVX) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [One and Lonely](https://open.spotify.com/album/0yZFcNibtzlDg4r4Molxyk) | 3:04 |
 | 80 | [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 |
 | 81 | [Necklace](https://open.spotify.com/track/2uW2mr7xyFXwxG0cHNq87B) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Necklace](https://open.spotify.com/album/1YaEANXHSIKzuHEcClw2eY) | 3:31 |
-| 82 | [EMPATHY](https://open.spotify.com/track/0tJBpycwDDQ0nHakWe9ASw) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [THE ROAD TO CLOSURE](https://open.spotify.com/album/3lKDEtsAPHQx71OL5z1gbI) | 3:15 |
-| 83 | [OH!](https://open.spotify.com/track/5QjNvFDIXUP5et1Ffa5gMt) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [OH!](https://open.spotify.com/album/3znMb5hi0ebhlOkunIcVWl) | 3:04 |
+| 82 | [OH!](https://open.spotify.com/track/5QjNvFDIXUP5et1Ffa5gMt) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [OH!](https://open.spotify.com/album/3znMb5hi0ebhlOkunIcVWl) | 3:04 |
+| 83 | [EMPATHY](https://open.spotify.com/track/0tJBpycwDDQ0nHakWe9ASw) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [THE ROAD TO CLOSURE](https://open.spotify.com/album/3lKDEtsAPHQx71OL5z1gbI) | 3:15 |
 | 84 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 |
 | 85 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 |
 | 86 | [Body](https://open.spotify.com/track/5VyjnK3NmjFjSUoG4qbqLy) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:18 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 109 | [All the Way](https://open.spotify.com/track/4HOee5nD88uaSCJ00eYsR4) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Mantra Songs](https://open.spotify.com/album/6Jyzb9eljiiOneflz9vl08) | 3:30 |
 | 110 | [WHEREVER YOU ARE](https://open.spotify.com/track/56UFnN1OLTcOiH1hjquSZe) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 3:45 |
 | 111 | [Happen](https://open.spotify.com/track/3lieXczavxShuM9SDEtPnD) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Happen](https://open.spotify.com/album/356K0xUK0Y8SiSBwybol9s) | 3:20 |
-| 112 | [DLT](https://open.spotify.com/track/02ibTlP8OopGchPa4UNLDL) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 3:46 |
-| 113 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
+| 112 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
+| 113 | [DLT](https://open.spotify.com/track/02ibTlP8OopGchPa4UNLDL) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 3:46 |
 | 114 | [Blind To The Blonde](https://open.spotify.com/track/2OEcST3YKixTHWrUJl8Sab) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 2:38 |
 | 115 | [Conscious](https://open.spotify.com/track/3rsdgWUSYPD9YiWtieunao) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:27 |
 | 116 | [Today](https://open.spotify.com/track/7kjAhE3dcaP3tCQTWqayt8) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Today](https://open.spotify.com/album/5DY1jkYe4cOdok3HgGS6X3) | 3:34 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 120 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 121 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Mjg0NzAzNzAsMDAwMDAwMDA5MDFkNTY5YWU4NzFkZjdhNGExMGQ3YTA4ZmNhNTc5NQ==`
+Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDBiMzM1NDA2MTM2NjE3M2NmZjYwMDFkNTM5NWNjYTJiYg==`

@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con Yeruza en portada.",
-  "num_followers": 13252,
+  "num_followers": 13272,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTZmMGQyYzFkZWQxNGNkNzBjYzkwOTFhMDY4ODYyNmY5NjdlMjA0",
+  "snapshot_id": "MCwxOWJlMTZkMjk2ODkwZTI1YzNjNDlkN2E4OTkzMDk1NjZhNThjYTcy",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Toda Remix",
-        "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 367680,
-      "name": "Toda Remix - Remix",
-      "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Chosen Few: New Generation",
         "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
       },
@@ -447,6 +415,38 @@
       "duration_ms": 335736,
       "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Noriel, Darkiel, Messiah & Lyan]",
       "url": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Toda Remix",
+        "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 367680,
+      "name": "Toda Remix - Remix",
+      "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
       "added_at": "2023-09-01 04:00:00",

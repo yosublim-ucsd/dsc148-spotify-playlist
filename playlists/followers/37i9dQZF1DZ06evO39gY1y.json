@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 216740,
+  "2024-02-19": 216814,
   "date_first_scraped": "2023-11-11",
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
   "name": "This Is Charles Ans",
@@ -1179,10 +1179,36 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 181418,
       "name": "T\u00fa Tienes el Son",
       "url": "https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2"
+    },
+    {
+      "album": {
+        "name": "Antes del Alba",
+        "url": "https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181418,
+      "name": "T\u00fa Tienes el Son",
+      "url": "https://open.spotify.com/track/3Tf4cwGqkUJp9hKhakqTqG"
     },
     {
       "album": {

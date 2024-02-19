@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con \u00c1ngela Aguilar en portada.",
-  "num_followers": 531172,
+  "num_followers": 531269,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2E2NTIwODk2ZDAyYWY4OWVkYzExYjdiODI5ZjQzZjcxNzE2Zjg4",
+  "snapshot_id": "MCw4NjBjMjZhZTY5NGIxNWU1N2U3ZDBhY2I0NzMwYTM1ZTM1NzcyZTYy",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Manteles & Arrugas",
-        "url": "https://open.spotify.com/album/7LeORvjo14xEvtFlZJGBGY"
-      },
-      "artists": [
-        {
-          "name": "Darviin",
-          "url": "https://open.spotify.com/artist/6dL0CCjAn3nxhZpGVmcO4E"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Manteles & Arrugas",
-      "url": "https://open.spotify.com/track/0NyR8dPui2MoWlWPTQJuUc"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Manteles & Arrugas",
+        "url": "https://open.spotify.com/album/7LeORvjo14xEvtFlZJGBGY"
+      },
+      "artists": [
+        {
+          "name": "Darviin",
+          "url": "https://open.spotify.com/artist/6dL0CCjAn3nxhZpGVmcO4E"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Manteles & Arrugas",
+      "url": "https://open.spotify.com/track/0NyR8dPui2MoWlWPTQJuUc"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Aventurera (with Alex Ferreira)",
-      "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 296360,
       "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Aventurera (with Alex Ferreira)",
+      "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Secreto de Amor",
-      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1163,22 +1147,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
         }
       ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+      "duration_ms": 233000,
+      "name": "Secreto de Amor",
+      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1195,6 +1175,26 @@
       "duration_ms": 276436,
       "name": "Tal Vez, Quiz\u00e1",
       "url": "https://open.spotify.com/track/0sNTrlPwP2CXiMCsiQDIeW"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 173288,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "B\u00e9same mucho",
         "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 173288,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 248208,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Ac\u00fastico En Vivo",
         "url": "https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 189320,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Te Ofrezco",
-        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Te Ofrezco",
-      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Frenesi (2016 Remaster)",
         "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "bolero de desamor",
-      "url": "https://open.spotify.com/track/7FS3QZg04oaKrtOgQjluVu"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
         "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 235453,
       "name": "No Olvides Recordarme - En Vivo",
       "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "bolero de desamor",
+      "url": "https://open.spotify.com/track/7FS3QZg04oaKrtOgQjluVu"
     },
     {
       "added_at": "2024-02-16 06:00:00",

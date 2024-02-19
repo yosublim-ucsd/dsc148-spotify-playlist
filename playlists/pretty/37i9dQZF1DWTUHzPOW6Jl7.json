@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 568675,
+  "num_followers": 569188,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTQzMTU4M2EwYzI5Njk1ZWU3NzM5ZDUzOTZlYzM5OWVhZGQxZWVm",
+  "snapshot_id": "MCw4MzI5ODZhMmUwNTkxNzg4MDM3ZDY2ZWExNzU0ZTYwZmExNGY5NzE5",
   "tracks": [
     {
       "added_at": "2023-10-26 17:18:48",
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "The Evolution",
+        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Like a Boy",
+      "url": "https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Have Mercy",
         "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "The Evolution",
-        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Like a Boy",
-      "url": "https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -987,6 +987,26 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/5gcn8qK6xElFNIP3mGed0M"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "In A Perfect World...",
         "url": "https://open.spotify.com/album/4FdIO8yB9bNtcWlRcStXvZ"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 326186,
       "name": "Knock You Down",
       "url": "https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/5gcn8qK6xElFNIP3mGed0M"
-      },
-      "artists": [
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3"
     },
     {
       "added_at": "2022-08-02 10:25:51",

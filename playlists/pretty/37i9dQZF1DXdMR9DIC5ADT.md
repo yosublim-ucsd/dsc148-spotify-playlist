@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Alfie Templeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,223 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,238 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 20 | [Damn Gloves](https://open.spotify.com/track/7qJXfY2YuKeAc4y8CdWJPq) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yanga YaYa](https://open.spotify.com/artist/6khlvGagBlNVPYIknFCPeJ) | [Damn Gloves](https://open.spotify.com/album/5LtEbfT8ouvd9qLBVhLMv2) | 2:31 |
 | 21 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 22 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 |
-| 23 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
+| 23 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
 | 24 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 |
-| 25 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
+| 25 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
 | 26 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
 | 27 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 | 28 | [Pipe Down](https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pipe Down](https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz) | 2:55 |
-| 29 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
+| 29 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 30 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
-| 31 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 31 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 32 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
 | 33 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 34 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 49 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 | 50 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 
-Snapshot ID: `MCw5YjY3ZDdhMDAzOWU5MTgyYTBlMDNlM2VjMDc2ZDg2YWM3MGIzZjU2`
+Snapshot ID: `MCw3ODMxNWViYTJhMDE2ZjFmNzRjN2ZjYjgzMTI0NTMxNzdkZDFlMDc4`

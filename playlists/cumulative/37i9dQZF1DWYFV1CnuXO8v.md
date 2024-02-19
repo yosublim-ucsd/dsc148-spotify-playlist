@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-278 songs - 17 hr 27 min
+279 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Je Suis Malade](https://open.spotify.com/track/1QEg5Sqt8VCGDuuJl1hlAF) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Je Suis Malade](https://open.spotify.com/album/5yNMWMPlTFk8DX6TmgWhAD) | 2:55 | 2023-02-13 | 2023-05-23 |
 | [Kalam](https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Hazi Men El Sama](https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o) | 3:59 | 2023-02-13 |  |
 | [Kam Sana](https://open.spotify.com/track/1Og247VjsUi4hZIBq6fZEt) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kam Sana](https://open.spotify.com/album/6yxp3wpvxoafrJ6vhdfG35) | 2:56 | 2023-07-13 | 2023-09-09 |
-| [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2023-02-13 |  |
+| [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2023-02-13 | 2024-02-19 |
 | [Khaleke Fe Hodny el Leila](https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Khaleke Fe Hodny el Leila](https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4) | 3:20 | 2023-02-13 |  |
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 | 2023-02-13 |  |
 | [Khatawa](https://open.spotify.com/track/3N6DYmCVTZs2Oy4arj7RqN) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Khatawa](https://open.spotify.com/album/3nNkVRG6vn79jqu1tmlPHP) | 3:20 | 2023-02-13 | 2023-04-06 |
@@ -235,6 +235,7 @@
 | [براحة يا شيخة](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [براحة يا شيخة](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-05-22 | 2023-09-09 |
 | [برتاح معاك](https://open.spotify.com/track/13fRYCIjPIr5fi9Z3a9lGW) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:35 | 2023-04-11 |  |
 | [بطمنك](https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بطمنك](https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM) | 4:49 | 2023-09-14 |  |
+| [بقيس الجمال بيكي](https://open.spotify.com/track/4VriXHfdk3GpTMCKOW70D5) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بقيس الجمال بيكي](https://open.spotify.com/album/5jIBjSo2wTnNdSdUnbs9eN) | 3:47 | 2024-02-16 |  |
 | [بكلمه منك](https://open.spotify.com/track/3uuHB0RCzRGtja8A6YciOB) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بطمنك](https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM) | 4:17 | 2023-09-08 |  |
 | [بيت كبير](https://open.spotify.com/track/4aXMJeSLoH0F1dgmGHPzZW) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [ليا نظرة](https://open.spotify.com/album/7iXNDhh3PBg5AKliz5ZjjB) | 4:32 | 2023-02-13 | 2023-05-23 |
 | [ترحالي](https://open.spotify.com/track/17pKNqA6ODA4lxDZ1ZyL8x) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [ترحالي](https://open.spotify.com/album/5S26R99JmKF6tmohh4xlQn) | 4:18 | 2024-02-07 |  |

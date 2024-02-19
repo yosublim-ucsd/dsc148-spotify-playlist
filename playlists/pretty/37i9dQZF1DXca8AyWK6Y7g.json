@@ -1,12 +1,12 @@
 {
   "description": "i don't normally like country but now my whole life is line dancing to Dasha \ud83e\udd20\ud83d\udc62\ud83c\udf35\ud83c\udfdc\ud83d\udc34",
-  "num_followers": 1493162,
+  "num_followers": 1493310,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTM2YmRlYWUzY2ZjNjNkMDA4OTkzNWU2ZmZiMWRlMDUyMTFkOTZj",
+  "snapshot_id": "MCxiNzljMzQyZWJlMTZiNDZhM2EwMWM3Yzc0M2UxMDgzMzFhMjFlOWU3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "petals",
-        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
-      },
-      "artists": [
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 157598,
-      "name": "he loves me, he loves me not",
-      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lead Me On",
-        "url": "https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn"
-    },
-    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
@@ -543,6 +527,22 @@
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/6NrKSg2op9PLJI9BjpwPXe"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 174196,
-      "name": "Yard Sale",
-      "url": "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "I Should Have Stayed at Home",
         "url": "https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 163013,
       "name": "I Should Have Stayed at Home",
       "url": "https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/6NrKSg2op9PLJI9BjpwPXe"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 174196,
+      "name": "Yard Sale",
+      "url": "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "QUARTER LIFE CRISIS",
-        "url": "https://open.spotify.com/album/0DkuTWSO3Jnljzyxm75mNK"
-      },
-      "artists": [
-        {
-          "name": "Taylor Bickett",
-          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
-        }
-      ],
-      "duration_ms": 198436,
-      "name": "QUARTER LIFE CRISIS",
-      "url": "https://open.spotify.com/track/5qM8NWUsRQ1xztraiBgn0g"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
+        "name": "QUARTER LIFE CRISIS",
+        "url": "https://open.spotify.com/album/0DkuTWSO3Jnljzyxm75mNK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bickett",
+          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
+        }
+      ],
+      "duration_ms": 198436,
+      "name": "QUARTER LIFE CRISIS",
+      "url": "https://open.spotify.com/track/5qM8NWUsRQ1xztraiBgn0g"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
         "name": "Burton St.",
         "url": "https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Home To Another One",
-        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+        "name": "Here\u2019s To Us",
+        "url": "https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 149108,
-      "name": "Home To Another One",
-      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Here\u2019s To Us",
-        "url": "https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS"
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj"
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "Late to the Party",
@@ -1191,6 +1175,22 @@
       "duration_ms": 177176,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Timeline",
-        "url": "https://open.spotify.com/album/1AugVV9htPCWMFroakalq9"
-      },
-      "artists": [
-        {
-          "name": "Kylie Muse",
-          "url": "https://open.spotify.com/artist/5KUrN1Ip3QoemX2Dq4kGS5"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Timeline",
-      "url": "https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "swimming pools",
         "url": "https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 152106,
       "name": "swimming pools",
       "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "Timeline",
+        "url": "https://open.spotify.com/album/1AugVV9htPCWMFroakalq9"
+      },
+      "artists": [
+        {
+          "name": "Kylie Muse",
+          "url": "https://open.spotify.com/artist/5KUrN1Ip3QoemX2Dq4kGS5"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1953,20 +1953,20 @@
       "url": "https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X"
     },
     {
-      "added_at": "2024-01-12 05:14:51",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Tell Her",
-        "url": "https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I"
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
       },
       "artists": [
         {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"
+      "duration_ms": 194262,
+      "name": "Really Mean It",
+      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1987,6 +1987,38 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
+        "name": "Tell Her",
+        "url": "https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "everything about her",
+        "url": "https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 171033,
+      "name": "everything about her",
+      "url": "https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
         "name": "End of an Era",
         "url": "https://open.spotify.com/album/2tJiKcynuvgwJIvt6tSaRb"
       },
@@ -1999,22 +2031,6 @@
       "duration_ms": 189920,
       "name": "End of an Era",
       "url": "https://open.spotify.com/track/17XMzRKnVQeqj8119wRuEs"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 194262,
-      "name": "Really Mean It",
-      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -2047,22 +2063,6 @@
       "duration_ms": 227341,
       "name": "different but exactly like you",
       "url": "https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "everything about her",
-        "url": "https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 171033,
-      "name": "everything about her",
-      "url": "https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Mouthful",
-        "url": "https://open.spotify.com/album/5oepNxJyODntqzZF365JTi"
-      },
-      "artists": [
-        {
-          "name": "EMMY",
-          "url": "https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "The Saddest Part",
-      "url": "https://open.spotify.com/track/6sifTEd6ZW5DEJthyxxEmy"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Do U Love Me?",
         "url": "https://open.spotify.com/album/0K5NsFhvnFmiG5ySWUAabh"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 119325,
       "name": "Do U Love Me?",
       "url": "https://open.spotify.com/track/0rmdt3FHIUkkcbn10xgFHt"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Mouthful",
+        "url": "https://open.spotify.com/album/5oepNxJyODntqzZF365JTi"
+      },
+      "artists": [
+        {
+          "name": "EMMY",
+          "url": "https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "The Saddest Part",
+      "url": "https://open.spotify.com/track/6sifTEd6ZW5DEJthyxxEmy"
     },
     {
       "added_at": "2024-02-16 05:00:00",

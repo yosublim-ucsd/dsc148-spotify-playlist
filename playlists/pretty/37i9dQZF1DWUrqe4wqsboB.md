@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Sie7e
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,966 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,973 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 35 | [Circuito por Milán](https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Circuito por Milán](https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG) | 3:14 |
 | 36 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 37 | [Que Te Vaya Bien](https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Que Te Vaya Bien](https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB) | 2:50 |
-| 38 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
-| 39 | [TQD](https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:20 |
+| 38 | [TQD](https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:20 |
+| 39 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
 | 40 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
 | 41 | [Duermo con frío](https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA) | [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [El Cuento de Cita](https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX) | 3:14 |
-| 42 | [La Pastilla de Tus Sueños, Pt\. 2](https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Cromo Rx](https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3) | 3:53 |
-| 43 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
-| 44 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
-| 45 | [Aguadilla](https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Manu Durán](https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:19 |
+| 42 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
+| 43 | [La Pastilla de Tus Sueños, Pt\. 2](https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Cromo Rx](https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3) | 3:53 |
+| 44 | [Aguadilla](https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Manu Durán](https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:19 |
+| 45 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
 | 46 | [Guarapo y Flor](https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Guarapo y Flor](https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ) | 2:59 |
 | 47 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
 | 48 | [Toco Madera](https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Toco Madera](https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8) | 3:48 |
 | 49 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
 | 50 | [Beso Con Sal](https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA) | [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Beso Con Sal](https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy) | 2:33 |
 
-Snapshot ID: `MCw3YzU0NjFlMDc5YzNmOTY0OGVmMzNmMWVmYTM4NTIxNTc0YTk1MmRk`
+Snapshot ID: `MCw1OWJlOTI5OTRjODk2NTE0YzZjYjI1ZTgyOGVmOWJiNGJlYzlkZDAx`

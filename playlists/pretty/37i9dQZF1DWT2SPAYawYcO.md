@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,353 likes - 84 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,389 likes - 84 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 66 | [Body](https://open.spotify.com/track/7yWO6fYw9dDxJRmMmBVAF0) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Body](https://open.spotify.com/album/7MMDfOYZKjEvq3gb33xPLX) | 2:34 |
 | 67 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 |
 | 68 | [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 |
-| 69 | [S.A.D](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
+| 69 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
 | 70 | [What It's All About](https://open.spotify.com/track/3weULBBOa7Gk5C1eVuj5Dh) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Wing](https://open.spotify.com/album/3Qc1qeHSkWYfWg9Jt9mxMq) | 3:43 |
 | 71 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 |
 | 72 | [TRY HARD](https://open.spotify.com/track/2DybcKTNBTIT66e5V5OpgI) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [TRY HARD](https://open.spotify.com/album/3wjzNEOQiH2PSZhrjOzvxg) | 4:05 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 83 | [Foreign Substances](https://open.spotify.com/track/0PAqtNJVgBeoNtD5nwJEIn) | [Obscura Hail](https://open.spotify.com/artist/0p0gv7xNsCw60SPRrgfyTE) | [Foreign Substances](https://open.spotify.com/album/6l78HaKVE2I2Gfs3X8DNc3) | 3:02 |
 | 84 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 
-Snapshot ID: `MCxlNzcwN2Y3YzU1NzRjNzU5NGFkNzkyNTJmZjk3OTEzOTdmYWFiMTg3`
+Snapshot ID: `MCxlNDUzOWM5MTg5ZTJjNjJkNTZlNzY5ZjQ0MzEwY2FkYzI3NDQ3ODIy`

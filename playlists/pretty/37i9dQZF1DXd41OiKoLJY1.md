@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Alexis Gildore Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,051 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,049 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 32 | [unta tinoud](https://open.spotify.com/track/58qYsyGGRLfK4lf1xp5CSb) | [Jade Makawili](https://open.spotify.com/artist/1ddKtJoBQplzrpVxs9JYxn), [Casey Vil](https://open.spotify.com/artist/5lIIMhZPaxs9qstHGMH0EL) | [unta tinoud](https://open.spotify.com/album/272ZZuiLOUscSUirhtSfxc) | 2:50 |
 | 33 | [Cup of Tea](https://open.spotify.com/track/2FOVoCQbsxpoug0jtoCV2e) | [Genesis Anne](https://open.spotify.com/artist/4JWGf3EuvUNVvHHioy08Rs) | [Cup of Tea](https://open.spotify.com/album/3gndIoI26hjXzf1HNZ19rM) | 3:20 |
 | 34 | [Masayang Muli](https://open.spotify.com/track/5gjGoVq48VcxEItRgzt22o) | [Bobby Skyz](https://open.spotify.com/artist/0SlhseWyyKwZNESBTYFS1Y) | [Masayang Muli](https://open.spotify.com/album/6UarfMMKWmhGEoPowhKrBB) | 3:35 |
-| 35 | [Nandito Ako](https://open.spotify.com/track/4lFpGvBAwEuQ9HWRYAObzU) | [Bo$$ RyL](https://open.spotify.com/artist/2aUXqWnqgiQG0HiLXyNz2A), [XAP](https://open.spotify.com/artist/1pIYXdqALY3HWGWz9cbiIk), [KyD LDN](https://open.spotify.com/artist/11iAdroTH5Gfpg71hoTz26) | [Nandito Ako](https://open.spotify.com/album/2vlPSsrAQUXsjeZJzETYeJ) | 3:51 |
+| 35 | [Nandito Ako](https://open.spotify.com/track/2p5rD1YvrQ5zNJ9JJeXimC) | [Bo$$ RyL](https://open.spotify.com/artist/2aUXqWnqgiQG0HiLXyNz2A), [XAP](https://open.spotify.com/artist/1pIYXdqALY3HWGWz9cbiIk), [KyD LDN](https://open.spotify.com/artist/11iAdroTH5Gfpg71hoTz26) | [Nandito Ako](https://open.spotify.com/album/0otILrwcLIjT4e00Ekm4wc) | 3:51 |
 | 36 | [DRILLA from MANILA](https://open.spotify.com/track/72sGefblI6cj44dKmjoxBa) | [KZZY](https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E) | [DRILLA from MANILA](https://open.spotify.com/album/42QsQ0ijobKVpOGwK0PqqM) | 2:32 |
 | 37 | [on the low](https://open.spotify.com/track/34rfTN0mezGKn18EE6fpJp) | [Riscain](https://open.spotify.com/artist/75u8xQcO628eeqr5DiODWD), [SK!D](https://open.spotify.com/artist/44IMSufMeFgCqrPpBTI9Di) | [on the low](https://open.spotify.com/album/52jM2SSCqUOKrfjlFVnbDN) | 3:10 |
 | 38 | [Panandalian](https://open.spotify.com/track/1mtyWIlURBjCfqDPmFUQu2) | [Jaycee](https://open.spotify.com/artist/6hqwFxbM46meGnLDVPO7O0) | [Panandalian](https://open.spotify.com/album/1oaZjI28tWSG9Gw8domINo) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Supladang Malandi](https://open.spotify.com/track/4K2wnhIgBJWIn2JXjWmAwB) | [Himig Borhuh](https://open.spotify.com/artist/5mheAaS72JKiklL2CvvDnH), [hulyan](https://open.spotify.com/artist/4tcbuCIrmk3bpy20zCgSu1), [Nero Metro](https://open.spotify.com/artist/573NdUOOgfErxHOA5l4UN7) | [Supladang Malandi](https://open.spotify.com/album/7C5Uu5bwG8GJ2kuJwQ07W6) | 4:11 |
 | 100 | [SECRET LOVER](https://open.spotify.com/track/0IpNa0dxdVStAnmWUTIzw8) | [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL), [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [SECRET LOVER](https://open.spotify.com/album/2ApdO53YV49j9GlPv19MoW) | 3:00 |
 
-Snapshot ID: `MCw3NWRhM2VjODExY2ZiN2Y4NTc4ZGRiOWU4ZGRhMzUxNTU5NWQyOGY4`
+Snapshot ID: `MCxkNjliYThiNDFjOTc5ZjFlMDQ3ZTNmMmQ2ZWQ0ODc4MjZhZDkxYmI1`

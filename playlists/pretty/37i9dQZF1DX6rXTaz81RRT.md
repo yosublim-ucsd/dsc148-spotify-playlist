@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rXTaz81RRT.md) - [plain]
 
 > Formas musicales de decir "Te quiero".
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,269 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,330 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rXTaz81RRT.md) - [plain]
 | 24 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
 | 25 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 |
 | 26 | [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:40 |
-| 27 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |
-| 28 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
+| 27 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
+| 28 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |
 | 29 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 |
 | 30 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
-| 31 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
-| 32 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 31 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 32 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 33 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
 | 34 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 35 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rXTaz81RRT.md) - [plain]
 | 58 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
 | 59 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
 | 60 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
-| 61 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 |
-| 62 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
+| 61 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
+| 62 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 |
 | 63 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 |
 | 64 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
 | 65 | [Digital Love](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rXTaz81RRT.md) - [plain]
 | 74 | [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 |
 | 75 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 |
 
-Snapshot ID: `MCw5MjkyYmVmNGI2YWNmZDYxNmVhOWZjNzg1NDFhNjNjNmM0YmJlMWYw`
+Snapshot ID: `MCw3YzEyMmU1ZTU3NGIzOGM2ZjM4ZWU0MmE4NjZiM2M1ZDQ1YjBjODlh`

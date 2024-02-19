@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,809 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,849 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 10 | [Choose To Praise \- Reinvented](https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [Choose to Praise \(Reinvented\)](https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL) | 2:30 |
 | 11 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 | 12 | [NEVER WALK AWAY](https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [NEVER WALK AWAY](https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v) | 3:20 |
-| 13 | [Majesty](https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Majesty](https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM) | 8:20 |
-| 14 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
+| 13 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
+| 14 | [Majesty](https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Majesty](https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM) | 8:20 |
 | 15 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 |
 | 16 | [Everything](https://open.spotify.com/track/452Q2BzTFo0st9C4oXgtmi) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Everything](https://open.spotify.com/album/3qCRd5R6usAqUMpRYzJPFx) | 3:20 |
 | 17 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 53 | [Tightrope](https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 3:44 |
 | 54 | [It's Coming](https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [It's Coming](https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j) | 2:34 |
 | 55 | [I Belong to You](https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:21 |
-| 56 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
-| 57 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
+| 56 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
+| 57 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
 | 58 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
 | 59 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
 | 60 | [Right Where You Want Me](https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:26 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 69 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |
 | 70 | [Kerosene](https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Kerosene](https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq) | 3:04 |
 | 71 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
-| 72 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
-| 73 | [Never Let You Go \- Live](https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:53 |
+| 72 | [Never Let You Go \- Live](https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:53 |
+| 73 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
 | 74 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
 | 75 | [Love Goes On \- Remix](https://open.spotify.com/track/1tGTlycaTuNIIbqziQGcOR) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Hezekia](https://open.spotify.com/artist/0Bc8nt0oNumzNCcsehEd8N), [H!ERO](https://open.spotify.com/artist/0RfC9jvntRgsnGzakWVX8k) | [Love Goes On](https://open.spotify.com/album/1DUATtHXOoaHIaj2yojBTy) | 3:42 |
 
-Snapshot ID: `MCw3NWVmMTZlOGU4NjU3YmQ4MDk0MWMxODYwZjZmYzY3MTY5NjQzMTU4`
+Snapshot ID: `MCw5MGJmYWY4ZjQ4MjBiNDRmY2I0YjM3MGQyNzkwNzRjMDY5ZGU0YmZm`

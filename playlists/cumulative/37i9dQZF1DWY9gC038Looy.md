@@ -4,7 +4,7 @@
 
 > Para la esterilla o el sofá, no te juzgaremos.
 
-90 songs - 5 hr 16 min
+91 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2023-04-25 |  |
 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 | 2023-04-25 |  |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2023-04-25 |  |
-| [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2023-04-25 |  |
+| [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2023-04-25 | 2024-02-19 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-04-25 |  |
 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 | 2023-04-25 |  |
 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-04-25 |  |
@@ -68,6 +68,7 @@
 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 | 2023-04-25 |  |
 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 | 2023-04-25 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2023-04-25 |  |
+| [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 | 2023-04-25 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:50 | 2023-04-25 |  |
 | [Scream & Shout](https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:43 | 2023-04-25 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2023-04-25 |  |

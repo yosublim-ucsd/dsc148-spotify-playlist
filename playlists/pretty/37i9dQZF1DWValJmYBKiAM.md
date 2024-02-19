@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,888 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,080 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 6 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
 | 7 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
 | 8 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
-| 9 | [Yo Quisiera](https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 3:37 |
-| 10 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
+| 9 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
+| 10 | [Yo Quisiera](https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 3:37 |
 | 11 | [Que Lloro](https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 4:00 |
 | 12 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 |
 | 13 | [Amor del Bueno](https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 4:02 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 46 | [Volverte a Amar](https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Indeleble](https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB) | 3:40 |
 | 47 | [Desde cuando](https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 3:55 |
 | 48 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 |
-| 49 | [Y Si Te Quedas, ¿Qué?](https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de Caminos](https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW) | 3:38 |
-| 50 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
-| 51 | [O Me Voy O Te Vas](https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:47 |
-| 52 | [Mariposa Traicionera](https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 4:24 |
+| 49 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
+| 50 | [Y Si Te Quedas, ¿Qué?](https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de Caminos](https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW) | 3:38 |
+| 51 | [Mariposa Traicionera](https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 4:24 |
+| 52 | [O Me Voy O Te Vas](https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:47 |
 | 53 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 |
 | 54 | [A gritos de esperanza](https://open.spotify.com/track/3z4hLskqGLtLEYcetdtxqe) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 4:33 |
 | 55 | [Só Hoje](https://open.spotify.com/track/1sClAsuPNqEaza29NcaJKP) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Discotecagem Pop Variada](https://open.spotify.com/album/34bqDaxqIdNbohOPdyk2RS) | 3:31 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 76 | [Que Me Quedes Tú](https://open.spotify.com/track/3pWF6sOdKOtwtIbVaFMN6U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 4:47 |
 | 77 | [Duele \(Crazy\)](https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 3:50 |
 | 78 | [Telegrama](https://open.spotify.com/track/7xpDGoUGbtaquk5xMvzwTh) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Pet Shop Mundo Cão](https://open.spotify.com/album/4H4LNYMi3NTbHGgsUWdR8g) | 4:26 |
-| 79 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
-| 80 | [Siempre me quedará](https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:49 |
+| 79 | [Siempre me quedará](https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:49 |
+| 80 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
 | 81 | [Encostar na Tua](https://open.spotify.com/track/4zVlul17Z9SGqwgmbwm10Z) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Estampado](https://open.spotify.com/album/1d9RgMrAp6fMuYVwqKXusH) | 4:11 |
 | 82 | [Ya Nada Queda](https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku) | [Kudai](https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC) | [Vuelo](https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P) | 3:44 |
 | 83 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 99 | [Amores Prohibidos](https://open.spotify.com/track/3vJM77KoiopgMv32I5fejb) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 4:07 |
 | 100 | [Bésame](https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Besame](https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg) | 3:56 |
 
-Snapshot ID: `MCw1ZmYzYTZiNjdkNDIyMGUwMWI5MmI3ZWZmM2JhOWNkMDBkNzA4MDM5`
+Snapshot ID: `MCwwODJiOTVlZmYwNzgwYTQ2ZWQzOGVmYjE3YjViYmUyOGIzNmY1MTky`

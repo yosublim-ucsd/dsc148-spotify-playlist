@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,477 likes - 101 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,577 likes - 101 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 41 | [<3x girl](https://open.spotify.com/track/0raYSZY5ca9Gu507VTvdw4) | [wrldn3ro](https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9) | [<3x girl](https://open.spotify.com/album/5qomU1F43TlMieaEHkGlRa) | 0:57 |
 | 42 | [light \(with 9lives & midwxst\)](https://open.spotify.com/track/5QlWINPD2625OdZ3wS26KR) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [light \(with 9lives & midwxst\)](https://open.spotify.com/album/7HJ83Qe1wRgbqHJsSo3sK3) | 2:17 |
 | 43 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 |
-| 44 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
+| 44 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
 | 45 | [Violent Lullaby \(with Yung Lean\)](https://open.spotify.com/track/1SrBdekTYaJnynRr2gKNAb) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Violent Lullaby \(with Yung Lean\)](https://open.spotify.com/album/3l5c2sMs9yjX0OPlRTc4Z9) | 2:20 |
 | 46 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
 | 47 | [Hop Out](https://open.spotify.com/track/2JhvQHlmRya9wmhPRmBb2A) | [Lil Shine](https://open.spotify.com/artist/6SmUCZMpJG06ZhIqMOJKCn), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Hop Out](https://open.spotify.com/album/1hED0Rl2Uy7tueiaM55VXV) | 2:24 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 100 | [ICEY](https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [ICEY](https://open.spotify.com/album/5507PerHYF9zo9yCFcdfv4) | 2:11 |
 | 101 | [Xanax / Burnt Memories](https://open.spotify.com/track/27z0n0bxgN8GGaWd32wVfw) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Didn't Have](https://open.spotify.com/album/7j58HYctbqVUcSXG61MW3X) | 4:04 |
 
-Snapshot ID: `MCwzMDU1MGNmMmY2MDY1NDI3YjhjZDFhMDVlYTgxMjY1MmYwY2FkZGIy`
+Snapshot ID: `MCxhNjE3ODEzYWFiYmI3MWY3OTQwOGFlMmFiZmZlODVkMGQ3ZTI5ZWM3`

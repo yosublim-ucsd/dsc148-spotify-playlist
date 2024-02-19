@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 471720,
+  "2024-02-19": 471768,
   "date_first_scraped": "2023-04-07",
   "description": "\u00a1Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas!",
   "name": "Buen D\u00eda :)",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 221935,
       "name": "69",
       "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
@@ -3191,7 +3191,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 197366,
       "name": "No te enamores de \u00e9l",
       "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
@@ -4560,6 +4560,24 @@
     },
     {
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
         "name": "TRIP",
         "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
       },
@@ -4619,7 +4637,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 164701,
       "name": "Tu Turrito",
       "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"

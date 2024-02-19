@@ -4,7 +4,7 @@
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Gabito Ballesteros, Peso Pluma y Natanael Cano en portada.
 
-137 songs - 7 hr 10 min
+138 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Los Ninis \(En Vivo\)](https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Corridos En Vivo](https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF) | 3:12 | 2022-03-08 | 2023-06-03 |
 | [Los Ninis \(En Vivo\)](https://open.spotify.com/track/5LzGYBYB0DCQZIwGEpwgx8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Corridos En Vivo](https://open.spotify.com/album/1xq1fFDrIAYo28TqDhO0lg) | 3:12 | 2022-03-08 | 2022-07-29 |
 | [Los Piratitas \(En Vivo\)](https://open.spotify.com/track/6nRj2PrDyGyKIz964KK4eG) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Los Piratitas \(En Vivo\)](https://open.spotify.com/album/6f7KY61tzg61KZq8Ac46dK) | 3:26 | 2022-12-07 |  |
-| [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 | 2022-12-07 |  |
+| [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/0js27m6Zy7oJDWfJ4f2hJ5) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/0xlaInOYofb0OkPiW9zDuJ) | 4:16 | 2024-01-22 |  |
+| [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 | 2022-12-07 | 2024-02-19 |
 | [Me La Seguiran Pelando \- En Vivo](https://open.spotify.com/track/02R48GzQFMADKsAQjpfrQL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51), [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Me La Seguiran Pelando \(En Vivo\)](https://open.spotify.com/album/2qF8R8IWrc0LxE2CFkHdaL) | 3:40 | 2023-06-09 |  |
 | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2) | 2:54 | 2022-03-08 | 2023-06-03 |
 | [Mente en Blanco \- En Vivo](https://open.spotify.com/track/4PD9At46wz3RECvgg3WtBF) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [Angel Saucedo](https://open.spotify.com/artist/687gwLWI3e34xv2Blz8VAs), [Grupo Vanguardia](https://open.spotify.com/artist/5qrmJRfUakYkbZZPXdD2FE), [Nueva Partida](https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR), [Nelson Fernández](https://open.spotify.com/artist/0YWSpMQXpphjWLYt2TOdrs) | [Mente en Blanco \(En Vivo\)](https://open.spotify.com/album/3tFIEwCvbt8XYl6vS7KCq1) | 4:02 | 2024-01-22 |  |

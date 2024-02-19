@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,832 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,845 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 31 | [Doctor](https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [JonTheProducer](https://open.spotify.com/artist/415U6UPWJEnCPoGsVlX2nV) | [Doctor](https://open.spotify.com/album/4lr74mf49nDttiWXbwmD0K) | 3:10 |
 | 32 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
 | 33 | [Bota Fuego \(feat\. Dímelo Flow, Justin Quiles & Lenny Tavárez\) \- Remix](https://open.spotify.com/track/4MxYiw28F30NGOaTZ1ySqd) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Bota Fuego \(feat\. Dímelo Flow, Justin Quiles & Lenny Tavárez\) \[Remix\]](https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL) | 4:12 |
-| 34 | [Faldita](https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Faldita](https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA) | 3:10 |
-| 35 | [PAPÁS](https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [PAPÁS](https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA) | 3:13 |
+| 34 | [PAPÁS](https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [PAPÁS](https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA) | 3:13 |
+| 35 | [Faldita](https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Faldita](https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA) | 3:10 |
 | 36 | [Tan Buena](https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:45 |
 | 37 | [Malo](https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malo](https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz) | 3:01 |
 | 38 | [Despiértate](https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Despiértate](https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF) | 2:58 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 50 | [OUCH](https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:17 |
 | 51 | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/track/5MVwgz47Vk7xknqySz0376) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/album/5ABQADzHNwWS2DoftWlvIS) | 3:24 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA3NGY5MmIyYjdkYzJhYzk0MmQzZjJjMDczOTNhNmQ0MA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA3OWY4ZWQxODkzN2Q3MzI0OWQwYjQxYjU0NzgyYjM4Zg==`

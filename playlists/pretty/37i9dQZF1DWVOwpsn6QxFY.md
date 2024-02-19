@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,642 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,674 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 23 | [A Couple Things](https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 2:40 |
 | 24 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
 | 25 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
-| 26 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 |
-| 27 | [Gush](https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
+| 26 | [Gush](https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
+| 27 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 |
 | 28 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 29 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 30 | [Headlands](https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Headlands](https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe) | 4:42 |
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 54 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 |
 | 55 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 | 56 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
-| 57 | [Woah Man](https://open.spotify.com/track/2BGLJ2TvnOQwZ1pT81TIBl) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:28 |
-| 58 | [Comingback \- Single Version](https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:36 |
+| 57 | [Comingback \- Single Version](https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:36 |
+| 58 | [Woah Man](https://open.spotify.com/track/2BGLJ2TvnOQwZ1pT81TIBl) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:28 |
 | 59 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 |
-| 60 | [Addicted](https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q) | 4:41 |
-| 61 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
-| 62 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
+| 60 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
+| 61 | [Addicted](https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q) | 4:41 |
+| 62 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
 | 63 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG) | 4:33 |
 | 64 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
 | 65 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 77 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 |
 | 78 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
 | 79 | [Spinning Heart](https://open.spotify.com/track/17nnRPp1cTVQ8XUacodl5c) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [WETLANDS](https://open.spotify.com/album/56l7sgYUPRc7kPX1DseBCv) | 5:14 |
-| 80 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
+| 80 | [Red Light Heaven](https://open.spotify.com/track/5eFDNtqUJcF7a5wL4zwdhM) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Already, Always](https://open.spotify.com/album/1Sg1X4KNEe2O35PcuhcjZZ) | 3:29 |
 
-Snapshot ID: `MCw4N2JiYjYxYzFkZjE3M2FmNDgzOTBlYTUxYjhjYjk4NDI5NTQ1NDI4`
+Snapshot ID: `MCwzNDQxMjRjMjhlNmQ2ZmI5YmM2OWRiYWM4ZDBhYWE1YzNhMjM2ZThk`

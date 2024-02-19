@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder, con un takeover por Faruz Feet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,701 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,726 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 51 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 52 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |
 | 53 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
-| 54 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
+| 54 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 55 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
-| 56 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
+| 56 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 57 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
 | 58 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
 | 59 | [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 |
 | 60 | [Pesao](https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 3:28 |
 
-Snapshot ID: `MCw5NDdmNmI1MjVhMmFiYzA2MTUxMmZiZDdmMGFlNTViZDUyZTFmZWJj`
+Snapshot ID: `MCw4ZWMxZjFmYWE1YWU3ODU3NWIwOGFmMjc5Y2E4MjQ4ZGYwMzJmMmIy`

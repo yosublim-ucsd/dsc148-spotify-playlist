@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Neck Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,157 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,198 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 20 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
 | 21 | [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 |
 | 22 | [2005](https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:51 |
-| 23 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 |
-| 24 | [More Like A Crash](https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:47 |
+| 23 | [More Like A Crash](https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:47 |
+| 24 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 |
 | 25 | [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 26 | [sleepwalking](https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [sleepwalking](https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt) | 2:00 |
-| 27 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
-| 28 | [Cursive](https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL) | 2:55 |
+| 27 | [Cursive](https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL) | 2:55 |
+| 28 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 29 | [A Part Is Better Than Zero](https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0) | [Lessons That We Swear to Keep](https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt) | 2:51 |
 | 30 | [Hot Mess](https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Hot Mess](https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm) | 2:42 |
 | 31 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 56 | [Highlight Reel](https://open.spotify.com/track/5RGv8UfRNPHLLvPxQMYoDY) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:10 |
 | 57 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 |
 | 58 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 |
-| 59 | [Strangers](https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:34 |
-| 60 | [Autumnal](https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [AUTUMNAL](https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe) | 3:09 |
+| 59 | [Autumnal](https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [AUTUMNAL](https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe) | 3:09 |
+| 60 | [Strangers](https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:34 |
 | 61 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 |
 | 62 | [Arm's Length](https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Arm's Length](https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA) | 4:33 |
 | 63 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
-| 64 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 |
-| 65 | [Shotgun Wedding](https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [Shotgun Wedding](https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti) | 2:36 |
-| 66 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 |
-| 67 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 |
+| 64 | [Shotgun Wedding](https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [Shotgun Wedding](https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti) | 2:36 |
+| 65 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 |
+| 66 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 |
+| 67 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 |
 | 68 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
 | 69 | [How To Live With Yourself](https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU) | 2:45 |
 | 70 | [gonna make sure](https://open.spotify.com/track/71hxGyoTu6GvLcXSMAh6zF) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [gonna make sure](https://open.spotify.com/album/5xDdd8Ra6QApWjD64QGDS9) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 79 | [Who You Used to Be](https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx) | [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [Space to Heal](https://open.spotify.com/album/0ho4YbLdytrRcaUDKoft1Y) | 3:17 |
 | 80 | [RECKLESS](https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [RECKLESS](https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII) | 2:55 |
 
-Snapshot ID: `MCwyNGYwNjlkN2Q1ZmRkZjA0OTQwZTdmNTQ0ZjE3ODNhZDRiMjlhOWM2`
+Snapshot ID: `MCxhNjQzNjg2N2VhMzA3OTY4NzdkNmQ3Zjg2YmNiNGU5YjA0MDQ4ZTY1`

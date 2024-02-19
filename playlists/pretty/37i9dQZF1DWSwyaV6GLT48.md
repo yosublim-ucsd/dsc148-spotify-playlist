@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,293 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,305 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 33 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 34 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 |
 | 35 | [Don't You Like It?](https://open.spotify.com/track/7ztjUaIJRxoAGfIMqn6ijO) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/333qTz81Y5I5u2wO7qZgOA) | 3:46 |
-| 36 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
-| 37 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 36 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 37 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 | 38 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 39 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 40 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 59 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 60 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 |
 | 61 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
-| 62 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
-| 63 | [Dancin \- Krono Remix](https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [Ibiza 2019](https://open.spotify.com/album/1EFQdXVbYzfSP1KQQoIOzj) | 4:16 |
+| 62 | [Dancin \- Krono Remix](https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [Ibiza 2019](https://open.spotify.com/album/1EFQdXVbYzfSP1KQQoIOzj) | 4:16 |
+| 63 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
 | 64 | [Sunday Best](https://open.spotify.com/track/1qYKWcEOrh2tM8PlgIm8K1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/5nX3zwIAgHttSudEHLTsAW) | 2:38 |
 | 65 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 | 66 | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 99 | [The Heat](https://open.spotify.com/track/2ru82sMlycieEodGcKyszh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:16 |
 | 100 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
 
-Snapshot ID: `MCwyNjA0MzJmZWVjYzc0YTY5MTRkNzc5YjJlM2NmYjQyZmRlZWMyMWE3`
+Snapshot ID: `MCxjMTY5MmE5MzliMjQ5NWVkM2M1NWE1Zjg4OTJkY2E4YmQxNjY4MjQ1`

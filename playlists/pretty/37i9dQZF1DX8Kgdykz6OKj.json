@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1240400,
+  "num_followers": 1240815,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTMzY2EwYjM1MDNhNWJjYTQ3NjBmNjM0ZGNhMjk1ZDZlMzAzZDEy",
+  "snapshot_id": "MCw5YmE2N2JjNTkyNzNjYTMxOGYyOGFjMzY1ZjcwYmVkYjgyM2QxOGI0",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1251,42 +1251,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "What Am I to Do?",
-        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "What Am I to Do?",
-      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Escape Music",
         "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
       },
@@ -1307,6 +1271,42 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "What Am I to Do?",
+        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "What Am I to Do?",
+      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 185160,
       "name": "Chase It",
       "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Beloved! Paradise! Jazz!?",
         "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 247698,
       "name": "Beloved! Paradise! Jazz!?",
       "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Oh Word",
         "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 228032,
       "name": "Brain",
       "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
     },
     {
       "added_at": "2024-02-16 05:00:00",

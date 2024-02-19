@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,691 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,785 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 25 | [Better Than](https://open.spotify.com/track/4WMMaqVZIlUnDvICcXWgeZ) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd) | 3:35 |
 | 26 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
 | 27 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
-| 28 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
-| 29 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 |
+| 28 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 |
+| 29 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
 | 30 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
 | 31 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
 | 32 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 45 | [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 |
 | 46 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 |
 | 47 | [Movie](https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 5:57 |
-| 48 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 |
-| 49 | [Rearrange Us](https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:08 |
+| 48 | [Rearrange Us](https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:08 |
+| 49 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 |
 | 50 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
 | 51 | [When I Get My Hands On You](https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 3:10 |
 | 52 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 75 | [Used To Be Friends](https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 5:35 |
 | 76 | [I Live for You \(2014 Remaster\)](https://open.spotify.com/track/6YU1CWbu43zkv21W0FyN10) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:37 |
 | 77 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
-| 78 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 |
-| 79 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 |
+| 78 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 |
+| 79 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 |
 | 80 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
 | 81 | [Change](https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Change](https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C) | 1:30 |
 | 82 | [iFeel](https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 4:29 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 89 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
 | 90 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
 | 91 | [Coolest fucking bitch in town](https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:56 |
-| 92 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
-| 93 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
-| 94 | [Run It](https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh) | 4:37 |
+| 92 | [Run It](https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh) | 4:37 |
+| 93 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
+| 94 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 95 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 |
-| 96 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 |
-| 97 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 96 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 97 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 |
 | 98 | [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 |
 | 99 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 | 100 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
 
-Snapshot ID: `MCwzMDJhZmY1YWI4OGE4ZTRhMWY0OTBlZmU5N2EyMzMzNmZhMTg0MjFj`
+Snapshot ID: `MCw3YzVlNmI3MDFjMjkxMTZhMDFlYTFlY2RhZDU0MDBmMTU3N2UyYmM1`

@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 50 min
+99 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Breaking your heart](https://open.spotify.com/track/4ABq3xc8c9sItkz3JAMm3j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Breaking your heart](https://open.spotify.com/album/080NLw2dGXAC27N7czuzoP) | 2:51 | 2023-12-13 | 2024-01-07 |
 | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/6kvCKoOvicKyHQcMHfQ8QR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/13n3AxGkZNijBNPegBW75F) | 3:36 | 2023-04-29 | 2023-06-21 |
 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 | 2023-02-16 | 2023-07-22 |
-| [Calm Down](https://open.spotify.com/track/5nKEawTv65Yi7G9EAZogoN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Calm Down](https://open.spotify.com/album/25t7e9EsGtXiX2Q6Xp7KgP) | 3:39 | 2023-12-23 |  |
+| [Calm Down](https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:39 | 2024-02-18 |  |
+| [Calm Down](https://open.spotify.com/track/5nKEawTv65Yi7G9EAZogoN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Calm Down](https://open.spotify.com/album/25t7e9EsGtXiX2Q6Xp7KgP) | 3:39 | 2023-12-23 | 2024-02-19 |
 | [Celestial](https://open.spotify.com/track/35vySABUNPY1XydF1PTAXp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 3:30 | 2023-05-06 | 2023-10-02 |
 | [Cheerleader](https://open.spotify.com/track/3GBrT6nOYfVwjz5NfR5EPW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:37 | 2023-02-16 | 2023-07-16 |
 | [Cold Heart](https://open.spotify.com/track/4MuYqqmUdc2i21E0hCLFvg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:24 | 2023-02-16 | 2024-01-07 |
@@ -103,7 +104,7 @@
 | [Vampire](https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Vampire](https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG) | 3:40 | 2023-10-01 | 2024-02-16 |
 | [We Don't Talk About Bruno](https://open.spotify.com/track/6f5hm2TMHcsXpp50D9WdI7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:32 | 2023-02-16 | 2023-08-24 |
 | [We're Taking Over](https://open.spotify.com/track/4Vi2saJD0xwxIV0tGmOv18) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [We're Taking Over](https://open.spotify.com/album/7MHFKc5lYIAOBitmMFNYaN) | 2:53 | 2023-12-13 | 2024-02-17 |
-| [We're Taking Over](https://open.spotify.com/track/45GlxNVf17LUYfHjQeuqvC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:54 | 2024-02-16 |  |
+| [We're Taking Over](https://open.spotify.com/track/45GlxNVf17LUYfHjQeuqvC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:54 | 2024-02-16 | 2024-02-19 |
 | [Who Do You Love](https://open.spotify.com/track/519eXuXDOHsb7SAIkBWEOy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:24 | 2023-04-20 | 2023-04-24 |
 | [Witch Doctor](https://open.spotify.com/track/4oJClLJTAeY0Hb0sTF1Vid) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 2:40 | 2023-11-10 | 2023-12-14 |
 

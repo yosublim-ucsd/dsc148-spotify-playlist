@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 208499,
+  "num_followers": 208588,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTAwN2I4YTExYTBhNmI2OTI5MmJmMTY2ZTU2NTgxM2JhMzdjNDk2",
+  "snapshot_id": "MCxmODY0OTY4YTExMjY1NWMwZGRkY2MzNTM5NzM2ZTc3MTA0ZTljOGVk",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 251356,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 596772,
-      "name": "Immunity - Remaster 2023",
-      "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 596772,
+      "name": "Immunity - Remaster 2023",
+      "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Themes for a New Earth",
-        "url": "https://open.spotify.com/album/0X0yNR4beqvHw4HtqNfj1g"
+        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
       },
       "artists": [
         {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+          "name": "S+C+A+R+R",
+          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
         }
       ],
-      "duration_ms": 284705,
-      "name": "Kilika",
-      "url": "https://open.spotify.com/track/3W2uJ9jgY0l55Rs1BCmgTu"
+      "duration_ms": 167986,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
     }
   ],
   "unique_name": "Electronica Romantica",

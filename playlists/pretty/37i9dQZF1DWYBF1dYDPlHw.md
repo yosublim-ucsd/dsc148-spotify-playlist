@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > All killer, no filler, 100% hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,888 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,054 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 39 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 |
 | 40 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 |
 | 41 | [Home \(2019 Remaster\)](https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 5:06 |
-| 42 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
+| 42 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
 | 43 | [When The Sun Goes Down](https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:22 |
-| 44 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
-| 45 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
-| 46 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
+| 44 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
+| 45 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
+| 46 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 | 47 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
 | 48 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 |
 | 49 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 59 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 60 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 |
 | 61 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
-| 62 | [Undercover Martyn](https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:47 |
-| 63 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
+| 62 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
+| 63 | [Undercover Martyn](https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:47 |
 | 64 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 65 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 66 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 99 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 |
 | 100 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 
-Snapshot ID: `MCxlNjE1NjMxYWZhN2MxOWEwOTdjMjM2ZWZhMmJjYmZlMTkxNGRmOGFk`
+Snapshot ID: `MCwxYjhhMzgyZGQzYTAyMTEyNGY3ZGQ1MjkwMDkwMzE3N2Q3MzFmNzE3`

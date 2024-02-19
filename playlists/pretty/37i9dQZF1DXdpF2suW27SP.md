@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dillaz entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,835 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,856 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 15 | [Contigo](https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Contigo](https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb) | 3:28 |
 | 16 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
 | 17 | [Vida de Barão](https://open.spotify.com/track/1ylUjDNTZp23pOiibkFYJs) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Iluminado \(Deluxe Edition\)](https://open.spotify.com/album/4WiEJMUAF6adifFNcBpUEu) | 3:22 |
-| 18 | [DIREÇÃO PARIS](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
+| 18 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 19 | [Where U @](https://open.spotify.com/track/5KX1zLcBZ5bv8iA1odyonT) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Where U @](https://open.spotify.com/album/1Zs1EZDcCtlQys0VDUg5ls) | 2:22 |
 | 20 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 21 | [FIM do NADA](https://open.spotify.com/track/4QTYp7oIjHLyRNVjyIPTFQ) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [FIM do NADA](https://open.spotify.com/album/6IIAlFbQI78vlC9ynutpTM) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Terapia](https://open.spotify.com/track/1R2zJFZUSYHU8QUtHILfK6) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Terapia](https://open.spotify.com/album/4E4ucv13vQBNU16yhIwOGs) | 4:18 |
 | 75 | [FILHO DO YB](https://open.spotify.com/track/1VDXLeWWtMWyjdA44kPGfg) | [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB) | [DOUTOR SWAG](https://open.spotify.com/album/3P0I8HQNjzzEUIUn8ifgDO) | 2:09 |
 
-Snapshot ID: `MCw1OTJiOGI0OGZmZjNlOTQ5ZjQ4M2Q1ODljYTNhNjZiN2U5N2M4Mzkx`
+Snapshot ID: `MCxjNjEzZGNhZGE2NDU5YmQ1MTE4ZjM0M2Y3ODYwNmExN2IyYmUwZWE0`

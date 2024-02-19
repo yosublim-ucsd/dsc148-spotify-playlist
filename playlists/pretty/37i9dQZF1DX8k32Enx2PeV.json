@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 9475,
+  "num_followers": 9479,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTBiMjkxODc3ZjI2NGQ5OWJhZjIzODFmYTAxMDM2ZjVhZGRiYmI5",
+  "snapshot_id": "MCw5NGZlMzNjYTBlYzQ5Njk1MzI1NGFkNmRmNzcxYWQwYTc1ODAwNDE0",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Caribe\u00f1a",
         "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 191141,
       "name": "Caribe\u00f1a",
       "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+      },
+      "artists": [
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "M\u00e1quina Del Tiempo",
-        "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "M\u00e1quina Del Tiempo",
-      "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Cosas del Destino",
         "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "M\u00e1quina Del Tiempo",
+        "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "M\u00e1quina Del Tiempo",
+      "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Entre Bacaner\u00eda y Barbarie",
+        "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255198,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Camino al Mar",
         "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 407295,
       "name": "Adi\u00f3s Batata - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Entre Bacaner\u00eda y Barbarie",
-        "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
-      },
-      "artists": [
-        {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
-        }
-      ],
-      "duration_ms": 255198,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Ci\u00e9naga",
-        "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 176353,
-      "name": "Ci\u00e9naga",
-      "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "ni una foto",
         "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 192385,
       "name": "ni una foto",
       "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Ci\u00e9naga",
+        "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 176353,
+      "name": "Ci\u00e9naga",
+      "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Emocional",
+        "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Emocional",
+      "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Tierra de Promesas (Sierra Nevada)",
         "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 211891,
       "name": "Tierra de Promesas (Sierra Nevada)",
       "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Emocional",
-        "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Emocional",
-      "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
     },
     {
       "added_at": "2023-09-22 05:25:00",

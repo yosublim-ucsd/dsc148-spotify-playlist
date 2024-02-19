@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,214 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,227 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 22 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
 | 23 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 |
 | 24 | [serotonina](https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:42 |
-| 25 | [atravesao](https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:20 |
-| 26 | [Enculado \- feat\. Nsqk](https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:21 |
+| 25 | [Enculado \- feat\. Nsqk](https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:21 |
+| 26 | [atravesao](https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:20 |
 | 27 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 |
 | 28 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
 | 29 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
@@ -63,25 +63,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 53 | [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 |
 | 54 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
 | 55 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 |
-| 56 | [TQM](https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Recuerdos de un amor](https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP) | 3:30 |
-| 57 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
-| 58 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 59 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
+| 56 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
+| 57 | [TQM](https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Recuerdos de un amor](https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP) | 3:30 |
+| 58 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
+| 59 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 60 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
 | 61 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 | 62 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 63 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
-| 64 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
-| 65 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
-| 66 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
-| 67 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
+| 64 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
+| 65 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
+| 66 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
+| 67 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 | 68 | [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 |
 | 69 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
 | 70 | [Contigo Me Quedo](https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Contigo Me Quedo](https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV) | 3:16 |
-| 71 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 |
+| 71 | [Lo Nuestro](https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk) | [Sofía Trenti](https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU) | [Lo Nuestro](https://open.spotify.com/album/3BtYsIyQezsBNFanF9CeOW) | 4:27 |
 | 72 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 |
-| 73 | [Lo Nuestro](https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk) | [Sofía Trenti](https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU) | [Lo Nuestro](https://open.spotify.com/album/3BtYsIyQezsBNFanF9CeOW) | 4:27 |
+| 73 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 |
 | 74 | [Línea Bonita](https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Línea Bonita](https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb) | 4:07 |
 | 75 | [Menos Tú Y Yo](https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Menos Tú y Yo](https://open.spotify.com/album/0vXp6cX8hFR5EyonKAJFFx) | 3:08 |
 
-Snapshot ID: `MCw3ZTcxNjhkNzM2NzNiOTUzZWRiZTcxOGNmMTMxOTg1YjBiYzQzNmQw`
+Snapshot ID: `MCxjNjQ3NzE2MDU4MDYzZjI2ODFjMzI5ZmYyZGNhMjdmZmQzZTg5OTFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,351 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,426 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 24 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 |
 | 25 | [Electric U](https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY) | 2:51 |
 | 26 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
-| 27 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
-| 28 | [Think About Things](https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs) | 2:53 |
+| 27 | [Think About Things](https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs) | 2:53 |
+| 28 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
 | 29 | [Separated](https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [House Hues](https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2) | 1:38 |
 | 30 | [Lonely Nights](https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:20 |
 | 31 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 46 | [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 |
 | 47 | [Montreal](https://open.spotify.com/track/12YAZNNm2OuSgDBKjFQcNm) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Elliot \- EP](https://open.spotify.com/album/4Wlcc4cFTzXBG3U5DI5xz5) | 3:56 |
 | 48 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 |
-| 49 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 |
-| 50 | [Rocky](https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:46 |
+| 49 | [Cutie](https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:04 |
+| 50 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 |
 
-Snapshot ID: `MCxhMjlkMzYzNzNmOTQ5NDIxYzQ4ZDBiMmQ1OGFlMzBjNDYyMmI0Mzg4`
+Snapshot ID: `MCw3NjgxYjJiM2VmMTk0ZmZmNjdjZjk4NTQ0ZjUyNzU5NmU0YTIxNDdl`

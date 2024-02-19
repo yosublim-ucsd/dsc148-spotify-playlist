@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Bnny
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,673 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,921 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 41 | [so be it in my dreams](https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [so be it in my dreams](https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L) | 2:26 |
 | 42 | [Looking For Something](https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:09 |
 | 43 | [I'm So Sorry](https://open.spotify.com/track/1MlyMtFTogPbQ3xe0S4GDD) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:22 |
-| 44 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
-| 45 | [Dance In Room Song](https://open.spotify.com/track/32pdmizVCumVDYAXTqHFRh) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9) | 2:51 |
+| 44 | [Dance In Room Song](https://open.spotify.com/track/32pdmizVCumVDYAXTqHFRh) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9) | 2:51 |
+| 45 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
 | 46 | [Spiral Stairs](https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Spiral Stairs](https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO) | 2:26 |
 | 47 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 48 | [ALIEN LOVE CALL](https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:56 |
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 81 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
 | 82 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
 | 83 | [Coming Home](https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:25 |
-| 84 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 |
-| 85 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 |
-| 86 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
-| 87 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
-| 88 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
-| 89 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
-| 90 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
-| 91 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
-| 92 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
-| 93 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
-| 94 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 |
-| 95 | [Start Somewhere](https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 2:11 |
-| 96 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
-| 97 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
-| 98 | [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 |
-| 99 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
+| 84 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 |
+| 85 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 |
+| 86 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 |
+| 87 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
+| 88 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
+| 89 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
+| 90 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
+| 91 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
+| 92 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
+| 93 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
+| 94 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
+| 95 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
+| 96 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 |
+| 97 | [Start Somewhere](https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 2:11 |
+| 98 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
+| 99 | [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 |
 | 100 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
 
-Snapshot ID: `MCxlZWY1NWU1MmQ2ZmM5MjAzNTk4YjI1YzcwMWYwNDI1NzljMDI3NTdi`
+Snapshot ID: `MCxhMzg1MTk4NGUyMTBmMDEwM2M2NjQ3Mzg5ZTA2MzEzYzQ2NTQ0MWI2`

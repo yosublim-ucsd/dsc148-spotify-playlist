@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 147 likes - 84 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 151 likes - 84 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 45 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
 | 46 | [Ibiza](https://open.spotify.com/track/006lXrVzSHplhiZZ3fzoiW) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ibiza](https://open.spotify.com/album/2Tn6eiTXHjKxCiINrejZ9U) | 2:29 |
 | 47 | [Movimiento](https://open.spotify.com/track/1Olb7jW1ACym5WkqFxuIWG) | [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1), [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Movimiento](https://open.spotify.com/album/35gXKFhNaHp4pSSRszDgKD) | 3:51 |
-| 48 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 |
+| 48 | [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 |
 | 49 | [Safari](https://open.spotify.com/track/4LpqYwFE1jo6I6uNuQmd4L) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Safari](https://open.spotify.com/album/0iix5q7qURQKlFPnnXmgvX) | 1:55 |
 | 50 | [Bam Bae](https://open.spotify.com/track/7EQU6YcttUGHNq64OJD0r5) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bam Bae](https://open.spotify.com/album/6k2tBwYVgoheJrUjsT0RIE) | 2:33 |
 | 51 | [La Colegiala](https://open.spotify.com/track/7FW4xdDydKkMHpUsYbWqKj) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [La Colegiala](https://open.spotify.com/album/7eC4EE0xnxlVJvFRZLCL35) | 3:23 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 83 | [Enviada](https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:03 |
 | 84 | [Despertar](https://open.spotify.com/track/5zVRJaJBPPtOuc6ku1tln2) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Sketches, Vol\. 1 \(2004\-2007\)](https://open.spotify.com/album/2hCHId2M6SQ48hFEfIOtfh) | 3:37 |
 
-Snapshot ID: `MCxhMmZiOWJjMmY0MjZiYzQ3ZDE1OTIzNGQyNjE4ZTdkMDAwY2VjMmY2`
+Snapshot ID: `MCw5NDI3MzU2MjhmODY5MWMxOWE4MGRmNzdmMDI3OTc2ODA1MGI5NWQ0`

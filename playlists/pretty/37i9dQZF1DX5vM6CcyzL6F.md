@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,820 likes - 144 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,856 likes - 144 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 73 | [Pa Que Me Llamas \- Salsa](https://open.spotify.com/track/5lC7UYPXpj6uMkwh6qKPFl) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Dispuesto a Todo](https://open.spotify.com/album/0YEU0pTqI6vcWHJ6EgBbaY) | 4:45 |
 | 74 | [Me Vas a Extrañar](https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas a Extrañar](https://open.spotify.com/album/6KSnZY5Af92l4E1K5XjYL8) | 5:10 |
 | 75 | [Frágil](https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:36 |
-| 76 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 |
+| 76 | [Las Tumbas](https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 4:04 |
 | 77 | [Perdóname](https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 3:19 |
 | 78 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 |
-| 79 | [Las Tumbas](https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 4:04 |
+| 79 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 |
 | 80 | [Como la Quiero Cuanto la Extraño](https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 3:35 |
 | 81 | [¿Qué Pasó?](https://open.spotify.com/track/4rU0PHummLWtI4Y1IhP7WQ) | [Hansel](https://open.spotify.com/artist/7h3fRXqTgVWDokASFfEWOb) | [Lo Esencial](https://open.spotify.com/album/5Ca6GAFh3ig8v7GrIy6MK9) | 4:29 |
 | 82 | [De Mí Enamórate](https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Exitos Eternos](https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx) | 5:08 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 143 | [Tú Me Quemas](https://open.spotify.com/track/7yf12rCbhtMiMxOk4vgjsD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:01 |
 | 144 | [Este Amor](https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:40 |
 
-Snapshot ID: `MCxjYjYwOGZlZTJmZTZlYmZhNDEyNGUwYjFmZGRiNzQwOWM4ZjFlMWIz`
+Snapshot ID: `MCw1N2RlMTM4NWJmN2IxYzViYTM4YzhkNTE0MzRlNWQyZDkzOGEwNDdi`

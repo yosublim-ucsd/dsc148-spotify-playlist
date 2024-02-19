@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ReoNa
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,224 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,280 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 46 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
 | 47 | [魔法](https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [魔法](https://open.spotify.com/album/1KNgIgtKAK4kSwp7si23Mw) | 3:51 |
 | 48 | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/track/75DS9CHM2XEzxYrnsguHls) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI) | 3:31 |
-| 49 | [Y☺u & I](https://open.spotify.com/track/657ejjdXyOZakkC1S1cgKV) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [Y☺u & I](https://open.spotify.com/album/6rTLAKWlNYHIDTdJW7lgdO) | 3:29 |
-| 50 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 |
+| 49 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 |
+| 50 | [Y☺u & I](https://open.spotify.com/track/657ejjdXyOZakkC1S1cgKV) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [Y☺u & I](https://open.spotify.com/album/6rTLAKWlNYHIDTdJW7lgdO) | 3:29 |
 
-Snapshot ID: `MCwyY2U3MDQwN2ViOWNlMWU4M2JiZmFhMmRlYzZmNDkyMWI4YzdlNjJi`
+Snapshot ID: `MCw5M2FhZWM0NmExOWU5MDVmMDY1ZjRlZTY0NDQwYzExNzkwYmRhZjg5`

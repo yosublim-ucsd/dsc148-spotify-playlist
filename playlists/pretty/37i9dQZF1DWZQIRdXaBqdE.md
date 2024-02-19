@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,400 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,492 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 55 | [It Wasn't God Who Made Honky Tonk Angels \- 1952 Single Version](https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [Kitty Wells’ Country Hit Parade](https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY) | 2:32 |
 | 56 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
 | 57 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
-| 58 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
-| 59 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
+| 58 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
+| 59 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
 | 60 | [All My Ex's Live In Texas](https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits, Volume Two](https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad) | 3:20 |
 | 61 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 62 | [Behind Closed Doors](https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Love Songs](https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL) | 2:54 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 91 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 | 92 | [I Can Help](https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [The Best Of Billy Swan](https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi) | 3:58 |
 | 93 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 |
-| 94 | [I've Got A Tiger By The Tail](https://open.spotify.com/track/464fUpkgSEPH1onUGoW8Kt) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:14 |
-| 95 | [The Auctioneer](https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [At Your Request…](https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85) | 2:48 |
+| 94 | [The Auctioneer](https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [At Your Request…](https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85) | 2:48 |
+| 95 | [I've Got A Tiger By The Tail](https://open.spotify.com/track/464fUpkgSEPH1onUGoW8Kt) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:14 |
 | 96 | [500 Miles Away from Home](https://open.spotify.com/track/44AauRai27QWKEx4dKn0oU) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [500 Miles Away From Home](https://open.spotify.com/album/06zl9w7hWWtjxFt76bMZEE) | 2:42 |
 | 97 | [Could I Have This Dance](https://open.spotify.com/track/7BCgPuJDZgPwOv1E4p6Cvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Anne Murray The Best Of...So Far \- 20 Greatest Hits](https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX) | 3:16 |
 | 98 | [I Walk The Line \- Single Version](https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Get Rhythm / I Walk the Line](https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH) | 2:43 |
 | 99 | [Just Good Ol' Boys](https://open.spotify.com/track/3rvNZziNdig7Z0ePbB365e) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz), [Joe Stampley](https://open.spotify.com/artist/0bRY1ri3TKSfD5BRU8CvaJ) | [Just Good Ol' Boys](https://open.spotify.com/album/4Dimc7g8uaqY3EMKwMgDbx) | 2:38 |
 | 100 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
 
-Snapshot ID: `MCw5NjRkMzBlOWMxYjBhY2E0Y2MyZjY5ODZkMjJmZWNmNjc2OTE3NjQ2`
+Snapshot ID: `MCwwOGNlOGRmOTZiZDk4MWMzNjE0MDg3OGQwNjM5OWUyYTFjYjk4YTIy`

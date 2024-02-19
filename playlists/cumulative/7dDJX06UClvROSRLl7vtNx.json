@@ -511,6 +511,32 @@
     },
     {
       "album": {
+        "name": "Brighter Than The Sun",
+        "url": "https://open.spotify.com/album/505KMTrlprZnZOjEY6DIGb"
+      },
+      "artists": [
+        {
+          "name": "MAESTRI",
+          "url": "https://open.spotify.com/artist/1j3mntc3HJeQXRj7dSdvE4"
+        },
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        },
+        {
+          "name": "GHALIA",
+          "url": "https://open.spotify.com/artist/7G25QOtyexazRpK1ZYqhOc"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135620,
+      "name": "Brighter Than The Sun",
+      "url": "https://open.spotify.com/track/3WHu4o2jxoeIZq7YqyojhM"
+    },
+    {
+      "album": {
         "name": "Broken Waves",
         "url": "https://open.spotify.com/album/5Kckn5zh0h4wKGsu7jgcq6"
       },
@@ -1024,7 +1050,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 155000,
       "name": "Crying Out For U",
       "url": "https://open.spotify.com/track/4OzLb8aAhVDPJDPySndZZJ"
@@ -1494,7 +1520,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 134181,
       "name": "Fell Out",
       "url": "https://open.spotify.com/track/4QUoNyX3mL0IPb0cbTi9xZ"
@@ -1618,6 +1644,32 @@
       "duration_ms": 148432,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/1XSMcpNvYttlzvgON9QbBJ"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/6GLRGSuUh59G6KrsGW1QgU"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "Robbie Jay",
+          "url": "https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K"
+        },
+        {
+          "name": "Fini",
+          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/0TsQmEJOaDkEBNHR5fbne6"
     },
     {
       "album": {
@@ -2372,7 +2424,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 141333,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/2Lg0WBAsNw2xylkoISJgVe"
@@ -2692,7 +2744,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 131228,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/0eNPmFh1rIwkStKcxU3R4U"
@@ -3152,10 +3204,32 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 214909,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/37pH1iotOYP8n4fPD3JeGi"
+    },
+    {
+      "album": {
+        "name": "Love Yourself",
+        "url": "https://open.spotify.com/album/2o8dlTkFFkl0s6Xh6UUBkS"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "Xtina Louise",
+          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160384,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/243vLTDXGKqOG32eWZe1v5"
     },
     {
       "album": {
@@ -3754,6 +3828,24 @@
       "duration_ms": 190400,
       "name": "Only Way",
       "url": "https://open.spotify.com/track/5Pz7tQgDJLGp4lvBEcu0yM"
+    },
+    {
+      "album": {
+        "name": "Open My Heart",
+        "url": "https://open.spotify.com/album/2u3djXi2f4WrUdAA7YyqqL"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152443,
+      "name": "Open My Heart",
+      "url": "https://open.spotify.com/track/1Tk13lYcRGCnE05e53GTbm"
     },
     {
       "album": {

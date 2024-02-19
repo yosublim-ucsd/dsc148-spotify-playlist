@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s favorite songs of 2024 plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.
 
-2,987 songs - 7 day 2 hr 20 min
+2,990 songs - 7 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,6 +1182,7 @@
 | [Holiday](https://open.spotify.com/track/0aF6uG5TmGKHdw3npNzoYm) | [Arianna Tsar](https://open.spotify.com/artist/62cSPuCVcFqdRrMMyguEC0) | [Holiday](https://open.spotify.com/album/0YhuSxNLbuesVoHZ4mgLQk) | 4:06 | 2023-12-01 | 2023-12-19 |
 | [Holy](https://open.spotify.com/track/0OAsTVd2oJ4oIYNKqbEyP4) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [Holy](https://open.spotify.com/album/5OuXVOGDiY3Og6vuDGMssj) | 4:08 | 2022-06-10 | 2022-06-26 |
 | [Holy X](https://open.spotify.com/track/1PqpL3CkE4EMhbEQ0w51yt) | [Sheebo](https://open.spotify.com/artist/3F3Kezf9C0nqhCpcFlBdiR) | [Hydro](https://open.spotify.com/album/2ueRkhFyepzvkM6GqDnJRx) | 3:20 | 2023-04-20 | 2023-05-09 |
+| [Home](https://open.spotify.com/track/1N2YAgIdcYGk8AnxHkr3ML) | [Demonnate](https://open.spotify.com/artist/1r5qdE2qu9i1jSJjkAlWGK) | [7 Lovely Sins](https://open.spotify.com/album/3G36WIgoaYsVCZeNgKwBi5) | 2:34 | 2024-02-18 |  |
 | [Home](https://open.spotify.com/track/5OOVmHpm0qu8SQtCoVlXYN) | [Skinny Dippers](https://open.spotify.com/artist/0Dob2W5r4Uxwa1WIJRt67Y) | [Home](https://open.spotify.com/album/4kzA8IMvnrzpl6qwTVRkmT) | 4:11 | 2022-06-17 | 2022-07-22 |
 | [Home Is My Heart](https://open.spotify.com/track/3zZjdC4DkVTJuNoV9U9TUo) | [Harry F Brown](https://open.spotify.com/artist/7j2b6kejHnxnGmiBvsijPA) | [Home Is My Heart](https://open.spotify.com/album/1BgEpT4hTLfnn1E9g2cHNj) | 4:00 | 2024-02-11 |  |
 | [Honest](https://open.spotify.com/track/06hMLKXDpvSpBPQzfwf9um) | [Statz](https://open.spotify.com/artist/1RAmcW9iZnsBDl26bi62Ob) | [Honest](https://open.spotify.com/album/33Q5souJy6B2sX63L9lXrL) | 3:01 | 2021-12-31 | 2022-01-15 |
@@ -1203,6 +1204,7 @@
 | [How I Loved You](https://open.spotify.com/track/0v5L68lrpE6KwjA24ATQnX) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p) | [How I Loved You](https://open.spotify.com/album/1E4Cb2EOjg0fPloaeNumoe) | 4:33 | 2023-03-10 | 2023-04-02 |
 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 | 2022-12-09 | 2023-01-03 |
 | [Howweusedtobe](https://open.spotify.com/track/2GZTc6b6LSqRSC6qAWNsoi) | [Humble Goods](https://open.spotify.com/artist/4AMIlG84QHWMs3GeFKhqep) | [Howweusedtobe](https://open.spotify.com/album/6xZiP8inef2heWYZZSj40u) | 2:28 | 2024-01-02 | 2024-01-10 |
+| [Hoy Ya No Te Tengo](https://open.spotify.com/track/3otgUprKtBxElV1NZsOV79) | [Dani Lima](https://open.spotify.com/artist/4x1R0cX5O4likMT4RaxCgy) | [Hoy Ya No Te Tengo](https://open.spotify.com/album/0eUAj88KwoMjUqztKWj698) | 3:35 | 2024-02-18 |  |
 | [Hullabaloo](https://open.spotify.com/track/7kfKhEayenoX9YnaBXVY3g) | [Barney Cortez](https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA) | [Hullabaloo](https://open.spotify.com/album/5zY8QAy8jGbkHHuEXY3irG) | 2:30 | 2022-06-24 | 2022-07-16 |
 | [Human](https://open.spotify.com/track/3mDGC5am7hb7bBpANlzuVy) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Human](https://open.spotify.com/album/1ZKzW0S2wKSsGYcoCYKYlv) | 2:44 | 2021-03-30 | 2021-04-17 |
 | [Human Nature](https://open.spotify.com/track/32cWqbeEVZemQcpXYA6wOu) | [Ari Amun](https://open.spotify.com/artist/1UqNpVL3YhF1pIfqdmAWgy), [Madhi](https://open.spotify.com/artist/0rlSST73sjgmQfdXxB0vW0) | [Human Nature](https://open.spotify.com/album/5eOUGDZ2rBz6ep9OSgoyRx) | 3:29 | 2023-12-15 | 2024-01-02 |
@@ -1719,6 +1721,7 @@
 | [Mohabbat](https://open.spotify.com/track/60cSWYNM5yRdtK3eokivjI) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/21OZptKAhVTvzKdxxtk4DT) | 7:42 | 2021-07-11 |  |
 | [MohicanNights \(Chillout Mix\)](https://open.spotify.com/track/5qhqrMexWWUJ4PbCjAcBpk) | [Ace Gordon](https://open.spotify.com/artist/3xTFd57DOOD41Xn0qNhT7X) | [MohicanNights \(Chillout Mix\)](https://open.spotify.com/album/6SfSiD1iYIuNaVWU2GDJrb) | 3:28 | 2021-07-10 | 2021-07-25 |
 | [Mojados](https://open.spotify.com/track/5leoJGOuSHB7DFKqDZKBUn) | [Willie Gomez](https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At) | [Mojados](https://open.spotify.com/album/0P6ynhWKAMTOePiGBQpkBR) | 3:15 | 2020-04-22 | 2020-05-24 |
+| [Momentum](https://open.spotify.com/track/1Un6j2b9BsHmGTROeNmNPT) | [Mimis Kitchen](https://open.spotify.com/artist/7mJcAuOns8lI6MkVYAVEtE) | [Momentum](https://open.spotify.com/album/7BMepc7HuiYRi1xt8W2MHi) | 2:21 | 2024-02-18 |  |
 | [Money Right](https://open.spotify.com/track/0DEGdfWlXLfwU1jbY9pIJB) | [Aura](https://open.spotify.com/artist/4wXNf2nPxMMR86PpII2cyH) | [Money Right](https://open.spotify.com/album/6PZQOr2UobsiyCM6Re23P2) | 3:27 | 2020-02-26 | 2020-04-02 |
 | [Money Tree](https://open.spotify.com/track/3NSXLg7KMJ5M6K0I88LPdF) | [Aleesia](https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc) | [Money Tree](https://open.spotify.com/album/6wJdnCdWV0s2RDtF5ZYEqR) | 2:59 | 2020-12-18 | 2021-01-03 |
 | [Monster](https://open.spotify.com/track/6VBDdGnghBwQVACafWAUlL) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [ANGER](https://open.spotify.com/album/0q82a7Y4VGcqIr9QHzomuk) | 2:52 | 2022-02-09 | 2022-02-26 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 751876,
+  "2024-02-19": 751854,
   "date_first_scraped": "2021-12-30",
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con st. Pedro.",
   "name": "Mixto",
@@ -1003,6 +1003,32 @@
       "duration_ms": 164708,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/4blp4UsUuc0KiXHSUj9Bie"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        },
+        {
+          "name": "Calian",
+          "url": "https://open.spotify.com/artist/5Seegd2m2S5bQggOPxtMZa"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211475,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/4qivrywz0cptut4imbWJJf"
     },
     {
       "album": {
@@ -7767,7 +7793,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 156198,
       "name": "NEFERTITI",
       "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"

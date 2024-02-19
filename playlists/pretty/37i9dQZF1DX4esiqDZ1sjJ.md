@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,183 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,227 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 24 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
 | 25 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 26 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
-| 27 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
-| 28 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
+| 27 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
+| 28 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
 | 29 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
 | 30 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
 | 31 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 47 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
 | 48 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 49 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
-| 50 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
-| 51 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 |
+| 50 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 |
+| 51 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 52 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
 | 53 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 | 54 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 62 | [Insane in the Brain](https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 3:28 |
 | 63 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
 | 64 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
-| 65 | [Can't Be Touched \(feat\. Mr\. Magic & Trouble\)](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) | [Roy Jones Jr.](https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B), [Mr Magic](https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF), [Trouble](https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm) | [Body Head Bangerz, Vol\. 1](https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe) | 3:34 |
+| 65 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
 | 66 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
-| 67 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
+| 67 | [Can't Be Touched \(feat\. Mr\. Magic & Trouble\)](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) | [Roy Jones Jr.](https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B), [Mr Magic](https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF), [Trouble](https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm) | [Body Head Bangerz, Vol\. 1](https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe) | 3:34 |
 | 68 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition Of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 |
 | 69 | [Jumpman](https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:25 |
 | 70 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 74 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
 | 75 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
 
-Snapshot ID: `MCwzYTA4MjY2ZGU3ODQ3M2EwZjJhMzAyZTM5ZjNmYjA4ZGZjMTczNzQ0`
+Snapshot ID: `MCw3YzFlZjgzYjdmNDQ2YjExODhmODQ5YjQyNTAxMzFiMDcyNTJiNjAw`

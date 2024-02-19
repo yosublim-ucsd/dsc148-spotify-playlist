@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 
 > This is Iron Maiden\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,664 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,757 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 | 26 | [Stranger in a Strange Land \- 2015 Remaster](https://open.spotify.com/track/2ItrQShUvHTeaiZiDukjNo) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 5:46 |
 | 27 | [Powerslave \- 2015 Remaster](https://open.spotify.com/track/70wXUzmg3tk3Ci2Ixg1YwO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Powerslave \(2015 Remaster\)](https://open.spotify.com/album/309KOMEivisMmBuzk09635) | 7:11 |
 | 28 | [The Prisoner \- 2015 Remaster](https://open.spotify.com/track/60JWUDrpUTuu6gxTvknjg5) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO) | 6:02 |
-| 29 | [Stratego](https://open.spotify.com/track/7BOLGsgOMicS0GLmsX940c) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:59 |
+| 29 | [Rainmaker \- 2015 Remaster](https://open.spotify.com/track/5jNmbcbuNhM8d5oUld1WsS) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Dance of Death \(2015 Remaster\)](https://open.spotify.com/album/2Y8x0EEu7il0K2gCQIqVRh) | 3:48 |
 | 30 | [Alexander the Great \(356\-323 B.C.\) \- 2015 Remaster](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 8:37 |
 | 31 | [Flash of the Blade \- 2015 Remaster](https://open.spotify.com/track/2yAiIlVQa2wy9M5JnSrjMm) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Powerslave \(2015 Remaster\)](https://open.spotify.com/album/309KOMEivisMmBuzk09635) | 4:05 |
-| 32 | [Rainmaker \- 2015 Remaster](https://open.spotify.com/track/5jNmbcbuNhM8d5oUld1WsS) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Dance of Death \(2015 Remaster\)](https://open.spotify.com/album/2Y8x0EEu7il0K2gCQIqVRh) | 3:48 |
+| 32 | [Stratego](https://open.spotify.com/track/7BOLGsgOMicS0GLmsX940c) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:59 |
 | 33 | [Seventh Son of a Seventh Son \- 2015 Remaster](https://open.spotify.com/track/4STDzTw4Z13mee7Ig4vi1n) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Seventh Son of a Seventh Son \(2015 Remaster\)](https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz) | 9:54 |
 | 34 | [Prowler \- 2015 Remaster](https://open.spotify.com/track/1198hsFUvkbffYd8Ff58DX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 3:55 |
 | 35 | [22 Acacia Avenue \- 2015 Remaster](https://open.spotify.com/track/51S9pXdACCrhputBUl05Cs) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO) | 6:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 | 49 | [Killers \- 2015 Remaster](https://open.spotify.com/track/2Ydpa6xB4kD8WRXHYN6T1G) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Killers \(2015 Remaster\)](https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D) | 5:01 |
 | 50 | [Strange World \- 2015 Remaster](https://open.spotify.com/track/2zg6aGS3qFpVYqEkGy0vVB) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 5:47 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA2YzhkMmI4ZTc5ZWQzMTk1OTRhYWVjZDZmZmFiN2E2MA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBmMzdiOWE1NjY0MWVkNzRhYmRlZGU0ZTZjNzJlNGYxMA==`

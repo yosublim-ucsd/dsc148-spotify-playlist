@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106517,
+  "num_followers": 106515,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWQ0NmUyYzcyZWZhZWE1YjExNWFlYzRmNmFiMGI0Y2E5Y2FiNjVk",
+  "snapshot_id": "MCwxN2NkMTY0YzNkYzZhMzZjNTQ4ZTMzYmE2MGM0YzBiNDJlNTM4NGVh",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Please Keep Shimmering",
-        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
-      },
-      "artists": [
-        {
-          "name": "Tom VR",
-          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
-        }
-      ],
-      "duration_ms": 263842,
-      "name": "Keep Shimmering",
-      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "I Want an Earth",
         "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 362626,
       "name": "I Want an Earth",
       "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "You Need Somebody",
-        "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
-      },
-      "artists": [
-        {
-          "name": "Puppy Mountain",
-          "url": "https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH"
-        }
-      ],
-      "duration_ms": 200830,
-      "name": "You Need Somebody",
-      "url": "https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Whatever Happens, Happens",
         "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 227304,
       "name": "Whatever Happens, Happens",
       "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "You Need Somebody",
+        "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
+      },
+      "artists": [
+        {
+          "name": "Puppy Mountain",
+          "url": "https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH"
+        }
+      ],
+      "duration_ms": 200830,
+      "name": "You Need Somebody",
+      "url": "https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Is It Me",
         "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 256000,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
     },
     {
       "added_at": "2023-08-31 14:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,685 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,748 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 71 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/6DLGE2fdn41jFc6Jc6fBYy) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit New Wave](https://open.spotify.com/album/5vcKx1EX0K3GgaRzX6ADl4) | 3:17 |
 | 72 | [Demons](https://open.spotify.com/track/2Esyeuk3y1T15Y5vFYvOm4) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Imagine Dragons](https://open.spotify.com/album/1svHcsZLcTHOqdif40fGAs) | 3:00 |
 | 73 | [Shake It Off \- 8\-Bit Version](https://open.spotify.com/track/6SGKOA0LzHTtZBue2RfaqF) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [8\-Bit Universe, Vol\. 14](https://open.spotify.com/album/39cvCh6jfHDGfkrOAS1aOM) | 3:37 |
-| 74 | [Old Town Road \(8 Bit Version\)](https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Lit 8 Bits](https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw) | 1:55 |
-| 75 | [Enter Sandman](https://open.spotify.com/track/6or0Zn98H9Cir0LILZq26W) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 4:30 |
+| 74 | [Enter Sandman](https://open.spotify.com/track/6or0Zn98H9Cir0LILZq26W) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 4:30 |
+| 75 | [Old Town Road \(8 Bit Version\)](https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Lit 8 Bits](https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw) | 1:55 |
 | 76 | [Du Hast \(8\-Bit Rammstien Emulation\)](https://open.spotify.com/track/0HCFSx4iOx7cJLScHlys9j) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [Rock & Metal Anthems](https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf) | 1:54 |
 | 77 | [Bohemian Rhapsody](https://open.spotify.com/track/0Fj5KBQsHdeaKG8fJAyIWt) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Queen](https://open.spotify.com/album/1BUP3E3dL2AIFofpXV4umQ) | 5:38 |
-| 78 | [Smells Like Teen Spirit](https://open.spotify.com/track/5CVCqj3EtrFDMhZylxpqhf) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Nirvana](https://open.spotify.com/album/0tbrVxoMh8YaAVSrNBG14d) | 5:01 |
-| 79 | [Hotel California \- 8\-Bit Version](https://open.spotify.com/track/72EfHwcUwdfELjCKhYMc1x) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [8\-Bit Universe, Vol\. 23](https://open.spotify.com/album/7tFFu7sCxQixFjMzLqoqyf) | 6:29 |
+| 78 | [Hotel California \- 8\-Bit Version](https://open.spotify.com/track/72EfHwcUwdfELjCKhYMc1x) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [8\-Bit Universe, Vol\. 23](https://open.spotify.com/album/7tFFu7sCxQixFjMzLqoqyf) | 6:29 |
+| 79 | [Smells Like Teen Spirit](https://open.spotify.com/track/5CVCqj3EtrFDMhZylxpqhf) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Nirvana](https://open.spotify.com/album/0tbrVxoMh8YaAVSrNBG14d) | 5:01 |
 | 80 | [What I've Done](https://open.spotify.com/track/1QPqTG2MhhMJsXVfezJriJ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Linkin Park](https://open.spotify.com/album/6W3SvNdAMTZxqQhuKhyhEe) | 3:26 |
 | 81 | [Welcome Home](https://open.spotify.com/track/5akqGHZlDQwNu8w4BXlCDe) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Coheed and Cambria](https://open.spotify.com/album/03yCGYcjR62dJXJhPuZ4zY) | 4:34 |
 | 82 | [Hail to the King](https://open.spotify.com/track/4z5sPd30YF6UbFJWxCVMAQ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Avenged Sevenfold](https://open.spotify.com/album/3qSsdgZP7HrTFCkYnVVHW1) | 4:10 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 87 | [Lose Yourself](https://open.spotify.com/track/3neCGqGtbxTEN5K9i9jwM2) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Eminem](https://open.spotify.com/album/1YJzWrXjvMLqmJlnl4h7Yi) | 3:53 |
 | 88 | [Last Caress](https://open.spotify.com/track/3QayeKx6qnhDB1Q7aK0T1t) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Misfits](https://open.spotify.com/album/3cfju3IBxXEbCkRsSrzqOl) | 1:50 |
 | 89 | [Ride](https://open.spotify.com/track/2mShI8sSU4twIQi2nC3gep) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Twenty One Pilots](https://open.spotify.com/album/1bBLH23v2BFQejyWAXQXOX) | 3:44 |
-| 90 | [Beat It](https://open.spotify.com/track/1ra2jGSKvDmEWnESPgWhQf) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Michael Jackson](https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO) | 3:00 |
-| 91 | [Hymn for the Weekend](https://open.spotify.com/track/45S0auZgfisuHjQkZgCBl5) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Coldplay](https://open.spotify.com/album/0cmwnoLmkKQVqVVCyNdgqo) | 3:44 |
+| 90 | [Hymn for the Weekend](https://open.spotify.com/track/45S0auZgfisuHjQkZgCBl5) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Coldplay](https://open.spotify.com/album/0cmwnoLmkKQVqVVCyNdgqo) | 3:44 |
+| 91 | [Beat It](https://open.spotify.com/track/1ra2jGSKvDmEWnESPgWhQf) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Michael Jackson](https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO) | 3:00 |
 | 92 | [Stan \(8 Bit Version\)](https://open.spotify.com/track/0nE7tNiKkdbrJWH191dfr4) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Analog Attack](https://open.spotify.com/album/0dcF9Ii7KbQjmHe3GEkhvi) | 6:41 |
 | 93 | [I Miss You \(8 Bit Version\)](https://open.spotify.com/track/07ZC7ayLLiQJ2GPOrhP35q) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [The 8 Bit Mix Tape](https://open.spotify.com/album/6ocA2f6IzrcMSJuEX6q3Yd) | 2:16 |
 | 94 | [Supermassive Black Hole](https://open.spotify.com/track/7pT9u99sbT08043fPd6056) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Muse](https://open.spotify.com/album/5BAn2FOuJGILpS4B8xDY9y) | 3:34 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 96 | [What's My Age Again?](https://open.spotify.com/track/1hntd6loywY4A1A4Wb5sxU) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of blink\-182](https://open.spotify.com/album/4cPJGrImNW1ponkWGIdFqs) | 2:37 |
 | 97 | [Shape of You \(8 Bit Version\)](https://open.spotify.com/track/2ei8b1huBEgIRVZCFEjpBj) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [8 Bit Universe Performs Ed Sheeran](https://open.spotify.com/album/12xCtanP1RaadHTIYoItHJ) | 3:51 |
 | 98 | [Nothing Else Matters](https://open.spotify.com/track/4S6Ib78sMFF0nOWVtpMJes) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 5:19 |
-| 99 | [One](https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 4:32 |
-| 100 | [Immigrant Song](https://open.spotify.com/track/6INzFSLg08SUeZcG64PSwZ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Led Zeppelin](https://open.spotify.com/album/11nihhKvWVwU8cM9QWoF4Y) | 2:27 |
+| 99 | [Immigrant Song](https://open.spotify.com/track/6INzFSLg08SUeZcG64PSwZ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Led Zeppelin](https://open.spotify.com/album/11nihhKvWVwU8cM9QWoF4Y) | 2:27 |
+| 100 | [One](https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 4:32 |
 
-Snapshot ID: `MCwwM2UyNDFkMWUwMTVhNzgwNjVjMDI0YTcwZDhhNjZlNTNiYjliMjFk`
+Snapshot ID: `MCw1MmYxMTQ4MzM3MGUwMzhiYzA3OTRiZWRhZWJkNjVmZDQ3NzY0Nzk2`

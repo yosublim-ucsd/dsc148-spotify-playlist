@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Gera MX y EMJAY en portada. ",
-  "num_followers": 13056,
+  "num_followers": 13062,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWExMDcxNDljNGZjYWJhOGMxYzA3MmUxMmYzZmFkMWExNDVjZWY2",
+  "snapshot_id": "MCw0NTFiNzc5YWRmNWFhNThkZTMxZjdiMDk4ODU0N2U4MDZhYTlkYmFm",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Mexikan",
+        "url": "https://open.spotify.com/album/3EsWyuDkCTFPVxQAOih8JY"
+      },
+      "artists": [
+        {
+          "name": "Neto Reyno",
+          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Mexikan",
+      "url": "https://open.spotify.com/track/2CQQm6eZY2ZeLQPDZvvBmm"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Ni Con Money",
         "url": "https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 246666,
       "name": "Ni Con Money",
       "url": "https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Mexikan",
-        "url": "https://open.spotify.com/album/3EsWyuDkCTFPVxQAOih8JY"
-      },
-      "artists": [
-        {
-          "name": "Neto Reyno",
-          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 214168,
-      "name": "Mexikan",
-      "url": "https://open.spotify.com/track/2CQQm6eZY2ZeLQPDZvvBmm"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Dale Suave",
+        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Dale Suave",
+      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "DE POR VIDA",
         "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 184665,
       "name": "De Por Vida",
       "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Dale Suave",
-        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Dale Suave",
-      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 216134,
-      "name": "Millonaria",
-      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "From Cavernas",
         "url": "https://open.spotify.com/album/64LAL4F1Jr5xC7esPgqDEF"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 218487,
       "name": "From Cavernas",
       "url": "https://open.spotify.com/track/2HvbmNespiZlOgsIJd6ETu"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 216134,
+      "name": "Millonaria",
+      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "3x4",
+        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 167224,
+      "name": "3x4",
+      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "ANBU",
         "url": "https://open.spotify.com/album/5ANllXrlPvSfmcWW8oTkyw"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 238471,
       "name": "ANBU",
       "url": "https://open.spotify.com/track/3c6RbN2q0p5ihlBdGpdOhY"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "3x4",
-        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 167224,
-      "name": "3x4",
-      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Amor de \u00d1eros",
+        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        }
+      ],
+      "duration_ms": 131725,
+      "name": "Amor de \u00d1eros",
+      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Tensi\u00f3n",
         "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
       },
@@ -1163,42 +1179,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Amor de \u00d1eros",
-        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        }
-      ],
-      "duration_ms": 131725,
-      "name": "Amor de \u00d1eros",
-      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6FcXPSUHNtXUaP4PY9PDg6"
-      },
-      "artists": [
-        {
-          "name": "Franco Escamilla",
-          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 224105,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Flight 0010",
         "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
       },
@@ -1223,18 +1203,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6FcXPSUHNtXUaP4PY9PDg6"
       },
       "artists": [
         {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Avi\u00f3n",
-      "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
+      "duration_ms": 224105,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 246785,
       "name": "Toma",
       "url": "https://open.spotify.com/track/1PFPCkKVJGpRO90EOznoSQ"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Avi\u00f3n",
+      "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 179142,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "La Carnita Asada",
+        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 275647,
+      "name": "La Carnita Asada",
+      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Imaginando Voy",
         "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
       },
@@ -1911,42 +1931,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "\u00c1rtico",
-        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
-      },
-      "artists": [
-        {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
-        }
-      ],
-      "duration_ms": 202162,
-      "name": "Cuando te miro",
-      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "La Carnita Asada",
-        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 275647,
-      "name": "La Carnita Asada",
-      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Intento Tras Intento",
         "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 184000,
       "name": "Intento Tras Intento",
       "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "\u00c1rtico",
+        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
+      },
+      "artists": [
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+        }
+      ],
+      "duration_ms": 202162,
+      "name": "Cuando te miro",
+      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Bendici\u00f3n o Desgracia",
+        "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        }
+      ],
+      "duration_ms": 163723,
+      "name": "Bendici\u00f3n o Desgracia",
+      "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Escorpi\u00f3n",
         "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
@@ -2119,26 +2139,6 @@
       "duration_ms": 172925,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Bendici\u00f3n o Desgracia",
-        "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        }
-      ],
-      "duration_ms": 163723,
-      "name": "Bendici\u00f3n o Desgracia",
-      "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
     }
   ],
   "unique_name": "Rimas Frescas ",

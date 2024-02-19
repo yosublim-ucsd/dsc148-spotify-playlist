@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,876 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,895 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 44 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 |
 | 45 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 |
 | 46 | [Choose Life \(feat\. Travis Barker\)](https://open.spotify.com/track/5jbjAmYTrF6ITa72YW8mFS) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB) | 2:09 |
-| 47 | [love song](https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 4:00 |
-| 48 | [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 |
+| 47 | [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 |
+| 48 | [love song](https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 4:00 |
 | 49 | [Misery Business](https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 3:21 |
 | 50 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 
-Snapshot ID: `MCw2NjExMDUyZjg1NTQxYmIzZmE4NmY1ZGI0MjExNTBkZWFhNWY5NGE5`
+Snapshot ID: `MCw1ZmVlMjkxYjM1ZGY1MzFiNTk1ZDliMWNiNTIwOTY5ZmQ0MDc4YzEw`

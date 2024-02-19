@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,875 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,930 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 35 | [You Don't Know Me](https://open.spotify.com/track/1EOsMbGG8ej3tTDQ735Ch7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Clambake](https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN) | 2:29 |
 | 36 | [For Ol' Times Sake](https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Raised On Rock](https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6) | 3:36 |
 
-Snapshot ID: `MCw4MjZkYWFiYTg2ZjQzOGRlYzc0ODIzOWU0YjEzNDI1YzQ0MmRlNGJm`
+Snapshot ID: `MCw4ZjI2Zjk2MzRiZDA4ODUwOWE1ZjNjM2MyMGQ3MjUyODllYWI0ODk4`

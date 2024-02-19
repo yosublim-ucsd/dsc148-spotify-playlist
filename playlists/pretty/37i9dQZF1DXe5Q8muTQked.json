@@ -1,12 +1,12 @@
 {
   "description": "Kick back with the perfect mix of covers.",
-  "num_followers": 1181656,
+  "num_followers": 1181758,
   "original_name": "Ultimate Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjRmY2Q2MTkxN2NlM2M5ODNlYzI4Zjc3YmQ1MmEyYjliMDMzOWYz",
+  "snapshot_id": "MCxlMDgzMzFjMGI0YzI3ZTJlYmI3NTk2NTdlZWM5Y2EwMjM1M2JkYzZj",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:16",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 261120,
       "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
       "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Pandora's Box",
-        "url": "https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6"
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 224583,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g"
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+      "duration_ms": 224583,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "The Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz"
-      },
-      "artists": [
-        {
-          "name": "Noah Guthrie",
-          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
-        }
-      ],
-      "duration_ms": 233377,
-      "name": "Set Fire to the Rain - Cover",
-      "url": "https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 192053,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "The Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz"
+      },
+      "artists": [
+        {
+          "name": "Noah Guthrie",
+          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
+        }
+      ],
+      "duration_ms": 233377,
+      "name": "Set Fire to the Rain - Cover",
+      "url": "https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 214874,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Knocking On Heavens Door - EP",
         "url": "https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 264389,
       "name": "Knocking on Heavens Door",
       "url": "https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 261665,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Cover Sessions, Vol. 3",
-        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 227562,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 166762,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 227562,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "With The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 234135,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif"
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1539,6 +1523,22 @@
       "duration_ms": 210133,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/3lv9TUA15PFRHtMaPhjKKj"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 234135,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Superstition",
-        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
-      },
-      "artists": [
-        {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Hopes And Fears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 210733,
       "name": "With Or Without You - BBC Jo Whiley Session / 2004",
       "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Superstition",
+        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
+      },
+      "artists": [
+        {
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "First Impressions",
-        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Torn - Bonus Track",
-      "url": "https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Payphone",
         "url": "https://open.spotify.com/album/50MkaMTSbHu9O2f4puTIiv"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 184000,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/5h3Wapr8ZukuHRZ5XMMejV"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Torn - Bonus Track",
+      "url": "https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
       },
@@ -2067,6 +2051,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Unearthed",
         "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
       },
@@ -2079,22 +2079,6 @@
       "duration_ms": 216533,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "The Tip Jar Volume One",
-        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
-      },
-      "artists": [
-        {
-          "name": "Obadiah Parker",
-          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "Hey Ya - solo version",
-      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2115,6 +2099,22 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "The Tip Jar Volume One",
+        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
+      },
+      "artists": [
+        {
+          "name": "Obadiah Parker",
+          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Hey Ya - solo version",
+      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE"
-      },
-      "artists": [
-        {
-          "name": "Gardiner Sisters",
-          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
-        }
-      ],
-      "duration_ms": 173508,
-      "name": "Home / Dirty Paws",
-      "url": "https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "A Sailor's Guide to Earth",
         "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 241960,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "duration_ms": 173508,
+      "name": "Home / Dirty Paws",
+      "url": "https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
-      },
-      "artists": [
-        {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "California Airport Love",
         "url": "https://open.spotify.com/album/02OgL5XHVxJvXqZMpaqWkB"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 188345,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/2gMIw3s1WT1jEMplHwD4e2"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
+        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
+      },
+      "artists": [
+        {
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Wild World - Acoustic Version",
+      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Youtube Sessions",
-        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Cornell",
-          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Sex On Fire",
-      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Busted Jukebox, Volume 1",
         "url": "https://open.spotify.com/album/3UHGDyigOGGTj4DyTanLxV"
       },
@@ -2579,18 +2563,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Please Clap Your Hands",
-        "url": "https://open.spotify.com/album/4yt5JKsDA1F6XIKt0vrNpd"
+        "name": "Youtube Sessions",
+        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
       },
       "artists": [
         {
-          "name": "the bird and the bee",
-          "url": "https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD"
+          "name": "Alex Cornell",
+          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
         }
       ],
-      "duration_ms": 204653,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/4DDD2P6dJurAgk3IYWqK3p"
+      "duration_ms": 185500,
+      "name": "Sex On Fire",
+      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2607,6 +2591,22 @@
       "duration_ms": 218240,
       "name": "America",
       "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Please Clap Your Hands",
+        "url": "https://open.spotify.com/album/4yt5JKsDA1F6XIKt0vrNpd"
+      },
+      "artists": [
+        {
+          "name": "the bird and the bee",
+          "url": "https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4DDD2P6dJurAgk3IYWqK3p"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 221978,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/46ESgLX4lWUw2PGnt9nK7j"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -2683,6 +2667,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 221978,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/46ESgLX4lWUw2PGnt9nK7j"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
       },
@@ -2695,22 +2695,6 @@
       "duration_ms": 212300,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2743,6 +2727,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2883,22 +2883,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Stitches",
-        "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
-      },
-      "artists": [
-        {
-          "name": "Jaclyn Davies",
-          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "The Essential The Chicks",
         "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
       },
@@ -2911,6 +2895,22 @@
       "duration_ms": 228480,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
+      },
+      "artists": [
+        {
+          "name": "Jaclyn Davies",
+          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Gun Shy",
-        "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 251889,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Watermelon Sugar (Acoustic)",
         "url": "https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk"
       },
@@ -3075,6 +3059,22 @@
       "duration_ms": 169506,
       "name": "Money (That's What I Want) - Remastered 2009",
       "url": "https://open.spotify.com/track/3zw4FTrVNfy2teEkV9FOvh"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Gun Shy",
+        "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 251889,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3255,22 +3255,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Covers: Six",
         "url": "https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 211748,
       "name": "Hide Away (Acoustic Version) [feat. Kaya May]",
       "url": "https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3455,22 +3455,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE"
-      },
-      "artists": [
-        {
-          "name": "Gardiner Sisters",
-          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
-        }
-      ],
-      "duration_ms": 206324,
-      "name": "Drag Me Down / As Long As You Love Me",
-      "url": "https://open.spotify.com/track/2YIQa8910IbEuqkUHmUoua"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "R.E.V.O.",
         "url": "https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP"
       },
@@ -3483,6 +3467,22 @@
       "duration_ms": 248240,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/6mLufFjkRHCHaV1KJAOcte"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "duration_ms": 206324,
+      "name": "Drag Me Down / As Long As You Love Me",
+      "url": "https://open.spotify.com/track/2YIQa8910IbEuqkUHmUoua"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3615,22 +3615,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Hello (Adele Cover)",
-        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        }
-      ],
-      "duration_ms": 230225,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
@@ -3663,18 +3647,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+        "name": "Hello (Adele Cover)",
+        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
         }
       ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
+      "duration_ms": 230225,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3691,6 +3675,22 @@
       "duration_ms": 299826,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/3q6BJcC0i7UyM8oWn6ntRQ"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3747,6 +3747,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "I Wanna Dance with Somebody",
         "url": "https://open.spotify.com/album/0KZXzOjVz4fFGwhu0zdvZ2"
       },
@@ -3763,22 +3779,6 @@
       "duration_ms": 256822,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/2wpebYFWzZ06RNYkOZgw6x"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3847,6 +3847,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Ashes to Ashes",
+        "url": "https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
       },
@@ -3863,18 +3879,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Ashes to Ashes",
-        "url": "https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894"
+        "name": "City Of Stars",
+        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
       },
       "artists": [
         {
-          "name": "Warpaint",
-          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 310226,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7"
+      "duration_ms": 154858,
+      "name": "City Of Stars",
+      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3895,22 +3911,6 @@
       "duration_ms": 341015,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0KPVOW1SAbaHZWaSzaJf5J"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "City Of Stars",
-        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City Of Stars",
-      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3947,22 +3947,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "High and Dry",
-        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 249752,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "More Mayhem",
         "url": "https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu"
       },
@@ -3975,6 +3959,22 @@
       "duration_ms": 165586,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "High and Dry",
+        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 249752,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -4027,22 +4027,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "The Acoustics, Covers",
-        "url": "https://open.spotify.com/album/11ryjIhICYwGWVZbPAHjy1"
-      },
-      "artists": [
-        {
-          "name": "VASSY",
-          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
-        }
-      ],
-      "duration_ms": 105493,
-      "name": "Just Cant Get Enough",
-      "url": "https://open.spotify.com/track/0yDU1ZjW870SAdF0n1ST2n"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH"
       },
@@ -4059,6 +4043,22 @@
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "The Acoustics, Covers",
+        "url": "https://open.spotify.com/album/11ryjIhICYwGWVZbPAHjy1"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "duration_ms": 105493,
+      "name": "Just Cant Get Enough",
+      "url": "https://open.spotify.com/track/0yDU1ZjW870SAdF0n1ST2n"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -4095,22 +4095,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Lego House - Single",
-        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Lego House",
-      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Changing Of The Seasons",
         "url": "https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR"
       },
@@ -4123,6 +4107,22 @@
       "duration_ms": 140480,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Lego House - Single",
+        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Lego House",
+      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
     },
     {
       "added_at": "2023-10-23 17:16:16",

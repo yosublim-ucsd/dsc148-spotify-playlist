@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,928 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,106 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 18 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
 | 19 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 |
 | 20 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
-| 21 | [XL](https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [XL](https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw) | 2:27 |
-| 22 | [Un Amor Como Este](https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW) | 3:05 |
+| 21 | [Un Amor Como Este](https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW) | 3:05 |
+| 22 | [XL](https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [XL](https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw) | 2:27 |
 | 23 | [Y Te Vas \(En Vivo\)](https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Y Te Vas \(En Vivo\)](https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x) | 3:55 |
-| 24 | [Otra Noche](https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Otra Noche](https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa) | 3:21 |
-| 25 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 |
+| 24 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 |
+| 25 | [Otra Noche](https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Otra Noche](https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa) | 3:21 |
 | 26 | [Decide Tú](https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Decide Tú](https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW) | 3:52 |
 | 27 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN) | 4:10 |
 | 28 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Lujos y Secretos](https://open.spotify.com/track/5Q7T1ePrtZiMA5whIXdwUC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Quinto V Imperio](https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [Lujos y Secretos](https://open.spotify.com/album/4QUx5wQsvFrdwCO4vfN12v) | 2:45 |
 | 50 | [Entre Botellas](https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Entre Botellas](https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs) | 3:28 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAyMTM3ZDkyZTQ5MjIzZWQ4ZDc5OTA1MDdiNTk0MzQ4ZQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA2NzI0NzMyN2EwM2NlNWU2ZjMyODc4Y2YwOWRmZDhkZQ==`

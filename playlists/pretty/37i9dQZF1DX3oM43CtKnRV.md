@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 
 > These songs rocked the 00s\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,982,770 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,983,857 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 99 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 |
 | 100 | [The Everlasting Gaze](https://open.spotify.com/track/4EhbLHYOXzEoPmOfaVoIIW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Machina / The Machines Of God](https://open.spotify.com/album/4hrZp6mKgz0HG7UpRbNYQx) | 4:00 |
 
-Snapshot ID: `MCxkMzk1NzNjNjc2MTEyZGRmYjMwNWU2ZDMzMjRmZjdkMjk3Y2M3M2Fh`
+Snapshot ID: `MCw2YzZmNzM4MDBkNjFkYTlkMDE4ZTlmMzk1NTM1OWI0MGJhYTk1Njkz`

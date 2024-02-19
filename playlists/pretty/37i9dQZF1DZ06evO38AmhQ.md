@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,030 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,038 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 6 | [Goondiwindi Pork](https://open.spotify.com/track/0dvoVIjcF2xszyR0A4gfx8) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 3:26 |
 | 7 | [Chandelier of Stars](https://open.spotify.com/track/41dkNDpZO62SV9s8JFJ14Y) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Chandelier of Stars](https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi) | 3:15 |
 | 8 | [Raining on the Rock](https://open.spotify.com/track/4RZXrZvFHCZY8BOQG2JzAK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 4:31 |
-| 9 | [Prairie Hotel Parachilna](https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Big Red](https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK) | 2:56 |
-| 10 | [You and My Guitar](https://open.spotify.com/track/2PTMb71adWDRDJLv0JAjWj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 2:49 |
+| 9 | [You and My Guitar](https://open.spotify.com/track/2PTMb71adWDRDJLv0JAjWj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 2:49 |
+| 10 | [Prairie Hotel Parachilna](https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Big Red](https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK) | 2:56 |
 | 11 | [A Thousand Feet \(with Warren H\. Williams\)](https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf), [Warren H\. Williams](https://open.spotify.com/artist/24mAUpCTQNw1yhDus8rwrY) | [The Way It Is](https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx) | 2:50 |
 | 12 | [Mallee Boy](https://open.spotify.com/track/72NkwThw0PDHasUu7WomDm) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:17 |
 | 13 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 24 | [Three Rivers Hotel](https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:09 |
 | 25 | [Goodbye Blinky Bill](https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [J.W.'s Family Album](https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC) | 3:30 |
 | 26 | [Dingo](https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:22 |
-| 27 | [A Flag of Our Own](https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 3:30 |
-| 28 | [I Was Only 19 \- Live](https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 5:04 |
-| 29 | [Papa Whisky November](https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:19 |
+| 27 | [Papa Whisky November](https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:19 |
+| 28 | [A Flag of Our Own](https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 3:30 |
+| 29 | [I Was Only 19 \- Live](https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 5:04 |
 | 30 | [This Is Australia Calling](https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:31 |
-| 31 | [Wobbly Boot Hotel](https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 2:38 |
-| 32 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 |
+| 31 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 |
+| 32 | [Wobbly Boot Hotel](https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 2:38 |
 | 33 | [The Big Red](https://open.spotify.com/track/6eUiyTK9pXGpekx53Ag5w7) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Big Red](https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK) | 3:47 |
-| 34 | [Diggers of the Anzac \(This Is Gallipoli\)](https://open.spotify.com/track/7HBaB4e77Q1Vcg16y8ft6K) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:35 |
+| 34 | [Chain Around My Ankle](https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 1:11 |
 | 35 | [Queensland Bungalow](https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:38 |
-| 36 | [Chain Around My Ankle](https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 1:11 |
+| 36 | [Diggers of the Anzac \(This Is Gallipoli\)](https://open.spotify.com/track/7HBaB4e77Q1Vcg16y8ft6K) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:35 |
 | 37 | [King Of The Road](https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U) | [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf), [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Both Sides Now](https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm) | 2:06 |
 | 38 | [Why They Call Him Sundown](https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 4:03 |
 | 39 | [Hang My Hat in Queensland \- Orchestra Version](https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 49 | [Shelter](https://open.spotify.com/track/4OGlxdoxuVUIrYVUY6x3vs) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 2:51 |
 | 50 | [Waltzing Matilda](https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 4:02 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAwZTNlYWQ3YzEzYTdmOTYwMzZiODM2MWU3YmY4MGE4MA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA4ZjRhYzExMGUyYmY0MDc0YjEwYzI4ZmRjNTA5MTgyNw==`

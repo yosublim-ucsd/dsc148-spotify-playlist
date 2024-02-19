@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: BAEKHO, Park Ji Won\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,698 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,726 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 12 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 |
 | 13 | [NO ONE](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:14 |
 | 14 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Jang Yi\-jeong](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 |
-| 15 | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 |
-| 16 | [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 |
+| 15 | [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 |
+| 16 | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 |
 | 17 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 |
 | 18 | [멋지게 인사하는 법 \(Hello Tutorial\) \(Feat\. 슬기 \(SEULGI\) of Red Velvet\)](https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya) | 3:22 |
 | 19 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 | 50 | [She Said \(with BIBI\)](https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:28 |
 
-Snapshot ID: `MCw1OWU3NWZkNDdiMGNlOTYzNzcxMjI2NWFkODUyYjgyNWI2NWJiMjIx`
+Snapshot ID: `MCwwZDI2MDJkYjYwOGYyZTdmYTA2YzYxMTExZTA4OWVjMGFhNTA2Mjli`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,164 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,137 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 |
 | 2 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 |
 | 3 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 |
-| 4 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
-| 5 | [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 |
+| 4 | [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 |
+| 5 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
 | 6 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 |
 | 7 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |
 | 8 | [B.Y.O.B.](https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 4:15 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 89 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
 | 90 | [Aftermath](https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 4:58 |
 | 91 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
-| 92 | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 |
-| 93 | [St\. Anger](https://open.spotify.com/track/3fOc9x06lKJBhz435mInlH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs) | 7:21 |
+| 92 | [St\. Anger](https://open.spotify.com/track/3fOc9x06lKJBhz435mInlH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs) | 7:21 |
+| 93 | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 |
 | 94 | [STFU](https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 3:30 |
 | 95 | [Dante](https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Dante](https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U) | 5:46 |
-| 96 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:23 |
-| 97 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 |
+| 96 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 |
+| 97 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:23 |
 | 98 | [Over It](https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:47 |
-| 99 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
-| 100 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |
+| 99 | [Moth Into Flame](https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 5:50 |
+| 100 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
 
-Snapshot ID: `MCw5MTI2ZjFmZDcxOTk2NDJiYjk4ZDc2NzgyYTUyMDAwNWFmMDJmMTdj`
+Snapshot ID: `MCw2MmEyZjc5ODgxOWM4MjdmMDZkN2MyNTJlOWVkYjYwNzUyNGJiOWU4`

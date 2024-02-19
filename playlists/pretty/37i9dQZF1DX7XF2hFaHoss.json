@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Madi Diaz",
-  "num_followers": 151000,
+  "num_followers": 150996,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjdmYzY2Y2RmY2M5NTRkZmU5YzQwZjI5OTNmOTY3MTFlYWMyNjIz",
+  "snapshot_id": "MCw1ZTQ0Yjg3NjlhMjkyMDBhYTY0OGE0MjQyYWRkNmMwZjA4OWYzODY2",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Listen to Formation, Look for the Signs",
         "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
       },
       "artists": [
         {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
         }
       ],
-      "duration_ms": 179826,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm"
+      "duration_ms": 173231,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 154573,
       "name": "With You - A Sweet Little Love Song Demo",
       "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Transcendence",
-        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 173231,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
     },
     {
       "added_at": "2023-03-08 05:00:00",

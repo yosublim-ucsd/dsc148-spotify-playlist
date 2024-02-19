@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODZjNjE2YmRmYzEzYzFkNzIzNGEwYTAzMDg2YTk1NjYxYmZiYzkz",
+  "snapshot_id": "MCw1MmVhYWJlYjI3MjQ4YWU1OTNjNDBkNGY5YjRjY2I2YzJjNjk4MGI5",
   "tracks": [
     {
       "added_at": "2023-11-22 17:23:28",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 129860,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "No Excuses",
-      "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 178304,
       "name": "World, Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 212893,
       "name": "You've Done Enough",
       "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/39NzRuUBQwITknLiseKkXN"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 232558,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/6h49997adA3XWCX9zMQKbX"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -1771,30 +1771,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "I Wish (feat. Mabel) [VIP Mix]",
-        "url": "https://open.spotify.com/album/4Cihyb46FDRnYL3Sb0lRsA"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 175242,
-      "name": "I Wish (feat. Mabel) - VIP Mix",
-      "url": "https://open.spotify.com/track/3BZ2cqwhyjrqb2CWeX3W7O"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "Soul Full (feat. Joe Killington)",
         "url": "https://open.spotify.com/album/0U7GxQHdZQB0nWrrWEOIEX"
       },
@@ -1815,6 +1791,30 @@
       "duration_ms": 195507,
       "name": "Soul Full (feat. Joe Killington)",
       "url": "https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
+        "name": "I Wish (feat. Mabel) [VIP Mix]",
+        "url": "https://open.spotify.com/album/4Cihyb46FDRnYL3Sb0lRsA"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 175242,
+      "name": "I Wish (feat. Mabel) - VIP Mix",
+      "url": "https://open.spotify.com/track/3BZ2cqwhyjrqb2CWeX3W7O"
     },
     {
       "added_at": "2023-11-22 17:23:28",

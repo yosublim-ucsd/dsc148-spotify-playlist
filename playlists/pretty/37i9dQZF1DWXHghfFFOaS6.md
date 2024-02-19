@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,766 likes - 90 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,856 likes - 90 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 30 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
 | 31 | [Alright \- Remastered](https://open.spotify.com/track/6Fsme6JdS9n1apzVi800jL) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Driving Songs](https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw) | 3:42 |
 | 32 | [The Creator Has A Master Plan \- Original Album Version](https://open.spotify.com/track/2YxwTmbJP4oBy4W7DJ6hsq) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA) | [Cool And Steady And Easy](https://open.spotify.com/album/4MTudI2qwuB2eV3tbVvwBA) | 5:50 |
-| 33 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
-| 34 | [Let It Flow \(For "DR\. J"\)](https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 5:50 |
-| 35 | [Friends And Strangers](https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 4:49 |
-| 36 | [TIBBE](https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:25 |
+| 33 | [Let It Flow \(For "DR\. J"\)](https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 5:50 |
+| 34 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
+| 35 | [TIBBE](https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:25 |
+| 36 | [Friends And Strangers](https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 4:49 |
 | 37 | [Web of Deception](https://open.spotify.com/track/3n6SFPAFoF0YyBcMEk1zYc) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture Of Fear](https://open.spotify.com/album/06CDsx2HDFn57Y66uNI7Iz) | 4:32 |
 | 38 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 |
 | 39 | [Jazzie's Groove](https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 2:37 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 54 | [Wash Your Face In My Sink](https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [And Now The Legacy Begins](https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd) | 3:40 |
 | 55 | [Sun](https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:06 |
 | 56 | [Whirl Keeps Turning](https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Galactica Rush](https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF) | 5:20 |
-| 57 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
-| 58 | [Dark Clouds Rain Soul \- Dub](https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Joyful Noise](https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd) | 5:10 |
+| 57 | [Dark Clouds Rain Soul \- Dub](https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Joyful Noise](https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd) | 5:10 |
+| 58 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
 | 59 | [Beatmaker](https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto), [Emma Noble](https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g) | [Beatmaker](https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H) | 2:57 |
 | 60 | [Mama Said](https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf) | [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [True Spirit](https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp) | 4:07 |
 | 61 | [Totally Together](https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 3:49 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 70 | [Theme from Riot on 103rd Street](https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [Stoned Woman](https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe) | 2:45 |
 | 71 | [Pushin' On](https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar) | 3:19 |
 | 72 | [No Use \- Funkhaus Sessions](https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Funkhaus Studio Sessions](https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg) | 5:00 |
-| 73 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 |
-| 74 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
+| 73 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
+| 74 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 |
 | 75 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L) | 5:19 |
 | 76 | [Changin'](https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction](https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV) | 8:14 |
 | 77 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [The Final Comedown](https://open.spotify.com/track/6z0FN1nu2aWhtK2Zp8iOqO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Blue Break Beats](https://open.spotify.com/album/2KbHNB4R33UuA09rleUrcp) | 3:27 |
 | 90 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 
-Snapshot ID: `MCwzN2FjNjY5ODcxYzNhZDkyMDY5NTEwYjBmNmQwZjg3OWFiNmQyY2Fi`
+Snapshot ID: `MCxhY2EyNGIwMzE0ODJlMmEzY2JkNjJiMGNlYjBhZGMxOTM4MmExOGFj`

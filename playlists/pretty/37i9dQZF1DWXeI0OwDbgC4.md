@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,356 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,388 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 72 | [Closure](https://open.spotify.com/track/2WBHmEgFHvzYFM24L4m9BO) | [Jemimah Paine](https://open.spotify.com/artist/4KsMnVZJDA21NtWFMXwQin) | [Closure](https://open.spotify.com/album/0vMCaROMM23vQHgjTArSOn) | 3:23 |
 | 73 | [Boring People](https://open.spotify.com/track/34n2HfHMrHlN8wRJTPTWCc) | [sunnytheduo](https://open.spotify.com/artist/22PL7GHGfcMNB75oLBkFR2) | [Boring People](https://open.spotify.com/album/2n2RVSI0VghVBvPzdyw9iN) | 3:10 |
 | 74 | [Who You?](https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Who You?](https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd) | 2:21 |
-| 75 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
-| 76 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
+| 75 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
+| 76 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
 | 77 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |
 | 78 | [Heaven Is Too Far Away](https://open.spotify.com/track/6iNjeRwNNyRiJQ0RGQiz7s) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [Heaven Is Too Far Away](https://open.spotify.com/album/5ntPNlQX5ElhcWELkkrBUj) | 6:23 |
 | 79 | [That's On You](https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Love Parables](https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4) | 2:44 |
-| 80 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
-| 81 | [Just Hold On](https://open.spotify.com/track/7q5LTs2lW6kwp8UC2Da7W4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Just Hold On](https://open.spotify.com/album/48OhsxPMxadsXWxAj86IiZ) | 2:23 |
+| 80 | [Just Hold On](https://open.spotify.com/track/7q5LTs2lW6kwp8UC2Da7W4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Just Hold On](https://open.spotify.com/album/48OhsxPMxadsXWxAj86IiZ) | 2:23 |
+| 81 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
 | 82 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 | 83 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
 | 84 | [Just Say That](https://open.spotify.com/track/2IGS5KiDDnVtjw2d5NRILO) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [Just Say That](https://open.spotify.com/album/6FCgl0Rkbx8OdUBTAk0x8V) | 2:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 99 | [The Best For Us](https://open.spotify.com/track/4sZXUgyS6ZAcnJMwl5ZWGf) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [The Best For Us](https://open.spotify.com/album/2mgOV0WTIT3NA8BJyuBLof) | 3:38 |
 | 100 | [Good Parts](https://open.spotify.com/track/1pMf7KYlEZPtc0lhUaAGBh) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [Good Parts](https://open.spotify.com/album/3Wk3wyZuXvi0ODAZgDogc6) | 2:15 |
 
-Snapshot ID: `MCw2ZTJhOTgxNTNiNzQ1OTRjZDdjNmE0N2EwOTliNTI1ODNiZDIyNjQx`
+Snapshot ID: `MCwzMTk3MDQwMDRlODZlMzM2MjFmZWFjZTI5ZDE1MmY5M2QxMTMxMzM3`

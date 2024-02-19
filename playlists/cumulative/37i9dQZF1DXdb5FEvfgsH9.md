@@ -4,13 +4,14 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-142 songs - 8 hr 44 min
+143 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Baby I\) Need Your Love](https://open.spotify.com/track/7wV4rDX1iaPLB388EGYl0y) | [Nicolaas](https://open.spotify.com/artist/5IqWaBUBZviyaMlZ78ZmtI), [Elzhi](https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT) | [\(Baby I\) Need Your Love](https://open.spotify.com/album/3TUELfYjAy6PoQ5k4tsFFi) | 3:43 | 2021-07-30 |  |
+| [\(I Don't Need A\) New Girl](https://open.spotify.com/track/1uYMePrdjwPmpvaEJAy1bX) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 4:33 | 2023-06-30 |  |
 | [\(I Don't Need A\) New Girl](https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [\(I Don't Need A\) New Girl](https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo) | 4:33 | 2023-06-30 | 2023-11-23 |
-| [\(I Don't Need A\) New Girl](https://open.spotify.com/track/62j1wP9DisLMkvglJKLJx7) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [\(I Don't Need A\) New Girl](https://open.spotify.com/album/79yQNCy3XUASpUzE2qibKu) | 4:33 | 2023-06-30 |  |
+| [\(I Don't Need A\) New Girl](https://open.spotify.com/track/62j1wP9DisLMkvglJKLJx7) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [\(I Don't Need A\) New Girl](https://open.spotify.com/album/79yQNCy3XUASpUzE2qibKu) | 4:33 | 2023-06-30 | 2024-02-19 |
 | [10 Years](https://open.spotify.com/track/2wxvW9II2IMhqSme5YC9n3) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Welcome](https://open.spotify.com/album/66k2BD3Z2gtQt0UgXhZJSf) | 2:46 | 2021-07-26 | 2022-11-13 |
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-07-26 | 2022-10-13 |
 | [10 Years](https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/3qSyv2svKxAypN9AsWVm92) | 2:46 | 2021-07-26 |  |

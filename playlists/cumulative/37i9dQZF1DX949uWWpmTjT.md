@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-945 songs - 2 day 13 hr 22 min
+946 songs - 2 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-11-10 | 2023-08-25 |
 | [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-08 |  |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 |  |
-| [God Bless the Child](https://open.spotify.com/track/0vX1WuGdUzFuhKjVheJwEs) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Shuffle and Deal](https://open.spotify.com/album/7jH6xoaUghuBkSOPh6Ksyp) | 6:53 | 2023-03-23 |  |
+| [God Bless the Child](https://open.spotify.com/track/0vX1WuGdUzFuhKjVheJwEs) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Shuffle and Deal](https://open.spotify.com/album/7jH6xoaUghuBkSOPh6Ksyp) | 6:53 | 2023-03-23 | 2024-02-19 |
 | [Good Morning Heartache](https://open.spotify.com/track/1ho1wV4HROG8ZzJwLrMe3E) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 5:28 | 2021-12-03 | 2022-10-27 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-11-10 |  |
 | [Goodbye](https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Know What I Mean? \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX) | 6:17 | 2022-05-19 |  |
@@ -794,6 +794,7 @@
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-02-16 |  |
 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 | 2023-02-23 |  |
 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-11-10 |  |
+| [The Nearness of You](https://open.spotify.com/track/659rgge3J3HiNeVNjhWcbH) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [The Nearness of You](https://open.spotify.com/album/1udDe5yKP7MzgrpWKyFaOo) | 6:34 | 2024-02-16 |  |
 | [The Nearness Of You](https://open.spotify.com/track/6KeyhlDv6rDJwWzyiVp3DK) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [The Time Is Right](https://open.spotify.com/album/7rQ2t2e5qvrMbJwqHsTEDC) | 4:42 | 2021-12-03 | 2023-08-14 |
 | [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-02-02 | 2024-02-16 |
 | [The next day](https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [The next day](https://open.spotify.com/album/0BIs50usgDMHmPBj63mtk6) | 2:13 | 2023-01-12 |  |

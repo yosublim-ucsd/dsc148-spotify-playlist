@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105408,
+  "num_followers": 105412,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDI4ZmI0MzEwZjI1NWUyM2MzN2YzYWJmMjQ2NmE1OWEwMDBjZjE4",
+  "snapshot_id": "MCxhODMzODEyMzYwNTZjYjJlNDMzYzYwMzY1YTdjOTdmNDFiYmM1ZDFl",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 185432,
       "name": "INFINITO",
       "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "MILLONES",
+        "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 138653,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/1Gdz3YgKThghb3hcIOHQI7"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Pediste flores (con Loli Molina)",
         "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
       },
@@ -1135,26 +1151,6 @@
       "duration_ms": 193643,
       "name": "Pediste flores (con Loli Molina)",
       "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "GUIAME",
-        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        }
-      ],
-      "duration_ms": 198676,
-      "name": "GUIAME",
-      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1255,6 +1251,26 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "GUIAME",
+        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 198676,
+      "name": "GUIAME",
+      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "nu love",
         "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 221333,
       "name": "Que te hizo ir",
       "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 138653,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/1Gdz3YgKThghb3hcIOHQI7"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 219826,
       "name": "M\u00e1quinas de hacer todo al mismo tiempo",
       "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 227274,
       "name": "Sin m\u00ed :(",
       "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2024-02-09 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 484127,
+  "num_followers": 484299,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGI5ZTYxYTE1N2I1NTk2ZWI2ZjUzOGI4ZDViYjA0YmI4NDg2OGY3",
+  "snapshot_id": "MCwxZWZkOGVkODMyNDYyNTA4OGY5ZGI4NTI1YjFkNjIwOTIzMTIzYmIx",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -467,6 +467,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Scared to Be Lonely",
-        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 220883,
-      "name": "Scared to Be Lonely",
-      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Scared to Be Lonely",
+        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 220883,
+      "name": "Scared to Be Lonely",
+      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
         "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 217466,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Heroes (we could be)",
-      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 255866,
       "name": "Latch",
       "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Heroes (we could be)",
+      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2491,26 +2491,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Magnets EP",
-        "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 174444,
-      "name": "Post Malone (feat. RANI)",
-      "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Clarity (Deluxe)",
         "url": "https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy"
       },
@@ -2527,6 +2507,26 @@
       "duration_ms": 217346,
       "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
       "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Magnets EP",
+        "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 174444,
+      "name": "Post Malone (feat. RANI)",
+      "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2975,26 +2975,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Headphones",
-        "url": "https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F"
-      },
-      "artists": [
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        },
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Headphones",
-      "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Don't Start Now (Remixes)",
         "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
       },
@@ -3011,6 +2991,26 @@
       "duration_ms": 216774,
       "name": "Don't Start Now - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Headphones",
+        "url": "https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F"
+      },
+      "artists": [
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Headphones",
+      "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
     },
     {
       "added_at": "2024-02-09 05:00:00",

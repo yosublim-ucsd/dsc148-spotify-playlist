@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 > This is Humbe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,645 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,796 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 22 | [roma](https://open.spotify.com/track/5eIL2PBVtangYd7tepcTIs) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 2:55 |
 | 23 | [Amor a Primera](https://open.spotify.com/track/2filNZQPKju4OSbRKQvI2V) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Amor a Primera](https://open.spotify.com/album/050xwu2KqU1mned3kh65Nw) | 3:06 |
 | 24 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 |
-| 25 | [QUÍTAME LAS ALAS](https://open.spotify.com/track/4gdIIRAalPd15Ox3JEq9Kc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:29 |
+| 25 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
 | 26 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
 | 27 | [yo x3](https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [yo x3](https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A) | 3:42 |
 | 28 | [ADULTOS](https://open.spotify.com/track/4FImnjFPw8WAa9KUBNDCWw) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ADULTOS](https://open.spotify.com/album/6WMkdMFLq0M0ihfrClTqCv) | 3:03 |
-| 29 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
+| 29 | [QUÍTAME LAS ALAS](https://open.spotify.com/track/4gdIIRAalPd15Ox3JEq9Kc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:29 |
 | 30 | [Ardemos](https://open.spotify.com/track/3xYvnRj7fODWlrkLzpoEqf) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Ardemos](https://open.spotify.com/album/5eafvTWlzP4LDb3qlSnG9W) | 2:30 |
 | 31 | [Te Quiero Aquí Ya](https://open.spotify.com/track/05C6RqtazHO47QZpZY04zX) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Te Quiero Aquí Ya](https://open.spotify.com/album/6SLHSOEXgE52YBulVLJZp0) | 3:05 |
 | 32 | [Para Olvidarte](https://open.spotify.com/track/6TS89XsZ9TXdRfESrUurbZ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Para Olvidarte](https://open.spotify.com/album/7fssJfhage5MSESIqRxJje) | 3:48 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 34 | [Una Vida, Y Ya](https://open.spotify.com/track/5v1LLkuUTtm9Hy6btIPXXn) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Una Vida, Y Ya](https://open.spotify.com/album/4rxU2TZelNYNHYN59cMI10) | 3:31 |
 | 35 | [¿Volver?](https://open.spotify.com/track/0YIJV7HH8MYiKdWQTZcydS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Pllws](https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq) | [¿Volver?](https://open.spotify.com/album/0u9IMrvAXTW9FoeQbAFXm0) | 3:45 |
 | 36 | [Arma Perfecta](https://open.spotify.com/track/0v6L9ICzGENuWYpVwQ20CT) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Arma Perfecta](https://open.spotify.com/album/23d7EuquSOt846dFTvqu3m) | 3:28 |
-| 37 | [POPULAR](https://open.spotify.com/track/6kiKyswGZg3caBjYnAIJRs) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [POPULAR](https://open.spotify.com/album/5dsE4gHv9VesW59zKe9h2I) | 3:35 |
-| 38 | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/track/4JSXKtwqCVZHuvrHI2wftR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/album/1y3rU2fetwfnS5v0k8G9eM) | 3:11 |
+| 37 | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/track/4JSXKtwqCVZHuvrHI2wftR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/album/1y3rU2fetwfnS5v0k8G9eM) | 3:11 |
+| 38 | [POPULAR](https://open.spotify.com/track/6kiKyswGZg3caBjYnAIJRs) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [POPULAR](https://open.spotify.com/album/5dsE4gHv9VesW59zKe9h2I) | 3:35 |
 | 39 | [Encerrados](https://open.spotify.com/track/3bLEc8iw4wZqMFb6MFB7Bg) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:36 |
 | 40 | [Nunca Dijiste Adiós](https://open.spotify.com/track/0lTHLJ03jTiaGnhVBTY2vc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:39 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBlNmYzZGE5YmM2YTBiYjZkMDcxODI5MjBkNzU0YjIyYw==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA5NDUwYTgxMmI3OWFjZTQ1OTEyMTFjYjA5ODFhNzRlZQ==`

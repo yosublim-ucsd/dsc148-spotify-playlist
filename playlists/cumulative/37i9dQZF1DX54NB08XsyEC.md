@@ -4,7 +4,7 @@
 
 > eh na sola da bota eh na palma da mao / Beyoncé
 
-310 songs - 16 hr 38 min
+311 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-05-06 | 2023-01-28 |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2022-05-06 | 2022-07-23 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-05-06 | 2024-02-17 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-11-08 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-11-08 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-16 |  |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-05-06 | 2022-09-03 |
 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 | 2024-01-12 |  |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-05-06 | 2022-06-11 |

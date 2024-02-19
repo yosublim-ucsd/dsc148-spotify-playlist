@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > in our emo cowgirl era
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,554 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,697 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 8 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
 | 9 | [White Horse \(Taylor’s Version\)](https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:54 |
 | 10 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
-| 11 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
-| 12 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |
+| 11 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |
+| 12 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
 | 13 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
 | 14 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 15 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 26 | [Everleave](https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 4:05 |
 | 27 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:40 |
 | 28 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
-| 29 | [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 |
+| 29 | [Whiskey Lullaby \(feat\. Alison Krauss\)](https://open.spotify.com/track/4BXkf6yww23Vdju7E1fUrn) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:19 |
 | 30 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 |
-| 31 | [Whiskey Lullaby \(feat\. Alison Krauss\)](https://open.spotify.com/track/4BXkf6yww23Vdju7E1fUrn) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:19 |
+| 31 | [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 |
 | 32 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
 | 33 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 |
 | 34 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 49 | [Wasting All These Tears](https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Frame By Frame](https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn) | 3:35 |
 | 50 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
 
-Snapshot ID: `MCxlMWI5OWRjOTc1NzhlODhhMDY1M2E2OWRiNmNlMzI5Y2EyNjgzN2Y0`
+Snapshot ID: `MCxlYTY5MzRlMmVhYzFiMDI1MTU0YjI4YTY3Mjg2OGQ3MTY4NjZhOTMz`

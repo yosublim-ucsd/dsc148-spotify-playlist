@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : KASYAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,926 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,943 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Vennela](https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Vennela](https://open.spotify.com/album/0wxINclZIEYCp1avSxtB3t) | 5:24 |
 | 75 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCxmZmZkZjllYzZiZGFjNmY0YzA1OTU5NTExMTdhNzY0MDZhNDExODU1`
+Snapshot ID: `MCxmMTdiY2ViMWM2OGQxMmFhMDg1MGIzMmQ1M2VlYmEzZmY5Y2Y4MWM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Alfie Sharp\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,830 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,833 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 31 | [Hurt](https://open.spotify.com/track/49vpNwWrbyhNeqDAuF11Lr) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Hurt](https://open.spotify.com/album/2jIlVr1qJAdriNKl4CkwvI) | 2:57 |
 | 32 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 |
 | 33 | [Cleo](https://open.spotify.com/track/4GoyFC5pPMyuP8jAm4MZBD) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Cleo](https://open.spotify.com/album/4FAxvxyEV5QwhAkXK3doU0) | 3:36 |
-| 34 | [Colours](https://open.spotify.com/track/27rRxKadyDREugkcdpDCda) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Colours](https://open.spotify.com/album/14li8d438zTKkc3BhgP1cS) | 4:20 |
+| 34 | [Colours](https://open.spotify.com/track/2V9Kql3sFzGih0tvOULLdd) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Colours](https://open.spotify.com/album/17RoIHpP5F48m6gDzozYqL) | 4:20 |
 | 35 | [Where It Starts](https://open.spotify.com/track/6FGSEmkiHoUU3rFcxCCeNP) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ), [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Where It Starts](https://open.spotify.com/album/3ujwx9NYELfwhF7AFUp43A) | 3:17 |
 | 36 | [Boyfriend](https://open.spotify.com/track/7cUkly0DMyzZL3G04UBQ9P) | [Lei Hope](https://open.spotify.com/artist/6257V4WUEDg5kZd2IbBUJu) | [Boyfriend](https://open.spotify.com/album/2PvsrJQHurcZVts4a0AeA9) | 2:44 |
 | 37 | [Mystery](https://open.spotify.com/track/2FckClKmfXBTLfGQ2fr8lW) | [Chidimma](https://open.spotify.com/artist/0PRlMY3sWomVsdIrV38mSb) | [Mystery \(single\)](https://open.spotify.com/album/3U3VVA0dvrywEVwU4HSmjM) | 2:30 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 89 | [Maybe](https://open.spotify.com/track/66eI6rLF6effvC5JDNy3OL) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Maybe](https://open.spotify.com/album/1dbZb7zqwRo5DfwN4FMnM1) | 3:07 |
 | 90 | [Good Time](https://open.spotify.com/track/5QUqzbvlWAPp38wBNI0dHs) | [Lizzie Walmsley](https://open.spotify.com/artist/3zx7nkjZoKFEqqysNPNOI6) | [Good Time](https://open.spotify.com/album/27WedjZsuBLiXDCcI62o6t) | 3:22 |
 
-Snapshot ID: `MCw5YTYzOGM3NjlmNDRjYTBmZWNjYmQwZWQ3ZmNhNGU4ZmE3NTVmYzRj`
+Snapshot ID: `MCwwNDFlZTMxNTc3ZTFkZWZkOThkMDExOWZhZGUyOTg2NDY2ZTRhNmM4`

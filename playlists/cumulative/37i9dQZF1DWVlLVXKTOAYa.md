@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-819 songs - 1 day 18 hr 17 min
+820 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,7 +661,7 @@
 | [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 | 2022-12-08 | 2023-01-13 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-09 | 2023-05-18 |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-06-30 | 2024-02-16 |
-| [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-22 |  |
+| [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-22 | 2024-02-19 |
 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 | 2022-03-24 | 2022-04-18 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-12-16 |  |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-04 | 2022-10-07 |
@@ -741,6 +741,7 @@
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2022-01-06 | 2022-07-07 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2024-02-12 |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-08 | 2023-03-13 |
+| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-12-16 | 2022-10-01 |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-04-07 | 2022-04-12 |
 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 | 2022-02-17 | 2022-07-29 |

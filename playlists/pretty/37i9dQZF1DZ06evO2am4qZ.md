@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,122 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,125 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 39 | [Rich Girl](https://open.spotify.com/track/6OKo3DVbM2tjl3sS83sTfi) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 2:48 |
 | 40 | [STUPID \(feat\. Ashnikko & Yung Baby Tate\) \- Sped Up Nightcore](https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [STUPID \(feat\. Ashnikko & Yung Baby Tate\) \[Sped Up Nightcore\]](https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL) | 2:24 |
 | 41 | [I Don't Wanna Dance \(feat\. Baby Tate\)](https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Existential Crisis Boy \(Part 1\)](https://open.spotify.com/album/5TVQXYqzF5t6HQMHKZVWUQ) | 3:07 |
-| 42 | [Want Not A Need \(feat\. Baby Tate\)](https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Grown](https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV) | 2:07 |
-| 43 | [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 |
-| 44 | [Kim \(with Baby Tate\)](https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Kim \(with Baby Tate\)](https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk) | 2:38 |
-| 45 | [FTN! \(Ft\. Baby Tate\)](https://open.spotify.com/track/0dbIXdA90vhwVzV1uPfXwm) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Porches](https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy) | 3:17 |
-| 46 | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK) | 1:06 |
-| 47 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
+| 42 | [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 |
+| 43 | [Want Not A Need \(feat\. Baby Tate\)](https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Grown](https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV) | 2:07 |
+| 44 | [FTN! \(Ft\. Baby Tate\)](https://open.spotify.com/track/0dbIXdA90vhwVzV1uPfXwm) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Porches](https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy) | 3:17 |
+| 45 | [Kim \(with Baby Tate\)](https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Kim \(with Baby Tate\)](https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk) | 2:38 |
+| 46 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
+| 47 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
 | 48 | [Nice Guy](https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Muthaland](https://open.spotify.com/album/6TXwuaX600F8N3s6Rpq04m) | 2:14 |
-| 49 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
-| 50 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
+| 49 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
+| 50 | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/track/0MdSTZKOylxdSzSKVwOgUL) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/album/3V6buZJlxOu0smUddpIak2) | 2:40 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA0YmExZGQxMGMzZWJiNDY4ZmEwODRhMGZmNTAyMTM5MA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDAyYmQ0ODBjNmZjYjMxYTJmZTMzN2FiNjA2OTMxYTJlMw==`

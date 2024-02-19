@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-161 songs - 11 hr 11 min
+162 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Beautiful Stranger](https://open.spotify.com/track/3G5zOkX5R6i6QDuyY7xNRH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:07 | 2020-11-05 |  |
 | [Been My Last](https://open.spotify.com/track/4r7ZdD5korTwjnbe1mezoK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/6yxTsj35RwLCNGm60hlf7h) | 3:44 | 2020-11-05 | 2022-07-29 |
 | [Been My Last](https://open.spotify.com/track/55LQy7ZJejUaTTiSN8TK9D) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 3:44 | 2020-11-05 |  |
-| [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:03 | 2023-01-20 |  |
+| [Better Days](https://open.spotify.com/track/6JUbNCkbY43fsTVcEr3Yxf) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/0p5LJ9i0t0HBwNDvuud4Kj) | [The Alders & The Ashes](https://open.spotify.com/album/2tqfiWVMrP284aCYzqtJb1) | 4:04 | 2023-01-20 |  |
+| [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:03 | 2023-01-20 | 2024-02-19 |
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 | 2023-06-28 |
 | [Better This Way](https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Jigsaw Heart](https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI) | 4:10 | 2020-11-05 |  |
 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 | 2022-04-22 |  |

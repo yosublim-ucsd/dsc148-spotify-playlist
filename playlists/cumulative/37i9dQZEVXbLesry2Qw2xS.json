@@ -7364,7 +7364,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 225000,
       "name": "DO IT",
       "url": "https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6"
@@ -11974,7 +11974,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
@@ -12702,7 +12702,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -13582,7 +13582,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -13734,7 +13734,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 183750,
       "name": "ILUV",
       "url": "https://open.spotify.com/track/30ln1OwxEZdXDfEploBcsU"
@@ -16972,7 +16972,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -17910,7 +17910,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 236883,
       "name": "Lyfestyl\u00eb (with Lil Wayne)",
       "url": "https://open.spotify.com/track/15qRV1yUqFR6ViOwxoopod"
@@ -20444,7 +20444,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 165400,
       "name": "Mor\u00eb",
       "url": "https://open.spotify.com/track/7KdQOqCspznOjPDT0KAnuq"
@@ -20730,7 +20730,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -20846,7 +20846,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 183047,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/1E37w5VtNlRXTj43hNrwNb"
@@ -20900,7 +20900,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -21916,7 +21916,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 237073,
       "name": "Nothing Chang\u00eb",
       "url": "https://open.spotify.com/track/3rLjenWhYQNFGI1xrvTHWy"
@@ -22726,6 +22726,24 @@
       "duration_ms": 147857,
       "name": "Outsiders",
       "url": "https://open.spotify.com/track/1sewAJU719PZOS2tLWzkpR"
+    },
+    {
+      "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/51S1xhgATxTW1JUuRoPkeF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172257,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/0dZAwZ5pExbhIjjUxcpFtU"
     },
     {
       "album": {
@@ -24198,7 +24216,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna)",
       "url": "https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB"
@@ -24294,7 +24312,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 264569,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/3bDH7eIQ84QWdBeWwffUZD"
@@ -28618,7 +28636,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 180800,
       "name": "Stand On It (with Future)",
       "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"

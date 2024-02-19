@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12885,
+  "num_followers": 12906,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjFhNDY5NTg0OWFhOTMyNDAwNWFkZmY0NTdhYjNhYWY2N2YyOGZl",
+  "snapshot_id": "MCxjYmQxMjcxOGJmMWQxZTljYTAwYzg3ZTZkYjhjOGFlNTkxMDJlYjgy",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Scars In Heaven",
         "url": "https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 269840,
       "name": "Scars In Heaven",
       "url": "https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -691,18 +691,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+        "name": "Power In The Blood (We Give Thanks For The Blood)",
+        "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
       },
       "artists": [
         {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+          "name": "Tommy Walker",
+          "url": "https://open.spotify.com/artist/67Bvv2wUyCph0smNq72LrK"
+        },
+        {
+          "name": "Bethesda Music",
+          "url": "https://open.spotify.com/artist/0vBaWnUnT7SHDxPKutCETY"
         }
       ],
-      "duration_ms": 225773,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
+      "duration_ms": 350715,
+      "name": "Power In The Blood (We Give Thanks For The Blood)",
+      "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -723,22 +727,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Power In The Blood (We Give Thanks For The Blood)",
-        "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
       },
       "artists": [
         {
-          "name": "Tommy Walker",
-          "url": "https://open.spotify.com/artist/67Bvv2wUyCph0smNq72LrK"
-        },
-        {
-          "name": "Bethesda Music",
-          "url": "https://open.spotify.com/artist/0vBaWnUnT7SHDxPKutCETY"
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
         }
       ],
-      "duration_ms": 350715,
-      "name": "Power In The Blood (We Give Thanks For The Blood)",
-      "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
+      "duration_ms": 225773,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Have God to Thank for Everything",
-        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
-      },
-      "artists": [
-        {
-          "name": "The Inspirations",
-          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
-        }
-      ],
-      "duration_ms": 168058,
-      "name": "I Have God to Thank for Everything",
-      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "He Touched Me",
         "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 190000,
       "name": "Shut Him Up",
       "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "I Have God to Thank for Everything",
+        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
+      },
+      "artists": [
+        {
+          "name": "The Inspirations",
+          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
+        }
+      ],
+      "duration_ms": 168058,
+      "name": "I Have God to Thank for Everything",
+      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "McKamey Legacy",
         "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 157000,
       "name": "God is Still Good",
       "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Sings Greatest Country Gospel Hits",
-        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Pass Me Not Oh Gentle Saviour",
-      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 222064,
       "name": "I Bring You Jesus",
       "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Sings Greatest Country Gospel Hits",
+        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Pass Me Not Oh Gentle Saviour",
+      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Every Story Whispers His Name",
-        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        },
-        {
-          "name": "Anthem Edition",
-          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Every Story Whispers His Name",
-      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
+      "duration_ms": 191056,
+      "name": "The World Needs a Song",
+      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     }
   ],
   "unique_name": "Streets Of Gold",

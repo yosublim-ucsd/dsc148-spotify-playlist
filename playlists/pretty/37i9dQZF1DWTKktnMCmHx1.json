@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 95306,
+  "num_followers": 95302,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODY5NGZjYjk4MjhhZmE4N2UyODljNGEyNjJiMzBmOGJlNDZjZjAw",
+  "snapshot_id": "MCxhYmFiYjU2YThhMTE4OGM1NzZhYzMwZWQzYWMwZTc0ZjNiMWE0MGUy",
   "tracks": [
     {
       "added_at": "2024-02-14 17:28:12",
@@ -511,6 +511,30 @@
     {
       "added_at": "2024-02-14 17:28:12",
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "added_at": "2024-02-14 17:28:12",
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -583,6 +607,26 @@
     {
       "added_at": "2024-02-14 17:28:12",
       "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+    },
+    {
+      "added_at": "2024-02-14 17:28:12",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -607,26 +651,6 @@
     {
       "added_at": "2024-02-14 17:28:12",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2024-02-14 17:28:12",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -639,22 +663,6 @@
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "added_at": "2024-02-14 17:28:12",
-      "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 162453,
-      "name": "Sex Sounds",
-      "url": "https://open.spotify.com/track/5JtvedSVWW9McnoEAPJwQm"
     },
     {
       "added_at": "2024-02-14 17:28:12",
@@ -703,6 +711,22 @@
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "added_at": "2024-02-14 17:28:12",
+      "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 162453,
+      "name": "Sex Sounds",
+      "url": "https://open.spotify.com/track/5JtvedSVWW9McnoEAPJwQm"
     },
     {
       "added_at": "2024-02-14 17:28:12",
@@ -759,26 +783,6 @@
     {
       "added_at": "2024-02-14 17:28:12",
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Mood Swings (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm"
-    },
-    {
-      "added_at": "2024-02-14 17:28:12",
-      "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
       },
@@ -823,6 +827,26 @@
     {
       "added_at": "2024-02-14 17:28:12",
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Mood Swings (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm"
+    },
+    {
+      "added_at": "2024-02-14 17:28:12",
+      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
@@ -859,50 +883,6 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
-    },
-    {
-      "added_at": "2024-02-14 17:28:12",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 190534,
-      "name": "Hello (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
-    },
-    {
-      "added_at": "2024-02-14 17:28:12",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 264324,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
       "added_at": "2024-02-14 17:28:12",
@@ -999,6 +979,26 @@
       "duration_ms": 162546,
       "name": "Blueberry Faygo",
       "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
+    },
+    {
+      "added_at": "2024-02-14 17:28:12",
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 190534,
+      "name": "Hello (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
     },
     {
       "added_at": "2024-02-14 17:28:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-14 17:28:12",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
-    },
-    {
-      "added_at": "2024-02-14 17:28:12",
-      "album": {
         "name": "Enna Boost",
         "url": "https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 194266,
       "name": "Attentat",
       "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
+    },
+    {
+      "added_at": "2024-02-14 17:28:12",
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2024-02-14 17:28:12",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2024-02-14 17:28:12",
       "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+        "name": "Latest Trends",
+        "url": "https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
         }
       ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
+      "duration_ms": 158117,
+      "name": "Latest Trends",
+      "url": "https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR"
     },
     {
       "added_at": "2024-02-14 17:28:12",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2024-02-14 17:28:12",
       "album": {
-        "name": "Latest Trends",
-        "url": "https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu"
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
       },
       "artists": [
         {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Latest Trends",
-      "url": "https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR"
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
       "added_at": "2024-02-14 17:28:12",
@@ -1427,26 +1427,6 @@
       "duration_ms": 156497,
       "name": "Tyler Herro",
       "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
-    },
-    {
-      "added_at": "2024-02-14 17:28:12",
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 160051,
-      "name": "Alleluia (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
       "added_at": "2024-02-14 17:28:12",
@@ -1475,6 +1455,26 @@
       "duration_ms": 205106,
       "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
       "url": "https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp"
+    },
+    {
+      "added_at": "2024-02-14 17:28:12",
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 160051,
+      "name": "Alleluia (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
       "added_at": "2024-02-14 17:28:12",

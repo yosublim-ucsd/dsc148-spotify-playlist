@@ -4,7 +4,7 @@
 
 > 2023 yazına damga vuran şarkılar\. Kapak: Semicenk x Doğu Swag
 
-51 songs - 2 hr 30 min
+52 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2023-09-04 |  |
 | [Bitter](https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bitter](https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB) | 2:12 | 2023-09-04 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-09-04 |  |
-| [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 | 2023-09-04 |  |
+| [Caney](https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/46DEhRYZNFp9nBmC6j9Dru) | 2:45 | 2023-09-04 |  |
+| [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 | 2023-09-04 | 2024-02-19 |
 | [Canın Sağ Olsun](https://open.spotify.com/track/0mYqW8vhiw9rgwSwB21JQz) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Rast](https://open.spotify.com/artist/0Dl0DuG2pk6VWJ3XLKcvt3) | [Canın Sağ Olsun](https://open.spotify.com/album/6fpX97EwxmnNGNYeBneybh) | 2:59 | 2023-09-04 |  |
 | [Celladına Aşık](https://open.spotify.com/track/2PaQb8AtQqIxawPA2O7Vaw) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Celladına Aşık](https://open.spotify.com/album/4wpiazClszgAftff9hXMcG) | 3:21 | 2023-09-04 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-09-04 |  |

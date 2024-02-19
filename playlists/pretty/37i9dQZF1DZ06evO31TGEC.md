@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,047 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,061 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 50 | [Inevitable](https://open.spotify.com/track/3IUNzzk29r37Xa78FNwQng) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:38 |
 | 51 | [La Mujer Perfecta](https://open.spotify.com/track/5hy2wuuFVF0f14MzZBjLfx) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corazon de Nino](https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh) | 2:28 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBlMGZiZjcxZjljNmE0Y2E4Y2ZlMGQ4ODQzMThiYWFiYQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA3MTlhNGNiM2JkM2NkMTc3YTViZDBiNGNjZWM5YzdhNg==`

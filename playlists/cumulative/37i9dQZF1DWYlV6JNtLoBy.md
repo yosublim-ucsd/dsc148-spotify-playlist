@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-144 songs - 11 hr 25 min
+145 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Everything \(Amen\)](https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b) | 3:57 | 2023-11-17 | 2024-01-10 |
 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 | 2024-01-19 |  |
 | [Fly Away](https://open.spotify.com/track/6OTBSObTPBgyVHHLs97Stx) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/3QhC4P5UhOObGxi77cqEAx) | 2:35 | 2024-01-19 | 2024-02-14 |
+| [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 | 2024-01-19 |  |
 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 | 2024-01-19 |  |
 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 | 2024-01-19 |  |
 | [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 | 2023-04-21 | 2024-01-13 |
@@ -107,7 +108,7 @@
 | [Running Home](https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:42 | 2024-01-19 |  |
 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 | 2024-01-19 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2022-12-19 | 2024-01-25 |
-| [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2024-01-19 |  |
+| [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2024-01-19 | 2024-02-19 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-11-03 | 2024-01-19 |
 | [Siteketei](https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siteketei](https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC) | 3:30 | 2022-12-19 | 2023-07-10 |
 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 | 2024-01-19 |  |

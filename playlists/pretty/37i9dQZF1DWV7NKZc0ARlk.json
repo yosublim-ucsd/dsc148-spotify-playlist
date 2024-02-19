@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 156889,
+  "num_followers": 157072,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTgwY2ZmYWQ1N2UzZTQ5ODNmZjU0YzkwMzhkMzY5ZjJjNGM0OWQx",
+  "snapshot_id": "MCxhMmNhMGZjMmJjZDNhNWZlMmY1Mjg3Y2RmNGU1MjE3ZDU5ZTNkMTY2",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "OV7 Primera Fila",
-        "url": "https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa"
-      },
-      "artists": [
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "Te Quiero Tanto, Tanto - En Vivo",
-      "url": "https://open.spotify.com/track/5rxSLxLdN4D0YFQd2QQlle"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
         "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 271000,
       "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
       "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "OV7 Primera Fila",
+        "url": "https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "Te Quiero Tanto, Tanto - En Vivo",
+      "url": "https://open.spotify.com/track/5rxSLxLdN4D0YFQd2QQlle"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "OV7 Primera Fila",
-        "url": "https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa"
-      },
-      "artists": [
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Confieso - En Vivo",
-      "url": "https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 282133,
       "name": "Yo Te Pido Amor (Primera Fila) (feat. Pandora) - En Vivo",
       "url": "https://open.spotify.com/track/0QIKg7unxus0JeC8PhzCXQ"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "OV7 Primera Fila",
+        "url": "https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Confieso - En Vivo",
+      "url": "https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4"
     },
     {
       "added_at": "2023-08-11 13:33:49",

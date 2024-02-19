@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 579,
+  "2024-02-19": 579,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs\">Billy Strayhorn</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Billy Strayhorn",
@@ -1505,6 +1505,24 @@
       "duration_ms": 186488,
       "name": "Lotus Blossom",
       "url": "https://open.spotify.com/track/1n6WfVhvWfj6zhehLJh82q"
+    },
+    {
+      "album": {
+        "name": "Passion Flower",
+        "url": "https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8"
+      },
+      "artists": [
+        {
+          "name": "John Dimartino",
+          "url": "https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153787,
+      "name": "Lotus Blossom",
+      "url": "https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,688 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,699 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 10 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
 | 11 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 |
 | 12 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
-| 13 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
-| 14 | [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:40 |
+| 13 | [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:40 |
+| 14 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
 | 15 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
 | 16 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
 | 17 | [My Sweet Lord \(2014 Remaster\)](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 |
 | 18 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 | 19 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 20 | [Hopelessly Devoted To You \- From “Grease”](https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:05 |
-| 21 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
-| 22 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
+| 21 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
+| 22 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 23 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
 | 24 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 25 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 74 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
 | 75 | [Te Quiero Te Quiero](https://open.spotify.com/track/5ltBmvHslf7tplG5QfLmTt) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Super 20](https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B) | 2:51 |
 
-Snapshot ID: `MCxlOTRiYWJkZmUzMDdlODRiNjRmZmVlZTBmYTMxNGMxMTRmZDViMzAz`
+Snapshot ID: `MCxhMTFiZDU2NjMzZDhhZDhkMjhhNWIwZDc2MTFjMjI1YjI0ZTk4NThj`

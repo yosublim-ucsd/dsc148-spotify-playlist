@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Monaleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,053 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,049 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 41 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
 | 42 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
 | 43 | [FINE AS CAN BE \(feat\. Latto\)](https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:32 |
-| 44 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
-| 45 | [50/50](https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [50/50](https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F) | 1:40 |
+| 44 | [50/50](https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [50/50](https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F) | 1:40 |
+| 45 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
 | 46 | [N.A.L.B\. \(feat\. chriseanrock\)](https://open.spotify.com/track/73Sv0RLGr1MsFEykKcIvVR) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [chriseanrock](https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa) | [N.A.L.B\. \(feat\. chriseanrock\)](https://open.spotify.com/album/5G4HL8phOrQCQjEvnYYqsI) | 2:30 |
 | 47 | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1) | 2:26 |
 | 48 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
 | 49 | [Princess Diana \(with Nicki Minaj\) \[Extendo Clip\]](https://open.spotify.com/track/62k3kkUQmWan59sH3Lzt1t) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\) \[Versions\]](https://open.spotify.com/album/00eK46cfChKfGZcYZcaWSa) | 3:18 |
 | 50 | [Leave Her Alone](https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Leave Her Alone](https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL) | 2:27 |
 
-Snapshot ID: `MCwzNzJjY2MzYWU5OGVjOWQ2MDA2ODhmN2RjY2ExMjkxZGNmMmFhZTYx`
+Snapshot ID: `MCxlOGFkY2ExNGQyOTYxOTBkYWY4OTE0MmZlMWI5NTlhZWJkMTk4ZmE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,042 likes - 169 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,111 likes - 169 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 168 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 169 | [Missy](https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm), [tormentatropica](https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc) | [Missy](https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj) | 2:02 |
 
-Snapshot ID: `MCw5ZGU2NDM2MGY3ZTgwODY3NjhmYWRhMGY0Yjk1ZmI5N2RlNTdhNmI5`
+Snapshot ID: `MCxhOWRkZTg0ZGMxZTRjOGM2MDE4YjU2ODNhOTFjOWUxMDQ5NzBjNGM2`

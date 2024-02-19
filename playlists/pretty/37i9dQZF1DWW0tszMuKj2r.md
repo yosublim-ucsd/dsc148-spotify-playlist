@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 
 > ¡Cañonazos salseros para persignar la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,877 likes - 125 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,938 likes - 125 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 48 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
 | 49 | [Gracias Amor](https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N) | [Matecana Orquesta](https://open.spotify.com/artist/0ekJN54dVshW0hk3yWRiyl) | [Que Bueno](https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St) | 4:49 |
 | 50 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 |
-| 51 | [Me Va Extrañar](https://open.spotify.com/track/3CTeeBRXo91R6xt58A8kiu) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Me Va Extrañar](https://open.spotify.com/album/6uHbrFQwu94gBBx5XvarRL) | 4:38 |
+| 51 | [Sin Escencia](https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Sin Escencia](https://open.spotify.com/album/3G4proiHOSagEvS94X2txr) | 3:15 |
 | 52 | [Porque Te Amo](https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Exitos Y Mas Exitos](https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO) | 5:06 |
 | 53 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 |
 | 54 | [Hasta Aquí Te Fui Fiel](https://open.spotify.com/track/7zridhiD9txjjYAcDoC0qY) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [30 Exitos Insuperables](https://open.spotify.com/album/7DXKWP4a12stMxz3idZZl2) | 4:24 |
 | 55 | [He Tratado](https://open.spotify.com/track/3Aw66bt9BL2sjqxhFRpyDy) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle \(3 CD Box Set\)](https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL) | 5:03 |
-| 56 | [Sin Escencia](https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Sin Escencia](https://open.spotify.com/album/3G4proiHOSagEvS94X2txr) | 3:15 |
+| 56 | [Me Va Extrañar](https://open.spotify.com/track/3CTeeBRXo91R6xt58A8kiu) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Me Va Extrañar](https://open.spotify.com/album/6uHbrFQwu94gBBx5XvarRL) | 4:38 |
 | 57 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 58 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
 | 59 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 124 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 |
 | 125 | [Cuenta Conmigo](https://open.spotify.com/track/7o47d8KqRqxbL7NloJvjwd) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:50 |
 
-Snapshot ID: `MCxjY2M4YjJlMWE1ZDc1MmM1MWRjNDBiMGU4NDFkMWNmYzE5ZDc1MTQy`
+Snapshot ID: `MCxjYzVmZWY3ZTdlMDAzNWNlMzk2MmQ1MWQzNzIxOGY0NWViN2Q4NWVh`

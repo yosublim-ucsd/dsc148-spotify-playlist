@@ -4,7 +4,7 @@
 
 > ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Eden Muñoz, Los Tucanes de Tijuana y Fuerza Regida en portada.
 
-195 songs - 10 hr 11 min
+196 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2023-08-22 |  |
 | [Me Dicen Perseverante](https://open.spotify.com/track/6BQ3Qn3IIrsP6d8eiktR7h) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Directo Al Corazon](https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN) | 3:07 | 2023-02-03 |  |
 | [Me Equivoqué](https://open.spotify.com/track/4CQBDMKxrXyBHn0rK2Y1IN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Equivoqué](https://open.spotify.com/album/7iFGsdLVmXjCiPeVdDTYX7) | 3:34 | 2023-02-03 | 2023-08-23 |
-| [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2023-08-22 |  |
+| [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 | 2024-02-14 |  |
+| [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2023-08-22 | 2024-02-19 |
 | [Mi Clavo](https://open.spotify.com/track/2jibTmnltzTASYyhKashO7) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/0izzBbwkHYapDNLCvz357B) | 2:16 | 2023-08-22 |  |
 | [Mi Cuento Con Banda](https://open.spotify.com/track/6ywqRG918nbqpbtZJIWHgB) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Mi Cuento](https://open.spotify.com/album/31wxeHjrSb5XaXDiQjFBYr) | 3:35 | 2023-02-03 | 2023-08-23 |
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2023-02-03 |  |

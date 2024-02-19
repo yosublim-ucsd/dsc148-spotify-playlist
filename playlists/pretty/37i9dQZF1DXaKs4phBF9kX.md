@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,962 likes - 70 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,970 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 9 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
 | 10 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 |
 | 11 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
-| 12 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
-| 13 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 12 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 13 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 14 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 15 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 16 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 69 | [White Wedding \(Pts\. 1 & 2\) \- Shotgun Mix / Remastered 2001](https://open.spotify.com/track/4OYRJv1tcOEPe38Fwc7y1m) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 8:25 |
 | 70 | [Don't Let Him Go](https://open.spotify.com/track/6UxGF7LGJ5qE0LJViSTsA2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:45 |
 
-Snapshot ID: `MCw4OWE0MTRjZDFiZDBkNzA5ODVlYzUyYTcyMTE2MjNiNjNlYjJiYjM5`
+Snapshot ID: `MCwyYmQ3NDI4M2EwNWIwYjM4M2UwNWM5OWRiMWFmMDBmYTkyMjVmNzdi`

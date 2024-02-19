@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,094 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,102 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [Rompe Mi Mente](https://open.spotify.com/track/3bPletoHVcZWG1wiudSU9H) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/1PFTujkH7IQLyGtX9ZeFii) | 3:29 |
 | 50 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 
-Snapshot ID: `MCxiOGQxZjYzN2I0Nzk0NWY0ZWZiYTBmOWI0MDM0MTU0Nzk3MTg1MDI0`
+Snapshot ID: `MCxkZDhlMzEzNjQ1ZjRmODE4NjE2YjE5MzhkZDZjN2U0ZGQyYzViODY1`

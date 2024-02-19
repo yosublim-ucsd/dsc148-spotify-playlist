@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 
 > Long live the king\. Listen to music from and inspired by Agent Elvis, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,900 likes - 78 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,978 likes - 78 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 | 48 | [Hard Headed Woman](https://open.spotify.com/track/32CVurlBxtEYQlDm3yzCLl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [King Creole](https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl) | 1:53 |
 | 49 | [\(Marie's the Name Of\) His Latest Flame](https://open.spotify.com/track/1V3fmmv2zif98hsqvTsRyk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records, Vol\. 3](https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD) | 2:07 |
 | 50 | [Promised Land](https://open.spotify.com/track/0SSKHTfyUmL8JUQtfpKcfB) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Promised Land](https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv) | 2:53 |
-| 51 | [Memories \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/03wxVlXdqCzRImWLTSF21U) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou) | 3:14 |
+| 51 | [Memories](https://open.spotify.com/track/03wxVlXdqCzRImWLTSF21U) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou) | 3:14 |
 | 52 | [Trying to Get to You](https://open.spotify.com/track/4zQLZPcTl8hJC5pJtooT3h) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 2:30 |
 | 53 | [Surrender](https://open.spotify.com/track/1aECQTfv5SO42lU4fvrdJJ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 1:52 |
 | 54 | [Mystery Train](https://open.spotify.com/track/3cYLYjqlwcvwWS5DowR23m) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Boy From Tupelo: The Complete 1953\-1955 Recordings](https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI) | 2:30 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 | 77 | [Memphis, Tennessee](https://open.spotify.com/track/4cLQusV6v3i6YLpl4QOJqN) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee), [Craig Robinson](https://open.spotify.com/artist/5KYG3pjlHT4zdP42vJsk6s) | [Agent Elvis \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF) | 2:36 |
 | 78 | [Elvis In Hawaii](https://open.spotify.com/track/6UXn8SZa9GqhNVjiqkFzmt) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Agent Elvis \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF) | 0:57 |
 
-Snapshot ID: `MCxlMzEzMWFmYzAxNjhhNDEwMjZiZWIwZmQxNDIxNDAzM2I1NTkzNTgw`
+Snapshot ID: `MCxjOWE5MmQ5MjAxM2JiZDE0MDE0NGE2MWJkYjhlNjMxNTQyOTI3ZmZk`

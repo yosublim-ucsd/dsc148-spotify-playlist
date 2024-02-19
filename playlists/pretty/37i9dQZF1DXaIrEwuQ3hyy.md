@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Songs, die von innen wärmen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,556 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,475 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 30 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 |
 | 31 | [Slipping Away](https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:55 |
 | 32 | [1000 Mal](https://open.spotify.com/track/3cO96muC5c7P2mJURgYFBS) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [1000 Mal](https://open.spotify.com/album/6TEMyjBHnYZlUseeszRv1g) | 2:32 |
-| 33 | [rosa rugosa](https://open.spotify.com/track/6reIioBTYw7UIskhcQ2Biw) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/25FDIN1CcSE8ayxKqQbicc) | 2:16 |
-| 34 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 |
+| 33 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 |
+| 34 | [rosa rugosa](https://open.spotify.com/track/6reIioBTYw7UIskhcQ2Biw) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/25FDIN1CcSE8ayxKqQbicc) | 2:16 |
 | 35 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 |
 | 36 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 37 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 69 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
 | 70 | [ARE YOU WITH ME](https://open.spotify.com/track/6JaHUUwEULmCzw99jyBc4G) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [ARE YOU WITH ME](https://open.spotify.com/album/3kjidQ6jlBMkrpNucShbY2) | 2:47 |
 | 71 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
-| 72 | [Piano in the Sky](https://open.spotify.com/track/2fOW155ruGcjxBdKoYFys4) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:10 |
-| 73 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 |
+| 72 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 |
+| 73 | [Piano in the Sky](https://open.spotify.com/track/2fOW155ruGcjxBdKoYFys4) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:10 |
 | 74 | [Two Thirds](https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1) | [Childe](https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq) | [Two Thirds](https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL) | 3:26 |
-| 75 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
-| 76 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 |
+| 75 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 |
+| 76 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
 | 77 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
-| 78 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 |
-| 79 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
-| 80 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
+| 78 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
+| 79 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 |
+| 80 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
 
-Snapshot ID: `MCw4N2VhZTg2YWY3YjIyN2Q5YjFkOTZkYzYwZWMxMGY2MjE4ZTM4YzFl`
+Snapshot ID: `MCw2OTc4NGU3ZGE5MGI4ZTczYjIwM2RlNjM3NjdkMjEzZDM4NDYxYzk0`

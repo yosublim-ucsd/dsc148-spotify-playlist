@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,619 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,616 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 69 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 5:26 |
 | 70 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
 | 71 | [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 |
-| 72 | [Old Soul \(acoustic\)](https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [Loving Everywhere I Go](https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c) | 4:42 |
-| 73 | [Detour](https://open.spotify.com/track/6qn7IWtDaT6bLeecinhOsO) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/0OPDYF1cEKOYbuY9w9RwXc) | 3:33 |
+| 72 | [Detour](https://open.spotify.com/track/6qn7IWtDaT6bLeecinhOsO) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/0OPDYF1cEKOYbuY9w9RwXc) | 3:33 |
+| 73 | [Old Soul \(acoustic\)](https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [Loving Everywhere I Go](https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c) | 4:42 |
 | 74 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 |
 | 75 | [Hold Me](https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG) | 4:04 |
 
-Snapshot ID: `MCxmNWM1MDNlYTZhYzM2ZjZhMzc4NDRlY2ZjNTg1ZDhlNTM1YzViMTAz`
+Snapshot ID: `MCwzZmZlZmIyODc5OGE1NDkzMWM5M2I3OWY0YTJlOWI1NTk5YTM3YzZj`

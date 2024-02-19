@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"

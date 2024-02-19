@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 11129,
+  "2024-02-19": 11129,
   "date_first_scraped": "2024-01-03",
   "description": "Houseium&#x27;s BANGIN HOUSE is full of high energy house music! \ud83d\udcf2 TikTok &amp; IG: @houseium [dm for inquiries]",
   "name": "HOUSEIUM // BANGIN HOUSE",
@@ -882,6 +882,24 @@
     },
     {
       "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6FHFmz9IWO8hQRR8evWWVb"
+      },
+      "artists": [
+        {
+          "name": "Toni Costanzi",
+          "url": "https://open.spotify.com/artist/4aBVngE7ykpEkvJaHJbywT"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/7FGj2A4yT1wUIj3xf9EUhA"
+    },
+    {
+      "album": {
         "name": "Everybody",
         "url": "https://open.spotify.com/album/7zxxsOokexqT5IedgbIFPg"
       },
@@ -1660,6 +1678,32 @@
     },
     {
       "album": {
+        "name": "Let's Go Dancing (Matroda Remix)",
+        "url": "https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        },
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195473,
+      "name": "Let's Go Dancing - Matroda Remix",
+      "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
+    },
+    {
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
       },
@@ -1679,6 +1723,24 @@
       "duration_ms": 165000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
     },
     {
       "album": {
@@ -2181,6 +2243,28 @@
       "duration_ms": 171562,
       "name": "Point Blank",
       "url": "https://open.spotify.com/track/4hZKasKIjY9mO9eTgn9fLJ"
+    },
+    {
+      "album": {
+        "name": "Powder In The Nose",
+        "url": "https://open.spotify.com/album/4a2QlwPpWppKAX07PuNX0F"
+      },
+      "artists": [
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Arthur Baker",
+          "url": "https://open.spotify.com/artist/5YzGCkGA6XEGKs2C9KRVKA"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Powder In The Nose",
+      "url": "https://open.spotify.com/track/0RLaA1MuzM6d73TOvxD5vz"
     },
     {
       "album": {
@@ -3012,6 +3096,28 @@
     },
     {
       "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/5ug5gS7iYFoEMTvdcu3tAr"
+      },
+      "artists": [
+        {
+          "name": "Carly Wilford",
+          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
+        },
+        {
+          "name": "SGT. Pokes",
+          "url": "https://open.spotify.com/artist/2mdpTpHF9cGaSSrtoLwIZr"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/4BktrFFvfODYFvNWUvJhBC"
+    },
+    {
+      "album": {
         "name": "The Funktion",
         "url": "https://open.spotify.com/album/7r4rUHrAmjArs1NUKOJaOS"
       },
@@ -3089,6 +3195,24 @@
       "duration_ms": 173296,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
+    },
+    {
+      "album": {
+        "name": "Tiki",
+        "url": "https://open.spotify.com/album/7G2LP3rpO2vngMfwx105VK"
+      },
+      "artists": [
+        {
+          "name": "Krexxton",
+          "url": "https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Tiki",
+      "url": "https://open.spotify.com/track/2oTajs7LpMaVkhjtJUpGwR"
     },
     {
       "album": {

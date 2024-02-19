@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,842 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,947 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 |
 | 2 | [Sumérgeme](https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 5:27 |
-| 3 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 |
-| 4 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
+| 3 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
+| 4 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 |
 | 5 | [Ven, Te Necesito](https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 5:43 |
 | 6 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 |
 | 7 | [Creere](https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 5:02 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 53 | [No Hay Pero Va a Sobrar](https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:30 |
 | 54 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 |
 | 55 | [Construiré Mi Vida](https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Construiré Mi Vida](https://open.spotify.com/album/3GQO2bUHJC7Gv29h4GNQm8) | 5:43 |
-| 56 | [Fierce \- Studio Version](https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Fierce \(Studio Version\)](https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW) | 3:42 |
-| 57 | [El Cielo Gobierna](https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy) | 4:25 |
+| 56 | [El Cielo Gobierna](https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy) | 4:25 |
+| 57 | [Fierce \- Studio Version](https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Fierce \(Studio Version\)](https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW) | 3:42 |
 | 58 | [No Hay Distancia](https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Cerca Estás](https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz) | 3:09 |
 | 59 | [Se Nota En Tus Ojos](https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 4:16 |
 | 60 | [Grito de Jubilo](https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN) | [Tranz4mando el Universo \(Los Legendarios Presenta Triple Seven\)](https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Fullness](https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Speak Revival](https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V) | 6:07 |
 | 75 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 |
 
-Snapshot ID: `MCw2MmJlMDk4YzQ3ZDJjNDgxMzdlZTM3ZjdlYTA1NTRkM2Y0OTZlM2Ni`
+Snapshot ID: `MCwxNzdjMzVjMzFjMDgyMjVjNTZhOGZmYjU3MjIxODMzNmQ2MTgxMWMw`

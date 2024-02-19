@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 
 > This is Little Jesus\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,136 likes - 44 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,146 likes - 44 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 10 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
 | 11 | [Un Plan Espectacular](https://open.spotify.com/track/3m604iEEnJrXDRBPXhzTL7) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:25 |
 | 12 | [Químicos](https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:26 |
-| 13 | [Maldita Distancia](https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Maldita Distancia](https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj) | 2:15 |
-| 14 | [Norte \- Bonus](https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:03 |
+| 13 | [Norte \- Bonus](https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:03 |
+| 14 | [Maldita Distancia](https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Maldita Distancia](https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj) | 2:15 |
 | 15 | [Cine Permanencia Voluntaria](https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 1:34 |
 | 16 | [Mi Droga Favorita](https://open.spotify.com/track/0xVdc0ZjwBJRP3AY4ytaBP) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:55 |
 | 17 | [Los Esclavos](https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:10 |
-| 18 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
-| 19 | [Copa del Mundo](https://open.spotify.com/track/63pqKVbcr55rwQ8QZ0NyQJ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Copa del Mundo](https://open.spotify.com/album/1SU5CtGk3nZPssEAXHRDXr) | 4:25 |
+| 18 | [Copa del Mundo](https://open.spotify.com/track/63pqKVbcr55rwQ8QZ0NyQJ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Copa del Mundo](https://open.spotify.com/album/1SU5CtGk3nZPssEAXHRDXr) | 4:25 |
+| 19 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
 | 20 | [Los Años Maravillosos](https://open.spotify.com/track/1996GjeJ5X2eekrXatFiYF) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:23 |
 | 21 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
 | 22 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 43 | [Jóvenes \- Bonus](https://open.spotify.com/track/1Del9GKHyafG0uliX83jY2) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 4:21 |
 | 44 | [Tiempo \- Bonus](https://open.spotify.com/track/5gJHkrpUYFrdu59P7XCv9e) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:30 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBmMmJjM2FmYjY1NzVkYTk3ZjUyOWMwZWVkOTRjNjYyYg==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA0MzNjZTZlN2RmZTA4NmY3OTBhODk4NDE5YWNlMGJkNQ==`

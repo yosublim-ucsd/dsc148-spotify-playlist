@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,388 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,383 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 44 | [poison \(Feat\. E\-Sens Of Supreme Team\)](https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Primary And The Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:55 |
 | 45 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
 | 46 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
-| 47 | [Til I Die](https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:53 |
-| 48 | [iii \(Feat\. Basick, Kid Milli & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:55 |
-| 49 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
-| 50 | [Yoo Jae Suk](https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [Star](https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ) | 3:35 |
+| 47 | [iii \(Feat\. Basick, Kid Milli & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:55 |
+| 48 | [Til I Die](https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:53 |
+| 49 | [My dream](https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Never give up, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp) | 3:26 |
+| 50 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 
-Snapshot ID: `MCxjMjg0NzU2NTQ0YWQ5MGE0ZjI1NTA3ZDdiYTczZTZlODM1NWFmMDE5`
+Snapshot ID: `MCwwOWFlZWIzZmZiNTk1YzNjMjI3ODk0ZTA2MzU3ZjA5YWVlOGEzMWRm`

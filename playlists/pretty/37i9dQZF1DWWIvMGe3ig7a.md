@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIvMGe3ig7a.md) - [plain]
 
 > A sad playlist for when the buildup to summer ends up being a bummer, ft d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,099 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,090 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIvMGe3ig7a.md) - [plain]
 | 35 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 | 36 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 37 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 38 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
-| 39 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
+| 38 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
+| 39 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 40 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 41 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 42 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIvMGe3ig7a.md) - [plain]
 | 49 | [You’re Gonna Go Far](https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:46 |
 | 50 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 |
 
-Snapshot ID: `MCxkOTlhYWY2YTljOTlkZDQxZjBkNjdhMjhiNzg4YjFlMWNjYWEyOTI2`
+Snapshot ID: `MCxlNTA4ZWY4Y2YzOTkxMDZhM2RhYWY3NWM1NDM5ODBkN2QwMWJjZTEw`

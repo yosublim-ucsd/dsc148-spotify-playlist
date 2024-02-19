@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Seo Ja Yeong\(서자영\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,633 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,658 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 58 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 |
 | 59 | [Will Last Forever](https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [WINTER](https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt) | 4:24 |
 | 60 | [BMK \- v o K a l \(KR\)](https://open.spotify.com/track/4am0xob1HUamJ3T3TcIAe3) | [BMK](https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8) | [BMK voKal Audio Liner](https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv) | 0:03 |
-| 61 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 |
-| 62 | [Just Look for you](https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I) | 3:41 |
-| 63 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 |
+| 61 | [Just Look for you](https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I) | 3:41 |
+| 62 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 |
+| 63 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 |
 | 64 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 |
-| 65 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 |
+| 65 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 |
 | 66 | [Maybe](https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Her Private Life, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g) | 3:48 |
 | 67 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
 | 68 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 70 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 71 | [Breath](https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Alchemy of Souls, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa) | 4:27 |
 | 72 | [Dear](https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.5 \[Dear\]](https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l) | 3:41 |
-| 73 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 |
-| 74 | [Where Are We Now](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:43 |
+| 73 | [Where Are We Now](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:43 |
+| 74 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 |
 | 75 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 76 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
 | 77 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 80 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 |
 | 81 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 | 82 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
-| 83 | [Myo \(Cat\)](https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Myo \(Cat\)](https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT) | 3:37 |
-| 84 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 |
+| 83 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 |
+| 84 | [Myo \(Cat\)](https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Myo \(Cat\)](https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT) | 3:37 |
 | 85 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
 | 86 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
 | 87 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 |
 | 100 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 |
 
-Snapshot ID: `MCxlY2M3MTA3OWYyMzllYTE4ZWEwY2NlODczOTA3MWUzNzlhODNmYTZl`
+Snapshot ID: `MCxmMGMxOGYyMDMxN2RjMTgwZjA3YzkwODk3YzY1YmVlNzgzY2I5MjNi`

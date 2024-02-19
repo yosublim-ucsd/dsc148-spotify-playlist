@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Gettomasa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,149 likes - 63 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,172 likes - 63 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 48 | [100 kg kukkia](https://open.spotify.com/track/4T5U89USlowyG8zLMsaKgf) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [100 kg kukkia](https://open.spotify.com/album/2I2m3AZ6EkUUIuoK75zwkk) | 2:47 |
 | 49 | [Haikailla](https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Haikailla](https://open.spotify.com/album/6Cf1dmW8TpCtRTF7xS4tIT) | 3:08 |
 | 50 | [Meiän Vuos](https://open.spotify.com/track/0X84P3sGzZVnTdKzOWD2E9) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Meiän Vuos](https://open.spotify.com/album/1BbHH0S4u4NzBHkOVAHjMm) | 2:19 |
-| 51 | [Nyt alko bileet](https://open.spotify.com/track/0qBLHx7CaaaUMrCKp1AFkP) | [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu), [Pehmeegoo](https://open.spotify.com/artist/2wXZNccMHlOPd3AnW6JZYt) | [Nyt alko bileet / Gameshow](https://open.spotify.com/album/79rCfqRofPMJlGq0Hss4eD) | 2:54 |
+| 51 | [Nyt alko bileet](https://open.spotify.com/track/0qBLHx7CaaaUMrCKp1AFkP) | [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu), [Pehmee Goo](https://open.spotify.com/artist/2MTW458Op0hSNePNW9XhEz) | [Nyt alko bileet / Gameshow](https://open.spotify.com/album/79rCfqRofPMJlGq0Hss4eD) | 2:54 |
 | 52 | [Maalainen](https://open.spotify.com/track/1vVDwcw3Qo9lL3RpIBrwqS) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Maalainen](https://open.spotify.com/album/7GemBwf8DwYWne3AbV6RjJ) | 2:58 |
 | 53 | [Bye Bye \(feat\. SHRTY\)](https://open.spotify.com/track/3iOp9LuiYzx5E6Yyu0hNcf) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Disco Maghreb](https://open.spotify.com/album/4AoEmOOUJN0safxtjYo8eN) | 2:25 |
 | 54 | [Vox Populi](https://open.spotify.com/track/4b8Hn8DVvORc3VT99L4gbn) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i) | [Vox Populi](https://open.spotify.com/album/6r4Q96ErUy7kkY9bWJxDd4) | 2:52 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 62 | [TOXIC B \(pidämustkii\)](https://open.spotify.com/track/32cwVMP4pZtxtf7weKt8E3) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [CAKE](https://open.spotify.com/album/0jt1rOi0cB3fNZOJjhBv5h) | 2:58 |
 | 63 | [Vahinko](https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:34 |
 
-Snapshot ID: `MCw4MzM2NjlhOWI2MzgzODg4NzllMDZiZWRkNmE5YzcwYWM1M2U5ZWM1`
+Snapshot ID: `MCwxZWE3ZDZlM2I0Njc3N2U5OWViNjljM2JhNjY4ZTczZDBkMGY0ZjBk`

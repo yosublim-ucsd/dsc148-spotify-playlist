@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 682907,
+  "num_followers": 682991,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmNlMTE2ODY4YTcxODZkZTA5OGQ2ZTBiZjU5ZDEyNTM0NDMwZWMy",
+  "snapshot_id": "MCw5MTRiNTJjZDQyNmJlOGM3N2ZjZjhkZGUzYzExOGI1YWRhZTE2YzJk",
   "tracks": [
     {
       "added_at": "2024-01-09 15:49:37",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 173174,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 215843,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 185755,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 215843,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
     },
     {
       "added_at": "2024-01-09 15:49:37",

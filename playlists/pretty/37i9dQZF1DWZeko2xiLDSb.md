@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack those long, dark days with warm indie favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,383 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,384 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 38 | [Nude](https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:15 |
 | 39 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
 | 40 | [Streetcar](https://open.spotify.com/track/7Cu2COdH93MnuireuKNiS3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Pilgrim's Paradise](https://open.spotify.com/album/4uP43hIpmEEDuW7aOfiU2C) | 4:06 |
-| 41 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
-| 42 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
+| 41 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
+| 42 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
 | 43 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 44 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
 | 45 | [Snowshoes](https://open.spotify.com/track/69BWKQ0qeTnPHdk4lxuLcD) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 3:24 |
@@ -86,15 +86,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 76 | [Thérèse](https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:27 |
 | 77 | [Everything That Rises](https://open.spotify.com/track/7fai4Q1FhzPPMLnooY7RM8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:59 |
 | 78 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 |
-| 79 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 |
-| 80 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
+| 79 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
+| 80 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 |
 | 81 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 |
 | 82 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
 | 83 | [Save Us](https://open.spotify.com/track/45KIvymezcVSStboODBQWX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 |
 | 84 | [Elegy](https://open.spotify.com/track/41wel0JyLABRedko4XZLG1) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 5:24 |
 | 85 | [dragon eyes](https://open.spotify.com/track/2u0vK4Gf1IaEdcI7MtRWP5) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:26 |
-| 86 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
-| 87 | [Changing Winds](https://open.spotify.com/track/436awEpc0xnabbR0z4i0Qw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [INSCAPE](https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO) | 3:13 |
+| 86 | [Changing Winds](https://open.spotify.com/track/436awEpc0xnabbR0z4i0Qw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [INSCAPE](https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO) | 3:13 |
+| 87 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
 | 88 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 89 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/0dagxop90zpA32LDwjAGVk) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:06 |
 | 90 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 96 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 |
 | 97 | [Lover's Spit](https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 6:22 |
 | 98 | [homebody](https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 3:11 |
-| 99 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
-| 100 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
+| 99 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
+| 100 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
 
-Snapshot ID: `MCw4ZDE5NjRiNTZmYjZhMGMzNGNlMTVlOTY2NGRiOTQ2NDVlNGM2MDdj`
+Snapshot ID: `MCwyYjlhN2RlZDY3MjQ2ZDM4NTBlNmYyZTM4ZTYwZWMyYTYzYWY4ZTIw`

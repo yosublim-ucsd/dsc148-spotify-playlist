@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 490627,
+  "num_followers": 490642,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjZjNmUwMDRlNTJiM2IxMTViMDUxNmM5ODg5NTEzOWVkNzM4ZjI0",
+  "snapshot_id": "MCw0MTIzZGYwNTE0YTA5MDQ0MjI1YjUxNmRmZDJmNGRmNDkyOGY1ZDIy",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Waste of Time",
+        "url": "https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 183139,
+      "name": "Waste of Time",
+      "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
+    },
+    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Good Woman",
@@ -1047,22 +1063,6 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Waste of Time",
-        "url": "https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 183139,
-      "name": "Waste of Time",
-      "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Animals With Religion",
+        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
+      },
+      "artists": [
+        {
+          "name": "Bee Caves",
+          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
+        }
+      ],
+      "duration_ms": 235264,
+      "name": "Running Home to You",
+      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Animals With Religion",
-        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
-      },
-      "artists": [
-        {
-          "name": "Bee Caves",
-          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
-        }
-      ],
-      "duration_ms": 235264,
-      "name": "Running Home to You",
-      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Seven Hours",
-      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Waves, The Wake",
         "url": "https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 197787,
       "name": "Alone but Not Alone",
       "url": "https://open.spotify.com/track/3A19z3kNfPtKvXU5NuAs2J"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Seven Hours",
+      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
       "artists": [
         {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
+      "duration_ms": 203547,
+      "name": "Doobie Bronson",
+      "url": "https://open.spotify.com/track/55RwdXfVSWCReqDBioMxVV"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
         }
       ],
-      "duration_ms": 203547,
-      "name": "Doobie Bronson",
-      "url": "https://open.spotify.com/track/55RwdXfVSWCReqDBioMxVV"
+      "duration_ms": 222680,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
     },
     {
       "added_at": "2023-10-20 04:00:00",

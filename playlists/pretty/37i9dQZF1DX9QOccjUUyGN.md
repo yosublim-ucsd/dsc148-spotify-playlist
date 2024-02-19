@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Jamal KMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,645 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,642 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Doente de Amor](https://open.spotify.com/track/3Xh7yWSduG8Jl3CMYeAeAk) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T) | [Doente de Amor](https://open.spotify.com/album/01aK5tuEUfVgI7BEi7H2Mx) | 2:01 |
 | 75 | [Sigilosa](https://open.spotify.com/track/6YsUhTls5Pl4CsmMDnT1tE) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Sigilosa](https://open.spotify.com/album/5hQZsw9cGurzQT1LuDKKpA) | 1:34 |
 
-Snapshot ID: `MCw1YmYxNTYwODcxY2ZlYjE3ZDdkZjA4ZDM5NTk0NDUyNDczZWMwZjky`
+Snapshot ID: `MCxkMjI2Y2E5OWE4Yzc0NGE0ODUwOTZmYTVmZjJmMWY1MGJmOTYyOTll`

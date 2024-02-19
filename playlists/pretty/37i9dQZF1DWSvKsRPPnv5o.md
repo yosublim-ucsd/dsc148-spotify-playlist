@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,522 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,570 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 29 | [stuck](https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [stuck](https://open.spotify.com/album/2mEAQvsqwjJmeaeQdKRB2C) | 2:41 |
 | 30 | [Still Numb](https://open.spotify.com/track/5rIT3IR3w6szWJhD2vVkv5) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [420tiesto](https://open.spotify.com/artist/68w9bGhGIhqjAXNtKgXS7L) | [Still Numb](https://open.spotify.com/album/066UpTuyIXbqv2XAQwTZQj) | 2:41 |
 | 31 | [No Cuffin](https://open.spotify.com/track/4MFvXjgB19GThQxcjcWJXh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [No Cuffin](https://open.spotify.com/album/0LgOk4IknA8zPAflfjrgJV) | 1:31 |
-| 32 | [Eat It Up](https://open.spotify.com/track/1LYJJ6e8Zj8B2Wx5WmAohe) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/5ByZm1j56WZQzHNGY9Duaa) | 2:09 |
+| 32 | [Eat It Up](https://open.spotify.com/track/3J37NYIbWSdZzx3AEzK7Rj) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [King of Ratchet](https://open.spotify.com/album/1Bu3sTcDZbHGZNWeSwOXUx) | 2:08 |
 | 33 | [That’s Facts](https://open.spotify.com/track/3Vc66RkLDnpIRxZTeJLGhu) | [ATM Danny](https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD) | [That’s Facts](https://open.spotify.com/album/0VeCKffdlImHPx3PywDUf6) | 3:04 |
 | 34 | [LMK Something](https://open.spotify.com/track/5QPONzQY14PDgdnZ1zCz6t) | [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [RONRONTHEPRODUCER](https://open.spotify.com/artist/13iHfCJycQVyCypXHeVMoU) | [LMK Something](https://open.spotify.com/album/5px4Kh1KQ39ze6yj02n98o) | 1:43 |
 | 35 | [1234](https://open.spotify.com/track/5Y7lki1OedcDX59E8r1VMt) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [1234](https://open.spotify.com/album/5CgqhzaC7UDj7jkvUD44xh) | 2:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 79 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
 | 80 | [Han Solo](https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Han Solo](https://open.spotify.com/album/4SAWZ46pT9XJnQYtUW9UdS) | 2:22 |
 
-Snapshot ID: `MCwyZjJiZjM5ZDEyZWZhN2EzYWM4YjNlNWJhYmQwMzIyNDZhYWEwYzU5`
+Snapshot ID: `MCwzNDYwZDUzMGU0ODRmYjE2OWYyZGMyNGY0MjcwM2IwNTlhZDQ1ZTIy`

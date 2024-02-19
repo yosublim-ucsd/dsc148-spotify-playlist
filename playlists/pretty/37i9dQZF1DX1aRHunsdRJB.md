@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,454 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,458 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 52 | [Bad in Bumbum](https://open.spotify.com/track/4NIhpYk93J8Xou2vZt3iIe) | [Mighty](https://open.spotify.com/artist/5stVQl2C3bSrgrQqZieo02), [Subance](https://open.spotify.com/artist/5f7VKqtGJPjgKtA5TtWwRv) | [Local Drum Riddim](https://open.spotify.com/album/6nrr7yxkhFC1GDCNeKoAkD) | 2:31 |
 | 53 | [Weak](https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Happy Music](https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R) | 2:49 |
 | 54 | [Bend Yuh Back](https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bend Yuh Back](https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P) | 2:34 |
-| 55 | [Rough Wine](https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:23 |
-| 56 | [Earthquake](https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Rats Hole Riddim](https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl) | 3:10 |
+| 55 | [Earthquake](https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Rats Hole Riddim](https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl) | 3:10 |
+| 56 | [Rough Wine](https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:23 |
 | 57 | [Sexin](https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Soca Virgin](https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05) | 3:05 |
 | 58 | [Ba Ba Ben \- Remix](https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Noah Powa](https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN), [Lil Rick](https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA) | [Ba Ba Ben \(Remix\)](https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug) | 3:25 |
 | 59 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 63 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
 | 64 | [Stink Behavior](https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8) | 3:31 |
 | 65 | [Down in de Meat](https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp) | [Lednek](https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK) | [Smoke Mask Riddim](https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1) | 3:22 |
-| 66 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
-| 67 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
+| 66 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
+| 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
 
-Snapshot ID: `MCxiMDhiNDFhZGM2NGI4OWUwYmEwMWI0YmIzM2U1OGRiZGI3MmZlZDc0`
+Snapshot ID: `MCw0MjM4YzM1ZWQyMzIzN2RjMjNiMDE4MjdhOWQ3MDZjZWVkODg0NzMx`

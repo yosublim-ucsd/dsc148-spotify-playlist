@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,830 likes - 47 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,098 likes - 47 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 12 | [GTA.mp3](https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:31 |
 | 13 | [Uno los Dos](https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:35 |
 | 14 | [cuatro veinte](https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:13 |
-| 15 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 |
+| 15 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
 | 16 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 |
-| 17 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 |
-| 18 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 |
-| 19 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 |
+| 17 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 |
+| 18 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 |
+| 19 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 |
 | 20 | [Jagger.mp3](https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:35 |
-| 21 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
+| 21 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 |
 | 22 | [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 |
 | 23 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 |
 | 24 | [Facts.mp3](https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:10 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 46 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:53 |
 | 47 | [El Chisme](https://open.spotify.com/track/0aWljNVWewwIAmIYTjH1y8) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [El Chisme](https://open.spotify.com/album/5If6uMVCAomlkSSJABMaMq) | 3:39 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA5NjQ2Y2JjNDhkNzIyYzFlZDI2YmFmYWRkMjhkMDkwNA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBiYTlmY2E0NDEzZDAwYjI0YjJiMWFjYzk1YjQ5MjQ3ZQ==`

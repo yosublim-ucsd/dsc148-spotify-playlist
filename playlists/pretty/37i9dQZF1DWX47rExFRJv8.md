@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,158 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,194 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 33 | [Chica Paranormal](https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:41 |
 | 34 | [Culpables](https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Culpables](https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w) | 3:46 |
 | 35 | [No Es Justo](https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 4:10 |
-| 36 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
-| 37 | [A Partir De Hoy](https://open.spotify.com/track/3Z7JMhKrVBiMvMd0xV1vyI) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 3:16 |
+| 36 | [A Partir De Hoy](https://open.spotify.com/track/3Z7JMhKrVBiMvMd0xV1vyI) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 3:16 |
+| 37 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
 | 38 | [Vuelve](https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:45 |
 | 39 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 40 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 49 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 50 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 |
 
-Snapshot ID: `MCwwZWRlMjkyMmU5Njk4ZGMzYWNiZmZmOTBkNDBlZmMyYjU4MjJkM2Fi`
+Snapshot ID: `MCxiZjkwYjc3MjRlOTc2OTk1ZjJiNzVmMDk2MTU3M2UxNmU5MWIyZDU2`

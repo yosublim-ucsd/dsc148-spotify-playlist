@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,011 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,023 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
 | 60 | [The Woods \- Evida Remix](https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [The Woods \(Evida Remix\)](https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc) | 3:11 |
 
-Snapshot ID: `MCw0Y2Y3M2JlNDk2ZjVmNGU5MWE1NGJjNDEzOTZjMjBkNTBjMjYyMjJj`
+Snapshot ID: `MCwzNjA5ZmZjNjVmZDAwYjcwNmIyZGMxNWNhOWZlYWM2MmVlNjYyNTQ4`

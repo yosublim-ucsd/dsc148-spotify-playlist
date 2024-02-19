@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,889 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,976 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 | 50 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
 
-Snapshot ID: `MCwzYTAzMjc4ZGY3MGQyYWI3MDAyYzc2Nzg0NzE1N2U2NDhjMWQxYTRh`
+Snapshot ID: `MCw2OWQ0NjNhY2FjMjkyOTEyMzg1YTA4NzZjZTVhYWZhOTY1MGFmN2Fk`

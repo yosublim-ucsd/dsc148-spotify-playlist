@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 566624,
+  "num_followers": 566698,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTRmMmQwMjA5YmIzNDhhNDhhMWRkNTZlNzE0ZWJjMzNjNWRjODFh",
+  "snapshot_id": "MCwzODhjNjVhYmQ3NDAyODA2ZTI0Mjk0NjlhM2U5OTEwYzNhYzczMDJl",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -763,6 +763,34 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Pistola Remix",
+        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "El Mas Ladron",
+          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
+        },
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 136806,
+      "name": "Pistola Remix",
+      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -791,34 +819,6 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Pistola Remix",
-        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "El Mas Ladron",
-          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
-        },
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 136806,
-      "name": "Pistola Remix",
-      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1395,26 +1395,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Pinta",
-        "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
+        "name": "La Vanda M\u00e1s Loca",
+        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Pablo Lescano",
-          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
         }
       ],
-      "duration_ms": 177950,
-      "name": "Pinta",
-      "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
+      "duration_ms": 259173,
+      "name": "Sos Bot\u00f3n",
+      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1435,18 +1427,26 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "La Vanda M\u00e1s Loca",
-        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
+        "name": "Pinta",
+        "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
       "artists": [
         {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Sos Bot\u00f3n",
-      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
+      "duration_ms": 177950,
+      "name": "Pinta",
+      "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1847,26 +1847,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "La Gilera (Remix)",
-        "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
       "artists": [
         {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 147107,
-      "name": "La Gilera - Remix",
-      "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
+      "duration_ms": 134240,
+      "name": "Lo' Borrachos",
+      "url": "https://open.spotify.com/track/6tmAF5lerIPsnbseSvG44j"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1895,22 +1887,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "Lo' Borrachos",
-      "url": "https://open.spotify.com/track/6tmAF5lerIPsnbseSvG44j"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "38",
         "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
       },
@@ -1935,6 +1911,30 @@
       "duration_ms": 161000,
       "name": "38",
       "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "La Gilera (Remix)",
+        "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "La Gilera - Remix",
+      "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 125239,
-      "name": "Culito Pa' Tras",
-      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Con S\u00edndrome de Abstinencia",
         "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 176973,
       "name": "Berretines de Verduga",
       "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 125239,
+      "name": "Culito Pa' Tras",
+      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "CD3",
-        "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
-      },
-      "artists": [
-        {
-          "name": "Mc Caco",
-          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
-        }
-      ],
-      "duration_ms": 149159,
-      "name": "El Arca De Noe",
-      "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Alta Gira",
         "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 247144,
       "name": "Vos de Bebe",
       "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "CD3",
+        "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
+        }
+      ],
+      "duration_ms": 149159,
+      "name": "El Arca De Noe",
+      "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "25 Horas de Gira",
-        "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
+        "name": "La Gata",
+        "url": "https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa"
       },
       "artists": [
         {
-          "name": "El Guachoon",
-          "url": "https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr"
+          "name": "La Rama",
+          "url": "https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm"
         }
       ],
-      "duration_ms": 193515,
-      "name": "Gobernada",
-      "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
+      "duration_ms": 190200,
+      "name": "La Gata",
+      "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "La Gata",
-        "url": "https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa"
+        "name": "25 Horas de Gira",
+        "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
       },
       "artists": [
         {
-          "name": "La Rama",
-          "url": "https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm"
+          "name": "El Guachoon",
+          "url": "https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr"
         }
       ],
-      "duration_ms": 190200,
-      "name": "La Gata",
-      "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
+      "duration_ms": 193515,
+      "name": "Gobernada",
+      "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
     },
     {
       "added_at": "2024-02-09 03:00:00",

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-594 songs - 2 day 2 hr 39 min
+595 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Gehenna](https://open.spotify.com/track/3x2A8myfYInyflbGmZKQDD) | [Se, Josta Ei Puhuta](https://open.spotify.com/artist/1n64pzlYBm5zq9Mvf8C0dk) | [Gehenna](https://open.spotify.com/album/6BFtNQI9JIkLEmcrlWLRdi) | 4:12 | 2021-12-17 | 2022-07-27 |
 | [God Is Wasted](https://open.spotify.com/track/3dX9IN7FSVn1fQZotgM0KU) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/5A0LRCVTtoyd5EWpHdwB11) | 4:18 | 2022-07-13 | 2022-07-29 |
 | [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 | 2022-07-13 | 2023-02-16 |
-| [God Slayer](https://open.spotify.com/track/6IsZqEzBmykazABHquLdjK) | [Vredehammer](https://open.spotify.com/artist/5ket6f4XIg8c3nT5gjQ6Io) | [God Slayer](https://open.spotify.com/album/1VznslY9UYg6TudKwIcESy) | 5:04 | 2024-01-26 |  |
+| [God Slayer](https://open.spotify.com/track/6IsZqEzBmykazABHquLdjK) | [Vredehammer](https://open.spotify.com/artist/5ket6f4XIg8c3nT5gjQ6Io) | [God Slayer](https://open.spotify.com/album/1VznslY9UYg6TudKwIcESy) | 5:04 | 2024-01-26 | 2024-02-19 |
 | [Gods of Black Blood](https://open.spotify.com/track/5AVRiCc9tTz4SFqMEO4zSe) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Gods of Black Blood](https://open.spotify.com/album/0nH3459DWtSdBDRXr6Txbt) | 5:19 | 2023-03-31 | 2023-06-01 |
 | [Gods of Debauchery](https://open.spotify.com/track/03Zhio4cTHx7feyvJv0DgU) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o) | [Gods of Debauchery](https://open.spotify.com/album/7sDWktL9q8E53QJQjdLmsd) | 6:46 | 2021-12-17 | 2022-03-11 |
 | [Grains](https://open.spotify.com/track/3qJXf6sD3q7fjIBFYEqtlT) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Grains](https://open.spotify.com/album/5p0MfkqRPyvmTw8F4z0cYh) | 6:05 | 2022-03-10 | 2022-03-19 |
@@ -592,6 +592,7 @@
 | [Withstand The Fall Of Time](https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [At The Heart Of Winter](https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma) | 8:29 | 2022-07-13 |  |
 | [Woe](https://open.spotify.com/track/04rBvQ3NfSW7UsUvak2Hb2) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/7D1dzLAWZOTumnRTvGZGau) | 6:35 | 2023-10-27 |  |
 | [Wolves](https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Those of the Unlight](https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA) | 5:50 | 2022-07-13 |  |
+| [Wood Iron and Will](https://open.spotify.com/track/3Gi0TUYo4g4tGKSid8Wkwi) | [Vanir](https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4) | [Epitome](https://open.spotify.com/album/20YviFRD5A1RHdPF4TRWSC) | 6:01 | 2024-02-16 |  |
 | [World Bleak Nepotism](https://open.spotify.com/track/1lMghAPS4Ahu1kQSTMBuoY) | [Aeternus](https://open.spotify.com/artist/08pfvfaswGFhlXz4j50eOP) | [Philosopher](https://open.spotify.com/album/7x5WcqPqGP27WBCP0WnoBp) | 5:19 | 2023-11-17 | 2024-01-18 |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-03-19 |
 | [Worship the Eternal Darkness](https://open.spotify.com/track/5FwQeW8Z8ky47RqqPk0hi1) | [Archgoat](https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4) | [Worship the Eternal Darkness](https://open.spotify.com/album/7kPe4J6zhne6R5lHmFU9iT) | 3:38 | 2021-12-17 | 2022-01-08 |

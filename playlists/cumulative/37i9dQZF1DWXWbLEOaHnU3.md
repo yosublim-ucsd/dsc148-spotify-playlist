@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-286 songs - 1 day 1 hr 6 min
+287 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All The Lights](https://open.spotify.com/track/0UIUbB6k3gtYvqvHJ1J1Zm) | [Harlekin](https://open.spotify.com/artist/4VxfRdFYSShHLld3Wl1dl8) | [All The Lights](https://open.spotify.com/album/1rae8TeKdgDmPQKP0v8OVu) | 3:37 | 2022-06-16 | 2022-06-30 |
 | [Altaria](https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Altaria](https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc) | 2:47 | 2022-10-06 |  |
 | [Ameno](https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8) | [I.GOT.U](https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ), [RAVE\-N](https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe) | [Ameno](https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT) | 2:36 | 2022-11-26 |  |
+| [Anahata Trip](https://open.spotify.com/track/78s2UUkbnjLTaC6BjJPU4E) | [Novlik](https://open.spotify.com/artist/2C6EC0PuCxPyUjfDmUoM0O) | [Anahata Trip](https://open.spotify.com/album/3JL51xwG8MVuLfNHLB6Dco) | 5:56 | 2023-11-25 |  |
 | [Ancient Aum](https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Ancient Aum](https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5) | 8:00 | 2022-09-01 |  |
 | [Another Dimension \- Electric Universe Remix](https://open.spotify.com/track/1CWX1NxYcjUwbOqiNUBQ7A) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Another Dimension \(Electric Universe Remix\)](https://open.spotify.com/album/0xJ6UWc2CL0opk0U6q0CM7) | 7:40 | 2022-04-15 | 2022-07-29 |
 | [Around the Stars](https://open.spotify.com/track/5zEkJhlypnzAjacqTemCea) | [Outsiders](https://open.spotify.com/artist/2e9z5hUA7KMiTHfT0fSJfE), [Faders](https://open.spotify.com/artist/1to02GbmzsvkwAWDtKNtwn) | [Around the Stars](https://open.spotify.com/album/3nCuX2AZ40qFzfgD2o62N1) | 7:20 | 2022-04-15 | 2022-07-29 |
@@ -206,7 +207,7 @@
 | [Samba On Mars](https://open.spotify.com/track/3IrmM6Xeso2NmjTsEB8TEf) | [Audiosonic](https://open.spotify.com/artist/4kge5wbLlbNvR1sUTTbGFi) | [Samba On Mars](https://open.spotify.com/album/39L23v6odjcSByVPs2Ii0O) | 8:56 | 2022-04-28 | 2022-06-11 |
 | [Samurai](https://open.spotify.com/track/7pKCXka3DCODhVD9Xne7se) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Samurai / Gambler](https://open.spotify.com/album/32dSBG1SJdY4kReiIJbuVL) | 2:58 | 2022-09-23 | 2022-09-30 |
 | [San Pedro](https://open.spotify.com/track/04x4RHqb7UQMG978AlxkrD) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [San Pedro](https://open.spotify.com/album/5sHYnWWk6HZMu5o5L64F91) | 7:28 | 2022-04-15 | 2023-02-18 |
-| [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 | 2022-04-15 |  |
+| [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 | 2022-04-15 | 2024-02-19 |
 | [Save Me](https://open.spotify.com/track/39hp7lSe0QPktFxKkWBI2B) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D) | [Save Me](https://open.spotify.com/album/3DhPzL19TNQPuwdDeodmbB) | 4:35 | 2022-12-22 |  |
 | [Save Me](https://open.spotify.com/track/0Jz3sOalZAP80G290yYZZB) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Save Me](https://open.spotify.com/album/0qH7mbypWgfElVWaG4LJUZ) | 3:34 | 2022-05-06 | 2022-05-08 |
 | [Scottica](https://open.spotify.com/track/2QuExWpkrLtOKV9fXAtroc) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Scottica](https://open.spotify.com/album/3pKmpzJ7iCdS2aWqGZItxy) | 3:19 | 2022-07-28 | 2022-09-26 |

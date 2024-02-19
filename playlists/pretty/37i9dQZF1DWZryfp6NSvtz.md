@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Pearl Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,644 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,737 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Waves](https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC) | [Circles](https://open.spotify.com/artist/40vMufIdvhPS4VFosKdDGD) | [Still.](https://open.spotify.com/album/683xxhxOF8nzxm5Yk4koud) | 2:49 |
 | 50 | [Thousand Faces](https://open.spotify.com/track/6A8dx09t3zlIbiqIE2ejfS) | [Sometimes](https://open.spotify.com/artist/6V1IyfMAzr1KK06In7truj) | [Thousand Faces](https://open.spotify.com/album/2ezik4mQHY6Wg2joCo159O) | 3:27 |
 
-Snapshot ID: `MCw3NGFkYjNkZDhmOTE5N2FlMmVkNGI2ZjlmOGIxNmFiOTY0ZmZkZTk3`
+Snapshot ID: `MCxkNzg1NDY3NTQ4OGI2MGM0YzAxNThjMDg3MGEwNzJlMzZmY2ExNGVj`

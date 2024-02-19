@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,615 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,647 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [ANTIFRAGILE](https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
 | 50 | [我想要佔據你](https://open.spotify.com/track/14GFYAUxkeXranhS2qrYIZ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:12 |
 
-Snapshot ID: `NzYxNTM0NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYxNjIwODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

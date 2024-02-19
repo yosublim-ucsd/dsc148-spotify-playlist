@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 
 > kailangan pa ba ng valentine's day kung araw\-araw ka nasa puso ko...
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,014 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,120 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 | 35 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 |
 | 36 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 |
 | 37 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
-| 38 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
+| 38 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 |
 | 39 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 |
 | 40 | [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 |
 
-Snapshot ID: `MCxlNWU4NDZlOWQxYTE5NjZlZGVhYTkyYTUyYWViODZlZTM5ZWY3NjZm`
+Snapshot ID: `MCw0ZGZiODYwMzg4MDRhMTVmMDExODFkMzUwNzk4MjM3NTFhMzk1MDg5`

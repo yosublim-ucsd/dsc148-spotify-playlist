@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0sMAHzxguan2KpnKFZPW2d">Sadie Jean</a> with collaborators Rory Andrew, Victoria Zaro, and producer <a href="spotify:artist:3dIbvdQQd3HXfQcRjR6lb7">Griff Clawson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,855 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,909 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 12 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
 | 13 | [No Man's Land](https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [No Man's Land](https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4) | 2:18 |
 | 14 | [Historier och liv](https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Historier och liv](https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH) | 3:20 |
-| 15 | [Kiss of Death](https://open.spotify.com/track/78NFpDM4sMdpL0Qw1x3Kpo) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0), [Vessel](https://open.spotify.com/artist/1GOmB31SXRbXCfTKrG2ta8) | [Kiss of Death](https://open.spotify.com/album/0tGoDYWI7xG300Hyn42s8y) | 5:19 |
+| 15 | [Kiss of Death](https://open.spotify.com/track/3o3rGWacgLdSqCFWawiLAD) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0), [Vessel](https://open.spotify.com/artist/1GOmB31SXRbXCfTKrG2ta8) | [Big Anonymous](https://open.spotify.com/album/6B1TpyCZ28bpZaF0wKRree) | 5:19 |
 | 16 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 |
 | 17 | [Way Back When](https://open.spotify.com/track/1o505AK5rGw5zZtcRiNxim) | [Wayland](https://open.spotify.com/artist/5DG4mAvzfoF70wDbSd4wAJ) | [Way Back When](https://open.spotify.com/album/1tH8ImLMqeCQ6vIVtxzj5g) | 2:58 |
 | 18 | [Don't Know Why](https://open.spotify.com/track/32lnNkk8zZZ7AwpbUpAel3) | [f1oater.](https://open.spotify.com/artist/4lozSGwAHZyPSLQ1A0vEhT) | [Don't Know Why](https://open.spotify.com/album/1S4BXmeDJ2ZGsI9SpCUQCL) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 49 | [3 Months](https://open.spotify.com/track/1aAm1mTO1kxTRH85OWuDB4) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [3 Months](https://open.spotify.com/album/7wPyjyowUucXtf9EY9ieUl) | 3:23 |
 | 50 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
 
-Snapshot ID: `MCw0NGJjMTFjZTYwNzYxZWRmMGEyNTEyYTk1ZWM0ZTlkMGQzYmRjMzc4`
+Snapshot ID: `MCwwZjMyMjUwZjE0MTUwZjQ1YjQzOGNlOGFiMWViMDA0ZTExNGUyZTAz`

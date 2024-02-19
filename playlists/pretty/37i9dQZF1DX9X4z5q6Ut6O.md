@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 
 > Caminando de la mano..\. eres mi razón de ser.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,799 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,843 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 49 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
 | 50 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 |
 | 51 | [Mi Meta Contigo](https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 3:08 |
-| 52 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
+| 52 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
 | 53 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 |
-| 54 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
+| 54 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
 | 55 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
-| 56 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
-| 57 | [Me Está Gustando](https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:00 |
+| 56 | [Me Está Gustando](https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:00 |
+| 57 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
 | 58 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
 | 59 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 |
 | 60 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 74 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
 | 75 | [La Magia de Tus Ojos](https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 2:49 |
 
-Snapshot ID: `MCxkMTZhZjA1YWU2OGQyMzA2NTIwODBhYTUwOWVhNGExZmY1OWNlYTRm`
+Snapshot ID: `MCxhZDcwYTFkYzhmMmU3OTI1ZWIyNThiMzYxOGE5NWM4MzNkY2I3MDA0`

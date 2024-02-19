@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Dua Lipa",
-  "num_followers": 61416,
+  "num_followers": 61418,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTY5ZDMzNjM0NmQ4YjE5YjI5MmE5YzZkMDk0ZThjOTM2NmNmYjMx",
+  "snapshot_id": "MCw0NzliYzBkMDhkYTFjMzY1MmUxOTZjYjc3YmRhMzYxNjE2ZTVmMDU4",
   "tracks": [
     {
       "added_at": "2024-02-15 16:00:00",
@@ -715,7 +715,7 @@
     {
       "added_at": "2024-02-15 16:00:00",
       "album": {
-        "name": "S.A.D",
+        "name": "S.A.D.",
         "url": "https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu"
       },
       "artists": [
@@ -725,7 +725,7 @@
         }
       ],
       "duration_ms": 149253,
-      "name": "S.A.D",
+      "name": "S.A.D.",
       "url": "https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S"
     },
     {

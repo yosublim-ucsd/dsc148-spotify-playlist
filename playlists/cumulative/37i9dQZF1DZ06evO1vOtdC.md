@@ -4,7 +4,7 @@
 
 > This is Jennifer Lopez\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 43 min
+61 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Feel The Light \- From The "Home" Soundtrack](https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Feel The Light \(From The "Home" Soundtrack\)](https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K) | 4:51 | 2023-07-28 |  |
 | [Follow The Leader](https://open.spotify.com/track/2RMWA3mvD4nxBR1sGF7wRp) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:00 | 2023-07-28 |  |
 | [Get Right](https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 3:45 | 2023-07-28 |  |
-| [Hold You Down \(feat\. Fat Joe\)](https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 4:32 | 2023-07-29 |  |
+| [Hold You Down \(feat\. Fat Joe\)](https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 4:32 | 2023-07-29 | 2024-02-19 |
 | [I'm Glad](https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 3:42 | 2023-07-28 |  |
 | [I'm Gonna Be Alright \(feat\. Nas\)](https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Cory Rooney](https://open.spotify.com/artist/6v0jNVxRKCvjwXIU2SuqKo), [Poke and Tone](https://open.spotify.com/artist/7M8EwIpyu0mZ9oA8sqcsWj) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 2:52 | 2023-07-28 |  |
 | [I'm Into You](https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 3:20 | 2023-07-28 |  |
@@ -64,6 +64,7 @@
 | [Te Guste](https://open.spotify.com/track/0ifLplTQxXkFZKMQpWCHii) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Te Guste](https://open.spotify.com/album/0TV9iQEnYeQeKZOfXhok1D) | 3:42 | 2023-07-28 | 2024-02-18 |
 | [Theme From Mahagony \(Do You Know Where You're Going To\)](https://open.spotify.com/track/7bNnrac7k9CkwQRQsfGb7x) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:34 | 2023-07-28 | 2023-11-11 |
 | [This Is Me…Now](https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me…Now](https://open.spotify.com/album/6bK4Nw216MJu7RK9IJgHCG) | 4:13 | 2024-02-05 |  |
+| [To Be Yours](https://open.spotify.com/track/549hPKO1thWFdmHya7zPyC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:18 | 2024-02-18 |  |
 | [Try Me \(feat\. Jennifer Lopez and Matoma\)](https://open.spotify.com/track/4tg1G3X26wDTmQbipgxhp5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:20 | 2023-07-28 |  |
 | [Una Noche Más](https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 4:05 | 2023-07-28 |  |
 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 | 2023-07-28 |  |

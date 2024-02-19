@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,254 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,329 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 11 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 12 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 |
 | 13 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
-| 14 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
-| 15 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
+| 14 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
+| 15 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 16 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 |
 | 17 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 |
 | 18 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 46 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 |
 | 47 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 48 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
-| 49 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
-| 50 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
+| 49 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
+| 50 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 51 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 |
 | 52 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 |
 | 53 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 59 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 60 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 
-Snapshot ID: `MCw3NTVmYTM2MGQ2MzRmNDAyNWFmNzQ4OTFhOWY4ZmI5OWE2ODU5ODll`
+Snapshot ID: `MCwxMGExYzEyYTczMGQ1ZmRmZjI0YjU2NzMzYjM2YTUxZjczMzAxYTYx`

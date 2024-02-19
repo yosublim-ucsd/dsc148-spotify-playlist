@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,317 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,337 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 30 | [Astrovan](https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:06 |
 | 31 | [You're Somebody Else](https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Baby, It's Okay](https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw) | 3:39 |
 | 32 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
-| 33 | [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 |
+| 33 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 |
 | 34 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
-| 35 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 |
+| 35 | [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 |
 | 36 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
 | 37 | [TERRITORY](https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [TERRITORY](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 4:36 |
 | 38 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 63 | [Dissolve](https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [NITESHIFT](https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax) | [Thousand Peaces](https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI) | 3:44 |
 | 64 | [Turn](https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:27 |
 | 65 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
-| 66 | [Why Do You Feel So Down](https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:40 |
-| 67 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 |
+| 66 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 |
+| 67 | [Why Do You Feel So Down](https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:40 |
 | 68 | [Begin \(feat\. Wales\)](https://open.spotify.com/track/1v5J1L8FbUQya4SUQFCstk) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 4:02 |
 | 69 | [Saturnz Barz \(feat\. Popcaan\)](https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:01 |
 | 70 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 |
@@ -85,16 +85,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 75 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 |
 | 76 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
 | 77 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
-| 78 | [Tailwhip](https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a) | 3:45 |
+| 78 | [You're in Love with a Psycho](https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:35 |
 | 79 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
-| 80 | [You're in Love with a Psycho](https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:35 |
+| 80 | [Tailwhip](https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a) | 3:45 |
 | 81 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 82 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 |
 | 83 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
 | 84 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
 | 85 | [In My Head](https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv) | 3:34 |
-| 86 | [Lost in You](https://open.spotify.com/track/5BIY4jMiYsp5QKKE05AXUF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Lost in You](https://open.spotify.com/album/3wTzHcPe5EkkpLiecOj7ZZ) | 1:41 |
-| 87 | [Thinking of a Place](https://open.spotify.com/track/4Sd5tbNP4q8wS64abqwfkN) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 11:10 |
+| 86 | [Thinking of a Place](https://open.spotify.com/track/4Sd5tbNP4q8wS64abqwfkN) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 11:10 |
+| 87 | [Lost in You](https://open.spotify.com/track/5BIY4jMiYsp5QKKE05AXUF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Lost in You](https://open.spotify.com/album/3wTzHcPe5EkkpLiecOj7ZZ) | 1:41 |
 | 88 | [Iris](https://open.spotify.com/track/4uM4UARm7GVSyxEoUGijUT) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/42FdghdSW95PPRm2DrQTIz) | 3:01 |
 | 89 | [So Tied Up](https://open.spotify.com/track/3msS7xaelR4Oa0n7IwHkgF) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:09 |
 | 90 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 99 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
 | 100 | [Boyish](https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:33 |
 
-Snapshot ID: `MCwwNTJkMTFhMjFiMmY3NmM0YWQzMmFmMWZiYWU3NTJmZWJmMDkzNmQx`
+Snapshot ID: `MCxhMzc4NzNiN2IwNTIyMTUyNmJhZjY5N2EwMmUxMTdjZmY2N2E0M2Y0`

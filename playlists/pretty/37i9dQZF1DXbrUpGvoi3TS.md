@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,552,332 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,552,802 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 14 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 15 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 16 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 |
-| 17 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
-| 18 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
-| 19 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
+| 17 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
+| 18 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
+| 19 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 20 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 |
 | 21 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 22 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 |
-| 23 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
-| 24 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
+| 23 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
+| 24 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
 | 25 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 26 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 |
 | 27 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 52 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
 | 53 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 54 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
-| 55 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 |
-| 56 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
+| 55 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
+| 56 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 |
 | 57 | [Trouble](https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:33 |
 | 58 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
 | 59 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 |
 | 100 | [Not Today](https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:21 |
 
-Snapshot ID: `MCxmMjdkZmQ3MmRlODBmMTlmOGQ3ZDZlYzY2NzA5YjYyMGM3ZGU4NDMw`
+Snapshot ID: `MCwyZWRhNDNhOThjM2U4YmU1ZDQ5YTc3NWI4YzE4MDE4MWVjZjRjM2Mz`

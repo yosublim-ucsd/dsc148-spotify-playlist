@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4916,
+  "num_followers": 4924,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWMwMjg0ZTcyNjU1ZjFkMTJjNmM5MGVhMjQ1M2NmNDQ0Y2YzOTc5",
+  "snapshot_id": "MCxhMjQ4MjAxMGQzMjRmMTA0ODVlNGEyZGQ1ODUwZTE2OGVjNTZjM2Ey",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -695,8 +695,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Magnetic Rag",
-        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
+        "name": "The St Louis Rag",
+        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
         }
       ],
-      "duration_ms": 164568,
-      "name": "Operatic Rag",
-      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
+      "duration_ms": 222013,
+      "name": "Champagne Rag",
+      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -743,8 +743,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The St Louis Rag",
-        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
+        "name": "Magnetic Rag",
+        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Champagne Rag",
-      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
+      "duration_ms": 164568,
+      "name": "Operatic Rag",
+      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
     },
     {
       "added_at": "2020-08-19 17:18:36",

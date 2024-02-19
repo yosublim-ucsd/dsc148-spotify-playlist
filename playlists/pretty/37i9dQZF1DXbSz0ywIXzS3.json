@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 6756,
+  "num_followers": 6853,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTA2ZDZmM2UwZjRmMDg0NDc3YzdlMGIyZGE1ZGJmZTc2YjRjMjFj",
+  "snapshot_id": "MCxhNzIwNDE5NzVhM2QzNjMyNzZmMTI5MjQxYWE2MjQwZGNiMzlmZjE2",
   "tracks": [
     {
       "added_at": "2024-01-29 08:33:10",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Mer De Noms",
-        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "3 Libras",
-      "url": "https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 340320,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Mer De Noms",
+        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "3 Libras",
+      "url": "https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 253777,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/6Jqk2PWC70GEBNmXwmTGHp"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 264006,
-      "name": "Jesus Christ 2005 God Bless America",
-      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "To Forgive - Remastered 2012",
-      "url": "https://open.spotify.com/track/428dyogxbsqj9U5leQ9why"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Birds and the Bees",
         "url": "https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 254263,
       "name": "Birds and the Bees",
       "url": "https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "To Forgive - Remastered 2012",
+      "url": "https://open.spotify.com/track/428dyogxbsqj9U5leQ9why"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Fever Dream",
-      "url": "https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Comfort in Sound",
         "url": "https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 263253,
       "name": "Just the Way I'm Feeling",
       "url": "https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm"
     }
   ],
   "unique_name": "hAngOvEr fRiEnDLy rOcK",

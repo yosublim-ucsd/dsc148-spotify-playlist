@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Wallows
 
-1,768 songs - 3 day 21 hr 11 min
+1,769 songs - 3 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [All My Friends Are Stoned](https://open.spotify.com/track/7BL33HmuFQien4olebugdj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now \- EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:39 | 2020-11-03 | 2021-10-13 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-06-15 |
 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-09-08 | 2024-01-01 |
-| [All Night](https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [All Night](https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc) | 2:50 | 2024-02-09 |  |
+| [All Night](https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [All Night](https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc) | 2:50 | 2024-02-09 | 2024-02-19 |
 | [All Night](https://open.spotify.com/track/3y6mJwIyeV7YbUgIZuR0GU) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [All Night](https://open.spotify.com/album/2L7ClezYcFXiYBf7NfV5q1) | 2:57 | 2021-08-13 | 2021-12-26 |
 | [All Our Friends Are Splitting Up](https://open.spotify.com/track/1uwZ46SjGjrVaZOdR3zYUF) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [All Our Friends Are Splitting Up](https://open.spotify.com/album/3Rf75PC9Awl8gfIccji1n8) | 3:40 | 2021-08-27 | 2022-04-15 |
 | [All Out of Love](https://open.spotify.com/track/13Dj9CkrgsKPHBRH0zzoNu) | [Stark](https://open.spotify.com/artist/5wNuh7FxIFmoNlRLMoVzWl), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [All Out of Love](https://open.spotify.com/album/257gP7Vsp56gCBSWXhEaOt) | 3:47 | 2020-10-16 | 2021-05-21 |
@@ -1557,6 +1557,7 @@
 | [Tension](https://open.spotify.com/track/7iw7EB3awZl7xbXgAdKqQi) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Planetarium](https://open.spotify.com/album/0aw1n752bWwLLwwv5daGfG) | 2:53 | 2021-05-11 | 2021-10-14 |
 | [Tequila & Lemonade](https://open.spotify.com/track/4rjF36rbNb7V7JG44FjJYI) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Tequila & Lemonade](https://open.spotify.com/album/64CXXqfAeThj5C3DRqYCot) | 3:41 | 2020-10-16 | 2020-11-15 |
 | [TESSELLATE](https://open.spotify.com/track/7cD5QLy657vZnf4fAtK622) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [TESSELLATE](https://open.spotify.com/album/5WkeI79ASFJb7GEzCOeD79) | 4:14 | 2021-02-22 | 2021-03-23 |
+| [TEXAS BLUE \(with Kevin Abstract\)](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 | 2024-02-16 |  |
 | [texas summer](https://open.spotify.com/track/1LgS7KOi9ks0aup9O8JGSR) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [jackson lee morgan](https://open.spotify.com/artist/7B0upFhefvU2PuUCJBXBCz) | [texas summer](https://open.spotify.com/album/2djUQUYroAXdOL4T99mNrL) | 2:50 | 2020-11-13 | 2021-01-15 |
 | [Thank U](https://open.spotify.com/track/1w5J5CBuvT36kt2OtHa8ts) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Thank U](https://open.spotify.com/album/4xTL6WvU1XquiSZ1ibPHyB) | 4:02 | 2020-11-10 | 2021-05-25 |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 | 2022-07-23 |

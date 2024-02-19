@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 438692,
+  "num_followers": 438868,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDYzOGFhODc5ZDEzMDRiNWZhYTQ2OTljMGZlZjgzMGZiYTcwZmE0",
+  "snapshot_id": "MCw5NmEzMjQ0ODZkYWU2NDEzN2M4NTcwYzY5MWE4YzMwNzBkMWVjYzg0",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -39,22 +39,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Where's My Love",
-        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "Where's My Love - Acoustic",
-      "url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Where's My Love",
+        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "Where's My Love - Acoustic",
+      "url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 178826,
       "name": "You Sigh",
       "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "In the Waiting",
-        "url": "https://open.spotify.com/album/6JNuIdnyOb5gHbMUi2pV6f"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 198403,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/3xvF7KX1QTImJERKQhlpVB"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "In the Waiting",
+        "url": "https://open.spotify.com/album/6JNuIdnyOb5gHbMUi2pV6f"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 198403,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/3xvF7KX1QTImJERKQhlpVB"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 207389,
       "name": "Th\u00e9r\u00e8se",
       "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Ode to Joy",
+        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Love Is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Ode to Joy",
-        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Love Is Everywhere (Beware)",
-      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Twist",
-        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
-      },
-      "artists": [
-        {
-          "name": "Lorkin O'Reilly",
-          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
-        }
-      ],
-      "duration_ms": 186157,
-      "name": "Twist",
-      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "The Tree of Forgiveness",
         "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Volume I",
-        "url": "https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84"
+        "name": "Twist",
+        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
       },
       "artists": [
         {
-          "name": "Belle Mt.",
-          "url": "https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS"
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
         }
       ],
-      "duration_ms": 236626,
-      "name": "Hollow - Acoustic",
-      "url": "https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM"
+      "duration_ms": 186157,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Volume I",
+        "url": "https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84"
+      },
+      "artists": [
+        {
+          "name": "Belle Mt.",
+          "url": "https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Hollow - Acoustic",
+      "url": "https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Mind on Fire",
-      "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Young In All The Wrong Ways",
         "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Mind on Fire",
+      "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Big Red Machine",
-        "url": "https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2"
-      },
-      "artists": [
-        {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "I Won't Run From It",
-      "url": "https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+        "name": "Big Red Machine",
+        "url": "https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Dust to Dust",
-      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
+      "duration_ms": 218786,
+      "name": "I Won't Run From It",
+      "url": "https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Dust to Dust",
+      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Coming Down the Mountain",
         "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Ledges",
-        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "First Defeat",
-      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Ledges",
+        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Any Light",
+        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
+      },
+      "artists": [
+        {
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "duration_ms": 180841,
+      "name": "Any Light",
+      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
       },
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Any Light",
-        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
-      },
-      "artists": [
-        {
-          "name": "Loving",
-          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
-        }
-      ],
-      "duration_ms": 180841,
-      "name": "Any Light",
-      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1775,6 +1775,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Lovers and Leavers",
+        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "The Love That We Need",
+      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1815,38 +1831,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Lovers and Leavers",
-        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "The Love That We Need",
-      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Robert Ellis",
-        "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
-      },
-      "artists": [
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Drivin'",
-      "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Belly of the Beast / Paper Mountain",
         "url": "https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 195540,
       "name": "Belly of the Beast",
       "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Robert Ellis",
+        "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
+      },
+      "artists": [
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Drivin'",
+      "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
     }
   ],
   "unique_name": "Soft & Slow",

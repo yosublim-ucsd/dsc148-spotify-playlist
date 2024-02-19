@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > The soundtrack to lazing around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,743 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,856 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 53 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 54 | [Island](https://open.spotify.com/track/4LRxmh62YHxSHL4hGLq0ln) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:59 |
 | 55 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
-| 56 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
-| 57 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
+| 56 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
+| 57 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
 | 58 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 |
 | 59 | [Highs & Lows](https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Highs & Lows](https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8) | 3:29 |
 | 60 | [The Way I Am](https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Girls And Boys](https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z) | 2:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 64 | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1) | 3:31 |
 | 65 | [sunny day](https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:52 |
 
-Snapshot ID: `MCwxMjFjNDk5NmI0ZTYyYWYwNmI0OThhMGMyMDBjYzk4MzgzZDA5NTY4`
+Snapshot ID: `MCxlOTc2Zjc1MzAwY2MwNjZlMGE2NDBjNDg5M2YzYTI1ZWI4NzFmMzJm`

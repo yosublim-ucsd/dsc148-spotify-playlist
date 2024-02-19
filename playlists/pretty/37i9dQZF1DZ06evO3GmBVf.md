@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,998 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,108 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 16 | [Mi Decepción](https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 4:52 |
 | 17 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 |
 | 18 | [Un Ratito](https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Un Ratito](https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf) | 3:47 |
-| 19 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:24 |
-| 20 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
+| 19 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
+| 20 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:24 |
 | 21 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 |
 | 22 | [Se Fue](https://open.spotify.com/track/73MIYL9Qh0aRzCIc1uWM9g) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
 | 23 | [Dice Que Me Quiere](https://open.spotify.com/track/5KInsY7fAYt1haZlcWzEBP) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Dice Que Me Quiere](https://open.spotify.com/album/17MHsZsYostt7VeA62ZsCP) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Alzypher Vol\. 1](https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 1](https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH) | 4:48 |
 | 50 | [Pacas](https://open.spotify.com/track/7p79Gg3qf9kEjV6CzQrdzI) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pacas](https://open.spotify.com/album/4B4NiS8veDy5MdUB0GmBn1) | 3:03 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAxNjIyZGI0ZjFhNjNhYWFmMDhkOGQxNmRhNjYwNzRiNg==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA0NmI3MzllNDljMTYyMzY0ODhiYzBmMDA1NjdlNjVmNg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 
 > celebre seu dia no maior astral!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445,347 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445,370 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,22 +61,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 51 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 52 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
 | 53 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
-| 54 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 55 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
+| 54 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
+| 55 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 56 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
 | 57 | [Break My Heart](https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:41 |
 | 58 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 59 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 60 | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 |
 | 61 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
-| 62 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
-| 63 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 |
-| 64 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
-| 65 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
+| 62 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
+| 63 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
+| 64 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
+| 65 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 |
 | 66 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 67 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 |
 | 68 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 69 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
-| 70 | [Sorry Not Sorry](https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 3:23 |
+| 70 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 
-Snapshot ID: `MCw3YzgzODllMjRkYTJjOWZiMzhjZjVlZGIyNDA2NDI1ZDdlNzgyNTJk`
+Snapshot ID: `MCxhZTU5ODMyYTRlODhkYTI0ZGU4NzUzNDAyMTAwMzZkNWVkZWUzZWFh`

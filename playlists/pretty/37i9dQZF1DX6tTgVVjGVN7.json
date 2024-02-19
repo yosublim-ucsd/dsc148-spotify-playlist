@@ -1,12 +1,12 @@
 {
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
-  "num_followers": 120292,
+  "num_followers": 120337,
   "original_name": "Cl\u00e1sicos del Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODhmYjUzN2JlNDE3NmYyZDc3MjUwMmE4ZGFlZmNiZGM1NzhhYmJh",
+  "snapshot_id": "MCxiNDQ5MGViYmIzNzBhMmRhYWU3OWVjYzcxZjUzODZhMDQyNDE1YmY1",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Another Brick in the Wall, Pt. 2",
-      "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Another Brick in the Wall, Pt. 2",
+      "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "La Vida Gacha",
         "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 245826,
       "name": "La Planta",
       "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Vida De Perros",
         "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 236426,
       "name": "Llueve Sobre La Ciudad",
       "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2023-07-14 03:00:00",

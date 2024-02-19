@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-543 songs - 1 day 17 hr 49 min
+544 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Cry Me a River \- Live](https://open.spotify.com/track/518gXaq0LZe99Bz0Laspi2) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/4P8bWmuZtipCFvNsnzGXLd) | 8:50 | 2022-02-10 | 2022-07-29 |
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2023-08-31 |  |
 | [Danny Boy](https://open.spotify.com/track/3GimzseMaUjoAWjo6Gs3QH) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 3:40 | 2022-04-08 | 2022-11-09 |
+| [Dark Turn of Mind](https://open.spotify.com/track/20877fmWnjvhKkkLUpLlJ3) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Mads Søndergaard](https://open.spotify.com/artist/1MLs5YRz48RslZbzeWbCQc) | [Dark Turn of Mind](https://open.spotify.com/album/2KPx7Fp7cB5xibNw6Ttkmv) | 5:38 | 2024-02-16 |  |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2022-11-12 | 2023-08-26 |
 | [Day by Day](https://open.spotify.com/track/7yzy0GOrPGBY75ztmpXNtu) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Here Now](https://open.spotify.com/album/4zoSsjGlKk9Ny6BrdSNNPY) | 3:55 | 2023-11-17 |  |
 | [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-02-10 | 2022-05-18 |
@@ -152,7 +153,7 @@
 | [For All We Know](https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 8:02 | 2022-02-10 |  |
 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 | 2022-11-12 | 2023-08-26 |
 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 | 2022-11-12 |  |
-| [For You I'll Do Anything](https://open.spotify.com/track/1I9FUmm7nEBZix5guZxmEJ) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 5:50 | 2022-04-29 |  |
+| [For You I'll Do Anything](https://open.spotify.com/track/1I9FUmm7nEBZix5guZxmEJ) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 5:50 | 2022-04-29 | 2024-02-19 |
 | [Forever and Ever](https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I) | [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Silent World](https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L) | 4:32 | 2023-03-10 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-17 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-11-12 |  |
@@ -260,7 +261,7 @@
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2023-03-10 |  |
 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-07 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-11-12 | 2023-04-28 |
-| [Liten Jazzballong Revisited](https://open.spotify.com/track/3Q8mDlDBHw5lPNvMcXgBoe) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Liten Jazzballong Revisited](https://open.spotify.com/album/5qIPdiTo9jJsd1Fl3VIO8d) | 6:11 | 2022-03-03 | 2024-01-30 |
+| [Liten Jazzballong Revisited](https://open.spotify.com/track/3Q8mDlDBHw5lPNvMcXgBoe) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Liten Jazzballong Revisited](https://open.spotify.com/album/5qIPdiTo9jJsd1Fl3VIO8d) | 6:11 | 2022-03-03 |  |
 | [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-02-10 | 2023-08-26 |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-11-12 |  |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-01 |  |
@@ -317,7 +318,7 @@
 | [Neon Nightscape](https://open.spotify.com/track/1IDeoU149BEQU6HChwNrHB) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Neon Nightscape](https://open.spotify.com/album/3o4zbbXblhFCJSanZqQqqn) | 3:16 | 2023-11-17 |  |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-11-12 |  |
 | [New sponsor](https://open.spotify.com/track/6EIQvvPBFyPsa4zRJYtoNq) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [New sponsor](https://open.spotify.com/album/2Xgmzfb2ZGhDBM0xYfj86c) | 3:18 | 2023-08-10 |  |
-| [Newselves](https://open.spotify.com/track/40V4EWwwYv4a6erWw9r60D) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [World Painter](https://open.spotify.com/album/11QDwaxB2Z5Tmp6sqzQPnC) | 5:55 | 2022-03-25 |  |
+| [Newselves](https://open.spotify.com/track/40V4EWwwYv4a6erWw9r60D) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [World Painter](https://open.spotify.com/album/11QDwaxB2Z5Tmp6sqzQPnC) | 5:55 | 2022-03-25 | 2024-02-19 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-12 |  |
 | [Nightfall](https://open.spotify.com/track/0n04M7GwiuMd58kTQW6WDG) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:36 | 2022-02-10 |  |
 | [No Cure](https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [No Cure](https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi) | 4:23 | 2023-03-10 |  |

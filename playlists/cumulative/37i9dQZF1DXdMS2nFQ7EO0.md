@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-191 songs - 9 hr 58 min
+192 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Ghost](https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Ghost](https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4) | 2:41 | 2022-04-07 | 2022-05-12 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-05-08 |  |
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2022-04-07 | 2022-05-12 |
-| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2023-05-08 |  |
+| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2023-05-08 | 2024-02-19 |
+| [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 | 2023-09-01 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-04-07 |  |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-05-11 | 2023-05-09 |
 | [Hey Mami](https://open.spotify.com/track/4zxplyWb9gIjpqM6TjmswM) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Chris Salgado](https://open.spotify.com/artist/3tTY8XzN1jKcMRbazoNDVg), [Dj Esli](https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd), [Brian Muñoz](https://open.spotify.com/artist/3uSXeFT2GQ1788QvQ5Nnec) | [Hey Mami](https://open.spotify.com/album/02MwR3Ubdakotdnz9fCapF) | 3:34 | 2023-05-08 |  |

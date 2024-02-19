@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TEN\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,258 likes - 397 songs - 22 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,361 likes - 397 songs - 22 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -406,4 +406,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 396 | [Rush Hour](https://open.spotify.com/track/1yVBxh2jsIunYaCEIQ9j0r) | [Highway](https://open.spotify.com/artist/0nmg6RNT1HaWcMmG28C9kI) | [UNIVERSE TICKET \- LEVEL STATION](https://open.spotify.com/album/1N2QUGuwoXWJCg4qOklNDh) | 2:40 |
 | 397 | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/track/6e53jSfKBohJjJhqURJRC7) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [차우주](https://open.spotify.com/artist/1Ug3giuJFaBEuBuoYbZVno) | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/album/0u0JzT8CCZ2pch383vj08S) | 3:23 |
 
-Snapshot ID: `MCwyZGUyNzJmNDE2MzY5YjBlNzBjMmEwN2ViNzllNDQ2YjU4MmYzNjkz`
+Snapshot ID: `MCwzYjYyMWMwNTE1ZWUwODA5MjFkODkwMTM0ZmQzNjcwYTNmZWNhZDk3`

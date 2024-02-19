@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-275 songs - 14 hr 50 min
+276 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 | 2022-08-08 | 2023-04-29 |
 | [oh my my](https://open.spotify.com/track/5ueeVcx0oBiVqkSQoOvRTp) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [adway®](https://open.spotify.com/artist/2OJlg97eRkj7rI11FFklk1) | [oh my my](https://open.spotify.com/album/4cfdvElT2txGSpuB46dPjT) | 3:08 | 2022-06-06 | 2022-07-29 |
 | [Old With You](https://open.spotify.com/track/2a8dFwynGpl0p0YYSUEnax) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Old With You](https://open.spotify.com/album/25IShYtZX8wk1wFgPObY8m) | 3:26 | 2023-02-13 | 2023-02-21 |
+| [On My Mind](https://open.spotify.com/track/2REV45xgTkmZnixZyQdeCj) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [On My Mind](https://open.spotify.com/album/7d3ipgo7MFc14ktcdiM9sK) | 3:02 | 2024-02-19 |  |
 | [One Day at a Time](https://open.spotify.com/track/1xt9Nzh3Gc7oFdNIIbbvJr) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [One Day at a Time](https://open.spotify.com/album/0cFFxwnLmAYZhMwHSYPAkA) | 3:12 | 2023-04-17 | 2023-04-25 |
 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 | 2023-09-11 | 2023-09-18 |
 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 | 2023-02-13 |  |
@@ -215,7 +216,7 @@
 | [Side To Side](https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:46 | 2023-02-13 |  |
 | [Silhouette](https://open.spotify.com/track/4nBSLUllNhwMYr2xcIerEu) | [Lenka](https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC) | [Silhouette](https://open.spotify.com/album/4BIX9f31KBtmBXzyJpaF2X) | 3:48 | 2023-08-28 | 2023-09-05 |
 | [Skate](https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:23 | 2022-07-25 |  |
-| [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-07-25 |  |
+| [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-07-25 | 2024-02-19 |
 | [Smile](https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Smile](https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8) | 2:18 | 2022-06-06 | 2022-07-29 |
 | [so fire](https://open.spotify.com/track/48laemm4yRLl6OAAUoAPiJ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [so fire](https://open.spotify.com/album/3fSD8ylQNPfUx1fGEAZLb8) | 2:35 | 2023-05-15 | 2023-05-23 |
 | [so good](https://open.spotify.com/track/5viDyBHBnJHCF1XTcROFkF) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so good](https://open.spotify.com/album/37KP5nrRhwvBAD8QDqMYWe) | 2:31 | 2022-06-06 | 2022-07-29 |

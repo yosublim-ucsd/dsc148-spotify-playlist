@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 
 > Amp up your commute with rock hits, new and old\. Cover: Green Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,768 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,818 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,21 +37,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 27 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 |
 | 28 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 |
 | 29 | [Dani California](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 4:42 |
-| 30 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 |
-| 31 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
-| 32 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
+| 30 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
+| 31 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 |
+| 32 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 33 | [Everything Turns Around](https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N) | [Dogstar](https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe) | [Somewhere Between the Power Lines and Palm Trees](https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL) | 3:00 |
 | 34 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 35 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
-| 36 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
-| 37 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
+| 36 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
+| 37 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 38 | [Monster](https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 2:58 |
 | 39 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
-| 40 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 |
-| 41 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
+| 40 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
+| 41 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 |
 | 42 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
-| 43 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 |
-| 44 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
+| 43 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
+| 44 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 |
 | 45 | [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 |
 | 46 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 |
 | 47 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 80 | [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 |
 | 81 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
 | 82 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 |
-| 83 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
-| 84 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
+| 83 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
+| 84 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
 | 85 | [When I'm Gone](https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 4:20 |
 | 86 | [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 |
 | 87 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 99 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 |
 | 100 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
 
-Snapshot ID: `MCw0ODg0YjI4Y2JhMDU5M2JmYmRlMzRiOWIzNjRhYmQwNjJhYjZiNDAy`
+Snapshot ID: `MCxiZjk4MTA3NjhiNmZjMGNhMzcyMGNiMDgxNDRmNjg1ZDY0NzQwNWVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: CHUU \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,943 likes - 57 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,010 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 10 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 |
 | 11 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 |
 | 12 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 |
-| 13 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
+| 13 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 |
 | 14 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
-| 15 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 |
+| 15 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
 | 16 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 17 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 |
 | 18 | [Cupid](https://open.spotify.com/track/36ylDwMUz1EqrdbfBF8vC7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [BYOB \(bring your own best friend\)](https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Billlie 'BYOB \(bring your own best friend\)'](https://open.spotify.com/album/4k9r7qGZQi1kLGMWlyn8Xl) | 2:38 |
 | 57 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
 
-Snapshot ID: `MCxlMGU0ZGIxNTM1MzJlNGI2YjJkZDNiODc0N2QzMGU2ODkzODIwOGU0`
+Snapshot ID: `MCwyNDZlMDkzODE0NDg3OTA4MWYyYmU1MzRhOWZiNzEyYTcyMTcyMjFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 
 > Classic blues for a blue summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,458 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,463 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 9 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 | 10 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
 | 11 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
-| 12 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
-| 13 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
+| 12 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
+| 13 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
 | 14 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
 | 15 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 16 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 28 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
 | 29 | [Mean Mistreater](https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 3:52 |
 | 30 | [Voodoo Woman](https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 3:48 |
-| 31 | [Texas Flood](https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9) | [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [The Best Of Duke\-Peacock Blues](https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q) | 2:43 |
-| 32 | [You Don't Know What Love Is \- Remastered](https://open.spotify.com/track/0WfOWBaczM1RiKGNsLnKM0) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime \(Remastered\)](https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ) | 3:53 |
+| 31 | [You Don't Know What Love Is \- Remastered](https://open.spotify.com/track/0WfOWBaczM1RiKGNsLnKM0) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime \(Remastered\)](https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ) | 3:53 |
+| 32 | [Texas Flood](https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9) | [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [The Best Of Duke\-Peacock Blues](https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q) | 2:43 |
 | 33 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
 | 34 | [Born Under A Bad Sign](https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:46 |
 | 35 | [Hide Away](https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 49 | [It Serves Me Right To Suffer](https://open.spotify.com/track/1R6geFUwTaYU8vnMkAtD2N) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 4:11 |
 | 50 | [Let the Good Times Roll](https://open.spotify.com/track/7e5etB94Bx7fVbJtlgkhjM) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:48 |
 
-Snapshot ID: `MCw2Zjg3ODMxNGIxYmNhOGY5ZGRlNDkzYTA3MmFhYWNhZTYyMjgyYmQw`
+Snapshot ID: `MCxkYjEzYzU4OGMwY2MzY2Q2YjhlOGM4ZWU0MzQyMmNmOTk3OTEwYTE4`

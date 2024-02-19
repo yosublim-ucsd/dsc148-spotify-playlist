@@ -1,12 +1,12 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4050388,
+  "num_followers": 4050638,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDYzMTg3NTRiMWEyMGVmNjk0YzcwOGVkZTUyYWMwOGIwOWMyMWZi",
+  "snapshot_id": "MCwwYTc3ODA0ZTEzZjY2ZDA4OWQ3ZTNhNTJiOWYzMWJiM2QwMWI5NGVl",
   "tracks": [
     {
       "added_at": "2023-02-17 11:17:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 260776,
       "name": "Like I Want You",
       "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285935,
-      "name": "Love In The Dark",
-      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Serotonin Dreams",
         "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 168066,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285935,
+      "name": "Love In The Dark",
+      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Take Me Home (Expanded Edition)",
         "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
+      "duration_ms": 193080,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 286928,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -1071,6 +1039,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 286928,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 277506,
       "name": "Supercut",
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
         }
       ],
-      "duration_ms": 257720,
-      "name": "It Will Rain",
-      "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
+      "duration_ms": 246587,
+      "name": "jar of hearts",
+      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
       },
       "artists": [
         {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 246587,
-      "name": "jar of hearts",
-      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+      "duration_ms": 257720,
+      "name": "It Will Rain",
+      "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "All I Ask",
-      "url": "https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 203480,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "All I Ask",
+      "url": "https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "My Mind & Me",
-        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "My Mind & Me",
-      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Hannah Montana The Movie",
         "url": "https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 236066,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "My Mind & Me",
+        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "prom dress",
-      "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "prom dress",
+      "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "Blood Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "Unbroken",
         "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 250000,
       "name": "Turning Tables",
       "url": "https://open.spotify.com/track/4oy98QoABnGKpvapDkI525"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "Blood Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -3127,22 +3127,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Know-It-All (Deluxe)",
-        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "River Of Tears",
-      "url": "https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -3155,6 +3139,22 @@
       "duration_ms": 190642,
       "name": "Wait",
       "url": "https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Know-It-All (Deluxe)",
+        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "River Of Tears",
+      "url": "https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC"
     },
     {
       "added_at": "2023-02-17 11:17:00",

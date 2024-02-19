@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Emei.",
-  "num_followers": 284612,
+  "num_followers": 284629,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWMxMjg3ZTMzZDA5NDE3YWIyNDY2MmQ0MzIxZmRiOTBmNmJjMzQ2",
+  "snapshot_id": "MCwwZGQ0MzExYWMzY2QzZTcxNGRiNTU2NWYwY2UxZDVkNWQ2MTY5MjBj",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 220484,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 162020,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 220484,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "ENVY",
+        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 202753,
+      "name": "ENVY",
+      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "symphony (feat. JEY)",
         "url": "https://open.spotify.com/album/1mFibFEygJopmsvcmW9Wtj"
       },
@@ -1551,6 +1567,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "all of you",
+        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 158485,
+      "name": "all of you",
+      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Flashback feat. Daichi Yamamoto",
         "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
       },
@@ -1571,34 +1603,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "all of you",
-        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/6vzZymCJxleZ6bRSqACu0h"
       },
       "artists": [
         {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 158485,
-      "name": "all of you",
-      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "ENVY",
-        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
-      },
-      "artists": [
+          "name": "Koven Wei",
+          "url": "https://open.spotify.com/artist/2pkpqIb8x2VvL9NFeche19"
+        },
         {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          "name": "Ethan Low",
+          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
+        },
+        {
+          "name": "013",
+          "url": "https://open.spotify.com/artist/4ul2gxPPMEBI3WOotvUpKy"
         }
       ],
-      "duration_ms": 202753,
-      "name": "ENVY",
-      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
+      "duration_ms": 108140,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/7a2UmwAVHBHa9enFYVyzfm"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1639,26 +1663,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/6vzZymCJxleZ6bRSqACu0h"
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
       },
       "artists": [
         {
-          "name": "Koven Wei",
-          "url": "https://open.spotify.com/artist/2pkpqIb8x2VvL9NFeche19"
-        },
-        {
-          "name": "Ethan Low",
-          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
-        },
-        {
-          "name": "013",
-          "url": "https://open.spotify.com/artist/4ul2gxPPMEBI3WOotvUpKy"
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
         }
       ],
-      "duration_ms": 108140,
-      "name": "MIDNIGHT",
-      "url": "https://open.spotify.com/track/7a2UmwAVHBHa9enFYVyzfm"
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1831,22 +1847,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "2.0",
-      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "House on a Hill",
         "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
       },
@@ -1863,18 +1863,34 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
       },
       "artists": [
         {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
         }
       ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+      "duration_ms": 166941,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 194262,
+      "name": "Really Mean It",
+      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1907,22 +1923,6 @@
       "duration_ms": 196075,
       "name": "Leave With Me",
       "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "I Just Wanna Know",
-        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "I Just Wanna Know",
-      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2035,6 +2035,38 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Summer went and came around",
+        "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
+      },
+      "artists": [
+        {
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Summer went and came around",
+      "url": "https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "I Just Wanna Know",
+        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Bloomingtale",
         "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
       },
@@ -2047,22 +2079,6 @@
       "duration_ms": 208136,
       "name": "More & More",
       "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 194262,
-      "name": "Really Mean It",
-      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2087,22 +2103,6 @@
       "duration_ms": 208000,
       "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
       "url": "https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Summer went and came around",
-        "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
-      },
-      "artists": [
-        {
-          "name": "Kaz Moon",
-          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Summer went and came around",
-      "url": "https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2135,6 +2135,26 @@
       "duration_ms": 227538,
       "name": "sole outlet",
       "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "On Everything",
+        "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
+      },
+      "artists": [
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        },
+        {
+          "name": "Otomodatchi",
+          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "On Everything",
+      "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2207,38 +2227,34 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "On Everything",
-        "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
       },
       "artists": [
         {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
-        },
-        {
-          "name": "Otomodatchi",
-          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
         }
       ],
-      "duration_ms": 188373,
-      "name": "On Everything",
-      "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
+      "duration_ms": 158130,
+      "name": "Isn't It Obvious",
+      "url": "https://open.spotify.com/track/362K2bSyVFq3aMkDYkQsLd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Where'd The Time Go?",
-        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/7dpjceNDgV9U67hEfAkEKO"
       },
       "artists": [
         {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
         }
       ],
-      "duration_ms": 105266,
-      "name": "Where'd The Time Go?",
-      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
+      "duration_ms": 124371,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/1Hlb5As8d3o1wiWou14m2R"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2263,6 +2279,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Where'd The Time Go?",
+        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 105266,
+      "name": "Where'd The Time Go?",
+      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -2279,22 +2311,6 @@
       "duration_ms": 152058,
       "name": "Care (feat. Bakar)",
       "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "ANGEL",
-        "url": "https://open.spotify.com/album/7dpjceNDgV9U67hEfAkEKO"
-      },
-      "artists": [
-        {
-          "name": "GAVIN:D",
-          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
-        }
-      ],
-      "duration_ms": 124371,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/1Hlb5As8d3o1wiWou14m2R"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2431,6 +2447,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Like Me, Like Me",
+      "url": "https://open.spotify.com/track/6k5VC8NbW7JavW9H2kbml7"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Don't Know About The World",
         "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
       },
@@ -2447,22 +2479,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Unreal",
-        "url": "https://open.spotify.com/album/2IjTLiLnqonRQxxCqiO0pR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/61B4mVUvs1m3WvtIbOzHzp"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "OUT OF BODY",
         "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
       },
@@ -2475,22 +2491,6 @@
       "duration_ms": 127985,
       "name": "OUT OF BODY",
       "url": "https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 158130,
-      "name": "Isn't It Obvious",
-      "url": "https://open.spotify.com/track/362K2bSyVFq3aMkDYkQsLd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2531,6 +2531,22 @@
       "duration_ms": 160357,
       "name": "PRIMAL",
       "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/2IjTLiLnqonRQxxCqiO0pR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/61B4mVUvs1m3WvtIbOzHzp"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2583,22 +2599,6 @@
       "duration_ms": 220440,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Like Me, Like Me",
-      "url": "https://open.spotify.com/track/6k5VC8NbW7JavW9H2kbml7"
     }
   ],
   "unique_name": "Jasmine",

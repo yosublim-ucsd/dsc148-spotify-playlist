@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 1770059,
+  "2024-02-19": 1770130,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -3399,7 +3399,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 133333,
       "name": "ARABA",
       "url": "https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM"
@@ -4107,7 +4107,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 115846,
       "name": "Baby Eu Tava na Rua da \u00c1gua",
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
@@ -8317,6 +8317,24 @@
       "duration_ms": 195560,
       "name": "Chop (Nouvelle \u00c9cole)",
       "url": "https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW"
+    },
+    {
+      "album": {
+        "name": "Chor",
+        "url": "https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR"
+      },
+      "artists": [
+        {
+          "name": "Justh",
+          "url": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Chor",
+      "url": "https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT"
     },
     {
       "album": {
@@ -15180,6 +15198,24 @@
     },
     {
       "album": {
+        "name": "Get In With Me",
+        "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120792,
+      "name": "Get In With Me",
+      "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
+    },
+    {
+      "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
       },
@@ -17245,6 +17281,28 @@
       "duration_ms": 212312,
       "name": "Hi\u00e7 \u0130yi De\u011filim",
       "url": "https://open.spotify.com/track/2w5SV2BYwU4FVKBkFYlCU2"
+    },
+    {
+      "album": {
+        "name": "HMM",
+        "url": "https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi"
+      },
+      "artists": [
+        {
+          "name": "KhullarG",
+          "url": "https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i"
+        },
+        {
+          "name": "Bluish Music",
+          "url": "https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "HMM",
+      "url": "https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ"
     },
     {
       "album": {
@@ -23029,7 +23087,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
@@ -28227,6 +28285,36 @@
       "duration_ms": 315975,
       "name": "M\u00fcphem",
       "url": "https://open.spotify.com/track/4rH2IQ3tNg5clDOnzut7RV"
+    },
+    {
+      "album": {
+        "name": "M\u0142ody Manson",
+        "url": "https://open.spotify.com/album/1PmtNIQOURJS6g5IVgOQwl"
+      },
+      "artists": [
+        {
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Lucassi",
+          "url": "https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "M\u0142ody Manson",
+      "url": "https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X"
     },
     {
       "album": {
@@ -34615,7 +34703,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -43117,7 +43205,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -44709,7 +44797,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 130007,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/1vg6EoQwWva40Q8ZVgVNeG"

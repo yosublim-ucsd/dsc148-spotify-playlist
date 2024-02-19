@@ -1,12 +1,12 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 48468,
+  "num_followers": 49077,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmMyYmIyNzZiNmE0M2Q5ZjU4MDIxZWI4NzQ1NTE4NWIwMGM0YWZm",
+  "snapshot_id": "MCw4MTQxNzI3MGNmMDY4YWI3ZTM4NzRmYmE0NTFhYmMyMmU3MTk4NWQ5",
   "tracks": [
     {
       "added_at": "2023-11-10 05:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "Stay (I Missed You)",
-        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
-      },
-      "artists": [
-        {
-          "name": "Lisa Loeb",
-          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "Carla",
-        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
-      },
-      "artists": [
-        {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "B-A-B-Y",
-      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
         "name": "Breakthrough (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+        "name": "Carla",
+        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
         }
       ],
-      "duration_ms": 267033,
-      "name": "Gypsy - 2016 Remaster",
-      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
+      "duration_ms": 177000,
+      "name": "B-A-B-Y",
+      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 393640,
       "name": "At the River",
       "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 267033,
+      "name": "Gypsy - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
     },
     {
       "added_at": "2023-11-10 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 537456,
+  "num_followers": 537577,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODE0YmU0Y2M0Yzg4MWVlZGNmZjZhMGQ3NWVmZTg2YjhhMDE1YjM5",
+  "snapshot_id": "MCwxY2RlZTY5NTZlOGViZmRjY2MyOGJlMWNiMGIyMGM5YzY3YmM4MWUz",
   "tracks": [
     {
       "added_at": "2024-01-12 15:30:29",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Thrash Zone",
-        "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
-      },
-      "artists": [
-        {
-          "name": "D.R.I.",
-          "url": "https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Thrashard",
-      "url": "https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Moments Elsewhere",
         "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 174333,
       "name": "Collapse in the Key of Fireworks",
       "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Thrash Zone",
+        "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
+      },
+      "artists": [
+        {
+          "name": "D.R.I.",
+          "url": "https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Thrashard",
+      "url": "https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 261709,
-      "name": "Nightmare Logic",
-      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Agent Orange",
         "url": "https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 185013,
       "name": "Ausgebombt",
       "url": "https://open.spotify.com/track/2URuChhPo6T4Z2DTNrdegI"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 261709,
+      "name": "Nightmare Logic",
+      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Opening Fire: 2008-2014",
-        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Divine Apprehension",
-      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Handle With Care",
         "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 198960,
       "name": "Critical Mass",
       "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Opening Fire: 2008-2014",
+        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "Divine Apprehension",
+      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Purified by Fire",
-        "url": "https://open.spotify.com/album/3X36qaXZS5brpKUg1LPfBw"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Angels",
-          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
-        }
-      ],
-      "duration_ms": 285013,
-      "name": "Purified by Fire",
-      "url": "https://open.spotify.com/track/6zhXx6Shn5BgKjPjcvSXDU"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Ahi K\u0101",
         "url": "https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 373013,
       "name": "No Place for Disgrace",
       "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Purified by Fire",
+        "url": "https://open.spotify.com/album/3X36qaXZS5brpKUg1LPfBw"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Angels",
+          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
+        }
+      ],
+      "duration_ms": 285013,
+      "name": "Purified by Fire",
+      "url": "https://open.spotify.com/track/6zhXx6Shn5BgKjPjcvSXDU"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "State of Insurgency",
-        "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
+        "name": "Speed Between the Lines",
+        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
       },
       "artists": [
         {
-          "name": "HeXeN",
-          "url": "https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3"
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Knee Deep in the Dead",
-      "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
+      "duration_ms": 230560,
+      "name": "Give Me Leather",
+      "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"
     }
   ],
   "unique_name": "Thrashers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > it's a real\-life boogie and a real\-life hoedown 🐎
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,685 likes - 899 songs - 1 day 23 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,631 likes - 899 songs - 1 day 23 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 40 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 |
 | 41 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
 | 42 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
-| 43 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
+| 43 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
 | 44 | [London Bridge](https://open.spotify.com/track/7jRoWfRlLnGYEIEn4t4kbq) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:01 |
 | 45 | [History Of Man](https://open.spotify.com/track/7ijN634pExtKjNIm7vvvAa) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:28 |
 | 46 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 |
@@ -908,4 +908,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 898 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 899 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCxhZDI4M2EzY2Q3ZjZhOWE3MzI2ZGZjZjE1NmNmYjVlN2Y3ZGFiNTMw`
+Snapshot ID: `MCwyYzUyYzA1YjUxODFhZGEwN2M5NGY0M2ZiMjczOWFhZjk5ZmQyOTIx`

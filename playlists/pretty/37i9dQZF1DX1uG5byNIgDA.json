@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 219017,
+  "num_followers": 219016,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTAwMjRmZGY4NjgxYzdkMWE2NzYyNjhkNTI3NWQzNzJmMzkyNjMz",
+  "snapshot_id": "MCw3NmExNGQyMGYyY2YwNTA3YWMwZTgzNTA2Njk5MTEyNWFhZDMyNjc4",
   "tracks": [
     {
       "added_at": "2023-08-24 02:20:42",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Killin\u2019 Me Good",
-      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
         }
       ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "added_at": "2023-08-24 02:20:42",

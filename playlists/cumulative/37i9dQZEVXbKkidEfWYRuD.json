@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 175034,
       "name": "BBTEAM FREESTYLE",
       "url": "https://open.spotify.com/track/6e7hcO8NGEmL1Gd0PH1LVz"
@@ -10570,7 +10570,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 264569,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/3bDH7eIQ84QWdBeWwffUZD"
@@ -10628,7 +10628,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 225985,
       "name": "Psycho CEO",
       "url": "https://open.spotify.com/track/2dyAiC9k6s0mWnMSQRQJGd"
@@ -13452,7 +13452,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -17544,7 +17544,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 90947,
       "name": "\u0414\u0435\u0440\u044c\u043c\u043e",
       "url": "https://open.spotify.com/track/0MVVy6JqnmQHtxvDB860FJ"
@@ -17842,7 +17842,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 164210,
       "name": "\u0414\u043e\u043b\u043e\u043d\u0456",
       "url": "https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb"
@@ -18386,6 +18386,28 @@
       "duration_ms": 122482,
       "name": "\u0417\u0430\u0431\u0435\u0440\u0443",
       "url": "https://open.spotify.com/track/3pzr7iKQpV9QjLGcLcd2ic"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430\u0431\u0438\u0439",
+        "url": "https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM"
+      },
+      "artists": [
+        {
+          "name": "Wellboy",
+          "url": "https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz"
+        },
+        {
+          "name": "Parfeniuk",
+          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194457,
+      "name": "\u0417\u0430\u0431\u0438\u0439",
+      "url": "https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj"
     },
     {
       "album": {
@@ -22880,7 +22902,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"

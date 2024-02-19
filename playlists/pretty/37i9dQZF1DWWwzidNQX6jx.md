@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 
 > The songs rocked the 70s
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782,628 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,783,134 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 41 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:51 |
 | 42 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 43 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 |
-| 44 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
-| 45 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
+| 44 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
+| 45 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
 | 46 | [Reelin' In The Years](https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 4:37 |
 | 47 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 48 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 55 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
 | 56 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 57 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 |
-| 58 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:32 |
-| 59 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 |
+| 58 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 |
+| 59 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:32 |
 | 60 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
-| 61 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
+| 61 | [Changes \- 2015 Remaster](https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:37 |
 | 62 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 | 63 | [Lola \(2020 Stereo Remaster\)](https://open.spotify.com/track/4Tjs8b6jL1s18sjURJtswp) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It) | 4:01 |
 | 64 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 66 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 67 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 |
 | 68 | [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 |
-| 69 | [Changes \- 2015 Remaster](https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:37 |
+| 69 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
 | 70 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
 | 71 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 72 | [Doctor My Eyes \- 1997 Remaster](https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Next Voice You Hear \- The Best Of Jackson Browne](https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 99 | [Foreplay / Long Time](https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 7:47 |
 | 100 | [Carry on Wayward Son](https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Essential Kansas](https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ) | 5:22 |
 
-Snapshot ID: `MCwzZDlmZWRhMGZkNTg0ZWY0MjJlZGRjNGIzOTUzZGJjNWFjZWMzMTIz`
+Snapshot ID: `MCxjOTUzMjA2MTk5YjJmOGNiMDYxMGMxZGM1MDVlMmQ4MDdjNGI4MGE5`

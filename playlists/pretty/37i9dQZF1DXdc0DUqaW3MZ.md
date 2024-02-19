@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,421 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,520 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 50 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
 | 51 | [Sweating](https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Sweating](https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ) | 3:24 |
 | 52 | [People](https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [People](https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV) | 2:54 |
-| 53 | [We Are](https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ) | 4:15 |
-| 54 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
+| 53 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
+| 54 | [We Are](https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ) | 4:15 |
 | 55 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 |
 | 56 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 57 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [I Don't Wanna Lose You \- Edit](https://open.spotify.com/track/182XaJsxNfIeVXPAvBxHPp) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Olivia Louise](https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd) | [Girls FM](https://open.spotify.com/album/7clnPpJ3KkLh5GWwzNNWF8) | 3:14 |
 | 70 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
 
-Snapshot ID: `MCw0ODk1ZTQzNWI0MjIyMWQxMTYyMGYzZGJjM2MyOWQ2YTVmM2ZmYjU0`
+Snapshot ID: `MCw4MDE4YjFjOWM3ZGViZTIwNzlmZWY5ZGQ4NThjMGQ4N2MyMzMzZjI4`

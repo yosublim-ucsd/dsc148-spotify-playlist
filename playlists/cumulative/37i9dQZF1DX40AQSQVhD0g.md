@@ -4,7 +4,7 @@
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-223 songs - 13 hr 30 min
+224 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [La Peinada \(La Peinadita\)](https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Regalo](https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR) | 3:24 | 2022-02-14 | 2022-07-29 |
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-02-14 | 2022-07-13 |
 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 | 2022-07-19 |  |
-| [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 | 2022-02-14 |  |
+| [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 | 2022-02-14 | 2024-02-19 |
 | [La Vecinita](https://open.spotify.com/track/0qJWmorcTJIxCHdpX9xdMT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Pensando En Ti](https://open.spotify.com/album/7Ew5ubVqMA3lQq7nOqITok) | 2:36 | 2022-02-14 | 2022-07-28 |
 | [La Ventanita](https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Caribe](https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd) | 4:11 | 2022-02-14 | 2022-07-29 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/0wrMVjP7zS5fN7piwv5Gxq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Carnaval De Exitos](https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM) | 4:37 | 2022-02-14 | 2022-07-29 |
@@ -188,6 +188,7 @@
 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 | 2022-02-14 | 2022-07-08 |
 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2022-07-19 |  |
 | [Qué Vida la Mía](https://open.spotify.com/track/3T0OdyDjFtltn1nHH4j06U) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 2:51 | 2022-02-14 | 2022-07-29 |
+| [Quédate Bebé](https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Quédate Bebé](https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG) | 3:13 | 2024-02-16 |  |
 | [Sabor a Mí](https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:48 | 2022-02-14 |  |
 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 | 2022-07-19 | 2022-12-31 |
 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 | 2022-02-14 |  |

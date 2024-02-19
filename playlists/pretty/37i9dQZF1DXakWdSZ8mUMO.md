@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 
 > Você não para quando está cansado, só quando terminar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,781 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,774 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 66 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
 | 67 | [Alone In A Room](https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 4:05 |
 | 68 | [Bulletproof](https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:57 |
-| 69 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 |
-| 70 | [Inside the Fire](https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 3:51 |
+| 69 | [Inside the Fire](https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 3:51 |
+| 70 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 |
 | 71 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
 | 72 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 73 | [In Between](https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disgusting](https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV) | 3:33 |
-| 74 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
-| 75 | [I'm Broken](https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:24 |
+| 74 | [I'm Broken](https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:24 |
+| 75 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
 | 76 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 77 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
-| 78 | [You're Going Down](https://open.spotify.com/track/5omWAB5iNMHvbAfBSzkdu8) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Tri\-polar](https://open.spotify.com/album/17GBjeSa10SoUukS9lJCTv) | 3:07 |
-| 79 | [The Vengeful One](https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:12 |
+| 78 | [The Vengeful One](https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:12 |
+| 79 | [You're Going Down](https://open.spotify.com/track/5omWAB5iNMHvbAfBSzkdu8) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Tri\-polar](https://open.spotify.com/album/17GBjeSa10SoUukS9lJCTv) | 3:07 |
 | 80 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 |
 | 81 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 |
 | 82 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 97 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 98 | [Rusty Cage \- Remastered](https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 4:26 |
 | 99 | [Born For Greatness](https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
-| 100 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 |
+| 100 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
 
-Snapshot ID: `MCw2NWJjM2NkMDQ4YmU2ZWRiMjQ0MjllOGM1ZDUxZTViZTc1YjgyMTlh`
+Snapshot ID: `MCwyN2IwMTU1ZTFmMTU2ZTQ2NGJmMzI2NWYwY2FkZDA5YTRmNGVlZGY4`

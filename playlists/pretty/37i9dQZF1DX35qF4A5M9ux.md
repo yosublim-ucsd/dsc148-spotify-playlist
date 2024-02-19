@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,532 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,678 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 90 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
 | 91 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
 | 92 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
-| 93 | [Lo Quiero a Morir](https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Zayda](https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H) | 4:20 |
-| 94 | [Cuando Acaba el Placer](https://open.spotify.com/track/7rUmf9QMILaMOd0jKqS2vK) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Más Romántico\- Salsa en la Calle](https://open.spotify.com/album/6vgEHOeYvlDJNEM8GzsMt5) | 4:28 |
+| 93 | [Cuando Acaba el Placer](https://open.spotify.com/track/7rUmf9QMILaMOd0jKqS2vK) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Más Romántico\- Salsa en la Calle](https://open.spotify.com/album/6vgEHOeYvlDJNEM8GzsMt5) | 4:28 |
+| 94 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
 | 95 | [Vivir Sin Ella](https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:12 |
-| 96 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
-| 97 | [Se Me Nota](https://open.spotify.com/track/2ydhtOdJdUjzPZRfNTZKnb) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 4:39 |
-| 98 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
-| 99 | [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 |
-| 100 | [No Quedó Ni el Gato](https://open.spotify.com/track/65DzY5Z3IE6BYprjXGu3Fu) | [Zaperoko](https://open.spotify.com/artist/2YYb9XAYl7ePSPIvQ3hOL4) | [Subway Salsa: The Montuno Records Story](https://open.spotify.com/album/1IsFd5MMFx1nWaRuEm54YL) | 6:08 |
+| 96 | [Se Me Nota](https://open.spotify.com/track/2ydhtOdJdUjzPZRfNTZKnb) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 4:39 |
+| 97 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
+| 98 | [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 |
+| 99 | [No Quedó Ni el Gato](https://open.spotify.com/track/65DzY5Z3IE6BYprjXGu3Fu) | [Zaperoko](https://open.spotify.com/artist/2YYb9XAYl7ePSPIvQ3hOL4) | [Subway Salsa: The Montuno Records Story](https://open.spotify.com/album/1IsFd5MMFx1nWaRuEm54YL) | 6:08 |
+| 100 | [Amigo Cuídala](https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Problemas de Ciudad](https://open.spotify.com/album/3qPlXvi1hQfoJc9WZx6JXQ) | 4:31 |
 
-Snapshot ID: `MCw4YWQzY2RhYmQzZWYyYWUwZDA2NDVkZmRkZDNhNzkzODZhZDQyYzhk`
+Snapshot ID: `MCxhMWI0MGQ4ZGU0YjcxMmVmZDgyMjYxNmE0OWUzZWYxOGY2MTdlNmY0`

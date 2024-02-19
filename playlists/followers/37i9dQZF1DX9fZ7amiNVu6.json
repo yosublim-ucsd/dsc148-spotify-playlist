@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 392817,
+  "2024-02-19": 392871,
   "date_first_scraped": "2022-06-02",
   "description": "Kick back and enjoy these classic summer songs.",
   "name": "Feel Good Summer",
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
@@ -2665,7 +2665,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 171360,
       "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
       "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"

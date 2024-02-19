@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 20435,
+  "num_followers": 20443,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0",
+  "snapshot_id": "MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -415,6 +415,26 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Canciones de Agust\u00edn Lara, Vol. 1",
+        "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
+      },
+      "artists": [
+        {
+          "name": "Lucho Gatica",
+          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 182804,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Agustin Lara Y Sus Interpretes Vol. II",
         "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 183000,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/5EFW2HziZlnbTJfshcpxo3"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Canciones de Agust\u00edn Lara, Vol. 1",
-        "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
-      },
-      "artists": [
-        {
-          "name": "Lucho Gatica",
-          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 182804,
-      "name": "Mar\u00eda Bonita",
-      "url": "https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1"
         }
       ],
-      "duration_ms": 122720,
-      "name": "Escarcha",
-      "url": "https://open.spotify.com/track/2Xdmm2Sm4Iy6CHXEj5qwP7"
+      "duration_ms": 169520,
+      "name": "M\u00eda Nomas",
+      "url": "https://open.spotify.com/track/0V3DjnQpumvPGsg6U5hNuF"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1"
         }
       ],
-      "duration_ms": 169520,
-      "name": "M\u00eda Nomas",
-      "url": "https://open.spotify.com/track/0V3DjnQpumvPGsg6U5hNuF"
+      "duration_ms": 122720,
+      "name": "Escarcha",
+      "url": "https://open.spotify.com/track/2Xdmm2Sm4Iy6CHXEj5qwP7"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Interpreta a Agustin Lara",
-        "url": "https://open.spotify.com/album/63EUaSjZ1WBetcV6vVYd5A"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 206654,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/3C2gEY4X6APNQ9IbZnJrCK"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 309678,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Interpreta a Agustin Lara",
+        "url": "https://open.spotify.com/album/63EUaSjZ1WBetcV6vVYd5A"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "duration_ms": 206654,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/3C2gEY4X6APNQ9IbZnJrCK"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "COLECCION Volumen 5",
-        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Mi Novia",
-      "url": "https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
         "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
       },
@@ -1083,22 +1067,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Lo Esencial de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx"
-      },
-      "artists": [
-        {
-          "name": "Hugo Avenda\u00f1o",
-          "url": "https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Ya Me Voy",
-      "url": "https://open.spotify.com/track/0yA64SEitaUPFmrcRcUaRe"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Coleccion Original RCA",
         "url": "https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn"
       },
@@ -1111,6 +1079,38 @@
       "duration_ms": 252880,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "COLECCION Volumen 5",
+        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Mi Novia",
+      "url": "https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Lo Esencial de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx"
+      },
+      "artists": [
+        {
+          "name": "Hugo Avenda\u00f1o",
+          "url": "https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Ya Me Voy",
+      "url": "https://open.spotify.com/track/0yA64SEitaUPFmrcRcUaRe"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Lo Esencial de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx"
-      },
-      "artists": [
-        {
-          "name": "Hugo Avenda\u00f1o",
-          "url": "https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Pr\u00edncipe Vals",
-      "url": "https://open.spotify.com/track/3KFSfOMYV1eAR2jLascuRo"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Agustin Lara Y Sus Interpretes Vol. II",
         "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
@@ -1259,22 +1243,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "M\u00fasica De Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3aTeNQz97em0DeRxg7r05k"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/7DSS39cTri1kpLLOLcIoaz"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Un Siglo... De Recuerdos Con El Mas Grande Trovador Mexicano Guty Cardenas",
         "url": "https://open.spotify.com/album/4o0wE1QwrpQmb5ndTQl0nW"
       },
@@ -1291,18 +1259,34 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "David Reynoso y la M\u00fasica de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL"
+        "name": "Lo Esencial de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx"
       },
       "artists": [
         {
-          "name": "David Reynoso",
-          "url": "https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s"
+          "name": "Hugo Avenda\u00f1o",
+          "url": "https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq"
         }
       ],
-      "duration_ms": 138293,
-      "name": "Concha Nacar",
-      "url": "https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc"
+      "duration_ms": 150000,
+      "name": "Pr\u00edncipe Vals",
+      "url": "https://open.spotify.com/track/3KFSfOMYV1eAR2jLascuRo"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "M\u00fasica De Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3aTeNQz97em0DeRxg7r05k"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/7DSS39cTri1kpLLOLcIoaz"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1319,6 +1303,22 @@
       "duration_ms": 186106,
       "name": "Cuerdas de Mi Guitarra",
       "url": "https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "David Reynoso y la M\u00fasica de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL"
+      },
+      "artists": [
+        {
+          "name": "David Reynoso",
+          "url": "https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s"
+        }
+      ],
+      "duration_ms": 138293,
+      "name": "Concha Nacar",
+      "url": "https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc"
     },
     {
       "added_at": "2021-05-07 15:30:08",

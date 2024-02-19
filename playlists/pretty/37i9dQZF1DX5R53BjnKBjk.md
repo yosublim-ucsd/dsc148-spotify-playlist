@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,144 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,140 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 15 | [Você Sabe](https://open.spotify.com/track/5KhLRmnp5eEJkfaU783YEc) | [TEGÊ](https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F) | [Você Sabe](https://open.spotify.com/album/73EzZvEoh8UVPo1Bn2xaG6) | 2:35 |
 | 16 | [Caramelo](https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Caramelo](https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7) | 3:28 |
 | 17 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 |
-| 18 | [Do Meu Lado](https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Do Meu Lado](https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX) | 2:31 |
-| 19 | [Que Seja](https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG) | [morgana](https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy) | [Que Seja](https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf) | 4:38 |
+| 18 | [Que Seja](https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG) | [morgana](https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy) | [Que Seja](https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf) | 4:38 |
+| 19 | [Do Meu Lado](https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Do Meu Lado](https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX) | 2:31 |
 | 20 | [Corro Atrás](https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk) | [Corro Atrás](https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp) | 3:45 |
 | 21 | [Boca Aberta](https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Boca Aberta](https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl) | 3:20 |
 | 22 | [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 25 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 |
 | 26 | [Canal Laranja](https://open.spotify.com/track/4MxIs8Uf9ca58TZaU1Afpq) | [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe), [meot](https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Canal Laranja](https://open.spotify.com/album/02C3OtPh10TYHuXsV8Qr2n) | 5:00 |
 | 27 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
-| 28 | [Fora de Série](https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R) | [Mari Blue](https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb) | [Fora de Série](https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30) | 3:18 |
-| 29 | [Oxi \(Dio Mio!\)](https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Oxi \(Dio Mio!\)](https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6) | 2:40 |
+| 28 | [Oxi \(Dio Mio!\)](https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Oxi \(Dio Mio!\)](https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6) | 2:40 |
+| 29 | [Fora de Série](https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R) | [Mari Blue](https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb) | [Fora de Série](https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30) | 3:18 |
 | 30 | [tudo que eu faço](https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3) | [Rô](https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ) | [tudo que eu faço](https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219) | 2:23 |
 | 31 | [Talante](https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR) | [Dani\-Vie](https://open.spotify.com/artist/2RrEvDsnA3z244bN2Z32iM), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Minha Cara](https://open.spotify.com/album/7asVGLUfBi2Fxwb818FCzs) | 3:19 |
 | 32 | [bem vi](https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7) | [bela](https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD) | [bem vi](https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a) | 3:17 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 74 | [Queda livre](https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Queda livre](https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp) | 3:18 |
 | 75 | [Alívio](https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Alívio](https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb) | 3:11 |
 | 76 | [É preciso Calma](https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:35 |
-| 77 | [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 |
-| 78 | [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 |
+| 77 | [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 |
+| 78 | [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 |
 | 79 | [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 |
 | 80 | [Amigo](https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA) | [Junim](https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft) | [Amigo](https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc) | 2:35 |
 
-Snapshot ID: `MCxkYTJjZjEyN2MwYjAyOTc0ZjA1MDU0MjM0YWVhYjUzMTY1NjRjNDA0`
+Snapshot ID: `MCw1OWQzMDYwNjQ3NjY2OTg1ODYxMWUyMTQxM2I0OGI1OTVmNjc4ZWVm`

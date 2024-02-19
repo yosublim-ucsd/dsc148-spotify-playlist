@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,587 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,597 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 23 | [Alquimia](https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Centésimo Humano](https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O) | 3:26 |
 | 24 | [Un Eterno Loop Sin Fin](https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Un Eterno Loop Sin Fin](https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne) | 3:49 |
 | 25 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
-| 26 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
-| 27 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
+| 26 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
+| 27 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
 | 28 | [Algún Contexto](https://open.spotify.com/track/3CYJKHDRMB1gk3AZPluwe6) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/1YNwE2V9vCmI66drR0swHr) | 2:54 |
 | 29 | [Hacia la Noche](https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:55 |
 | 30 | [Perdedor](https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl) | [Consulado Popular](https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR) | [Perdedor](https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB) | 3:11 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 53 | [Salir Ileso](https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:23 |
 | 54 | [Pimpinella](https://open.spotify.com/track/15wAbJ9CQRwQ1qjxaObWCk) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Francesca Collavini](https://open.spotify.com/artist/5v076gGHAwFFq2uAVPlHzg) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 4:13 |
 | 55 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
-| 56 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
-| 57 | [El Viejo](https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 2:55 |
-| 58 | [Voy a olvidarme de mi](https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M), [Andrés Felipe Muñoz Lara](https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7), [Sebastián Mejía](https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS), [Jorge Iván Botero](https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO), [Julio Osorio](https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB) | [Covers](https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq) | 3:33 |
+| 56 | [Voy a olvidarme de mi](https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M), [Andrés Felipe Muñoz Lara](https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7), [Sebastián Mejía](https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS), [Jorge Iván Botero](https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO), [Julio Osorio](https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB) | [Covers](https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq) | 3:33 |
+| 57 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
+| 58 | [El Viejo](https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 2:55 |
 | 59 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
 | 60 | [Sangre de Prófugo](https://open.spotify.com/track/7qSncGfwAdAyTQBVYZeFGS) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/61o65DJK9QHOg8LWIJ279k) | 3:31 |
 
-Snapshot ID: `MCwxNzI0ZTUwYTgzYzZiYjM5Y2FmYzUxOTIzZDE4ODFmNDNjN2NkNzFl`
+Snapshot ID: `MCw5MGFjMWY5MDAwODMwMjQ0OGM2NDgwYTA4OTVhYWMyMDY5NmNhOGRk`

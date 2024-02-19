@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-42 songs - 2 hr 18 min
+44 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,9 @@
 | [Dumb Thingz](https://open.spotify.com/track/5RcMLdjofr40JUqei7d5qf) | [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 2:48 | 2021-12-27 |  |
 | [Freedom Rings](https://open.spotify.com/track/3f9eR0IZrktbCSqPfxM9jr) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Freedom Rings](https://open.spotify.com/album/5yK7v9cHza2xr079MbaOCR) | 3:46 | 2022-10-23 | 2023-12-25 |
 | [Freedom Rings](https://open.spotify.com/track/7eVrZuqpbbaFnZoT97dOBn) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Freedom Rings](https://open.spotify.com/album/740GtdPevTeyubYLD00n4K) | 3:46 | 2023-12-24 |  |
+| [Greatest Love Story Never Told](https://open.spotify.com/track/4FAs3OblD5UR4gKdpwcprV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:07 | 2024-02-18 |  |
 | [High Heels](https://open.spotify.com/track/2NwS0Ki7W63Ls4GEMxPP8T) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Sy'rai](https://open.spotify.com/artist/1k5wFphNsHxcR3Q3FJj6sI) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 2:38 | 2021-12-27 |  |
+| [Hummingbird](https://open.spotify.com/track/1L5YOGPAhIoSoj93pEYnXF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 2:45 | 2024-02-18 |  |
 | [KEYS TO THE KINGDOM](https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:18 | 2021-12-27 |  |
 | [Lonely](https://open.spotify.com/track/1DkdUiBSkgXCHBeR6YOt51) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [Lonely](https://open.spotify.com/album/4a5e8AREAH4gVfVTNrbgLE) | 2:38 | 2021-12-27 |  |
 | [Love Again](https://open.spotify.com/track/4zxcKfH4FcsMz3YitP2gG0) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:34 | 2021-12-27 |  |

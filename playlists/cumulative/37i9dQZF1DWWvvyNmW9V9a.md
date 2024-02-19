@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> tfw only one of you reads the dress code
+> tfw only one of you reads the dress code // cover: Timothée Chalamet and Zendaya
 
 1,297 songs - 2 day 19 hr 58 min
 

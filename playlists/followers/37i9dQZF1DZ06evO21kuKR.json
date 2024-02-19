@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 84261,
+  "2024-02-19": 84282,
   "date_first_scraped": "2022-10-29",
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
   "name": "This Is Moneybagg Yo",
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 162809,
       "name": "Relentless Again",
       "url": "https://open.spotify.com/track/6uWaErhSQM176jluMQCuD7"
@@ -1895,6 +1895,28 @@
       "duration_ms": 185213,
       "name": "Trust Nothing (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
+    },
+    {
+      "album": {
+        "name": "Purple Heart",
+        "url": "https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165092,
+      "name": "Turnt",
+      "url": "https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R"
     },
     {
       "album": {

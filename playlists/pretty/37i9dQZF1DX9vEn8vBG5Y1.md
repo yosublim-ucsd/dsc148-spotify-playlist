@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 
 > The essential pop rock songs from the 2000s\. Cover: Kelly Clarkson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,876 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,966 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 7 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 8 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
 | 9 | [Snow \(Hey Oh\)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:34 |
-| 10 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
+| 10 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
 | 11 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
-| 12 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 13 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
+| 12 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
+| 13 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 14 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
 | 15 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 16 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 50 | [My Life Would Suck Without You](https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:31 |
 | 51 | [Unwell](https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [More Than You Think You Are](https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8) | 3:48 |
 | 52 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 |
-| 53 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
-| 54 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
+| 53 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
+| 54 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
 | 55 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 |
 | 56 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 57 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 67 | [Have A Nice Day](https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Have A Nice Day](https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P) | 3:49 |
 | 68 | [I'm A Believer \- Radio Edit](https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH) | 3:03 |
 | 69 | [It's My Life](https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 3:45 |
-| 70 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
-| 71 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
-| 72 | [Flavor Of The Weak](https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [American Hi\-Fi](https://open.spotify.com/album/418rqqXvvFf4XXlU2cQWck) | 3:08 |
+| 70 | [Flavor Of The Weak](https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [American Hi\-Fi](https://open.spotify.com/album/418rqqXvvFf4XXlU2cQWck) | 3:08 |
+| 71 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
+| 72 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
 | 73 | [No Such Thing](https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 3:51 |
 | 74 | [Behind These Hazel Eyes](https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:18 |
 | 75 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 87 | [Wonderful](https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Songs From An American Movie: Learning How To Smile](https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF) | 4:40 |
 | 88 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
 | 89 | [Calling All Angels](https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [My Private Nation](https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1) | 4:02 |
-| 90 | [Imitation Of Life](https://open.spotify.com/track/32kmXl5F8I3XDVKNfwwM4J) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Reveal](https://open.spotify.com/album/43goi7G5yXOoI7bLaowtpy) | 3:56 |
-| 91 | [Shut Your Eyes](https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 3:17 |
+| 90 | [Shut Your Eyes](https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 3:17 |
+| 91 | [Imitation Of Life](https://open.spotify.com/track/32kmXl5F8I3XDVKNfwwM4J) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Reveal](https://open.spotify.com/album/43goi7G5yXOoI7bLaowtpy) | 3:56 |
 | 92 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
 | 93 | [Little Wonders](https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Little Wonders](https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN) | 3:44 |
 | 94 | [Only The Young](https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 99 | [Make This Go On Forever](https://open.spotify.com/track/33Hgpos7EfwgEQOLrF8U30) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 5:47 |
 | 100 | [Life After You](https://open.spotify.com/track/70NGpcNvhI2hqonWNAETIu) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 3:27 |
 
-Snapshot ID: `MCw2OGYwYzU4NmQ3YjNjZWYwYzU5NWE2NTUzZDQyOWVhMDM5M2U3ODU2`
+Snapshot ID: `MCw4MTJhNDVlMzVhNTZhOTUzYjdlOGFhMzYwMjE4YmRjOGE5M2JjMzEw`

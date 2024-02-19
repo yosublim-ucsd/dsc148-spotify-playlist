@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Waxahatchee ",
-  "num_followers": 588654,
+  "num_followers": 588647,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmE0MzZmZTI4YjRmMmJmNWMyNGI1ZTVmNDYzN2IyNTY4Njg2ZWE3",
+  "snapshot_id": "MCw0YWE5MDJkODlhOWZhMDFiMWYzZGUzZmI4MWNmMDZjNjA0MTAxZjJl",
   "tracks": [
     {
       "added_at": "2024-02-13 18:24:03",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 303973,
       "name": "Roads",
       "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
+        "name": "Hold Space For Me",
+        "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "Ne Me Quitte Pas (Don't Leave Me)",
+      "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
-        "name": "Hold Space For Me",
-        "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "Ne Me Quitte Pas (Don't Leave Me)",
-      "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
-        "name": "What's Love (feat. MUNA)",
-        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "What's Love (feat. MUNA)",
-      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
         "name": "Ring of Past",
         "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 260398,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "What's Love (feat. MUNA)",
+        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "What's Love (feat. MUNA)",
+      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
     },
     {
       "added_at": "2024-02-13 18:24:03",

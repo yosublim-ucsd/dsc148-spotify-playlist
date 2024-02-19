@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 65481,
+  "2024-02-19": 65518,
   "date_first_scraped": "2021-12-28",
   "description": "Trending dance hits in India. Cover: Karan Aujla & Tiesto",
   "name": "mint India",
@@ -1085,6 +1085,28 @@
       "duration_ms": 84012,
       "name": "Dillagi",
       "url": "https://open.spotify.com/track/3kA53abqN88SJ06rXMd3np"
+    },
+    {
+      "album": {
+        "name": "Dola re Dola",
+        "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Dola re Dola",
+      "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
     },
     {
       "album": {
@@ -2563,7 +2585,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 150000,
       "name": "Love & Lies",
       "url": "https://open.spotify.com/track/7y0hZYQN2xad34bW9tIVsc"
@@ -3087,7 +3109,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 157000,
       "name": "Naagin",
       "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
@@ -3993,6 +4015,24 @@
       "duration_ms": 160871,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q"
+    },
+    {
+      "album": {
+        "name": "Mudra 2",
+        "url": "https://open.spotify.com/album/5cAOUQrYPMiwte6QZqYyWI"
+      },
+      "artists": [
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150391,
+      "name": "Saiyaan",
+      "url": "https://open.spotify.com/track/5tvugIiSGeRfuGygvD0Lob"
     },
     {
       "album": {

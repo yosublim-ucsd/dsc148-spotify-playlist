@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 177857,
+  "num_followers": 177960,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGJiMDEyNTg5NWRiYTdhZWI2N2FmNWVhMjdlNjAzZjZhODhkOTNh",
+  "snapshot_id": "MCxjYzhlNDFjNWE2NjQ5ZTk2NzE0MTI3MmUwOGQwYjhkOWJmNDA5YjMz",
   "tracks": [
     {
       "added_at": "2024-02-17 07:44:08",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Khedni Habibi",
-        "url": "https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p"
+        "name": "Hekm El Alb",
+        "url": "https://open.spotify.com/album/2FA8ZbAi3WezUq5I7fvmgT"
       },
       "artists": [
         {
-          "name": "Majida El Roumi",
-          "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS"
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
         }
       ],
-      "duration_ms": 303906,
-      "name": "Matrahak Bi Albi",
-      "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp"
+      "duration_ms": 236066,
+      "name": "Hekm El Alb",
+      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Hekm El Alb",
-        "url": "https://open.spotify.com/album/2FA8ZbAi3WezUq5I7fvmgT"
+        "name": "Khedni Habibi",
+        "url": "https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p"
       },
       "artists": [
         {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+          "name": "Majida El Roumi",
+          "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS"
         }
       ],
-      "duration_ms": 236066,
-      "name": "Hekm El Alb",
-      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+      "duration_ms": 303906,
+      "name": "Matrahak Bi Albi",
+      "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Poco a Poco",
-        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
-      },
-      "artists": [
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 235026,
       "name": "Sucre",
       "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
+      },
+      "artists": [
+        {
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Bahwak",
-        "url": "https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 198123,
-      "name": "Bahwak",
-      "url": "https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
         "name": "Hobb W Mkattar",
         "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 212767,
       "name": "Weilak Acoustik",
       "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
+        "name": "Bahwak",
+        "url": "https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 198123,
+      "name": "Bahwak",
+      "url": "https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
+        "name": "Falaytaka Tahlou",
+        "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Falaytaka Tahlou",
+      "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
         "name": "Ll Abad",
         "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Falaytaka Tahlou",
-        "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
+        "name": "Kaddabeen",
+        "url": "https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt"
       },
       "artists": [
         {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Falaytaka Tahlou",
-      "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
+      "duration_ms": 204444,
+      "name": "Kaddabeen",
+      "url": "https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Caf\u00e9 Sessions",
-        "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 232456,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 274363,
       "name": "Walhani",
       "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
+        "name": "Caf\u00e9 Sessions",
+        "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 232456,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -1647,46 +1663,18 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Kaddabeen",
-        "url": "https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt"
+        "name": "Ya Ashikata Al Wardi",
+        "url": "https://open.spotify.com/album/19UIdLolCgvbCkZrSsofqc"
       },
       "artists": [
         {
-          "name": "Abu",
-          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+          "name": "Samer Doumet",
+          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Kaddabeen",
-      "url": "https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
-        "name": "Ombre de mon amant",
-        "url": "https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1"
-      },
-      "artists": [
-        {
-          "name": "Constantijn Huygens",
-          "url": "https://open.spotify.com/artist/6NrcSW9QWeCLVtC5xJDoVW"
-        },
-        {
-          "name": "Rima Khcheich",
-          "url": "https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y"
-        },
-        {
-          "name": "Maarten Ornstein",
-          "url": "https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl"
-        },
-        {
-          "name": "Mike Fentross",
-          "url": "https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH"
-        }
-      ],
-      "duration_ms": 367880,
-      "name": "Que ferons nous",
-      "url": "https://open.spotify.com/track/3TcPJvkqdgPezRa5jvJ7BO"
+      "duration_ms": 112744,
+      "name": "Ya Ashikata Al Wardi",
+      "url": "https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI"
     }
   ],
   "unique_name": "Arabic Coffee",

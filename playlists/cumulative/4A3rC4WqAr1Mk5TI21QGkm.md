@@ -4,7 +4,7 @@
 
 > 
 
-230 songs - 13 hr 17 min
+232 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:18 | 2022-09-07 |  |
 | [clinging to life \- Remix](https://open.spotify.com/track/1NwgYz7gqYqqUiCfUElDxT) | [Stoopa](https://open.spotify.com/artist/1Dvz7bquj2cSDyEUz1C8hx), [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [clinging to life \(Remix\)](https://open.spotify.com/album/4CdslQFmOOcQrqnQUXwiaZ) | 1:20 | 2022-06-01 |  |
 | [Closing The Curtain](https://open.spotify.com/track/1fQZkyP0AOvcxMFJlX7S40) | [LandonBeck](https://open.spotify.com/artist/4uX3SiOHlhhLYJ6QGd2o48), [Ancwrld](https://open.spotify.com/artist/33WdAIKrg37GmLRPEvoMQ1), [AstralMadeIt](https://open.spotify.com/artist/5nJX1iTiut5fEvwJUtDQPR) | [Closing The Curtain](https://open.spotify.com/album/0ZKBTmvAFmH7g1gaWlmZUA) | 2:31 | 2023-10-17 |  |
+| [Cocaine Sunday](https://open.spotify.com/track/5HzrX4aKVfb1NQCsaqf6R0) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Sensitive G](https://open.spotify.com/album/2nzPJxgiC7qfdYBBfJiHfj) | 2:48 | 2024-02-18 |  |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-05-25 |  |
 | [Copacabana \(At the Copa\) \- 1993 Remix](https://open.spotify.com/track/50bAlhMKXFWtLGO8OvTLm1) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 4:03 | 2023-10-14 |  |
 | [Crimewave](https://open.spotify.com/track/3yQFmN8A5S8Kf1nUJuvb01) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/5nM3cUPxqg7iqjaoyeCWtN) | 4:18 | 2020-03-08 |  |
@@ -163,6 +164,7 @@
 | [Olsun İstemezdim](https://open.spotify.com/track/4zhGxMXrSa1p5mfGPZMiCl) | [Lin Pesto](https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo), [Mei Wu](https://open.spotify.com/artist/6OxZ4gujZ3zGJwCIR60Td9) | [SON](https://open.spotify.com/album/6mtl5HTLK6lK9V5Jzu4g1b) | 3:55 | 2021-12-12 |  |
 | [On the Level](https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:47 | 2021-11-20 |  |
 | [ON TOP](https://open.spotify.com/track/72j1jY006wieT3AdwLdLFl) | [The Girl Next Door](https://open.spotify.com/artist/08BukEzAIBpuXFfEzb7o9U), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [ON TOP](https://open.spotify.com/album/3cZtV6uATITYcFMAtgNpzB) | 2:11 | 2021-07-02 |  |
+| [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2024-02-18 |  |
 | [paranoia](https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/74Mf6OAdhGDZWegLrJdYh1) | 1:57 | 2023-06-01 |  |
 | [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 6:27 | 2023-11-08 |  |
 | [Perverted](https://open.spotify.com/track/0L7Gl1yCKKEkKNxvCOlwij) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sick Girl](https://open.spotify.com/album/2OAKDrIMeYUDGj6LxIEu4O) | 3:08 | 2021-12-18 |  |

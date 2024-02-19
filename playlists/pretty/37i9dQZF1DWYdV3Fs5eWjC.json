@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
-  "num_followers": 76373,
+  "num_followers": 76384,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTcxMWRlYTU5YzFkMTYxM2U5ODZjOGJmYjg5YmEwMWJlODE5YWIz",
+  "snapshot_id": "MCxlMGJmN2UzMGI4OTdmNGQ5M2JjM2QwOGRlNDBjODM2OTFhNzk0MTRm",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
-        "name": "SULA",
-        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
@@ -859,6 +843,22 @@
       "duration_ms": 160909,
       "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "SULA",
+        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     }
   ],
   "unique_name": "Black, Queer, & Proud",

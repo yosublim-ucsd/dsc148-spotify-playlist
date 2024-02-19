@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Tyga
 
-695 songs - 1 day 8 hr 16 min
+696 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Dyin bout it](https://open.spotify.com/track/4Kb3VdzjlpDcRBHyCA5zFE) | [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA) | [Dyin bout it](https://open.spotify.com/album/1Bg5sWhYV3cglPyjAjzUG6) | 2:23 | 2023-12-08 |  |
 | [EAST POINT PRAYER](https://open.spotify.com/track/0mTWyEt0taYEFpUfAyjqmf) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:37 | 2022-04-08 | 2022-07-16 |
 | [Eastside \(with Kal Banx\)](https://open.spotify.com/track/6v5zJME9hOIkxQgd3v18Yj) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Eastside \(with Kal Banx\)](https://open.spotify.com/album/0yk03fA2es65VDIcd5NSXe) | 2:12 | 2023-06-30 | 2023-09-16 |
-| [Eat It Up](https://open.spotify.com/track/1LYJJ6e8Zj8B2Wx5WmAohe) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/5ByZm1j56WZQzHNGY9Duaa) | 2:09 | 2023-10-13 |  |
+| [Eat It Up](https://open.spotify.com/track/3J37NYIbWSdZzx3AEzK7Rj) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [King of Ratchet](https://open.spotify.com/album/1Bu3sTcDZbHGZNWeSwOXUx) | 2:08 | 2024-02-17 |  |
+| [Eat It Up](https://open.spotify.com/track/1LYJJ6e8Zj8B2Wx5WmAohe) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/5ByZm1j56WZQzHNGY9Duaa) | 2:09 | 2023-10-13 | 2024-02-19 |
 | [Eat It Up](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 | 2023-06-02 | 2023-10-16 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-01-14 | 2022-04-16 |
 | [Elon](https://open.spotify.com/track/49gRLFjmdkS6Cip8V3MrMN) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI) | [Elon](https://open.spotify.com/album/44Hk4tGww4UmX2BSEC6W39) | 2:57 | 2022-08-26 | 2022-09-24 |

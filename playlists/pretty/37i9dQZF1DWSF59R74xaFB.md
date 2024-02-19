@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 
 > El amor no se escucha, se siente...
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,228 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,289 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 23 | [El Correcto](https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Correcto](https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH) | 2:48 |
 | 24 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
 | 25 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
-| 26 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 26 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 27 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 |
 | 28 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
 | 29 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 51 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
 | 52 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 |
 | 53 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 |
-| 54 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
-| 55 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
+| 54 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
+| 55 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
 | 56 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 57 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
 | 58 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 89 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
 | 90 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:14 |
 | 91 | [Tocando Fondo](https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 4:06 |
-| 92 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
+| 92 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 |
 | 93 | [Bajo La Mesa](https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Bajo La Mesa](https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0) | 2:37 |
-| 94 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 |
+| 94 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
 | 95 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
-| 96 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
-| 97 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
+| 96 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
+| 97 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
 | 98 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
 | 99 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 |
 | 100 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 |
 
-Snapshot ID: `MCw3NjhmOTA0MjhjN2E2NDk2OGY0MjRmZDIyMzA2YjRmYmI5ZjhiNWZk`
+Snapshot ID: `MCxlN2MxZDBjZjc1NWRiNGM0ZDVkNTExOTIwY2Q2ZDRlOTQyODc0MmZm`

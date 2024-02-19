@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,907 likes - 110 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,991 likes - 110 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 9 | [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5GK1GYXH16RdfmltogHhAk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:33 |
 | 10 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 |
 | 11 | [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 |
-| 12 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
-| 13 | [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 |
+| 12 | [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 |
+| 13 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 | 14 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 15 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
 | 16 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 72 | [Fortunate Son](https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Recycled Recipes](https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb) | 2:40 |
 | 73 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |
 | 74 | [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 |
-| 75 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 |
-| 76 | [You Never Can Tell](https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt) | 3:05 |
+| 75 | [You Never Can Tell](https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt) | 3:05 |
+| 76 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 |
 | 77 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 78 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 |
 | 79 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Twelve\-Thirty \(Young Girls Are Coming To The Canyon\) \(feat\. Susanna Hoffs, Chris Stills & Sheryl Crow\)](https://open.spotify.com/track/19Hwwg9WvG4jQaMtpOUkRI) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Folkocracy](https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2) | 3:42 |
 | 110 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
 
-Snapshot ID: `MCxmZmNlMTE2ODY4YTcxODZkZTA5OGQ2ZTBiZjU5ZDEyNTM0NDMwZWMy`
+Snapshot ID: `MCw5MTRiNTJjZDQyNmJlOGM3N2ZjZjhkZGUzYzExOGI1YWRhZTE2YzJk`

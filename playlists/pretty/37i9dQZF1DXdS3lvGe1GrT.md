@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,488 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,543 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [fifty degrees](https://open.spotify.com/track/6usyUtwmQof6NnJhSeCiyg) | [Jason Ventura](https://open.spotify.com/artist/7g7mDO5qauzz30vuHekAxK) | [fifty degrees](https://open.spotify.com/album/5ryiIAISiBAQnkRXgGDljZ) | 3:01 |
 | 100 | [Suburban Outlaw](https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Suburban Outlaw](https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV) | 4:56 |
 
-Snapshot ID: `MCw0NTgzMTAyZWEyMGZhZDc3OGVkOGMzNDZiYmRlNDhjNTkyYzQyYTZk`
+Snapshot ID: `MCxiNmU2ZTE4YWZkNzNlNzJhYzdhNDhjMTI0YjI4NzNhY2ViZjg4MDM1`

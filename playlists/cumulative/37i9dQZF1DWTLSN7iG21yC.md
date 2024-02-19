@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-675 songs - 1 day 12 hr 6 min
+676 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2021-06-07 | 2023-01-28 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-07-29 |
 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 | 2022-07-25 |
-| [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk) | 3:03 | 2021-06-25 |  |
+| [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk) | 3:03 | 2021-06-25 | 2024-02-19 |
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-07-29 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-08-13 | 2023-01-28 |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-07-13 |
@@ -202,6 +202,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-15 |  |
 | [Elvis Song](https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:10 | 2021-08-27 | 2024-02-08 |
 | [Emily](https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Emily](https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo) | 3:21 | 2021-09-24 | 2022-07-29 |
+| [Enough](https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Enough](https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu) | 3:00 | 2024-02-16 |  |
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-26 |  |
 | [evergone](https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [evergone](https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL) | 3:29 | 2022-03-25 | 2022-07-20 |
 | [Everybody Needs Someone](https://open.spotify.com/track/16D9i13IoScb7MYVeo0eGs) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Everybody Needs Someone](https://open.spotify.com/album/6ma4E5mezNPOUQm9RTfmw4) | 3:28 | 2022-06-24 | 2023-04-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,937 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,948 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 24 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 |
 | 25 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
 | 26 | [Breakfast In Bed](https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K) | [Springy Dustfield](https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm) | [Breakfast In Bed](https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa) | 2:46 |
-| 27 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
-| 28 | [Blue Side](https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Blue Side](https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX) | 2:08 |
+| 27 | [Blue Side](https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Blue Side](https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX) | 2:08 |
+| 28 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
 | 29 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
 | 30 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
 | 31 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 74 | [Distant](https://open.spotify.com/track/0sUh3Wq1Gf8K47d1E7BrtG) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:24 |
 | 75 | [Bloom](https://open.spotify.com/track/2e8imHlD10TXnYsL72zEe0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:01 |
 
-Snapshot ID: `MCw2Njc0MGU2OGNiOTg0MzQ4MjFkYjdkZGFjZTA5YzYxMzJiZGMxZDdm`
+Snapshot ID: `MCwwYTg5Y2E0NzVhYzNlZDM2NmQxYjA0ODNkZjIyMzg5ZjlhNGY4M2U1`

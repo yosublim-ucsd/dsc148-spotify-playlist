@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 465329,
+  "2024-02-19": 465345,
   "date_first_scraped": "2021-12-21",
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
   "name": "Folksy Covers",
@@ -1827,7 +1827,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
@@ -3841,7 +3841,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 264930,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"

@@ -4,7 +4,7 @@
 
 > Get your body right with this workout twerkout
 
-272 songs - 11 hr 58 min
+273 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [In Person \(With OG Parker feat\. Tyga\)](https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:10 | 2021-09-24 | 2022-06-04 |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-10-06 |  |
 | [Issa Photoshoot](https://open.spotify.com/track/49MICz2iDO0E4suYyVYr62) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Issa Photoshoot](https://open.spotify.com/album/2e4aU3kX5YwcF1e52ZXeF0) | 2:24 | 2022-10-28 | 2023-02-11 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-24 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-24 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-11 |  |
 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 | 2022-03-25 | 2023-12-02 |
 | [Jackson 5](https://open.spotify.com/track/1MvQTf0DABjvSsfbOApnRl) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [HITGIRL](https://open.spotify.com/album/2J9CZL9gMrruzFq3SnIlMm) | 2:45 | 2022-06-10 | 2022-08-06 |
 | [Jobs](https://open.spotify.com/track/22IWDKdWDgx2cAx5RuDgty) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Jobs](https://open.spotify.com/album/4lcViUMXbGOv0FTIxiaouW) | 2:01 | 2021-09-03 | 2022-03-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,442 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,486 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 54 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
 | 55 | [Storm](https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A) | [Silver Lake by Esa Holopainen](https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4) | 4:14 |
 | 56 | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8) | 4:49 |
-| 57 | [I Can't Breathe](https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 1:18 |
-| 58 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
+| 57 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
+| 58 | [I Can't Breathe](https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 1:18 |
 | 59 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
 | 60 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
 | 61 | [Heaviness](https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8) | [LIONFIGHT](https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP) | [An Investigation Into Perceived Heaviness](https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt) | 3:55 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 69 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
 | 70 | [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 |
 | 71 | [Ancestral Recall](https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [May Our Chambers Be Full](https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc) | 3:54 |
-| 72 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 |
-| 73 | [Black Brick](https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Black Brick](https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq) | 7:27 |
+| 72 | [Black Brick](https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Black Brick](https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq) | 7:27 |
+| 73 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 |
 | 74 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
 | 75 | [Envy](https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW) | [Afterlife](https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX) | [Part Of Me](https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc) | 3:32 |
 | 76 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 99 | [ABYSS](https://open.spotify.com/track/7J7M7bscbyKo7WQSwnry7s) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 2:31 |
 | 100 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
 
-Snapshot ID: `MCxkZjEzMTY5YTk1ZDVjMGU1NWM5NWQwYmJjMmQ0ZjU4ZjViOTkxOGVk`
+Snapshot ID: `MCw5OGFkM2UyOTgyZTI2YTlkZmZlZmUyYjdmYjdkYTllYTE3ZGRjZWE0`

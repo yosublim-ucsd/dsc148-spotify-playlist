@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 40116,
+  "num_followers": 40113,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWIwMmZmZGU1NDEzZTRhMmIyOGViYzQ4ZTkzMzk1Y2YzYWJhYWRh",
+  "snapshot_id": "MCwyNTU1ODdiOGNhZWU3NTBkMmExYTVjNWQ3MTVmYWExMjJiMDBmMjQ0",
   "tracks": [
     {
       "added_at": "2024-01-10 17:36:14",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 274858,
+      "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "eclips3",
         "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 274858,
-      "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Si Me Duele Que Duela",
         "url": "https://open.spotify.com/album/6gnumXyZdCKbpx7fmkBXuo"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 159285,
       "name": "Si Me Duele Que Duela",
       "url": "https://open.spotify.com/track/5iDW3YN3foLkUzdK9mAAvk"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160856,
-      "name": "ADI\u00d3S",
-      "url": "https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -531,6 +515,22 @@
       "duration_ms": 161000,
       "name": "38",
       "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160856,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -619,38 +619,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "EST\u00c1S BUEN\u00cdSIMO",
-        "url": "https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "EST\u00c1S BUEN\u00cdSIMO",
-      "url": "https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "RAWR",
-        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 170095,
-      "name": "TU SI K TA LOKO",
-      "url": "https://open.spotify.com/track/147SiJnBgxPKsuEYY5kMZT"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 77500,
       "name": "Gran remera",
       "url": "https://open.spotify.com/track/3L6tkvVBqTVuqdOtVFuxbD"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "EST\u00c1S BUEN\u00cdSIMO",
+        "url": "https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "EST\u00c1S BUEN\u00cdSIMO",
+      "url": "https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "TU SI K TA LOKO",
+      "url": "https://open.spotify.com/track/147SiJnBgxPKsuEYY5kMZT"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "AREA 69",
         "url": "https://open.spotify.com/album/0aI5tf7kRiGIfA3X7fC7ez"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 157628,
       "name": "AREA 69",
       "url": "https://open.spotify.com/track/7zwr2S6zTLQqt3IQ4wpht1"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Llorando en la Fiesta",
+        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 191278,
+      "name": "Rothmans",
+      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Nasty Girl (feat. Ingratax)",
         "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 245538,
       "name": "Nasty Girl (feat. Ingratax)",
       "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Llorando en la Fiesta",
-        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
-      },
-      "artists": [
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "Rothmans",
-      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "SKYS4U",
-        "url": "https://open.spotify.com/album/0H2sPezhGKddiabtPIbdX2"
-      },
-      "artists": [
-        {
-          "name": "Dakillah",
-          "url": "https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ"
-        }
-      ],
-      "duration_ms": 326870,
-      "name": "SKYS4U",
-      "url": "https://open.spotify.com/track/5q7znvNbDgFyaqqKmcQhuU"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Llorando en la Fiesta",
         "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 179579,
       "name": "Opuesto Complementario",
       "url": "https://open.spotify.com/track/7G5Zd3uDwBnEPVJeYOveee"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "SKYS4U",
+        "url": "https://open.spotify.com/album/0H2sPezhGKddiabtPIbdX2"
+      },
+      "artists": [
+        {
+          "name": "Dakillah",
+          "url": "https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ"
+        }
+      ],
+      "duration_ms": 326870,
+      "name": "SKYS4U",
+      "url": "https://open.spotify.com/track/5q7znvNbDgFyaqqKmcQhuU"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Lo M\u00e1s Cercano a Caer",
+        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 146668,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Veinte Veinte",
         "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 73557,
       "name": "Farras",
       "url": "https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Lo M\u00e1s Cercano a Caer",
-        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 146668,
-      "name": "Pulso",
-      "url": "https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Piedra del \u00c1guila",
+        "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194470,
+      "name": "Piedra del \u00c1guila",
+      "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Por qu\u00e9 te quiero tanto?",
         "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 218613,
       "name": "1312 (Portarme Mal)",
       "url": "https://open.spotify.com/track/1kGTOTvzDICyz3BiTNQEq5"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Piedra del \u00c1guila",
-        "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194470,
-      "name": "Piedra del \u00c1guila",
-      "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
     },
     {
       "added_at": "2024-01-10 17:36:14",

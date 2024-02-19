@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 107396,
+  "num_followers": 107406,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2I2NDJhMjA5OTZmMTA3MzdjOWNmMDFkNzEyYWFhZmQyMDM2Yzc2",
+  "snapshot_id": "MCwzOGNiMWE3ZWJiOWE1MjM4YzU0ZTcyYTYxMTNhNmYzZmQ5OTEyY2Iy",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "En f\u00e5r v\u00e6re som en er",
+        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
+      },
+      "artists": [
+        {
+          "name": "Ole Ivars",
+          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
+        }
+      ],
+      "duration_ms": 205818,
+      "name": "Kongen av campingplassen",
+      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 138454,
       "name": "Hytta Mi",
       "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "En f\u00e5r v\u00e6re som en er",
-        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
-      },
-      "artists": [
-        {
-          "name": "Ole Ivars",
-          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Kongen av campingplassen",
-      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
     },
     {
       "added_at": "2024-02-15 23:00:00",

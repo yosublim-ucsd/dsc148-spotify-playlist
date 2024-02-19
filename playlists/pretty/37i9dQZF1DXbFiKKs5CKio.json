@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDg5Y2MyMjJiMjA2YTY4ZGRhMjExNjAzOGU1YTc3MDA1OTVjMjgx",
+  "snapshot_id": "MCw1ZmJlYWE1NTZmYTE0YTJiOWIzN2ZhMjU4MjZiYmNjNTczZjFiOWFm",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -155,26 +155,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Vai dar Bom",
-        "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "VAI DAR BOM",
-      "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "MOVA - Algumas Verdades, Outras Mentiras",
         "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 176285,
       "name": "E EU?",
       "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Vai dar Bom",
+        "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "VAI DAR BOM",
+      "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+        "name": "Faminta",
+        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
       },
       "artists": [
         {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
         }
       ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+      "duration_ms": 249333,
+      "name": "Eu Tava Em Casa",
+      "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Faminta",
-        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
       "artists": [
         {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
         }
       ],
-      "duration_ms": 249333,
-      "name": "Eu Tava Em Casa",
-      "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Onda (Remix)",
         "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 199333,
       "name": "Tra\u00e7os",
       "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-02-02 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 
 > The sound of Summer 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,468 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,529 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 | 17 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 18 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 | 19 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 |
-| 20 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
+| 20 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
 | 21 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
-| 22 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
+| 22 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
 | 23 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 24 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
 | 25 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 | 54 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 |
 | 55 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
 | 56 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
-| 57 | [Paris](https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Paris](https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC) | 3:00 |
-| 58 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
+| 57 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
+| 58 | [Paris](https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Paris](https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC) | 3:00 |
 | 59 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 |
 | 60 | [Blue Eyed Māori](https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R) | 3:16 |
 
-Snapshot ID: `MCwxNWY3OTY3NWEyNGQwYjY4MmYwNzEyYWYxNDAzNjI2MzVmM2I2OGQ4`
+Snapshot ID: `MCw1YTU1YTRkYzI5ODBhYzBiNmIwNmZmOGE5ZjM4M2Y0ZGUwNDg1YmU1`

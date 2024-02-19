@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. El Novio de México en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,493 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,589 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 48 | [El Diablo](https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:35 |
 | 49 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
 | 50 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
-| 51 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 |
-| 52 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
+| 51 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
+| 52 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 |
 | 53 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 54 | [Sol de Medianoche](https://open.spotify.com/track/7sRYqqUGrmHsM9X8XX8h2G) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/6ejPPvg1bi5cTiUI4cNHyH) | 4:08 |
 | 55 | [Peligroso Pop](https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 3:36 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 59 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 |
 | 60 | [Él No Lo Mató](https://open.spotify.com/track/6THT788gESlEehya5KtiAo) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Él No Lo Mató](https://open.spotify.com/album/4cRJTuSkWI7oKpMNqX7k5C) | 4:38 |
 | 61 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
-| 62 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
+| 62 | [¿A Dónde Van los Muertos?](https://open.spotify.com/track/1EnD6nyUG8FvCR1WH8V1cB) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina](https://open.spotify.com/album/26dJbCfhnNR8behCRM3GGn) | 4:17 |
 | 63 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
 | 64 | [Dead \- En Vivo](https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:57 |
 | 65 | [Nalguita](https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 4:14 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 69 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 70 | [Reptilectric](https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:52 |
 | 71 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
-| 72 | [¿A Dónde Van los Muertos?](https://open.spotify.com/track/1EnD6nyUG8FvCR1WH8V1cB) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina](https://open.spotify.com/album/26dJbCfhnNR8behCRM3GGn) | 4:17 |
+| 72 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 73 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
 | 74 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 75 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 99 | [Olvidate De Mí](https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Deshabitado](https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh) | 3:43 |
 | 100 | [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 |
 
-Snapshot ID: `MCxjYmJlOTJjZmRhY2NlMmVjMDg3YmViOGNjOWVhN2UzZmRjOGMwMmE2`
+Snapshot ID: `MCw5NDgwMmQ3ZjRmNTcwYjg0MDQ1NmE1ZTZlYTA2ZjZkNjE2ZjkwYzg4`

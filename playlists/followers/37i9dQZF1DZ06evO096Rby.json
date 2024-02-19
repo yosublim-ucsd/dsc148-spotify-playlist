@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 27052,
+  "2024-02-19": 27108,
   "date_first_scraped": "2024-01-30",
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
   "name": "This Is Edgardo Nu\u00f1ez",
@@ -659,6 +659,28 @@
       "duration_ms": 293412,
       "name": "Micaela / La Mar\u00eda",
       "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
+    },
+    {
+      "album": {
+        "name": "No Es por Ella",
+        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170908,
+      "name": "No Es por Ella",
+      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
     },
     {
       "album": {

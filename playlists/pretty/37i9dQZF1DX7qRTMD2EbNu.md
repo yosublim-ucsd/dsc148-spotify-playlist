@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  Strongman
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,014 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,026 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 45 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 |
 | 46 | [Ase3](https://open.spotify.com/track/7jUk655LJ9EjvykHZdCoxl) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Ase3](https://open.spotify.com/album/166W3lpTGfcrfMFFvX57kG) | 3:00 |
 | 47 | [Mrs Sativa](https://open.spotify.com/track/5ARd8VUjVywyr4eSh6cBLA) | [Halfco Baby](https://open.spotify.com/artist/5Z1tk0XItnDFfbknQ6bF9U), [Zan](https://open.spotify.com/artist/3qJXMb1WeIhBNu1qifUiPn), [Benty](https://open.spotify.com/artist/3gJSud2qrIBrwHCKHP6A0S) | [Mrs Sativa](https://open.spotify.com/album/3xFHiV8Qx0bUNZ76iO9tvQ) | 4:23 |
-| 48 | [Fire](https://open.spotify.com/track/75PVJ4G4p6lBGSIOn1jhoc) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fire](https://open.spotify.com/album/2hlL9lYpRlJrjtlUeazYz4) | 4:04 |
+| 48 | [Fire](https://open.spotify.com/track/49Y4yVawnNjt4HTSTxqsJP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fire](https://open.spotify.com/album/7d378pcfq6kBgDsxrn73Ko) | 4:04 |
 | 49 | [Balotteli X](https://open.spotify.com/track/7DDk2zW6zAZto4uHlSMTiH) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [Balotteli X](https://open.spotify.com/album/7zBdUgAHyT2Hpu6ktioxtD) | 1:44 |
 | 50 | [Tell 'Em To Shut Up](https://open.spotify.com/track/1M65D5LXMUNiMXka5Hf2oB) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 2:48 |
 | 51 | [32](https://open.spotify.com/track/2PiJXFSfjwBxX6AgLwdQvm) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [I'm Back](https://open.spotify.com/album/4kffUglXMYplYAIgeDpkfW) | 4:17 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 78 | [YaaCross Won Part II](https://open.spotify.com/track/1jikb4yHocmQWCxwbE905J) | [Slim Drumz](https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT), [Teephlow](https://open.spotify.com/artist/765WbdRs651BXTSFu0gYKi) | [YaaCross Won Part II](https://open.spotify.com/album/7ql3KAdzGVQZkxLLpi5eOX) | 2:12 |
 | 79 | [Gimme Grace](https://open.spotify.com/track/6ffqvYWjuFKYreV7DK6xfQ) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We), [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1) | [Gimme Grace](https://open.spotify.com/album/1Y5UvC1xVYr7ejO8AUws02) | 2:55 |
 
-Snapshot ID: `MCw2ZThhYjNmNmM1NjljZGJlN2Q3MTE5NTYzMWQyNDgyYWUxNmI3M2U1`
+Snapshot ID: `MCwwMDBjZWUwNGYwOTEyYTIzMzI1NThmYzNhMjNiYmM0MTI1ZTNkZmNi`

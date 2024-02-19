@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. PVRIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,971 likes - 84 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,928 likes - 84 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 83 | [WISH YOU WERE DEAD](https://open.spotify.com/track/7lcnOYhsy2RcLQGeIAN6a8) | [Lucy Deakin](https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h) | [WISH YOU WERE DEAD](https://open.spotify.com/album/23jnFwSYYOF49E94Nlg64M) | 2:28 |
 | 84 | [Deliverance](https://open.spotify.com/track/2BVTLEEbNKbOBCkEQmOb2j) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Deliverance](https://open.spotify.com/album/6CORTXGLALFSWFt5yfutX5) | 3:32 |
 
-Snapshot ID: `MCxjMThmMDIxMzc2NGVlZjdkZWMxODExODdkZTg2OTMyZjVhMTU2OGYw`
+Snapshot ID: `MCw3NmRlNGNiZDQ4YzFmNmQ5YTAwNjdjNTE4MjAwY2RlMDQzZGI4ZTk3`

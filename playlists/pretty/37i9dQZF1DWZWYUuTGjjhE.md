@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,822 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,882 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 61 | [Iko Iko](https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:06 |
 | 62 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
 | 63 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
-| 64 | [Ferry Cross the Mersey \- Stereo; 1997 Remaster](https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Ferry Cross The Mersey \[Mono And Stereo Version\]](https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD) | 2:23 |
-| 65 | [What A Man](https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 2:40 |
+| 64 | [What A Man](https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 2:40 |
+| 65 | [Ferry Cross the Mersey \- Stereo; 1997 Remaster](https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Ferry Cross The Mersey \[Mono And Stereo Version\]](https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD) | 2:23 |
 | 66 | [Poetry In Motion](https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:34 |
 | 67 | [California Dreamin'](https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes And Ears](https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB) | 2:37 |
 | 68 | [Spanish Eyes](https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [My Cherie](https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0) | 2:46 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 70 | [Soothe Me](https://open.spotify.com/track/3pL0x4IUqemNfzJPn5Hvbi) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 2:32 |
 | 71 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 3:07 |
 | 72 | [Tell Him \- Single Version](https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B) | [The Exciters](https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO) | [Tell Him](https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg) | 2:36 |
-| 73 | [Take Good Care Of My Baby \- 1990 Remastered](https://open.spotify.com/track/1MR7XamWS0XH6vZxeeRdE0) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Legendary Masters Series](https://open.spotify.com/album/434hmQ0GM7ynBeMZz5BSQ3) | 2:30 |
-| 74 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 |
+| 73 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 |
+| 74 | [Take Good Care Of My Baby \- 1990 Remastered](https://open.spotify.com/track/1MR7XamWS0XH6vZxeeRdE0) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Legendary Masters Series](https://open.spotify.com/album/434hmQ0GM7ynBeMZz5BSQ3) | 2:30 |
 | 75 | [It's In The Kiss \(The Shoop Shoop Song\)](https://open.spotify.com/track/35hfuechuOqaW31ogdauO7) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [No Place To Hide](https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q) | 2:09 |
 | 76 | [My Guy \- Single Version](https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The Definitive Collection](https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod) | 2:51 |
 | 77 | [Chapel Of Love](https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 79 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 |
 | 80 | [Cathy's Clown](https://open.spotify.com/track/1MA9StLzlFftLbuqOmoWij) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Golden Hits of The Everly Brothers](https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD) | 2:24 |
 
-Snapshot ID: `MCw5ZmRlNzkxYmZiYWRjNTdlYWJjN2Q2Mjk2ZjFlNTdhMmU3ZmEzODJl`
+Snapshot ID: `MCw2OTg0MzViNzg5NzBiYTVlMjcxZGIwYjNhMjFiODkwYWNkN2Y2YTY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence have rocked our world\. Cover: Hayley Williams of Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,081 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,232 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 69 | [pity party \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:41 |
 | 70 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 71 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
-| 72 | [Hole In My Head](https://open.spotify.com/track/5Jxm8WzWz7uJWg8JajPJ3u) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Hole In My Head](https://open.spotify.com/album/2H5E6mJHbo9aNfzjJA74da) | 1:41 |
+| 72 | [Hole In My Head](https://open.spotify.com/track/39FkjMarlvPHCghpQ5S8yE) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Hole In My Head](https://open.spotify.com/album/2mWIi7kmpQ0tPqsuXPLXaI) | 1:41 |
 | 73 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
 | 74 | [Jealousy](https://open.spotify.com/track/6xHaeHANs3uH5qabszr3dX) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Jealousy](https://open.spotify.com/album/5rTZeLXctg4kUS4ljyKXYo) | 2:30 |
 | 75 | [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 99 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
 | 100 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
 
-Snapshot ID: `MCwxM2I1MGE2NGRlYmU2N2I3ODQ5M2ZkNmFhYWFhMDg5MWFlNTkzNmM2`
+Snapshot ID: `MCw2N2Q0NGI0OThhZTZkMzRjZjVlNDE3ZGY2MDYwMWRhODM3MmE1ODQz`

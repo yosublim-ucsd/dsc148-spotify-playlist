@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,430 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,464 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 9 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p) | 3:40 |
 | 10 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 11 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
-| 12 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 |
-| 13 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 |
+| 12 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 |
+| 13 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 |
 | 14 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 |
 | 15 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
 | 16 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 63 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 |
 | 64 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
 | 65 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 |
-| 66 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 |
-| 67 | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm) | 2:36 |
+| 66 | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm) | 2:36 |
+| 67 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 |
 | 68 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 69 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 |
 | 70 | [Most of Us Are Strangers](https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Most of Us Are Strangers](https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE) | 3:42 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 72 | [Be As You Are \- Acoustic](https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Island Life Coffee House \(Vol\. 1\)](https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b) | 3:54 |
 | 73 | [Saving Us a Riot](https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Volition](https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ) | 4:17 |
 | 74 | [Bizarre Love Triangle \- Acoustic](https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Bizarre Love Triangle \(Acoustic\)](https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb) | 2:11 |
-| 75 | [Little Love](https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 3:33 |
-| 76 | [Hey \- Acoustic](https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey \(Acoustic Version\)](https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC) | 2:36 |
-| 77 | [Clean Eyes \- Acoustic](https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Clean Eyes](https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f) | 3:42 |
+| 75 | [Clean Eyes \- Acoustic](https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Clean Eyes](https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f) | 3:42 |
+| 76 | [Little Love](https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 3:33 |
+| 77 | [Hey \- Acoustic](https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey \(Acoustic Version\)](https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC) | 2:36 |
 | 78 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 |
 | 79 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 4:12 |
 | 80 | [Deny Me](https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Deny Me](https://open.spotify.com/album/4603uGOYACGfWZho5limbs) | 5:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
 | 100 | [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 |
 
-Snapshot ID: `MCw0MWY1YjA0MTY4YzRiMGM0ZDgzNDNjOTU0ZDc2ZDM1NDlkZDBlYWRk`
+Snapshot ID: `MCw0NjMzMGYzYjg5ZTA1YjQxZjkwMzU2YjI0OWU5MzE1YjQ1NDVkNjQw`

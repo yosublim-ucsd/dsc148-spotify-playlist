@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,249 songs - 3 day 0 hr 52 min
+1,250 songs - 3 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Bora Bora \- Seaside Edit](https://open.spotify.com/track/3WsqxzFAxXhLyzqMCrsUjT) | [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Bora Bora \(Seaside Edit\)](https://open.spotify.com/album/00bfK3EzBW4QBnVjz0SjfU) | 4:50 | 2019-08-09\* | 2019-08-27 |
 | [Born To Be Yours](https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg) | 3:13 | 2019-08-09\* | 2020-10-30 |
 | [Borrowed Lives \(feat\. NVDES\)](https://open.spotify.com/track/3yT72lp7CMiGKiuqJUq5Ss) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Borrowed Lives](https://open.spotify.com/album/4EXM9ZFcwp89HXcTYK4T1o) | 5:13 | 2019-08-09\* | 2019-08-27 |
+| [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 | 2024-02-16 |  |
 | [Breathe 2.0](https://open.spotify.com/track/0Flg5X9pz1HsF7sVw1BMcM) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [For You](https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3) | 3:16 | 2019-08-09\* | 2020-03-29 |
 | [Breathin' \- Radio Mix](https://open.spotify.com/track/3mQ4QRCz4qaS1OwJ5J165M) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Breathin'](https://open.spotify.com/album/3yPm81IIjaEw7RVwACe8M7) | 2:53 | 2019-08-09\* | 2019-08-27 |
 | [Breathin' \- Radio Mix](https://open.spotify.com/track/6Z9fRBqFuNfqiPDhbEd6O6) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Breathin'](https://open.spotify.com/album/0pGlDYRVaU93oUaQMO2K6c) | 2:53 | 2020-04-16 | 2020-10-30 |
@@ -626,7 +627,7 @@
 | [Live Forever](https://open.spotify.com/track/513okdMo2QWWkJ0rMJmjyX) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Live Forever](https://open.spotify.com/album/31PkpoNgP7khe9gLVkjKRw) | 4:01 | 2019-08-09\* | 2019-08-27 |
 | [Live On Love](https://open.spotify.com/track/5ScYUv4grVUOvOECp6TiKZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Live On Love](https://open.spotify.com/album/6FoPkqK70wBaMbL3glpMWR) | 2:51 | 2022-09-23 | 2023-11-21 |
 | [Live Without Your Love \(with Steve Lacy\) \- MK Remix](https://open.spotify.com/track/3A1iduRuZaVfB4LLhrDIO5) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Live Without Your Love \(with Steve Lacy\) \[MK Remix\]](https://open.spotify.com/album/76KZoOWdTYp2lOLQBeO46o) | 3:40 | 2020-10-30 | 2021-09-11 |
-| [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 | 2023-04-28 |  |
+| [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 | 2023-04-28 | 2024-02-19 |
 | [Living In A Dream](https://open.spotify.com/track/7ag73HpPAknMq1kY1bkNDd) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O) | [Living In A Dream](https://open.spotify.com/album/1FDVqEqLs8QoEYD8TDs07U) | 3:45 | 2023-08-11 | 2023-09-05 |
 | [Lonely](https://open.spotify.com/track/7zg74P8yN5Z9dW1LI4oPpd) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Lonely](https://open.spotify.com/album/5cyiRpzVYVoKsR79oajOjF) | 3:06 | 2021-09-25 | 2022-05-14 |
 | [LONELY NIGHTS \(feat\. Lil Yachty\)](https://open.spotify.com/track/5mv8xuH3y6jxFCBT6a3w4K) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [LONELY NIGHTS \(feat\. Lil Yachty\)](https://open.spotify.com/album/3cUkJwFuXkFCuZCfYDiLwi) | 3:06 | 2019-08-09\* | 2020-03-27 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 
 ### [Faith Crisis Pt 1](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out February 16! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
+> A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out now! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
 
-[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,837 likes - 50 songs - 2 hr 40 min
+[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,839 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 | 49 | [Old River](https://open.spotify.com/track/6zaC0Ck9DSFz1xUINXP8p3) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:30 |
 | 50 | [Doing It Right](https://open.spotify.com/track/0BJVbOwmNlHscHVR91L50B) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:07 |
 
-Snapshot ID: `MTE1LGRhY2Q4NDVjNDk1YzJkNWM2MzU3OGY5Mjg1MmEyMjg2MDY3ZWQzM2I=`
+Snapshot ID: `MTE2LGE1MGQ4ODNhZjQ0YzQwMGM5MjM5Mzc5ODAyY2RkMTFiMDMxMjRiNDk=`

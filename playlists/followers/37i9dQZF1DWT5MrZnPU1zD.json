@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 1673489,
+  "2024-02-19": 1673521,
   "date_first_scraped": "2021-12-21",
   "description": "Pass the sticks & press play. ",
   "name": "Hip-Hop Controller",
@@ -2218,6 +2218,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -2537,7 +2555,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 146229,
       "name": "BREATHE. freestyle",
       "url": "https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI"
@@ -2993,6 +3011,32 @@
       "duration_ms": 204225,
       "name": "Can\u2019t Move Wrong (feat. Trapland Pat)",
       "url": "https://open.spotify.com/track/082vuRNCVzdakvsW0P1F8Q"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
       "album": {
@@ -6180,6 +6224,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -6349,7 +6419,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 130794,
       "name": "GBG (feat. Marshmello)",
       "url": "https://open.spotify.com/track/6gmwkJCHUJa6f9RP4UrjSk"
@@ -7121,7 +7191,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 224831,
       "name": "Heard Of Me",
       "url": "https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV"
@@ -7661,7 +7731,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 128195,
       "name": "Honeybun",
       "url": "https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK"
@@ -10913,7 +10983,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 150866,
       "name": "Murder & Millions",
       "url": "https://open.spotify.com/track/27RWVlCet2iZlGciBETorw"
@@ -15372,6 +15442,24 @@
     },
     {
       "album": {
+        "name": "Sorrys & Ferraris",
+        "url": "https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167915,
+      "name": "Sorrys & Ferraris",
+      "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
+    },
+    {
+      "album": {
         "name": "SPACE CADET",
         "url": "https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI"
       },
@@ -15501,6 +15589,28 @@
       "duration_ms": 226102,
       "name": "Stain (feat. Hunxho and BabyDrill)",
       "url": "https://open.spotify.com/track/7wV3kIwsnKaKkm3hg2dTKz"
+    },
+    {
+      "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Stand On It (with Future)",
+      "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"
     },
     {
       "album": {
@@ -17805,7 +17915,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 142968,
       "name": "WE SEE YOU",
       "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
@@ -18741,6 +18851,24 @@
       "duration_ms": 131142,
       "name": "YE",
       "url": "https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW"
+    },
+    {
+      "album": {
+        "name": "Yeern 101",
+        "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Yeern 101",
+      "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the '00s\. Cover: Keyshia Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,624,515 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,625,409 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 22 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 23 | [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 |
 | 24 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
-| 25 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
-| 26 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
+| 25 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
+| 26 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
 | 27 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
 | 28 | [Sexy Love](https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:40 |
 | 29 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 99 | [Spotlight](https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP) | 4:10 |
 | 100 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
 
-Snapshot ID: `MCw2MTE3NjRjMzc0MzJlZmM1MDI2OTQ3MTQ1M2YxZTJiNDYwZGY3MDIy`
+Snapshot ID: `MCxjNWQ1ZDhmOTFkM2IwYjgzNTFkNDc2YjdhYzUwM2ZjYWU3MzBhYjQ0`

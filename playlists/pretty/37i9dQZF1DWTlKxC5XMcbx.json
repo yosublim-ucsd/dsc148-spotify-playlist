@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61914,
+  "num_followers": 61926,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmVmZjVhODljZDliODYwMDViNmJhN2ZkZDk5NDJhMDU5ZGIyNzFm",
+  "snapshot_id": "MCxhZmI4ZmE3MTAwNjhlMTgxZTgyYzVmYTZhNWRlYWJmMmUzNWNmZTVl",
   "tracks": [
     {
       "added_at": "2024-02-05 04:42:47",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-02-05 04:42:47",
       "album": {
+        "name": "From Gagarin's Point of View",
+        "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "From Gagarin's Point of View",
+      "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
+    },
+    {
+      "added_at": "2024-02-05 04:42:47",
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 566133,
       "name": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi"
-    },
-    {
-      "added_at": "2024-02-05 04:42:47",
-      "album": {
-        "name": "From Gagarin's Point of View",
-        "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "From Gagarin's Point of View",
-      "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
     },
     {
       "added_at": "2024-02-05 04:42:47",
@@ -611,6 +611,22 @@
       "duration_ms": 447280,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx"
+    },
+    {
+      "added_at": "2024-02-05 04:42:47",
+      "album": {
+        "name": "Tuesday Wonderland",
+        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Where We Used to Live",
+      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
     },
     {
       "added_at": "2024-02-05 04:42:47",
@@ -691,22 +707,6 @@
       "duration_ms": 77533,
       "name": "Interlude No. 3",
       "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
-    },
-    {
-      "added_at": "2024-02-05 04:42:47",
-      "album": {
-        "name": "Tuesday Wonderland",
-        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Where We Used to Live",
-      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
     },
     {
       "added_at": "2024-02-05 04:42:47",
@@ -851,34 +851,6 @@
     {
       "added_at": "2024-02-05 04:42:47",
       "album": {
-        "name": "Straight Road",
-        "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
-      },
-      "artists": [
-        {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 285969,
-      "name": "A Flower Is a Lovesome Thing",
-      "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
-    },
-    {
-      "added_at": "2024-02-05 04:42:47",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -903,6 +875,34 @@
       "duration_ms": 451155,
       "name": "Does The Sun Really Shine On The Moon",
       "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
+    },
+    {
+      "added_at": "2024-02-05 04:42:47",
+      "album": {
+        "name": "Straight Road",
+        "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 285969,
+      "name": "A Flower Is a Lovesome Thing",
+      "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
     },
     {
       "added_at": "2024-02-05 04:42:47",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-02-05 04:42:47",
       "album": {
+        "name": "Another Standard",
+        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
+      },
+      "artists": [
+        {
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
+    },
+    {
+      "added_at": "2024-02-05 04:42:47",
+      "album": {
         "name": "The Original Quartet With Chet Baker",
         "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
       },
@@ -1151,18 +1167,22 @@
     {
       "added_at": "2024-02-05 04:42:47",
       "album": {
-        "name": "Another Standard",
-        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
+        "name": "Ben Webster Meets Oscar Peterson",
+        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
       },
       "artists": [
         {
-          "name": "Bob Berg",
-          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 335333,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
+      "duration_ms": 236840,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
     },
     {
       "added_at": "2024-02-05 04:42:47",
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2024-02-05 04:42:47",
       "album": {
-        "name": "Ben Webster Meets Oscar Peterson",
-        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
-    },
-    {
-      "added_at": "2024-02-05 04:42:47",
-      "album": {
         "name": "This Is Jazz #14",
         "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
-    },
-    {
-      "added_at": "2024-02-05 04:42:47",
-      "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Lucky To Be Me",
-      "url": "https://open.spotify.com/track/253MlEWhgOkU3ncefccjMR"
     },
     {
       "added_at": "2024-02-05 04:42:47",
@@ -1283,6 +1267,22 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
+    },
+    {
+      "added_at": "2024-02-05 04:42:47",
+      "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Lucky To Be Me",
+      "url": "https://open.spotify.com/track/253MlEWhgOkU3ncefccjMR"
     },
     {
       "added_at": "2024-02-05 04:42:47",

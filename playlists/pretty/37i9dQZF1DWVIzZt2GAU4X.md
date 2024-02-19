@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Billy Joel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794,304 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,667 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 21 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 |
 | 22 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 |
 | 23 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 |
-| 24 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
-| 25 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
+| 24 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
+| 25 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 26 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 27 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
 | 28 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 65 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 66 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 67 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 |
-| 68 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 |
-| 69 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 |
+| 68 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 |
+| 69 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 |
 | 70 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
-| 71 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
-| 72 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
+| 71 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
+| 72 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
 | 73 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
 | 74 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 75 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
 
-Snapshot ID: `MCxkOGJiMTczOWY0NDA4ZTRhYjBhZjZhYTI0NmNkM2VmZTMwOThiMDRj`
+Snapshot ID: `MCxhMGFkNTAxMTcwZDMwN2QwMzE4NmY0MzllYjU0NGZhYWFmZWM4MWEw`

@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Kleo x Segah
 
-286 songs - 12 hr 27 min
+287 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Bulamadım Yolu](https://open.spotify.com/track/5QSi6zDxjgQyIPJaQrJAet) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [Bulamadım Yolu](https://open.spotify.com/album/2kNNyoE2pxsZ3G2xYjEHlU) | 2:59 | 2023-12-14 | 2024-01-12 |
 | [Bumerang](https://open.spotify.com/track/2E1VxbqXsK87BmyC9O3xCA) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [Bumerang](https://open.spotify.com/album/1wSw8Ra6QLJgz3TCmwTjnG) | 2:40 | 2023-09-21 | 2023-10-06 |
 | [Bölüm Sonu](https://open.spotify.com/track/1W7vixv87ysuAoOKzz0uLE) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Bölüm Sonu](https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0) | 2:41 | 2023-08-24 | 2023-11-11 |
-| [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 | 2023-06-15 |  |
+| [Caney](https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/46DEhRYZNFp9nBmC6j9Dru) | 2:45 | 2024-02-15 |  |
+| [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 | 2023-06-15 | 2024-02-19 |
 | [Cesaret](https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Cesaret](https://open.spotify.com/album/00HFD6omZZg5Fj1zH4QRMT) | 2:38 | 2023-08-10 |  |
 | [CimCimem](https://open.spotify.com/track/0QPJqRMBqaJrOUPVT8FfJc) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [CimCimem](https://open.spotify.com/album/0bFFfvETEdNUfkJkCRG6d9) | 2:59 | 2023-06-08 | 2023-06-23 |
 | [CRIMINAL](https://open.spotify.com/track/6Xr5IpNOPgW6X0Giyd7yUw) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [OSVETA](https://open.spotify.com/artist/7kRCHCbPeiKoKAg6Kxdf4M) | [CRIMINAL](https://open.spotify.com/album/44mBi9nKjqxRkNGVaQyvVX) | 2:48 | 2023-03-06 | 2023-04-07 |

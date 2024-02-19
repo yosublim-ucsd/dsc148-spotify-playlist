@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 
 > The perfect pop rock running mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,991 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,034 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 | 24 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 25 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
 | 26 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:06 |
-| 27 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
-| 28 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
+| 27 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
+| 28 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 29 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 |
 | 30 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 |
 | 31 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 | 39 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
 | 40 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 
-Snapshot ID: `MCwxMzJlMjJiYmNkZDdjNGMxMWJkYWM1YjUyYWM5M2Y3ZjdmZjY1NzQ4`
+Snapshot ID: `MCw3NWNhNGI5NjA5YmQ1ODZkZGYwOWI1ODE0Mzg3MWUzNWQ1MmIwZTc3`

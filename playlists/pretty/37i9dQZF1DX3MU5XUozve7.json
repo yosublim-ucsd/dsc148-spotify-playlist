@@ -1,12 +1,12 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 904252,
+  "num_followers": 904490,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2E5ZTE4MzRiNWEwNWZmYjIyZmZjNGY1YWI3NTFmOGEzOGE4OGE5",
+  "snapshot_id": "MCxlYjA0ZDFkNDBlN2EzZjlhOTgzYjdhNGE1NTA0ZGE1MGEwODYyYzYy",
   "tracks": [
     {
       "added_at": "2022-07-26 16:46:12",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 171533,
       "name": "First Date",
       "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Re-Education (Through Labor)",
-      "url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Let\u2019s Face It",
         "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 195195,
       "name": "The Impression That I Get",
       "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "Re-Education (Through Labor)",
+      "url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Why Worry",
-      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 346333,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Why Worry",
+      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 189418,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Box Car Racer",
         "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 270866,
       "name": "I Feel So",
       "url": "https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Beat on the Brat - 2016 Remaster",
-      "url": "https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Coral Fang (PA Version)",
         "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 189706,
       "name": "Drain the Blood",
       "url": "https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Beat on the Brat - 2016 Remaster",
+      "url": "https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2"
     },
     {
       "added_at": "2022-07-26 16:46:12",

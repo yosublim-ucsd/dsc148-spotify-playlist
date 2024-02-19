@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023, anche in autunno \ud83d\udc40",
-  "num_followers": 102674,
+  "num_followers": 102676,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODViZWE5Y2EyYzYyOWJmMGYzNzlhMzM0OWYyNDU1OWRlODMyM2Mw",
+  "snapshot_id": "MCwxOTU0ZTA1YzM0ZWZlYThhNDhlYWVmYTE5Mjg2ODJlNWQyMzUxNTkw",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -67,22 +67,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -111,26 +115,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Cold Heart (PNAU Remix)",
-        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "I Wish (feat. Mabel)",
-        "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 181728,
-      "name": "I Wish (feat. Mabel)",
-      "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "I Wish (feat. Mabel)",
+        "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 181728,
+      "name": "I Wish (feat. Mabel)",
+      "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
     },
     {
       "added_at": "2023-11-10 00:01:00",

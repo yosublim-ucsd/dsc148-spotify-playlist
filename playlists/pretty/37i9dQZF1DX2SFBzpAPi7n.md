@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lim Hyunsik\(임현식\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,403 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,422 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 11 | [daisy.](https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN) | 3:38 |
 | 12 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 |
 | 13 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
-| 14 | [Episode](https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Episode](https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL) | 3:25 |
+| 14 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 15 | [BYE BYE BYE \(feat\. Sion\)](https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 4:21 |
-| 16 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
+| 16 | [Episode](https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Episode](https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL) | 3:25 |
 | 17 | [ride](https://open.spotify.com/track/67KfktISVA3XHSRqge5JiB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 3:48 |
 | 18 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
 | 19 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 50 | [I Need Somebody](https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:38 |
 
-Snapshot ID: `MCxjYTYwOGRiOTM1NDQwYmJkOTdkOGJjZmVhOTAzMmQwYzg2NDBlZmFm`
+Snapshot ID: `MCw4M2E1ZDVhNzA1N2IzMDVkNDhlYTdkYWFmYjhjN2I0NjEyMWFmYjE1`

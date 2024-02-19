@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,952 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,955 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 17 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 |
 | 18 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 19 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
-| 20 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
-| 21 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
+| 20 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
+| 21 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
 | 22 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
 | 23 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
 | 24 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 27 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
 | 28 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
 | 29 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
-| 30 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
-| 31 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 |
+| 30 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 |
+| 31 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
 | 32 | [So U Kno](https://open.spotify.com/track/1YGxSgWIWqxKuLLocPVxhC) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:43 |
-| 33 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
-| 34 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
+| 33 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
+| 34 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 35 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
 | 36 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
 | 37 | [Mash up the Dance](https://open.spotify.com/track/3HWxmlUkBo3GXRxefWas8m) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6FjPHeZxl5hwST6ZF2MC3v) | 3:09 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 43 | [Fingerprints](https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Fingerprints](https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb) | 3:48 |
 | 44 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 |
 
-Snapshot ID: `MCxiNzEzNjE1N2VjYTg4Yzk0MmUyODAzMjQ0NmQ3MzNjN2RiMWViODA5`
+Snapshot ID: `MCw3MjhmYTk4MDNmYjI0MGNjMzMzN2VhYTg0MzQwNDJjM2YwNWZjZjY0`

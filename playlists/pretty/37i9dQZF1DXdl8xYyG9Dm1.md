@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KbPfS5hIRBCLc0LhtKNwRw"> Black Sherif</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,229 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,339 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 35 | [Life & Money](https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:05 |
 | 36 | [SHOOT AND GO HOME](https://open.spotify.com/track/7LULqWeafZzoFjW9KAUvay) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:52 |
 | 37 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
-| 38 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 |
-| 39 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 |
+| 38 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 |
+| 39 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 |
 | 40 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 |
 | 41 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
 | 42 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 62 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 |
 | 63 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 |
 | 64 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 |
-| 65 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 |
-| 66 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
-| 67 | [LEAN!](https://open.spotify.com/track/0VSLiEDoFqM40mHGduBAWO) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ECEE](https://open.spotify.com/artist/4Fjy32nOkX6jFJlDjSjabL), [Rhoma BTW](https://open.spotify.com/artist/2J7GsZDs3M7SRN81uJvHPH), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Osapa London \- Deluxe](https://open.spotify.com/album/38SLubt4uf3dQJcLpRapoa) | 3:19 |
+| 65 | [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 |
+| 66 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 |
+| 67 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
 | 68 | [Endless](https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Endless](https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU) | 3:00 |
 | 69 | [Family](https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Family](https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN) | 3:21 |
 | 70 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 |
 
-Snapshot ID: `MCwzNjhjNTgyMDQxZDMzMDY1OTIyZGQyNzMzNzBiZGM0MjdhZGMzZTFm`
+Snapshot ID: `MCw2MGZjYmNkNzU3ZTRkMTA5MzkxM2UyOTg0ZDhkODAzODQwMzk4ZTQw`

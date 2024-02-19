@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 550586,
+  "num_followers": 550658,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2QwMTMwZmRkMjFkNmFkZGRlMjFmOGFlNGIyNmUyZTg4NTljYzhi",
+  "snapshot_id": "MCxkMzYzZDhhZDU0ZGQzMTNiZTA3ZjdjMjYyMGZmYTFiZjFiZTg3ODY1",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Murder On The Dancefloor (PNAU Remix)",
         "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 260006,
       "name": "Murder On The Dancefloor - PNAU Remix",
       "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "comic relief",
-        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "<3 beat",
-      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Bad Company",
         "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
       },
@@ -883,22 +867,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "King Of My Castle (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
+        "name": "comic relief",
+        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
       },
       "artists": [
         {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
         }
       ],
-      "duration_ms": 199191,
-      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
-      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
+      "duration_ms": 197733,
+      "name": "<3 beat",
+      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -919,6 +899,26 @@
       "duration_ms": 187200,
       "name": "Best Of My Love",
       "url": "https://open.spotify.com/track/6xUNDUAOBovyRz1MnvMKAU"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "King Of My Castle (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
+      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Everyday People",
-        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 165494,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Seventies",
         "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Real Cultural Shit",
         "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
       },
@@ -1147,6 +1167,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Disco Maniac",
+        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
+      },
+      "artists": [
+        {
+          "name": "Billy Vena",
+          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Disco Maniac",
+      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -1163,22 +1199,6 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Disco Maniac",
-        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
-      },
-      "artists": [
-        {
-          "name": "Billy Vena",
-          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Disco Maniac",
-      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1295,22 +1315,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 281780,
-      "name": "Vesuvio",
-      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
@@ -1323,6 +1327,22 @@
       "duration_ms": 355480,
       "name": "Poundland Anthem",
       "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 281780,
+      "name": "Vesuvio",
+      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1383,26 +1403,6 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Cosmic Fonk",
-        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
-      },
-      "artists": [
-        {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
-        },
-        {
-          "name": "HolyBrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
-        }
-      ],
-      "duration_ms": 213815,
-      "name": "Glitter Fonk",
-      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/6OQvq7hzK2BCj89A4wBAxh"
       },
@@ -1535,46 +1515,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Fool For Love",
-        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
       "artists": [
         {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
         },
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
-      "duration_ms": 239220,
-      "name": "Fool For Love - Chris Lake Edit",
-      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "To the Stars and Back",
-        "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
-      },
-      "artists": [
-        {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
-        },
-        {
-          "name": "Sergiio",
-          "url": "https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0"
-        }
-      ],
-      "duration_ms": 197297,
-      "name": "To the Stars and Back",
-      "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1615,18 +1571,46 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+        "name": "To the Stars and Back",
+        "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        },
+        {
+          "name": "Sergiio",
+          "url": "https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0"
         }
       ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+      "duration_ms": 197297,
+      "name": "To the Stars and Back",
+      "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Fool For Love",
+        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "Fool For Love - Chris Lake Edit",
+      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Sweet Side",
         "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 225414,
       "name": "Leave Me Behind",
       "url": "https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Feel Yourself",
+        "url": "https://open.spotify.com/album/286uUL0vH8fFrbRs6DuP9A"
+      },
+      "artists": [
+        {
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
+        },
+        {
+          "name": "Marc Rebillet",
+          "url": "https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI"
+        }
+      ],
+      "duration_ms": 363521,
+      "name": "Feel Yourself",
+      "url": "https://open.spotify.com/track/5WGNKRx4dYMXHvwGPrrci7"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1723,22 +1743,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Cabo Player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139624,
-      "name": "Cabo Player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Hot Summer Love",
         "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
       },
@@ -1755,6 +1759,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Cabo Player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139624,
+      "name": "Cabo Player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Disc Me Bro",
         "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
       },
@@ -1767,6 +1787,26 @@
       "duration_ms": 162000,
       "name": "Disc Me Bro",
       "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Maintain (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Maintain - Jafunk Remix",
+      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1795,26 +1835,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Maintain (Jafunk Remix)",
-        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Maintain - Jafunk Remix",
-      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -1835,6 +1855,22 @@
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1863,22 +1899,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
-      },
-      "artists": [
-        {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 193106,
       "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
       "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "I Discover",
-        "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
-      },
-      "artists": [
-        {
-          "name": "Felix Da Housecat",
-          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
-        },
-        {
-          "name": "Chris Trucher",
-          "url": "https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "I Discover",
-      "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
     }
   ],
   "unique_name": "Poolside Disco",

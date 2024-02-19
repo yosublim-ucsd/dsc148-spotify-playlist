@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 
 > La mejor compañía mientras llueve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,538 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,616 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 |
-| 2 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
-| 3 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 |
+| 2 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 |
+| 3 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
 | 4 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 5 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
 | 6 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 | 19 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
 | 20 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
 | 21 | [Mientes Tan Bien](https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 3:47 |
-| 22 | [Destino o casualidad](https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Destino o casualidad](https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85) | 4:18 |
-| 23 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
+| 22 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
+| 23 | [Destino o casualidad](https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Destino o casualidad](https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85) | 4:18 |
 | 24 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 25 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
 | 26 | [El Bolero](https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 3:26 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 | 32 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 |
 | 33 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
 | 34 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 |
-| 35 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
-| 36 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
+| 35 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
+| 36 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
 | 37 | [No Podras](https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Agua Nueva](https://open.spotify.com/album/2SrDD376jiXS671kbC3BdL) | 4:00 |
-| 38 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
-| 39 | [11 Y 6](https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Giros](https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm) | 2:58 |
+| 38 | [11 Y 6](https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Giros](https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm) | 2:58 |
+| 39 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
 | 40 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 |
 | 41 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 |
 | 42 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 | 49 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 50 | [Jueves](https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A las Cinco en el Astoria](https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r) | 3:59 |
 
-Snapshot ID: `MCwzZmU5YjA3YjhlODdmZjAxY2I2ZTkwNTBiMmU1ZDY4MDIzYTc5MzM1`
+Snapshot ID: `MCxlZTRiYTQ3YWFjODY5ZmQxNzM1NDA5NDM4ZGY3YjljNzRjMTAyZDRl`

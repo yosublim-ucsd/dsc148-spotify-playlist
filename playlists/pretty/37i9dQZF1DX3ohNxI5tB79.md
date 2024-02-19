@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,170 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,246 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 64 | [My Home](https://open.spotify.com/track/5IBOIoEsmORmCHhHUJa5qr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [coin collection](https://open.spotify.com/album/0x5PxA5MaxH53b2eK8wGVp) | 3:50 |
 | 65 | [Gravitate](https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Gravitate](https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb) | 5:41 |
 | 66 | [Moonlight](https://open.spotify.com/track/3vuAHs82oPXgDYdQIDEciw) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Anthology](https://open.spotify.com/album/1Mxrx2PfSMBxZ8X5MakZCO) | 3:46 |
-| 67 | [Make a Change](https://open.spotify.com/track/4mIp8DZXXX1CCsRQi9x98L) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:29 |
+| 67 | [Make a Change](https://open.spotify.com/track/66TjJJq67nkHkwkfabSqX5) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 3:29 |
 | 68 | [Nobody \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [King's Disease II](https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ) | 4:42 |
 | 69 | [ADULTHOOD](https://open.spotify.com/track/4FblU56VwlVyJuvq4H6GRv) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:41 |
 | 70 | [Fire](https://open.spotify.com/track/02tCo4PWig9O2jk3ymFMGV) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 99 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 |
 | 100 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 
-Snapshot ID: `MCw0ZTMzM2U1MzdhMThkODg3MDliZDMyNGJkNTMzMTAxNTJkZWNlMmI5`
+Snapshot ID: `MCwzNGM0NWI1MDZiMjlmZDdlM2I3NjE4NzcyMDVjZTA5MGZlN2ZiNTg3`

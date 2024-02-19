@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,027 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,042 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 36 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 |
 | 37 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
 | 38 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
-| 39 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
+| 39 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/0Kz96xXGxiyZIEJ2pOpUxe) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
 | 40 | [Calor](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 |
 | 41 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
 | 42 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 48 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
 | 49 | [Manos Frías \(con Reik, Beéle\)](https://open.spotify.com/track/14SFx9btIIv81LSbaajTv1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Manos Frías \(con Reik, Beéle\)](https://open.spotify.com/album/2CmFiY185Jg2DeXasl2Pxo) | 3:36 |
 | 50 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
-| 51 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 51 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 52 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
 | 53 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
 | 54 | [Feo](https://open.spotify.com/track/0zZzASdqR6KoTbwcSKplma) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feo](https://open.spotify.com/album/3TGo55A7DUHR2tJ7Inot2y) | 2:57 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 75 | [Santo Domingo](https://open.spotify.com/track/5y7vUylJIyY6JL0dfxiqEc) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Santo Domingo](https://open.spotify.com/album/43xXsEQV8Fsha4np27jPHG) | 2:36 |
 | 76 | [Amor Clandestino](https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:46 |
 
-Snapshot ID: `MCw4NzNmODMyOTdhMTBlZGE4YTBhMTMyNTBiNGNhNTA1NjA0MDc1YjI5`
+Snapshot ID: `MCw2MGQwYTExMDVlMjcwZjhkNzM4ZWYwNjIwYmFmNWJjZmZlYWM4MGFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS + SIRUP \(TH/JP\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,838 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,899 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 55 | [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 |
 | 56 | [tell me, will we survive?](https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT), [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [HNATA](https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O) | [tell me, will we survive?](https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk) | 3:14 |
 | 57 | [Killer](https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:18 |
-| 58 | [一個眼神](https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [一個眼神](https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu) | 2:57 |
-| 59 | [Yellow Leaf](https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:34 |
+| 58 | [Yellow Leaf](https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:34 |
+| 59 | [一個眼神](https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [一個眼神](https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu) | 2:57 |
 | 60 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 |
 | 61 | [Our Beloved Summer](https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD) | 3:12 |
 | 62 | [คนเดียวกัน \(You?\)](https://open.spotify.com/track/2Cm88ZmLpkDQaYHZEjPWv0) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [คนเดียวกัน \(You?\)](https://open.spotify.com/album/2hlF4yvrAXDUGPaL1P2qFa) | 4:01 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 80 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 |
 | 81 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
 | 82 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
-| 83 | [Daydream](https://open.spotify.com/track/3mZOvSK1AW3OaS5ybLAe8i) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Daydream](https://open.spotify.com/album/0E2rJ0BEKCPeVls0kcHSyD) | 4:40 |
-| 84 | [WANDERLUST](https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU) | 3:16 |
-| 85 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
+| 83 | [WANDERLUST](https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU) | 3:16 |
+| 84 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
+| 85 | [Daydream](https://open.spotify.com/track/3mZOvSK1AW3OaS5ybLAe8i) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Daydream](https://open.spotify.com/album/0E2rJ0BEKCPeVls0kcHSyD) | 4:40 |
 | 86 | [Vast \- ANNA Remix](https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Vast \(ANNA Remix\)](https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD) | 3:26 |
 | 87 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
 | 88 | [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 90 | [venus](https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza) | 4:10 |
 | 91 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 |
 | 92 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
-| 93 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
-| 94 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
+| 93 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
+| 94 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
 | 95 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 96 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
 | 97 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 |
 | 98 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
-| 99 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
-| 100 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
+| 99 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
+| 100 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
 
-Snapshot ID: `MCxhZjNjMzNlY2MxM2Y0MjNlOTQ2OTU3NWRkNjRkODA3OTExN2M2NDA5`
+Snapshot ID: `MCxmZmZhMWRlZGI0NDY4MGQ3ZDJkY2YwY2MyZjc0NDYxNTE2M2VjYTc1`

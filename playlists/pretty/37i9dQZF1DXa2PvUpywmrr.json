@@ -1,12 +1,12 @@
 {
   "description": "A mix of the biggest pop, dance, and hip hop party songs. Cover: Sophie Ellis-Bextor",
-  "num_followers": 4260258,
+  "num_followers": 4260313,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzZkMmUwNjEyNTMzNWZhMWNmODBjOTc3N2RjMTY5NTViZDBhYmEx",
+  "snapshot_id": "MCw1NThkMDFhOGExNmIzNmRlMDIzMjRmMTAyYzdkMDQ1YjcxNmYxNGNl",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -843,18 +843,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -875,26 +879,6 @@
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -943,6 +927,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -955,26 +955,6 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1011,6 +991,26 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "EVOL",
-        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         },
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 313546,
-      "name": "Low Life (feat. The Weeknd)",
-      "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1419,22 +1419,38 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 116465,
-      "name": "MONEY ON THE DASH - SPED UP",
-      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
+      "duration_ms": 313546,
+      "name": "Low Life (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1459,22 +1475,6 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1827,6 +1827,46 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "J CHRIST",
         "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
       },
@@ -1859,50 +1899,6 @@
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        }
-      ],
-      "duration_ms": 184732,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     }
   ],
   "unique_name": "Party Hits",

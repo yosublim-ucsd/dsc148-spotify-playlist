@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Ambar Lucid
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,783 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,825 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 26 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
 | 27 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
 | 28 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
-| 29 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
-| 30 | [Piensa en Mí](https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 |
+| 29 | [Piensa en Mí](https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 |
+| 30 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
 | 31 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 |
 | 32 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
 | 33 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 56 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
 | 57 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 | 58 | [Desahogo](https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Desahogo](https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9) | 4:20 |
-| 59 | [Loco](https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Loco](https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9) | 3:29 |
-| 60 | [Aunque Me Cueste La Vida](https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:24 |
+| 59 | [Aunque Me Cueste La Vida](https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:24 |
+| 60 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
 
-Snapshot ID: `MCwzY2VhYzhiZDZjMGZhYjQ0ODJjNjZmMDVlMWU1MmNiYTM4NjUzOGM0`
+Snapshot ID: `MCwzN2JiN2NjODY5Y2VmODI0ZjZlZTI2OGM0NzQ1ZDRlODhkNjVhM2Rj`

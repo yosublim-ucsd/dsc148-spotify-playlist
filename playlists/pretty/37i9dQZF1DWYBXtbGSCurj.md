@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Senndy, Niink
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,455 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,502 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 15 | [Proibidão Freestyle](https://open.spotify.com/track/5aXLowFBawbk0OqOfrvvmr) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:46 |
 | 16 | [Velocidade](https://open.spotify.com/track/6nsUl93Uk1vf7NKefpCRDV) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4) | [Velocidade](https://open.spotify.com/album/3w7BVEEIOG9QVy1bxnOFOp) | 2:25 |
 | 17 | [Última Noite \(Papatracks\#11\)](https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Última Noite \(Papatracks\#11\)](https://open.spotify.com/album/0EcAY4yJ4yVIvA0RwVKOFm) | 2:58 |
-| 18 | [PILOTO](https://open.spotify.com/track/6On74aITlCX0gwMkWlKMVh) | [EAGD](https://open.spotify.com/artist/2mKYFV2ni4q7nTtWcv4XcJ), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [ENOQ](https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx), [Lima's](https://open.spotify.com/artist/6vmfgU628jztPRd0vi4Nmz), [Dalovs](https://open.spotify.com/artist/3yxeJIxfK4b2r0P3O6gAhD), [Ned 011](https://open.spotify.com/artist/4nYUQ1aMxIozQ03ygkRGkm) | [PILOTO](https://open.spotify.com/album/0hbvgxpEoGlCwKY8eVUVEv) | 5:01 |
+| 18 | [PILOTO](https://open.spotify.com/track/6On74aITlCX0gwMkWlKMVh) | [EAGD](https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [ENOQ](https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx), [Lima's](https://open.spotify.com/artist/6vmfgU628jztPRd0vi4Nmz), [Dalovs](https://open.spotify.com/artist/3yxeJIxfK4b2r0P3O6gAhD), [Ned 011](https://open.spotify.com/artist/4nYUQ1aMxIozQ03ygkRGkm) | [PILOTO](https://open.spotify.com/album/0hbvgxpEoGlCwKY8eVUVEv) | 5:01 |
 | 19 | [Lenda](https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Mindu](https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 3:12 |
 | 20 | [Deus Guiando](https://open.spotify.com/track/1pk3K9bWcLtNPRhg6VZadX) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Deus Guiando](https://open.spotify.com/album/29Tzls0TFsMS5tW0VmxFZ0) | 2:33 |
 | 21 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [VIDA DE UM MENO BANDIDO](https://open.spotify.com/track/5tdIOZxUtzy6eJVMKzFXhC) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [O MUNDO DE UM JOVEM TRALHA](https://open.spotify.com/album/2wasNK4LbD19eHD70au9mL) | 3:06 |
 | 75 | [Só/Sim ou Não](https://open.spotify.com/track/14FjbgbyStHBIK8FMKYdyI) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Só/Sim ou Não](https://open.spotify.com/album/77j6bV8NFDWAx2mObaY9c2) | 3:59 |
 
-Snapshot ID: `MCxmZDcyMjRmZGM4MTAyMTU0OTNmMjg3NmExZDUzZTI0MDVmM2QyMmYw`
+Snapshot ID: `MCw2ODMzZWU1YzcyOTBiYzZhYWY0OGE2MzI1ZTE4NmVkYmYwMjY1NjY0`

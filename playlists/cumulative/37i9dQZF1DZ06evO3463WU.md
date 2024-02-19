@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 52 min
+86 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Los Amantes](https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:28 | 2022-06-07 |  |
 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 | 2022-06-01 |  |
 | [Me Haces Falta Papá](https://open.spotify.com/track/4pnJfqCFduVTCKveD7VCCq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 3:38 | 2022-06-01 | 2022-10-13 |
-| [Me Voy A Alejar](https://open.spotify.com/track/1zdPjLtWjmwRKKCMAK3Dpj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Me Voy A Alejar](https://open.spotify.com/album/38rMvKBQVe0yHY5iDGX35E) | 3:19 | 2023-11-10 |  |
+| [Me Voy A Alejar](https://open.spotify.com/track/1zdPjLtWjmwRKKCMAK3Dpj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Me Voy A Alejar](https://open.spotify.com/album/38rMvKBQVe0yHY5iDGX35E) | 3:19 | 2023-11-10 | 2024-02-19 |
 | [Mi Amor Sin Ella](https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:12 | 2022-06-02 |  |
 | [Mi Amor Y Mi Agonia](https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 2:51 | 2022-06-01 |  |
 | [Mi Enemigo El Amor](https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:54 | 2022-06-01 |  |
@@ -84,6 +84,7 @@
 | [Un Indio Quiere Llorar](https://open.spotify.com/track/53nzQq7wFXLx0xXEQf7jOy) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya Se Fue](https://open.spotify.com/album/61O9K0fxUAMCqIziOECeYp) | 2:47 | 2022-06-04 | 2022-06-06 |
 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 | 2023-04-23 |  |
 | [Una Noche Cualquiera](https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Noche Cualquiera](https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD) | 3:35 | 2022-06-01 |  |
+| [Una Tarde Como Cualquiera](https://open.spotify.com/track/3bQbNaVJBG3XishLUHdBWe) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Historia](https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq) | 3:10 | 2024-02-18 |  |
 | [Unidos Para Amarnos](https://open.spotify.com/track/78DazlfpGkIVK2qLsgMemf) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Bendita Mujer](https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV) | 3:26 | 2022-06-01 |  |
 | [Vuelve Por Favor](https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vuelve Por Favor](https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W) | 3:20 | 2022-06-01 |  |
 | [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 | 2022-06-01 | 2022-12-14 |

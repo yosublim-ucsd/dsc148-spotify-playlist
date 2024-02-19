@@ -1,12 +1,12 @@
 {
   "description": "Modern heavenly sounds. Cover: Caroline Polachek",
-  "num_followers": 1623764,
+  "num_followers": 1623959,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjhkZjRjMDNmYjhmY2RmNDVjMWVmYmIyZDc1MmQxNmE2ZjJkNzlk",
+  "snapshot_id": "MCwwNWIzNDlmNGMzOTQzNGIwNDdjYzA2ZmEzODk5Mjg1MDE2NTQyYjFm",
   "tracks": [
     {
       "added_at": "2024-02-14 20:41:11",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 352178,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 207718,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
       "added_at": "2023-04-28 04:00:00",

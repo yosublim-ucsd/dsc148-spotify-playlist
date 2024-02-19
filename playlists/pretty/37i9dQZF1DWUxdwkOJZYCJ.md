@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 
 > Energetic tracks from the 1990s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,230 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,484 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 42 | [I'm Too Sexy](https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Hits!](https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2) | 2:51 |
 | 43 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
 | 44 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 |
-| 45 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
-| 46 | [Who Do You Think You Are](https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:00 |
+| 45 | [Who Do You Think You Are](https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:00 |
+| 46 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 | 47 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 | 48 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 |
 | 49 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
 | 50 | [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 |
 
-Snapshot ID: `MCxjNjc0Y2I1NGM2ZjY1MjY0OWViMjA4MDRmYmZhNGZmNWE4NmE4Y2Ji`
+Snapshot ID: `MCxmODc4MjcxMjk3NmFjMGMyYzExYTRhYTg4ODA3YWRmMzUzNzMzN2M2`

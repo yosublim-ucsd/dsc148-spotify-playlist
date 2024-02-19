@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,753 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,754 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 204 | [I Zimbra](https://open.spotify.com/track/7oyNN8YzrHBb08FCDCgrdS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Bonus Rarities & Outtakes](https://open.spotify.com/album/3azmJJ3Ejy93PHyxE7Ps30) | 3:56 |
 | 205 | [My Peace of Heaven \- International Mix](https://open.spotify.com/track/0qAXmTUtBaQsdfUGvT4bIy) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [My Peace of Heaven](https://open.spotify.com/album/7DrWQeOnroI91NwolZFivl) | 9:08 |
 
-Snapshot ID: `MCxhMDkwYjIxNDNlMzFjYjExOTViNTliNWUzNTAwNWZlNmYwZmRjZmJl`
+Snapshot ID: `MCw0ZGE4ZDUzOWM1MmJkZjlmMjc4Nzg2ZTQwZWI3ODQ1NDQyNzBlOWE0`

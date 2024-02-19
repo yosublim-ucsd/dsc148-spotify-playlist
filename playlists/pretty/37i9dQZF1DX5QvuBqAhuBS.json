@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to mall walking... once upon a time.",
-  "num_followers": 30029,
+  "num_followers": 30080,
   "original_name": "Mall Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2E3MGYwNDlhYTIzOTJiMzA3N2ViN2ExY2YyMDM5NjRiZDdiMzZk",
+  "snapshot_id": "MCxmYzc2ZWU3MzE4NDRlNGE3YmI0MWY0NmI0YjMwYTY1ODllYjJkZWYy",
   "tracks": [
     {
       "added_at": "2023-11-17 21:30:04",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-11-17 21:30:04",
       "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2023-11-17 21:30:04",
+      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
-    },
-    {
-      "added_at": "2023-11-17 21:30:04",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2023-11-17 21:30:04",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-17 21:30:04",
       "album": {
-        "name": "The World From The Side Of The Moon",
-        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
-    },
-    {
-      "added_at": "2023-11-17 21:30:04",
-      "album": {
         "name": "Unbroken",
         "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 205346,
       "name": "Give Your Heart a Break",
       "url": "https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA"
+    },
+    {
+      "added_at": "2023-11-17 21:30:04",
+      "album": {
+        "name": "The World From The Side Of The Moon",
+        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
     },
     {
       "added_at": "2023-11-17 21:30:04",

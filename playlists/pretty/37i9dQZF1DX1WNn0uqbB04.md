@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,267 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,275 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 19 | [El Mareo](https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 4:35 |
 | 20 | [La Bohemia](https://open.spotify.com/track/59IVKAGNRh8KtmDT0AZUf1) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:59 |
 | 21 | [Perro Viejo](https://open.spotify.com/track/4Impyj6XN1NOSuLaFZPvnX) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Perfect Tango](https://open.spotify.com/album/5j2itanDsC7ClQ8zCju4pP) | 3:25 |
-| 22 | [Tango](https://open.spotify.com/track/7wGc5C1U1Z241pMWzGGPMC) | [Cirque du Soleil](https://open.spotify.com/artist/0iF2gedsSjoVHRUh5vXSdu) | [Cirque du Soleil](https://open.spotify.com/album/3o5It5Kg6G4ZzDnTS9h7ej) | 5:13 |
-| 23 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 |
+| 22 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 |
+| 23 | [Tango](https://open.spotify.com/track/7wGc5C1U1Z241pMWzGGPMC) | [Cirque du Soleil](https://open.spotify.com/artist/0iF2gedsSjoVHRUh5vXSdu) | [Cirque du Soleil](https://open.spotify.com/album/3o5It5Kg6G4ZzDnTS9h7ej) | 5:13 |
 | 24 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 |
 | 25 | [Oblivion](https://open.spotify.com/track/745ECNomCDA8KOMUM1sMdR) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:03 |
 | 26 | [La Milonga Del Senor Blanco](https://open.spotify.com/track/3bOV8ki6LJMWauukDTllD4) | [Bassa](https://open.spotify.com/artist/4Yenm93sqAuPEt2xHG5DBC) | [Berlin Tango](https://open.spotify.com/album/0BusGskU7khU5LU1fJqina) | 4:37 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 63 | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Sgoliat vs KoolTURE](https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1) | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8) | 3:36 |
 | 64 | [Funky Tango \- Remasterizado 2023](https://open.spotify.com/track/26w0kTFqcEkBN3rI0QIe5n) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG), [Juan Salinas](https://open.spotify.com/artist/3LkShlQRHHeTS7Y6iyOeX8) | [Funky Tango \(Remasterizado 2023\)](https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c) | 7:58 |
 | 65 | [Tanguera](https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV) | [Diego Schissi Quinteto](https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ) | [Tanguera](https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX) | 4:14 |
-| 66 | [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 |
-| 67 | [Kirón Tango](https://open.spotify.com/track/7IHzhCcYunBzdLXKKawyrt) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Sudestada Tango Lounge 2](https://open.spotify.com/album/3iNJRIotoqncIRI0fwY2pv) | 4:55 |
+| 66 | [Kirón Tango](https://open.spotify.com/track/7IHzhCcYunBzdLXKKawyrt) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Sudestada Tango Lounge 2](https://open.spotify.com/album/3iNJRIotoqncIRI0fwY2pv) | 4:55 |
+| 67 | [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 |
 | 68 | [La Gloria](https://open.spotify.com/track/2442ZJTb6I1AnuBu7AQqEs) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Tango 3.0](https://open.spotify.com/album/5iPPI8CcvZYhaf34VQC9P5) | 3:47 |
 | 69 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
 | 70 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 
-Snapshot ID: `MCxjMTllYjU4ZjA1MzBiOThmYmIxOWM5YTBkYTI5OTQyZmFmNzZiMDE3`
+Snapshot ID: `MCxkYTY2MmEwZTRjYzcxYTVkNDQzMWNmMTI1OWY3ZThjYTA4NmYyNmZk`

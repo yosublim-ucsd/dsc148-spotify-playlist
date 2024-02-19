@@ -1,12 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1055488,
+  "num_followers": 1055701,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTgxZmVjNmMyMzhjZjE3YWQyZjI3MGNkM2M2ZDk3NDc4NTlhNDM5",
+  "snapshot_id": "MCwzOTBjNGFmYTE5Mzk1YzMzOTdkN2QzZjc0N2FmY2RiZDg3NTYzYTUx",
   "tracks": [
     {
       "added_at": "2024-02-16 00:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "You're Losing Me (From The Vault)",
         "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
       },
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 235636,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "if u think i'm pretty",
-        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "if u think i'm pretty",
+        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -695,6 +695,22 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -847,18 +863,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+        "name": "drunk text",
+        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "drunk text",
-        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
       "artists": [
         {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -1387,6 +1403,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "ten",
         "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
       },
@@ -1407,22 +1439,6 @@
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "UN PREVIEW",
-        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 165582,
-      "name": "UN PREVIEW",
-      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
@@ -1515,6 +1515,38 @@
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1539,6 +1571,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Everywhere, Everything (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
@@ -1555,38 +1603,6 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 174595,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+      "duration_ms": 174595,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
     }
   ],
   "unique_name": "Pop Right Now",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 
 > La pluma sensible detrás de tus favoritas de regional mexicano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,294 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,320 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 28 | [Me Gusta Todo De Ti](https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Romances](https://open.spotify.com/album/6IQ9Tk73kwPmKbdnMQ7nlo) | 3:04 |
 | 29 | [Otro de Esos Cuentos](https://open.spotify.com/track/2LWBwqpIaFDiWnPNTZNS8b) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/2YJNuXQxw3KHCxLUPb7PXg) | 3:15 |
 | 30 | [Disponible Para Mi](https://open.spotify.com/track/1sKERUbwyohGOuQXS2JwFJ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:26 |
-| 31 | [Una Entre Un Millón](https://open.spotify.com/track/4NfEGvkNkSaTGMjLAmpGcg) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Una Entre Un Millón](https://open.spotify.com/album/3kB75r1jL5yfKXymZSsibm) | 3:17 |
+| 31 | [No Sé Cómo Pagarte](https://open.spotify.com/track/3yi3RIdQCniaU5TrIqwV3i) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Todo Gracias A Ti](https://open.spotify.com/album/14LLEBlGGSHP240DyKZ7hk) | 3:02 |
 | 32 | [Solo Con Verte](https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:12 |
-| 33 | [No Sé Cómo Pagarte](https://open.spotify.com/track/3yi3RIdQCniaU5TrIqwV3i) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Todo Gracias A Ti](https://open.spotify.com/album/14LLEBlGGSHP240DyKZ7hk) | 3:02 |
+| 33 | [Una Entre Un Millón](https://open.spotify.com/track/4NfEGvkNkSaTGMjLAmpGcg) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Una Entre Un Millón](https://open.spotify.com/album/3kB75r1jL5yfKXymZSsibm) | 3:17 |
 | 34 | [El Amor De Mi Vida](https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [El Amor De Mi Vida](https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm) | 2:59 |
 | 35 | [Consecuencia De Mis Actos](https://open.spotify.com/track/6b2KNJfIFpFg8ygNI7j1lT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:48 |
 | 36 | [Te Darán Ganas De Verme](https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 99 | [De Ti Exclusivo](https://open.spotify.com/track/5jTONxXzG2oRzc6gveGELN) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Singles](https://open.spotify.com/album/3XiBZ63yqMHNklPLIiIAMx) | 3:17 |
 | 100 | [Te Prometo](https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:42 |
 
-Snapshot ID: `MCxjYWRiMjEwOWQ1YTQxMjhiYzE5MDI3NjM2MDRiNjI0ODlhNjUzODQy`
+Snapshot ID: `MCxjZTU2MWY2OWY0OTNhNDgyODRmZmM3OGE4OTM1MTA2ZDg3M2NjYTQz`

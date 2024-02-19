@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,405 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,442 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 32 | [Burn The Witch](https://open.spotify.com/track/7yyif2Ity1GipUXTdgofKw) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 3:35 |
 | 33 | [Can't Get You Out of My Head](https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [The Great Awakening](https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN) | 3:10 |
 | 34 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 |
-| 35 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
-| 36 | [Little Ghost](https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:18 |
+| 35 | [Little Ghost](https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:18 |
+| 36 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
 | 37 | [Let's Have A Satanic Orgy](https://open.spotify.com/track/1TytKeDnrjx0t29DYclf3W) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [God Is Dead](https://open.spotify.com/album/5BLV32zI1HWGP6DLkXMRKZ) | 4:01 |
 | 38 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
 | 39 | [Hunting for Witches](https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:30 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 70 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 71 | [Superstition](https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Keep On Your Mean Side](https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk) | 4:40 |
 | 72 | [I Died So I Could Haunt You](https://open.spotify.com/track/7lW55LWB5WNghEKUDdSW2x) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [The Five Ghosts](https://open.spotify.com/album/0fli3Vlq3OCeHEDpxlptVl) | 3:05 |
-| 73 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 |
-| 74 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
+| 73 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
+| 74 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 |
 | 75 | [Found Love in a Graveyard](https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi) | 3:59 |
 | 76 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
 | 77 | [Witches! Witches! Rest Now in the Fire](https://open.spotify.com/track/291lmjDQWvoIvydacDDPHw) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Rest Now, Weary Head! You Will Get Well Soon](https://open.spotify.com/album/3v5np4Yucc1MfTScroDIvM) | 3:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 79 | [Skeleton Dance](https://open.spotify.com/track/4NRa0k3kkCuL0cZDFCBRer) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/7w4b556eeov0CXCQYYYkls) | 3:37 |
 | 80 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
 
-Snapshot ID: `MCw4MjgzZGIyOGYxYWYzOGZhZmZhZTlhN2ZkODlmNTE4Mjk5NjZlOWJm`
+Snapshot ID: `MCwyYzhjNTM1NzcwYjBkODMyODA2MWU3NmFkNzMxYTZiMmFjMWNlYjk0`

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 131642,
+  "num_followers": 131674,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2JiYjYxYzFkZjE3M2FmNDgzOTBlYTUxYjhjYjk4NDI5NTQ1NDI4",
+  "snapshot_id": "MCwzNDQxMjRjMjhlNmQ2ZmI5YmM2OWRiYWM4ZDBhYWE1YzNhMjM2ZThk",
   "tracks": [
     {
       "added_at": "2023-08-04 20:15:09",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Woah Man",
-      "url": "https://open.spotify.com/track/2BGLJ2TvnOQwZ1pT81TIBl"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Woah Man",
+      "url": "https://open.spotify.com/track/2BGLJ2TvnOQwZ1pT81TIBl"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 156333,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Roccastrada",
+        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Roccastrada",
+      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -999,22 +1015,6 @@
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
-        "name": "Roccastrada",
-        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Roccastrada",
-      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Where Are Your Kids Tonight? (feat. John Grant)",
-        "url": "https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE"
+        "name": "Already, Always",
+        "url": "https://open.spotify.com/album/1Sg1X4KNEe2O35PcuhcjZZ"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        },
-        {
-          "name": "John Grant",
-          "url": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+          "name": "Bess Atwell",
+          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
         }
       ],
-      "duration_ms": 326093,
-      "name": "Where Are Your Kids Tonight? (feat. John Grant)",
-      "url": "https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0"
+      "duration_ms": 209840,
+      "name": "Red Light Heaven",
+      "url": "https://open.spotify.com/track/5eFDNtqUJcF7a5wL4zwdhM"
     }
   ],
   "unique_name": "Garden Indie",

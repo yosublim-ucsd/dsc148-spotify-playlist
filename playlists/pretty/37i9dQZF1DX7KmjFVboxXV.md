@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,123 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,340 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,23 +30,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 20 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
 | 21 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:36 |
 | 22 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 |
-| 23 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
-| 24 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
-| 25 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 |
-| 26 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
-| 27 | [Butch 4 Butch](https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc) | 2:58 |
+| 23 | [Butch 4 Butch](https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc) | 2:58 |
+| 24 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
+| 25 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
+| 26 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 |
+| 27 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
 | 28 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 |
 | 29 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 | 30 | [Lucky Strike](https://open.spotify.com/track/4RoArPM0AsuW3h8hW8xtnr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:28 |
 | 31 | [Marceline](https://open.spotify.com/track/0RCpze7hmowZIGUJs9Dm7w) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 2:16 |
 | 32 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 33 | [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 |
-| 34 | [Thinkin Bout You](https://open.spotify.com/track/7ehvyx8K9ZRbOofjeUyIic) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Thinkin Bout You](https://open.spotify.com/album/68j4AeI3JdszaZ7mhCh4Yo) | 3:21 |
-| 35 | [She's Pretty](https://open.spotify.com/track/4yGbOvfWg5HOmRP7xbnv7j) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [She's Pretty](https://open.spotify.com/album/5P8ahTHqcOcp2o6zGtSuWO) | 2:53 |
+| 34 | [She's Pretty](https://open.spotify.com/track/4yGbOvfWg5HOmRP7xbnv7j) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [She's Pretty](https://open.spotify.com/album/5P8ahTHqcOcp2o6zGtSuWO) | 2:53 |
+| 35 | [Thinkin Bout You](https://open.spotify.com/track/7ehvyx8K9ZRbOofjeUyIic) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Thinkin Bout You](https://open.spotify.com/album/68j4AeI3JdszaZ7mhCh4Yo) | 3:21 |
 | 36 | [Say It First](https://open.spotify.com/track/4K1vOdIFqskQv3zoI0FdAk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:07 |
 | 37 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 |
-| 38 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/6LHioVAsFPLjupnl8ikW7H) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Take It or Leave It / So Hot You're Hurting My Feelings](https://open.spotify.com/album/5TaITkKqtWBJGkc2LhCSR5) | 3:29 |
-| 39 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 |
+| 38 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 |
+| 39 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/6LHioVAsFPLjupnl8ikW7H) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Take It or Leave It / So Hot You're Hurting My Feelings](https://open.spotify.com/album/5TaITkKqtWBJGkc2LhCSR5) | 3:29 |
 | 40 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 |
 | 41 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 |
 | 42 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 49 | [Wish You Were Gay](https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/50XzEQE4WzsW2XH1UWIsBD) | 3:11 |
 | 50 | [A Shitty Gay Song About You](https://open.spotify.com/track/7cA93NpGWT5pgyxNtsszSR) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/5kPGmWHhhg25uk0lh3d229) | 1:55 |
 
-Snapshot ID: `MCwzNTA4OTExNjEzMTBiYjk2NmFmOGI1OGE0ZjJmMWMzNGI0MDM2MDVl`
+Snapshot ID: `MCwxYWFjZmZhZTE0OGQ0OWRiNzI3MTQyZGIzMTM3ODZkYTA2ZTAwMjdi`

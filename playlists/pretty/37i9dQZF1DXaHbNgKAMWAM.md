@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,015 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,017 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 10 | [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
 | 11 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 12 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
-| 13 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
-| 14 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
+| 13 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
+| 14 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 15 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
 | 16 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |
 | 17 | [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 19 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 |
 | 20 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 |
 | 21 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
-| 22 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
-| 23 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
+| 22 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
+| 23 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
 | 24 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
 | 25 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
 | 26 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 59 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 |
 | 60 | [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 |
 
-Snapshot ID: `MCw0OGIyMmFlMjFkYzhjMzgyMTVlZTgxMjZiNmI0MzBiM2ZlNTI5MDkz`
+Snapshot ID: `MCw4N2Y4ZDk1YmQwZDQyZmIwYTdkYWI4ZjQ2NTU3M2EzMzllMTNkZWVh`

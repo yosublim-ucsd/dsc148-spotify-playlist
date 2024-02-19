@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-581 songs - 2 day 7 hr 16 min
+582 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Eternal Space](https://open.spotify.com/track/4gKS7a24xnVpIlpEoDvRbb) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [James Dexter](https://open.spotify.com/artist/7GwCNTWgIGOdOX5vXRsht4) | [Lucid Dreams](https://open.spotify.com/album/2C70R37EHf3JfsT0ByTGMg) | 6:40 | 2021-04-21 | 2022-07-19 |
 | [Ethos](https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Ethos](https://open.spotify.com/album/4wjQEJULPMyZSlxtp53TGi) | 3:42 | 2023-10-13 | 2023-12-05 |
 | [Eu Topos](https://open.spotify.com/track/4oAZrNEBTbpEggnXhSbi3l) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Mimi Page](https://open.spotify.com/artist/1USUeNBNJcg7Of34Ix74lM) | [Eu Topos EP](https://open.spotify.com/album/5XCivT6plqzOBxohhuM7CJ) | 4:04 | 2021-04-21 | 2022-05-15 |
+| [Eu Vou Pra Bahia](https://open.spotify.com/track/0Sp67H1rsdLZLbNUoOLYzX) | [DOT \(BR\)](https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Eu Vou Pra Bahia](https://open.spotify.com/album/17lKsLsdMLL1CkcJzrR0hl) | 3:15 | 2024-02-16 |  |
 | [Eunoia \- Original Mix](https://open.spotify.com/track/26btt4R7IRda2CHmuidTLM) | [Matan Caspi](https://open.spotify.com/artist/0vgVqK5WmUVzi4lozaSKWd) | [Eunoia](https://open.spotify.com/album/10kcNu8TI8d966msyHYnS9) | 7:26 | 2021-10-01 | 2022-04-21 |
 | [Evening Fog](https://open.spotify.com/track/4P2z1eqevx8wCes6dBjstL) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2) | [A Winter Sampler](https://open.spotify.com/album/2MbQoYh4qL93LVjOYLOwt7) | 9:11 | 2021-04-21 | 2022-07-28 |
 | [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-10-28 | 2023-01-17 |
@@ -457,7 +458,7 @@
 | [Seda](https://open.spotify.com/track/31QqKRikjh4mtLFPle9ub9) | [Alex Lur](https://open.spotify.com/artist/4rwz2V4y8Uiz6QR9qSbIrf), [GROJ](https://open.spotify.com/artist/0bJiWg2SC47WIfFe96Ke6E) | [Seda](https://open.spotify.com/album/3xO9kVbXYO9SmP5eNvkwq4) | 3:47 | 2021-06-25 | 2022-07-25 |
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-24 | 2023-07-16 |
-| [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 | 2024-01-05 |  |
+| [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 | 2024-01-05 | 2024-02-19 |
 | [Shaman](https://open.spotify.com/track/0CCTuZS9cObjmWjfwYOaPM) | [Azedia](https://open.spotify.com/artist/19YDv4gY8HMpdJgABGIVJn) | [Shaman](https://open.spotify.com/album/1O1d80c9ux5acX2CIPDtrs) | 5:41 | 2021-08-20 | 2022-07-28 |
 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 | 2023-07-28 |  |
 | [Signals](https://open.spotify.com/track/41VCypoktZLhDX8w3FjYFA) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Signals](https://open.spotify.com/album/0px6PqdNTCVfh9iYBBtKY0) | 6:41 | 2022-05-06 | 2022-07-13 |

@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=C9\-23PBuSF2oV6zMlS553A">Ebuka Songs</a>
 
-409 songs - 1 day 11 hr 30 min
+410 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [I Never Knew](https://open.spotify.com/track/7ouTAQjTCipK9Ag5GAwqE0) | [Proud Refuge](https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I Never Knew](https://open.spotify.com/album/6NIPGPuPrJ7KjfDxf5BLyD) | 3:50 | 2021-11-18 | 2023-02-01 |
 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 | 2023-04-28 | 2023-10-13 |
 | [I No Send](https://open.spotify.com/track/7DObo84GS9cTcf25Z5XMd0) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/2u4uQpsUizbdl7KQTmnjGS) | 3:53 | 2023-11-29 | 2023-12-15 |
-| [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-04-21 |  |
+| [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-01-03 |  |
+| [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-04-21 | 2024-02-19 |
 | [I will soar](https://open.spotify.com/track/1Eag9P72ROslztON6d2z15) | [Nene Olajide](https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F) | [Your Glory](https://open.spotify.com/album/0pBJZL8J11JQGc70j4IcWQ) | 5:08 | 2023-06-16 | 2023-06-23 |
 | [I'm Blessed](https://open.spotify.com/track/0FEjctsiNnY7QSY2xvIpLI) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [I'm Blessed](https://open.spotify.com/album/4YPYAwVq1Bi9KWQW3iOMnK) | 4:20 | 2023-05-05 | 2023-06-23 |
 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 | 2023-06-23 |  |

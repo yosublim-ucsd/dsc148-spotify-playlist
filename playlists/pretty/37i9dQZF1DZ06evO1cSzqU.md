@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,698 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,780 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 7 | [Under The Same Sun](https://open.spotify.com/track/0NHBt8bp6tloebOWV3U3fN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 4:53 |
 | 8 | [Always Somewhere](https://open.spotify.com/track/6Ok4D4w117mSi9OP8tmrpg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 4:57 |
 | 9 | [Wind of Change](https://open.spotify.com/track/5WSsTyBvMEFG3ac6JKb9gY) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 5:08 |
-| 10 | [When the Smoke Is Going Down \(2015 \- Remaster\)](https://open.spotify.com/track/4USzbSnPuhnR0b2CUiHwyF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6MacGo0aJ1ni9uhBHpQoZ3) | 3:51 |
-| 11 | [When You Came into My Life \- Studio Edit](https://open.spotify.com/track/66kO1Sr99392GvDZWKdCiv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:30 |
+| 10 | [When You Came into My Life \- Studio Edit](https://open.spotify.com/track/66kO1Sr99392GvDZWKdCiv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:30 |
+| 11 | [When the Smoke Is Going Down \(2015 \- Remaster\)](https://open.spotify.com/track/4USzbSnPuhnR0b2CUiHwyF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6MacGo0aJ1ni9uhBHpQoZ3) | 3:51 |
 | 12 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 |
 | 13 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 |
 | 14 | [Rhythm of Love](https://open.spotify.com/track/3VDfLfd7lfCU3MTIXNqfR3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:39 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 43 | [Alien Nation](https://open.spotify.com/track/6fNGyaXIolVXwKH9C1Ew8k) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 5:43 |
 | 44 | [The Good Die Young](https://open.spotify.com/track/2a29hcaZHQu1hQGeObMPuP) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 5:14 |
 | 45 | [Seventh Sun](https://open.spotify.com/track/5RN6lrv6esmnuN9F62VQ2F) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 5:30 |
-| 46 | [The Sails of Charon \(2015 \- Remaster\)](https://open.spotify.com/track/6J6riyv0pGpXETSiHrjrzF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S) | 5:11 |
-| 47 | [I'm Leaving You](https://open.spotify.com/track/2fRsjOJmVATsGho7UD6GJw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:17 |
+| 46 | [I'm Leaving You](https://open.spotify.com/track/2fRsjOJmVATsGho7UD6GJw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:17 |
+| 47 | [The Sails of Charon \(2015 \- Remaster\)](https://open.spotify.com/track/6J6riyv0pGpXETSiHrjrzF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S) | 5:11 |
 | 48 | [Raised on Rock](https://open.spotify.com/track/21wukp6132v5Y165Lxg17H) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 3:58 |
 | 49 | [Peacemaker](https://open.spotify.com/track/1YjOclLzSa0IhjGmjgDseT) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 2:56 |
 | 50 | [No Pain No Gain](https://open.spotify.com/track/1sVtCOmdRKyXQZmoS5psN7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 3:54 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA4NDFjOTlmZDg2MjU5OGI5M2MxM2ZlZGFkNWRjZGNkNw==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDAwOGI1ZTY2YzMyNDJmYzhjZDA3NGMyZTA5YjNmOTc3OA==`

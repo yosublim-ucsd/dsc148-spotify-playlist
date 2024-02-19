@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: Remembering Toby Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,756,218 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757,079 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 64 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:19 |
 | 65 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
 | 66 | [Bubba Shot The Jukebox](https://open.spotify.com/track/0PsBdKWnOQGMo9smobflvy) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Longnecks & Short Stories](https://open.spotify.com/album/3GAq1vI6aQ5gZu53e8DZFy) | 3:05 |
-| 67 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
-| 68 | [I Told You So](https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:39 |
+| 67 | [I Told You So](https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:39 |
+| 68 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 69 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
 | 70 | [I'm From The Country \- Single Version](https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [I'm From The Country](https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS) | 3:33 |
 | 71 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 87 | [Life's a Dance](https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 3:08 |
 | 88 | [Gone Country](https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 4:20 |
 | 89 | [This Cowboy's Hat](https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo) | [Used To Want To Be A Cowboy](https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY) | 4:05 |
-| 90 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
-| 91 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
+| 90 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
+| 91 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
 | 92 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
 | 93 | [How Do I Get There](https://open.spotify.com/track/34VnYs7xwpscz3DkbTMoHb) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:09 |
 | 94 | [I'm in a Hurry \(And Don't Know Why\)](https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 2:48 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 108 | [We Danced Anyway](https://open.spotify.com/track/4fOFOwrAHA9PdhOL7lciok) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 3:22 |
 | 109 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |
 | 110 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 |
-| 111 | [It Matters to Me](https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [It Matters to Me](https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds) | 3:17 |
-| 112 | [It's A Little Too Late \- 1996 Greatest Hits Version](https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:43 |
+| 111 | [It's A Little Too Late \- 1996 Greatest Hits Version](https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:43 |
+| 112 | [It Matters to Me](https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [It Matters to Me](https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds) | 3:17 |
 | 113 | [Better Class of Losers](https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [High Lonesome](https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02) | 2:40 |
 | 114 | [Then What?](https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Rumor Has It](https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt) | 3:03 |
 | 115 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 144 | [How Can I Help You Say Goodbye](https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 4:58 |
 | 145 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 |
 | 146 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |
-| 147 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
-| 148 | [Thinkin' About You](https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 3:23 |
+| 147 | [Thinkin' About You](https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 3:23 |
+| 148 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
 | 149 | [I Think About You](https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [I Think About You](https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu) | 3:26 |
 | 150 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
 
-Snapshot ID: `MCxlOTg1YjJhZWE4MDY1NzkxMjVlYmU4NzgwZmFhOGQ3NmFmNGZhMTk1`
+Snapshot ID: `MCw4MzMxYTg5NTYzZjEwMWRkMDE0YjRmZDU3NDEyZWM0MmE5NmJlNTVi`

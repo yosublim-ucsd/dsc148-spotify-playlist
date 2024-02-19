@@ -1,12 +1,12 @@
 {
   "description": "A bit of then, a bit of now and everything in-between. Pop you can rely on. Cover: Amy Shark",
-  "num_followers": 146019,
+  "num_followers": 146029,
   "original_name": "GO-TO Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2JmNmFlOTg0YTRmODUwMTdkODZiMTMwYjExZTVkNDljNzMyYzhm",
+  "snapshot_id": "MCwyMmIxNTljMzBkMzRiYjJjNDUyMGMxOGFmNDJkMmEwODM0ZjI0NTMz",
   "tracks": [
     {
       "added_at": "2023-08-03 14:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 170226,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 170226,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Havana (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Mistaken Identity",
-        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
-      },
-      "artists": [
-        {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
       },
@@ -1499,6 +1467,22 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -1515,18 +1499,34 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "Mistaken Identity",
+        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
       "added_at": "2023-08-03 14:00:00",

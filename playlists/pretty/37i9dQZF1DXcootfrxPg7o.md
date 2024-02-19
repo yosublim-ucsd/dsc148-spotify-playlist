@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 
 > Music from and inspired by Neflix's Malcolm & Marie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,715 likes - 36 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,761 likes - 36 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 7 | [Deliver The Word](https://open.spotify.com/track/747tolfmXSPoCOHcfoOgtz) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Deliver the Word](https://open.spotify.com/album/4mVKP4QgluQEiyVqEekwy3) | 7:51 |
 | 8 | [Wild Is The Wind](https://open.spotify.com/track/0RnQ085KK7an8Qm6n9SWU9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Best Of Nina Simone 20th Century Masters The Millennium Collection](https://open.spotify.com/album/5Vj0u9bxLC6J0xeMONd07O) | 6:57 |
 | 9 | [I'm Gonna Tear Your Playhouse Down](https://open.spotify.com/track/62i5IYsfk28UiViWTeEw2x) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:45 |
-| 10 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 |
+| 10 | [Is It Any Wonder?](https://open.spotify.com/track/3sXAAkkejrZAs57QHjnuZf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 4:36 |
 | 11 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 12 | [Motherless Child](https://open.spotify.com/track/4kzoipQkV4ffLMOwZvoYe3) | [O.V\. Wright](https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk) | [The Soul Of O.V\. Wright](https://open.spotify.com/album/5CK0cRjyDGGxdbjflByYYL) | 2:34 |
 | 13 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:11 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 35 | [Yum Yum \(Gimme Some\)](https://open.spotify.com/track/3cxfUgWIrj0is6kZBED65i) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Yum Yum](https://open.spotify.com/album/4Oe5MlkhpHuFmE98mPOKGD) | 3:18 |
 | 36 | [Wasted](https://open.spotify.com/track/5RP8iEkPFR3GyjaAdswIiH) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [BRAT](https://open.spotify.com/album/5yi3uqaTijrp5KVbvk6BIA) | 4:24 |
 
-Snapshot ID: `MCw4NmE0MDA1ZmVlOTc0OTlkODM3ZmNmZWQ4NTI1NmJmYWUzYzkyNzQ5`
+Snapshot ID: `MCw3NDBkZTUxZDg2ZjFkMTEzYjVmOGRmNzUzM2ExMWFlM2VlMWY3ZGUw`

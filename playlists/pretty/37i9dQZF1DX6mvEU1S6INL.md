@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,089 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,131 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 35 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
 | 36 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
 | 37 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 |
-| 38 | [Flashed Junk Mind](https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary \(Bonus Track Version\)](https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN) | 4:21 |
+| 38 | [Seasons \(Waiting on You\)](https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:46 |
 | 39 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
-| 40 | [Seasons \(Waiting on You\)](https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:46 |
+| 40 | [Flashed Junk Mind](https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary \(Bonus Track Version\)](https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN) | 4:21 |
 | 41 | [Free Animal](https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [For the Light](https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq) | 3:00 |
 | 42 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
 | 43 | [Wildflower](https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 3:39 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 67 | [Call Me Lover](https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:21 |
 | 68 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 |
 | 69 | [The Enemy](https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka) | 4:46 |
-| 70 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
-| 71 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
+| 70 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
+| 71 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
 | 72 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
 | 73 | [Dreaming My Dreams](https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:37 |
 | 74 | [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 99 | [Just Say When \- Version 2.0](https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d) | 3:44 |
 | 100 | [Stars Are on Your Side](https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Stars Are on Your Side](https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar) | 3:38 |
 
-Snapshot ID: `MCxhZjE0MzQ5ZGNmMDkzN2ExMGQ4ZmE2YzhiY2Q1Y2IxMjk4YzRlNTk5`
+Snapshot ID: `MCxmYjllYzQ3YWU0ZDFjZjk0MmQ3ZDU2OGJlZTg2MmFlODdmYmI5ODM3`

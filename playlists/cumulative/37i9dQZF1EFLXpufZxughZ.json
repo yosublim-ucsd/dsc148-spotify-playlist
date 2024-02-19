@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "This Is Me...Now",
+        "url": "https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191449,
+      "name": "Midnight Trip to Vegas",
+      "url": "https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV"
+    },
+    {
+      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },

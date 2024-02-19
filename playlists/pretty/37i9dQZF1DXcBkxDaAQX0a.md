@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,144 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,190 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 31 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 |
 | 32 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
 | 33 | [Who I Am Hates Who I've Been \- Acoustic](https://open.spotify.com/track/2sP6Ne0hozVjqZAhTzvjgi) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Bird and the Bee Sides](https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz) | 3:25 |
-| 34 | [Tracks](https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Backbone](https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku) | 3:22 |
-| 35 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
+| 34 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
+| 35 | [Tracks](https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Backbone](https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku) | 3:22 |
 | 36 | [how big is your brain?](https://open.spotify.com/track/2g6FvhvSzYUq9f6uZeyDip) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:05 |
 | 37 | [Drink To Drown](https://open.spotify.com/track/4oCGjSBibZ4vQDzxcvupBH) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:16 |
 | 38 | [Novocaine](https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Chasing Lonely](https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ) | 3:08 |
 | 39 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7) | 3:18 |
 | 40 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
-| 41 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
-| 42 | [Patience](https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:45 |
+| 41 | [Patience](https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:45 |
+| 42 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
 | 43 | [Aquamarine \(Acoustic\)](https://open.spotify.com/track/0HU0bozP9c79zhdEvJw8ls) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/1mBqUWC3jWAzjOXcId04LN) | 3:52 |
 | 44 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 |
 | 45 | [Crying out Loud](https://open.spotify.com/track/3b5xqoWMD6W0oW814guCqs) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:43 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 55 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 |
 | 56 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
 | 57 | [Seattle](https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Seattle](https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT) | 3:26 |
-| 58 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 |
-| 59 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
+| 58 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
+| 59 | [Worn Down](https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Worn Down / Leave It Alone](https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq) | 3:25 |
 | 60 | [Tide](https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Blue in the Dark](https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42) | 2:39 |
 | 61 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
 | 62 | [Disarm](https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Disarm](https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 |
 | 75 | [Deadlocked \- Acoustic](https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves Acoustic E.P.](https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY) | 3:24 |
 
-Snapshot ID: `MCxjZjVhNDFjNDdjMjRkMjNjNTFlNmZiM2Y3ZTg3ZjQ5OTI5NThjNDE5`
+Snapshot ID: `MCw3MTg5NThiMWVkODE1ZjRjMjMwNDBlOTQwNTVjZjYwMTJkYjQ1YjU0`

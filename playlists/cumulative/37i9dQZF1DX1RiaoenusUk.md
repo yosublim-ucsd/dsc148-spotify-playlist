@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-116 songs - 7 hr 45 min
+117 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Recipe](https://open.spotify.com/track/1Sdz6Kvfs1bYTK0kLRuUSz) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Croupier Funk](https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1) | 4:56 | 2023-02-17 |  |
 | [Resistencia](https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY) | 3:38 | 2023-09-07 |  |
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2023-02-17 | 2023-09-22 |
-| [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 | 2023-02-17 |  |
+| [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 | 2024-01-12 |  |
+| [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 | 2023-02-17 | 2024-02-19 |
 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 | 2023-02-17 |  |
 | [Silver Mule](https://open.spotify.com/track/3PJmsTebOq650PohvoAOny) | [Reiband](https://open.spotify.com/artist/10JfXtdWDeKZKjP0LJkpiM) | [Disconnected](https://open.spotify.com/album/19SYYIX0zzZvm3zZjuncT3) | 3:50 | 2023-09-07 | 2024-01-29 |
 | [Simon Freak](https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Tony 70](https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx) | 3:53 | 2023-02-17 |  |

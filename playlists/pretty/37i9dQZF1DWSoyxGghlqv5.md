@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 
 > Pop gems to help you concentrate and stay focused.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,603 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,596 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 | 7 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
 | 8 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 9 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 |
-| 10 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
-| 11 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
+| 10 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
+| 11 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 12 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 | 13 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 14 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 | 51 | [Home](https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon](https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E) | 3:30 |
 | 52 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 53 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 |
-| 54 | [Better](https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B) | 3:49 |
-| 55 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 |
+| 54 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 |
+| 55 | [Better](https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B) | 3:49 |
 | 56 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
 | 57 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 58 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 59 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 |
 | 60 | [Back To You](https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:30 |
 
-Snapshot ID: `MCw3MzAyN2U0ODdkYzNmNzc5YzAwNDgyYzU3ZjYyMzFkNzhjZTJiNzU3`
+Snapshot ID: `MCw1NzZiNWQ1YTMzZDc3ZDM2MTc0NzQzMzdmNDI2Mjc3ZDAyNGY4Yjg0`

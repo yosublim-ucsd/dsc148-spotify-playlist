@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,547 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,558 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 29 | [Queendom](https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:59 |
 | 30 | [MELODY](https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:29 |
 | 31 | [Beautiful Moonlight](https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 3:58 |
-| 32 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 |
+| 32 | [バブルオーバー！](https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [Vroom Vroom](https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX) | 3:06 |
 | 33 | [SUPER NOVA](https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:14 |
-| 34 | [バブルオーバー！](https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [Vroom Vroom](https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX) | 3:06 |
+| 34 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 |
 | 35 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
 | 36 | [ドキピポ☆エモーション](https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:30 |
 | 37 | [Cherry Bomb](https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3) | [Setsuna Yuki \(CV: Coco Hayashi\)](https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [Dream Land!Dream World!](https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:51 |
 | 50 | [Lemonade](https://open.spotify.com/track/7sppMR5Ag87PFaGFdzgq1m) | [Mia Taylor \(CV: Shu Uchida\)](https://open.spotify.com/artist/1NhKUvJaDW9KlwxUomMal5) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:58 |
 
-Snapshot ID: `MCxlZDgyZTllMDY1MDE2Yzk3ZTE5MTI0MjA0YzRmMzQ0OTg0MTAyMmM5`
+Snapshot ID: `MCxlNjkyOGRmYTNlN2FlYzE4YTQ4MzllOGEyZTMwNzEwMDdmYmQ0ZmYw`

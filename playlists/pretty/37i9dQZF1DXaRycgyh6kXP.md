@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,499 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,588 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 34 | [Kindness](https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Kindness](https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV) | 2:36 |
 | 35 | [Madres](https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:56 |
 | 36 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
-| 37 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
-| 38 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
+| 37 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
+| 38 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
 | 39 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
 | 40 | [So Many Details](https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:45 |
 | 41 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
-| 42 | [Immunity \- Remaster 2023](https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ) | 9:56 |
-| 43 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
+| 42 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
+| 43 | [Immunity \- Remaster 2023](https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ) | 9:56 |
 | 44 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
 | 45 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
 | 46 | [Way Ur Touchin Me](https://open.spotify.com/track/5a73pqoQFFooJRxuNLP8tO) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/74qv9Kr09Yz3ot2RiDnaKp) | 4:59 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 97 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 98 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh) | 8:17 |
 | 99 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
-| 100 | [Kilika](https://open.spotify.com/track/3W2uJ9jgY0l55Rs1BCmgTu) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/0X0yNR4beqvHw4HtqNfj1g) | 4:44 |
+| 100 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 
-Snapshot ID: `MCxlNTAwN2I4YTExYTBhNmI2OTI5MmJmMTY2ZTU2NTgxM2JhMzdjNDk2`
+Snapshot ID: `MCxmODY0OTY4YTExMjY1NWMwZGRkY2MzNTM5NzM2ZTc3MTA0ZTljOGVk`

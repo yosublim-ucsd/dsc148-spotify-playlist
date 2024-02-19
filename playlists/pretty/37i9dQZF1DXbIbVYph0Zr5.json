@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue!",
-  "num_followers": 627912,
+  "num_followers": 628090,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzQ0M2NjOTA0YmE3ZGViODZkZmYwYWUwOTRlZWVjNTUzMWJlMDM5",
+  "snapshot_id": "MCw2ODk5NzVmYjVlYTNmZDQxYmM3ZDFmYjRkZThhZTM5MzU0MGVlMDUz",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Strait Out Of The Box",
         "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 200666,
       "name": "Check Yes Or No",
       "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "A Lot About Livin' (And A Little 'Bout Love)",
         "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 148160,
       "name": "Chattahoochee",
       "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+        "name": "Outskirts",
+        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+      "duration_ms": 182706,
+      "name": "Outskirts",
+      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -1231,8 +1215,24 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Outskirts",
-        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Outskirts",
-      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "The Night The Lights Went Out In Georgia",
+      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 290560,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "The Night The Lights Went Out In Georgia",
-      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 169586,
       "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Love,Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+        "name": "The Closer You Get...",
+        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+      "duration_ms": 322093,
+      "name": "Dixieland Delight",
+      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The Closer You Get...",
-        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 322093,
-      "name": "Dixieland Delight",
-      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
     }
   ],
   "unique_name": "Country Cookout",

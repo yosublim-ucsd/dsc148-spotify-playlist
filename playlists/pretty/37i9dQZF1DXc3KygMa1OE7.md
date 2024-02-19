@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > The most unforgettable love songs from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,551,382 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,551,613 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 17 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
 | 18 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
 | 19 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
-| 20 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
-| 21 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 20 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 21 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
 | 22 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
 | 23 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
 | 24 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 38 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 |
 | 39 | [One More Night \- 2016 Remaster](https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:48 |
 | 40 | [Open Arms \(2022 Remaster\)](https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 3:19 |
-| 41 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
-| 42 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
+| 41 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
+| 42 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
 | 43 | [Every Time You Go Away \- Radio Edit](https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:27 |
 | 44 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
 | 45 | [Faithfully \(2023 Remaster\)](https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 4:26 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 56 | [Even the Nights Are Better](https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Now And Forever](https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL) | 3:57 |
 | 57 | [Lost in Your Eyes](https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Electric Youth](https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC) | 3:35 |
 | 58 | [You Win Again](https://open.spotify.com/track/5mwzpzRue1SBWwrbbhXfbf) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [E.S.P.](https://open.spotify.com/album/0DlDUg3SyCkOq7K3WghDUE) | 4:01 |
-| 59 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 |
-| 60 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
+| 59 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
+| 60 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 |
 | 61 | [Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Every Home Should Have One](https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU) | 3:35 |
 | 62 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
 | 63 | [Every Woman in the World](https://open.spotify.com/track/6OxnToSgslbtjJuNSKSdDQ) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 74 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 |
 | 75 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 |
 
-Snapshot ID: `MCw4NTgzNDhlMjdhMDE5YTE5ZTQ0NGJlODA4NDU4MzlkY2U2NGI5MmY3`
+Snapshot ID: `MCwxNTU0MjBmYTIzZDg4YmVkM2EzYTU4NmFhODQ5Y2I4ZmFkZmNiN2I2`

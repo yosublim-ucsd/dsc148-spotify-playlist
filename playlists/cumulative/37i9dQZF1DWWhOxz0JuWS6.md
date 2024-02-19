@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-532 songs - 1 day 14 hr 30 min
+533 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Cat People \(Putting Out Fire\) \- 2018 Remaster](https://open.spotify.com/track/25ceFvWSaI3zoy9hhNYDqu) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 5:09 | 2020-12-08 | 2022-11-13 |
 | [Ceremony](https://open.spotify.com/track/2x3QOPnAfn57SFG8EOafDm) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 5:58 | 2022-01-05 | 2022-05-25 |
 | [Chain Lightnin'](https://open.spotify.com/track/7j9PEQdO46RhXWpEUWwIlZ) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Special Forces](https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW) | 5:06 | 2020-12-08 | 2022-07-29 |
-| [Charlie Don't Surf \- Remastered](https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 4:54 | 2020-12-08 |  |
+| [Charlie Don't Surf \- Remastered](https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 4:54 | 2020-12-08 | 2024-02-19 |
 | [Cherokee](https://open.spotify.com/track/2Gah9qQMVdxCZJllU9HmnZ) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:12 | 2020-12-08 |  |
 | [Chilly Down](https://open.spotify.com/track/33cnHvf25gRxFkKI9LaSbA) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Labyrinth \(From The Original Soundtrack Of The Jim Henson Film\)](https://open.spotify.com/album/6cvdkUIC4IdBypl9L5Ae74) | 3:45 | 2020-12-08 | 2022-07-21 |
 | [China Girl](https://open.spotify.com/track/228eUJ7kzAROZJjERsd6Ef) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:34 | 2020-12-08 | 2022-07-13 |
@@ -362,6 +362,7 @@
 | [Rockin' The Paradise](https://open.spotify.com/track/3jZF3C8VxTSnteO3V6lVXz) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 3:34 | 2020-12-08 | 2022-07-29 |
 | [Roll Me Away](https://open.spotify.com/track/3MqgFVRerrpqWHdRopk247) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [The Distance](https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1) | 4:39 | 2020-12-08 |  |
 | [Rough Boy](https://open.spotify.com/track/09C7ULYG1WhWgngwkkvVxN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:49 | 2020-12-08 | 2024-02-10 |
+| [Rough Boy](https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:49 | 2022-11-17 |  |
 | [Rumbleseat](https://open.spotify.com/track/1Xi2xGXEDGvliLRCM8eWyV) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Scarecrow](https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk) | 2:58 | 2020-12-08 | 2023-08-04 |
 | [Running To Stand Still](https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:17 | 2022-01-10 |  |
 | [Sally Cinnamon \- Single Mix](https://open.spotify.com/track/7x9E5FckzFbSNX5pqKAVNS) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Sally Cinnamon](https://open.spotify.com/album/1I3RDBQbwiHq1GsWBhaINZ) | 2:53 | 2020-12-08 |  |

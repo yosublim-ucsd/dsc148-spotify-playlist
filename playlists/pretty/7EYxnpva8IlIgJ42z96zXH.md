@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,942 likes - 101 songs - 5 hr 11 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,941 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

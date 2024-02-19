@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,456 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,582 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 21 | [Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:35 |
 | 22 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 23 | [Cleopatra](https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:21 |
-| 24 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 |
+| 24 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 |
 | 25 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |
-| 26 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 |
+| 26 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 |
 | 27 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 |
 | 28 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 29 | [I Will Wait](https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 99 | [It Might Be Time](https://open.spotify.com/track/558ubozatFQlweufvHa3Ip) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:33 |
 | 100 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
 
-Snapshot ID: `MCwxMzEyMWMyZjhkY2Q2M2FhNjhlZTZkNTkwY2I2MTdlMjFmOTE2YzMw`
+Snapshot ID: `MCw5ZGY1MWZiZTcyZjM0Zjk2YjA2NmU3ZGIxYzc1MWM4OTZjOTFiZDFh`

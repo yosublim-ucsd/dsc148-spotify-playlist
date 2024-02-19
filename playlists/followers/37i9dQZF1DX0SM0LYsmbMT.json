@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 2193787,
+  "2024-02-19": 2193892,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -8317,6 +8317,24 @@
       "duration_ms": 117996,
       "name": "Bob's Law",
       "url": "https://open.spotify.com/track/4he3FjvSZ2owAuGGtb5Jt5"
+    },
+    {
+      "album": {
+        "name": "Bobba",
+        "url": "https://open.spotify.com/album/1rHbYpiN0IbyBGgtlBToBv"
+      },
+      "artists": [
+        {
+          "name": "Platinum Dust",
+          "url": "https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119632,
+      "name": "Bobba",
+      "url": "https://open.spotify.com/track/6IWajUqxetsaZo5kqqDPrJ"
     },
     {
       "album": {
@@ -64627,7 +64645,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 160000,
       "name": "Spring Cold",
       "url": "https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU"

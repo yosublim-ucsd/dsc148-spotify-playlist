@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,617 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,644 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 33 | [Mirror Mirror \(Look Into My Eyes\)](https://open.spotify.com/track/67vJBne1NXsWAyjWb96m6p) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:07 |
 | 34 | [Miss You In A Heartbeat \- Revised Version](https://open.spotify.com/track/47jRWT09YkhZXJMuGBYkpb) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:04 |
 | 35 | [Stagefright](https://open.spotify.com/track/6wzYsqOkBLqyjyzFRohAFi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 3:44 |
-| 36 | [Make Love Like A Man](https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:15 |
+| 36 | [Rock Brigade](https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:08 |
 | 37 | [Lady Strange](https://open.spotify.com/track/7dDwYtWBlsCCUMcsU6fe3n) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:38 |
-| 38 | [Rock Brigade](https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:08 |
+| 38 | [Make Love Like A Man](https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:15 |
 | 39 | [Hysteria](https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 5:55 |
 | 40 | [Rock On](https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Yeah!](https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K) | 2:53 |
 | 41 | [All I Want Is Everything](https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 5:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 50 | [White Lightning](https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 7:03 |
 | 51 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAxOTRmYTNiOTdhYzlmYzkwNTY2NTE0MjM0OGJlMmQ3ZQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBlNmFjZmMyMzMyY2E3YjY0MzMyN2M4MzQ0NmZhOGVlZA==`

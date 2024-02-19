@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: While She Sleeps
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,002 likes - 99 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,967 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 98 | [Lovesick \(feat\. OmenXIII\)](https://open.spotify.com/track/7l6IaO7sLMyvHfuqz2EkAO) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Lovesick \(feat\. OmenXIII\)](https://open.spotify.com/album/48nf5ENyYy7vnZ0dILcyu4) | 2:30 |
 | 99 | [The Cave](https://open.spotify.com/track/652J015cmnfWuK3UFUojUW) | [To Kill Achilles](https://open.spotify.com/artist/6JiVwVHJRXHiZuU9vHzjpz) | [The Cave](https://open.spotify.com/album/2QS613ysAclwBts9ii67A2) | 3:35 |
 
-Snapshot ID: `MCw2NWIxOTc5MWI1NTE1MzE4OGRhOTdiYzZjOTFiM2NlNjNjY2NlMjhj`
+Snapshot ID: `MCw2ZTU1MmNjNzJiNjNkYzAwMDA4OWY2MGM4ZDFmMGUzN2U4MzBjZTIx`

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,739 likes - 49 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,839 likes - 49 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yesterday](https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:59 |
 | 2 | [Forever in Love](https://open.spotify.com/track/13cpOnmccZGVGFngLxYN4I) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:59 |
 | 3 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
-| 4 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 |
+| 4 | [The Moment](https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 6:01 |
 | 5 | [You Raise Me Up](https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:14 |
-| 6 | [The Moment](https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 6:01 |
+| 6 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 |
 | 7 | [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 |
 | 8 | [Sentimental](https://open.spotify.com/track/5I7uF6AdRy5SbtHE6k1QJo) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 6:35 |
 | 9 | [You're Beautiful](https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:12 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 48 | [Baby G](https://open.spotify.com/track/43BthQDBthBJM8dflfeoIF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/1i2GAfGtYhaveFdUX3mcgj) | 3:35 |
 | 49 | [Don't Make Me Wait for Love](https://open.spotify.com/track/4xbJyF9RDa1VLoZNoCFy1r) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa) | 4:05 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBmZDZkZTc5YmZlZTI5NWQ4MTQ2MWZkZThmNjc3ZTZlMA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA4NmMwNmFiYzc1NGViN2JjZjQzZTQ1M2EwNDZkNzc5Mw==`

@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1471486,
+  "num_followers": 1471672,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDhlODZiZGU2ZDdlMWQ1MDE4MDM5NDViZTIzMWU3OTQ1MTUxM2Iy",
+  "snapshot_id": "MCw3MGFlZjY3ZDdhYzM1YzA3NjVlZjUxNDMzZWRmMjlhNzJjOGMzODU4",
   "tracks": [
     {
       "added_at": "2024-02-12 21:37:21",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-02-12 21:37:21",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
-    },
-    {
-      "added_at": "2024-02-12 21:37:21",
-      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 186626,
       "name": "Back to the Old House - 2011 Remaster",
       "url": "https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb"
+    },
+    {
+      "added_at": "2024-02-12 21:37:21",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
     },
     {
       "added_at": "2024-02-12 21:37:21",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-12 21:37:21",
       "album": {
-        "name": "England Made Me",
-        "url": "https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS"
-      },
-      "artists": [
-        {
-          "name": "Black Box Recorder",
-          "url": "https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Child Psychology",
-      "url": "https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh"
-    },
-    {
-      "added_at": "2024-02-12 21:37:21",
-      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2024-02-12 21:37:21",
+      "album": {
+        "name": "England Made Me",
+        "url": "https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS"
+      },
+      "artists": [
+        {
+          "name": "Black Box Recorder",
+          "url": "https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "Child Psychology",
+      "url": "https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh"
     },
     {
       "added_at": "2024-02-12 21:37:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-02-12 21:37:21",
       "album": {
-        "name": "the rest",
-        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        }
-      ],
-      "duration_ms": 141390,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
-    },
-    {
-      "added_at": "2024-02-12 21:37:21",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2024-02-12 21:37:21",
+      "album": {
+        "name": "the rest",
+        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        }
+      ],
+      "duration_ms": 141390,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
     },
     {
       "added_at": "2024-02-12 21:37:21",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-02-12 21:37:21",
       "album": {
-        "name": "two queens in a king sized bed",
-        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 190944,
-      "name": "two queens in a king sized bed",
-      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     }
   ],
   "unique_name": "sad girl starter pack",

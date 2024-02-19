@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 7970910,
+  "2024-02-19": 7971780,
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 1990s. Cover: Sheryl Crow.",
   "name": "All Out 90s",
@@ -2483,7 +2483,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
@@ -6504,24 +6504,6 @@
     },
     {
       "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        }
-      ],
-      "date_added": "2020-12-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 298773,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
-    },
-    {
-      "album": {
         "name": "The Score",
         "url": "https://open.spotify.com/album/7m1r9h3wfPRm3Iv8uvq9vQ"
       },
@@ -6537,6 +6519,28 @@
       "duration_ms": 298773,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/1MAqR81Tz28IIqMJ2KUDAO"
+    },
+    {
+      "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298773,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
     },
     {
       "album": {
@@ -7147,7 +7151,7 @@
       ],
       "date_added": "2019-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
@@ -9129,6 +9133,18 @@
         {
           "name": "Fugees",
           "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
         }
       ],
       "date_added": "2019-07-16",

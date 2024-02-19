@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,141 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,192 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 47 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
 | 48 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
 | 49 | [君のハートはマリンブルー](https://open.spotify.com/track/04d2ceRCfAaBwuQfG1WwMK) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:59 |
-| 50 | [スノッブな夜へ](https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 4:51 |
+| 50 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 |
 
-Snapshot ID: `MCxiOWRiMzQ1YTBkY2IxNzY0ZGZhZmFjNzEyOTMwOGFiZTRlMDA2ZmU5`
+Snapshot ID: `MCw0ZWU2MTVhNTkwZGU4OWIxZGEyNDc5ZDg5NWRlMWRhMTVjZTY3YTE4`

@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Aysha w Mabsouta",
+        "url": "https://open.spotify.com/album/4RcJd2zIAn78Bqqj7wVoHZ"
+      },
+      "artists": [
+        {
+          "name": "Mirna nasser",
+          "url": "https://open.spotify.com/artist/6V50iHFrnnkOzahS4QbvbR"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225326,
+      "name": "Aysha w Mabsouta",
+      "url": "https://open.spotify.com/track/07VbeX7HRoHVSTHI6ZS1TP"
+    },
+    {
+      "album": {
         "name": "My Maya I",
         "url": "https://open.spotify.com/album/3MTvNPfeRGJl2QBevmUuXe"
       },

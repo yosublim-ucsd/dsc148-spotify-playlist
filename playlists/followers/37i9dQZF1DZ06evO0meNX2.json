@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 23262,
+  "2024-02-19": 23286,
   "date_first_scraped": "2024-01-30",
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
   "name": "This Is Codiciado",
@@ -73,6 +73,28 @@
       "duration_ms": 189506,
       "name": "Blindado El Carro",
       "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
+    },
+    {
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152433,
+      "name": "Buena Vida Mala Fama",
+      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
     },
     {
       "album": {

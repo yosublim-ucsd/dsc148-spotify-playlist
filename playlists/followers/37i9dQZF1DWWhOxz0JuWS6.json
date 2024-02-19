@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 91741,
+  "2024-02-19": 91788,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.",
   "name": "Deep Dive: 80s Rock",
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 226733,
       "name": "Everybody Wants You",
       "url": "https://open.spotify.com/track/1BUTAQyk9QsdvRDghyMTC9"
@@ -6711,6 +6711,24 @@
       "duration_ms": 245266,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9"
+    },
+    {
+      "album": {
+        "name": "Winger",
+        "url": "https://open.spotify.com/album/3frtDYyTU6jUALyj5umV1F"
+      },
+      "artists": [
+        {
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245266,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/4ENa9MbktJjV3HiTnlsg2b"
     },
     {
       "album": {

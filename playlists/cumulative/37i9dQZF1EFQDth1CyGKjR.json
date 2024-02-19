@@ -812,10 +812,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 176593,
       "name": "Biscayne",
       "url": "https://open.spotify.com/track/2L64FTezEQo0iLOeCRA71K"
+    },
+    {
+      "album": {
+        "name": "The LoveStory LP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7IV1bOLwRg9oECyAMZJico"
+      },
+      "artists": [
+        {
+          "name": "Shawn Chrystopher",
+          "url": "https://open.spotify.com/artist/2RIAZJVGT3qjZ5BNw0yVxH"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176593,
+      "name": "Biscayne",
+      "url": "https://open.spotify.com/track/422y2R76FsO5aXeKAGBVAj"
     },
     {
       "album": {

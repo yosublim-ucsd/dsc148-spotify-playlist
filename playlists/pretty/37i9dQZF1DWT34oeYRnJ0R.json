@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Hamilton",
-  "num_followers": 675639,
+  "num_followers": 675637,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmIyZDI0YTZlNDZiNTZjNmVhYTA3YjVkMTBhYjQyMGMzZDQ5YWRj",
+  "snapshot_id": "MCxhYjExYjAyOWE2MDUxZTUwZWYxZDg5NThhOGNlYzE3ZTczYTk3MWU2",
   "tracks": [
     {
       "added_at": "2024-02-17 03:49:57",
@@ -847,18 +847,22 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
-        "name": "Give Me",
-        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": "2024-02-17 03:49:57",
@@ -903,6 +907,22 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
+    },
+    {
+      "added_at": "2024-02-17 03:49:57",
+      "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
@@ -939,6 +959,22 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
+        "name": "Carrusel",
+        "url": "https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Carrusel",
+      "url": "https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr"
+    },
+    {
+      "added_at": "2024-02-17 03:49:57",
+      "album": {
         "name": "NO HAY LEY",
         "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
       },
@@ -951,26 +987,6 @@
       "duration_ms": 157000,
       "name": "NO HAY LEY",
       "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
-    },
-    {
-      "added_at": "2024-02-17 03:49:57",
-      "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": "2024-02-17 03:49:57",
@@ -1007,26 +1023,6 @@
       "duration_ms": 213877,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
-    },
-    {
-      "added_at": "2024-02-17 03:49:57",
-      "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 198126,
-      "name": "Fenti",
-      "url": "https://open.spotify.com/track/2mMagzU9xMGHBHAzD2WSxL"
     },
     {
       "added_at": "2024-02-17 03:49:57",
@@ -1075,6 +1071,26 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 198126,
+      "name": "Fenti",
+      "url": "https://open.spotify.com/track/2mMagzU9xMGHBHAzD2WSxL"
+    },
+    {
+      "added_at": "2024-02-17 03:49:57",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
       },
@@ -1091,26 +1107,6 @@
       "duration_ms": 214123,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
-    },
-    {
-      "added_at": "2024-02-17 03:49:57",
-      "album": {
-        "name": "BEACHY",
-        "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "BEACHY",
-      "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
     },
     {
       "added_at": "2024-02-17 03:49:57",
@@ -1139,34 +1135,22 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
-        "name": "Carrusel",
-        "url": "https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6"
+        "name": "BEACHY",
+        "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Carrusel",
-      "url": "https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr"
-    },
-    {
-      "added_at": "2024-02-17 03:49:57",
-      "album": {
-        "name": "L\u00e1grimas pa otro d\u00eda",
-        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
-      },
-      "artists": [
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
         {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 124110,
-      "name": "No te lo niego, ma dol\u00edo",
-      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
+      "duration_ms": 168000,
+      "name": "BEACHY",
+      "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
     },
     {
       "added_at": "2024-02-17 03:49:57",
@@ -1183,6 +1167,22 @@
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2024-02-17 03:49:57",
+      "album": {
+        "name": "L\u00e1grimas pa otro d\u00eda",
+        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "duration_ms": 124110,
+      "name": "No te lo niego, ma dol\u00edo",
+      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
     },
     {
       "added_at": "2024-02-17 03:49:57",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 168871,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
+    },
+    {
+      "added_at": "2024-02-17 03:49:57",
+      "album": {
         "name": "SEN2 KBRN VOL. 2",
         "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
@@ -1623,6 +1643,22 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
+        "name": "REGALONA",
+        "url": "https://open.spotify.com/album/3oWWVVloAsuujw2QOoGF9d"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 177412,
+      "name": "REGALONA",
+      "url": "https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk"
+    },
+    {
+      "added_at": "2024-02-17 03:49:57",
+      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -1643,42 +1679,6 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
-    },
-    {
-      "added_at": "2024-02-17 03:49:57",
-      "album": {
-        "name": "REGALONA",
-        "url": "https://open.spotify.com/album/3oWWVVloAsuujw2QOoGF9d"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 177412,
-      "name": "REGALONA",
-      "url": "https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk"
-    },
-    {
-      "added_at": "2024-02-17 03:49:57",
-      "album": {
-        "name": "Himalaya",
-        "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 168871,
-      "name": "Himalaya",
-      "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
     },
     {
       "added_at": "2024-02-17 03:49:57",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
+        "name": "MULTIVERSO",
+        "url": "https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "MULTIVERSO",
+      "url": "https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ"
+    },
+    {
+      "added_at": "2024-02-17 03:49:57",
+      "album": {
         "name": "El Father",
         "url": "https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Hace Un Mes",
-      "url": "https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf"
-    },
-    {
-      "added_at": "2024-02-17 03:49:57",
-      "album": {
         "name": "LA CANCI\u00d3N",
         "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
       },
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 169526,
-      "name": "P\u00cdDELO",
-      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+      "duration_ms": 173240,
+      "name": "Hace Un Mes",
+      "url": "https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf"
     },
     {
       "added_at": "2024-02-17 03:49:57",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-02-17 03:49:57",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 169526,
+      "name": "P\u00cdDELO",
+      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+    },
+    {
+      "added_at": "2024-02-17 03:49:57",
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -1875,26 +1891,6 @@
       "duration_ms": 189000,
       "name": "Entonces",
       "url": "https://open.spotify.com/track/3kZ6jh67FdUaGxKXb1v8G7"
-    },
-    {
-      "added_at": "2024-02-17 03:49:57",
-      "album": {
-        "name": "UuU",
-        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "UuU",
-      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
     },
     {
       "added_at": "2024-02-17 03:49:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Nicole Horts en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,654 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,660 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 56 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
 | 57 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
 | 58 | [La Lista](https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP) | 3:44 |
-| 59 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
+| 59 | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 |
 | 60 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
 | 61 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
-| 62 | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 |
+| 62 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
 | 63 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 64 | [Palabras De Papel \(Veneno\)](https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Felicidad y Otros Mitos](https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI) | 3:21 |
 | 65 | [cartulinas de colores](https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [cartulinas de colores](https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC) | 2:39 |
-| 66 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 |
-| 67 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 |
-| 68 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
-| 69 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
-| 70 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
-| 71 | [Inhabitable](https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo) | 2:47 |
+| 66 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 |
+| 67 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
+| 68 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
+| 69 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
+| 70 | [Inhabitable](https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo) | 2:47 |
+| 71 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 |
 | 72 | [Llamadas Vacías](https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Llamadas Vacías](https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n) | 2:23 |
-| 73 | [nunca me dejes </3](https://open.spotify.com/track/1Fo6FrFsz0QygL1Ti103Aj) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [nunca me dejes </3](https://open.spotify.com/album/1DjcS2GNrwG9nkt6J1rcR0) | 3:26 |
-| 74 | [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 |
+| 73 | [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 |
+| 74 | [Tele](https://open.spotify.com/track/5eagnWmjBiNdLovonN1gI4) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Tele](https://open.spotify.com/album/1WGSsdUHw9DETdCD9VDqzZ) | 2:06 |
 | 75 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 
-Snapshot ID: `MCw3ZmM2MjY5Zjg2ZjM5Y2RkZWFhNWIwOTI5MjZiZWMwNDg4YzRkYzk1`
+Snapshot ID: `MCw3ODhmMDE0MDEzOTMxNDQ3Y2E4YTcyNDJiNDdmZTgzN2JkZGQwMDI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=3qqDM921SPKxfSoe\_xxi2g">Naffymar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,592 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,648 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 32 | [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 |
 | 33 | [Belongs to you](https://open.spotify.com/track/2XNFPtWAxuNuO3vJ0IdaLA) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Belongs to you](https://open.spotify.com/album/2M91mM7OZJtNaeiH8pqa7O) | 2:13 |
 | 34 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
-| 35 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 |
+| 35 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 |
 | 36 | [BIG BIG WAY](https://open.spotify.com/track/0XGZvAtlH8kT6NseNoNLA8) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [BIG BIG WAY](https://open.spotify.com/album/2SjuxCBdux4BKazNGcrx7n) | 3:48 |
 | 37 | [Perfect Peace](https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Perfect Peace](https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX) | 3:13 |
 | 38 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 79 | [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 |
 | 80 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 |
 
-Snapshot ID: `MCxlOTc2OTc5MjkwZTQ3M2E2MjQxZTMzYWMyMjZiN2UwMmI0YzE2MmEy`
+Snapshot ID: `MCwwZGUxMjAyOWMxNmM5NjNmOTFkZjRlZjFlMjU2NjdjZGM1ZWU4ZmY5`

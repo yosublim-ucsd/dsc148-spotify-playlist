@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 127946,
+  "2024-02-19": 127949,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Argentina.",
   "name": "Viral 50 - Argentina",
@@ -277,7 +277,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
@@ -765,6 +765,36 @@
           "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
         },
         {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140653,
+      "name": "Hell Is Forever",
+      "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
           "name": "Jeremy Jordan",
           "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
         },
@@ -1147,6 +1177,40 @@
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219201,
+      "name": "Mamichula - con Nicki Nicole",
+      "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
     },
     {
       "album": {
@@ -2017,7 +2081,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"

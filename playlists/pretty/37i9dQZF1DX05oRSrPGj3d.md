@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,908 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,986 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,18 +71,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 61 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
 | 62 | [New Year's Day](https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Good Times](https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z) | 3:54 |
 | 63 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 |
-| 64 | [Fall](https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:26 |
-| 65 | [One I Want](https://open.spotify.com/track/2GVKDSFwVWCbygrZQvB5ed) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Humble Folks](https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8) | 3:51 |
+| 64 | [One I Want](https://open.spotify.com/track/2GVKDSFwVWCbygrZQvB5ed) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Humble Folks](https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8) | 3:51 |
+| 65 | [Fall](https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:26 |
 | 66 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 |
 | 67 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
 | 68 | [Wicked Twisted Road](https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Wicked Twisted Road](https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC) | 3:25 |
 | 69 | [He Stopped Loving Her Today](https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:17 |
 | 70 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 |
 | 71 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
-| 72 | [Every Single Kiss](https://open.spotify.com/track/7vw8wZXoY5kVIT30tF6k15) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Vol\. 1\- EP](https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS) | 3:26 |
-| 73 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
+| 72 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
+| 73 | [Some Things Never Change](https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx) | 3:20 |
 | 74 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
-| 75 | [Some Things Never Change](https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx) | 3:20 |
+| 75 | [Every Single Kiss](https://open.spotify.com/track/7vw8wZXoY5kVIT30tF6k15) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Vol\. 1\- EP](https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS) | 3:26 |
 | 76 | [Feet Don't Touch the Ground](https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY) | [Stoney LaRue](https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ) | 4:08 |
 | 77 | [Austin](https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5) | 4:34 |
 | 78 | [Pretty Things](https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 4:28 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 81 | [Shine Out](https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:53 |
 | 82 | [Ringling Road](https://open.spotify.com/track/2YUm7yXaklDbTvbwGwf9c4) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 4:08 |
 | 83 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
-| 84 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 |
-| 85 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
+| 84 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
+| 85 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 |
 | 86 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
 | 87 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
 | 88 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 100 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
 
-Snapshot ID: `MCxjYWVhNzc5M2QyMTI5NmYzMmI5NGQxODEyNDQ1ZWIyMTczZWE5ZmU1`
+Snapshot ID: `MCxhOTEyMDZlZmFkODdmNTc5YjlhMTYyOGI2NGE3Njc5MGM2N2IyMjg3`

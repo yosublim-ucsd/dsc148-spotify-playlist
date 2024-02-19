@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 71743,
+  "num_followers": 71856,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjFjNDk5NmI0ZTYyYWYwNmI0OThhMGMyMDBjYzk4MzgzZDA5NTY4",
+  "snapshot_id": "MCxlOTc2Zjc1MzAwY2MwNjZlMGE2NDBjNDg5M2YzYTI1ZWI4NzFmMzJm",
   "tracks": [
     {
       "added_at": "2024-02-16 05:36:33",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-02-16 05:36:33",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2024-02-16 05:36:33",
+      "album": {
         "name": "Thinking 'Bout Love",
         "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
-    },
-    {
-      "added_at": "2024-02-16 05:36:33",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
       "added_at": "2024-02-16 05:36:33",

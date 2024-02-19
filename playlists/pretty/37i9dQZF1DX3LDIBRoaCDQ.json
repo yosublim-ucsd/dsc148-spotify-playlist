@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1553255,
+  "num_followers": 1553529,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2YyNzllNjRlYjAyZjE1ODA1ZGJkNjQyNjZlNDQ5NjE3Y2QzYjIw",
+  "snapshot_id": "MCw3YWQyZjNlNWI0YzcxZTFjMzM4ZjFiYjUzYTViN2E0ZWE2NTE1MzZh",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
-      },
-      "artists": [
-        {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "TV Party",
-      "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 188306,
       "name": "Trash",
       "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "TV Party",
+      "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "City Baby Attacked By Rats (Expanded Version)",
-        "url": "https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5"
-      },
-      "artists": [
-        {
-          "name": "GBH",
-          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Sick Boy",
-      "url": "https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 235653,
       "name": "Typical Girls",
       "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "City Baby Attacked By Rats (Expanded Version)",
+        "url": "https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5"
+      },
+      "artists": [
+        {
+          "name": "GBH",
+          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Sick Boy",
+      "url": "https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1393,20 +1393,20 @@
       "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
     },
     {
-      "added_at": "2022-11-28 15:26:19",
+      "added_at": "2024-01-11 00:51:37",
       "album": {
-        "name": "Anthology: The Sounds Of Science",
-        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
+        "name": "Leave Home (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 120266,
-      "name": "I Want Some",
-      "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
+      "duration_ms": 104733,
+      "name": "Gimme Gimme Shock Treatment - 2017 Remaster",
+      "url": "https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1425,20 +1425,20 @@
       "url": "https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW"
     },
     {
-      "added_at": "2024-01-11 00:51:37",
+      "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Leave Home (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
+        "name": "Anthology: The Sounds Of Science",
+        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
         }
       ],
-      "duration_ms": 104733,
-      "name": "Gimme Gimme Shock Treatment - 2017 Remaster",
-      "url": "https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN"
+      "duration_ms": 120266,
+      "name": "I Want Some",
+      "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
     },
     {
       "added_at": "2022-11-28 15:26:19",

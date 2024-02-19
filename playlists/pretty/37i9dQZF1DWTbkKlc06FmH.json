@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 127108,
+  "num_followers": 127142,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzM2Mjc0YTgwMmFiMmNmOTk5Njk5Y2ZlYWY2N2I0MjhmYjEzOGVl",
+  "snapshot_id": "MCw3N2YwMmYxY2M4NDI0YWNhNzA0ZWU2MjVmNTQ4OThmYTViYzYwMDQw",
   "tracks": [
     {
       "added_at": "2024-02-15 15:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+    },
+    {
+      "added_at": "2024-02-15 15:00:00",
+      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "We Go Again",
-        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 185715,
-      "name": "Charge It",
-      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+      "duration_ms": 177520,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
-    },
-    {
-      "added_at": "2024-02-15 15:00:00",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 188206,
+      "name": "Kissing Strangers",
+      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
+    },
+    {
+      "added_at": "2024-02-15 15:00:00",
+      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
-    },
-    {
-      "added_at": "2024-02-15 15:00:00",
-      "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 188206,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "Mi Coraz\u00f3n (feat. Camilo)",
-        "url": "https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ"
+        "name": "One Love (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/6XN6OMDwUH5O8E04Zhlcv2"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 185853,
-      "name": "Mi Coraz\u00f3n (feat. Camilo)",
-      "url": "https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN"
+      "duration_ms": 184600,
+      "name": "One Love - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/03gFXOX3TuRERFlYmHDqIX"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1275,22 +1271,6 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
-    },
-    {
-      "added_at": "2024-02-15 15:00:00",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -1307,6 +1287,42 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+    },
+    {
+      "added_at": "2024-02-15 15:00:00",
+      "album": {
+        "name": "Mi Coraz\u00f3n (feat. Camilo)",
+        "url": "https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "Mi Coraz\u00f3n (feat. Camilo)",
+      "url": "https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN"
+    },
+    {
+      "added_at": "2024-02-15 15:00:00",
+      "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "One Love (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/6XN6OMDwUH5O8E04Zhlcv2"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "One Love - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/03gFXOX3TuRERFlYmHDqIX"
-    },
-    {
-      "added_at": "2024-02-15 15:00:00",
-      "album": {
         "name": "F64",
         "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
       },
@@ -1407,30 +1407,6 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2024-02-15 15:00:00",
-      "album": {
-        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1511,6 +1487,30 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
+        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249946,
+      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+    },
+    {
+      "added_at": "2024-02-15 15:00:00",
+      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 124451,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU"
+    },
+    {
+      "added_at": "2024-02-15 15:00:00",
+      "album": {
         "name": "Be The One (with Khalid)",
         "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
-    },
-    {
-      "added_at": "2024-02-15 15:00:00",
-      "album": {
-        "name": "Baby Blue",
-        "url": "https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 124451,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 151301,
-      "name": "GET IT",
-      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
-    },
-    {
-      "added_at": "2024-02-15 15:00:00",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 186967,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
+    },
+    {
+      "added_at": "2024-02-15 15:00:00",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 151301,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
     },
     {
       "added_at": "2024-02-15 15:00:00",

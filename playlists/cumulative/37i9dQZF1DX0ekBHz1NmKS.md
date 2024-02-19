@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,016 songs - 2 day 5 hr 23 min
+1,017 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Flyga](https://open.spotify.com/track/2NYq3cFJKFtGkxbGLzSXLP) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Flyga](https://open.spotify.com/album/4nZYnOABTSVERld8R67WgW) | 2:53 | 2022-12-01 | 2023-01-26 |
 | [Fooled by September](https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Fooled by September](https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK) | 2:53 | 2023-10-05 | 2023-12-23 |
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
-| [Forget about her](https://open.spotify.com/track/1rG5cppCcbTtzLfnSq7QFt) | [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Forget about her](https://open.spotify.com/album/1GTGUDjYetYoqWMPU5mBxl) | 3:51 | 2024-02-08 |  |
+| [Forget about her](https://open.spotify.com/track/1rG5cppCcbTtzLfnSq7QFt) | [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Forget about her](https://open.spotify.com/album/1GTGUDjYetYoqWMPU5mBxl) | 3:51 | 2024-02-08 | 2024-02-19 |
 | [Framåt](https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Framåt](https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig) | 2:58 | 2023-03-30 | 2023-10-20 |
 | [Freedom](https://open.spotify.com/track/1h4SQsufLENc6oCAbskc1T) | [Faith Kakembo](https://open.spotify.com/artist/7uyCbr8t8wRzRgPoADaHvl) | [Freedom](https://open.spotify.com/album/1b1fH8cmdB7KNG9A9P4Y85) | 2:54 | 2022-02-26 | 2022-09-03 |
 | [Frenemy](https://open.spotify.com/track/38fGD18era2pGm0GO82sSn) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Frenemy](https://open.spotify.com/album/4nnLQ5qxI10HWd6cYuIBbt) | 2:35 | 2024-01-11 |  |
@@ -1023,6 +1023,7 @@
 | [är du galen](https://open.spotify.com/track/2KzhjUBXBUuyWVyBg08f5N) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [är du galen](https://open.spotify.com/album/7yJoazERY15lwxUdZCBSaN) | 2:42 | 2024-02-08 |  |
 | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI) | 2:59 | 2022-05-05 | 2022-11-14 |
 | [Åh maj](https://open.spotify.com/track/5ybpiXNHx0H2FqAEOeUrwU) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL) | [Åh maj](https://open.spotify.com/album/6g02MYlKBLLsOPQVsELSVP) | 2:50 | 2022-05-30 | 2022-07-27 |
+| [ÅNGRA](https://open.spotify.com/track/396pTsIds5nlqE93IZhFp7) | [INTI](https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D) | [ÅNGRA](https://open.spotify.com/album/7gpSlaLkiMoED5EvYBNgS9) | 2:02 | 2024-02-15 |  |
 | [Överdos](https://open.spotify.com/track/3Ty4UGx4epTWK3Yt1IFHRV) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Överdos](https://open.spotify.com/album/0GkO6ZGHN2mFjshFAGvphH) | 2:25 | 2021-12-16 | 2022-02-04 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

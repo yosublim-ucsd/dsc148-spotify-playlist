@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 120804,
+  "num_followers": 120871,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
+  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Higher Than Mine",
+        "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 185062,
+      "name": "Higher Than Mine",
+      "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "King Of Glory (Live)",
         "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 249013,
       "name": "King Of Glory - Live",
       "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Higher Than Mine",
-        "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 185062,
-      "name": "Higher Than Mine",
-      "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -871,6 +871,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Psalm 42 (Loudest Praise)",
         "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Gold (Live)",
         "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Todos A La Mesa",
+        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 247451,
+      "name": "R\u00edo",
+      "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -979,22 +999,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Todos A La Mesa",
-        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+        "name": "Even The Impossible (Live)",
+        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 247451,
-      "name": "R\u00edo",
-      "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
+      "duration_ms": 290133,
+      "name": "Even The Impossible - Live",
+      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1015,22 +1031,6 @@
       "duration_ms": 472093,
       "name": "Land Of The Living (You Don\u2019t Lie) - Live",
       "url": "https://open.spotify.com/track/6sfda4n7moZQvRtUHG3LwN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Even The Impossible (Live)",
-        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 290133,
-      "name": "Even The Impossible - Live",
-      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "The Wait: Silence The Noise (Live)",
+        "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "I Will Wait - Live",
+      "url": "https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Worship Project, Vol. 2",
         "url": "https://open.spotify.com/album/0y4vEdjKpRM5oQmLQvmURP"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 365294,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/38cEd6plDcyQrNci5QjIsc"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "The Wait: Silence The Noise (Live)",
-        "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "I Will Wait - Live",
-      "url": "https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Start With Me",
-        "url": "https://open.spotify.com/album/1T6yyl1bWzpwrRjyPGYQgg"
-      },
-      "artists": [
-        {
-          "name": "Grace City",
-          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
-        },
-        {
-          "name": "Chase Wagner",
-          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
-        }
-      ],
-      "duration_ms": 259459,
-      "name": "Start With Me",
-      "url": "https://open.spotify.com/track/1Sy9CvTLBYvPKqbnSBsn8w"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
         "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
       },
@@ -2359,6 +2339,26 @@
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Start With Me",
+        "url": "https://open.spotify.com/album/1T6yyl1bWzpwrRjyPGYQgg"
+      },
+      "artists": [
+        {
+          "name": "Grace City",
+          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
+        },
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "duration_ms": 259459,
+      "name": "Start With Me",
+      "url": "https://open.spotify.com/track/1Sy9CvTLBYvPKqbnSBsn8w"
     },
     {
       "added_at": "2021-06-12 04:00:40",

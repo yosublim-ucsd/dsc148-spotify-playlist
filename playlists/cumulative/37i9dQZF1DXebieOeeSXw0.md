@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-351 songs - 1 day 4 hr 34 min
+352 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,8 @@
 | [Relax and Mambo](https://open.spotify.com/track/33vIIwfMDRoJwlizrQu8tM) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Presentando a Machito](https://open.spotify.com/album/2tVM5mKWo3iZ8qfcTmxAhs) | 3:09 | 2023-02-28 |  |
 | [Richie's Jala Jala](https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 5:07 | 2021-12-24 |  |
 | [Rokiatou](https://open.spotify.com/track/5aaidt5hnIJY2znbS47XMa) | [Loketo](https://open.spotify.com/artist/67Rl5EBm63MHcIxbYxiWoE), [Sahlomon](https://open.spotify.com/artist/1VyXjkwod2pjlb6j18EbM9) | [Choc à distance \(Le n°1 du soukouss\)](https://open.spotify.com/album/6MZWMLUwMbqpIT4Vfo96zF) | 3:49 | 2021-12-24 |  |
-| [Roots Rock](https://open.spotify.com/track/0PmOYjOQKDc9p0I1fqbMJW) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Café Club Dub \- The Coolest Reggae Collection Ever](https://open.spotify.com/album/63Upjjws85gfViAidW7O53) | 2:50 | 2021-12-24 |  |
+| [Roots Rock](https://open.spotify.com/track/0PmOYjOQKDc9p0I1fqbMJW) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Café Club Dub \- The Coolest Reggae Collection Ever](https://open.spotify.com/album/63Upjjws85gfViAidW7O53) | 2:50 | 2021-12-24 | 2024-02-19 |
+| [Roots Rock](https://open.spotify.com/track/25Qb39p8PvVfMzIxBI1uoK) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Amsterdam Dub and Bud \- The Greatest Reggae Collection Ever](https://open.spotify.com/album/5e54vzExzGBEQk7Q0k8f2I) | 2:50 | 2021-12-24 |  |
 | [Salel](https://open.spotify.com/track/57YZjPT7Fwpws8xeV6awnP) | [Awalom Gebremariam](https://open.spotify.com/artist/37yhPuaMacO0dt1bmKdwDE) | [Desdes](https://open.spotify.com/album/0eMabZOLoJsDtqCmuf6Lm5) | 7:44 | 2021-12-24 |  |
 | [Salsa Caliente \- Versión Aumentada](https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm) | 4:43 | 2021-12-24 |  |
 | [Santa Maria \(Del Buen Ayre\)](https://open.spotify.com/track/3sPkMFWk9zi5LAA0T1qvpc) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 5:57 | 2023-04-12 |  |

@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-237 songs - 15 hr 33 min
+238 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [How Can I Live Without You](https://open.spotify.com/track/2wR3Hf3iIiCIAP8xx1I3Px) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/4ToOcySEVsN3ZEpKtd4nvO) | 3:44 | 2022-05-11 | 2022-07-24 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2022-05-11 | 2022-10-25 |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-02-03 | 2023-02-23 |
-| [How You Been](https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:58 | 2022-07-08 |  |
+| [How You Been](https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:58 | 2022-07-08 | 2024-02-19 |
 | [How You Been](https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 2:58 | 2022-05-11 | 2022-07-29 |
 | [I draw you](https://open.spotify.com/track/6ASNsdgDEIaHjvmcFm8a8S) | [The Brothers](https://open.spotify.com/artist/4cca1jneSmmm9K1uXTQaUc) | [I draw you](https://open.spotify.com/album/1NhyqimJ7BIgA1IGMEiGGj) | 3:29 | 2022-05-11 | 2022-06-28 |
 | [I know it's coming to an end](https://open.spotify.com/track/457PODPSugZ3kOXQbAmMc0) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [I know it's coming to an end](https://open.spotify.com/album/4kDoLlKKx4iYAUc1GOwjFa) | 3:49 | 2022-05-11 | 2022-06-06 |
@@ -124,6 +124,7 @@
 | [Let\`s never meet again](https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Once again OST Part 1](https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR) | 3:36 | 2022-05-11 | 2022-07-27 |
 | [Letter](https://open.spotify.com/track/2EfLLopFkhKx31PqzrtWWt) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Letter](https://open.spotify.com/album/3PitIQHJIId7Mn0kSPXubF) | 4:06 | 2022-05-11 | 2022-07-27 |
 | [lie](https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 3:48 | 2022-05-11 | 2024-02-04 |
+| [lie](https://open.spotify.com/track/5IGY26VRVYD9gBy5cBBWSv) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/0OSBmw4mBKFn8sv4D8Pfbx) | 3:48 | 2023-11-03 |  |
 | [Living in the same time](https://open.spotify.com/track/2fujIDkywop19a4IZ2zfQK) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 4th\. Come with me girl by JUNG YUP](https://open.spotify.com/album/22MpBvrkIXgaMH3eTEUBO9) | 4:10 | 2022-05-11 | 2022-07-29 |
 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 | 2022-07-08 |  |
 | [Lonely Flower](https://open.spotify.com/track/1TtiJUMGRTMLIFzaMirRKS) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Lonely Flower](https://open.spotify.com/album/7lzCUvbjySqmXmbZFAnuq0) | 3:09 | 2022-05-11 | 2022-07-29 |

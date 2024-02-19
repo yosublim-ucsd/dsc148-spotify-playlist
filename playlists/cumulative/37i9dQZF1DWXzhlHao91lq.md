@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-227 songs - 12 hr 56 min
+228 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2022-05-30 | 2023-02-05 |
 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 | 2022-10-24 | 2022-11-23 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-07-25 |  |
-| [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2022-10-31 |  |
+| [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2022-10-31 | 2024-02-19 |
 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 | 2022-07-25 |  |
 | [Catholic Country](https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:01 | 2022-07-25 | 2023-01-28 |
 | [Catholic Country](https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:01 | 2023-02-06 |  |
@@ -42,7 +42,7 @@
 | [Coffee](https://open.spotify.com/track/2N8HUYJ0oGyByJgkeh5MTS) | [Izzeah](https://open.spotify.com/artist/6oluXlULn1Lvo3Nu64KMbq) | [Coffee](https://open.spotify.com/album/7KmMhkOhc6rXrP877cumyf) | 3:37 | 2022-05-30 | 2022-07-22 |
 | [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-29 | 2023-09-02 |
 | [Columbo](https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:33 | 2023-08-28 | 2024-01-06 |
-| [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:04 | 2023-10-30 | 2024-02-17 |
+| [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:04 | 2023-10-30 |  |
 | [comethru](https://open.spotify.com/track/6fFTPGGItuEpjwXRUIr4rk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [comethru](https://open.spotify.com/album/0z59TOGj1z9NZJYNvRV02q) | 3:01 | 2022-05-30 | 2022-07-29 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-07-25 |  |
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-30 | 2022-07-29 |
@@ -91,6 +91,7 @@
 | [Here With Me \- Acoustic Version](https://open.spotify.com/track/47XkeYFaqiF1mLathZVMyE) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Here With Me](https://open.spotify.com/album/0goPvxSTQmw4G7XVu32qeo) | 3:16 | 2022-05-30 | 2022-06-24 |
 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 | 2022-05-30 |  |
 | [High Hopes](https://open.spotify.com/track/3z5V7oSggDeCPeEGiCIu83) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [High Hopes](https://open.spotify.com/album/2lx32jA6XqlM6wXn6fWyCm) | 3:36 | 2022-05-30 | 2022-07-29 |
+| [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 | 2024-02-19 |  |
 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 | 2022-05-30 | 2023-04-26 |
 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/55oeEYEp81nHKvkdJjwXW2) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/album/7L1nVNAEtlPi49xZHrDuBW) | 2:57 | 2022-05-30 | 2022-07-28 |
 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 | 2022-08-08 | 2023-07-09 |
@@ -113,7 +114,7 @@
 | [La La Lost You \- Acoustic Version](https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD) | 3:28 | 2022-05-30 | 2024-01-24 |
 | [Letting Go](https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Letting Go](https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd) | 2:34 | 2022-08-15 |  |
 | [Light](https://open.spotify.com/track/0imuQm7CnK74UdorFpC2Eg) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:27 | 2022-12-26 | 2023-01-15 |
-| [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 | 2024-02-12 |  |
+| [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 | 2024-02-12 | 2024-02-19 |
 | [Lose You To Love Me \- Acoustic](https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Lose You To Love Me \(Acoustic\)](https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd) | 4:14 | 2022-07-25 | 2022-07-29 |
 | [Love & Money](https://open.spotify.com/track/69puCjWb1rrocZBah5s3GR) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Love & Money](https://open.spotify.com/album/2JfNxUZXLBPzTYWZ0x4BPb) | 3:20 | 2023-03-28 | 2023-04-04 |
 | [Love Anyway](https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Love Anyway](https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe) | 3:03 | 2022-05-30 | 2022-07-29 |

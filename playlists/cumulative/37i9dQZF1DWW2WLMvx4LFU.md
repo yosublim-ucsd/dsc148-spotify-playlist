@@ -4,7 +4,7 @@
 
 > La nostalgia ochentera traída a la actualidad.
 
-66 songs - 4 hr 8 min
+67 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Ran](https://open.spotify.com/track/7BTaDw9yXTknLItNtuZFgF) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Far Field](https://open.spotify.com/album/37Xk4WSzbCfYBFTHUHgDYv) | 3:25 | 2023-08-10 |  |
 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 | 2023-08-10 |  |
 | [Renegade](https://open.spotify.com/track/0tXzxt3aJcfKu9L5i7tgfK) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Reborn](https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner) | 3:18 | 2023-08-10 |  |
-| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1) | 3:49 | 2023-08-10 |  |
+| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1) | 3:49 | 2023-08-10 | 2024-02-19 |
 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-08-10 | 2023-11-19 |
+| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/6tsSCXfyNFFgyilxmJ0Ilp) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 3:49 | 2023-08-10 |  |
 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2023-08-10 | 2024-01-12 |
 | [See You Again](https://open.spotify.com/track/2Z8UT1hMeJlpCj1p7RUmcH) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 4:22 | 2023-08-10 |  |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-08-10 |  |

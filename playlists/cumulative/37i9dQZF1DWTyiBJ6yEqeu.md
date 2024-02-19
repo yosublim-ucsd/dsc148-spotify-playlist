@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-774 songs - 1 day 14 hr 30 min
+775 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2021-11-10 | 2023-03-25 |
 | [can't leave without it](https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:25 | 2021-12-09 | 2021-12-23 |
 | [CAREFUL](https://open.spotify.com/track/7FET9gtiECWn7llt0sfvtU) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 3:29 | 2023-04-07 | 2023-05-30 |
+| [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-16 |  |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-24 | 2022-06-26 |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2021-12-09 | 2021-12-23 |
 | [Chanel Bag](https://open.spotify.com/track/4d16JADh71pTeqx0vlHL69) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Chanel Bag](https://open.spotify.com/album/5Rfy71lgBW15gak3OtNHBQ) | 2:38 | 2022-04-02 | 2022-07-29 |
@@ -615,7 +616,7 @@
 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 | 2022-04-20 | 2022-06-24 |
 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 | 2021-08-20 | 2022-04-21 |
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2021-11-10 | 2022-02-05 |
-| [SLUT ME OUT](https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 2:03 | 2023-09-08 |  |
+| [SLUT ME OUT](https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 2:03 | 2023-09-08 | 2024-02-19 |
 | [Smile \(with The Weeknd\)](https://open.spotify.com/track/6wQlQrTY5mVS8EGaFZVwVF) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:16 | 2021-12-02 | 2022-03-26 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-10 | 2021-12-31 |
 | [SO LONG](https://open.spotify.com/track/3YOrnXmf2KZEGeLsJyBt9C) | [Killval](https://open.spotify.com/artist/1mNl9St7BvqjN0oj5ieIFZ) | [GOOD GIRLS BAD HABITS](https://open.spotify.com/album/7yCx4RL3ueiXcGgOvC18V5) | 2:50 | 2022-04-08 | 2022-04-21 |

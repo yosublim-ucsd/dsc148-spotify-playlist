@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 541353,
+  "2024-02-19": 541386,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Norway.",
   "name": "Top 50 - Norway",
@@ -2669,7 +2669,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 368739,
       "name": "BEG FORGIVENESS",
       "url": "https://open.spotify.com/track/4ihV1wv7QmjbkLHaT9lA4s"
@@ -3731,7 +3731,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 186774,
       "name": "Break it right",
       "url": "https://open.spotify.com/track/3qkSIN599GE3OYKiK1zboR"
@@ -4974,6 +4974,28 @@
     },
     {
       "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -5357,6 +5379,28 @@
       "duration_ms": 151800,
       "name": "Damn Girl",
       "url": "https://open.spotify.com/track/2nUlmWTApV6PdzUUATOawa"
+    },
+    {
+      "album": {
+        "name": "DANCE",
+        "url": "https://open.spotify.com/album/2w2T20oanpU62b6B3AnK4t"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156893,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/46o0oi6plhns1OgczfqKaW"
     },
     {
       "album": {
@@ -6146,6 +6190,24 @@
     },
     {
       "album": {
+        "name": "Alle Hater Chris",
+        "url": "https://open.spotify.com/album/5AJY7EWldTqWgO2GwI2T7c"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196610,
+      "name": "Det var noen som sa til meg",
+      "url": "https://open.spotify.com/track/7Kww4TZWZl7oOw3fnoG6JD"
+    },
+    {
+      "album": {
         "name": "(Un)Commentary",
         "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
       },
@@ -6431,7 +6493,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 225000,
       "name": "DO IT",
       "url": "https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6"
@@ -14609,7 +14671,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 155200,
       "name": "JEG F\u00c5R V\u00c6RE SOM JEG ER",
       "url": "https://open.spotify.com/track/7HlUh2RqWi4AC2ukWJFZjn"
@@ -16450,6 +16512,28 @@
     },
     {
       "album": {
+        "name": "Lemuremus",
+        "url": "https://open.spotify.com/album/1SIQS63R5X7GMchdcp4ooJ"
+      },
+      "artists": [
+        {
+          "name": "Bak\u00f8dda",
+          "url": "https://open.spotify.com/artist/5IeEk9EbUfCG6n1E2UnZwr"
+        },
+        {
+          "name": "Mr Goofy",
+          "url": "https://open.spotify.com/artist/4IFMuT7kHbV25klD27yhS5"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121931,
+      "name": "Lemuremus",
+      "url": "https://open.spotify.com/track/7IP5CJBu3kdytDMK6JQ1NP"
+    },
+    {
+      "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
       },
@@ -18061,6 +18145,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "Matrisen",
+        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195577,
+      "name": "Matrisen",
+      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
     },
     {
       "album": {
@@ -21257,7 +21359,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 195117,
       "name": "PAID",
       "url": "https://open.spotify.com/track/2y4ZR0BUAVePljHSsZyIgj"
@@ -22205,7 +22307,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 194713,
       "name": "PROBLEMATIC",
       "url": "https://open.spotify.com/track/5GtUTcvOx52F5648wXQfc7"
@@ -25238,6 +25340,36 @@
     },
     {
       "album": {
+        "name": "SOLDAT (RMX)",
+        "url": "https://open.spotify.com/album/7d01BzemHy5sO25e3BodoN"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Pablo Paz",
+          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "SOLDAT - RMX",
+      "url": "https://open.spotify.com/track/7MZQoikPpcwneYkKhdRvoe"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ"
       },
@@ -26925,7 +27057,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 185110,
       "name": "TALKING",
       "url": "https://open.spotify.com/track/1eaqMiiUn2P7MnqJK4XeK0"
@@ -28049,6 +28181,24 @@
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
+    },
+    {
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "album": {

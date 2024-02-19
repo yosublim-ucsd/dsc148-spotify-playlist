@@ -4,7 +4,7 @@
 
 > los tenis bien limpios y la bocina retumbando
 
-213 songs - 11 hr 54 min
+214 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 | 2023-07-04 | 2023-08-26 |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-06-10 |  |
 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 | 2022-06-10 | 2023-07-05 |
-| [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2022-06-10 |  |
+| [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 | 2023-07-04 |  |
+| [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2022-06-10 | 2024-02-19 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-06-10 |  |
 | [MELÓN VINO](https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:56 | 2022-06-10 | 2022-09-09 |
 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 | 2022-06-10 | 2023-01-21 |

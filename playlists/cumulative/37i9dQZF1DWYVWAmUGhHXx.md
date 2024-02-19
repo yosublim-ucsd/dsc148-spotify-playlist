@@ -4,7 +4,7 @@
 
 > enciende la llama de la pasión con estas rolas seleccionadas por El Mali 😈🥂🥵🔥
 
-213 songs - 13 hr 52 min
+214 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2023-03-11 | 2023-06-03 |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2021-05-25 | 2023-09-12 |
 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 | 2021-05-25 | 2023-06-03 |
-| [Lo Quiero a Morir](https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Zayda](https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H) | 4:20 | 2021-05-25 |  |
+| [Lo Quiero a Morir](https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Zayda](https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H) | 4:20 | 2021-05-25 | 2024-02-19 |
+| [Lo Quiero a Morir](https://open.spotify.com/track/7bdTyG1zKCHayAFiLDSJHp) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Lo Quiero a Morir](https://open.spotify.com/album/3gUjzuhToilAd6EpC0yQju) | 4:20 | 2024-02-08 |  |
 | [Los Infieles](https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 4:17 | 2021-05-25 |  |
 | [Maltrátame](https://open.spotify.com/track/3pchcoNKjxCcwcSJoMjP8h) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Maltrátame](https://open.spotify.com/album/0hohrEPo7rk6ymYcGtFc8S) | 3:14 | 2024-02-08 |  |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-06-07 | 2024-02-08 |

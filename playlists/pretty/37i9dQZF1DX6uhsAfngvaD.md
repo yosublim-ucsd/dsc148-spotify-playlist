@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,551 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,594 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 35 | [Up Late](https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Coping Habits](https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp) | 2:39 |
 | 36 | [Plum](https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:24 |
 | 37 | [Paralyzed](https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Paralyzed](https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7) | 2:40 |
-| 38 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
-| 39 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 |
+| 38 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 |
+| 39 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
 | 40 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 41 | [Vibrate](https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:34 |
 | 42 | [Our Past Lives](https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 3:45 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 75 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 |
 | 76 | [Opportunity](https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK) | 3:33 |
 | 77 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
-| 78 | [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 |
+| 78 | [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 |
 | 79 | [Daisy](https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 2:15 |
-| 80 | [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 |
+| 80 | [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 |
 
-Snapshot ID: `MCw4YmQ4OWYwNjZmNzNmNDAyMTY2NGIzMmJiZjMwMTNmNDE1YmViNDdh`
+Snapshot ID: `MCwxNjcwZGJmMTVjMTUyM2QzYzkzZTA3YjMxY2Q3NzkwMjI3YzdlNTk2`

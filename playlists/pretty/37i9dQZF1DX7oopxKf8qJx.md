@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,701 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,771 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 35 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
 | 36 | [Lonely Nightingale](https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:57 |
 | 37 | [I Wish You Love](https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [I Wish You Love](https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE) | 2:48 |
-| 38 | [Gabrielle](https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Paris When It Sizzles](https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK) | 2:46 |
-| 39 | [The Warmth Of The Sun](https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:48 |
+| 38 | [The Warmth Of The Sun](https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:48 |
+| 39 | [Gabrielle](https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Paris When It Sizzles](https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK) | 2:46 |
 | 40 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |
 | 41 | [When Your Lover Has Gone](https://open.spotify.com/track/2Rcv5YxzQkPokABVJeuQoy) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Opiate d'Amour](https://open.spotify.com/album/5RURrxHzWj67htnWpYY1jT) | 2:22 |
 | 42 | [If I Had You](https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [A Band Is Born](https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 69 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 70 | [The Days Of Wine And Roses](https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ) | 2:36 |
 
-Snapshot ID: `MCwyZTllMDc4NTU4OTk3MzUwODNlZGIwZDZhNDNmMDQwNjhlYzY2MGQ0`
+Snapshot ID: `MCxiNzVhZDIwMjI0ODdhYzg1ODQ1ZGQ4ZmM4ZmVmODY3YmFhNTdhYjBj`

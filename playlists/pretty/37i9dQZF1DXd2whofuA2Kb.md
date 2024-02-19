@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 
 > Because once you were a hipster, and now you are an indie parent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,919 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,951 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 | 51 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
 | 52 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
 | 53 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
-| 54 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
-| 55 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 54 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 55 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
 | 56 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
 | 57 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
 | 58 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 | 74 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
 | 75 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 
-Snapshot ID: `MCwyNDc0YjBiN2ViODNmMjU4MGRkNGQxZjA3NDdhMzIyYTAxYzM2ODRi`
+Snapshot ID: `MCwzMWRiYWU1Mzg3YWVmZGIwMTQ5MzU1Y2FkZmUxYjJiMjc2OTJkNzQw`

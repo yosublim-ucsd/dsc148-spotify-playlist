@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > The t\-shirt weather essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,277 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,484 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 22 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
 | 23 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 |
 | 24 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
-| 25 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 |
-| 26 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 |
+| 25 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 |
+| 26 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 |
 | 27 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 |
 | 28 | [Freaking Out the Neighborhood](https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:53 |
 | 29 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 45 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 46 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 |
 | 47 | [The Difference](https://open.spotify.com/track/5kJ4BWZ9Y1qFIwwTbMIxYX) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/4iwKDIUE0hLZcdadHE87kl) | 2:19 |
-| 48 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
-| 49 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 |
+| 48 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 |
+| 49 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
 | 50 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
 | 51 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
 | 52 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 71 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 72 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
 | 73 | [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 |
-| 74 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
-| 75 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 |
-| 76 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 |
-| 77 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 |
-| 78 | [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 |
+| 74 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 |
+| 75 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
+| 76 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 |
+| 77 | [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 |
+| 78 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 |
 | 79 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
 | 80 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
 | 81 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 84 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 85 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 86 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
-| 87 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 |
-| 88 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 |
+| 87 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 |
+| 88 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 |
 | 89 | [blind](https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:33 |
 | 90 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 |
 | 91 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 93 | [4EVA](https://open.spotify.com/track/2sUImfbz5cpAW50SiQla4h) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:10 |
 | 94 | [Witches](https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM) | 3:15 |
 | 95 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
-| 96 | [Sunset](https://open.spotify.com/track/203bhpOhWluOytYjvwQfl7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:42 |
-| 97 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
+| 96 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
+| 97 | [Sunset](https://open.spotify.com/track/203bhpOhWluOytYjvwQfl7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:42 |
 | 98 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
 | 99 | [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 |
 | 100 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 |
 
-Snapshot ID: `MCwzYTY3YWEzMzJmNjk2MDczYTM0NmM5YWI5MjRhMWY1YzdmZmFiOWFm`
+Snapshot ID: `MCwzOTkxYWI1YzhhZTY0NTkwYTg3NGYxMGYxMzk1MDk3NTY5M2MxMGU4`

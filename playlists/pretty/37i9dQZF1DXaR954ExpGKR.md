@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,294 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,398 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 7 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
 | 8 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 9 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
-| 10 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
-| 11 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 |
+| 10 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 |
+| 11 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 12 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 |
 | 13 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 |
 | 14 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 49 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
 | 50 | [Calypso](https://open.spotify.com/track/2u7tDWQ6LX0Kw1LiK1jaok) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:20 |
 
-Snapshot ID: `MCw3Y2UxNmYwOGViMzMxODEyMzBkNGE3NGI0NTQ4NDU5ZTQwOWEyNTM5`
+Snapshot ID: `MCxlZTRhMzNmZDU3YzBiYWMwOWE1NmYyMmE2YmIzNGNmZGRlNTRlMGZj`

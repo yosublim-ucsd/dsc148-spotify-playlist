@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 159071,
+  "num_followers": 159118,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWE5YzcxZmViOTExZDQ4MmEyODg2ZGIzNTA5MzI1ODViMzFlOWZh",
+  "snapshot_id": "MCwxOTYxMmNiMTQzYTIyYTJmMGI5ZWJjZDQ0YzIwM2FhYWJhZGM1MDg2",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Sun/Son",
-        "url": "https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 176197,
-      "name": "Sun/Son",
-      "url": "https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+        "name": "Sun/Son",
+        "url": "https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 104827,
-      "name": "LIMB",
-      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
+      "duration_ms": 176197,
+      "name": "Sun/Son",
+      "url": "https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 279160,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 104827,
+      "name": "LIMB",
+      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Moodring",
         "url": "https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 214600,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2024-02-16 05:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 23891,
+  "2024-02-19": 23892,
   "date_first_scraped": "2023-10-15",
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
   "name": "ElectroPop",
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 200125,
       "name": "PANTERA NEGRA",
       "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 220000,
       "name": "Todas las Luces - Remix",
       "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"

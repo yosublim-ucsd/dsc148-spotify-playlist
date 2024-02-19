@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,110 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,117 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 61 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 | 62 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
 | 63 | [Cry](https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Cry](https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK) | 3:50 |
-| 64 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 |
-| 65 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
+| 64 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
+| 65 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 |
 | 66 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 |
 | 67 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
 | 68 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 74 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 |
 | 75 | [Coup De Grâce](https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Coup De Grâce](https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx) | 3:43 |
 
-Snapshot ID: `MCw4Y2JmNGYyNTM3MzA4OGUyZDk2MTRlY2VlODE5NDI1MTE1ZDZhMmM5`
+Snapshot ID: `MCwxY2YwZWYwOGFhZWI1ZWU3YWMyODU3ODdhMGVkMDUwODI1OWYyYjZi`

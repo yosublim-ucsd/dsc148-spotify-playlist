@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Chasing sunsets con buena música de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,348 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,363 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 34 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [El Sol De Las 3](https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA) | 2:32 |
 | 35 | [nostalgia](https://open.spotify.com/track/0t3uKEc44wvDzMsmCPRach) | [AZTRO](https://open.spotify.com/artist/59Mz51MhHOOKjJFsM4cSzU), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [nostalgia](https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2) | 3:15 |
 | 36 | [Holidays](https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Holidays \- Chromocosmic Avenue](https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz) | 3:23 |
-| 37 | [Me Duele Hasta Pensarte](https://open.spotify.com/track/5QA2TH7f7sjc33DU3OEJMI) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Me Duele Hasta Pensarte](https://open.spotify.com/album/1HWn7sgeNIfAC5tdB8k23X) | 3:48 |
-| 38 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
-| 39 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 |
-| 40 | [Ballenas de Ruido](https://open.spotify.com/track/64431LkryUY3hoaseuTMaR) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Verano en Coma](https://open.spotify.com/album/64rqhUsAlL8ouSRQSVrKeN) | 5:30 |
+| 37 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
+| 38 | [Me Duele Hasta Pensarte](https://open.spotify.com/track/5QA2TH7f7sjc33DU3OEJMI) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Me Duele Hasta Pensarte](https://open.spotify.com/album/1HWn7sgeNIfAC5tdB8k23X) | 3:48 |
+| 39 | [Ballenas de Ruido](https://open.spotify.com/track/64431LkryUY3hoaseuTMaR) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Verano en Coma](https://open.spotify.com/album/64rqhUsAlL8ouSRQSVrKeN) | 5:30 |
+| 40 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 |
 | 41 | [jardín de flores](https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [jardín de flores](https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2) | 3:19 |
 | 42 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
 | 43 | [Dejarte Ir](https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir También Es Amar](https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 49 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
 | 50 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
 
-Snapshot ID: `MCw1ZjQ0ODc0ZDBkMzAwNGM2OTllZTEwNTQ2MDM5ZmEyZDZiMzI3OGQ2`
+Snapshot ID: `MCxhNWZjYTBiODJhMGJhYTc3MDUxODA2MWI5ZjJkZGZlMzg1MzQ4YzI4`

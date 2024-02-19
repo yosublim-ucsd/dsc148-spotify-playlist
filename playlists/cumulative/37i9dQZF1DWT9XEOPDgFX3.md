@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-450 songs - 1 day 3 hr 53 min
+451 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Every Once In A While](https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 4:37 | 2022-04-29 | 2023-09-22 |
 | [Every Star Shivers in the Dark](https://open.spotify.com/track/4iIUamvXOnnDmtqkcfyrF6) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Every Star Shivers in the Dark](https://open.spotify.com/album/6BvIICpJMPzxShxZhCcmqi) | 5:32 | 2022-01-21 | 2022-07-29 |
 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 | 2022-01-21 | 2023-05-24 |
-| [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2022-04-29 |  |
+| [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2022-04-29 | 2024-02-19 |
 | [Everything Everything](https://open.spotify.com/track/33WlDnFFCjmlqCL7H4lUcl) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:26 | 2022-01-21 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 | 2022-01-21 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 | 2022-04-29 |  |
@@ -454,6 +454,7 @@
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-03-10 |  |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2022-11-11 | 2023-01-02 |
 | [you deserve attention](https://open.spotify.com/track/6jx9hgYN1lGEtjkCI40hfh) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [you deserve attention](https://open.spotify.com/album/4XgHOqlAaws6ydjq7HGtst) | 2:28 | 2023-09-08 | 2023-09-19 |
+| [You're Going to Be Fine and I'm Going to Hell](https://open.spotify.com/track/0hNMvtdUaDLUFLBxGY7mn0) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Blu Wav](https://open.spotify.com/album/1rGrX7K22LN6LOZQ9x802C) | 4:44 | 2024-02-16 |  |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-10 |  |
 | [Your Garden](https://open.spotify.com/track/6ZmnWJvEU5ZNRB5jGcxND7) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Your Garden](https://open.spotify.com/album/7xyXzKF6OBhyZ69XiRztYi) | 3:27 | 2023-06-16 | 2023-07-29 |
 | [Your Mind’s Walking Out](https://open.spotify.com/track/17niuSm2NSposx5cUKoTvh) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:33 | 2022-04-13 | 2023-05-28 |

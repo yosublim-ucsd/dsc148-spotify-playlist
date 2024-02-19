@@ -4,12 +4,12 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-141 songs - 8 hr 26 min
+142 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5am Paradise \(Acoustic\) \- Sunrise Version](https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [5am Paradise \(Acoustic\) \[Sunrise Version\]](https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4) | 3:23 | 2023-11-17 |  |
-| [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 | 2022-11-30 |  |
+| [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 | 2022-11-30 | 2024-02-19 |
 | [A Song To Be Named](https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [A Song To Be Named](https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA) | 4:09 | 2022-11-30 |  |
 | [After the Sun](https://open.spotify.com/track/3VqkvcP3j3kSr1FsKwctBp) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/7D8yJ8artbOzMvz5Q2HZXX) | 3:33 | 2021-11-30 | 2022-10-13 |
 | [After the Sun](https://open.spotify.com/track/3sbdt45nDSx8qZDsyKW9YZ) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [After the Sun](https://open.spotify.com/album/6BAEKQpZRpSaIsWLBzwqCm) | 3:33 | 2021-11-30 | 2022-11-13 |
@@ -103,6 +103,7 @@
 | [Paint](https://open.spotify.com/track/5lHA0VtRqd0jsaT46xC3Ae) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Paint](https://open.spotify.com/album/5acGmCJHKwbGdnguz1Bpnz) | 4:31 | 2022-12-15 | 2023-06-17 |
 | [Paint \- Stripped](https://open.spotify.com/track/4xzw6Yoajqnl0xdgVDAxhu) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Paint \(Stripped\)](https://open.spotify.com/album/7nvo38b7mkqCLJIXpKONBX) | 5:05 | 2022-11-30 | 2022-12-19 |
 | [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 | 2021-11-30 | 2022-11-14 |
+| [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 | 2023-11-30 |  |
 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2021-11-30 | 2024-02-14 |
 | [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 | 2022-11-30 |  |
 | [rains](https://open.spotify.com/track/4GNk8J7ApnCVax7dKvLRnE) | [Solomon Crook](https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1) | [rains](https://open.spotify.com/album/26iiPtEXta6wX8yBQ0O7OZ) | 2:23 | 2021-11-30 | 2022-12-01 |

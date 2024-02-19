@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,083 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,147 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 |
 | 60 | [Not It](https://open.spotify.com/track/6d8mGiqcBGivmQ0B5BH9Wi) | [Salt+](https://open.spotify.com/artist/4wP8CdpcWu2NoEzqp2fape) | [Not It](https://open.spotify.com/album/0ep6SynYuRntszr0mv2U2W) | 2:32 |
 
-Snapshot ID: `MCxhMDhiNzVjYWVlM2NmODZkMjA3ZGEyYmFiYmQyMGRkNmZjMjUxNjIz`
+Snapshot ID: `MCw1M2M3NGNiM2VjNGY1ZTRmNzcxNjM5NWRiZTY4N2VkNjhiZTNhZDc0`

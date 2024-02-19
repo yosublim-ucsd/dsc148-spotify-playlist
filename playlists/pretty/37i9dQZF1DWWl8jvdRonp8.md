@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,194 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,335 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 105 | [Morenita](https://open.spotify.com/track/6qv1oi0j4lzQvxdWiL1apb) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 2:42 |
 | 106 | [Ladrón De Buena Suerte](https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:31 |
 | 107 | [Quiéreme](https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:07 |
-| 108 | [Será Mejor Que Te Vayas](https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:59 |
-| 109 | [Tu Ingratitud](https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:31 |
+| 108 | [Tu Ingratitud](https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:31 |
+| 109 | [Será Mejor Que Te Vayas](https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:59 |
 | 110 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 |
 | 111 | [Chiquilla Bonita](https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [A Traves De Tus Ojos](https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ) | 4:46 |
 | 112 | [Dime Dónde Y Cuándo](https://open.spotify.com/track/7GKKZEHiYblZOedraf4ca4) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 3:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [35 Aniversario](https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB) | 3:51 |
 | 125 | [Mi Fantasia](https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:23 |
 
-Snapshot ID: `MCxiZjFkNWQ2ZmFlYjc4MmI5NWUwYTFiZGJmMzI3ODMzNmNkMjJiMzU3`
+Snapshot ID: `MCxkZmYwNzIxZTNlNTIzZDU3ZTQwZDkzNmJiNzEyY2QxMDVkOGE1NmE0`

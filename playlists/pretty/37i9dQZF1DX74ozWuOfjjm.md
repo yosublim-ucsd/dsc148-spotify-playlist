@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,859 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,857 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 18 | [LET HER BE](https://open.spotify.com/track/0iDNJGMQcHI5G3DVVyjBgg) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [LET HER BE](https://open.spotify.com/album/0gQSvPJCNItuDX1sL9kmiU) | 2:39 |
 | 19 | [I Don't Mind](https://open.spotify.com/track/6zHYF1kFKh3N0Lew40O9Qn) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Patchwork](https://open.spotify.com/album/3EMeOe1E7GL3EcfNgJDqqL) | 3:23 |
 | 20 | [We Don't Talk About It](https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [We Don't Talk About It](https://open.spotify.com/album/2fg8nUZnoXnoTK3bmQWdqk) | 2:54 |
-| 21 | [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 |
+| 21 | [Dramamine](https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:57 |
 | 22 | [Letting Go](https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 3:30 |
 | 23 | [Like A Girl Does](https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Like A Girl Does](https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW) | 2:52 |
 | 24 | [Every Time I Think I'm Happy](https://open.spotify.com/track/1QSv4o67AsimQlKnpskKLX) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Every Time I Think I'm Happy](https://open.spotify.com/album/3VBGJNajYbgj3q9vrI7Tp5) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [On the Rocks](https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 2:50 |
 | 100 | [Baby Mama](https://open.spotify.com/track/6Tw2kvzyRYMQLq0kNhX83w) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/7cDGoweZdUcioBZTTWbAOs) | 3:34 |
 
-Snapshot ID: `MCwzMzM0NzQ1MWEzYjA0YWZmN2QwNjcxZjRiMzg1N2YwZjYyNTYyZTU0`
+Snapshot ID: `MCw5YTMyZjM5NmNlOWM2N2Q4M2EwMGNkYzU1ZGYxMWE1NTc2YmI0MDI0`

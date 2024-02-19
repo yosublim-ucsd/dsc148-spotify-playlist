@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 23249,
+  "num_followers": 23270,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDhjOTNmMWUwYTE0NjM3YTlmMDI2MzM4ZjAwN2Y3ZDM3Yzk5MmQ4",
+  "snapshot_id": "MCxhMDZjZTZiZDk0MDA4Y2UzNTg0ZWExZDQ0YmViZTE1NGJjMTEzM2M0",
   "tracks": [
     {
       "added_at": "2023-12-22 23:46:17",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Aleteo",
+        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
+      },
+      "artists": [
+        {
+          "name": "Carolina del Carmen Peleritti",
+          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Aleteo",
+      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Herencia",
         "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 237520,
       "name": "Cuando Llegue el Alba",
       "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -575,50 +607,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
+        "name": "Escondido En Mi Pa\u00eds",
+        "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
       },
       "artists": [
         {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Aleteo",
-        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
-      },
-      "artists": [
-        {
-          "name": "Carolina del Carmen Peleritti",
-          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Aleteo",
-      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
-      },
-      "artists": [
-        {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Cuando Me Abandone el Alma",
-      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+      "duration_ms": 190626,
+      "name": "Para Cantar He Nacido",
+      "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Escondido En Mi Pa\u00eds",
-        "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Para Cantar He Nacido",
-      "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
+      "duration_ms": 204226,
+      "name": "Cuando Me Abandone el Alma",
+      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
-      },
-      "artists": [
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        }
-      ],
-      "duration_ms": 176615,
-      "name": "Carnavaleando de Sol a Sol",
-      "url": "https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Bendiciones",
         "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 210771,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "duration_ms": 176615,
+      "name": "Carnavaleando de Sol a Sol",
+      "url": "https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
+      },
+      "artists": [
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 231626,
+      "name": "Florcita de Card\u00f3n",
+      "url": "https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Wi\u00f1ay",
         "url": "https://open.spotify.com/album/0vKMwOpwogmFq8GZNOLzfl"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 154977,
       "name": "La Olvidada",
       "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
-      },
-      "artists": [
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "Florcita de Card\u00f3n",
-      "url": "https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        },
+        {
+          "name": "Celso Duarte",
+          "url": "https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "El Mentiroso",
+      "url": "https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 110291,
       "name": "El T\u00edmido (feat. Nahuel Pennisi)",
       "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        },
-        {
-          "name": "Celso Duarte",
-          "url": "https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "El Mentiroso",
-      "url": "https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+        "name": "Pajarito",
+        "url": "https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK"
       },
       "artists": [
         {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
         }
       ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+      "duration_ms": 164250,
+      "name": "Pajarito",
+      "url": "https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Pajarito",
-        "url": "https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK"
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
       },
       "artists": [
         {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
         }
       ],
-      "duration_ms": 164250,
-      "name": "Pajarito",
-      "url": "https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov"
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Una canastita",
-        "url": "https://open.spotify.com/album/4QigF4QvOuSDE3763lyLUB"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 136125,
-      "name": "Una canastita",
-      "url": "https://open.spotify.com/track/7axgUU3BUhRepMAILls8f6"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 232000,
       "name": "Tierra, Tan S\u00f3lo",
       "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Una canastita",
+        "url": "https://open.spotify.com/album/4QigF4QvOuSDE3763lyLUB"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 136125,
+      "name": "Una canastita",
+      "url": "https://open.spotify.com/track/7axgUU3BUhRepMAILls8f6"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "La Charo",
-        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "La Marejada",
-      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Cuando Vuelva a encontrarte",
         "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 189906,
       "name": "La Estrella Azul",
       "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "La Charo",
+        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "La Marejada",
+      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Sarav\u00e1",
-        "url": "https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        }
-      ],
-      "duration_ms": 243058,
-      "name": "Sarav\u00e1",
-      "url": "https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Cuando Vuelva a encontrarte",
         "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Gaucha",
-        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+        "name": "Sarav\u00e1",
+        "url": "https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi"
       },
       "artists": [
         {
-          "name": "Mavi Diaz &  Las Folkies",
-          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
         }
       ],
-      "duration_ms": 107710,
-      "name": "La Arruguita",
-      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
+      "duration_ms": 243058,
+      "name": "Sarav\u00e1",
+      "url": "https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Gaucha",
+        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+      },
+      "artists": [
+        {
+          "name": "Mavi Diaz &  Las Folkies",
+          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+        }
+      ],
+      "duration_ms": 107710,
+      "name": "La Arruguita",
+      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 173373,
       "name": "La Maimare\u00f1a",
       "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "El Cami\u00f3n de Germ\u00e1n",
-        "url": "https://open.spotify.com/album/2a3jI3n0xtX9Zktz4RX1Wb"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        }
-      ],
-      "duration_ms": 327522,
-      "name": "El Cami\u00f3n de Germ\u00e1n",
-      "url": "https://open.spotify.com/track/1IfqQiw3sz9GgsoTrDDblL"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1671,6 +1655,22 @@
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "El Cami\u00f3n de Germ\u00e1n",
+        "url": "https://open.spotify.com/album/2a3jI3n0xtX9Zktz4RX1Wb"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        }
+      ],
+      "duration_ms": 327522,
+      "name": "El Cami\u00f3n de Germ\u00e1n",
+      "url": "https://open.spotify.com/track/1IfqQiw3sz9GgsoTrDDblL"
     },
     {
       "added_at": "2023-12-22 23:46:17",

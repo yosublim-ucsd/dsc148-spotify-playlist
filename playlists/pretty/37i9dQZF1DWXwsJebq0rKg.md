@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > La favorita de dios, and she knows 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,898 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,079 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 15 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 |
 | 16 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 |
 | 17 | [It's A Wrap](https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 3:58 |
-| 18 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
-| 19 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
+| 18 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
+| 19 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 20 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 21 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
 | 22 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 49 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
 | 50 | [Dueles Tan Bien](https://open.spotify.com/track/5CXIcaCtSSdMu8e53hWAr8) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:54 |
 
-Snapshot ID: `MCxiYzU0OTU4ZTBlMDk1YmRiMTZlNzUwODRkNTZkNjVjYTQ0MzljYTY5`
+Snapshot ID: `MCxmMTczYjY0NWIxZTAxYTliZjlhOTQ1M2I1NjY1N2FkOTM5NDNiMGVh`

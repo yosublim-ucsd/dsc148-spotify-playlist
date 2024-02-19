@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Schoolboy Q, Polo G and Yeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,486 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,503 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 71 | [Sideways \(with NLE Choppa\)](https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Sideways](https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1) | 2:00 |
 | 72 | [False Idols \(with Lil Baby, Suzanna Son\)](https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6) | 4:22 |
 | 73 | [Turks & Caicos \(feat\. 21 Savage\)](https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:23 |
-| 74 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
+| 74 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
 | 75 | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo) | 3:46 |
 | 76 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
 | 77 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 79 | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH) | 2:08 |
 | 80 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 
-Snapshot ID: `MCxlOTZjOTAwMTE3ZDkzNWM0YjNmMzUyMDBkNzczZjYwODEzYTcxZTMz`
+Snapshot ID: `MCxiYTc1NDk1N2EwYjIzMDY4ZDQ2NmY4MWE4NGE4NzdhMzk5OGZmOTlh`

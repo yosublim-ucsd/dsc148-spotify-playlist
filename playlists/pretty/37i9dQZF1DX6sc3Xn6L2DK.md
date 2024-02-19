@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,269 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,294 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 61 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 5:25 |
 | 62 | [Letting Go](https://open.spotify.com/track/0g6wylEFEz28As6I6iVmhh) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 3:24 |
 | 63 | [Los Chicos Tristes](https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Chicos Tristes](https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa) | 3:49 |
-| 64 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
-| 65 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
+| 64 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
+| 65 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
 | 66 | [Cocaine Country Dancing](https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Cocaine Country Dancing](https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL) | 4:16 |
 | 67 | [Dandelions](https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 6:34 |
 | 68 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Lonesome City](https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy) | [The Black Canyon Gang](https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe) | [Wayfaring Strangers: Cosmic American Music](https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB) | 3:34 |
 | 75 | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9) | 3:03 |
 
-Snapshot ID: `MCw0Yzc1Y2M0NzFkMGZiMDVmMTVhOWM3ZWVjYjk4NWFmZTI0ZDlhYzlh`
+Snapshot ID: `MCxkYWEzYWNlODM4NTdkZDU5MzM5YTFlNjYwMzk2ZDZjNzlmMTVmN2Jh`

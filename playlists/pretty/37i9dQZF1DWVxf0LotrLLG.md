@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,704 likes - 84 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,739 likes - 84 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 83 | [Aquellos Botones](https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:04 |
 | 84 | [El Agujero](https://open.spotify.com/track/3nIbByNpERy2YQnBJLwVVl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:23 |
 
-Snapshot ID: `MCw5ZjdhNjhmNjYzM2JiM2MxOWNjOGQzNDJhMGM1YWNiODFkZjMxODBk`
+Snapshot ID: `MCxhOTJlNGQ2OWI2NDhjNmFiMDJiN2M4YzUzZDQyY2YwMDVhN2Q3M2Nk`

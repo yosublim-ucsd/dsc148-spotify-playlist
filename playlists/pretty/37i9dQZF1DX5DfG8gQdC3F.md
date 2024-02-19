@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Beyoncé, Mother Mother, Dua Lipa, Josh Ross and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,495 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,552 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [time is measured](https://open.spotify.com/track/666tnbLT7ugnf5Xw7D3ecX) | [jerry](https://open.spotify.com/artist/1AZJhKobUOUAawr0AEmGE4) | [lovemesooner](https://open.spotify.com/album/398Pg5EQy3xSV3mYCBySn0) | 2:16 |
 | 100 | [Devil On My Shoulder](https://open.spotify.com/track/2CaiWCNMFAIxoyYKjMxAbf) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Devil On My Shoulder](https://open.spotify.com/album/3kl9IYI5NmJbdTWgJZNCmk) | 3:02 |
 
-Snapshot ID: `MCw5ZDViZjBiMGZlNzk5MzNhMTgwMmYyZTVkNTRlOTEyNzYxYWYyOTA0`
+Snapshot ID: `MCxiYjBlMDc3ZThhZTExZjkwMjNlOGVjYTg1Y2JhNzY3MGQ5YTI4M2Uy`

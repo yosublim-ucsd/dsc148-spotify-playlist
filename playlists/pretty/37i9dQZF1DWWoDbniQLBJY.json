@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1940604,
+  "num_followers": 1940618,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWZjNDVkMTUzYTUyNmUzNThiOWZiMzUxZTMzZDM4ZmJhZjBjYjc4",
+  "snapshot_id": "MCxhZWQ1ZWQ4MDdmZjQ5MzhhNjRmNWJiNGIwM2UxMTg2YWNiNTFhNmQz",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Amapolas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 226373,
       "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
       "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Amapolas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -507,8 +491,24 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -559,6 +559,26 @@
       "duration_ms": 142964,
       "name": "Soldadito de Hierro",
       "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "NUEVE",
+        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "EL LOBBY",
+      "url": "https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -607,26 +627,6 @@
       "duration_ms": 195789,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "NUEVE",
-        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 208057,
-      "name": "EL LOBBY",
-      "url": "https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Cuanto antes (feat. Lali)",
         "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 226844,
       "name": "Cuanto antes (feat. Lali)",
       "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
-      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "En Ac\u00fastico",
         "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 207207,
       "name": "Destino - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
+      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "A M\u00ed y a Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 157617,
       "name": "A M\u00ed y a Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Jard\u00edn",
-        "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
-      },
-      "artists": [
-        {
-          "name": "Teo Bok",
-          "url": "https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r"
-        }
-      ],
-      "duration_ms": 144253,
-      "name": "Jard\u00edn",
-      "url": "https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "plan (ac\u00fastico)",
         "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 201000,
       "name": "plan (ac\u00fastico)",
       "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Jard\u00edn",
+        "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
+      },
+      "artists": [
+        {
+          "name": "Teo Bok",
+          "url": "https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r"
+        }
+      ],
+      "duration_ms": 144253,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "triste pero siempre mami (ac\u00fastico)",
         "url": "https://open.spotify.com/album/6yDHqulmVo9qIkkjJCpfc7"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 151264,
       "name": "mi amor x ti - ac\u00fastico",
       "url": "https://open.spotify.com/track/1ilkYTIRQL799HYUFFvC26"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     },
     {
       "added_at": "2024-02-16 05:01:00",

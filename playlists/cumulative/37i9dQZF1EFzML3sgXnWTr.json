@@ -240,10 +240,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 192120,
       "name": "DIAMANTI GREZZI",
       "url": "https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV"
+    },
+    {
+      "album": {
+        "name": "PRIMO",
+        "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "DIAMANTI GREZZI",
+      "url": "https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv"
     },
     {
       "album": {

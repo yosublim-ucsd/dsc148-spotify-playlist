@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Don't use these shoes to run, they just look nice for the playlist cover\. Use real running shoes, please.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,748 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,819 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 27 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 28 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
 | 29 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
-| 30 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
-| 31 | [Left Behind](https://open.spotify.com/track/1fELNqKkbCNDWpxJHOXuVY) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind \(Acoustic\)](https://open.spotify.com/album/3vXU8TC9EDEdmnRUoGuOb1) | 3:26 |
+| 30 | [Left Behind](https://open.spotify.com/track/1fELNqKkbCNDWpxJHOXuVY) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind \(Acoustic\)](https://open.spotify.com/album/3vXU8TC9EDEdmnRUoGuOb1) | 3:26 |
+| 31 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
 | 32 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
 | 33 | [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 |
 | 34 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
 | 35 | [Heartbreak Feels So Good](https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:37 |
 | 36 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
 | 37 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
-| 38 | [Empty Walls](https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Elect the Dead \(Deluxe\)](https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz) | 3:50 |
+| 38 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
 | 39 | [Bored to Death](https://open.spotify.com/track/12YGKHMw1l36tXlgU2Vrjj) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:55 |
-| 40 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
+| 40 | [Empty Walls](https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Elect the Dead \(Deluxe\)](https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz) | 3:50 |
 | 41 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 42 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
 | 43 | [Blood Brothers](https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:33 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 67 | [Movies](https://open.spotify.com/track/3D8jabgtmZtDibyb6gqZOT) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 3:22 |
 | 68 | [Genocide](https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:33 |
 | 69 | [State of Love and Trust](https://open.spotify.com/track/0KEhlgtlk0HuqBIqfGCGdF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 3:47 |
-| 70 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 |
-| 71 | [Beautiful Way](https://open.spotify.com/track/3SevJWsbqUOpfPOpRZGrP9) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:45 |
+| 70 | [Beautiful Way](https://open.spotify.com/track/3SevJWsbqUOpfPOpRZGrP9) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:45 |
+| 71 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 |
 | 72 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 |
 | 73 | ["45"](https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:22 |
 | 74 | [Miss Alissa](https://open.spotify.com/track/1dlgaGdQXmsYKMRuewIZkF) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/1lFroSL8x6KELMkLOS07DT) | 2:38 |
 | 75 | [The Small Print](https://open.spotify.com/track/6U6MIIspkSRd5lBgzPWIIi) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 3:28 |
-| 76 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
-| 77 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
-| 78 | [Live Outside](https://open.spotify.com/track/4gFBRNM2w934WZMOINd49G) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Spark](https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V) | 3:40 |
+| 76 | [Live Outside](https://open.spotify.com/track/4gFBRNM2w934WZMOINd49G) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Spark](https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V) | 3:40 |
+| 77 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
+| 78 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 79 | [White Flag](https://open.spotify.com/track/0Sie4zIpI18dBZ0ptyo0SP) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [White Flag](https://open.spotify.com/album/6DfSN8W4AwOI1sr7a0nJZ3) | 3:45 |
 | 80 | [Easy Target](https://open.spotify.com/track/0fsrRvpqr904AdKAPDXFkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:20 |
 
-Snapshot ID: `MCxiZDViYjQ4ZmFlOTY2ZWQ1YzVlYzY0ODhmODEwMjU1ZmE0MGNhMmY0`
+Snapshot ID: `MCxkODVhYTBkNWFmZDliMmRjNWFmNWI5OWZhOWYxNDk4YjE3YjU3MDRj`

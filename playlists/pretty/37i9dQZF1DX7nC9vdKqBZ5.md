@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,792 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,900 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 48 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \(Acústico\)](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 |
 | 49 | [Coração de Aço \- Acústico](https://open.spotify.com/track/4VTqGcHo7JPC9W5GRtJ6lK) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Coracão de Aço \(Acústico\)](https://open.spotify.com/album/1Q8M6zvVn94tvUcS7YEk5F) | 3:48 |
 | 50 | [Novo Ciclo](https://open.spotify.com/track/59ZPagDizQRjxBsDmCL0Pi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cabelera](https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Novo Ciclo](https://open.spotify.com/album/0WrfiSS6rdY7taX62Uv66e) | 3:50 |
-| 51 | [Outra Vez \- Ao Vivo](https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Sol Lua Sol, ao Vivo em São Paulo \(Ao Vivo\)](https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla) | 4:17 |
-| 52 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 |
-| 53 | [Um Anjo do Céu \- Acústico](https://open.spotify.com/track/5d3LxGIJLPmFR7pvPUJuzd) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Um Anjo do Céu \(Acústico\)](https://open.spotify.com/album/6dV3mqwoIdACcrzyD8BdIi) | 2:22 |
+| 51 | [Um Anjo do Céu \- Acústico](https://open.spotify.com/track/5d3LxGIJLPmFR7pvPUJuzd) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Um Anjo do Céu \(Acústico\)](https://open.spotify.com/album/6dV3mqwoIdACcrzyD8BdIi) | 2:22 |
+| 52 | [Outra Vez \- Ao Vivo](https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Sol Lua Sol, ao Vivo em São Paulo \(Ao Vivo\)](https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla) | 4:17 |
+| 53 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 |
 | 54 | [Sorte](https://open.spotify.com/track/2xuG9kIWSOUKxYYjCzmuSq) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Início, Meio e Fim](https://open.spotify.com/album/5TahEqfBGN6qUwRCNYk7xW) | 3:15 |
 | 55 | [Aindas](https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Ana Vilela Sessions](https://open.spotify.com/album/2MwxQxJrzlYkkvLnIvpwVM) | 3:18 |
 | 56 | [Vê Se Não Me Esquece Mais](https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Vê Se Não Me Esquece Mais](https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 99 | [Amiga](https://open.spotify.com/track/3f6zlOjEvYJVgvPyodrnU7) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Salma e Mac](https://open.spotify.com/album/2Q16sGZ2lP7iTooxAr85ZJ) | 3:18 |
 | 100 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 |
 
-Snapshot ID: `MCw2OWE4ODVhMWQxNmQyM2I2MTA0MWM4OTA3ZDFmNDRiYTllOTc4Y2M2`
+Snapshot ID: `MCxkMDA3MDkzNDkzYjVlZTg1NjhiNWE4YWMyMDZmZWYxNjQzNjA1NTI5`

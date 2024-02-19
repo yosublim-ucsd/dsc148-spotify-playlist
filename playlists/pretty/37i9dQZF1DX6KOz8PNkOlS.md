@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,783 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,957 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 44 | [interested](https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/0Yvd8AciWmZXa2KQXQDl2V) | 3:13 |
 | 45 | [Signs](https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 2:59 |
 | 46 | [Blue Hour](https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:31 |
-| 47 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 |
-| 48 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 |
+| 47 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 |
+| 48 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 |
 | 49 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 | 50 | [The Loop](https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 4:01 |
 | 51 | [Fall Again](https://open.spotify.com/track/3DU0kVyL8d8DgINz9qBxPQ) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Help](https://open.spotify.com/album/3dfh1q4L1CJyyIC47Sinln) | 4:10 |
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 53 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
 | 54 | [Do You Love Her Now](https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:34 |
 | 55 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
-| 56 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
-| 57 | [Eat You Alive](https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Eat You Alive](https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf) | 3:10 |
+| 56 | [Eat You Alive](https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Eat You Alive](https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf) | 3:10 |
+| 57 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
 | 58 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 |
 | 59 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
-| 60 | [If It Goes](https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U) | 3:44 |
+| 60 | [Thrill](https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 4:20 |
 | 61 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
-| 62 | [Thrill](https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 4:20 |
+| 62 | [If It Goes](https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U) | 3:44 |
 | 63 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
 | 64 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
 | 65 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 77 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
 | 78 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 |
 | 79 | [Own Me](https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:37 |
-| 80 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 |
-| 81 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 |
+| 80 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 |
+| 81 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 |
 | 82 | [blame game](https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 3:29 |
 | 83 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
 | 84 | [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 99 | [Jalisco](https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:42 |
 | 100 | [Harlem River](https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv) | 4:37 |
 
-Snapshot ID: `MCw2ZDFjYzhjZmQxYmI5ZjcwZDc0YWNmMjNhYWRlZmRlODc5MWM0OWIx`
+Snapshot ID: `MCw1ODg3N2JkZDdmNTE1N2ExOWFmZTkwMWEwYzdmMzM1NjA2NDNhOTMz`

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 81496,
+  "2024-02-19": 81587,
   "date_first_scraped": "2022-12-04",
   "description": "The most popular Jazz tracks in one playlist. Cover: Herbie Hancock",
   "name": "Just Jazz",
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 205813,
       "name": "Bloomdido - Master Take",
       "url": "https://open.spotify.com/track/2qkDwUvGAQcxqHWsguEbXV"
@@ -8931,7 +8931,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 331333,
       "name": "Play Ray",
       "url": "https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY"

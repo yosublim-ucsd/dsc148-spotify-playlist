@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-103 songs - 6 hr 53 min
+104 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,11 +88,12 @@
 | [Squeeze Box](https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 2:41 | 2022-09-17 |  |
 | [Substitute](https://open.spotify.com/track/6Ht0wBgRgLQPjIQKks766b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 3:47 | 2022-09-17 |  |
 | [Summertime Blues](https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:38 | 2022-09-17 | 2023-11-11 |
+| [Summertime Blues \- Live](https://open.spotify.com/track/1fBcUV1S7FdHcB8aSINFsB) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At Leeds \(Expanded Edition\)](https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4) | 3:22 | 2024-02-18 |  |
 | [Sunrise](https://open.spotify.com/track/05EpBNu0hokMsuNc62SAAz) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out](https://open.spotify.com/album/01Zc1xVpVQFnVKBc0SMMBO) | 3:06 | 2022-10-01 | 2023-04-18 |
 | [Teenage Wasteland \- Lifehouse Chronicles / Remastered 2022](https://open.spotify.com/track/2N6soaM7Cs8yeSiq5faLi9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 6:47 | 2023-09-25 | 2023-11-11 |
 | [The Dirty Jobs](https://open.spotify.com/track/164fXVq2STSUorItsuHg6o) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 4:28 | 2023-05-17 | 2023-09-22 |
 | [The Dirty Jobs](https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 4:28 | 2022-10-12 |  |
-| [The Kids Are Alright](https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 3:07 | 2022-09-17 |  |
+| [The Kids Are Alright](https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 3:07 | 2022-09-17 | 2024-02-19 |
 | [The Punk And The Godfather](https://open.spotify.com/track/2O1tCUkthqO7SWpXdDnp2T) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:10 | 2022-10-13 | 2022-11-26 |
 | [The Punk And The Godfather](https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 5:10 | 2022-09-28 |  |
 | [The Real Me](https://open.spotify.com/track/0bNdtECaLZcHA4B9QPjeUk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 3:20 | 2022-11-26 |  |

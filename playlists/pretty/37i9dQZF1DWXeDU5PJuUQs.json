@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 139158,
+  "num_followers": 139210,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjMwYTVhZTZhMzVlY2I5OWNjZmE2ZTAwYjg5OTRhNWQyYzQ4ZTg0",
+  "snapshot_id": "MCxkMmRjOGM3NTc3MWMxZTAyMTczMDc0ODViZThjN2UzNmYzMTljYjYx",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
         }
       ],
-      "duration_ms": 269848,
-      "name": "Perdoname / Te Quiero a Ti - En Vivo",
-      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -335,22 +339,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Gordo Rata (En Vivo)",
-        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Gordo Rata - En Vivo",
-      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+      "duration_ms": 269848,
+      "name": "Perdoname / Te Quiero a Ti - En Vivo",
+      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+        "name": "Crecer (En Vivo)",
+        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
       },
       "artists": [
         {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
+      "duration_ms": 212266,
+      "name": "Dime Si Eres Feliz - En Vivo",
+      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Crecer (En Vivo)",
-        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Dime Si Eres Feliz - En Vivo",
-      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Mi Vida (En Vivo)",
         "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 439586,
       "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
       "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
+        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
-        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
         }
       ],
-      "duration_ms": 198245,
-      "name": "Soy Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+        "name": "Me Olvide de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
       },
       "artists": [
         {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+      "duration_ms": 128072,
+      "name": "Me Olvide de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "M\u00e1tame",
-      "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Mi Vida (En Vivo)",
         "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
@@ -1095,34 +1079,50 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Me Olvide de Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 128072,
-      "name": "Me Olvide de Ti - En Vivo",
-      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+      "duration_ms": 203253,
+      "name": "M\u00e1tame",
+      "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
     },
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "En Vivo Desde el Teatro Opera",
-        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
         }
       ],
-      "duration_ms": 433520,
-      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
-      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "La Gira y La Serenata",
+        "url": "https://open.spotify.com/album/5QinfgsUxJrIreNnHyOzTN"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 291054,
+      "name": "Pedazo De Papel - En Vivo En Arena Maip\u00fa Mendoza",
+      "url": "https://open.spotify.com/track/5JhAgBgjwjCJqgG58QFVmG"
     }
   ],
   "unique_name": "Vivo de Cumbia",

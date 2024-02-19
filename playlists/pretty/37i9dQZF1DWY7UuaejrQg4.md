@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,298 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,312 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 81 | [There's A Reason Why \(I Never Returned Your Calls\)](https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 3:42 |
 | 82 | [Sit Next to Me \- Stereotypes Remix](https://open.spotify.com/track/4v0CuFW0bEMBQ1gRn2mB3X) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Stereotypes](https://open.spotify.com/artist/6RqG6OjPJVHi1RAcXTxglq) | [Sit Next to Me \(Stereotypes Remix\)](https://open.spotify.com/album/0SBjLqgv3wzOb5LtvYz0zf) | 3:10 |
 | 83 | [Sky Full Of Song](https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:46 |
-| 84 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
-| 85 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 |
+| 84 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 |
+| 85 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
 | 86 | [All I Want To Hear You Say](https://open.spotify.com/track/7BZWTu4Pv77TxGmmsQaSXN) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [All I Want To Hear You Say](https://open.spotify.com/album/1q1jS5K0GVUbJL7NySZM3F) | 3:10 |
 | 87 | [Bambi](https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bambi](https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN) | 3:14 |
 | 88 | [Losing You](https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 99 | [Cheetah Tongue](https://open.spotify.com/track/0Pa1cE18FyJqPNQZSeCl0c) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:39 |
 | 100 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
 
-Snapshot ID: `MCxhY2JiNzg5ZDQ4MzBmYTBkZWYwMDliZjg3NWJjYjI5MTU4ZDFhNWE2`
+Snapshot ID: `MCxkNThlNjM1ODYyODY1ZDE3NDQ1ZTM2ZjA3ZThmMjYxNDMxYTkzOWE1`

@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308409,
+  "num_followers": 308434,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTIyMGUwMGM4M2EwOGM1MjU0NDM2YTJjMTE5MWEyN2IyNzRlODI3",
+  "snapshot_id": "MCw2NzY4NjZlZTE4MDg5MTUyZmIyOGM2MjI2MmEzNzdmMDFkM2U0ZGQ1",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "FLOW",
-        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "FLOW",
-      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Luzes Apagadas",
         "url": "https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH"
       },
@@ -1103,8 +1087,24 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "STR!PP3R",
-        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 187050,
-      "name": "STR!PP3R",
-      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
     },
     {
       "added_at": "2023-11-24 17:02:27",

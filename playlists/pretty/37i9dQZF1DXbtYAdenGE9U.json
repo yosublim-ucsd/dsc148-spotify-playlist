@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 531844,
+  "num_followers": 532175,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODY1YjY5OGEyMjVjNTNmNWZhYThmNzEwOGU1ZWNjZDgwOGVhNDA4",
+  "snapshot_id": "MCw4ZDc5MWI4NzEyNzY2OTQyZTZjMjc0Mjg5OGQ1MzA4YmNkMDYyZDNk",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "As The Rush Comes",
-        "url": "https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB"
-      },
-      "artists": [
-        {
-          "name": "Motorcycle",
-          "url": "https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "As The Rush Comes",
-      "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Seven Days and One Week",
         "url": "https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 271568,
       "name": "Seven Days and One Week - Radio Edit",
       "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "As The Rush Comes",
+        "url": "https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB"
+      },
+      "artists": [
+        {
+          "name": "Motorcycle",
+          "url": "https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "As The Rush Comes",
+      "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Trance Top 1000 - The Best Of",
-        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 225841,
-      "name": "Universal Nation",
-      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Time To Burn 2010",
         "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 175160,
       "name": "Time to Burn - Radio Edit",
       "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 225841,
+      "name": "Universal Nation",
+      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -875,22 +875,18 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Retrospective (25 Years)",
-        "url": "https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4"
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
       },
       "artists": [
         {
-          "name": "Matt Darey",
-          "url": "https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S"
-        },
-        {
-          "name": "Marcella Woods",
-          "url": "https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Beautiful - 1999 Mix",
-      "url": "https://open.spotify.com/track/59ktkd4Y30uNOeuxJhBN5e"
+      "duration_ms": 268600,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
     }
   ],
   "unique_name": "Trance Classics",

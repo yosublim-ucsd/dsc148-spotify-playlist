@@ -1,12 +1,12 @@
 {
   "description": "Soul classics to keep you company in the kitchen.",
-  "num_followers": 36509,
+  "num_followers": 36550,
   "original_name": "Cooking with Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjg5ZDgxMmYyYzI2YWI3OWYzMzI0ZWRjNmEyNDQ1NjQyOWY0MDZh",
+  "snapshot_id": "MCwzNzllZTU1MTI0ZWY1NzFhNzFmMDcyYTg4ZjkxZjdhMzdiOTUzYjBk",
   "tracks": [
     {
       "added_at": "2022-03-28 20:22:14",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 174360,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 163093,
       "name": "Come See About Me",
       "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Swing Low",
-        "url": "https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 155173,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/7v1858htfU0srTDwhxeka8"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 176626,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Swing Low",
+        "url": "https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 155173,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/7v1858htfU0srTDwhxeka8"
     },
     {
       "added_at": "2022-03-28 20:22:14",

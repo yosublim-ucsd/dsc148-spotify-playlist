@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 13 min
+100 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 | 2022-10-28 |  |
 | [Senseless](https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ) | 2:23 | 2022-10-28 |  |
 | [Shaka Laka \(feat\. Kodak Black & Yailin la Mas Viral\)](https://open.spotify.com/track/1ESr4YCDSyToO2fcRq4IDF) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shaka Laka \(feat\. Kodak Black & Yailin la Mas Viral\)](https://open.spotify.com/album/7LkAq5J9fXsl7OGLOBfMU5) | 2:57 | 2023-07-23 | 2023-11-11 |
-| [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/track/4thyim0b9fKcBByGgtnqHF) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/album/7A7J7WdAhJZBr8VfV4QFtd) | 2:57 | 2023-11-10 |  |
+| [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/track/39yQeL4CyuYSRcqHB0jj3T) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BLACKBALLED](https://open.spotify.com/album/045ra7EkY07W66G8CP2BjK) | 2:57 | 2024-02-18 |  |
+| [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/track/4thyim0b9fKcBByGgtnqHF) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/album/7A7J7WdAhJZBr8VfV4QFtd) | 2:57 | 2023-11-10 | 2024-02-19 |
 | [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 | 2022-10-28 |  |
 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 | 2022-10-28 |  |
 | [Skrt](https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Skrt](https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS) | 3:44 | 2022-10-28 |  |

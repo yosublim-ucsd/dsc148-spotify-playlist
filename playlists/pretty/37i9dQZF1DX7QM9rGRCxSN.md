@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,624 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,636 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 30 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 31 | [La Caja Del Diablo](https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 9:10 |
 | 32 | [Hasta Que el Tiempo No Nos Separe](https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cielos Desconocidos](https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt) | 5:28 |
-| 33 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
-| 34 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
+| 33 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
+| 34 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
 | 35 | [Amor de Furgoneta](https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Amor de Furgoneta](https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy) | 3:12 |
 | 36 | [Ceremonia](https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 4:59 |
 | 37 | [Especial](https://open.spotify.com/track/1nkXSpEZCAHEI7yTxm5ZZp) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/5KeUNMEECvCWzmtJSmXprZ) | 4:02 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 44 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 |
 | 45 | [Fukushima](https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Triángulo de Amor Bizarro](https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m) | 6:01 |
 | 46 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
-| 47 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 |
-| 48 | [Ansiedad](https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [Ausencia](https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG) | 1:40 |
+| 47 | [Ansiedad](https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [Ausencia](https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG) | 1:40 |
+| 48 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 |
 | 49 | [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 |
 | 50 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
 
-Snapshot ID: `MCw2ZGFkZmUyNGIxMmRlY2E0NGY5ODQxMDc5OTdhYzhiNzdiODkzMWQ3`
+Snapshot ID: `MCw1OTI0MGJmYzNiOWQ0ZmMyOTAzOThkZjg1ZjM3MmIyMDVlNTkyZGY4`

@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: FEVER 333",
-  "num_followers": 350533,
+  "num_followers": 350595,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzhiOTcxZTY0YmQ2ODUxNTUxODVjZjZmMThmNWM4ZDA0MDcyMzNh",
+  "snapshot_id": "MCwwMGUzMDU0NzE4ODZiNWI3MjE1MmM5ZjkwODM0N2FhYjhmODdlNTc4",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Keeping Secrets",
-        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 257798,
-      "name": "Keeping Secrets",
-      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Keeping Secrets",
+        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 257798,
+      "name": "Keeping Secrets",
+      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "I Am The Weapon",
-      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 253346,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "I Am The Weapon",
+      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "virus",
-        "url": "https://open.spotify.com/album/6nAOndDSvGs7dsQ8FgrdnZ"
-      },
-      "artists": [
-        {
-          "name": "elijah",
-          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "virus",
-      "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Vengeance",
         "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 238534,
       "name": "Vengeance",
       "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "virus",
+        "url": "https://open.spotify.com/album/6nAOndDSvGs7dsQ8FgrdnZ"
+      },
+      "artists": [
+        {
+          "name": "elijah",
+          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "virus",
+      "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Container",
+        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Container",
+      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -1635,6 +1651,22 @@
       "duration_ms": 238143,
       "name": "Beguiled",
       "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "WARZ0NE",
+        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 158175,
+      "name": "WARZ0NE",
+      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1739,34 +1771,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Container",
-        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
+        "name": "Speaking of the Devil",
+        "url": "https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX"
       },
       "artists": [
         {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
         }
       ],
-      "duration_ms": 186098,
-      "name": "Container",
-      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "WARZ0NE",
-        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 158175,
-      "name": "WARZ0NE",
-      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
+      "duration_ms": 225189,
+      "name": "Speaking of the Devil",
+      "url": "https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 216771,
       "name": "1987",
       "url": "https://open.spotify.com/track/3yn4cBZTTeCZf2sD70Mnes"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Speaking of the Devil",
-        "url": "https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX"
-      },
-      "artists": [
-        {
-          "name": "Thundermother",
-          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
-        }
-      ],
-      "duration_ms": 225189,
-      "name": "Speaking of the Devil",
-      "url": "https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1903,30 +1903,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
-        "url": "https://open.spotify.com/album/5Hx7U2s7DySYx1KYGJjIzR"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        },
-        {
-          "name": "Jason Aalon Butler",
-          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
-        },
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 167861,
-      "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
-      "url": "https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
       },
@@ -1955,6 +1931,54 @@
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
+        "url": "https://open.spotify.com/album/5Hx7U2s7DySYx1KYGJjIzR"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 167861,
+      "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
+      "url": "https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Never Back Down",
+        "url": "https://open.spotify.com/album/0uNxVlXvWIWF2XoUx8QCNP"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hyles",
+          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
+        },
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Never Back Down",
+      "url": "https://open.spotify.com/track/60c68QO7eReWRNEHLLojBi"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2023,18 +2047,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/4qLJUL6VNVCA9G4pK01Org"
+        "name": "Middle Finger Motto",
+        "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
       },
       "artists": [
         {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
         }
       ],
-      "duration_ms": 230124,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x"
+      "duration_ms": 171937,
+      "name": "Middle Finger Motto",
+      "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2067,22 +2091,6 @@
       "duration_ms": 210567,
       "name": "Shake Your City",
       "url": "https://open.spotify.com/track/5tVcVrv04rJlQxrbZ5sDzK"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "War Pigs",
-        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 309888,
-      "name": "War Pigs",
-      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
     }
   ],
   "unique_name": "Hard Rock",

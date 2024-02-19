@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > The playlist version of a warm hug
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,575 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,555 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 99 | [Unconditional](https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Devon or Las Vegas](https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade) | 4:20 |
 | 100 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 
-Snapshot ID: `MCw0ZjE4MGYzNWUwZTVlNGMzYmZiODFhZGJlYzk3NzYyOTZjYjdlZDJh`
+Snapshot ID: `MCwwZTZiM2M3MDg1M2YzY2RkOWFlYzZjODBjZTgxYzEzY2Q3NzhiMTVh`

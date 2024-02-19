@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,798 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,791 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 63 | [Wine, Beer, Whiskey \- Radio Edit](https://open.spotify.com/track/2q4ooWQ4KvVhN2oX44m2D4) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Wine, Beer, Whiskey \(Radio Edit\)](https://open.spotify.com/album/4Th8fDtKCTD6lrmK43tcqR) | 3:04 |
 | 64 | [Neon Cross](https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 4:24 |
 | 65 | [That Girl](https://open.spotify.com/track/4bw9zVI6u3W7ppL263JuZ5) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl](https://open.spotify.com/album/7wZmpvh4f6WIBftDnAdxCP) | 4:00 |
-| 66 | [Tuesday I’ll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/track/0FsdfpCrfUAqAA2Hctoe88) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Years](https://open.spotify.com/album/4Xpwhz87qGgbKIVdbBRNJP) | 3:44 |
-| 67 | [Hard Time With The Truth](https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Solid Gold Sounds \(Deluxe Edition\)](https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8) | 4:11 |
+| 66 | [Hard Time With The Truth](https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Solid Gold Sounds \(Deluxe Edition\)](https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8) | 4:11 |
+| 67 | [Tuesday I’ll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/track/0FsdfpCrfUAqAA2Hctoe88) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Years](https://open.spotify.com/album/4Xpwhz87qGgbKIVdbBRNJP) | 3:44 |
 | 68 | [Off the Shelf](https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Weight of the World](https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno) | 5:47 |
 | 69 | [Tecumseh Valley](https://open.spotify.com/track/5KJMVvokqnMn9ribqPQja9) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Our Mother the Mountain](https://open.spotify.com/album/7832JbG9mCtN2QBzwXOlPF) | 4:55 |
 | 70 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 79 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 80 | [Lotta Fun](https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 2:57 |
 
-Snapshot ID: `MCwyM2NlNmVhYmM3ZmFjZTliNTU4Y2E2MmUwZWQ3ODE5YjcyOWJjOTM1`
+Snapshot ID: `MCw3ZjBjNWQxNGU4YTRiNjlkNTdlYzBjNmYxNWU2ZWVjMGI5YjVkZmQ1`

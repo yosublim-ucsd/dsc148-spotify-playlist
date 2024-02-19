@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,257 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,273 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 14 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 |
 | 15 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
 | 16 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 |
-| 17 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
-| 18 | [눈,코,입 \(Eyes, Nose, Lips\)](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:49 |
+| 17 | [눈,코,입 \(Eyes, Nose, Lips\)](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:49 |
+| 18 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
 | 19 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
 | 20 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
 | 21 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 99 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 |
 | 100 | [Don't Know You](https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:09 |
 
-Snapshot ID: `MCw5NjFkMWJlZGI3MjVkNzVhZDQ2MWNkMjk0YmNkMjYwMDJhNDhjOTU0`
+Snapshot ID: `MCxiMmI2MzVjYThiZmFjNWNmMjA5NTA4YTFjYjFiNDljZjEwYTZlOWRm`

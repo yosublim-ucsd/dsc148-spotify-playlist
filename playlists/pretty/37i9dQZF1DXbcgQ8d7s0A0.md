@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,459 likes - 65 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,682 likes - 65 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 10 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
 | 11 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 |
 | 12 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 |
-| 13 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 |
-| 14 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
+| 13 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
+| 14 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 |
 | 15 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
 | 16 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 17 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 38 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
 | 39 | [Just the Two of Us](https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [In the Name of Love: The Elektra Recordings 1979\-1984](https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf) | 3:57 |
 | 40 | [Fantasy](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:46 |
-| 41 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Dreamer](https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31) | 3:53 |
-| 42 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
+| 41 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
+| 42 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Dreamer](https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31) | 3:53 |
 | 43 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
 | 44 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
 | 45 | [Nightshift](https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Nightshift](https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP) | 5:06 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 64 | [Let The Music Play \- Single Version](https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 3:30 |
 | 65 | [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 |
 
-Snapshot ID: `MCw2YzMyZDUwNmNmMzY3M2VhZGQwMDA3MTA2OWNiY2JmNTg4NTUwZTZj`
+Snapshot ID: `MCxiMzY1ZTJjN2NjYjRlNWQzOTQ5ZGQ5MWQzMjc1ODkzYjU1MjJhM2Yy`

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 429872,
+  "2024-02-19": 430008,
   "date_first_scraped": "2022-04-20",
   "description": "Uptempo instrumental hip hop beats.",
   "name": "Focus Flow",
@@ -1381,6 +1381,24 @@
       "duration_ms": 134494,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz"
+    },
+    {
+      "album": {
+        "name": "Brief",
+        "url": "https://open.spotify.com/album/6atjEq08QMtLbB8PKqQQKl"
+      },
+      "artists": [
+        {
+          "name": "Tuva Sersh",
+          "url": "https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142986,
+      "name": "Brief",
+      "url": "https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ"
     },
     {
       "album": {
@@ -4845,6 +4863,24 @@
       "duration_ms": 84869,
       "name": "Going Solo",
       "url": "https://open.spotify.com/track/7arhlCNc1gTBWGk0crhOq5"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/7yK2AwASUtViC4CvC3r7qE"
+      },
+      "artists": [
+        {
+          "name": "francesca rose",
+          "url": "https://open.spotify.com/artist/47i0uOrWb8XXMYQIa9R9qA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/04KynVoyrEf4OU48Dw9hgS"
     },
     {
       "album": {
@@ -9731,7 +9767,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 146379,
       "name": "only you",
       "url": "https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl"
@@ -12105,7 +12141,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 144740,
       "name": "Serene",
       "url": "https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz"
@@ -14220,6 +14256,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7n5d3Fu6lIJTHNVtjZj7rX"
+      },
+      "artists": [
+        {
+          "name": "Serena Kayleah",
+          "url": "https://open.spotify.com/artist/1UxgzBXu0TEFYGecOFWKAg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1I5EnQrDoeo6txl9bo8Wea"
+    },
+    {
+      "album": {
         "name": "Heartsick, extras.",
         "url": "https://open.spotify.com/album/1FMRlhclA9XtdN8iPbflJl"
       },
@@ -15689,7 +15743,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 111428,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/5Fsf112EoSCtWLyyJQ6dMz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,170,164 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,170,577 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 99 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 |
 | 100 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 
-Snapshot ID: `MCxkYWZlYWNiMjY2Mzg5ZDE0MTg4YWYzZWI0ODg0OTg1YTM4Njg5ZWU0`
+Snapshot ID: `MCxiYjhlODJjMDYwODdjMWFiZTEzNzk3ODBiNjQxNzBjZWU2NmM4ODcw`

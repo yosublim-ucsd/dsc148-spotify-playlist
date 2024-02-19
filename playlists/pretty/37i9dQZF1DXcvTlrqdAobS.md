@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 
 > The songs that soundtracked Summer 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,792 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,794 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 | 52 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 |
 | 53 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 54 | [3:15 \(Breathe\)](https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(Breathe\)](https://open.spotify.com/album/6QYK9rRB1nJ1ZnhEiOKT1J) | 3:04 |
-| 55 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
-| 56 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
+| 55 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
+| 56 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 57 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
 | 58 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 59 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 | 74 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
 | 75 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
 
-Snapshot ID: `MCwxZjg5MGYxYmYxOGNlZDg3YzcyNjY3Zjc4Y2QyNmEzM2UwOGEzZTAz`
+Snapshot ID: `MCxiM2FmN2JmZGE0NTM5OGFmOTAzZDc3YThlZDUyNjQzNDk2MGY1Y2Uz`

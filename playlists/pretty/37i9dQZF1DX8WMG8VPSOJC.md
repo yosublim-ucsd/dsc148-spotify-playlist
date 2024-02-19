@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,731 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,702,074 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 28 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
 | 29 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/3jfywRZH6cB2iLyKqo4EZd) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 3:03 |
 | 30 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 |
-| 31 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
-| 32 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
+| 31 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
+| 32 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
 | 33 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
 | 34 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
 | 35 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |
 | 36 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 37 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 |
-| 38 | [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 |
-| 39 | [Take My Name](https://open.spotify.com/track/7g0Zfd5J6Hzx9M2fRUMuba) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 2:37 |
+| 38 | [Take My Name](https://open.spotify.com/track/7g0Zfd5J6Hzx9M2fRUMuba) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 2:37 |
+| 39 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
 | 40 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
 | 41 | [Unforgettable](https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 2:37 |
-| 42 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 42 | [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 |
 | 43 | [My Girl](https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 3:17 |
 | 44 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 |
 | 45 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 65 | [Worth the Wait](https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Worth the Wait](https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC) | 3:09 |
 | 66 | [Best Shot](https://open.spotify.com/track/3eDNb3ZG3gKgjAAgJBcOL8) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo) | 3:15 |
 | 67 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
-| 68 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 |
-| 69 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 |
+| 68 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 |
+| 69 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 |
 | 70 | [Wreckage](https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage](https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6) | 3:32 |
 | 71 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
 | 72 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 |
 | 73 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 74 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
 | 75 | [Marry That Girl](https://open.spotify.com/track/26J4fMdhFOh9NcYZCZOyAS) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/3iT8ACbErKCSxNmN19frzy) | 3:10 |
-| 76 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
-| 77 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
+| 76 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
+| 77 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
 | 78 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 |
 | 79 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 |
 | 80 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 84 | [Born to Love You](https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:50 |
 | 85 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
 
-Snapshot ID: `MCxlNzc2N2UxZWJmYjUzNmU2ZWUwMDMwMTg4ZGNlMjA5ZTc4NzUxMjE1`
+Snapshot ID: `MCxhNzNlOWU0ZjI4ODBjYTFjZjAzMjliODU4ZTU0MWNlZDdhZjEwODg0`

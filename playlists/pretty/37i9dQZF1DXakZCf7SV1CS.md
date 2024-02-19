@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,584 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,637 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 7 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
 | 8 | [fuck this town](https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fuck this town](https://open.spotify.com/album/33ES0yrXxXqfnmYkPjBx26) | 1:55 |
 | 9 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
-| 10 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 |
-| 11 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 |
+| 10 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 |
+| 11 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 |
 | 12 | [When I Rule the World](https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [When I Rule the World](https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v) | 3:05 |
 | 13 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 | 14 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
 | 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 
-Snapshot ID: `MCw1ODQ5ODc1ODJjMDk3ZjFhMjUxYzQ3MTEyMGQ3MzE3Y2E1YjQzZjhh`
+Snapshot ID: `MCw2YTczNDMwNWYwNTlhM2Q4MzUxNTM0YzMyOGVmMTgzMjk1NzlkYmYw`

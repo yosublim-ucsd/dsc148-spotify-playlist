@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 132086,
+  "num_followers": 132074,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmM0ODNlZWVlZWJkOWFiYWM5OTVjNGQ3NmZlNWI0NjYxNjdmZjcw",
+  "snapshot_id": "MCw0NmViZDZjNTVkZmFmMjYyY2RmNTNmZGI0YmUxNmZhZmYwZjZlMTVh",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "Santa Claus Is Coming To Town",
         "url": "https://open.spotify.com/album/5O82nLMtVVvv6Es9dhNChD"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
         }
       ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 227887,
-      "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Bing's Gold Records - The Original Decca Recordings",
         "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 183000,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 227887,
+      "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Make It Home",
         "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 179309,
       "name": "Make It Home",
       "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2023-11-28 17:00:03",

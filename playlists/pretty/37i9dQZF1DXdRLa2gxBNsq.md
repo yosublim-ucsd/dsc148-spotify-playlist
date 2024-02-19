@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,026 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,052 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 59 | [Señoras y Señores](https://open.spotify.com/track/0xyhHET6yRf0GQyEH6yexU) | [Sonotones](https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU) | [No Hay Futuro](https://open.spotify.com/album/5Evysq6CtQKeK5fCXtqCjz) | 3:31 |
 | 60 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 |
 | 61 | [Somos Revolución](https://open.spotify.com/track/0B9vyHN45CnhRShpNOx5Bq) | [AlaDeMoska](https://open.spotify.com/artist/1ekttoTgjC4AhaG3r4eaMT) | [Revolución](https://open.spotify.com/album/4puu04REkxY8b9E3OXfNyo) | 4:07 |
-| 62 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 |
-| 63 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
+| 62 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
+| 63 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 |
 | 64 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 65 | [La Bandera de la Libertad](https://open.spotify.com/track/2CIt4yfEZhOdPszvm2DjpW) | [Banda Jachís](https://open.spotify.com/artist/4SmWLsvGKAetIfP8PgKrPc) | [Intereses Creados](https://open.spotify.com/album/3BLJYjL2IK4xCrvdHS1rsY) | 2:22 |
 | 66 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 70 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 |
 | 71 | [Kaña](https://open.spotify.com/track/71fXglmSTgkzXe3h8PHuFK) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx) | 4:36 |
 | 72 | [Y Sigo en Pie](https://open.spotify.com/track/0XozUY7OB1r1bLcZV26iHp) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/0jexOHFXIH5oUghZyrCWBN) | 4:02 |
-| 73 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
-| 74 | [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 |
+| 73 | [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 |
+| 74 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
 | 75 | [Txus](https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8) | [Kojon Prieto y los Huajolotes](https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h) | [Síganle compadres](https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG) | 2:35 |
 | 76 | [Camela or Die 2.0](https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camela or Die 2.0](https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb) | 2:59 |
 | 77 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 90 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
 
-Snapshot ID: `MCxhMzU1N2U5MGUzNzVmZDFiMDBlZGQ0YjM2ZjRkODc4Y2MyMzUwNmU5`
+Snapshot ID: `MCxkYWI0MzNkOTBlMDEyY2JhZmYzMTJkYzhhOWNmZGY1NzFlYzM4NzQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Karol G & Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,307 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,477 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 | 49 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Escápate Conmigo \(Remix\)](https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy) | 2:47 |
 | 50 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 |
 
-Snapshot ID: `MCxmMWRjODIyYjViMmJlNmNjN2I5ZGVjY2Q1ZDIzNWUyMGEyNDYzZTVm`
+Snapshot ID: `MCw5N2FiODIwMTkwNDUyNjQwYmQ2Y2I5OTY3NTljNmI0MWE2NzAyZTI5`

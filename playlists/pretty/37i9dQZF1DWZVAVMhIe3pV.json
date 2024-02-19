@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 352256,
+  "num_followers": 352300,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2JjOTcwYTY2NWNkMWFiYWFjOGY3NTM3MTcxYTRkYzkyMDkzZGNk",
+  "snapshot_id": "MCw2YzcxZjYyMThlZDNmNjc2M2Q2YWEzNTdlNTVmMjY2NDZjZjZhZTM3",
   "tracks": [
     {
       "added_at": "2024-01-23 11:07:19",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-01-23 11:07:19",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2024-01-23 11:07:19",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2024-01-23 11:07:19",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2024-01-23 11:07:19",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-01-23 11:07:19",
       "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": "2024-01-23 11:07:19",
+      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -447,38 +463,6 @@
     {
       "added_at": "2024-01-23 11:07:19",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 374333,
-      "name": "Rooster (2022 Remaster)",
-      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-    },
-    {
-      "added_at": "2024-01-23 11:07:19",
-      "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
-    },
-    {
-      "added_at": "2024-01-23 11:07:19",
-      "album": {
         "name": "Karma and Effect",
         "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 207213,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
+    },
+    {
+      "added_at": "2024-01-23 11:07:19",
+      "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 374333,
+      "name": "Rooster (2022 Remaster)",
+      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
     },
     {
       "added_at": "2024-01-23 11:07:19",

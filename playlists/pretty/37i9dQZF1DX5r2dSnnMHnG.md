@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,093 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,092 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 43 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
 | 44 | [Tell Me](https://open.spotify.com/track/40TJl2hLf6Sr7K1a2SkkVA) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX) | [Tell Me](https://open.spotify.com/album/0tDeLi5d4txzT6vjTiaFU5) | 2:33 |
 | 45 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 |
-| 46 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [Olivia Hye](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 |
-| 47 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
+| 46 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
+| 47 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [Olivia Hye](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 |
 | 48 | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba) | 3:30 |
 | 49 | [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 |
 | 50 | [Loneliness Amplifier](https://open.spotify.com/track/6yDx0EcCpFa4SvFwe0d0Sr) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 1st](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) | 3:03 |
 | 51 | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q) | 3:05 |
 | 52 | [Spring Flowers](https://open.spotify.com/track/0FAI7639ZRr1bJfFgy0Q9O) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/2CMfMvcjtBXHT3XhLCvgyH) | 3:36 |
-| 53 | [Stay](https://open.spotify.com/track/6FsaC7mLYpqmLOEu9nEI1M) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/5J5EecYNgw7EPECkCdTuRQ) | 2:41 |
-| 54 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
+| 53 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
+| 54 | [Stay](https://open.spotify.com/track/6FsaC7mLYpqmLOEu9nEI1M) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/5J5EecYNgw7EPECkCdTuRQ) | 2:41 |
 | 55 | [Spring Attitude](https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:16 |
 | 56 | [Can you tell me \(feat\. kumira\)](https://open.spotify.com/track/5gwBlRCSiyHjYrK58uZ0TM) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK) | [Can you tell me](https://open.spotify.com/album/1Cy5xPw2iNxTetuYsmsYw3) | 3:28 |
 | 57 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 74 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 |
 | 75 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 |
 
-Snapshot ID: `MCxhNDVkYjU0OTJiNWJlY2Y3NTRlOWFiYjQ5OWYyMTE1MDgwZGI0NGY4`
+Snapshot ID: `MCxiZjc5MmUxYzExYjI3YjdjZWU5MjY1Y2Y4MmI4NTRiNDZhZTA2MGRm`

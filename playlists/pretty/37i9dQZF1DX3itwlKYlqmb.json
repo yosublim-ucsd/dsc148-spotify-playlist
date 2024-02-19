@@ -1,12 +1,12 @@
 {
   "description": "La \ud83c\udf53da va pa la albercada \ud83e\udd42\ud83d\ude08",
-  "num_followers": 54991,
+  "num_followers": 55411,
   "original_name": "La Albercada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2UxMWYwZTRlMWQ4YzU4MjM5ZTg5MWMxY2MyMWUwNTE3MmIxMWJi",
+  "snapshot_id": "MCwyYmY1NTgwM2U3OTcxZjU5NzQxY2ZhZjA0MmRhMDA5ZWFlMThiNTAy",
   "tracks": [
     {
       "added_at": "2024-02-07 01:15:07",
@@ -195,18 +195,22 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -235,22 +239,18 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
-        "name": "FIRST LOVE",
-        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
       "artists": [
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 169440,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -427,6 +427,26 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 178567,
+      "name": "Me Porto Bonito",
+      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 178567,
-      "name": "Me Porto Bonito",
-      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 204815,
+      "name": "CRAZYZ",
+      "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
-        "name": "Pa las Baby's Y Belikeada",
-        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 204815,
-      "name": "CRAZYZ",
-      "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
-        "name": "Talento de Vida",
-        "url": "https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 188089,
-      "name": "Mi Kryptonita",
-      "url": "https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
-        "name": "CLASSY 101",
-        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+        "name": "Talento de Vida",
+        "url": "https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
         }
       ],
-      "duration_ms": 195986,
-      "name": "CLASSY 101",
-      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+      "duration_ms": 188089,
+      "name": "Mi Kryptonita",
+      "url": "https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -855,6 +835,26 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
+        "name": "CLASSY 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -963,6 +963,26 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -995,46 +1015,6 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 162649,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
+        "name": "La Suma",
+        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 198976,
+      "name": "La Suma",
+      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
-        "name": "La Suma",
-        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 198976,
-      "name": "La Suma",
-      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 235061,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
         "name": "MARTILLAZO",
         "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 158333,
       "name": "MARTILLAZO",
       "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 168210,
-      "name": "YW&F - Versi\u00f3n Reggaeton",
-      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 190706,
       "name": "Casi Completa",
       "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 168210,
+      "name": "YW&F - Versi\u00f3n Reggaeton",
+      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
         "name": "El Toro Encartado - Spotify Singles",
         "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 167373,
       "name": "De Los Besos Que Te Di",
       "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -1871,6 +1871,22 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
     },
     {
       "added_at": "2024-02-07 01:15:07",
@@ -1943,38 +1959,6 @@
     {
       "added_at": "2024-02-07 01:15:07",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
-      "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
-    },
-    {
-      "added_at": "2024-02-07 01:15:07",
-      "album": {
         "name": "Derecho y Chueco",
         "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 157364,
       "name": "Derecho y Chueco",
       "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
+    },
+    {
+      "added_at": "2024-02-07 01:15:07",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
     },
     {
       "added_at": "2024-02-07 01:15:07",

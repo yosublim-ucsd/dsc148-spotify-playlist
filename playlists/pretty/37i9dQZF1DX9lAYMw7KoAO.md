@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=C9\-23PBuSF2oV6zMlS553A">Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,464 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,720 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 10 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 11 | [Jesus Iye](https://open.spotify.com/track/4jcantRx2m6O7NAVvopqSb) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesus Iye](https://open.spotify.com/album/7KDurcyV9btooGNJegwVtl) | 8:45 |
 | 12 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
-| 13 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 |
+| 13 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 |
 | 14 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
 | 15 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 |
 | 16 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Mo Gbona \(I'm hot\)](https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mo Gbona \(I'm hot\)](https://open.spotify.com/album/4QOsrr8w2oTsebpruGJyP9) | 5:33 |
 | 50 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 |
 
-Snapshot ID: `MCwwNDBmNDViZGUyYmUwODg5OWM0ZGEyMDczODUyYTkxMmNmNDNiNjVj`
+Snapshot ID: `MCwyN2QxMWFiMjE5ZTA3ZWU4OWE2ZGZmODhhNzZmYTllMThhNmYwYzdk`

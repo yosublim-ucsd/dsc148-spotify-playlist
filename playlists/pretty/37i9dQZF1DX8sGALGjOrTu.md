@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: The Used
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,290 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,429 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 21 | [Welcome Home](https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness](https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN) | 6:14 |
 | 22 | [You're So Last Summer \- Remastered](https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:01 |
 | 23 | [Demolition Lovers](https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 6:06 |
-| 24 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
-| 25 | [Such Small Hands](https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:35 |
+| 24 | [Such Small Hands](https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:35 |
+| 25 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
 | 26 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
 | 27 | [Uneasy Hearts Weigh The Most](https://open.spotify.com/track/59RtbarKXlfmbKZjvkwoW7) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Dance Gavin Dance](https://open.spotify.com/album/7FErRFVQYaG2c0UUBapFGT) | 3:38 |
 | 28 | [Give It All](https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:50 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 36 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
 | 37 | [Yeah Boy and Doll Face](https://open.spotify.com/track/51rIDh0FOCNCFkdbtIOyU0) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 4:24 |
 | 38 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
-| 39 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
-| 40 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
+| 39 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
+| 40 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
 | 41 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
 | 42 | [Saying Sorry](https://open.spotify.com/track/3tNF4ktNoFYVbzd5LAgfMY) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:07 |
 | 43 | [Becoming the Bull](https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp) | 3:40 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 67 | [Deadbolt](https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Illusion of Safety](https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc) | 3:00 |
 | 68 | [Ambrosia](https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [On Frail Wings Of Vanity And Wax](https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa) | 3:05 |
 | 69 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
-| 70 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 |
-| 71 | [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 |
+| 70 | [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 |
+| 71 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 |
 | 72 | [A Toast to the future kids!](https://open.spotify.com/track/16avQsEDeyH5poyoJ2hyv3) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Emarosa](https://open.spotify.com/album/0Pe4Z5Sz0d8NJuIFjF7C7R) | 3:48 |
 | 73 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 |
 | 74 | [Smashed Into Pieces](https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [When Broken Is Easily Fixed](https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc) | 3:42 |
 | 75 | [Tree Village](https://open.spotify.com/track/23H0cL1Mnz96wqTwO1e76j) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/3K17PJl4d0yhrys2ylYzgm) | 3:21 |
 
-Snapshot ID: `MCwzZDE3N2MwNzJiMDRjYWJmMDdhYmI2YWI1ZTQxODQ4ZjNjYTkzZmM5`
+Snapshot ID: `MCxmZmVkY2RlZjhkNzU4YmViZDYxMDJjMDFlOTExZmY4MjBiOTQyMmZm`

@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 837931,
+  "num_followers": 837955,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODMzOWEzOGY3ZGEyMWE3YWJlZmU2NmYxNTc4N2E3ZjI4ZDYzY2Jm",
+  "snapshot_id": "MCwzZjZjMTYzMGI0ZWRlMjQ4OWM0Yjg4NTFhZDg4YTc0YWMwYTg0ZWY1",
   "tracks": [
     {
       "added_at": "2024-01-19 05:21:58",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -641,7 +641,7 @@
         },
         {
           "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "url": "https://open.spotify.com/artist/0Kz96xXGxiyZIEJ2pOpUxe"
         }
       ],
       "duration_ms": 182075,
@@ -1603,22 +1603,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "1000CANCIONES",
-        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         },
         {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 246600,
-      "name": "1000CANCIONES",
-      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
+      "duration_ms": 197960,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Te Necesito",
-        "url": "https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx"
+        "name": "1000CANCIONES",
+        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
         }
       ],
-      "duration_ms": 197960,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l"
+      "duration_ms": 246600,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
     },
     {
       "added_at": "2024-01-19 05:21:58",

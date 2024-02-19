@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,632 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,747 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 30 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
 | 31 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 32 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 |
-| 33 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
-| 34 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
+| 33 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
+| 34 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
 | 35 | [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 |
 | 36 | [Build Me Up Buttercup \(Mono\)](https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE) | 3:00 |
 | 37 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 44 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
 | 45 | [Get Busy](https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:31 |
 | 46 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
-| 47 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
-| 48 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
+| 47 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
+| 48 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
 | 49 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
 | 50 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
 | 51 | [More Than A Woman](https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:17 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 53 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 54 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
 | 55 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 |
-| 56 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
-| 57 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
+| 56 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
+| 57 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 58 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
 | 59 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 60 | [Stayin' Alive](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 99 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 100 | [Le Freak \- 2018 Remaster](https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 5:31 |
 
-Snapshot ID: `MCw3NzM2ZDUwOGU4OWZlYjczYjM3YjY1M2VlNmYzMTdiYjJkZWViZWZh`
+Snapshot ID: `MCw4NGEwNTU2MzhkMzJkMmU4NjkzOWQwY2E1YjQ0NjNiODViZmZjYzFm`

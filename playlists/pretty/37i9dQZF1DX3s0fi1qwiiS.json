@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3190,
+  "num_followers": 3212,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDAxNTEzZWM1NmIxMzU4YWU5NmQ2OWU4ZWRhMTYyMDJmNDQwZmEw",
+  "snapshot_id": "MCxmZWM2NGQxZDI3ODAwNmNlMmZhOWE3NTUxZDMzYTFhMzlmMDA3Mzk2",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Afrowave 2",
+        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Drogba (Joanna)",
+      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Afrowave 2",
-        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Drogba (Joanna)",
-      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Oofeets",
         "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 226666,
       "name": "Oofeets",
       "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 212932,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
         "url": "https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 276401,
       "name": "Wiase (Y3d3 Remix)",
       "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 212932,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
     },
     {
       "added_at": "2023-12-08 08:55:17",

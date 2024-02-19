@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: Lou Reed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,848 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,957 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 18 | [I Wanna Be Sedated](https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:29 |
 | 19 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
 | 20 | [Mad World](https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 3:35 |
-| 21 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 |
-| 22 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
+| 21 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
+| 22 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 |
 | 23 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |
 | 24 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 25 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 43 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 44 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
 | 45 | [Mony Mony \- Downtown Mix / Remastered 2001](https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 5:01 |
-| 46 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 |
-| 47 | [Pump It Up \- 2021 Remaster](https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model \(2021 Remaster\)](https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4) | 3:16 |
+| 46 | [Pump It Up \- 2021 Remaster](https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model \(2021 Remaster\)](https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4) | 3:16 |
+| 47 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 |
 | 48 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
 | 49 | [Tainted Love](https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 2:33 |
 | 50 | [Anemone](https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi) | 5:34 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 64 | [Carry the Zero](https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 5:43 |
 | 65 | [She Blinded Me With Science](https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age of Wireless](https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj) | 3:41 |
 | 66 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 |
-| 67 | [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 |
-| 68 | [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 |
+| 67 | [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 |
+| 68 | [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 |
 | 69 | [Love Will Tear Us Apart \- 2010 Remaster](https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 3:24 |
 | 70 | [Heroin](https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 7:13 |
 | 71 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Because the Night](https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 3:22 |
 | 75 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
 
-Snapshot ID: `MCwzNjJlYjUxNjAyMTRhYTg2ZDFlMzNkZTU2NzdlMGU2MWQzYWJkOWFl`
+Snapshot ID: `MCwwNTU2YWM5YTJiYzkxMWYxODMwNWI0MmZjZmIzNDhiNjY3ZDIxZjQ5`

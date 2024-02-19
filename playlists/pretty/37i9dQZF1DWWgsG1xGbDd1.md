@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,058 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,182 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Send Another Moses](https://open.spotify.com/track/4HSC43MCTRxCA6ohDU4MNB) | [The Willows](https://open.spotify.com/artist/2VKTGKX88xeP0pNOSOeXof) | [Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S](https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO) | 6:03 |
 | 60 | [Simmer Down](https://open.spotify.com/track/2qUkkHORN5objY895DYs55) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:52 |
 
-Snapshot ID: `MCw4Y2NhMzJkYjE0YmE1ZDVlYWNjNjA3NTI4MGNhMWNiNDg2MTgwOTRl`
+Snapshot ID: `MCw4NWNmZjlmYWM0ZTc0NDNlZDg3ODY5ZWViOWQzYTcwODcyZWJmOTc0`

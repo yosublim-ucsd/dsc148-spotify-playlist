@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,345 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,513 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 52 | [Mi Caballo Pobre](https://open.spotify.com/track/2CzhEXk8qVDbvzF2Czy5wk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 2:45 |
 | 53 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
 | 54 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
-| 55 | [Carrera a Muerte](https://open.spotify.com/track/77qBRFDkmrwsaTKiCxqocK) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 3:31 |
+| 55 | [El Caballo Bayo](https://open.spotify.com/track/1xBZmAlcb1jgkWOCWgGPmD) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 4:13 |
 | 56 | [El Dorado](https://open.spotify.com/track/5RhDoarqLwMX9ftRP3oz09) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB) | [Con el Poder del Corrido](https://open.spotify.com/album/1D2hxYcke3d29b1vOkf9Wr) | 3:49 |
 | 57 | [La Feria de San Marcos](https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 2:46 |
 | 58 | [El Caballo de Mi Padre](https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Caballo de Mi Padre](https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI) | 3:21 |
 | 59 | [El Rey De Los Coleaderos](https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [El Rey De Los Coleaderos](https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv) | 3:05 |
 | 60 | [El Moro De Cumpas](https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 4:06 |
-| 61 | [El Caballo Bayo](https://open.spotify.com/track/1xBZmAlcb1jgkWOCWgGPmD) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 4:13 |
+| 61 | [Carrera a Muerte](https://open.spotify.com/track/77qBRFDkmrwsaTKiCxqocK) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 3:31 |
 | 62 | [El Herradero \- En Vivo Desde El Rancho](https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:56 |
 | 63 | [El Golden Boy](https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS) | 2:40 |
 | 64 | [El Profeta](https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 4:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 69 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 |
 | 70 | [Mi Potrillo](https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw) | [Banda Alta Potencia](https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2) | [Mi Potrillo](https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT) | 3:30 |
 
-Snapshot ID: `MCxhOGRlNWRjNDA1MzZiMmI5NjcwNWJhNjQzNjg5ZTdjMzc3M2JhNDE1`
+Snapshot ID: `MCxmY2MyNjUyZWMxZTUxNjMzMzBkZmMxY2RiMTExMDBhYzczNzM3NWQ4`

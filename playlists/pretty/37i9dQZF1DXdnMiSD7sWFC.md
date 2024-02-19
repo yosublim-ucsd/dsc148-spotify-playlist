@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 
 > your guide for a peaceful night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,626 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,644 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 31 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 |
 | 32 | [Tin Lover](https://open.spotify.com/track/0oODAuxcJ94qCEYMgsCti4) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [States](https://open.spotify.com/album/42XyArGvt0q2jMEVqas2pE) | 3:19 |
 | 33 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 |
-| 34 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 |
-| 35 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 |
+| 34 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 |
+| 35 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 |
 | 36 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 | 37 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
 | 38 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 47 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 |
 | 48 | [Green Arrow](https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:43 |
 | 49 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
-| 50 | [All I've Ever Known](https://open.spotify.com/track/7I8ftQPSknxqIH8jiuh6iv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 6:15 |
-| 51 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 |
-| 52 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
+| 50 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
+| 51 | [All I've Ever Known](https://open.spotify.com/track/7I8ftQPSknxqIH8jiuh6iv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 6:15 |
+| 52 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 |
 | 53 | [Without A Word](https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Young In All The Wrong Ways](https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR) | 3:58 |
 | 54 | [For You](https://open.spotify.com/track/4439aAX3jNkNKx1ygUr9WC) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:57 |
 | 55 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 61 | [What Am I Here For](https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 4:43 |
 | 62 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
 | 63 | [Lisbon, OH](https://open.spotify.com/track/4mm2qeRlk8Y6IuiXPEPrkK) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 1:33 |
-| 64 | [Goodnight Baby](https://open.spotify.com/track/2GpkbuIeodm9vDMmXVd9bY) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Goodnight Baby](https://open.spotify.com/album/6noOJInGYBqPQ93RYdu0q9) | 2:31 |
-| 65 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
+| 64 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
+| 65 | [Goodnight Baby](https://open.spotify.com/track/2GpkbuIeodm9vDMmXVd9bY) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Goodnight Baby](https://open.spotify.com/album/6noOJInGYBqPQ93RYdu0q9) | 2:31 |
 | 66 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 |
-| 67 | [Lose This Number](https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:56 |
-| 68 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
+| 67 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
+| 68 | [Lose This Number](https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:56 |
 | 69 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |
 | 70 | [Multiple Endings](https://open.spotify.com/track/2aULK5mtJaeb4KF0xnAuyU) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:16 |
 | 71 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 79 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
 | 80 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 |
 
-Snapshot ID: `MCw5YjBjOWM3MDRjYTgxNzE5MzI5NjVjZmM4OTliMzUzNzFiYmY5NDQw`
+Snapshot ID: `MCwzNzBkYWYxZjEyYzg0NWYyNmFmNzYyOWE5MzQ4YjZkMzNhNTIzNGE1`

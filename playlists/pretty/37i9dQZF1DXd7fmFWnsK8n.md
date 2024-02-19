@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,923 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,931 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 65 | [SUISAI](https://open.spotify.com/track/7n8DHAHozfOs0BVTuLz6yf) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SUISAI](https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol) | 4:59 |
 | 66 | [WiSH VOYAGE](https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:07 |
 | 67 | [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 |
-| 68 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
-| 69 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
+| 68 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
+| 69 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
 | 70 | [TOMORROW EViDENCE](https://open.spotify.com/track/2UUiJkVl23mpjXMX3GMGFL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:26 |
 
-Snapshot ID: `MCxlOTMxNzkyMWU1OWVkZmY4YWQxYzU3ZDJlMDAyYjkzNzZkYWJmZmY3`
+Snapshot ID: `MCxkZmZhZTliZjRkMDYxZjM1MDU5NzU5NmY4NmEyYTJlZmFhNTZiNzhi`

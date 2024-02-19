@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 
 > my intrusive thoughts 🤝 this playlist\. para esas horas nostálgicas & melancólicas de la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,217 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,241 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 59 | [tuviste](https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:50 |
 | 60 | [Discreción](https://open.spotify.com/track/18nowS51G3slipQrcRH4bt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 4:59 |
 
-Snapshot ID: `MCxiOGU2YmY2YjkyYzMwM2IwNjgzZDBiMTkxNzFmNjFiYWZkNzRlYmQ3`
+Snapshot ID: `MCw3OTJjYzdiYzc3MGIyZjU2OWU2NzhjYzIxMTc1YWUyZjg5ODlkNTkz`

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 138500,
+  "2024-02-19": 138558,
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 \u00a1Busca m\u00e1s playlists en nuestro perfil y en la <a href=\"http://onelink.to/los40app\">app LOS40</a>!",
   "name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",
@@ -2426,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -3609,7 +3627,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"

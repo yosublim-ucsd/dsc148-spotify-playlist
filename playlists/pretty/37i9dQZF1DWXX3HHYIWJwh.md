@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,355 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,369 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/50yNTF0Od55qnHLxYsA5Pw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:39 |
+| 1 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 2 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 |
 | 3 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
 | 4 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 5 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 |
-| 6 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
+| 6 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 7 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 8 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 9 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 10 | [LEGIT](https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LEGIT](https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh) | 3:34 |
 | 11 | [Moshi Moshi](https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Moshi Moshi](https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf) | 2:56 |
 | 12 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
-| 13 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
+| 13 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 14 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
 | 15 | [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 |
 | 16 | [Discord\-disco](https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Discord\-disco](https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk) | 3:17 |
 | 17 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 |
 | 18 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
 | 19 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 |
-| 20 | [사랑스러워](https://open.spotify.com/track/6XVp0q2S9ORgOeHBeaXlke) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 4:29 |
+| 20 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
 | 21 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
 | 22 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 |
 | 23 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 27 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 |
 | 28 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 |
 | 29 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
-| 30 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
+| 30 | [사랑스러워](https://open.spotify.com/track/6XVp0q2S9ORgOeHBeaXlke) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 4:29 |
 | 31 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 |
 | 32 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 |
 | 33 | [おともだち](https://open.spotify.com/track/0h8lQsN8g5G1kHSFpXnDVq) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [満身創意](https://open.spotify.com/album/1EJZyEyOQ9Ad6Rkro66ieM) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 49 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 |
 | 50 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 
-Snapshot ID: `MCxiYjBkYTE4MGU0YzlkMzg4OTdiYjFiZjc1MDQ2Zjk0MWMxYzEzYzQ2`
+Snapshot ID: `MCw3ZDZmMDk4MWE2NGVlMjVkYzczMjM4ZDcxMTYyMzY4M2Y3Mzc4YTQz`

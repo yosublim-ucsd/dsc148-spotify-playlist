@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar ",
-  "num_followers": 72344,
+  "num_followers": 72355,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTU0ODIzNDkxNGE3NDg3OGQ3NThhYTViNTg4YzUyODAxOWIwNjkx",
+  "snapshot_id": "MCxjNTQ4YTM3MjYzNjc3ZmZmZWQ0MTk3ZjBiM2JmM2Q5YzhiYWFmODgy",
   "tracks": [
     {
       "added_at": "2024-02-16 16:52:21",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 213863,
-      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
-      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 186413,
       "name": "Dis\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 213863,
+      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
+      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+      "duration_ms": 176431,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         }
       ],
-      "duration_ms": 176431,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -627,22 +627,18 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 209673,
-      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
-      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+      "duration_ms": 190840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -663,6 +659,26 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 209673,
+      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
+      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 185460,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Todo Me Recuerda A Ti",
-        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
+        "name": "Me Vale Madre",
+        "url": "https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92"
       },
       "artists": [
         {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Todo Me Recuerda A Ti",
-      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
+      "duration_ms": 140160,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -1471,18 +1467,22 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Me Vale Madre",
-        "url": "https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92"
+        "name": "Todo Me Recuerda A Ti",
+        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Me Vale Madre",
-      "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
+      "duration_ms": 208106,
+      "name": "Todo Me Recuerda A Ti",
+      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
     },
     {
       "added_at": "2024-02-16 16:52:21",

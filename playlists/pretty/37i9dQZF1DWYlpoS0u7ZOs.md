@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Sick Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,537 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,534 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 54 | [HMPB](https://open.spotify.com/track/1IYznxYT32bMWMMM2ehliT) | [The Amniotics](https://open.spotify.com/artist/3ciQDvjdla7QzI1N2dhD2C) | [HMPB](https://open.spotify.com/album/3ce7X8NKiBXO8Ci9yQg4D5) | 3:42 |
 | 55 | [Animo](https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Animo](https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd) | 3:15 |
 
-Snapshot ID: `MCxhMDU5NjU4NmVkOWRiOTFjYTAzMWI1ZDMzMWY1YjQ5ZWVlYjFhZGI2`
+Snapshot ID: `MCxkODk3ZTA3OWFkMWRkNzg0MDBkMzhhOWU1NGI2NGE2OWEzN2U3ZjNk`

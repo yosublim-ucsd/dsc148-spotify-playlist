@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 116121,
+  "2024-02-19": 116184,
   "date_first_scraped": "2023-03-20",
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
   "name": "This Is Greeicy",
@@ -1223,6 +1223,24 @@
       "duration_ms": 179146,
       "name": "S\u00f3lo M\u00eda",
       "url": "https://open.spotify.com/track/3eXD7hq9tUrQ5gmdKNaSKQ"
+    },
+    {
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "album": {

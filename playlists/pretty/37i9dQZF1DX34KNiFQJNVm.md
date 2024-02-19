@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela com Hungria e Alok, Dua Lipa, Atitude 67  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,911,144 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,911,617 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 |
 | 50 | [A Tu Manera](https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [A Tu Manera](https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl) | 4:21 |
 
-Snapshot ID: `MCwxOWM3YzJlNDE4YzM1OTQ0ODg0MzJlOTVjNDFiOWY4OTJhOTFkNTA2`
+Snapshot ID: `MCw1ZTczN2MxMDIwZDJhOWIxMjZhMTY2ZjEzZTkxODkzNjI4Yjc5MTJk`

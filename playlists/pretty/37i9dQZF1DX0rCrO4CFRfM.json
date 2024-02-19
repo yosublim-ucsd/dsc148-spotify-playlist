@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 968505,
+  "num_followers": 968648,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzAyNzJjNzFiMmE4ZTg3Mzc5ZDI0YWM2YWNmMjhkYWFjMDgxMWU0",
+  "snapshot_id": "MCwxNTU2NTUyZDE4OGRkNGFjNTI3NGY2MWNhZmZjNDUyOGIwYmM3YWVi",
   "tracks": [
     {
       "added_at": "2024-01-12 17:59:36",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Legendary (Acoustic)",
-        "url": "https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x"
+        "name": "When Incubus Attacks, Vol. 1",
+        "url": "https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw"
       },
       "artists": [
         {
-          "name": "Welshly Arms",
-          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 216940,
-      "name": "Legendary - Acoustic",
-      "url": "https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9"
+      "duration_ms": 227226,
+      "name": "Pardon Me - Acoustic",
+      "url": "https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6"
     }
   ],
   "unique_name": "Acoustic Rock",

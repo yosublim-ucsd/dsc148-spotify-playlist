@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,243 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,264 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCxhMzJiODQwNGUwZDE2OTZiZDVjMmYzNjc1Mjc5YWQ4MmNhZjYzYmUz`
+Snapshot ID: `MCwyOGU2ODA3MjY4N2QyNDA1ZjBiZGI4MjJmNzAwYTY2MTI4MGRkMDY0`

@@ -4,7 +4,7 @@
 
 > wo hen lei \(i'm very tired\)
 
-364 songs - 19 hr 54 min
+365 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-07-10 | 2022-07-18 |
 | [Give Me Your Forever \(ft\. Billkin\)](https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Give Me Your Forever](https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv) | 4:04 | 2022-05-27 |  |
 | [Glory](https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Glory](https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr) | 2:45 | 2023-09-06 | 2024-01-03 |
-| [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-07-10 |  |
+| [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-07-10 | 2024-02-19 |
 | [GO SLOW \- A COLORS SHOW](https://open.spotify.com/track/5VnZTry3HpruQpTKhhuvvI) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [GO SLOW \- A COLORS SHOW](https://open.spotify.com/album/71hE7PNuaYZ8iue9QdYXh8) | 2:16 | 2023-02-21 | 2023-04-11 |
 | [gone too long](https://open.spotify.com/track/2EXvZ3ZSOEVGnFZXVVyzTf) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [gone too long](https://open.spotify.com/album/4ONi7DThlpcPq7O3Dhf7Na) | 2:27 | 2022-05-27 | 2022-07-29 |
 | [Good Behaviour](https://open.spotify.com/track/3nnvLEArRQf6HgpC8VNqgK) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Good Behaviour](https://open.spotify.com/album/4bAfpIai1dvdqA0UgA5r7c) | 4:03 | 2022-05-27 | 2022-07-22 |
@@ -148,6 +148,7 @@
 | [i don’t mind \- RED](https://open.spotify.com/track/2Tr70FkraG5kJEsEehyRjC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [i don't mind: RED+BLUE](https://open.spotify.com/album/57042oQZ05m9w5IAbAYN6X) | 2:41 | 2022-06-10 | 2022-06-17 |
 | [I Hate My Room](https://open.spotify.com/track/4uUwTmLZoTkrM1OquIFFEz) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [I Hate My Room](https://open.spotify.com/album/4VtoYJ6gNvee1DqQ3X4oHN) | 2:28 | 2022-06-25 | 2022-08-19 |
 | [i like u](https://open.spotify.com/track/5UHPob6XgbZw5CXOyHtMhD) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [i like u](https://open.spotify.com/album/0il3XZ7i2T01i0M4Ij9SVZ) | 2:27 | 2022-05-27 | 2022-06-04 |
+| [i met you](https://open.spotify.com/track/3q5gZai0nhaKr945z4ue9u) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [i met you](https://open.spotify.com/album/0RIR3aUzIxdGtiroIUOu3G) | 1:37 | 2023-12-27 |  |
 | [I Think I'm Falling in Love](https://open.spotify.com/track/0mStyWUEXA1zkM9N9JfuWg) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [SHN](https://open.spotify.com/album/5zQJtN1tR2e8XTH9ZZkLz4) | 4:37 | 2022-06-10 | 2022-07-02 |
 | [I Wanna Be A Kid Again](https://open.spotify.com/track/6KkECwNpkBTq5zSSeSmMyt) | [2OFU](https://open.spotify.com/artist/3nk2jAog2zO4LNboEhMXaa), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [2OFU](https://open.spotify.com/album/1EsJLEg0hPZiSE9BTtFw9L) | 3:03 | 2023-01-04 | 2023-02-03 |
 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 | 2022-05-27 |  |

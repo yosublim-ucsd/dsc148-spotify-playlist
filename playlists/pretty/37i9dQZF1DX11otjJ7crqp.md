@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,741 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,771 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 30 | [Head Head Honcho](https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 3:01 |
 | 31 | [The Saddest Part](https://open.spotify.com/track/6sifTEd6ZW5DEJthyxxEmy) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [Mouthful](https://open.spotify.com/album/5oepNxJyODntqzZF365JTi) | 2:46 |
 | 32 | [Lucky](https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Lucky](https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL) | 5:38 |
-| 33 | [S.A.D](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
+| 33 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
 | 34 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 35 | [Parking Lot](https://open.spotify.com/track/525wrNQ7CY1KmtAFz2wVo6) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Parking Lot](https://open.spotify.com/album/4HsSjx4IFp6iYWymdauN3E) | 2:04 |
 | 36 | [Do U Love Me?](https://open.spotify.com/track/0rmdt3FHIUkkcbn10xgFHt) | [Aimee Vant](https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Do U Love Me?](https://open.spotify.com/album/0K5NsFhvnFmiG5ySWUAabh) | 1:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 |
 | 100 | [BAD KARMA](https://open.spotify.com/track/3NONd2k32jYHxuSPGENaJU) | [My Name Is Alex](https://open.spotify.com/artist/1MaDqHjCtpHgPJHQz5bV2C) | [BAD KARMA](https://open.spotify.com/album/1s7LXlHTRTF4UVLh02haTn) | 2:49 |
 
-Snapshot ID: `MCw4Yjg0NDNjMzJkNDM1Mzg5NDI2MGQ5NGVkZmY3MTZlZGI4YTYxMTg0`
+Snapshot ID: `MCw3Njg0ODU5ZDdmOTVjNzg3MjRmMTk2YWRjNTYyODRmZjRlODc4ZDMw`

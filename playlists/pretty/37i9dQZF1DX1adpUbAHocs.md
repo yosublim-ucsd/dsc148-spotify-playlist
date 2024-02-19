@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,225 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,227 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 43 | [Pain](https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:30 |
 | 44 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 |
 | 45 | [to Perth, before the border closes](https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS) | 2:56 |
-| 46 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 46 | [Find Your People](https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 3:14 |
 | 47 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
-| 48 | [Find Your People](https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 3:14 |
+| 48 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 49 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
 | 50 | [Witness](https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:54 |
 | 51 | [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 |
@@ -78,23 +78,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 68 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 |
 | 69 | [Stolen Love](https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS) | 3:43 |
 | 70 | [Manifest](https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 5:17 |
-| 71 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 |
-| 72 | [Find Yourself](https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Lukas Nelson & Promise Of The Real](https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH) | 6:16 |
-| 73 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 |
-| 74 | [You Were](https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg) | 3:13 |
+| 71 | [Find Yourself](https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Lukas Nelson & Promise Of The Real](https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH) | 6:16 |
+| 72 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 |
+| 73 | [You Were](https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg) | 3:13 |
+| 74 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 |
 | 75 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 |
 | 76 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 |
-| 77 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
+| 77 | [Away From The Mire](https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Home](https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx) | 7:43 |
 | 78 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
-| 79 | [Away From The Mire](https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Home](https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx) | 7:43 |
+| 79 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 80 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 81 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
 | 82 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 83 | [B61](https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:41 |
 | 84 | [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 |
 | 85 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
-| 86 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 |
-| 87 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
+| 86 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
+| 87 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 |
 | 88 | [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 |
 | 89 | [Rolling](https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 2:51 |
 | 90 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 99 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 |
 | 100 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 |
 
-Snapshot ID: `MCw0ZDM0NDNhMGYxMDc4NzhhNTI5MDNlYTY5MzczYjA1OTg0M2ZjM2Jk`
+Snapshot ID: `MCwwMmE0MjQ2Mzg0ZTk5NjExNGJhYjZlNmRhOTk5NDU5YmI1MDI2YmY0`

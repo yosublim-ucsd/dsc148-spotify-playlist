@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,663 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,661 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 68 | [Around The World](https://open.spotify.com/track/06ClI3XK2FPR5uP8tPcFS1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:34 |
 | 69 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
 | 70 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
-| 71 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
-| 72 | [Lift Me Up](https://open.spotify.com/track/3UwL3cYpdTYNpYK512LkFj) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Super Moon](https://open.spotify.com/album/1a8kasT2fbeOcjvFsuGnch) | 2:33 |
+| 71 | [Lift Me Up](https://open.spotify.com/track/3UwL3cYpdTYNpYK512LkFj) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Super Moon](https://open.spotify.com/album/1a8kasT2fbeOcjvFsuGnch) | 2:33 |
+| 72 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
 | 73 | [Little Green Bag](https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [The Tarantino Connection](https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q) | 3:15 |
 | 74 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 | 75 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 |
 
-Snapshot ID: `MCxmOWEwNWI4ODIwNjlhNzM5YzUxNzg0ODE3ZWYwZjUzYjljODk3MmNk`
+Snapshot ID: `MCxiMDZhNGVkNjYxZjgzMGQ1M2E1ZDQ2MzVhMjdmMWM1YzBhMjcxYWQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,845 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,132 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 47 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 |
 | 48 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
 | 49 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
-| 50 | [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 |
+| 50 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
 | 51 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
 | 52 | [Only for the Weak](https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Clayman](https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd) | 4:54 |
 | 53 | [Feuer frei!](https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 3:08 |
 | 54 | [The Trooper \(2015 Remaster\)](https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66) | 4:12 |
 | 55 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
-| 56 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
+| 56 | [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 |
 | 57 | [The Void](https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu) | 3:40 |
 | 58 | [Through the Fire and Flames](https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Inhuman Rampage](https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5) | 7:21 |
 | 59 | [Blinded](https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:22 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 82 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 83 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 |
 | 84 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
-| 85 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
-| 86 | [Drink](https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Sunset on the Golden Age](https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7) | 3:22 |
+| 85 | [Drink](https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Sunset on the Golden Age](https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7) | 3:22 |
+| 86 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 87 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 |
 | 88 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
 | 89 | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Daniel Laskiewicz](https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ) | [Rumble of Thunder \(Deluxe\)](https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp) | 4:28 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 94 | [Inhumane](https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 3:59 |
 | 95 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 |
 | 96 | [A Man with a Plan](https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [A Man with a Plan](https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP) | 2:59 |
-| 97 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
-| 98 | [Becoming](https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:13 |
-| 99 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
-| 100 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 |
+| 97 | [Becoming](https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:13 |
+| 98 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
+| 99 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 |
+| 100 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
 
-Snapshot ID: `MCxjMzc4NjdkOGNjNjViMDJkM2JjYTAyNjhmMmRhMGVjMmRkN2JlYjQ3`
+Snapshot ID: `MCxkNTYwZDRmNDdhNDEzNTMxZWM0ZTBiYmI2MzM2NWQzYjUxOTg3Mjc3`

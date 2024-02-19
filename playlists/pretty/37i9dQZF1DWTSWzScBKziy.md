@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,610 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,669 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 44 | [Jesus at a Distance](https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:49 |
 | 45 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 |
 | 46 | [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 |
-| 47 | [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 |
-| 48 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
+| 47 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
+| 48 | [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 |
 | 49 | [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 |
 | 50 | [Lost Without You](https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:59 |
 | 51 | [No Matter What](https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:08 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 63 | [Burial](https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Burial](https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G) | 4:38 |
 | 64 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
 | 65 | [In You](https://open.spotify.com/track/3fHEMFGvaSfNzXFLboZQE2) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/6SnaZ0g8ysg1CgpNDKOgcf) | 3:25 |
-| 66 | [Eye to Eye](https://open.spotify.com/track/4reyRIw1xIeMAa5lylm6ow) | [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [Still](https://open.spotify.com/album/5dRUYUFyuup2nG0cbzzmaf) | 4:41 |
-| 67 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
-| 68 | [Show Up Choose Love \(feat\. Jon Reddick\)](https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Show Up Choose Love](https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC) | 3:32 |
-| 69 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
+| 66 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
+| 67 | [Eye to Eye](https://open.spotify.com/track/4reyRIw1xIeMAa5lylm6ow) | [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [Still](https://open.spotify.com/album/5dRUYUFyuup2nG0cbzzmaf) | 4:41 |
+| 68 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
+| 69 | [Show Up Choose Love \(feat\. Jon Reddick\)](https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Show Up Choose Love](https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC) | 3:32 |
 | 70 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 |
 | 71 | [Long Way Home \- From The Motion Picture “Father Stu”](https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Long Way Home \(From The Motion Picture “Father Stu”\)](https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi) | 3:26 |
 | 72 | [Stained Glass](https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It \(Deluxe Edition\)](https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz) | 3:16 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 78 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 |
 | 79 | [What He Didn't Do](https://open.spotify.com/track/6gBhJLa1VAhQCxIflUZH8R) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:56 |
 | 80 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 |
-| 81 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 |
-| 82 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 |
+| 81 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 |
+| 82 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 |
 | 83 | [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 |
 | 84 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
 | 85 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 |
 | 100 | [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 |
 
-Snapshot ID: `MCxkOGRiZDc1NjM1ZTIwZmZhMzMxNjVmYmUwMDJjMDJkMzNiMWMxZTQx`
+Snapshot ID: `MCw3ZjRjZGEwZDAyOTgwZGJjZTg5OTdlZmJkYTc2NjYzNWM3YzU5NzUy`

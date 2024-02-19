@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,868 likes - 79 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,874 likes - 79 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 7 | [MALI MALI](https://open.spotify.com/track/6R1eHGeM4rDkaDaLrRjTTs) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R) | [MALI MALI](https://open.spotify.com/album/2cVj9A1N7OWC4SZxEuJiWN) | 5:49 |
 | 8 | [Stratus](https://open.spotify.com/track/6Z0T5d90QWQdUUE0p1XMci) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [In Transit](https://open.spotify.com/album/4FE29FlcDG9ApOsP7ABh5u) | 3:32 |
 | 9 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
-| 10 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
+| 10 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
 | 11 | [P.L.L](https://open.spotify.com/track/3FOUf5xncQWgylXKj7Zwiz) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [RED EP](https://open.spotify.com/album/4Bp0q40RSxvjTfg8rkxl8J) | 2:19 |
 | 12 | [Forward Forever](https://open.spotify.com/track/6nP3iynkH0n2eyrQsLDKym) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Forward Forever](https://open.spotify.com/album/4W0lEnaWhcHu5jOIc3sMCY) | 3:08 |
 | 13 | [Wow](https://open.spotify.com/track/0SEmzHfBCpkVvxLogm8NJU) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [CHA$EY JON£S](https://open.spotify.com/artist/2cW0FSwOLEKSDCllbCC6db) | [Wow](https://open.spotify.com/album/2OrXnSIQ5SI8NliURLIFKz) | 3:36 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 78 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 |
 | 79 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 
-Snapshot ID: `MCxjMGYxZmM3ODU4M2VhODMzNzY4NDRmNzdmZDk1NmYwYWU2N2FmYzc3`
+Snapshot ID: `MCwxZmZlNzk1OGUwM2RjNzk1MjA0ZWFmNGJmZTdjMWI4ZmE3ZDIxMTM3`

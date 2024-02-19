@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: $hyli
 
-210 songs - 10 hr 50 min
+211 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Entebbe](https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Road to Kirya](https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD) | 3:52 | 2022-05-12 | 2022-12-31 |
 | [Extra Mile](https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:55 | 2022-11-10 | 2023-01-18 |
 | [Fancy \(Certified\)](https://open.spotify.com/track/3xprrkNbBQCFEiTkyb8HSE) | [Myko Truth](https://open.spotify.com/artist/5laGyrSWJnEz06EFsz6AqC) | [Fancy \(Certified\)](https://open.spotify.com/album/1tO3MYFUu0srbXZisGj3Y5) | 2:47 | 2022-07-29 | 2022-08-20 |
-| [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 | 2023-04-14 |  |
+| [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 | 2023-04-14 | 2024-02-19 |
 | [FAYA](https://open.spotify.com/track/2XfbFeYxN961nxtxUoepoM) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [FAYA](https://open.spotify.com/album/1gTXLyRPmEysl9i5CwQt0u) | 3:02 | 2024-02-02 |  |
 | [Feel Like](https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ) | [Fm Kid](https://open.spotify.com/artist/3lQP8Rliiz1HAHNyZCdMM6) | [Feel Like](https://open.spotify.com/album/2bUvNyLhtfvFmAeaSuJAOb) | 3:06 | 2022-09-30 | 2022-10-07 |
 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 | 2023-06-30 |  |
@@ -139,6 +139,7 @@
 | [Nkuwe](https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Kin Bella](https://open.spotify.com/artist/3rvpqqkLp2C6LE5Lo02hy2) | [Nkuwe](https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C) | 3:41 | 2023-03-24 | 2023-06-07 |
 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 | 2022-05-12 | 2024-02-03 |
 | [No Lie](https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [No Lie](https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI) | 3:16 | 2023-11-30 |  |
+| [Not Safe in the West](https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [Not Safe in the West](https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic) | 2:58 | 2024-02-16 |  |
 | [Nothing \- Remix](https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Wonder Jr](https://open.spotify.com/artist/4ZVv4tXo58qTVMrmHlvXBs), [TimothyCODE](https://open.spotify.com/artist/60JDOqQkDDSJsJvj5YSGCA), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Nothing \(Remix\)](https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl) | 4:50 | 2023-06-02 | 2023-08-14 |
 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 | 2022-10-06 | 2022-11-26 |
 | [Nteredde](https://open.spotify.com/track/7obRw7Iy6DbqvyuPyiqzUj) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Nteredde](https://open.spotify.com/album/6JcRkrtxzHACyHQytZ37z1) | 3:14 | 2022-07-08 | 2022-11-18 |

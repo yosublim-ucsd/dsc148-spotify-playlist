@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,131 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,216 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 5 | [DOM1NGO](https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:08 |
 | 6 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 7 | [Linda](https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Linda](https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx) | 2:21 |
-| 8 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
+| 8 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
 | 9 | [SANTOBELLAKO](https://open.spotify.com/track/1CbyWChnprjBBbPFAQXllE) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [SANTOBELLAKO](https://open.spotify.com/album/41HE8taCCJIQEysYp0nEzd) | 2:36 |
-| 10 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
+| 10 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
 | 11 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 |
 | 12 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
 | 13 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 85 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 |
 | 86 | [Ponte Pa' Mi](https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Ponte Pa' Mi](https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1) | 3:22 |
 | 87 | [@](https://open.spotify.com/track/3iIrUWBCmUXGAyk7ITVhr5) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:52 |
-| 88 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
-| 89 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 |
-| 90 | [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 |
+| 88 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 |
+| 89 | [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 |
+| 90 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
 | 91 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
 | 92 | [Enchule](https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Enchule](https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY) | 3:05 |
 | 93 | [Dem Time Deh](https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dem Time Deh](https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
 | 100 | [Pa Casa](https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Pa Casa](https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4) | 3:28 |
 
-Snapshot ID: `MCw2MDQ1YTE1M2Y3YmUyYmY3YjI4ODYxMWQyZjA1OWI1OGNlNTZhMDIz`
+Snapshot ID: `MCwyMjk4MDBmZjU3ZGIyMzYwMzg5NmNhYmVhNzMzMGFjZjczMjgwZGZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,589,047 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,589,427 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 13 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 14 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 |
 | 15 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
-| 16 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
-| 17 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
+| 16 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
+| 17 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 18 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 19 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
 | 20 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 21 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 22 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
-| 23 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
+| 22 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
+| 23 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 24 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 |
 | 25 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
 | 26 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 71 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
 | 72 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
 | 73 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 |
-| 74 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 |
-| 75 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
+| 74 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
+| 75 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 |
 | 76 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 77 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 78 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 85 | [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 |
 | 86 | [dna](https://open.spotify.com/track/2McTSCNNzxgDtAqiuibhPI) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx](https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk) | 2:57 |
 | 87 | [everything everywhere always](https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [everything everywhere always](https://open.spotify.com/album/73HKMtn4WRIvvm1m2QEAdf) | 2:27 |
-| 88 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 |
-| 89 | [Like My Father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Like My Father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 |
-| 90 | [Marry Me](https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:25 |
-| 91 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
-| 92 | [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 |
+| 88 | [Like My Father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Like My Father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 |
+| 89 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 |
+| 90 | [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 |
+| 91 | [Marry Me](https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:25 |
+| 92 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
 | 93 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
-| 94 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 |
-| 95 | [La Vie En Rose](https://open.spotify.com/track/3PV8uIQnxD4Qiimn3x6PVr) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/3J0bVl3H4NtLL64ghrER4r) | 2:37 |
+| 94 | [La Vie En Rose](https://open.spotify.com/track/3PV8uIQnxD4Qiimn3x6PVr) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/3J0bVl3H4NtLL64ghrER4r) | 2:37 |
+| 95 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 |
 | 96 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
 | 97 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
 | 98 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 99 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
 | 100 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
 
-Snapshot ID: `MCwzYjNjNDQ4ZWIyMzQwMGRlOGU2ZjY4ZjQyYWVmNmVlZGJkMjUyMjVk`
+Snapshot ID: `MCw4Y2FjMWNmZmExNDgwOTc1OWE5ODIzYzAwOTA4MzVlODg3YWQ2NzZi`

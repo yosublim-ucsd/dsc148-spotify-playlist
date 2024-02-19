@@ -1,12 +1,12 @@
 {
   "description": "That summer sound.",
-  "num_followers": 1705956,
+  "num_followers": 1706015,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTVlZmZhYjRkYThlYTU3YThiZDJjMzZiOTc2Y2Y3NGI0NmRiZTBm",
+  "snapshot_id": "MCwyOWMxMThhYWM3MzhkZjAxZmU1NmRlZDM3ZTFjNTU4MzNiOGU1ODk5",
   "tracks": [
     {
       "added_at": "2023-09-05 15:46:11",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
         "name": "DNCE",
         "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -631,18 +647,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "At Night, Alone.",
+        "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
         }
       ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+      "duration_ms": 197933,
+      "name": "I Took A Pill In Ibiza - Seeb Remix",
+      "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -667,26 +687,6 @@
       "duration_ms": 284906,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "At Night, Alone.",
-        "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "I Took A Pill In Ibiza - Seeb Remix",
-      "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -803,30 +803,6 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        }
-      ],
-      "duration_ms": 184732,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        }
+      ],
+      "duration_ms": 184732,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -1383,34 +1399,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+        "name": "ily (i love you baby) (feat. Emilee)",
+        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 176546,
+      "name": "ily (i love you baby) (feat. Emilee)",
+      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1435,22 +1439,34 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
-        "name": "ily (i love you baby) (feat. Emilee)",
-        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Emilee",
-          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 176546,
-      "name": "ily (i love you baby) (feat. Emilee)",
-      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1479,22 +1495,6 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
         "name": "The Weekend (Funk Wav Remix)",
         "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 171805,
       "name": "The Weekend - Funk Wav Remix",
       "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf"
+      },
+      "artists": [
+        {
+          "name": "Iyaz",
+          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "Mami Chula",
         "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 220600,
       "name": "Mami Chula",
       "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf"
-      },
-      "artists": [
-        {
-          "name": "Iyaz",
-          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ"
     }
   ],
   "unique_name": "Summer Party",

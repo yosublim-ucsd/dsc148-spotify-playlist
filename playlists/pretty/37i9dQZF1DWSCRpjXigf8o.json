@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 85872,
+  "num_followers": 85878,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGRkYjU5NzlhM2IzOTBlNzlhODI0Zjg5OWQwZTU5MzEyNWY4NTFh",
+  "snapshot_id": "MCwxNjQyZWJkNTViZDhmMDcyNTY3MjAxYWVmNGUwNTJhMjZlZWZkZWZm",
   "tracks": [
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "this is what autumn feels like",
-        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 219909,
-      "name": "this is what autumn feels like",
-      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+      "duration_ms": 247626,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "Something Just Like This",
-        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 247626,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 185675,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr"
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
     }
   ],
   "unique_name": "Mid Tempo Magic",

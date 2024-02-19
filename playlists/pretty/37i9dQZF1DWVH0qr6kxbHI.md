@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,185 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,243 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 26 | [Señora](https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [15 Exitos Originales Con Rocio Jurado](https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf) | 3:39 |
 | 27 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |
 | 28 | [Hoy Quiero Confesarme](https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 4:49 |
-| 29 | [S.O.S.](https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt) | [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Amar Duele](https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2) | 3:46 |
+| 29 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
 | 30 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
 | 31 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 |
 | 32 | [Se nos rompió el amor](https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Tan Solo Una Mujer](https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd) | 4:31 |
-| 33 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
+| 33 | [S.O.S.](https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt) | [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Amar Duele](https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2) | 3:46 |
 | 34 | [La Paloma](https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mari Trini Con los Panchos](https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC) | 3:24 |
 | 35 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
 | 36 | [Sarandonga](https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Grandes exitos](https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MCwwNzZlMWI3ZmI2OGY2MGZiYTMzYjQ0Mjk5OTUyYmM3NWRmNWZiOTYw`
+Snapshot ID: `MCwwODM4ZmY2NjNhNDMyOGQ5ZTA2M2MyMWY5NmU2OTJjNDUwOTI3MTBl`

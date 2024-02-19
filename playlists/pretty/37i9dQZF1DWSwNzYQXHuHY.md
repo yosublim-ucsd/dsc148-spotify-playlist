@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,760 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,759 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 10 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 11 | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa) | 2:58 |
 | 12 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
-| 13 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
-| 14 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 |
+| 13 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 |
+| 14 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
 | 15 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
 | 16 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
 | 17 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 49 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
 | 50 | [busy guy](https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:45 |
 
-Snapshot ID: `MCw2MjEyYTZkOTFiMWM3ZGNlNWIzMWRlYmJhYzkzZDJkMDRlMDFjMWMz`
+Snapshot ID: `MCxhMTgyNjY0YzU5ODIyNDJmZWJiNmUwNTZlZWU3MDc2M2ViNTE2N2Zh`

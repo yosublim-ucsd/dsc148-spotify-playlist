@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 72 songs - 4 hr 44 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 72 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 68 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
 | 69 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
 | 70 | [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 |
-| 71 | [Across The Sea](https://open.spotify.com/track/7JJPh9eOiSr8zYlBjcu2w0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 4:32 |
-| 72 | [Pink Triangle](https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:58 |
+| 71 | [Pink Triangle](https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:58 |
+| 72 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 |
 
-Snapshot ID: `MTE0LDEzYWZjYmI2ZDgzNzM2NWE5MWU1MTcxNWRhYjJlYjYxMWRlYzMyYTc=`
+Snapshot ID: `MTE2LDI4OTZmMTMwOTQ2Mjc0ODFkZWEzMWFkMzk1YzA5NTZiZjI2ZTc0ZTA=`

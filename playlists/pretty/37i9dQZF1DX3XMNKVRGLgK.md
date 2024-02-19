@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,588 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,606 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 29 | [4 Da Fam \(feat\. Beanie Sigel, Memphis Bleek & Jay\-Z\) \- Explicit Album Version](https://open.spotify.com/track/2NUcXeWIVFKcKrjgfUHDRG) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 4:20 |
 | 30 | [queens shit.](https://open.spotify.com/track/5toMvCZhvEO17MAejy7f4P) | [Remy Banks](https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ) | [champ hoody music\. ep.1](https://open.spotify.com/album/3i0mDUuHx0qHHF2PbwnOtL) | 1:22 |
 
-Snapshot ID: `MCw1ZWFiNjMyODg3MmYyODgxNWM4YTg4NWI0ODg5ZDM1NjkzMGQ5NzUx`
+Snapshot ID: `MCxkZTQ1ZGNjMjc1YmRhNDk2YzczMWMyODIwNGU4MjM4NmYyZGMyYzgx`

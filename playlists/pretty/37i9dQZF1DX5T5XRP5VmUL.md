@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,784 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,749 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 53 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 54 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
 | 55 | [Jesus why do you hate me](https://open.spotify.com/track/5LvYYf5HlcZ7gkjMLTtCxl) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Jesus why do you hate me](https://open.spotify.com/album/0KZ59arAKx828YfvhpnLAf) | 3:34 |
-| 56 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 |
-| 57 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
+| 56 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
+| 57 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 |
 | 58 | [Golden Slumbers \- Remastered 2009](https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:31 |
 | 59 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
 | 60 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 68 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
 | 69 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:14 |
 | 70 | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co) | 2:14 |
-| 71 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
-| 72 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
+| 71 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
+| 72 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
 | 73 | [Last Christmas](https://open.spotify.com/track/0u74xi5AJEulKPccore7B2) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb), [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Last Christmas](https://open.spotify.com/album/5M5dF1R53sHPHUGuPMRz4R) | 2:48 |
 | 74 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:23 |
 | 75 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 |
 | 100 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
 
-Snapshot ID: `MCxmMDcwNWFkNTI3OGMyM2UwOWVmZTQxMzk1ODYzYWY3ZDNmODM5MjFk`
+Snapshot ID: `MCxmNGVjODgwYzg1MzY5ZmZiZTRhMjljZTgxYmQ4MTYzMTUxMjA0OWJl`

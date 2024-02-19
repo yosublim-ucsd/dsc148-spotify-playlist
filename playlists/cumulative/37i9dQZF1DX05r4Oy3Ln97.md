@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-291 songs - 15 hr 1 min
+292 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Esta Vida \- Jess Bays Remix](https://open.spotify.com/track/3DJpjKvU8vccxudxq0RO6f) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [Esta Vida \(Jess Bays Remix\)](https://open.spotify.com/album/4jdGfY92pBza5dbVWOnskR) | 3:52 | 2023-07-13 | 2023-08-17 |
 | [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-28 |  |
 | [Ever After](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:47 | 2021-10-29 | 2022-01-17 |
+| [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 | 2023-12-22 |  |
 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-08-18 |  |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-04-01 | 2023-01-28 |
 | [Facing The Sun \- Revive \- Edit](https://open.spotify.com/track/2dpVPP9K2IL4YUbFs9hvmH) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Facing The Sun \(Revive\)](https://open.spotify.com/album/2PN6xvQL7Lcn7jEOgEeCyZ) | 3:49 | 2023-03-31 | 2023-04-29 |
@@ -204,7 +205,7 @@
 | [Perfect](https://open.spotify.com/track/6fSwN09SuOX7nnkOXyUvH7) | [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [Perfect](https://open.spotify.com/album/51prrjL16O3gMqqrZwH3Mp) | 2:36 | 2021-10-29 | 2022-07-27 |
 | [Pon De Replay](https://open.spotify.com/track/6G7r3yTCXVl1lXmFSkzEYB) | [Ed Marquis](https://open.spotify.com/artist/6NkWxTDLl0TnlaS0J9JQT5), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Pon De Replay](https://open.spotify.com/album/6LHoxO71UelhuYt0ylPaw1) | 4:17 | 2022-03-25 |  |
 | [Purple Sands](https://open.spotify.com/track/3b5guLQVB4k9VZaXW0OAIJ) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Purple Sands](https://open.spotify.com/album/3kCU2EuoADRSWdBflZ9xA7) | 3:11 | 2022-02-11 | 2022-04-20 |
-| [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 | 2022-03-11 |  |
+| [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 | 2022-03-11 | 2024-02-19 |
 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 | 2022-03-25 |  |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-03-31 |  |
 | [Right Now](https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:11 | 2023-09-15 | 2023-09-30 |

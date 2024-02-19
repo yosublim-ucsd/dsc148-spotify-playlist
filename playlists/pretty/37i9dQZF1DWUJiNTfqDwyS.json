@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 363060,
+  "num_followers": 363127,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjI4OTQ1NDMyNDM3MTUxYmVjMzY2ZWI0MTdiYTIxNDdiYzM0NzBi",
+  "snapshot_id": "MCxhMWE4ZjE4MDlhYjhjZDc5NDAxY2U4MWU3MDdjNjE3ZjE1MWE4OTAx",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
+        "name": "In The Air Tonight",
+        "url": "https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC"
+      },
+      "artists": [
+        {
+          "name": "State of Mine",
+          "url": "https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh"
+        }
+      ],
+      "duration_ms": 300631,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 193080,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
-        "name": "In The Air Tonight",
-        "url": "https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC"
-      },
-      "artists": [
-        {
-          "name": "State of Mine",
-          "url": "https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh"
-        }
-      ],
-      "duration_ms": 300631,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "The Sickness",
-        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Shout 2000",
-      "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Symbol Of Life",
         "url": "https://open.spotify.com/album/1lvVqodR4aT3R8WemeIgDN"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 317573,
       "name": "Small Town Boy",
       "url": "https://open.spotify.com/track/0jfNgP8sP2tnOloYDw0HoM"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "The Sickness",
+        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Shout 2000",
+      "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Beat It",
-        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
-      },
-      "artists": [
-        {
-          "name": "One Morning Left",
-          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
-        }
-      ],
-      "duration_ms": 210639,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 260720,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Beat It",
+        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "duration_ms": 210639,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
     },
     {
       "added_at": "2023-08-23 14:56:37",

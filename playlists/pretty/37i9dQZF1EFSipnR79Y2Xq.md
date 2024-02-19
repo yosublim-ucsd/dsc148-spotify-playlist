@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619 likes - 44 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 618 likes - 44 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 23 | [Esto Es Así](https://open.spotify.com/track/4t9EQ2mAXzPZLpMPwDAGIM) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Esto Es Así](https://open.spotify.com/album/32ZX00cqoOq3l8c2iwZ88x) | 2:56 |
 | 24 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 |
 | 25 | [Una Cerveza Más](https://open.spotify.com/track/0l8Ai0UPJ1hYOMQcaDa9Vr) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Cerveza Más](https://open.spotify.com/album/7q35s381xW8eW6n6d0twtC) | 2:50 |
-| 26 | [Soy Sagitario](https://open.spotify.com/track/1Fegef4ZMoi0Vp8q8NiIjl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/6mcT8OQnyLnD3dfoDO3khI) | 2:23 |
-| 27 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 |
-| 28 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 |
+| 26 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 |
+| 27 | [Soy Sagitario](https://open.spotify.com/track/1Fegef4ZMoi0Vp8q8NiIjl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/6mcT8OQnyLnD3dfoDO3khI) | 2:23 |
+| 28 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 |
 | 29 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 |
 | 30 | [Tocas El Cielo](https://open.spotify.com/track/3x27kK7eSGhxc6PzSgPoeh) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo](https://open.spotify.com/album/6xSYTJWevYBfj3ss9Jciuv) | 3:05 |
 | 31 | [Porque Sigo Vivo](https://open.spotify.com/track/1sWJERxemKdTKXVGL4zFrJ) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Porque Sigo Vivo](https://open.spotify.com/album/75AAhtE3Tff60VDqsQ8hOf) | 3:04 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 37 | [Corrido a Sal Sánchez](https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Corrido a Sal Sánchez](https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW) | 2:26 |
 | 38 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
 | 39 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
-| 40 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
-| 41 | [¿Quién Me Manda?](https://open.spotify.com/track/2GM4yoIPUCghVhCJZ9blmk) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:55 |
-| 42 | [Ni Te Topo](https://open.spotify.com/track/6cYb0fPtQRNcedKzFUt4Nr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ni Te Topo](https://open.spotify.com/album/4vss0sAcPknCGSfc61vgZU) | 2:51 |
+| 40 | [Ni Te Topo](https://open.spotify.com/track/6cYb0fPtQRNcedKzFUt4Nr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ni Te Topo](https://open.spotify.com/album/4vss0sAcPknCGSfc61vgZU) | 2:51 |
+| 41 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
+| 42 | [¿Quién Me Manda?](https://open.spotify.com/track/2GM4yoIPUCghVhCJZ9blmk) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:55 |
 | 43 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 44 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 
-Snapshot ID: `Mjg0NzAzNjAsMDAwMDAwMDBmZTQwZTVhNDc0MDU4ZDVmOTk1YTliZmUyNTk3OTRiZQ==`
+Snapshot ID: `Mjg0NzE4MDAsMDAwMDAwMDBmNmU5ZDFkMmRkNDlkYTk2Y2YxZTYyMzg1MjljNWQ1MA==`

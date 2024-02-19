@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 594755,
+  "num_followers": 594733,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTJmNjkxMWIxOTA1ZTE5MjJiOGNmYWUxNGY2MGFmMjM3NGE1YmM0",
+  "snapshot_id": "MCwzNTFhZWU0NzhmNTY4MTg3OGE5ZTM2MjdjOTAyYTBlNmM5ZDJiODE0",
   "tracks": [
     {
       "added_at": "2024-02-06 14:28:05",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 157846,
       "name": "UNA BACHATA",
       "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 211294,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Falsos Recuerdos",
         "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 211294,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "Nochentera",
         "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "Porfa no te vayas",
         "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 209712,
       "name": "Porfa no te vayas",
       "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "SUPERH\u00c9ROES",
         "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 200294,
       "name": "SUPERH\u00c9ROES",
       "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Amigos (con Maria Becerra)",
-        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Amigos (con Maria Becerra)",
-      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Amigos (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210127,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210127,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "tequiero",
+        "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 185958,
+      "name": "tequiero",
+      "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/2cx8aUPxZ0GvVJkJdNXeOM"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 219600,
       "name": "D\u00e9jala Que Baile (with Alejandro Sanz & Arkano)",
       "url": "https://open.spotify.com/track/2KK9N6iBAisA0booTu3bGd"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "tequiero",
-        "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 185958,
-      "name": "tequiero",
-      "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "The King Of Dance",
+        "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Bailando por Ahi",
+      "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "The King Of Dance",
-        "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Bailando por Ahi",
-      "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Get Close (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Don't Get Me Wrong - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "amor de verano",
         "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 176666,
       "name": "amor de verano",
       "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Get Close (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Don't Get Me Wrong - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 217480,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "added_at": "2024-02-06 14:28:05",

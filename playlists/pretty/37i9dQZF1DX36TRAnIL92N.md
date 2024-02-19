@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,428 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,824 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 41 | [Don't Look Back](https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj) | 3:51 |
 | 42 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 43 | [Asura](https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc) | 7:49 |
-| 44 | [Rebirth](https://open.spotify.com/track/4N8P1RCABm0BBiTKCRThTh) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/3hxZY3I3EEj1IriFow919T) | 6:40 |
+| 44 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
 | 45 | [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 |
-| 46 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
-| 47 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
+| 46 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
+| 47 | [Rebirth](https://open.spotify.com/track/4N8P1RCABm0BBiTKCRThTh) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/3hxZY3I3EEj1IriFow919T) | 6:40 |
 | 48 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
 | 49 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 |
-| 50 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
+| 50 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
 
-Snapshot ID: `MCw4YzBmNTA3YmRhNjRkNWIxYTYyOGYwYWQwNmE1ZGZkN2RhYzUwYzA0`
+Snapshot ID: `MCw1NmIzZjFlYjVmZTM2ZjAyOTg4OTg2ZGI5MGIyZjU5NWIwN2M4MTFk`

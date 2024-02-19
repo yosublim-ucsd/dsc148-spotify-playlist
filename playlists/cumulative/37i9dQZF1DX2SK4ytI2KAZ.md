@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-543 songs - 1 day 5 hr 57 min
+545 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Crooked Eyes](https://open.spotify.com/track/6LUqGcQXQlsE6tEwswHIFG) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Crooked Eyes](https://open.spotify.com/album/6Jaz2rNwmGPA5xuZx9HPPr) | 4:15 | 2022-03-11 | 2022-04-13 |
 | [Cry Out for Me](https://open.spotify.com/track/6ktLXrudYZ8PjQvu2Ncoth) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:14 | 2022-03-11 | 2022-04-17 |
 | [Curious](https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Curious](https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX) | 2:49 | 2022-06-27 | 2023-03-23 |
-| [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2024-02-16 |  |
+| [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2024-02-16 | 2024-02-19 |
+| [Dancer](https://open.spotify.com/track/5MP8QCjsJQPJ5ApdHMg3dl) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 3:09 | 2024-02-16 |  |
 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 | 2022-02-04 |  |
 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 | 2024-02-16 |  |
 | [Daphne Blue](https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [tryhard](https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1) | 3:02 | 2021-03-10 | 2023-12-08 |
@@ -143,6 +144,7 @@
 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 | 2022-03-11 | 2023-02-18 |
 | [Every Window Is A Mirror](https://open.spotify.com/track/3b2ngmuuJP2XCUUwZvK9WQ) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Every Window Is A Mirror](https://open.spotify.com/album/2MNhICXseCBcuvWYkEv2yy) | 2:53 | 2021-05-07 | 2022-07-29 |
 | [Everybody Knows](https://open.spotify.com/track/5hrfpu5scmc8mTRmry4bLM) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Recover](https://open.spotify.com/album/0IskvEuYdoJ3GiPu3mqCyk) | 3:44 | 2021-03-10 | 2022-07-29 |
+| [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 | 2024-02-16 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/7ybVoNkDQolNLGohI5lsAa) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Eyes Wide Shut](https://open.spotify.com/album/7kKAFLIUTA39JgYJzbudbv) | 3:00 | 2021-03-10 | 2022-01-01 |
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-05-27 | 2022-07-30 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-05-27 |  |
@@ -337,7 +339,7 @@
 | [Nothing Can Kill Us](https://open.spotify.com/track/6r3x9CWcHQ0ZJFJYB1GXD9) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Outside Voices](https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD) | 2:50 | 2021-11-19 | 2022-07-29 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-11-27 |  |
 | [Nothing To Lose](https://open.spotify.com/track/4bEdcyI0l4zX2Ut5m5Xrhw) | [Saint Nomad](https://open.spotify.com/artist/6DDZJCwSnNF361mUwPEm4G) | [Nothing To Lose](https://open.spotify.com/album/5iuJo58XqIENkyviBJ4dil) | 2:44 | 2021-03-10 | 2022-07-29 |
-| [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-06-30 |  |
+| [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-06-30 | 2024-02-19 |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-30 | 2023-07-28 |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-02-16 |  |
 | [OK OK](https://open.spotify.com/track/0UCSqy0XuSN3FUITKjtljZ) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [OK OK](https://open.spotify.com/album/17htbKcPmAWkYatIbrwSla) | 2:17 | 2021-03-10 | 2022-04-21 |

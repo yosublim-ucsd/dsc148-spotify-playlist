@@ -1,12 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 299104,
+  "num_followers": 299132,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTZmMTFmMmFkOTUwYTc1ZGUyZTNiNDQ4YTQ5ZDdiMTRlNzgwMmEy",
+  "snapshot_id": "MCw3MzEzZDNhYzFlOTY2OGYwMDBkNjhhY2ZjMTk1N2QzNmFhZjNkYzcx",
   "tracks": [
     {
       "added_at": "2021-04-30 08:33:50",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Four Tops Second Album",
         "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Lost On You",
-        "url": "https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 267461,
-      "name": "Lost on You",
-      "url": "https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 262240,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 267461,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
       "artists": [
         {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 194120,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1243,6 +1227,22 @@
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "HAIZ",
-        "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "HAIZ",
+        "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 198373,
       "name": "I Will Survive - Original 7\" Version",
       "url": "https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The Good Parts",
         "url": "https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 198001,
       "name": "Fresh Eyes",
       "url": "https://open.spotify.com/track/7gm2omqXDTaT4sS17hSu8T"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The Rubberband Man / Now That We're Together",
-        "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "The Rubberband Man",
-      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Talking Back To The Night",
         "url": "https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 246666,
       "name": "Valerie",
       "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "The Rubberband Man / Now That We're Together",
+        "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "The Rubberband Man",
+      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The New Look",
         "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "No Particular Place To Go",
+      "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Around The World In A Day",
         "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "No Particular Place To Go",
-      "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "G.R.L.",
         "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
     }
   ],
   "unique_name": "Music for a Workday",

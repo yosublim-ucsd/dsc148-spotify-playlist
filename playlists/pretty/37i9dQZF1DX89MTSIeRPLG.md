@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,203 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,230 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 29 | [Fly Away](https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh) | [Fly Away](https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa) | 2:28 |
 | 30 | [Base' Body](https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe) | [Preaching from the Projects](https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49) | 2:30 |
 | 31 | [Treat Me Right](https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 2:56 |
-| 32 | [My Terms \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 2:52 |
-| 33 | [Zero Tolerance](https://open.spotify.com/track/4jStn4ko3zvyLkY2upthYM) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Zero Tolerance](https://open.spotify.com/album/4XyOdD2CwwEWZbSzjcZhgZ) | 4:17 |
+| 32 | [Zero Tolerance](https://open.spotify.com/track/4jStn4ko3zvyLkY2upthYM) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Zero Tolerance](https://open.spotify.com/album/4XyOdD2CwwEWZbSzjcZhgZ) | 4:17 |
+| 33 | [My Terms \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 2:52 |
 | 34 | [RPS & Codeine \(feat\. Gunna\)](https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 3:02 |
 | 35 | [Flawed \(feat\. Gunna\)](https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Flawed \(feat\. Gunna\)](https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI) | 3:24 |
 | 36 | [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
 | 50 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
 
-Snapshot ID: `MCwyMWZlODA4MjIzYTQ0Yjc2MTFlNGUyY2Q3OTdiOThiNmRmNDVhY2M4`
+Snapshot ID: `MCxkNzA3YzQ5NWQxZmM3ZjVjZGE3ZWMwZjNjYzg1MTdlZTgyZDcwNzI4`

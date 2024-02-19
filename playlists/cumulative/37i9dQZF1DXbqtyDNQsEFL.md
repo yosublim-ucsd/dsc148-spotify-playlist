@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-302 songs - 1 day 8 hr 41 min
+303 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [I Overcame](https://open.spotify.com/track/4VzrPcWyOdMhNudt0SqaW0) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:22 | 2023-12-05 | 2023-12-11 |
 | [I Receive Your Light \(feat\. Magpsalms\) \- Remix](https://open.spotify.com/track/2mjArWhZYBBCrn02oS9G0c) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Magpsalms](https://open.spotify.com/artist/2qjtKb2BJ1ZJ9BQL5XNXo3) | [I Receive Your Light \(feat\. Magpsalms\) \[Remix\]](https://open.spotify.com/album/1yTUzr9tTKReKGwgvgMHQ1) | 8:59 | 2023-11-17 | 2024-01-19 |
 | [I Stand Amazed \- Live in Concert](https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 7:26 | 2023-12-05 | 2023-12-11 |
-| [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-06-30 |  |
+| [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-06-30 | 2024-02-19 |
 | [I will soar](https://open.spotify.com/track/1Eag9P72ROslztON6d2z15) | [Nene Olajide](https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F) | [Your Glory](https://open.spotify.com/album/0pBJZL8J11JQGc70j4IcWQ) | 5:08 | 2023-06-16 | 2023-07-12 |
 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 | 2022-06-09 | 2023-08-12 |
 | [Ifunanya](https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ifunanya](https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e) | 3:38 | 2023-12-05 | 2023-12-11 |
@@ -183,6 +183,7 @@
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 | 2023-07-24 |
 | [New Dimension \- Live](https://open.spotify.com/track/1ZcM6L1cGFrDnWnZ4IWZmP) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [New Dimension](https://open.spotify.com/album/5F8AS4nbIJ1RRceKfrO7G8) | 12:38 | 2023-12-05 | 2023-12-11 |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-01-19 |  |
+| [New Heart](https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [New Heart](https://open.spotify.com/album/3c2ryFUaPcq9Gr1cZtKR6Z) | 3:22 | 2024-02-16 |  |
 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 | 2022-06-09 | 2023-05-23 |
 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 | 2022-06-09 |  |
 | [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 | 2022-06-09 | 2023-02-04 |

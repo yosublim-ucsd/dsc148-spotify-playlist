@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-949 songs - 1 day 14 hr 43 min
+950 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,8 @@
 | [Intro](https://open.spotify.com/track/6OoynwB0ZIefcMvWBsivXO) | [Lando Bando](https://open.spotify.com/artist/0RhMJraoZxBc1FPEXaUZnx), [The Hip Hop Lab](https://open.spotify.com/artist/2Bj4eYljS3HxKmQYTJ6yaG), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [New Era](https://open.spotify.com/album/41FoQRZr8INsVkHD2uuAvA) | 2:27 | 2021-12-16 | 2022-02-05 |
 | [Iris Green \(feat\. Future\)](https://open.spotify.com/track/31P1VMYqCR0L7Vcq8XRxE8) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Iris Green \(feat\. Future\)](https://open.spotify.com/album/1ipqIxIEYoF4ZZkWtit0Ga) | 2:59 | 2023-03-24 | 2023-03-30 |
 | [Istbu \(I'll Shoot This Bitch Up\)](https://open.spotify.com/track/44jbVr6FfDXB6mbqyvS7ir) | [Shooter McShootem](https://open.spotify.com/artist/0iYOm5jZveoUVliLeAP8xE) | [Istbu \(I'll Shoot This Bitch Up\)](https://open.spotify.com/album/5AAdGxRnMIWBZ0K0BiWqci) | 3:08 | 2022-03-01 | 2022-04-26 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-27 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-27 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2023-12-01 |  |
 | [It's A Dream \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:31 | 2023-05-17 | 2023-07-15 |
 | [Ivy](https://open.spotify.com/track/4MPC94p6MfRbMjgYVNSKTC) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Ivy](https://open.spotify.com/album/60jHOsOAVmUxXEt8AKQ6nc) | 2:00 | 2021-11-19 | 2022-02-26 |
 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 | 2021-12-03 | 2022-04-26 |

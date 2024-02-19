@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 119778,
+  "2024-02-19": 119969,
   "date_first_scraped": "2023-02-14",
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
   "name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
@@ -389,6 +389,24 @@
       "duration_ms": 173333,
       "name": "Akeno Embareh",
       "url": "https://open.spotify.com/track/4RoDdFZXuhFkJ6zsCmv1gd"
+    },
+    {
+      "album": {
+        "name": "Ala Bali",
+        "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
+      },
+      "artists": [
+        {
+          "name": "Sharmoofers",
+          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194454,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
     },
     {
       "album": {
@@ -4611,7 +4629,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 277798,
       "name": "\u0641\u0636\u062d\u0627\u0646\u064a \u0639\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,619 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,713 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 43 | [PLEBITA](https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [PLEBITA](https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW) | 2:27 |
 | 44 | [Equipo RR](https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Equipo RR](https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5) | 2:39 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBjYjIzN2Q1NmRmNGJkZjYzZGFmNzgwMjliYjBhNjMxMQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDAwYzY2MGUzMGU5OTAyMTFiYzNlOTcwNWY5MmE4YWM0OQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,591 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,724 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 24 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
 | 25 | [You Never Can Tell](https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:41 |
 | 26 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
-| 27 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
-| 28 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
+| 27 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
+| 28 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
 | 29 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 30 | [The Letter](https://open.spotify.com/track/6RJK553YhstRzyKA4mug09) | [The Box Tops](https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr) | [The Letter/Neon Rainbow](https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs) | 1:52 |
 | 31 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 44 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
 | 45 | [Sunny Afternoon](https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT) | 3:32 |
 | 46 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
-| 47 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 |
-| 48 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
+| 47 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
+| 48 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 |
 | 49 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 |
 | 50 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
 | 51 | [It's My Party](https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:20 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 53 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Aerial Ballet](https://open.spotify.com/album/0H3v4snD6xhworsjXndsai) | 2:43 |
 | 54 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
 | 55 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
-| 56 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
-| 57 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 |
+| 56 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 |
+| 57 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
 | 58 | [\(You're The\) Devil in Disguise](https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:20 |
 | 59 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 60 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 74 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 75 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
 
-Snapshot ID: `MCxjZGY0N2I4MDQ4OGM1MDI4NjRlOWUyYzhlZTY5ZTZhNDZhZWEyZDU4`
+Snapshot ID: `MCxiNTllNzczMWU2ZWNiMzExZWM3NjQ5Zjg3ZGFkMGU2MGIxMTA0MDM5`

@@ -4,7 +4,7 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-108 songs - 6 hr 54 min
+109 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 | 2023-11-09 |  |
 | [Bomba en Navidad](https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Felices Pascuas](https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6) | 5:06 | 2023-11-09 |  |
 | [Boquita Sala](https://open.spotify.com/track/2PhDSnvzHU4NKuKTtUD6Ea) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 2:55 | 2023-12-20 | 2024-01-07 |
+| [Buscandote](https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 4:40 | 2023-12-20 |  |
 | [Caimán Y Gallinazos](https://open.spotify.com/track/45YxbUt9qwYzXZtMg3MrL8) | [Super Combo Los Tropicales](https://open.spotify.com/artist/7413EGw2gPpKWZoC32oQ2D) | [El Arenal](https://open.spotify.com/album/11EOgFqgtSZwStG3ryasgR) | 2:43 | 2023-12-05 | 2024-02-03 |
 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 | 2023-11-09 |  |
 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 | 2023-11-09 |  |
@@ -47,7 +48,7 @@
 | [El Pegao](https://open.spotify.com/track/6BIJjj0GaPbmDXMTbLG6kt) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 3:10 | 2023-12-15 | 2024-01-10 |
 | [El Pichón](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 | 2023-12-15 |  |
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2023-11-09 |  |
-| [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 | 2023-11-15 |  |
+| [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 | 2023-11-15 | 2024-02-19 |
 | [El Santo Cachon](https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:29 | 2023-11-09 |  |
 | [El Solitario](https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Colecciones de Oro](https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe) | 3:36 | 2023-12-05 | 2024-01-16 |
 | [El Tren del Adiós](https://open.spotify.com/track/1XDpISWlSZ8VR2sXE15sCQ) | [Hernan Hernandez](https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH) | [18 Exitos](https://open.spotify.com/album/0sfbPBLonQ1r0neZUgyVsK) | 3:31 | 2023-12-20 |  |

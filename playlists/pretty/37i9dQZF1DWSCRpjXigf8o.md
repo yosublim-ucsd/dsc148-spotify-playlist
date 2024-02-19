@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,872 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,878 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 60 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
 | 61 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 62 | [Everything Almost](https://open.spotify.com/track/64cSblcHs4nVN1DfSDTT9O) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:00 |
-| 63 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
+| 63 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 |
 | 64 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
-| 65 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 |
+| 65 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
 | 66 | [音の記憶](https://open.spotify.com/track/48CztoIkzgIucZ6ynPUrmr) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C) | [甘い予感](https://open.spotify.com/album/3aCsWq38elPFkdUdVGDj5n) | 5:00 |
 | 67 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 68 | [かすみ草](https://open.spotify.com/track/6RFfqTMpNjpwK8S6gl5sn3) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [かすみ草](https://open.spotify.com/album/2wxCcvQSILpEQOpvel2bWn) | 4:14 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 97 | [In A Little While \- Demo](https://open.spotify.com/track/1dtuekJQHi8E2KRYiDlH6n) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [In A Little While \(Demo\)](https://open.spotify.com/album/7cXpVPMICPQrdRZQm94VKH) | 4:05 |
 | 98 | [Lovely](https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lovely](https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3) | 3:07 |
 | 99 | [愛を知ったんだ](https://open.spotify.com/track/0eumnjplJhN4QCHpPiL88C) | [Kuniyuki Natsu](https://open.spotify.com/artist/7bk618HWzQDdQ5XDp5OoE2) | [Kotae](https://open.spotify.com/album/4noihhGHVTfr6bXB6r7u9i) | 4:43 |
-| 100 | [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 |
+| 100 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
 
-Snapshot ID: `MCxmMGRkYjU5NzlhM2IzOTBlNzlhODI0Zjg5OWQwZTU5MzEyNWY4NTFh`
+Snapshot ID: `MCwxNjQyZWJkNTViZDhmMDcyNTY3MjAxYWVmNGUwNTJhMjZlZWZkZWZm`

@@ -1,12 +1,12 @@
 {
   "description": "The hits you just can't get enough of. Cover: Ayra Starr",
-  "num_followers": 268053,
+  "num_followers": 268122,
   "original_name": "Pop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDdkMTU4NzQyY2UxOTlkOGIxYmJhZDEzZGUxMzI0NWVjM2I0Y2E5",
+  "snapshot_id": "MCw1N2VhMzRlYjI4OWFhODc0NTczY2E3ZjY1MTI0M2I1YWQ0OGI4YTgx",
   "tracks": [
     {
       "added_at": "2024-02-02 18:54:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2024-02-02 18:54:18",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+    },
+    {
+      "added_at": "2024-02-02 18:54:18",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        }
-      ],
-      "duration_ms": 163025,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2024-02-02 18:54:18",
-      "album": {
         "name": "TOO YOUNG TO BE SAD",
         "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
@@ -979,18 +959,22 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
         }
       ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1015,6 +999,22 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2024-02-02 18:54:18",
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2024-02-02 18:54:18",
+      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1139,22 +1155,6 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2024-02-02 18:54:18",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
-    },
-    {
-      "added_at": "2024-02-02 18:54:18",
-      "album": {
         "name": "Mad Love The Prequel",
         "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 221176,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
+    },
+    {
+      "added_at": "2024-02-02 18:54:18",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 217746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+      "duration_ms": 217746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1507,22 +1507,6 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2024-02-02 18:54:18",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1559,6 +1543,22 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2024-02-02 18:54:18",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "added_at": "2024-02-02 18:54:18",
@@ -1603,6 +1603,46 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+    },
+    {
+      "added_at": "2024-02-02 18:54:18",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2024-02-02 18:54:18",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -1627,26 +1667,6 @@
     {
       "added_at": "2024-02-02 18:54:18",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
-    },
-    {
-      "added_at": "2024-02-02 18:54:18",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 185773,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
-    },
-    {
-      "added_at": "2024-02-02 18:54:18",
-      "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Havana (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
       "added_at": "2024-02-02 18:54:18",

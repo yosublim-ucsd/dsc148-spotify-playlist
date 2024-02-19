@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Panteón Rococó en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,864 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,868 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 71 | [Veneno](https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Venga la Sentencia](https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd) | 3:16 |
 | 72 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
 | 73 | [Mala](https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6) | [El Guato](https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ) | [Mala](https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT) | 3:28 |
-| 74 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
-| 75 | [Psicótico](https://open.spotify.com/track/2UIKtXDPfydvJTQunrum7H) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Psicótico](https://open.spotify.com/album/1EqLEKvEuAyL0oZqYcBHVP) | 2:56 |
-| 76 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
+| 74 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
+| 75 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
+| 76 | [Psicótico](https://open.spotify.com/track/2UIKtXDPfydvJTQunrum7H) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Psicótico](https://open.spotify.com/album/1EqLEKvEuAyL0oZqYcBHVP) | 2:56 |
 | 77 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Pánico Latino](https://open.spotify.com/artist/4vU814JP2hKv5D3kJD6ozf) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
 | 78 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
 | 79 | [Mi Chica Ideal](https://open.spotify.com/track/4VaIJ0IyODvob50CWAgYiX) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Pepe Grela](https://open.spotify.com/artist/6XENWUH8sbcMMKNf37O1eZ) | [Mi Chica Ideal](https://open.spotify.com/album/0VSazinx299J4PqvRkJZ0S) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 99 | [Impermeable](https://open.spotify.com/track/0SrYQV1yFWPMU4i395FUx8) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Bibi Marín](https://open.spotify.com/artist/2WUDNYnIWyyjzPLcXoTKql) | [Impermeable](https://open.spotify.com/album/2Ep365xchKBZC0RtLSKBjw) | 3:54 |
 | 100 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
 
-Snapshot ID: `MCw4NWE5NWZlNTIwODI0MzIwMDc4MGY5OGE2YzMwMjA4ZjEwMDdkOWU5`
+Snapshot ID: `MCwzZDNiNWFkMWI2ZmYwNmNiZjFkNzVhY2YyMDZkZDcxMzljODYxMWVm`

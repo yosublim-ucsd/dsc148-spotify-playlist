@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Leo Rizzi y Paty Cantú en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,295 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,313 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 47 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
 | 48 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 |
 | 49 | [Mentiiira](https://open.spotify.com/track/2zppHPDwkbCtBaAjSocBOV) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Mentiiira](https://open.spotify.com/album/0H7P5EiyRcRalskbMv1Vw1) | 3:00 |
-| 50 | [A Las 3](https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [A Las 3](https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge) | 2:42 |
+| 50 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 |
 
-Snapshot ID: `MCwzZDgyMWIzMzc3YWY0ZmQxYTdiMzNmYjcyNGMzNjA1MWIzYzNhMjQw`
+Snapshot ID: `MCxmMzAxYzJlYjI3OTJlYzg0NGRlNjFmOTJjZDZmZjY3MDU0ZDFkZThh`

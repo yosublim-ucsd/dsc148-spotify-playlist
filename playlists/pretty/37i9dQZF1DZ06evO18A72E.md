@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,131 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,148 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 3 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 4 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
 | 5 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 |
-| 6 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
+| 6 | [New Perspective](https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jennifer's Body Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox) | 3:47 |
 | 7 | [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 |
-| 8 | [New Perspective](https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jennifer's Body Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox) | 3:47 |
+| 8 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
 | 9 | [Hey Look Ma, I Made It](https://open.spotify.com/track/22oEJW6r2rMb9z4IntfyEa) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 2:49 |
 | 10 | [Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off](https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:20 |
 | 11 | [Don't Threaten Me with a Good Time](https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:33 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 45 | [She Had the World](https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:47 |
 | 46 | [Local God](https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:00 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBmZjIyZmUxMGQyMWE1NzYyMzE1YmMwOGEzMmViZTdlYQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDAyZjU4ODkwZmY0YzdiMTlhYTlkNzgwNTYzMmVkOTgxNg==`

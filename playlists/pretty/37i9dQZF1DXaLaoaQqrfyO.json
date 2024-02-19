@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 343791,
+  "num_followers": 343838,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTA0YWI2ZmQxYWE4YjJhNjU4Yzc0ODJhYjVlM2Y4ZWY0MDM1YjY4",
+  "snapshot_id": "MCxmYjJkOWM1MDk2MjZkZDE4MTZlZmQxOTY0ZDk0ZTQ5NWYzMDUzNWNk",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "More Than Just a Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 209386,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -613,26 +613,6 @@
       "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
-    },
-    {
       "added_at": "2022-07-07 04:00:00",
       "album": {
         "name": "I Follow Rivers (The Magician Remix)",
@@ -651,6 +631,26 @@
       "duration_ms": 280069,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Loving is Easy",
+        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 200360,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
         }
       ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+      "duration_ms": 200360,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Year of the Caprese",
         "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 323253,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Now, Not Yet",
-        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "still feel.",
-      "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 276293,
       "name": "Canop\u00e9e",
       "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Now, Not Yet",
+        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "still feel.",
+      "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "All Becomes Okay",
         "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 242859,
       "name": "Begin (feat. Wales)",
       "url": "https://open.spotify.com/track/1v5J1L8FbUQya4SUQFCstk"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Violet Street",
-        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "When Am I Gonna Lose You",
-      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+        "name": "Violet Street",
+        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
+      "duration_ms": 264213,
+      "name": "When Am I Gonna Lose You",
+      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 260398,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1529,6 +1529,22 @@
       "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
     },
     {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Unbelievers",
+      "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
+    },
+    {
       "added_at": "2022-07-07 04:00:00",
       "album": {
         "name": "Saw You In A Dream",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Unbelievers",
-      "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Sylvan Esso",
         "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 268213,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
-        "name": "A Different Kind Of Fix",
-        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Shuffle",
-      "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1607,6 +1591,22 @@
       "duration_ms": 245293,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2022-07-07 04:00:00",
+      "album": {
+        "name": "A Different Kind Of Fix",
+        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
     },
     {
       "added_at": "2021-03-15 19:25:13",

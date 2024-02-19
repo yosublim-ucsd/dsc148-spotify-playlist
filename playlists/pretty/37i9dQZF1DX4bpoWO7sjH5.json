@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 35507,
+  "num_followers": 35506,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjAwN2NkYTAxNTFkNmJjZDFlMTIxMDc5YzQzNmY4ZDRmZmEzN2Q0",
+  "snapshot_id": "MCxjN2E5M2EyM2MxYzQ4M2FmZWFhNzc3YTA1M2UwZmQ3MWNjMmY1OTFm",
   "tracks": [
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1211,22 +1211,26 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj"
+        "name": "Mi Mejor Regalo",
+        "url": "https://open.spotify.com/album/5o46YcPUqnzB6QK4TRwD5C"
       },
       "artists": [
         {
-          "name": "Susy Gonzalez",
-          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         },
         {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+          "name": "Juan Jose Diaz",
+          "url": "https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz"
+        },
+        {
+          "name": "Victoria Montero",
+          "url": "https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3"
         }
       ],
-      "duration_ms": 286454,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn"
+      "duration_ms": 177578,
+      "name": "Mi Mejor Regalo",
+      "url": "https://open.spotify.com/track/04KZnB9Gb8WCHF1AMaGzwj"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1263,26 +1267,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Mi Mejor Regalo",
-        "url": "https://open.spotify.com/album/5o46YcPUqnzB6QK4TRwD5C"
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Susy Gonzalez",
+          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
         },
         {
-          "name": "Juan Jose Diaz",
-          "url": "https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz"
-        },
-        {
-          "name": "Victoria Montero",
-          "url": "https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3"
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
         }
       ],
-      "duration_ms": 177578,
-      "name": "Mi Mejor Regalo",
-      "url": "https://open.spotify.com/track/04KZnB9Gb8WCHF1AMaGzwj"
+      "duration_ms": 286454,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Tiempo de Navidad",
-        "url": "https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 258390,
-      "name": "Santa la Noche",
-      "url": "https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Concierto Navide\u00f1o (En Vivo Desde Monterrey, M\u00e9xico)",
         "url": "https://open.spotify.com/album/0429hLCtlpgVsucWSt6nuL"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 214229,
       "name": "Luces de Colores - En Vivo",
       "url": "https://open.spotify.com/track/6Yn3gyLn43DDGY5VAuWY5J"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Tiempo de Navidad",
+        "url": "https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 258390,
+      "name": "Santa la Noche",
+      "url": "https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "La Estrella",
+        "url": "https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 221647,
+      "name": "La Estrella",
+      "url": "https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Navidad Con V\u00e1stago, Vol. 2",
         "url": "https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 225013,
       "name": "A Son De Plena",
       "url": "https://open.spotify.com/track/6nVFWi33swDnsDljPodGlB"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "La Estrella",
-        "url": "https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 221647,
-      "name": "La Estrella",
-      "url": "https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
-      },
-      "artists": [
-        {
-          "name": "Lourdes Toledo",
-          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Navidad En Mi Pa\u00eds",
-      "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Tiempo de Navidad",
         "url": "https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 247811,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
+      },
+      "artists": [
+        {
+          "name": "Lourdes Toledo",
+          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Navidad En Mi Pa\u00eds",
+      "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "El Burrito De Bel\u00e9n",
-      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Estas Navidades",
         "url": "https://open.spotify.com/album/0HXWyw9bSRLXdYeQk7uFT0"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 214670,
       "name": "Estas Navidades",
       "url": "https://open.spotify.com/track/2waxGQNGUaeLrdY0l29iPB"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "El Burrito De Bel\u00e9n",
+      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 257346,
+      "name": "Naciste en Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6Emxozbb1RmuF1UiSxJikp"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "\u00a1O\u00edd los \u00c1ngeles Cantar!",
         "url": "https://open.spotify.com/album/2vpjGb6ayY5c9i3UbTaSO1"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 209600,
       "name": "V\u00edstete",
       "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 257346,
-      "name": "Naciste en Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6Emxozbb1RmuF1UiSxJikp"
     },
     {
       "added_at": "2023-12-15 17:10:08",

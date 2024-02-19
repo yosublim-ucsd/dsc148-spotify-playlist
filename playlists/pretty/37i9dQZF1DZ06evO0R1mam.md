@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,714 likes - 47 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,720 likes - 47 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 7 | [Bless The Lord \(Son Of Man\)](https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:31 |
 | 8 | [All Things New](https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:07 |
 | 9 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
-| 10 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
+| 10 | [The Worship Medley \(There Is Nothing Like/Glory To God Forever\) \- Live](https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 8:13 |
 | 11 | [Get Up \- Live](https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 6:19 |
 | 12 | [Immanuel](https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:43 |
 | 13 | [Everything Part I, Part II / Bow Before the King \- Live](https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:22 |
-| 14 | [The Worship Medley \(There Is Nothing Like/Glory To God Forever\) \- Live](https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 8:13 |
+| 14 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
 | 15 | [Only One Night Tho \- Live](https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 10:25 |
 | 16 | [Be Alright](https://open.spotify.com/track/1lgy6Rg78ekOXUXP3V2BIk) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:12 |
 | 17 | [African Medley \- Live](https://open.spotify.com/track/4OpPtI0wirTyNdX1ZO1pJs) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Mumen Ngenge](https://open.spotify.com/artist/2hwdd67UqAm97Lc4tMb1BX) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 9:39 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 46 | [Still Have Joy \- Live](https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:07 |
 | 47 | [Baptize](https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 2:10 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBmNGY0NTYzOGY2OWYzYTEyNWYyOWFlODYzNzgzNmQ0Nw==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA0OGU2MzdmZmYxOTMzNTYyMzZkZTI0YzliZmVlNGFhNA==`

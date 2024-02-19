@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 102477,
+  "num_followers": 102498,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmQyNDI1OTExODcwOTMzMzE5ZWY5YzhiMzI5MWJiMmU0M2NiOGMz",
+  "snapshot_id": "MCxlN2JjZTJkMjJmOWQ1ZWM2NDAyYWJmYzI3MDljOThmOGIzYmUyNzU1",
   "tracks": [
     {
       "added_at": "2024-02-02 11:22:44",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-02-02 11:22:44",
       "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
+    },
+    {
+      "added_at": "2024-02-02 11:22:44",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2024-02-02 11:22:44",
-      "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
     },
     {
       "added_at": "2024-02-02 11:22:44",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-02-02 11:22:44",
       "album": {
-        "name": "If the World Was Ending (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 208687,
-      "name": "If the World Was Ending (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2024-02-02 11:22:44",
-      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -943,6 +923,26 @@
     {
       "added_at": "2024-02-02 11:22:44",
       "album": {
+        "name": "If the World Was Ending (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 208687,
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "added_at": "2024-02-02 11:22:44",
+      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-02 11:22:44",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2024-02-02 11:22:44",
-      "album": {
         "name": "eyes don't lie",
         "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
+    },
+    {
+      "added_at": "2024-02-02 11:22:44",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2024-02-02 11:22:44",

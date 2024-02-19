@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,769 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,830 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 47 | [Baltimore Blues No\. 1](https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [War Elephant](https://open.spotify.com/album/2jMilAyC3RBmAoWr1JZ7MR) | 3:01 |
 | 48 | [Fake Empire](https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 3:25 |
 | 49 | [So Says I \- 2023 Remaster](https://open.spotify.com/track/1o2N62zvfbKfTNdmC8j5c9) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow \(20th Anniversary Remaster\)](https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB) | 2:48 |
-| 50 | [Each Coming Night](https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 3:27 |
-| 51 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
+| 50 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
+| 51 | [Each Coming Night](https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 3:27 |
 | 52 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
 | 53 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
 | 54 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 77 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 78 | [Cello Song Feat\. Jose Gonzales](https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Music For A French Elevator And Other Oddities](https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C) | 3:54 |
 | 79 | [The Modern Leper](https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 3:48 |
-| 80 | [The Ballad of Love and Hate](https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism \(Bonus Track Version\)](https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ) | 5:20 |
-| 81 | [You and I](https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 3:25 |
+| 80 | [You and I](https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 3:25 |
+| 81 | [The Ballad of Love and Hate](https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism \(Bonus Track Version\)](https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ) | 5:20 |
 | 82 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 |
 | 83 | [Teardrop](https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [In Our Nature](https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv) | 3:20 |
 | 84 | [This Tornado Loves You](https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Middle Cyclone](https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ) | 3:19 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 96 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
 | 97 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
 | 98 | [Inside Of Love](https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS) | 4:58 |
-| 99 | [Girl in the War](https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:23 |
+| 99 | [If I Were](https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Lookaftering](https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n) | 2:15 |
 | 100 | [I Am Trying to Break Your Heart](https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 6:58 |
 
-Snapshot ID: `MCw5YWRiZDJmOGZhOGQwZDAxNzNjY2VhZTI5NGU0ODBiYzgyNTA0Y2Yw`
+Snapshot ID: `MCw5ZDRhMTE4MWEyYmI4ZjRhNmEwNzg1NTY5MjBhZTFkNDE3MjAwMTZi`

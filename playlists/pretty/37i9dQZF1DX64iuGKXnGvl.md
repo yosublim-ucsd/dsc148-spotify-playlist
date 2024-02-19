@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,676 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,858 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 15 | [Sera Porque Te Amo](https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:10 |
 | 16 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
 | 17 | [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 |
-| 18 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 |
+| 18 | [Te Amo](https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 3:47 |
 | 19 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 |
 | 20 | [La Fuerza del Destino \(Live\)](https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical / Une Femme Avec Une Femme](https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J) | 5:10 |
-| 21 | [Te Amo](https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 3:47 |
+| 21 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 |
 | 22 | [Santa Lucia \- Remastered 2005](https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Rocanrol Bumerang](https://open.spotify.com/album/1YIw799VStxgysT27cUGwp) | 3:44 |
 | 23 | [Yo no te pido la luna \(Non voglio mica la luna\)](https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Amor prohibido](https://open.spotify.com/album/6rV8qvncvelhF14cffRfun) | 3:56 |
 | 24 | [Tan Enamorados \(Nina Bonita\)](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Haciendo Camino](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 49 | [Vamos a la Playa \- 1983](https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 3:37 |
 | 50 | [Toda la Vida](https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Mis Favoritas](https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d) | 4:47 |
 
-Snapshot ID: `MCwyOTE4MzBjNDVkOGQ4NzZmMThjMGU4OWFlMjg3ZWY4MWNlNzg2Yzgy`
+Snapshot ID: `MCwyNDIxNDQyYzc0MjExYjM5NzM1YTkwYjg3ZWMxODczZDYxOWQ5MTEz`

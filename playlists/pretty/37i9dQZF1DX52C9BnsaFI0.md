@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,810 likes - 70 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,927 likes - 70 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 16 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
 | 17 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
 | 18 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |
-| 19 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
-| 20 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 |
+| 19 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 |
+| 20 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
 | 21 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 |
 | 22 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 | 23 | [Changes \- 2015 Remaster](https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:37 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 42 | [Breakdown](https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:43 |
 | 43 | [Feel like Makin' Love \- 2015 Remaster](https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Straight Shooter](https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO) | 5:13 |
 | 44 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
-| 45 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 |
+| 45 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5DnT9a5IM3eMjKgXTWVJvi) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum](https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC) | 2:40 |
 | 46 | [Bohemian Rhapsody](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Stone Cold Classics](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 5:55 |
-| 47 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5DnT9a5IM3eMjKgXTWVJvi) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum](https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC) | 2:40 |
+| 47 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 |
 | 48 | [Wheel in the Sky](https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Infinity](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) | 4:12 |
 | 49 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 |
 | 50 | [Hollywood Nights](https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 5:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 69 | [Free Ride](https://open.spotify.com/track/4DhbiXEuV7JxSR0wuqetTa) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [They Only Come Out At Night](https://open.spotify.com/album/4CNEJF5wYGqhOYEKq8ciu8) | 3:07 |
 | 70 | [The Bitch Is Back \- Remastered 1995](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
 
-Snapshot ID: `MCw5YTNhMTg1OWM5MWUyNWJlMzY0MWMzNmEwYmMyNWNiNDExNDlhODNi`
+Snapshot ID: `MCxlMTYxZTUxZmIyYjMxNmRlOGRlNDRjYzNkNWU4OTY0YWZkMTA1OWYz`

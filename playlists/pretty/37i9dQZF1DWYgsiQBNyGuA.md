@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,548 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,578 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 31 | [Let My People Go](https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:58 |
 | 32 | [Ain't No Use](https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv) | 4:40 |
 | 33 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 |
-| 34 | [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 |
-| 35 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
+| 34 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
+| 35 | [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 |
 | 36 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 37 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
 | 38 | [Cornbread, Fish & Collard Greens](https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:33 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 58 | [Call My Name](https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [The SunRoom](https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N) | 4:31 |
 | 59 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
 | 60 | [Who Do You Think You Are](https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Land of Possibilities](https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc) | 3:44 |
-| 61 | [True](https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 4:46 |
+| 61 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 |
 | 62 | [Just The Two Of Us](https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Lean On Me \- The Songs Of Bill Withers \(Bonustrack Edition\)](https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh) | 4:20 |
-| 63 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 |
+| 63 | [True](https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 4:46 |
 | 64 | [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 |
 | 65 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
 | 66 | [All Your Love \- Single Edit](https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI) | [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [All Your Love](https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w) | 3:34 |
-| 67 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
-| 68 | [Question](https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU) | 4:22 |
-| 69 | [Movin' On](https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Movin' On](https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID) | 3:34 |
+| 67 | [Movin' On](https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Movin' On](https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID) | 3:34 |
+| 68 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
+| 69 | [Question](https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU) | 4:22 |
 | 70 | [Next To You](https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Next To You](https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl) | 3:34 |
 | 71 | [Feels So Good Don’t It](https://open.spotify.com/track/2zjgiDtc4dutzztejez29k) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Feels So Good \(Don’t It\)](https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg) | 3:29 |
 | 72 | [Stop By](https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 5:54 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 77 | [My Home \(Love Brings Us Here\)](https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [My Home \(Love Brings Us Here\) \- Single](https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB) | 3:33 |
 | 78 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
 | 79 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
-| 80 | [Oh No \(Man\)](https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Addiction](https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5) | 4:07 |
+| 80 | [Stand Up](https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Stand Up](https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn) | 2:55 |
 
-Snapshot ID: `MCw3NTk2YmE1ZTQ2ODk3OTdmMzQ2ZTBlZjJjNjY3NDZmN2IzMmZlZTZi`
+Snapshot ID: `MCw2ZmVmODk2ZjdjZWEyNGIyNTNhOGVjNzA4OTEyMGEwZjJjMWRjOGZh`

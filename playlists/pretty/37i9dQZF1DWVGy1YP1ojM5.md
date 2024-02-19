@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046,327 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,046,278 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 39 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 40 | [Vixen](https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:01 |
 | 41 | [Moonlight](https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:40 |
-| 42 | [Water](https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:02 |
-| 43 | [Stretch You Out \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
+| 42 | [Stretch You Out \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
+| 43 | [Water](https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:02 |
 | 44 | [Come Over \(feat\. Tank\)](https://open.spotify.com/track/28RaFrB9gSS48XXumZMobc) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 3:55 |
 | 45 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
 | 46 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 74 | [Best Ever \(feat\. Maeta\)](https://open.spotify.com/track/3bBJwS2VX6G0L4wnOtrYUS) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [11:11](https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL) | 2:32 |
 | 75 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
 
-Snapshot ID: `MCw4NjQ3MzczMjkxY2JhNzcwZTdmZDc1N2U4NGNiZmZiMzU2MTIwZmQ2`
+Snapshot ID: `MCwyODRlNmU4OTZiZWY4OGIxN2ZkNTg2YjRlYjg5YmJlZDdmOTQ1NjVl`

@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: pablopablo",
-  "num_followers": 25704,
+  "num_followers": 25710,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjljYTJmMzYxNDAyNDJjMjQ0YTdiNmU0ZmZkYTQ0MzYxMmExNDk3",
+  "snapshot_id": "MCwzMDljNzM5OThhZThkNzhmMzYxNzM4OTcxY2NiODNkNWNiNTRjMjA3",
   "tracks": [
     {
       "added_at": "2024-02-08 23:01:00",
@@ -119,8 +119,8 @@
     {
       "added_at": "2024-02-08 23:01:00",
       "album": {
-        "name": "pablopablo",
-        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
       },
       "artists": [
         {
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 97422,
-      "name": "Azul Zafiro",
-      "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
     },
     {
       "added_at": "2024-02-08 23:01:00",
@@ -243,8 +243,8 @@
     {
       "added_at": "2024-02-08 23:01:00",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+        "name": "pablopablo",
+        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+      "duration_ms": 97422,
+      "name": "Azul Zafiro",
+      "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
     },
     {
       "added_at": "2024-02-08 23:01:00",

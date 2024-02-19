@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 |
 | 100 | [Can't Judge a Book By It's Cover](https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Can't Judge a Book By It's Cover](https://open.spotify.com/album/3Doi1QZvtbTwiV1e4eNv4R) | 2:42 |
 
-Snapshot ID: `MCwzZTE5YzFhZGY3ZjNkZjA2YjdkMjA4NjgwY2RmOTE5ZWMxODZmYmZm`
+Snapshot ID: `MCw1ZjkyYmM1M2IxMjY0NTQ4MzIwNWNkNmQ5OTJiZDUxNTFjYTljNzJm`

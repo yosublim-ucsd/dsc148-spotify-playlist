@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,793 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,836 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 47 | [La Carta](https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 4:16 |
 | 48 | [Te Puedo Enamorar](https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [7](https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA) | 4:30 |
 | 49 | [Solo Es Otro Sabado](https://open.spotify.com/track/6ihRQHClQC49RuYNiTTbFH) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 2:42 |
-| 50 | [Sabor París \- Bossa Mix](https://open.spotify.com/track/0Xb0JauqscZOOnziPSQmJr) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 5:39 |
+| 50 | [Carmín](https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3) | [Yoru](https://open.spotify.com/artist/5Hbzj3FeAKHQMRZN3HfUwZ), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Carmín](https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh) | 2:58 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAwZjEzZDFmY2VkNzQ5OWNmNTRkNjEyOTBlMDJkMWE0Yg==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBmMWE2YjMzYmJmM2M3ZWEyOWFlMjFhY2UzMDQzMjdlOA==`

@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 825373,
+  "num_followers": 825453,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTAzNGZlMWRkMzQ1MjYwZWU1MDhkNzZmYzZkMjUzNGFiYWQ2NWQ4",
+  "snapshot_id": "MCw0Y2UzMmQxZTRlYmQ5MmFhOGZlY2ZjNTJhM2Y1NTNjMjhiYmVlM2I1",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Solteiro N\u00e3o Trai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 187349,
-      "name": "Solteiro N\u00e3o Trai - Ao Vivo",
-      "url": "https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Piseiro Sofr\u00eancia",
         "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
       },
@@ -695,22 +679,34 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Evoluiu",
-        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
+        "name": "Solteiro N\u00e3o Trai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 179644,
-      "name": "Evoluiu",
-      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
+      "duration_ms": 187349,
+      "name": "Solteiro N\u00e3o Trai - Ao Vivo",
+      "url": "https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Som No Talo",
+        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 175046,
+      "name": "Tap\u00e3o Na Raba",
+      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -755,18 +751,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Som No Talo",
-        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
+        "name": "Evoluiu",
+        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
       },
       "artists": [
         {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
         }
       ],
-      "duration_ms": 175046,
-      "name": "Tap\u00e3o Na Raba",
-      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
+      "duration_ms": 179644,
+      "name": "Evoluiu",
+      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
         "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 177826,
       "name": "A Culpa \u00e9 do Meu Grau (feat. Z\u00e9 Neto & Cristiano) - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7gL7YRproDW26eSk16yMbc"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Acabei de Terminar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 223489,
       "name": "Acabei de Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": "2023-11-17 03:01:00",

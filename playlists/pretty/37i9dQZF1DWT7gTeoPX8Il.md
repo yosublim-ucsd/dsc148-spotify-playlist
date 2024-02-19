@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,525 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,660 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 29 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 |
 | 30 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 |
 | 31 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 |
-| 32 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
-| 33 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 |
+| 32 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 |
+| 33 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
 | 34 | [Trauma](https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma](https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z) | 3:38 |
 | 35 | [Untuk Mencintaimu](https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Lelaki Hebat](https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9) | 3:29 |
 | 36 | [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 38 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
 | 39 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 |
 | 40 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 |
-| 41 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 |
-| 42 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 |
+| 41 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 |
+| 42 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 |
 | 43 | [Secukupnya](https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:25 |
 | 44 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 |
-| 45 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 |
-| 46 | [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 |
+| 45 | [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 |
+| 46 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 |
 | 47 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 |
 | 48 | [Bawalah Cintaku](https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:53 |
 | 49 | [Rumah Singgah](https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:06 |
 | 50 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 |
 
-Snapshot ID: `MCw5ZWQzNjFhMWI2OGM3OWFhOTMyNDY5NGZhMDkyODJjOGNlMTU0OWMy`
+Snapshot ID: `MCwwY2M1ODM0MDhhNTdmYmI0MzJlZWI5OWM3ZGQ5MWMwOWJlNzJkNWNk`

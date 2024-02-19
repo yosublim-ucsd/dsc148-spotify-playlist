@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 28510,
+  "num_followers": 28578,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDY4MmYyNGE3NjI2YmM2ZWRhYTEyNGVmMzAxYjJiMmJmMzFmMDll",
+  "snapshot_id": "MCwzMGZjZDRmZjA3YzEyOTU2ZTAwOWY1MjJkYmZmNzdiZTI0OTk5YjVk",
   "tracks": [
     {
       "added_at": "2024-02-01 09:52:32",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Boogie Stop Shuffle",
+      "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
         "name": "Bird And Diz (Expanded Edition)",
         "url": "https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 157306,
       "name": "Leap Frog - Take 11 / Take 6 / Master Take",
       "url": "https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Boogie Stop Shuffle",
-      "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 427266,
-      "name": "Lazy Bird - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB"
+      "duration_ms": 383560,
+      "name": "Seven Steps to Heaven",
+      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 383560,
-      "name": "Seven Steps to Heaven",
-      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
+      "duration_ms": 427266,
+      "name": "Lazy Bird - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Airegin",
-      "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Art Blakey & The Jazz Messengers",
         "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
-        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie Quintet",
-          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 428373,
-      "name": "Salt Peanuts",
-      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
+      "duration_ms": 266666,
+      "name": "Airegin",
+      "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -507,6 +491,22 @@
       "duration_ms": 280226,
       "name": "Limehouse Blues",
       "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
+        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Quintet",
+          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
+        }
+      ],
+      "duration_ms": 428373,
+      "name": "Salt Peanuts",
+      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
         "name": "The Best Of Horace Silver",
         "url": "https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Here Comes Louis Smith (Remastered)",
         "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 402546,
       "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 359933,
+      "name": "The Bridge - Remastered",
+      "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -659,22 +675,6 @@
       "duration_ms": 377039,
       "name": "Donna Lee",
       "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 359933,
-      "name": "The Bridge - Remastered",
-      "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Cornbread",
-        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 534000,
-      "name": "Our Man Higgins",
-      "url": "https://open.spotify.com/track/6Ay3xLmG2zLku1ZM0RytBc"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 594040,
       "name": "Be-Bop - Remastered 2001/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0RiMzV6y8RkOoVNBcMyvZx"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Cornbread",
+        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 534000,
+      "name": "Our Man Higgins",
+      "url": "https://open.spotify.com/track/6Ay3xLmG2zLku1ZM0RytBc"
     },
     {
       "added_at": "2024-02-01 09:52:32",

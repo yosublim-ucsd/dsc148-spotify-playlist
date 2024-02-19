@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,043 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,048 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 24 | [El Boton del Pantalon](https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [La Revancha del Burro](https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt) | 5:11 |
 | 25 | [Tiburon](https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [20 Exitos](https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei) | 5:02 |
 | 26 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 |
-| 27 | [El Toro](https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm) | 2:40 |
-| 28 | [River](https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR) | 4:12 |
+| 27 | [River](https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR) | 4:12 |
+| 28 | [El Toro](https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm) | 2:40 |
 | 29 | [La Chiflera](https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Date Brillo Cadenita](https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw) | 7:18 |
 | 30 | [Perfume](https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot \(Extended Version\)](https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu) | 3:12 |
 | 31 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
 | 32 | [La Vida Vale la Pena](https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF) | [Petrona Martinez](https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa) | [Bonito que Canta](https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr) | 4:19 |
 | 33 | [Qué Lástima](https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Qué Lástima](https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv) | 3:44 |
 | 34 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
-| 35 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 |
-| 36 | [Insecure](https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:11 |
-| 37 | [Sister 2 Sister](https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:15 |
+| 35 | [Sister 2 Sister](https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:15 |
+| 36 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 |
+| 37 | [Insecure](https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:11 |
 | 38 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 |
 | 39 | [Prende La Vela](https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambores y Cantos](https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh) | 4:48 |
 | 40 | [Juana Kalamidad](https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [13 razones](https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y) | 4:52 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 68 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
 | 69 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 | 70 | [Dale](https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Dale](https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ) | 2:50 |
-| 71 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |
-| 72 | [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 |
+| 71 | [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 |
+| 72 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |
 | 73 | [Fettuccine](https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 3:00 |
 | 74 | [7heaven](https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:53 |
 | 75 | [CHEAP WINE](https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CHEAP WINE](https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI) | 2:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 79 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
 | 80 | [Raka Party](https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Los Rakas](https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M) | 2:56 |
 
-Snapshot ID: `MCxjYzE4YjViOTg3MzVlYjliZTQ1YTc3Mjc1YTViNGViY2FmZDJlZDAz`
+Snapshot ID: `MCwxZmU1YWE0OGI0MTNlNWY2MGYxYjQyOTJkNzRiOTMwMzQzNGI5MWM4`

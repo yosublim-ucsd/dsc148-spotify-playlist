@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,019 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,056 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
 | 50 | [Melancholia VI](https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 2:15 |
 
-Snapshot ID: `MCxjOWYyNzMzNWE3OTE1Mzk0NmQ1MmI0OTFkYTAyYzE1N2NiN2FkYTMx`
+Snapshot ID: `MCw4OTVhY2RkMjY1YTM5ODNmZmU0YTg3NDE2ZjIxNzQ5M2FkOWYzZGQ0`

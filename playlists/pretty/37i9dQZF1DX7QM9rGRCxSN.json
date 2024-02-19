@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 29624,
+  "num_followers": 29636,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGFkZmUyNGIxMmRlY2E0NGY5ODQxMDc5OTdhYzhiNzdiODkzMWQ3",
+  "snapshot_id": "MCw1OTI0MGJmYzNiOWQ0ZmMyOTAzOThkZjg1ZjM3MmIyMDVlNTkyZGY4",
   "tracks": [
     {
       "added_at": "2024-02-02 05:19:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Jungla",
         "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 183080,
       "name": "Mapas",
       "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
     },
     {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Est\u00e1tica",
-        "url": "https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ"
-      },
-      "artists": [
-        {
-          "name": "Vondr\u00e9",
-          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Est\u00e1tica",
-      "url": "https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3"
-    },
-    {
       "added_at": "2023-05-05 06:00:00",
       "album": {
         "name": "Ausencia",
@@ -791,6 +775,22 @@
       "duration_ms": 100036,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Est\u00e1tica",
+        "url": "https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Est\u00e1tica",
+      "url": "https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3"
     },
     {
       "added_at": "2023-09-04 23:48:54",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PURPEECH",
+  "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
   "name": "RADAR Thailand 2023",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 196056,
       "name": "Flower",
       "url": "https://open.spotify.com/track/1kVLTBPnyHuBc3jVZccV6C"
@@ -212,6 +212,42 @@
       "duration_ms": 238000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/6qXCg8lIDRuquq0xgRzmU2"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/0MC4L4gQJqsyu2xa82U0wG"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1Q7vncRS2gtX9s41Ax5fgo"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244865,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG"
     },
     {
       "album": {
@@ -306,6 +342,28 @@
       "duration_ms": 253141,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU"
+    },
+    {
+      "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210322,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
     },
     {
       "album": {
@@ -526,7 +584,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
@@ -544,7 +602,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 236000,
       "name": "Stand By",
       "url": "https://open.spotify.com/track/5gKIQRJmfu3x9F4a9nIKrg"
@@ -782,7 +840,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 229736,
       "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e31\u0e19\u0e14\u0e35",
       "url": "https://open.spotify.com/track/6dJ87ZODacjSBUkayDNZgg"
@@ -1103,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e14\u0e08\u0e33 - Single",
+        "url": "https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334459,
+      "name": "\u0e08\u0e14\u0e08\u0e33",
+      "url": "https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e30\u0e1c\u0e48\u0e32\u0e19\u0e01\u0e35\u0e48\u0e27\u0e32\u0e40\u0e25\u0e19\u0e44\u0e17\u0e19\u0e4c\u0e41\u0e15\u0e48\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22\u0e01\u0e47\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
         "url": "https://open.spotify.com/album/3iwaSTaT06oZz4NvW4iasm"
       },
@@ -1211,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219878,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e44\u0e1b\u0e2b\u0e21\u0e14 (Way Too Cute)",
+      "url": "https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
         "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
       },
@@ -1226,6 +1320,24 @@
       "duration_ms": 225714,
       "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
       "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
+    },
+    {
+      "album": {
+        "name": "Space Shuttle No.8",
+        "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234661,
+      "name": "\u0e0b\u0e48\u0e2d\u0e19(\u0e44\u0e21\u0e48)\u0e2b\u0e32",
+      "url": "https://open.spotify.com/track/5nvdbRKg9fOixXotcZIQuF"
     },
     {
       "album": {
@@ -1352,7 +1464,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 229172,
       "name": "\u0e16\u0e49\u0e32\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5eov9qKm4v1r0f7zUL33yD"
@@ -1590,7 +1702,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 175783,
       "name": "\u0e1e\u0e1a\u0e1e\u0e32",
       "url": "https://open.spotify.com/track/5MIAP06QVqn3qUN8Xg3Hqy"
@@ -1662,7 +1774,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 215064,
       "name": "\u0e21\u0e35\u0e1c\u0e35\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1a\u0e34\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e17\u0e49\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/4Jld23F1idfTmcSqClD0re"
@@ -2072,7 +2184,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 260000,
       "name": "\u0e40\u0e02\u0e15\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
       "url": "https://open.spotify.com/track/796OGJlPA49xMfPVLxgZI5"
@@ -2375,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e1a\u0e1a\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e04\u0e22\u0e17\u0e33",
+        "url": "https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL"
+      },
+      "artists": [
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256923,
+      "name": "\u0e41\u0e1a\u0e1a\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e04\u0e22\u0e17\u0e33",
+      "url": "https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e1f\u0e19\u0e40\u0e01\u0e48\u0e32\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14",
         "url": "https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P"
       },
@@ -2494,7 +2624,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 197432,
       "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"
@@ -2552,10 +2682,28 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 236500,
       "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn"
+    },
+    {
+      "album": {
+        "name": "LONELY BOY",
+        "url": "https://open.spotify.com/album/1TGCarK6L1bZY71kkTi5p2"
+      },
+      "artists": [
+        {
+          "name": "The White Hair Cut",
+          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/75oQ0k1KVcmNzPwrY4KRga"
     },
     {
       "album": {

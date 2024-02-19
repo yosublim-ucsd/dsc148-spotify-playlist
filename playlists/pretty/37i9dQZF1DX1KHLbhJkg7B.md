@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,880 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,936 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 53 | [Summertime Blues](https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:12 |
 | 54 | [Paradise](https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Paradise](https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK) | 3:18 |
 | 55 | [Highwayman](https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:02 |
-| 56 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
-| 57 | [Much Too Young To Feel This Damn Old \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn) | 2:37 |
+| 56 | [Much Too Young To Feel This Damn Old \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn) | 2:37 |
+| 57 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
 | 58 | [Steal My Girl](https://open.spotify.com/track/5nraaaIIPnVoXFLcFA1MDJ) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:48 |
 | 59 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
 | 60 | [Margaritaville \(with Jimmy Buffett\)](https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Someone You Loved](https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Someone You Loved](https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5) | 2:51 |
 | 100 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
 
-Snapshot ID: `MCwwZjJhZjZkYTY0YmM2MWVjNzJjZmQ2MzYzZTAyZjk0ZDY0OTlmNTUx`
+Snapshot ID: `MCwxMjFmMjJkZDAwNzY4MDRkMWJlMWU5M2EwM2ExOTJiYzkyODQwMzEy`

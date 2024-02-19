@@ -4,7 +4,7 @@
 
 > Music from and inspired by Neflix's Malcolm & Marie.
 
-36 songs - 2 hr 32 min
+37 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Best Of William Bell](https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb) | 2:18 | 2021-01-22 |  |
 | [I'm Gonna Tear Your Playhouse Down](https://open.spotify.com/track/62i5IYsfk28UiViWTeEw2x) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:45 | 2021-01-22 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:15 | 2021-01-22 |  |
-| [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 | 2021-01-22 |  |
+| [Is It Any Wonder?](https://open.spotify.com/track/3sXAAkkejrZAs57QHjnuZf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 4:36 | 2021-01-22 |  |
+| [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 | 2021-01-22 | 2024-02-19 |
 | [Liberation \(with Cee\-Lo\)](https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 8:46 | 2021-01-22 |  |
 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:11 | 2021-01-22 |  |
 | [Mixed Up Moods and Attitudes](https://open.spotify.com/track/7kDE6spnyw98C7KHHnvbRP) | [The Fantastic Four](https://open.spotify.com/artist/17kU4eEW33U7UfY8JIOsBi) | [Got to Have Your Love / B.Y.O.F \(Bring Your Own Funk\)](https://open.spotify.com/album/1R9VomvhFkcQTlCsRNoEmJ) | 5:35 | 2021-01-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 230317,
+  "num_followers": 230471,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDFlYWQ5ZTBjODEyMmUwZTk2NzI4N2ZkOGI5MDE2ZDE2ZDcwMTE1",
+  "snapshot_id": "MCxmZDBiNjMyYTIzZWI3NjNkZDFlMTNmNDkzZjZkMzIzMWY2NmNjZWVl",
   "tracks": [
     {
       "added_at": "2022-12-07 21:09:44",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 238236,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
       "artists": [
         {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "No Te Voy A Perdonar, Vol. 4",
-        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 232609,
-      "name": "No Te Voy a Perdonar",
-      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "No Te Voy A Perdonar, Vol. 4",
+        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 232609,
+      "name": "No Te Voy a Perdonar",
+      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 233613,
       "name": "Porque te amo",
       "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Mama Cumbia",
+      "url": "https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 201333,
-      "name": "Mama Cumbia",
-      "url": "https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc"
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
       "added_at": "2022-12-30 17:21:35",
@@ -947,22 +963,6 @@
       "duration_ms": 287896,
       "name": "En Mi Escritorio (La Carta)",
       "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Y Es por Ti",
         "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 193146,
       "name": "Juana la Cubana",
       "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj"
     },
     {
       "added_at": "2022-12-30 17:21:35",
@@ -1827,38 +1827,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "La fuerza del amor",
-        "url": "https://open.spotify.com/album/2tYNffVWlffaeMgveN2bh3"
-      },
-      "artists": [
-        {
-          "name": "Santamarta",
-          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
-        }
-      ],
-      "duration_ms": 264179,
-      "name": "Una hoja en blanco",
-      "url": "https://open.spotify.com/track/18B1N1bw2A1v4FABZQzrsa"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Exitos Quemantes Vol. IV",
         "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
       },
@@ -1871,6 +1839,22 @@
       "duration_ms": 183440,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "La fuerza del amor",
+        "url": "https://open.spotify.com/album/2tYNffVWlffaeMgveN2bh3"
+      },
+      "artists": [
+        {
+          "name": "Santamarta",
+          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
+        }
+      ],
+      "duration_ms": 264179,
+      "name": "Una hoja en blanco",
+      "url": "https://open.spotify.com/track/18B1N1bw2A1v4FABZQzrsa"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "12 Super Exitos",
         "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
       },
@@ -1919,22 +1919,6 @@
       "duration_ms": 179762,
       "name": "El Viajecito",
       "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "17 Aniversario",
-        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 188943,
-      "name": "Adolescente y Bonita",
-      "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1955,6 +1939,22 @@
       "duration_ms": 180012,
       "name": "Cumbia Barulera",
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "17 Aniversario",
+        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 188943,
+      "name": "Adolescente y Bonita",
+      "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
       "artists": [
         {
-          "name": "Los Abelardos",
-          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 191059,
-      "name": "Por Unas Monedas",
-      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
+      "duration_ms": 192026,
+      "name": "Paloma Mensajera",
+      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
     }
   ],
   "unique_name": "Cumbias Viejitas",

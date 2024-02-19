@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "25 Corridos Explosivos",
+        "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167546,
+      "name": "El 24 De Junio",
+      "url": "https://open.spotify.com/track/1K8OcTGhqE2o4bjVWcSxP1"
+    },
+    {
+      "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 170586,
       "name": "El 24 de Junio",
       "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
@@ -800,7 +818,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 163613,
       "name": "Guarecita",
       "url": "https://open.spotify.com/track/0wHFB3V27Tf7dKtZnsgy4Z"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 146796,
       "name": "Para Ti No Tengo Un No",
       "url": "https://open.spotify.com/track/222kIss5L0jcGN7RK9TLgv"

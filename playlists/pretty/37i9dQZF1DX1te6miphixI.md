@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 
 > Grandes temas del rock de ayer y de hoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,153 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,218 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 | 33 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 |
 | 34 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
 | 35 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
-| 36 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
-| 37 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
+| 36 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
+| 37 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
 | 38 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 |
 | 39 | [Sweet Emotion](https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 |
 | 40 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 | 49 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
 | 50 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
 
-Snapshot ID: `MCxjYzk2NzZhYjM2Zjk4MzNmYTYzMzgyYTlmNTRmODNiMmU5MTk3MGFj`
+Snapshot ID: `MCxkMzYwZWE5MWVlYzFlY2Y5ZmM5OGJjMzRiMDQwOTNkOWMxMWM2ZDQw`

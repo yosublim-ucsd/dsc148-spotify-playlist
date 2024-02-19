@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 56019,
+  "num_followers": 56021,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDI1NGIzZmM4ZWVkZWFiYjkwZmNlNmVlMTVkM2E2NWJkN2E0NzNk",
+  "snapshot_id": "MCw4ZmFhOWEwNDJjNzdmY2VkY2U1OGZmNTViMGY0MGI0OTk4NGRhYTky",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Where Have U Been",
+        "url": "https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Xime Glo",
+          "url": "https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue"
+        }
+      ],
+      "duration_ms": 222957,
+      "name": "Where Have U Been",
+      "url": "https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Lunar Spirits",
         "url": "https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 399677,
       "name": "Lunar Spirits",
       "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Move My Body",
-        "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Ghost Lat1No",
-          "url": "https://open.spotify.com/artist/4opLmSGPdgBa0ZAhcLXyV5"
-        }
-      ],
-      "duration_ms": 274239,
-      "name": "Move My Body",
-      "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -971,26 +971,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Ayanami",
-        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
+        "name": "Move My Body",
+        "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
       },
       "artists": [
         {
-          "name": "Seith",
-          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
         },
         {
-          "name": "katsu energy",
-          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
-        },
-        {
-          "name": "B Kush",
-          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
+          "name": "Ghost Lat1No",
+          "url": "https://open.spotify.com/artist/4opLmSGPdgBa0ZAhcLXyV5"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Ayanami",
-      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
+      "duration_ms": 274239,
+      "name": "Move My Body",
+      "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1031,22 +1027,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Where Have U Been",
-        "url": "https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5"
+        "name": "Ayanami",
+        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "Seith",
+          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
         },
         {
-          "name": "Xime Glo",
-          "url": "https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue"
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "B Kush",
+          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
         }
       ],
-      "duration_ms": 222957,
-      "name": "Where Have U Been",
-      "url": "https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX"
+      "duration_ms": 147000,
+      "name": "Ayanami",
+      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 243762,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "\u00a1Bang Bang!",
         "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
       },
@@ -1379,18 +1359,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
       },
       "artists": [
         {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         }
       ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+      "duration_ms": 243762,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "This Generation",
         "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
       },
@@ -1423,30 +1423,6 @@
       "duration_ms": 172800,
       "name": "This Generation",
       "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "In You Arms",
-        "url": "https://open.spotify.com/album/59tmknYiQZ0bjuDppjPFHr"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "ML3NNON",
-          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
-        },
-        {
-          "name": "GeeKan",
-          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "In You Arms",
-      "url": "https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1471,6 +1447,30 @@
       "duration_ms": 137812,
       "name": "Brake Test",
       "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "In You Arms",
+        "url": "https://open.spotify.com/album/59tmknYiQZ0bjuDppjPFHr"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "ML3NNON",
+          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
+        },
+        {
+          "name": "GeeKan",
+          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "In You Arms",
+      "url": "https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Swap",
-        "url": "https://open.spotify.com/album/7vvgUkUWQe92TGMCRm1BQR"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Swap",
-      "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Just Leave The Past Behind",
         "url": "https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU"
       },
@@ -1631,26 +1611,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Agua Pa Beber",
-        "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
+        "name": "Swap",
+        "url": "https://open.spotify.com/album/7vvgUkUWQe92TGMCRm1BQR"
       },
       "artists": [
         {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
         },
         {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Gerardo Varela",
-          "url": "https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny"
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
         }
       ],
-      "duration_ms": 150966,
-      "name": "Agua Pa Beber",
-      "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+      "duration_ms": 153750,
+      "name": "Swap",
+      "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1679,6 +1655,30 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Agua Pa Beber",
+        "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Gerardo Varela",
+          "url": "https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny"
+        }
+      ],
+      "duration_ms": 150966,
+      "name": "Agua Pa Beber",
+      "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "San Junipero Remixes Vol. 1",
         "url": "https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x"
       },
@@ -1695,26 +1695,6 @@
       "duration_ms": 195692,
       "name": "San Junipero (Usb Gad Remix)",
       "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1739,22 +1719,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme"
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1799,22 +1779,46 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Filosof\u00eda",
-        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/1fRYEitkWXzm7eahpzX0ll"
       },
       "artists": [
         {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
         },
         {
-          "name": "Johan",
-          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
+          "name": "Atm\u00ebn",
+          "url": "https://open.spotify.com/artist/1Yhyrgpjks2m1yI2c7aIZf"
+        },
+        {
+          "name": "MaQui",
+          "url": "https://open.spotify.com/artist/0LiSEfi7u1vXziSuYH6l2q"
         }
       ],
-      "duration_ms": 180918,
-      "name": "Filosof\u00eda",
-      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
+      "duration_ms": 190645,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
     }
   ],
   "unique_name": "mint MX",

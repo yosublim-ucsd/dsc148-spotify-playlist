@@ -1,12 +1,12 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 17116,
+  "num_followers": 17169,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzc3YzEyNzQ0ZWM5YWI5YTBmMTk1ZTI2ZDRlYjQwZjlmNzQzM2Fk",
+  "snapshot_id": "MCxhMDE3MDAzNTUwOWQ4NzgwNDYwY2YxNmIzODc2ZjQzNTc1YWMzN2E0",
   "tracks": [
     {
       "added_at": "2023-11-09 00:38:36",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Manos de Tijera",
         "url": "https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 230112,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "De Verdad (15 Super Exitos)",
         "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 297053,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Que Levante La Mano",
-      "url": "https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "En Tiempo De Amor",
         "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 275893,
       "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
       "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Que Levante La Mano",
+      "url": "https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+      "duration_ms": 180480,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Sin Escencia",
         "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 195960,
       "name": "Sin Escencia",
       "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Las batallas",
-      "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "El Baile de San Juan",
         "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 254375,
       "name": "El Baile de San Juan",
       "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Caf\u00e9 Tacvba",
+        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Las batallas",
+      "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Chilanga banda",
-      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
         "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
+      "duration_ms": 212066,
+      "name": "Chilanga banda",
+      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1783,6 +1767,22 @@
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 297293,
-      "name": "Rumba Quimbumba",
-      "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Suena Perreo",
         "url": "https://open.spotify.com/album/3TwLgYFKn6hC7nHqjxi3Kj"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 205408,
       "name": "Suena Perreo",
       "url": "https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 297293,
+      "name": "Rumba Quimbumba",
+      "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Folklore Tropical",
-        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Ratle Cha Cha",
         "url": "https://open.spotify.com/album/1hGReQpgvKz0fAJ8PN1vdw"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 218437,
       "name": "Ratle Cha Cha",
       "url": "https://open.spotify.com/track/3x0Bl5xgbUS9IAGtbxCsqJ"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Folklore Tropical",
+        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Anda Borracho Pancho",
-        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
-      },
-      "artists": [
-        {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
-        }
-      ],
-      "duration_ms": 302091,
-      "name": "Anda Borracho Pancho",
-      "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Anda Borracho Pancho",
+        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
+      },
+      "artists": [
+        {
+          "name": "Sam Sam",
+          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
+        }
+      ],
+      "duration_ms": 302091,
+      "name": "Anda Borracho Pancho",
+      "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
     }
   ],
   "unique_name": "Coraz\u00f3n Chilango",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > monochrome bliss\. Cover: Matty Healy in the "Robbers" music video from The 1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,649 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,800 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 35 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 |
 | 36 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 37 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 |
-| 38 | [Team](https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:13 |
-| 39 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
+| 38 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
+| 39 | [Team](https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:13 |
 | 40 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 41 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 42 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 66 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 |
 | 67 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
 | 68 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
-| 69 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
+| 69 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 70 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
-| 71 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
+| 71 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 | 72 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
 | 73 | [Mr\. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:54 |
 | 74 | [Come a Little Closer](https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:49 |
 | 75 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 
-Snapshot ID: `MCwyMThkMWY1Y2JjOGY2ZDFhN2RmMjAyMmY2N2U0YThhZWFkYWIwZGZm`
+Snapshot ID: `MCwzM2E2NzEwMzA3ZGVlZmE3NzJkNjZhNjE4MWI2NWQzNWFlZDkzYWY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 
 > For those who like to party hard!
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,238 likes - 90 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,442 likes - 90 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 18 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
 | 19 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
 | 20 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 |
-| 21 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 |
-| 22 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 21 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 22 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 |
 | 23 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
 | 24 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 |
 | 25 | [Radio](https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:37 |
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 30 | [Metalingus](https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:19 |
 | 31 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 |
 | 32 | [Suite\-Pee](https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:31 |
-| 33 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:32 |
-| 34 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
+| 33 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 |
+| 34 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:32 |
 | 35 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 |
-| 36 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 |
+| 36 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 37 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
 | 38 | [MANTRA](https://open.spotify.com/track/060RNnzoMay3wKJek1faPc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:53 |
 | 39 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 |
 | 40 | [The Trooper \(2015 Remaster\)](https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66) | 4:12 |
 | 41 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
-| 42 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 |
-| 43 | [I Want Out](https://open.spotify.com/track/5ObemyuL5dhT67hyz1iWlA) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pts\. I & II \(Deluxe Edition\)](https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5) | 4:40 |
+| 42 | [I Want Out](https://open.spotify.com/track/5ObemyuL5dhT67hyz1iWlA) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pts\. I & II \(Deluxe Edition\)](https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5) | 4:40 |
+| 43 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 |
 | 44 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
 | 45 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
 | 46 | [The Metal](https://open.spotify.com/track/3pYKJaLiixRcDFfcNhxZKK) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [The Pick Of Destiny](https://open.spotify.com/album/3tYcwViLCWsT1ssa5p7V7A) | 2:45 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 79 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
 | 80 | [Blind](https://open.spotify.com/track/3ZMl928I7XK73u7CT6yrfK) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Flawed Design](https://open.spotify.com/album/1mIKXNfCh0SNefV65SRsId) | 4:09 |
 | 81 | [Breaking The Chains](https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu) | 3:51 |
-| 82 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 |
-| 83 | [Down To Hell](https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:16 |
-| 84 | [Slave to the Grind](https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 3:28 |
+| 82 | [Slave to the Grind](https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 3:28 |
+| 83 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 |
+| 84 | [Down To Hell](https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:16 |
 | 85 | [Viva La Victoria](https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Viva La Victoria](https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A) | 3:11 |
 | 86 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
 | 87 | [Children of the Next Level](https://open.spotify.com/track/5qC1Ly7Ec3fVxVbdpsLh7H) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:13 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 89 | [Here Comes The Boom](https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83) | 4:11 |
 | 90 | [Th1rt3en or Nothing](https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Four by Four](https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK) | 3:45 |
 
-Snapshot ID: `MCw1MmUyNGNkMGU0OWVmMGUwM2ZkMTc3NDUyMDYzYmM2MDQwOWY0ZWYy`
+Snapshot ID: `MCw5ZDg1MzhiNmZlNTgzYzdlMjIyYTBhMGUxMmM2NjNlZWE4MWU1MzA2`

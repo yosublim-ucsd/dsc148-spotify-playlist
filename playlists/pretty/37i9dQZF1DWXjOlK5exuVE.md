@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Eden Muñoz, Los Tucanes de Tijuana y Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,169 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,326 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 | 4 | [Chica La Bola](https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Chica La Bola](https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ) | 2:53 |
 | 5 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 |
 | 6 | [El Toro Encartado](https://open.spotify.com/track/572KOXYeHP69vqpcgvOKGh) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:46 |
-| 7 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 |
+| 7 | [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 |
 | 8 | [El Envidioso](https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:11 |
 | 9 | [Gente De Accionar](https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Si Lo Digo Es Porque Puedo](https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR) | 2:52 |
 | 10 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 | 149 | [Escuela de rancho \- En Vivo](https://open.spotify.com/track/29CUZN81Hjnn6wf6F6KYQg) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Escuela de rancho \(En Vivo\)](https://open.spotify.com/album/3PbdSYSoTRS2R0x4NcjgWx) | 3:24 |
 | 150 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
 
-Snapshot ID: `MCxkMTE3N2UwNTI0M2YxMzQ0ZWViNDk5Njk1MDRkMjk3NTk2NTUwNTQ2`
+Snapshot ID: `MCxkMGYzNTRlNzEyY2IzNjJjMTc2YTE1ZmIxZjI3MWJlOWJlNjkxZTAw`

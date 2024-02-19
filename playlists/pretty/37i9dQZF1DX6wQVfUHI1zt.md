@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,521 likes - 120 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,561 likes - 120 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 68 | [Tú, Solo Tú](https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:12 |
 | 69 | [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 |
 | 70 | [Que Creías](https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:34 |
-| 71 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 7:43 |
-| 72 | [Llegaste A Mi Vida](https://open.spotify.com/track/03vaFs8JbKg27yTKZshM55) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:33 |
+| 71 | [Llegaste A Mi Vida](https://open.spotify.com/track/03vaFs8JbKg27yTKZshM55) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:33 |
+| 72 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 7:43 |
 | 73 | [Ya Ves](https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:16 |
 | 74 | [Bidi Bidi Bom Bom \- 1994 Version](https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:30 |
 | 75 | [La Rosa](https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:04 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 88 | [Sueña](https://open.spotify.com/track/6LsysQAxBx5PVMbufJeqY9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:15 |
 | 89 | [Missing My Baby](https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:51 |
 | 90 | [Techno Cumbia](https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 3:46 |
-| 91 | [Fotos Y Recuerdos](https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 2:35 |
-| 92 | [Enséñame A Olvidarte](https://open.spotify.com/track/0shtd9B4bdC8Nf4hw5Ii7k) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:22 |
+| 91 | [Enséñame A Olvidarte](https://open.spotify.com/track/0shtd9B4bdC8Nf4hw5Ii7k) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:22 |
+| 92 | [Fotos Y Recuerdos](https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 2:35 |
 | 93 | [Eso Duele](https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:16 |
 | 94 | [Te Voy A Amar](https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:56 |
 | 95 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
@@ -107,9 +107,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 97 | [I Could Fall In Love](https://open.spotify.com/track/3BK927dUqOGro6GtXO3e2S) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 4:41 |
 | 98 | [Costumbres](https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:49 |
 | 99 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
-| 100 | [Un Golpe De Suerte](https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:23 |
-| 101 | [Soy Como Soy](https://open.spotify.com/track/2f4lwJsQthBA4llWziNlqL) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:47 |
-| 102 | [Donde Quiera Que Estés](https://open.spotify.com/track/6K5i3URnbbwXgwPUczeoWQ) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 4:33 |
+| 100 | [Donde Quiera Que Estés](https://open.spotify.com/track/6K5i3URnbbwXgwPUczeoWQ) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 4:33 |
+| 101 | [Un Golpe De Suerte](https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:23 |
+| 102 | [Soy Como Soy](https://open.spotify.com/track/2f4lwJsQthBA4llWziNlqL) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:47 |
 | 103 | [Cobarde](https://open.spotify.com/track/4vDu0mEddDoqHpn6f6lMyh) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:49 |
 | 104 | [Como La Flor \- Remastered](https://open.spotify.com/track/1W35GFblfAKr7TpHPXfSjk) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Mejores Canciones: 17 Super Exitos](https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95) | 3:04 |
 | 105 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 119 | [No Te Olvidaré](https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:09 |
 | 120 | [Vuelvo](https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Basico](https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC) | 4:15 |
 
-Snapshot ID: `MCxjYjFjMzk3MDRhYjAyNGMxMzFkYTAzYjk2YWNiNjNlMzA1YWJiN2Ez`
+Snapshot ID: `MCxiMmM4ZTNiMDA4ZDZmN2E1YWE0MzA3Yzk4Y2ZmNWQ4NDQyZWY2MTBl`

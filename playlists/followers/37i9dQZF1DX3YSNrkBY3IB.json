@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 74970,
+  "2024-02-19": 75016,
   "date_first_scraped": "2022-05-26",
   "description": "Check out these hip-hop classics that are great for the whole family.",
   "name": "Clean Hip-Hop Classics",
@@ -637,6 +637,10 @@
         {
           "name": "Fugees",
           "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
         }
       ],
       "date_added": "2021-03-19",

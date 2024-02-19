@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 670148,
+  "num_followers": 670219,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQxYjQwYjg1YWIxNjA2MDJjZjA2YWYyNGY1YjRjOTIwMTA1NDMz",
+  "snapshot_id": "MCw5M2NhZjIyNzY5OTg4ZjFlYjllNTU1YjgyN2YzY2NjZWRmYzc5NDM3",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
-      },
-      "artists": [
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Fashion Nugget",
         "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 310333,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
+      },
+      "artists": [
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 252355,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Temple of Love (feat. VV)",
         "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 204759,
       "name": "Temple of Love (feat. VV)",
       "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 252355,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 302736,
-      "name": "Creep - Spotify Singles",
-      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Decade II: Rock & Acoustic",
         "url": "https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 198545,
       "name": "Numb (Acoustic)",
       "url": "https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 302736,
+      "name": "Creep - Spotify Singles",
+      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
-      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2060,22 +2060,6 @@
       "added_at": "2024-02-12 05:08:07",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 284935,
-      "name": "The Only Exception - Spotify Single",
-      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
       "artists": [
@@ -2091,6 +2075,22 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 284935,
+      "name": "The Only Exception - Spotify Single",
+      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "The Masterplan (Remastered Edition)",
+        "url": "https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 385293,
+      "name": "I Am The Walrus \u2013 Live Glasgow Cathouse June '94 - Remastered",
+      "url": "https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "The Masterplan (Remastered Edition)",
-        "url": "https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 385293,
-      "name": "I Am The Walrus \u2013 Live Glasgow Cathouse June '94 - Remastered",
-      "url": "https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2403,26 +2403,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "White Room (feat. Jacoby Shaddix)",
-        "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
-        }
-      ],
-      "duration_ms": 245757,
-      "name": "White Room (feat. Jacoby Shaddix)",
-      "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Mississippi Queen/Slow Hand",
         "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
       },
@@ -2451,6 +2431,26 @@
       "duration_ms": 213878,
       "name": "ROCKIN' IN THE FREE WORLD",
       "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "White Room (feat. Jacoby Shaddix)",
+        "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
+        }
+      ],
+      "duration_ms": 245757,
+      "name": "White Room (feat. Jacoby Shaddix)",
+      "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
     },
     {
       "added_at": "2024-02-12 05:08:07",

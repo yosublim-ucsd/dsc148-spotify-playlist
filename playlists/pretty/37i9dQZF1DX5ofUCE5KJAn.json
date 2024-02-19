@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 182380,
+  "num_followers": 182402,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGY5NTcyNzM5YzNmMDllZDU2ODY0NjA3MTJmZDdiNTcyNDBkYzFi",
+  "snapshot_id": "MCwxNjhjODdiYTRhN2NiNTliOGE3N2E3OTcxOGM1NDdkNzQyNTRiZTEz",
   "tracks": [
     {
       "added_at": "2023-08-08 22:27:59",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -735,6 +735,22 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "FAVORITAS CON AMOR Vol. 2",
+        "url": "https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -811,6 +827,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -823,22 +855,6 @@
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "FAVORITAS CON AMOR Vol. 2",
-        "url": "https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Mejor As\u00ed",
         "url": "https://open.spotify.com/album/0fa1WYDpSKEHiCj3YTtsDq"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "A Todo Galope",
+        "url": "https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
+      "duration_ms": 176533,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1591,22 +1607,6 @@
       "duration_ms": 191880,
       "name": "Me Extra\u00f1o",
       "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "A Todo Galope",
-        "url": "https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 176533,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "La Loca (En Vivo)",
         "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
       },
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "100 A\u00f1os",
         "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
       },
@@ -1939,34 +1955,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
+      "duration_ms": 190840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1987,6 +1987,22 @@
       "duration_ms": 183724,
       "name": "Mi Reca\u00edda en Los Excesos",
       "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -2027,18 +2043,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 190840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -2059,26 +2079,6 @@
       "duration_ms": 222820,
       "name": "Secuestro De Amor",
       "url": "https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2023-08-08 22:27:59",

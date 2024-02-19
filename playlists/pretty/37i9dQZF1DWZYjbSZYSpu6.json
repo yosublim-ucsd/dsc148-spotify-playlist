@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: BAEKHO, Park Ji Won)",
-  "num_followers": 388698,
+  "num_followers": 388726,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWU3NWZkNDdiMGNlOTYzNzcxMjI2NWFkODUyYjgyNWI2NWJiMjIx",
+  "snapshot_id": "MCwwZDI2MDJkYjYwOGYyZTdmYTA2YzYxMTExZTA4OWVjMGFhNTA2Mjli",
   "tracks": [
     {
       "added_at": "2023-12-15 07:20:29",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-12-15 07:20:29",
       "album": {
-        "name": "Song Request (feat. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Song Request (feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
-    },
-    {
-      "added_at": "2023-12-15 07:20:29",
-      "album": {
         "name": "When I Get Old",
         "url": "https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 184732,
       "name": "When I Get Old",
       "url": "https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y"
+    },
+    {
+      "added_at": "2023-12-15 07:20:29",
+      "album": {
+        "name": "Song Request (feat. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Song Request (feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
     },
     {
       "added_at": "2023-12-15 07:20:29",

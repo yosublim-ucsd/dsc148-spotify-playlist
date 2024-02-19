@@ -1,12 +1,12 @@
 {
   "description": "music, waves, friends and a good time.",
-  "num_followers": 10473,
+  "num_followers": 10488,
   "original_name": "Fiesta en Bote",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OThmMGE5Y2Y0M2NmM2M2YTA0M2EwMGUzNGJjZWJiZGRhMTYwMjVm",
+  "snapshot_id": "MCxhZWRlNmUxYWM0ODdlMGU2MWZmMWM1MWRmNWM2MGMwMmRmYTM4MWYx",
   "tracks": [
     {
       "added_at": "2024-02-13 15:28:11",
@@ -303,42 +303,6 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
-        "name": "SIXDO",
-        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 168133,
-      "name": "CHORRITO PA LAS ANIMAS",
-      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -359,6 +323,42 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 168133,
+      "name": "CHORRITO PA LAS ANIMAS",
+      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 232019,
-      "name": "Yo Voy (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 198666,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 232019,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -767,6 +767,30 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
+      "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -835,30 +859,6 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 205144,
-      "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
-      "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -915,6 +915,30 @@
       "duration_ms": 186426,
       "name": "Girl",
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 295176,
+      "name": "Safaera",
+      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -991,26 +1015,26 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Yankee 150",
+        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 295176,
-      "name": "Safaera",
-      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
+      "duration_ms": 242667,
+      "name": "Yankee 150",
+      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -1043,30 +1067,6 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
-        "name": "Yankee 150",
-        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 242667,
-      "name": "Yankee 150",
-      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
         "name": "BONITA",
         "url": "https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO"
       },
@@ -1295,26 +1311,6 @@
       "duration_ms": 169842,
       "name": "BONITA",
       "url": "https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -1339,6 +1335,26 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 188894,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+      "duration_ms": 293106,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -1663,22 +1679,6 @@
       "duration_ms": 209135,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 293106,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
     },
     {
       "added_at": "2024-02-13 15:28:11",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-02-13 15:28:11",
       "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2024-02-13 15:28:11",
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
-    },
-    {
-      "added_at": "2024-02-13 15:28:11",
-      "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2024-02-13 15:28:11",

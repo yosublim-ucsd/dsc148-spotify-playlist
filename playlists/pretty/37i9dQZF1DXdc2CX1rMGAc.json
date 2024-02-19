@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 181527,
+  "num_followers": 181644,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODUwZGU5NzkxZjJlZTRhYTdhYjhlNWQ2YWJhNDhhN2UzOTc2ODgx",
+  "snapshot_id": "MCwxNGUwNWYzMzIzZDVlM2RkMWU5Y2UxNzczYzRjYTllYTQyM2Y0OWUx",
   "tracks": [
     {
       "added_at": "2024-01-03 16:17:56",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "CLASSY 101",
-        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "CLASSY 101",
-      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
+        "name": "CLASSY 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "SIXDO",
-        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 168133,
-      "name": "CHORRITO PA LAS ANIMAS",
-      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -563,22 +547,18 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+      "duration_ms": 168133,
+      "name": "CHORRITO PA LAS ANIMAS",
+      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -603,6 +583,26 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 232019,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -1051,18 +1067,26 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 232019,
-      "name": "Yo Voy (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -1087,30 +1111,6 @@
       "duration_ms": 275040,
       "name": "Coraz\u00f3n Roto - Remix",
       "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174942,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -1371,34 +1371,6 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "T\u00e1 OK (Remix)",
-        "url": "https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "T\u00e1 OK (Remix)",
-      "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
         "name": "Yandel 150",
         "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
       },
@@ -1431,6 +1403,34 @@
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
+        "name": "T\u00e1 OK (Remix)",
+        "url": "https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 171760,
+      "name": "T\u00e1 OK (Remix)",
+      "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "AHORA QU\u00c9",
-      "url": "https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
         "name": "SABIDURIA",
         "url": "https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 173389,
       "name": "Gogo Dance",
       "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "AHORA QU\u00c9",
+      "url": "https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "VISTA AL MAR",
+        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 180672,
+      "name": "VISTA AL MAR",
+      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -2527,22 +2543,6 @@
       "duration_ms": 248768,
       "name": "RUMBAT\u00d3N",
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "VISTA AL MAR",
-        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 180672,
-      "name": "VISTA AL MAR",
-      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -2611,30 +2611,6 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 182413,
-      "name": "BOMB\u00d3N",
-      "url": "https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -2711,6 +2687,30 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "BOMB\u00d3N",
+      "url": "https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -2755,6 +2755,26 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 267016,
+      "name": "La F\u00f3rmula",
+      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "Back To Reggaeton",
         "url": "https://open.spotify.com/album/1fmzd3wNIyYbeH2mTDnLNh"
       },
@@ -2775,26 +2795,6 @@
       "duration_ms": 241921,
       "name": "SANDUNGA",
       "url": "https://open.spotify.com/track/7C19B0faFkwBzfS5yHg1bF"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 267016,
-      "name": "La F\u00f3rmula",
-      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -2907,6 +2907,26 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "The Love & Sex Tape",
+        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "Nos Comemos Vivos",
+      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -2943,26 +2963,6 @@
       "duration_ms": 139728,
       "name": "Eso E",
       "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "The Love & Sex Tape",
-        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Nos Comemos Vivos",
-      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
     },
     {
       "added_at": "2024-01-03 16:17:56",

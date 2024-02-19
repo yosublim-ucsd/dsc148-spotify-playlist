@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,754 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,750 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 65 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 |
 | 66 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
 | 67 | [CUKI](https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:45 |
-| 68 | [Me Gusta Tu Flow](https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Me Gusta Tu Flow](https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W) | 2:57 |
-| 69 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
+| 68 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
+| 69 | [Me Gusta Tu Flow](https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Me Gusta Tu Flow](https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W) | 2:57 |
 | 70 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |
 | 71 | [Mayor Que Usted](https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Usted](https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W) | 3:53 |
 | 72 | [CANTO A LA VIDA](https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [CANTO A LA VIDA](https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 99 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 |
 | 100 | [ARCHIVO 1.wav](https://open.spotify.com/track/3t7n87HvJDzsJqadkISqUE) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [CARPETA DE VERANO \(VOL\. 1\)](https://open.spotify.com/album/09rh3FOkytsok3CPyKuRSh) | 2:18 |
 
-Snapshot ID: `MCxjNTljM2Y1YTI4MWY0Y2Q5Y2RkOTYyZmJmZDRlOGU1ZDRhYmZlNGM5`
+Snapshot ID: `MCw4MjAzYzM0OTgwODg5YzZiYzFmODQxZjkwZjM3YThkNDdjOTc2NDBm`

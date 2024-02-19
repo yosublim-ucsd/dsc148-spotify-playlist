@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,942 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,088 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 10 | [Say It](https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:57 |
 | 11 | [Often](https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:09 |
 | 12 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 |
-| 13 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
-| 14 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
-| 15 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
+| 13 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
+| 14 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
+| 15 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 16 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:20 |
 | 17 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
 | 18 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 79 | [First](https://open.spotify.com/track/64ZUFfGyxeHvfQ1EHJf3Pp) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [The Answers](https://open.spotify.com/album/0xU39IVVOseJrIHwSGJvBI) | 3:26 |
 | 80 | [A Muse](https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:42 |
 
-Snapshot ID: `MCw5OTNlODZiYzMxMjM3N2VlODBiY2RiNmMwNGViYjlkZTYwYWYzN2Qy`
+Snapshot ID: `MCw2MzYzMDcxNWUzNzYwNzcxM2JkZTJjOTVjYTY2NWE2ODU5MTc2Mjk4`

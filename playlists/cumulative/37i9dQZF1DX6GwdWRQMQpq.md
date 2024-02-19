@@ -4,7 +4,7 @@
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla
 
-466 songs - 21 hr 7 min
+467 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Isabel Marant](https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 1:37 | 2023-09-01 | 2023-09-09 |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-29 | 2024-02-10 |
 | [Issa Photoshoot](https://open.spotify.com/track/49MICz2iDO0E4suYyVYr62) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Issa Photoshoot](https://open.spotify.com/album/2e4aU3kX5YwcF1e52ZXeF0) | 2:24 | 2022-10-21 | 2022-12-10 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-06 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-06 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-16 |  |
 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 | 2022-04-15 | 2022-11-26 |
 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 | 2023-09-01 | 2023-10-14 |
 | [Join Em](https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:50 | 2022-03-04 | 2022-03-18 |

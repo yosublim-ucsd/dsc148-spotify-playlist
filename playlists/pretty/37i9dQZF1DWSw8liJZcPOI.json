@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 65787,
+  "num_followers": 65947,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGMwMjY4NzhmNzk3ZjVkMTM0MGIzNDQ3OTY2YjcxZGEwYTgyYmZl",
+  "snapshot_id": "MCwzMTlkMjUzZDA2MjU0ZmY5MGZiNjJjOTRlMTc1ZGRiMWExNjY5MmRk",
   "tracks": [
     {
       "added_at": "2024-02-09 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "The Turning Year",
         "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 160089,
       "name": "The Turning Year",
       "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Over The Pines (from the Motion Picture \"Land\")",
-        "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
-      },
-      "artists": [
-        {
-          "name": "Ben Sollee",
-          "url": "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
-        },
-        {
-          "name": "Time For Three",
-          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "Over The Pines",
-      "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Coalescence",
         "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 146651,
       "name": "Coalescence",
       "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Over The Pines (from the Motion Picture \"Land\")",
+        "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
+      },
+      "artists": [
+        {
+          "name": "Ben Sollee",
+          "url": "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
+        },
+        {
+          "name": "Time For Three",
+          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "Over The Pines",
+      "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -791,22 +791,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Footsteps",
-        "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
       },
       "artists": [
         {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
         }
       ],
-      "duration_ms": 189026,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
+      "duration_ms": 218333,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -827,22 +827,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
+        "name": "Footsteps",
+        "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
         },
         {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
+      "duration_ms": 189026,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Circle 29",
         "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 178951,
       "name": "Circle 29",
       "url": "https://open.spotify.com/track/2UKUuA0JShtW9xmnUSqtJx"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
-      },
-      "artists": [
-        {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "A Tiny Ripple That Becomes A Giant Wave",
         "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Sweet Coast",
+        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 153041,
+      "name": "Sweet Coast",
+      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Notes of Longing",
         "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 141500,
       "name": "Lost Time - Strings Version",
       "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Sweet Coast",
-        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 153041,
-      "name": "Sweet Coast",
-      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Tranquillant",
+        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Tranquillant",
+      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Tranquillant",
-        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
+        "name": "Fragmente",
+        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 173373,
-      "name": "Tranquillant",
-      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
+      "duration_ms": 213859,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/13j8daEIHjVbfXSIAf38EZ"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Fragmente",
-        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
+        "name": "Woven Song",
+        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
       },
       "artists": [
         {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 213859,
-      "name": "Opal",
-      "url": "https://open.spotify.com/track/13j8daEIHjVbfXSIAf38EZ"
+      "duration_ms": 190283,
+      "name": "Woven Song",
+      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1739,22 +1755,6 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Woven Song",
-        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 190283,
-      "name": "Woven Song",
-      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
     },
     {
       "added_at": "2024-02-09 04:00:00",

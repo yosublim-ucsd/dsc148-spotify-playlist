@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 194219,
+  "num_followers": 194350,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGMwZjM4MTY1Mzc4MTJhM2QxZjNiYjQ2MWNkOTY2Y2M1OTI2NGYz",
+  "snapshot_id": "MCw5OWJkZDRjOGU5OTM1MjkxYWExNzAzMTE1OTE1NjViZTQxNTkzZTRh",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "How Sweet It Is To Be Loved By You",
-        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -575,6 +575,26 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "For Your Sweet Love",
         "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 163680,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -739,22 +739,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "It Might As Well Be Swing",
-        "url": "https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH"
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         },
         {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
         }
       ],
-      "duration_ms": 149640,
-      "name": "Fly Me To The Moon (In Other Words)",
-      "url": "https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB"
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -775,22 +775,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
+        "name": "It Might As Well Be Swing",
+        "url": "https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         },
         {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+      "duration_ms": 149640,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion",
-      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
         "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 182573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
     },
     {
       "added_at": "2022-05-30 13:02:24",

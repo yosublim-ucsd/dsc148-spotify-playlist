@@ -5404,10 +5404,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 170866,
       "name": "Roots Rock",
       "url": "https://open.spotify.com/track/0PmOYjOQKDc9p0I1fqbMJW"
+    },
+    {
+      "album": {
+        "name": "Amsterdam Dub and Bud - The Greatest Reggae Collection Ever",
+        "url": "https://open.spotify.com/album/5e54vzExzGBEQk7Q0k8f2I"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "Roots Rock",
+      "url": "https://open.spotify.com/track/25Qb39p8PvVfMzIxBI1uoK"
     },
     {
       "album": {

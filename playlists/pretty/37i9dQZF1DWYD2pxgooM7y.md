@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > Summertime sadness everyday
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,803 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,815 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 44 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 45 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 46 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 |
-| 47 | [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 |
-| 48 | [Burn](https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:51 |
+| 47 | [Burn](https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:51 |
+| 48 | [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 |
 | 49 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
 | 50 | [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 |
-| 51 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
-| 52 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
+| 51 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
+| 52 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
 | 53 | [Burn](https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 3:51 |
 | 54 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 |
 | 55 | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 57 | [In My Feelings](https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:37 |
 | 58 | [motive \(with Doja Cat\)](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:47 |
 | 59 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
-| 60 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 60 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
 
-Snapshot ID: `MCwzOGRiZDZiODFjODRiMTRhZjg5MDkwNTU1N2VkM2FkODhkZmZjOTli`
+Snapshot ID: `MCxmZDU1NTg4NTNiZDI1NzZjMzRhMjVjMzVkZDZlZjIxZGIyYTM4ZDZi`

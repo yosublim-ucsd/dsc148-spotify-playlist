@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: ONLEE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,441 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,459 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [Mean](https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Mean](https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs) | 3:27 |
 | 51 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
 
-Snapshot ID: `MCw2YzBlODI4M2ZjOWM3MGQ0MDJkMDI0NTU5YTIzMWFjMTcxNjMwMzE2`
+Snapshot ID: `MCxlNTg5YTlkNDcyOGIwOTRjYmZlMzRlZTRlZDNiNjFiODY0NmE5ODJm`

@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 391340,
+  "num_followers": 391978,
   "original_name": "Summer Dance Hits 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDNmYjNiNDZkOGIxMWIxYzQ5YjU1ZjE3MTMwOWQ2YjY1MzRlZjYz",
+  "snapshot_id": "MCxlYjE1YzRhOTlhOTQ2NjRlYjYyNjZkODMyYjAzYzYxN2MzNDhjMWYz",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -275,22 +275,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
         }
       ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -315,22 +311,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+        "name": "Levi Don't Do It",
+        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         },
         {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Levi Don't Do It",
-        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Talk About",
-        "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "DJ Craig Gorman",
-          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Talk About",
-      "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -2067,6 +2047,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "DJ Craig Gorman",
+          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Talk About",
+      "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
       },
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2024-02-15 23:00:00",

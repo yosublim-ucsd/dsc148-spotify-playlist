@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 166824,
+  "num_followers": 167059,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY3NWI2OWQ0NmIzMjQyOGQzNjMwMjI0ZjBmZjdlZGM5ZjA4ODg2",
+  "snapshot_id": "MCwxNjRmMDdjMWEwYmJlMzUxMTE3N2YyNjZmZDg0NTI0N2M5MTVkMzcx",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+        "name": "skies",
+        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
       "artists": [
         {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
+        },
+        {
+          "name": "Riversilvers",
+          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
         }
       ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+      "duration_ms": 129998,
+      "name": "skies",
+      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -871,22 +875,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "skies",
-        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
       "artists": [
         {
-          "name": "Blut Own",
-          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
-        },
-        {
-          "name": "Riversilvers",
-          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
         }
       ],
-      "duration_ms": 129998,
-      "name": "skies",
-      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Moments.",
         "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
       },
@@ -1135,18 +1119,34 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Slow Bloom",
+        "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 285312,
+      "name": "Slow Bloom",
+      "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
     }
   ],
   "unique_name": "gloomcore",

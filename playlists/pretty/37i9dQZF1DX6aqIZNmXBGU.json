@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3",
+  "snapshot_id": "MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hello Operator",
-      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Oshin",
         "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 222973,
       "name": "Doused",
       "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hello Operator",
+      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -943,6 +943,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "FIDLAR",
+        "url": "https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "No Waves",
+      "url": "https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Oddments",
         "url": "https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 209011,
       "name": "Hot Wax",
       "url": "https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "High Visibility",
-        "url": "https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx"
-      },
-      "artists": [
-        {
-          "name": "The Hellacopters",
-          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "No Song Unheard",
-      "url": "https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed"
     }
   ],
   "unique_name": "Sun & Surf",

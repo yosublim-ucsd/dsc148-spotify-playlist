@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,160 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,165 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 50 | [Nose Over Tail](https://open.spotify.com/track/2S625H9Z7oaQD3p7pt5CvJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:37 |
 | 51 | [My Standard Break from Life](https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:34 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBiMGU4MGEzNDZhZGZjZWFlM2NlYmZhMWE4MDBiOTA2ZQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA4NTIzYmQ5NDliMWM2OGEwMDc3OWRmYzc1Y2RjZjQ2YQ==`

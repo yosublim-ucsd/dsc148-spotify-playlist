@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Reik y Ha\*Ash en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,368 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,371 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 40 | [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 |
 | 41 | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y) | 3:57 |
 | 42 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
-| 43 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
-| 44 | [Contigo Quiero](https://open.spotify.com/track/6wSyB4yMjlQcMc1xa7F92O) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero](https://open.spotify.com/album/1xGe0CQ3XByxNtZGlJVdo8) | 4:19 |
+| 43 | [Contigo Quiero](https://open.spotify.com/track/6wSyB4yMjlQcMc1xa7F92O) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero](https://open.spotify.com/album/1xGe0CQ3XByxNtZGlJVdo8) | 4:19 |
+| 44 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
 | 45 | [Un Viaje a Todas Partes](https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Un Viaje a Todas Partes](https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0) | 3:23 |
 | 46 | [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 |
 | 47 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/track/55V2INjfekUKprOLzWb9Q1) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/album/6Zg8f2tHcjjs4Fw2c4VNbG) | 2:53 |
 | 75 | [Despeinada](https://open.spotify.com/track/61yj7aoeF4gQvk99auCIWz) | [Bala](https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp) | [Despeinada](https://open.spotify.com/album/4oJTRn5A4d4gBEgRmvLS6A) | 3:29 |
 
-Snapshot ID: `MCxiNDExZTY4ODI5NDQzYTYzN2YyMDc2ZjU3M2QwNjA0NWQ4YWFkNWFl`
+Snapshot ID: `MCw4NTY2OTViODM1ZWM3MjM5MmE3NTM5YzI0MDRjNGE2MWI3ZGQ2MzBm`

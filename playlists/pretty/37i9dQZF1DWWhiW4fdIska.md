@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,957 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,968 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 35 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
 | 36 | [Blues for Nothing](https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:15 |
 | 37 | [Ventilator Blues](https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9) | 6:13 |
-| 38 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 |
-| 39 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 7:20 |
+| 38 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 7:20 |
+| 39 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 |
 | 40 | [John's Blues](https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 5:06 |
 | 41 | [Cradle Rock](https://open.spotify.com/track/0mew0kA2gBAqtEleoaDiK8) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 6:15 |
 | 42 | [Cuttin' In](https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 49 | [It's My Own Fault](https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Ain't Enough Comin' In](https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA) | 5:16 |
 | 50 | [Blues Power](https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Very Best Of Albert King](https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx) | 3:12 |
 
-Snapshot ID: `MCxkNGQ4YWQzNWYyZDE0MzEzZGY5ODhmZWZkYjRiNjdhYjhhZGY3YzIw`
+Snapshot ID: `MCwzODg5ZjM1MWVjZmQxMWFkZWY5MzFiNDM4ZjE3NzZlMTA4ZGI0NmRk`

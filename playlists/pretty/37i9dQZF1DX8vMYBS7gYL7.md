@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 
 > Un poco de sabrosura y color para esos días lluviosos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,213 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,249 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
-| 2 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
+| 2 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 3 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
-| 4 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
+| 4 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
 | 5 | [Enseñame a Olvidar](https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:48 |
 | 6 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
 | 7 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 | 36 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
 | 37 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
 | 38 | [Cuando Parará La Lluvia](https://open.spotify.com/track/2PBuNxTsXYOCuyNOaoyWc8) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Imprescindibles de la Salsa](https://open.spotify.com/album/36zS1mWfui1fMKIbJ7KEE0) | 4:44 |
-| 39 | [Donde Estará](https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:59 |
-| 40 | [Princesa](https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 3:25 |
+| 39 | [Princesa](https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 3:25 |
+| 40 | [Donde Estará](https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:59 |
 | 41 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
 | 42 | [Lluvia](https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia \(Baile Total\)](https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW) | 4:56 |
 | 43 | [Margie](https://open.spotify.com/track/468KewwnYDaGofS7CHhR3K) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [El “Ray” Criollo](https://open.spotify.com/album/4YQdtCI5Cx84mTFZQObPcK) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 | 49 | [Lejos De Ti](https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD) | 4:15 |
 | 50 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
 
-Snapshot ID: `MCwxOWQ2NjU0NzcxMjk4MGYwNGIxMmIwMDIwZTBlNDM2MWJhZjVkMTRj`
+Snapshot ID: `MCw4YzUxYWJmODE3N2Q0NWQ3Nzk5NDVmYmY3Y2JhNjc5MDg4ZDkxYWM2`

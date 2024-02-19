@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 
 > A classic mix of pop, rock and folk hits from decades past\. Cover: The Beach Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,513 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,594 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 45 | [When You're In Love With A Beautiful Woman](https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:58 |
 | 46 | [What Is Life \(2014 Remaster\)](https://open.spotify.com/track/0Nux6Q8aJZ1i4vUpPDBvlX) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:24 |
 | 47 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO) | 2:59 |
-| 48 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
-| 49 | [Rikki Don't Lose That Number](https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:32 |
+| 48 | [Rikki Don't Lose That Number](https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:32 |
+| 49 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 50 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 |
 
-Snapshot ID: `MCw4YjYwOGIyNTUxNWQ5MTcyMDM4Y2VjZTlhMGY2ODlmNmI2NTQ0YTUw`
+Snapshot ID: `MCxiMmNhNDEyMTc3NjhkZTNmY2RhMTUwMzBiZWFmYzFiMTk4OTgyNzhj`

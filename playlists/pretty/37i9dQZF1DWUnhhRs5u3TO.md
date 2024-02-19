@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,680 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,687 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 74 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
 | 75 | [Sorceress](https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP) | 5:49 |
 
-Snapshot ID: `MCw2OTcxNmQ0NWJhYmYwODU0ZDJjNjRjYTczMmIzMGE0MWExNzlkZDBk`
+Snapshot ID: `MCwzZWE4MzlkOGE3ZmFjNzM1NTBkOWFmZjgyZjljYTIzNGIxNTVhZjI5`

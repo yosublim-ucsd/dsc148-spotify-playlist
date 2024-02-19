@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,745 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,767 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 17 | [Mary](https://open.spotify.com/track/2l6aKj7mOu8MyYX4yFtlZ8) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 5:28 |
 | 18 | [Forest Friends](https://open.spotify.com/track/0Sk2okE8X4vp0BPSnSg0yL) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Belonging](https://open.spotify.com/album/50ntE3JLQSYXpxHqzd2hLl) | 3:09 |
 | 19 | [Dorian](https://open.spotify.com/track/0ZilhIkx5dOgRSi7GdnKqp) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/011ifQyKbsMAWCUFDZiMaa) | 4:48 |
-| 20 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
-| 21 | [Love Songs For Robots](https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 3:37 |
+| 20 | [Love Songs For Robots](https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 3:37 |
+| 21 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 22 | [Homegrown](https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 4:02 |
 | 23 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
 | 24 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 36 | [Michael](https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:21 |
 | 37 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 | 38 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
-| 39 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
-| 40 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 |
+| 39 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 |
+| 40 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
 | 41 | [Friends Make Garbage \(Good Friends Take It Out\)](https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 5:34 |
 | 42 | [Take Care](https://open.spotify.com/track/6yuLaaspVG8j2pnjAZ05Oe) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Keep a Private Room Behind the Shop](https://open.spotify.com/album/4B0iYxYJ5gzIs1plMk0E3X) | 1:54 |
 | 43 | [When We Fall](https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:07 |
-| 44 | [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 |
-| 45 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 |
+| 44 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 |
+| 45 | [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 |
 | 46 | [To Believe](https://open.spotify.com/track/487wXZ3WOARGcLBJpvdmtg) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [To Believe](https://open.spotify.com/album/7Jm76j0kKzyy2GLExHlVQO) | 5:27 |
 | 47 | [Atom 6](https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atom 6](https://open.spotify.com/album/0Ve7BbpsthPeae1D7UGul9) | 1:12 |
 | 48 | [Alright](https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 4:39 |
 | 49 | [Obrecht](https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w) | 3:36 |
 | 50 | [Symmetry](https://open.spotify.com/track/5K4QD9d4XNCmCf27Oib1rp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 2:52 |
 
-Snapshot ID: `MCwwZmQ4NDUwNzNiOGUwMjU3NzUwYmU5NWYwNWExODA5Y2NiZWM1ZWI3`
+Snapshot ID: `MCw1MWM3OTdjNzg5MjkwZWE0ZjJkMmMzOWE3ZWU4ZGUzNjRhNGVkOWNl`

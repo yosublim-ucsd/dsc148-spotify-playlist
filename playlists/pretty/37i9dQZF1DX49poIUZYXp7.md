@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Mickey Guyton
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,746 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,826 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 53 | [Match For My Memory](https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory](https://open.spotify.com/album/1btxskaPEUaAs39MnammfS) | 2:59 |
 | 54 | [Hair Salon](https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:44 |
 | 55 | [Make You Mine](https://open.spotify.com/track/0CZwrYqSTnfzAjtynr6zBp) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Make You Mine](https://open.spotify.com/album/7vwX7Eavq0fZccBj56FkWA) | 2:40 |
-| 56 | [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 |
-| 57 | [Next Girl](https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 2:44 |
+| 56 | [Next Girl](https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 2:44 |
+| 57 | [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 |
 | 58 | [Melt](https://open.spotify.com/track/1clurKfZZ1ScMCJIb6RUck) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Melt](https://open.spotify.com/album/2y0nOvxDP9sQ4fwUvUKM45) | 3:27 |
 | 59 | [Light On In The Kitchen](https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Light On In The Kitchen](https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G) | 3:32 |
 | 60 | [Wasting All These Tears](https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Frame By Frame](https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn) | 3:35 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 75 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
 | 76 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 |
 | 77 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 |
-| 78 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
+| 78 | [Heels Over Head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Heels Over Head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
 | 79 | [Sayin’ What I’m Thinkin’](https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:21 |
-| 80 | [Heels Over Head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Heels Over Head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
+| 80 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
 | 81 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
 | 82 | [F\-150](https://open.spotify.com/track/1k090Cp4kVflIXkQTcqIT9) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [F\-150](https://open.spotify.com/album/09m2n7rJs6daBxySqetJ9R) | 2:48 |
 | 83 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
-| 84 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 |
-| 85 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
-| 86 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 |
+| 84 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 |
+| 85 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 |
+| 86 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
 | 87 | [Fix You Too](https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:07 |
 | 88 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 |
 | 89 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 99 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 |
 | 100 | [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 |
 
-Snapshot ID: `MCxjN2ZmZDkzZTk1YzRlOGM3NmZkNWM1ODYwZGUwYTIxMmY5YjNiMjVk`
+Snapshot ID: `MCxlYzNhNzkzMjBlODg0NzJiNzRhZmMxMDhlMzAwNzMwNjA1MjcwMTI3`

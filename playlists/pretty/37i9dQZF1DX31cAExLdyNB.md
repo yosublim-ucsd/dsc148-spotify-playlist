@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,647 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,652 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 | 69 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 |
 
-Snapshot ID: `MCxhNjVhZGE0Y2YwYzRjNzFlNjQzMGQzNTdhNDAxOGJlYTgzMTBjZGU3`
+Snapshot ID: `MCw1MjM5N2E4ZDE3YWIzOGJlMTY4M2UxOTg0ZDkzODFhODUzYjQ4YmRi`

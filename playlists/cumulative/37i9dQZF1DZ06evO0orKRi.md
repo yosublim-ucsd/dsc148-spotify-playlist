@@ -4,16 +4,16 @@
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 44 min
+52 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bad Day's Fishin'](https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 2:36 | 2023-06-17 |  |
-| [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 | 2023-06-17 | 2024-02-18 |
+| [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 | 2023-06-17 |  |
 | [Boomaroo Flyer](https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:32 | 2023-06-17 |  |
 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 | 2023-06-17 |  |
 | [Charleville \- 1998 Remaster](https://open.spotify.com/track/1dZTsgcWwDKcdqaaov3jnW) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:05 | 2023-06-17 |  |
-| [Country Revival](https://open.spotify.com/track/0XBaUOSbvjUJ6bHX5Exlqv) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:18 | 2023-06-21 |  |
+| [Country Revival](https://open.spotify.com/track/0XBaUOSbvjUJ6bHX5Exlqv) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:18 | 2023-06-21 | 2024-02-19 |
 | [Cunnamulla Fella \- 1998 Remaster](https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [A Piece of Australia \(Remastered\)](https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB) | 2:12 | 2023-06-17 |  |
 | [Cunnamulla Feller \- Remaster 1995](https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [I'll Take Mine Country Style](https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59) | 2:11 | 2023-06-17 |  |
 | [Dieseline Dreams](https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Trucks On The Track](https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit) | 3:23 | 2023-06-17 |  |
@@ -51,6 +51,7 @@
 | [The Road To Gundagai \- 2004 Remaster](https://open.spotify.com/track/7vKyWcioaiGKFVGQ4ymOSI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Classic Albums \- 1960's](https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS) | 1:54 | 2023-06-17 |  |
 | [Three Rivers Hotel](https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:23 | 2023-06-17 |  |
 | [Traveller's Prayer \- 1996 Remaster](https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Singer From Down Under](https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB) | 3:15 | 2023-06-17 |  |
+| [Truckin's In My Blood \- Remastered 1992](https://open.spotify.com/track/6Zxga3jpf99AQ6b160pLrI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 3:10 | 2024-02-18 |  |
 | [Trumby \- 1994 Remaster](https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Old Time Drover's Lament](https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480) | 3:29 | 2023-06-17 |  |
 | [Under The Spell Of Highway One](https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Natural High](https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf) | 3:39 | 2023-06-17 |  |
 | [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 | 2023-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,827 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,837 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 36 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 37 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 |
 | 38 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 |
-| 39 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
-| 40 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
+| 39 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
+| 40 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
 | 41 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 42 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
 | 43 | [From the Subway Train](https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Angel Youth](https://open.spotify.com/album/7CESHttY9U97FElD5JAXSW) | 0:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 74 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
 | 75 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 |
 
-Snapshot ID: `MCwxY2RjYzAxY2Y5Mzc4Yjc1ZDM5YWQzYjRlYmE3ZTYzMWM0NTE4MGMy`
+Snapshot ID: `MCxhNjU4ZDMxNDBjNDE4NmUwOTg4NzgxZjA2OWUzNjI2MzMxNmVlZDE0`

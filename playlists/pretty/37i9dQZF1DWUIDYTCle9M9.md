@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,162 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,290 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 17 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 18 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 19 | [Timber \(feat\. Ke$ha\)](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 |
-| 20 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
-| 21 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
+| 20 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
+| 21 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
 | 22 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
 | 23 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
 | 24 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
-| 25 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 |
-| 26 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 25 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 26 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 |
 | 27 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 |
-| 28 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
-| 29 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
+| 28 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
+| 29 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 30 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
 | 31 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 32 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 52 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 53 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
 | 54 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
-| 55 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 |
-| 56 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
+| 55 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
+| 56 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 |
 | 57 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
 | 58 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 |
 | 59 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
-| 60 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
+| 60 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
 
-Snapshot ID: `MCw5Yzc2NGYzNjUwOGYyZDJjNGFiNDAzYjY5NmYwNjFhZWFkYzczMzI0`
+Snapshot ID: `MCxhNzdiYzVkYTYzN2E3ZTc1NGQ4NDAzZDdhYmIxMmU3MjBmYmExYTI3`

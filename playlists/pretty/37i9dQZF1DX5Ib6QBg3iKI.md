@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,086 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,074 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 48 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
 | 49 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 | 50 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:06 |
-| 51 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/5O82nLMtVVvv6Es9dhNChD) | 2:16 |
-| 52 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
+| 51 | [The Christmas Waltz](https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:47 |
+| 52 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/5O82nLMtVVvv6Es9dhNChD) | 2:16 |
 | 53 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
-| 54 | [The Christmas Waltz](https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:47 |
+| 54 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
 | 55 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
-| 56 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 |
-| 57 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 |
+| 56 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 |
+| 57 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 |
 | 58 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 |
 | 59 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
 | 60 | [A Winter's Tale](https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [The Whisper](https://open.spotify.com/album/6XCCWmkQ2pSOnZucLKTN1L) | 4:11 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 65 | [Warm on a Christmas Night](https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Christmas Night](https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE) | 4:28 |
 | 66 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
 | 67 | [Together In Electric Dreams](https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Together In Electric Dreams](https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy) | 3:21 |
-| 68 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
-| 69 | [Make It Home](https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make It Home](https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g) | 2:59 |
+| 68 | [Make It Home](https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make It Home](https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g) | 2:59 |
+| 69 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 70 | [Driving Home for Christmas](https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Driving Home For Christmas](https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo) | 3:03 |
 | 71 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 |
 | 72 | [Christmastime](https://open.spotify.com/track/3hnJoXTpYufVCd4blCGzo6) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 4:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
 | 80 | [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 |
 
-Snapshot ID: `MCxkZmM0ODNlZWVlZWJkOWFiYWM5OTVjNGQ3NmZlNWI0NjYxNjdmZjcw`
+Snapshot ID: `MCw0NmViZDZjNTVkZmFmMjYyY2RmNTNmZGI0YmUxNmZhZmYwZjZlMTVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,864 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,846 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 34 | [Eisbärn \(Kinderlied zum Winter\)](https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Winterlieder: Bayerisch\-Verschmitzte Kinderlieder für Winter und Weihnachten](https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ) | 4:33 |
 | 35 | [Winterzeit](https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn) | [Das grüne Album](https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29) | 2:02 |
 | 36 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
-| 37 | [Ein ganzes Jahr](https://open.spotify.com/track/67Co1VuT41BwFVZNvQKi3G) | [Larissa Pesch](https://open.spotify.com/artist/0EKqMShhmMhiac8F9pbdpZ) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:42 |
-| 38 | [Das muss wohl der Winter sein \(Giraffenaffensong\)](https://open.spotify.com/track/4bkc4Gesl2A3ffbFMvtFcH) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:55 |
+| 37 | [Das muss wohl der Winter sein \(Giraffenaffensong\)](https://open.spotify.com/track/4bkc4Gesl2A3ffbFMvtFcH) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:55 |
+| 38 | [Ein ganzes Jahr](https://open.spotify.com/track/67Co1VuT41BwFVZNvQKi3G) | [Larissa Pesch](https://open.spotify.com/artist/0EKqMShhmMhiac8F9pbdpZ) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:42 |
 | 39 | [Pingpong im Dezember](https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO) | [Sebastian Krämer](https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:36 |
 | 40 | [Eisbär\-Pinguin Rock](https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT) | [Simone Ludwig](https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI) | [Eisbär\-Pinguin Rock](https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB) | 3:05 |
 | 41 | [Schneeengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 43 | [Backe, backe Kuchen \(I\)](https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp) | [Kinderchor SingsalaSing](https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi), [Klaus Weigele](https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS) | [Kinderleicht\. Lieder und mehr für viele bunte Tage](https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH) | 1:26 |
 | 44 | [Wo ist der Schneemann?](https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M) | [Raketen Erna](https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb) | [Lamettawetter EP](https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ) | 3:23 |
 | 45 | [Backe, Backe Kuchen](https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Tanzbare Weihnachtslieder für Kinder](https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw) | 2:09 |
-| 46 | [Plätzchenduft liegt in der Luft](https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 2:56 |
-| 47 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/61wnGRwPJYTj3e9kvcCZiv) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:20 |
+| 46 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/61wnGRwPJYTj3e9kvcCZiv) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:20 |
+| 47 | [Plätzchenduft liegt in der Luft](https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 2:56 |
 | 48 | [Kannst du die Lichter sehen \(feat\. Detlev Jöcker, Sarah Schiffer & Kinderlieder Gang\)](https://open.spotify.com/track/2daU8eguAJf1hTrCkZrSja) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 2:32 |
 
-Snapshot ID: `MCwzNTA5NTVkZWRmM2E0ZWJmNTJjY2IxYmRmMTZmZDNlNTQxY2I0MTNh`
+Snapshot ID: `MCw2NjlhNjY3MmExMDI1ZTVhNWRhOGI4YzU0YWI1NmJlM2ViZWQ3Mzlh`

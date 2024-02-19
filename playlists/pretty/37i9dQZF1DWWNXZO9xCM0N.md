@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,912 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,970 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 32 | [Estamos en Salsa](https://open.spotify.com/track/6nONybSopBGecWPK0pcvva) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa del Conjunto Salsa](https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8) | 4:49 |
 | 33 | [Calle Luna Calle Sol](https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 3:48 |
 | 34 | [Buenaventura y Caney](https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:09 |
-| 35 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
-| 36 | [Tu Loco Loco Y Yo Tranquilo](https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU) | 3:19 |
+| 35 | [Tu Loco Loco Y Yo Tranquilo](https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU) | 3:19 |
+| 36 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
 | 37 | [Zumbale](https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Creativo](https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq) | 5:05 |
 | 38 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 39 | [Temperatura](https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Picadillo A La Criolla](https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
 | 50 | [El Negro Bembón](https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Baile Con Cortijo](https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o) | 3:00 |
 
-Snapshot ID: `MCw2NGM2OTczMjkwODA0OGU5Mzc0Y2ViNWRiNGZkM2MyMjNjZDE3OTlh`
+Snapshot ID: `MCxhMmZjMzMyOGExNzAxOTdjYjIzMTA5NjExZThlMjZlNTQwNzQ0MGRi`

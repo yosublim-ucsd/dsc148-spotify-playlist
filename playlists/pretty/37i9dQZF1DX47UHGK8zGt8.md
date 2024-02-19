@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,656 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,787 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 2 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 |
 | 3 | [Várias Queixas](https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:50 |
-| 4 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 |
+| 4 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
 | 5 | [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 |
-| 6 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
+| 6 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 |
 | 7 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
 | 8 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
 | 9 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 14 | [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 |
 | 15 | [Céu Azul](https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Céu Azul](https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N) | 3:28 |
 | 16 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 |
-| 17 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
-| 18 | [Garotos II \- Ao Vivo](https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Garotos II \(Ao Vivo\)](https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk) | 3:18 |
+| 17 | [Garotos II \- Ao Vivo](https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Garotos II \(Ao Vivo\)](https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk) | 3:18 |
+| 18 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
 | 19 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
 | 20 | [Singular](https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:26 |
 | 21 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 28 | [Pode Se Achegar](https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Pode Se Achegar](https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge) | 3:48 |
 | 29 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 30 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 |
-| 31 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 |
-| 32 | [É Você \- 2004 Digital Remaster](https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 2:51 |
+| 31 | [É Você \- 2004 Digital Remaster](https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 2:51 |
+| 32 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 |
 | 33 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 |
 | 34 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 |
 | 35 | [Quando Amanhecer](https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Lado de Cá](https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Acalanto](https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 |
 | 50 | [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 |
 
-Snapshot ID: `MCwxOGFkOTUwZWEzZjIyNDY0N2JkZTNkZjZlNWFjZDdlMDdkNDY0MjRi`
+Snapshot ID: `MCw2YzQ3YjlkNmYzNTgwYzE0MzZkMTdkMjJlYzNhMDFlZmM3MTNkYjkw`

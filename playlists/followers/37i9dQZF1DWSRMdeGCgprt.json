@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 24205,
+  "2024-02-19": 24205,
   "date_first_scraped": "2021-12-21",
   "description": "Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year. Cover: <a href=\"spotify:artist:4TsHKU8l8Wq7n7OPVikirn\">Jidenna</a>.",
   "name": "The Rhythm",
@@ -654,6 +654,28 @@
     },
     {
       "album": {
+        "name": "Durand Jones & The Indications",
+        "url": "https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG"
+    },
+    {
+      "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
       },
@@ -669,7 +691,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 229403,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"

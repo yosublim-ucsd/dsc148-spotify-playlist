@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 105 | [So Simple \(feat\. Lellow\)](https://open.spotify.com/track/4SZOVptbDIwRegbsYCOHRJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lellow](https://open.spotify.com/artist/1HWJoW0XfznpegdxFQXXPQ) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:49 |
 | 106 | [Why Do I Feel so Sad](https://open.spotify.com/track/1sfU9JyyzGBiByxyv6g8ef) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:25 |
 | 107 | [Jane Doe](https://open.spotify.com/track/2GAaGPdruK38sZ4VphDd3j) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:48 |
-| 108 | [Authors Of Forever](https://open.spotify.com/track/13BHxtf5YIEODKlf8wRyXp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:37 |
-| 109 | [Wake Up](https://open.spotify.com/track/5uOLfAXKYvGB57XRNCejRu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:27 |
+| 108 | [Wake Up](https://open.spotify.com/track/5uOLfAXKYvGB57XRNCejRu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:27 |
+| 109 | [Authors Of Forever](https://open.spotify.com/track/13BHxtf5YIEODKlf8wRyXp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:37 |
 | 110 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
 | 111 | [With You](https://open.spotify.com/track/7p3zXqc0IxJy2Q6gijQ1JN) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Late Nights & Early Mornings](https://open.spotify.com/album/3l9KeT7TXfQKg8RhzoC6DI) | 5:09 |
 | 112 | [101](https://open.spotify.com/track/7wMPExYjxfDzu4SWDUt7dQ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 6:27 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 183 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 184 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `Mjg0NzAzNjAsMDAwMDAwMDBlODhkMGNmYzQ1NzE0YzhjN2IxYWNjNmEyZDI4MmRlOA==`
+Snapshot ID: `Mjg0NzE4MDAsMDAwMDAwMDBlNDY0MzEzYjlmYTdmMjc5ZjZjMGYzMWNiYTIyOWIwZA==`

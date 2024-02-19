@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,327 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,340 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 49 | [California Dreaming](https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA) | [Eddie Hazel](https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ) | [AT HOME](https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy) | 3:41 |
 | 50 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
 
-Snapshot ID: `MCw3MWQ4NGJlYTlhYTgyZDJhNzUzZmY1ODliZGYzMjRiZTY1NDhjM2Ix`
+Snapshot ID: `MCwwZGI4OWVmNDRlZjA2YWEyZGE2MzhjNDA3OTljNzg1Njk2MDY0ZmEx`

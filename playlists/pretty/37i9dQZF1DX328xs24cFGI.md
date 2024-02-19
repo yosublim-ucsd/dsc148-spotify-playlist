@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,657 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,715 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 35 | [恋と呼ばないで](https://open.spotify.com/track/0yOM3ZxlUWynKBTeTvVYtH) | [ほのかりん](https://open.spotify.com/artist/2gNQP8hLHUGMdSzUb7vgXJ) | [恋と呼ばないで](https://open.spotify.com/album/64R2Rx4DErXusAVOigtXtu) | 4:04 |
 | 36 | [I wish](https://open.spotify.com/track/7lhCMNcxl4cESmwsXQT5LK) | [Misako Uno](https://open.spotify.com/artist/7GZ4sfSqYerIzoy01IiBBI) | [I wish](https://open.spotify.com/album/4rkp4NwmGk3rD7RFEiQp1f) | 3:25 |
 | 37 | [Soranji](https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 5:43 |
-| 38 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 |
-| 39 | [高嶺の花子さん](https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ラブストーリー](https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ) | 4:54 |
+| 38 | [高嶺の花子さん](https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ラブストーリー](https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ) | 4:54 |
+| 39 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 |
 | 40 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 41 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
 | 42 | [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 62 | [プロローグ](https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プロローグ](https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA) | 5:02 |
 | 63 | [ミズキリ](https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:28 |
 | 64 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
-| 65 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
-| 66 | [大阪LOVER](https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [大阪LOVER](https://open.spotify.com/album/0uH4fu7TXAnnrx4aRhSBln) | 4:26 |
+| 65 | [大阪LOVER](https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [大阪LOVER](https://open.spotify.com/album/0uH4fu7TXAnnrx4aRhSBln) | 4:26 |
+| 66 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
 | 67 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 68 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 |
 | 69 | [アイノカタチ](https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk), [HIDE \(GReeeeN\)](https://open.spotify.com/artist/4SFP5kBIqqjFrrPknaVnbG) | [Life is going on and on](https://open.spotify.com/album/6shpoVTIdAcPmUYwIDNdBz) | 4:22 |
 | 70 | [題名のない今日](https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 
-Snapshot ID: `MCwyMTFkZmRiODJkMWRhODIwYjYyNWQ0MzQyZWEwMGRiMWYzNWE3OTdm`
+Snapshot ID: `MCxjMGZkMzBjNTFjZjVkZWVkNDNmMWE0YzRkODAwNmNhNmE3M2M0NGIz`

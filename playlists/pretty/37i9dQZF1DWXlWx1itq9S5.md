@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 
 > Las canciones de pop latino más escuchadas del año\. Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,295 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,508 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 | 15 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:57 |
 | 16 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
 | 17 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
-| 18 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 18 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 19 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
 | 20 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
 | 21 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 | 39 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 |
 | 40 | [BABY HELLO](https://open.spotify.com/track/21N77gfWYoQDvrLvaeiQgi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:42 |
 | 41 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
-| 42 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
+| 42 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/0Kz96xXGxiyZIEJ2pOpUxe) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
 | 43 | [ULALA \(OOH LA LA\)](https://open.spotify.com/track/2QKVCfIDdHf16FkDPFHBHX) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:08 |
 | 44 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 45 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 | 49 | [Un Rodeoooo](https://open.spotify.com/track/1fcOwu14PSWy2JJhpGIOoL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:16 |
 | 50 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 |
 
-Snapshot ID: `MCwxYWMwZDE1YzUzMmUwYWU2MGEzYzZiNGUzZTc1NzYxNmFmYzM4YWZm`
+Snapshot ID: `MCw4ZGUzYTgzYjA4MDBiYTdlMzUwNjNjNjZhYjUwMmJlOGJmMTJmNTFm`

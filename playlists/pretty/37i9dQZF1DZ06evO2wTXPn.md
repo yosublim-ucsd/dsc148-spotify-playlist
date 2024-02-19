@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,845 likes - 47 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,851 likes - 47 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 35 | [Amanecí Nublado](https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:54 |
 | 36 | [En Medio De Este Ruido](https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf) | 4:07 |
 | 37 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 |
-| 38 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/2heJtjlk2q37k1ciyw81KV) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:53 |
+| 38 | [Señal](https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Señal](https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc) | 4:05 |
 | 39 | [Sobreviviendo](https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 3:16 |
-| 40 | [Señal](https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Señal](https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc) | 4:05 |
+| 40 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/2heJtjlk2q37k1ciyw81KV) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:53 |
 | 41 | [Te Regalo](https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Te Regalo](https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi) | 2:37 |
 | 42 | [Otra Liza \(Con KURT\)](https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [1997](https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e) | 3:34 |
 | 43 | [Lolis](https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:36 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 46 | [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 |
 | 47 | [Como Nadie Más](https://open.spotify.com/track/1t8mt1PDXNzRxr2RPt9Ji0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 4:06 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA2Nzg4OTc0NjZiZGE4M2VjODk4ZWYxNzBiODlhMTcwZA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDAxNWQ5ZDJiZGJlNDAxMWFlYWUwMjgyYTNiNDEyN2RhNA==`

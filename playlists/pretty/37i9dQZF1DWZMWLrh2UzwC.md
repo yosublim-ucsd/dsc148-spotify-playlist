@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,416 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,418 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 40 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 |
 | 41 | [Eyes Wide Shut](https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Eyes Wide Shut](https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq) | 3:22 |
 | 42 | [House On Fire](https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [House On Fire](https://open.spotify.com/album/5AWBcDTeoE569GmknHWFN9) | 3:05 |
-| 43 | [S.A.D](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
+| 43 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
 | 44 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 45 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
 | 46 | [Too Much Too Little](https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Too Much Too Little](https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl) | 2:57 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 78 | [Be Yours](https://open.spotify.com/track/3Jjwrk3xgnJWPTc48GYhWg) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Be Yours](https://open.spotify.com/album/7vM7i3keTw97YelVp8akgg) | 3:04 |
 | 79 | [Nowhere](https://open.spotify.com/track/5d9QunA2YMB6gKQ65fE8cs) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Nowhere](https://open.spotify.com/album/1NgOh8j1ai2Qs67m48gLd9) | 2:46 |
 
-Snapshot ID: `MCw5YTY5ZDMzNjM0NmQ4YjE5YjI5MmE5YzZkMDk0ZThjOTM2NmNmYjMx`
+Snapshot ID: `MCw0NzliYzBkMDhkYTFjMzY1MmUxOTZjYjc3YmRhMzYxNjE2ZTVmMDU4`

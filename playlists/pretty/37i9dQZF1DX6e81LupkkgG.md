@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,622 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,609 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 63 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |
 | 64 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
 | 65 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 |
-| 66 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
-| 67 | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe) | 3:18 |
+| 66 | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe) | 3:18 |
+| 67 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
 | 68 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
 | 69 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
 | 70 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI) | 3:40 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 87 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 88 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
 | 89 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 |
-| 90 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
-| 91 | [I Follow](https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [I Follow](https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6) | 2:49 |
+| 90 | [I Follow](https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [I Follow](https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6) | 2:49 |
+| 91 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 92 | [U Move, I Move \(feat\. Jhene Aiko\)](https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:43 |
 | 93 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 |
 | 94 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 99 | [With You](https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:43 |
 | 100 | [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 |
 
-Snapshot ID: `MCw5YTZiZDk5MDRkMmMxNDRmNWY4OTY4ZjMxZWMxYmM4NzkzOWZlMzFh`
+Snapshot ID: `MCxiMGVlODlkMmVhNDgwODNlYTFiYzBkZjQ5ZjhlZmZhNTI5NjIyYzEy`

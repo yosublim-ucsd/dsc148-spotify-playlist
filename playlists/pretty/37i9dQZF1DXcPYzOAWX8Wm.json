@@ -1,12 +1,12 @@
 {
   "description": "A look back at tracks from over the past four years. A mixtape of music made for the Class of 2023.",
-  "num_followers": 140540,
+  "num_followers": 140517,
   "original_name": "CLASS OF 2023 mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2Y4ZWRhNmM0YTg0MjhkOTY5NTg2M2E5OGY3ZDhhOWM4NTU0YWU5",
+  "snapshot_id": "MCw4Mjk3MTQ2NDg2ZmM4NDBlNzY4NzAyYzFkZWQ0N2U3MWEwMzY0MGUz",
   "tracks": [
     {
       "added_at": "2023-05-05 20:25:55",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -799,22 +799,6 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "ORANGE SODA",
-      "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "ORANGE SODA",
+      "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Notion",
         "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+      "duration_ms": 154424,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -927,22 +943,6 @@
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 154424,
-      "name": "No Idea",
-      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 174853,
       "name": "Goodbyes (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173710,
-      "name": "34+35",
-      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1875,22 +1875,18 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "The Best In The World Pack",
-        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 205426,
-      "name": "Money In The Grave (Drake ft. Rick Ross)",
-      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1911,18 +1907,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+        "name": "The Best In The World Pack",
+        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+      "duration_ms": 205426,
+      "name": "Money In The Grave (Drake ft. Rick Ross)",
+      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Die A Legend",
         "url": "https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 166560,
       "name": "Pop Out (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Where The Shadow Ends",
+        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219801,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 267520,
       "name": "Pluto Projector",
       "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Where The Shadow Ends",
-        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219801,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -2399,18 +2383,38 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "IDK You Yet (Live on Piano)",
-        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2431,26 +2435,18 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
+        "name": "IDK You Yet (Live on Piano)",
+        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
         }
       ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2479,22 +2475,26 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
       "artists": [
         {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2555,26 +2555,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -2591,6 +2571,26 @@
       "duration_ms": 212866,
       "name": "Intentions (feat. Quavo)",
       "url": "https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2023-05-05 20:25:55",

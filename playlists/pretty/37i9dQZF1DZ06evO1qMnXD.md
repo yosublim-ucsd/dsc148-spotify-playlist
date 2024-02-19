@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,981 likes - 43 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,160 likes - 43 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 42 | [Heat Lightning](https://open.spotify.com/track/01vuMD0IeeHeQTSUk0f7iK) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:51 |
 | 43 | [Valentine, Texas](https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:35 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAxZjAwNTg2OTcxOWU3NzUwYzlkMTMzZTgwY2NmMTI0NA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBkNjQ4MWE0ZmJhNjA3Mjg5NTc0NjQ4YzAwM2E3NmJmYw==`

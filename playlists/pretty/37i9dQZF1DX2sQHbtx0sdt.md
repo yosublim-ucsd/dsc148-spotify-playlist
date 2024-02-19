@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,166 likes - 85 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,352 likes - 85 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 84 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 | 85 | [SWEETCHY](https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:31 |
 
-Snapshot ID: `MCxhYTU0NDIzN2M1MDNjMjczMDE1NGMyMjc2ZTRkOTAyMDc5YmQ2ZjNj`
+Snapshot ID: `MCxhYzY3YzI5MDdhYjc3MzQxYTFiNDI5Y2YwMmRmNzQzOTQ2MjgwYWRk`

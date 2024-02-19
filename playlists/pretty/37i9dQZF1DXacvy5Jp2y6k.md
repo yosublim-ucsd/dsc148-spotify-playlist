@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacvy5Jp2y6k.md) - [plain]
 
 > Songs that will make you fall in love without even seeing your date 👀 Meira and Oskar from Netflix series Love is Blind Sweden bless us with their best ❤️ songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,797 likes - 29 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,920 likes - 29 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [1+1](https://open.spotify.com/track/3WID8m6M9eEQ1w1k486vMc) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [1+1](https://open.spotify.com/album/7cP06bf7dmkZN52CEaoz4a) | 3:36 |
 | 2 | [Ceremoni](https://open.spotify.com/track/1sAIaPZ9IEqywqalcHlolg) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Lev länge](https://open.spotify.com/album/6ff1k8e17lvBGXTcqPtJg0) | 2:40 |
 | 3 | [Bättre nu \(The Wedding\)](https://open.spotify.com/track/0L3RpXaOJFNhP4QCynokYG) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Bättre nu \(The Wedding\)](https://open.spotify.com/album/3EQltKEqsH8RLRvEP6sgG6) | 3:24 |
-| 4 | [Uncover](https://open.spotify.com/track/3DQisSEr1TLp9H0BEeKiQS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Uncover](https://open.spotify.com/album/0vXJ3rh6Sy7KWjp2P5d7ll) | 3:33 |
+| 4 | [Uncover](https://open.spotify.com/track/131l5GkXPIk81bxihGypPt) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Introducing](https://open.spotify.com/album/4K1Jjk7BdhdLbsMdl3q1f2) | 3:34 |
 | 5 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
 | 6 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
 | 7 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacvy5Jp2y6k.md) - [plain]
 | 28 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 |
 | 29 | [Soltane Ghalbha](https://open.spotify.com/track/1q4U2zOXyMAlVoA5stAN04) | [Aref](https://open.spotify.com/artist/1FEABcMZtFitRlvH8V0UJI) | [Aref Greatest Hits \- Persian Music](https://open.spotify.com/album/5Bvp4WQHji4HIdc1lMbNAW) | 4:39 |
 
-Snapshot ID: `MCw5MjhiMjc2NGQ2YmM2NmY3NmJkNzgyNDc5NzU2ZWU3NGU5ZDBjNmRh`
+Snapshot ID: `MCw4OGYyZjc5YTgwNDU5NWM1NDI3YjM1NjYyNTJjMDg3ODIyYjVlNmIw`

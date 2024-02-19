@@ -4,7 +4,7 @@
 
 > the soundtrack to your girl dinner\. cover: Doja Cat
 
-195 songs - 9 hr 57 min
+196 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-12 | 2023-11-30 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-03-30 | 2023-08-10 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-06-20 | 2023-06-30 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-26 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-26 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-01-27 |  |
 | [Jordan 1s](https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Jordan 1s](https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy) | 3:09 | 2023-05-29 | 2023-06-14 |
 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 | 2023-05-25 | 2023-12-08 |
 | [Keep Dat Nigga](https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Keep Dat Nigga](https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng) | 2:18 | 2023-05-12 | 2023-09-23 |

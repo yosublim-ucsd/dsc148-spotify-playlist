@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 489788,
+  "num_followers": 489859,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2M2MWQ0MjMzNmE1ODI5YTg1MzhkZDMzZjU4MmEyYjZjZWViNzM3",
+  "snapshot_id": "MCwwNWJiNzcxOGExYWI0MzM5ZDQ4MGRmNTFlZmU0MGFhNjM1Mzc4ZDc3",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 160543,
-      "name": "Eagle Birds",
-      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "I'm A King Bee",
         "url": "https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 199597,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Sea of Cowards",
-        "url": "https://open.spotify.com/album/77B6oHxsalO8agATK8uGN0"
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
       "artists": [
         {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 215093,
-      "name": "I Can't Hear You",
-      "url": "https://open.spotify.com/track/3W6bchE2NDsXdyfbhkHjjB"
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -883,34 +883,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "Sea of Cowards",
+        "url": "https://open.spotify.com/album/77B6oHxsalO8agATK8uGN0"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
         }
       ],
-      "duration_ms": 224480,
-      "name": "Sinister Kid",
-      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+      "duration_ms": 215093,
+      "name": "I Can't Hear You",
+      "url": "https://open.spotify.com/track/3W6bchE2NDsXdyfbhkHjjB"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "This is Our Life",
         "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Down To The Bottom",
-        "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 152468,
-      "name": "Down To The Bottom",
-      "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 209029,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Down To The Bottom",
+        "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 152468,
+      "name": "Down To The Bottom",
+      "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Skinny",
         "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 222316,
       "name": "Skinny",
       "url": "https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "ROCKISDEAD",
-        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 189769,
-      "name": "Dark Nights",
-      "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Will the Guns Come Out",
         "url": "https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 141093,
       "name": "You Rascal You",
       "url": "https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "ROCKISDEAD",
+        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 189769,
+      "name": "Dark Nights",
+      "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "S.I.D.E.S.",
-        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 210850,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "S.I.D.E.S.",
+        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Who You Selling For",
-        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Man Of The Moment",
         "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 192933,
       "name": "Man Of The Moment",
       "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Who You Selling For",
+        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Girl Sports",
-        "url": "https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        }
-      ],
-      "duration_ms": 194588,
-      "name": "Girl Sports",
-      "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Hannah Wicklund and the Steppin Stones",
         "url": "https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 164645,
       "name": "Bomb Through The Breeze",
       "url": "https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Girl Sports",
+        "url": "https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "duration_ms": 194588,
+      "name": "Girl Sports",
+      "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
     },
     {
       "added_at": "2023-09-22 00:56:58",

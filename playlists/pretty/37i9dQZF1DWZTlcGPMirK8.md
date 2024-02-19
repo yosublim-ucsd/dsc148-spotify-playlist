@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,738 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,747 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 46 | [Straight Lines](https://open.spotify.com/track/5uPO2eBKEdmBT3XtZ76VVa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 4:18 |
 | 47 | [Forever Young](https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd) | 3:59 |
 | 48 | [Don't Call Me Baby](https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7) | 3:48 |
-| 49 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
+| 49 | [All the Lovers](https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Aphrodite](https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI) | 3:19 |
 | 50 | [Affirmation](https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:55 |
-| 51 | [All the Lovers](https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Aphrodite](https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI) | 3:19 |
+| 51 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
 | 52 | [Go Bang](https://open.spotify.com/track/5XYXgYQJvY87aCFxK5sOnp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha) | [Changa](https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe) | 3:09 |
 | 53 | [Angels Brought Me Here](https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Just As I Am](https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km) | 3:59 |
 | 54 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 63 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
 | 64 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
 | 65 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
-| 66 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
-| 67 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
+| 66 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
+| 67 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 68 | [Love at First Sight](https://open.spotify.com/track/6ua8mbyHXTHpAmGyGpFAS2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:58 |
 | 69 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
 | 70 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
 
-Snapshot ID: `MCw2ZjU2MTAxOWY0MTdiMmI5Zjk5ZDA0NWYyMTQyNjJmMGJiNGYzOGJi`
+Snapshot ID: `MCw3ZWQ5ZDE0YzVlZTk2ZDg3ZGQ2MWM5OWZlY2I4YTA0ODRiZDg0NjQ4`

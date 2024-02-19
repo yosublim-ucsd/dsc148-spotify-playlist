@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,850 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,945 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 4 | [Rescue Me](https://open.spotify.com/track/6FWFxRT3c4FXWvMrDbp2V1) | [CHEEKS](https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9), [CRONIN](https://open.spotify.com/artist/6FJuV645kRPPrMRHLjPq7M) | [Rescue Me](https://open.spotify.com/album/46yTdnUyLnrvqNX7cvlcPH) | 2:42 |
 | 5 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 6 | [Nobody](https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Nobody](https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW) | 3:46 |
-| 7 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/19TWCY08zuSX6kdXR9C751) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
+| 7 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
 | 8 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh) | 2:30 |
 | 9 | [Lost](https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Lost](https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO) | 3:44 |
 | 10 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
 | 75 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 |
 
-Snapshot ID: `MCxkOWU2ZWIyOTJhNTgyYmM4NjY5YWUzMzM2NjMxOGZjNmY1N2VmNzhi`
+Snapshot ID: `MCxmYTNhZmU3MmQ5MTE2MmNkOGZlYjE3YTRjMjZmZjRlN2M1MzJkNzI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,396 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,406 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 40 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
 | 41 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 |
 | 42 | [Mcdonalds](https://open.spotify.com/track/4Uv5nzyKWBAnfiV1WbVFYz) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC) | 2:07 |
-| 43 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
-| 44 | [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 |
+| 43 | [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 |
+| 44 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
 | 45 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |
 | 46 | [Jag Vill Vara Din Margareta](https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN) | [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi), [Henrik Sæter](https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl) | [Jag Vill Vara Din Margareta](https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm) | 2:47 |
 | 47 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
 | 70 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
 
-Snapshot ID: `MCxiN2I2NDJhMjA5OTZmMTA3MzdjOWNmMDFkNzEyYWFhZmQyMDM2Yzc2`
+Snapshot ID: `MCwzOGNiMWE3ZWJiOWE1MjM4YzU0ZTcyYTYxMTNhNmYzZmQ5OTEyY2Iy`

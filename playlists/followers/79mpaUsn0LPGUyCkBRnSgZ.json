@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 1,
+  "2024-02-19": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -9463,6 +9463,28 @@
       "duration_ms": 222946,
       "name": "The View From The Afternoon",
       "url": "https://open.spotify.com/track/4wSWZjWH7a5eVxskGxO13w"
+    },
+    {
+      "album": {
+        "name": "RIP Human Art",
+        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135248,
+      "name": "The Wake",
+      "url": "https://open.spotify.com/track/4FHhXk0JniueARdhSOInDZ"
     },
     {
       "album": {

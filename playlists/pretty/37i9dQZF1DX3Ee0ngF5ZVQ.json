@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 415514,
+  "num_followers": 415513,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODQzNWY4YzhhMDI1MGIwMzNiNGRkOWVjMTMxNjU0NWY5NzdhMmI5",
+  "snapshot_id": "MCxlMzNiOTg2ZDZkNzdmOTcyMzA4ZGNiMmY3NGIwOTRiN2M2ZGRkYWM5",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Work Boots and More from Leather",
-        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "Work Boots",
-      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Diamondhead",
         "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 187375,
       "name": "Diamondhead",
       "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Work Boots and More from Leather",
+        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "Work Boots",
+      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Drowning In Dreams",
-        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
       },
       "artists": [
         {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
         }
       ],
-      "duration_ms": 167512,
-      "name": "Where the Wildflowers Lay",
-      "url": "https://open.spotify.com/track/6UGVVw3Jpck5k3IVeUWK0X"
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+        "name": "Drowning In Dreams",
+        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
         }
       ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+      "duration_ms": 167512,
+      "name": "Where the Wildflowers Lay",
+      "url": "https://open.spotify.com/track/6UGVVw3Jpck5k3IVeUWK0X"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -991,18 +991,30 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg"
+        "name": "Tough Country",
+        "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
       },
       "artists": [
         {
-          "name": "Mikayla Lane",
-          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+          "name": "The Panhandlers",
+          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
+        },
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        },
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 209320,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY"
+      "duration_ms": 243120,
+      "name": "Tough Country",
+      "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1055,30 +1067,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Tough Country",
-        "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg"
       },
       "artists": [
         {
-          "name": "The Panhandlers",
-          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
-        },
-        {
-          "name": "John Baumann",
-          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
-        },
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        },
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Mikayla Lane",
+          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
         }
       ],
-      "duration_ms": 243120,
-      "name": "Tough Country",
-      "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
+      "duration_ms": 209320,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 244290,
-      "name": "Boy From Anderson County",
-      "url": "https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH"
+      "duration_ms": 204141,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 204141,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
-      },
-      "artists": [
-        {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
-        }
-      ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Happy Hour",
         "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 191777,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Droptines",
-        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 188995,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "The Droptines",
+        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Tomorrow's Out Of Sight",
+        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 214252,
+      "name": "Tomorrow's Out Of Sight",
+      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "I Just Killed A Man",
         "url": "https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz"
       },
@@ -1655,26 +1671,6 @@
       "duration_ms": 212215,
       "name": "I Just Killed A Man",
       "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Your Bar Now",
-        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
-      },
-      "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Your Bar Now",
-      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1695,18 +1691,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Tomorrow's Out Of Sight",
-        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 214252,
-      "name": "Tomorrow's Out Of Sight",
-      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     }
   ],
   "unique_name": "Texas Country Now",

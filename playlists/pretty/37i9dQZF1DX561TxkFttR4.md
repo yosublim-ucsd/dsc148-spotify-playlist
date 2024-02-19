@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,741 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,778 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 62 | [Passagio](https://open.spotify.com/track/3vWbxJ46hMwj3XsiEnKH19) | [Luisa Leonetti](https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq) | [Passagio](https://open.spotify.com/album/3y5HHPF2VgKt5GOEKEIFzO) | 2:46 |
 | 63 | [Emergence](https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Emergence](https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC) | 2:06 |
 | 64 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 |
-| 65 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 |
-| 66 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
+| 65 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
+| 66 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 |
 | 67 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 |
 | 68 | [Romanzo](https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Romanzo](https://open.spotify.com/album/3hV54JZiq0la65AY4KXB4J) | 2:03 |
 | 69 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 79 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
 | 80 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 |
 
-Snapshot ID: `MCxiODc3ODM3ZTMxOTE0MWNhODU2ZTAyMmVhZjRkZDBiNThjMzY1ODFm`
+Snapshot ID: `MCxkMmMzMTVkOWUyOTQ4NzFmZjgzZTRmM2ZkYWM0YjU0NzQyMjY3MmM3`

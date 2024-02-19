@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,641,541 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,648,015 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 54 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 |
 | 55 | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 |
 | 56 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
-| 57 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
-| 58 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 |
+| 57 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 |
+| 58 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
 | 59 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 |
 | 60 | [Smells Like Teen Spirit](https://open.spotify.com/track/1h54366McXSNcici2LAiZP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Duncán](https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Smells Like Teen Spirit](https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY) | 2:40 |
 | 61 | [The Feeling \- Lost Frequencies & Andromedik Deluxe Mix](https://open.spotify.com/track/3rFHJDslBgt9rHu8p22aFN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [The Feeling \(Remix Pack\)](https://open.spotify.com/album/2upRxot9PsC3mletR2gbb7) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Strangers](https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Strangers](https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx) | 3:09 |
 | 80 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 
-Snapshot ID: `MCw3MmQ2YTUxNTkzMzczN2YzOWE3YWViMGRkZjdiNDg0MzliZjQ2M2Vh`
+Snapshot ID: `MCxhZTg3NGJjNDhiZDZlZWM2NDM4ZmVhNTIxM2Q1NzI3ODM5MTZiYWQ0`

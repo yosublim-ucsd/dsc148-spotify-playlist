@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,361 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,369 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Amor de Película](https://open.spotify.com/track/62LEhl8r8arwSDuHF0u0Ze) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Amor de Película](https://open.spotify.com/album/06UAzAedzCDQT7jYWSWeEY) | 2:52 |
 | 100 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 |
 
-Snapshot ID: `MCw5Yzg4YTM1MjE0NzE4YTRhOGQyZjk3ZjljNjZkMjFlNjA5OTE5MjM4`
+Snapshot ID: `MCw4NGYzZDQ2MjVhOWUxN2FmZjUzODNkYjI5Yjk0Mzg0MDE4NzZiYThj`

@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: T\-Rex.
 
-218 songs - 12 hr 42 min
+219 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [FAMA](https://open.spotify.com/track/35uZfu8sybuugk9DkelTFv) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [FAMA](https://open.spotify.com/album/2wehAGXNEm5zttICwk1ERI) | 2:29 | 2023-07-06 | 2023-10-27 |
 | [Fato treino do City](https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Fato treino do City](https://open.spotify.com/album/4fcBL2OWo3Gpw2Jg1GHE1Q) | 3:36 | 2022-12-16 | 2023-08-04 |
 | [FAX](https://open.spotify.com/track/3f7DEE3i9IzH7ieoKOLdvr) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FAX](https://open.spotify.com/album/7hu0vKYovlQFVdu0KXVi1J) | 2:45 | 2022-10-13 | 2022-10-28 |
-| [Faya](https://open.spotify.com/track/0wL9hQUzatIoqv6lcxT2M1) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Faya](https://open.spotify.com/album/1L0ZyJRCsGSzWEuRWkq8SQ) | 2:46 | 2024-02-16 |  |
+| [Faya](https://open.spotify.com/track/0wL9hQUzatIoqv6lcxT2M1) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Faya](https://open.spotify.com/album/1L0ZyJRCsGSzWEuRWkq8SQ) | 2:46 | 2024-02-16 | 2024-02-19 |
 | [FEELING](https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [FEELING](https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm) | 3:45 | 2022-12-09 | 2023-08-01 |
 | [Fendi](https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Fendi](https://open.spotify.com/album/1k012nV79sC7rugcjuWXmb) | 3:17 | 2022-12-09 | 2023-10-27 |
 | [Floating](https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Floating](https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW) | 3:06 | 2023-04-13 | 2023-06-16 |
@@ -147,6 +147,7 @@
 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 | 2022-12-09 | 2024-01-12 |
 | [Morte Do Artista](https://open.spotify.com/track/1MlS996c4ea12zlMhqmW56) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Cool Kid](https://open.spotify.com/album/4S2BptKqkJtd8cnzk28NlP) | 3:27 | 2024-01-12 |  |
 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 | 2022-07-05 | 2024-02-17 |
+| [Moça](https://open.spotify.com/track/5wTSfE9HzWc6OWovZ9Tz16) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/1C6qPC5u8E8la4jaInlT3h) | 3:00 | 2024-02-16 |  |
 | [Nada a Esconder](https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3) | 3:38 | 2023-03-24 |  |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-05 | 2023-03-18 |
 | [NASTY](https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NASTY](https://open.spotify.com/album/5z6BbFaxfgfEJDXDT3ps4Q) | 3:07 | 2023-09-28 | 2023-11-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,199 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,254 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 24 | [Él Me Mintió](https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 3:41 |
 | 25 | [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 |
 | 26 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
-| 27 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
-| 28 | [Cruz de Navajas](https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 5:02 |
+| 27 | [Cruz de Navajas](https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 5:02 |
+| 28 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
 | 29 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 |
 | 30 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
 | 31 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 33 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 34 | [Cuando Calienta El Sol](https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:56 |
 | 35 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
-| 36 | [Lucha De Gigantes](https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 4:08 |
+| 36 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
 | 37 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 38 | [Veinticinco Rosas](https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:00 |
-| 39 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
+| 39 | [Lucha De Gigantes](https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 4:08 |
 | 40 | [La Ladrona](https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado\)](https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm) | 3:04 |
 | 41 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 |
 | 42 | [Hijo de la Luna](https://open.spotify.com/track/7g3g2sqevicvurLTZ75JTA) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 4:19 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 44 | [¿Qué Pasará Mañana?](https://open.spotify.com/track/588L3T9VgPngwtXUiFWnf6) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 3:31 |
 | 45 | [El Amor Acaba](https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 4:20 |
 | 46 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
-| 47 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
-| 48 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 |
+| 47 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 |
+| 48 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
 | 49 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
 | 50 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
 | 51 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 53 | [Hasta Que Amanezca](https://open.spotify.com/track/67mC1sqidIwycByzWmT96o) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:00 |
 | 54 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
 | 55 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
-| 56 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
-| 57 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
+| 56 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
+| 57 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
 | 58 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
 | 59 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 |
 | 60 | [Oiga](https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:29 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 83 | [Yo No Nací para Amar](https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:26 |
 | 84 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 |
 | 85 | [Cuando Vayas Conmigo](https://open.spotify.com/track/2ygSprUUsLJTu16DzspsDm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:55 |
-| 86 | [Eres](https://open.spotify.com/track/3KOqFaJbPoJohjoV29TjtB) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Vive](https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G) | 3:21 |
-| 87 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
+| 86 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
+| 87 | [Eres](https://open.spotify.com/track/3KOqFaJbPoJohjoV29TjtB) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Vive](https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G) | 3:21 |
 | 88 | [Morir de Amor](https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 4:11 |
 | 89 | [Cómo Han Pasado los Años](https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Hay Amores Y Amores](https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd) | 3:34 |
 | 90 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 99 | [El Hombre Que Yo Amo](https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo Lo Mio](https://open.spotify.com/album/1mNEGTs66AF3EPnXcFTOzb) | 3:33 |
 | 100 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
 
-Snapshot ID: `MCxlOGNjYTg4OTUwNDljMzc5YWEzYzk0MGY4ZWZjNTM5ODE5MGE5ODFj`
+Snapshot ID: `MCw0N2IwNGM3NjVmOGFkYjY0YjdhZTQ0ZWI3ZDIzYzJkYzUzOWI3NTMx`

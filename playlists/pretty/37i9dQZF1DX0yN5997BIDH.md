@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,621 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,630 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 24 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
 | 25 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
 | 26 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
-| 27 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
-| 28 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
+| 27 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
+| 28 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 29 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 30 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 |
 | 31 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 65 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 |
 | 66 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
 | 67 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 |
-| 68 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
-| 69 | [Cure For Me](https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:21 |
+| 68 | [Cure For Me](https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:21 |
+| 69 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
 | 70 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 |
 | 71 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
 | 72 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 74 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:07 |
 | 75 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
 | 76 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 |
-| 77 | [what would you do?](https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:46 |
-| 78 | [i can't help it](https://open.spotify.com/track/3F3roWqJPMtmLbPPl93bbR) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:57 |
-| 79 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 77 | [i can't help it](https://open.spotify.com/track/3F3roWqJPMtmLbPPl93bbR) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:57 |
+| 78 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 79 | [what would you do?](https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:46 |
 | 80 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 |
 | 81 | [Your Man](https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 2:43 |
 | 82 | [Morning Blue](https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 99 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 |
 | 100 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 |
 
-Snapshot ID: `MCxhYjNhZmRiMDY2YzAzYzU1ODg5NjgzOTJkOWY1MTI5ZTBiZGYyY2Ew`
+Snapshot ID: `MCwxMWE1OTM4YTI5ODQyNjIwOGI0YzA4M2JhYjdjMTIxYzBmYjI5OTI4`

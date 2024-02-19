@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 35864,
+  "2024-02-19": 35846,
   "date_first_scraped": "2023-07-28",
   "description": "Zeit f\u00fcr Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
   "name": "Familienzeit: Winter",
@@ -2956,6 +2956,36 @@
     },
     {
       "album": {
+        "name": "Willkommen auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        },
+        {
+          "name": "Sarah Schiffer",
+          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152933,
+      "name": "Kannst du die Lichter sehen (feat. Detlev J\u00f6cker, Sarah Schiffer & Kinderlieder Gang)",
+      "url": "https://open.spotify.com/track/2daU8eguAJf1hTrCkZrSja"
+    },
+    {
+      "album": {
         "name": "Feste feiern auf dem singenden Bauernhof",
         "url": "https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9"
       },
@@ -2979,7 +3009,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 153207,
       "name": "Kannst du die Lichter sehen (feat. Detlev J\u00f6cker, Sarah Schiffer & Kinderlieder Gang)",
       "url": "https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq"

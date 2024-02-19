@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,124 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,242 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 54 | [La Ley del Monte](https://open.spotify.com/track/5DUU1yPitGPugNXB1YjNnu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:23 |
 | 55 | [Un Puño De Tierra](https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 3:08 |
 | 56 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 |
-| 57 | [Tu enamorado](https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:09 |
-| 58 | [Acá Entre Nos](https://open.spotify.com/track/7jGzWIfDZLVyLYEWaX3oTR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Qué De Raro Tiene](https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd) | 3:15 |
+| 57 | [Acá Entre Nos](https://open.spotify.com/track/7jGzWIfDZLVyLYEWaX3oTR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Qué De Raro Tiene](https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd) | 3:15 |
+| 58 | [Tu enamorado](https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:09 |
 | 59 | [Payaso](https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 3:01 |
 | 60 | [Qué de Raro Tiene](https://open.spotify.com/track/3S1ksI8qYpwxFy8yPcSlte) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Qué De Raro Tiene](https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd) | 3:21 |
 | 61 | [Y Ándale](https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 69 | [Retirada](https://open.spotify.com/track/6kYxWFXzSkvwYBcdrHSFSD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:52 |
 | 70 | [La Puerta Negra](https://open.spotify.com/track/2yAbDJYqqZDxM399YpQy8U) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:15 |
 
-Snapshot ID: `MCw4MTM2ZWFjYWFkYTU0NGU2NTBhYmE1Y2E5YmRkNTc5NDllOTYxYWNh`
+Snapshot ID: `MCxkNTAwZDdlNDYxM2YwNGNiYjlhNGYzNzc4ZTYwYWEyM2FiOTk2YTE0`

@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 88 | [Calma](https://open.spotify.com/track/4j9AeZwJJaqBoAmT1sIBh4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/56WyGihpAfyooVSew8PhNZ) | 2:55 |
 | 89 | [Libre](https://open.spotify.com/track/0y3jOgdbOUCypPgBrixGon) | [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Libre](https://open.spotify.com/album/6j0sCAm0cmrq0sPpcjttjn) | 3:06 |
 | 90 | [Psoi](https://open.spotify.com/track/33EX081FUfRtJvnpngpNBt) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Psoi](https://open.spotify.com/album/4SVT8R87bjvskhdY5AHYhY) | 2:50 |
-| 91 | [I Am](https://open.spotify.com/track/25gTd2sJzYkaf6WfNX1OVA) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence – The Encore](https://open.spotify.com/album/57AWuy87CIWGd131a6UUKg) | 4:01 |
-| 92 | [Salto de Fe](https://open.spotify.com/track/7p90mo9rrIM7mlZldk13ul) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6kC8pHk3AKljg4QWc05oNQ) | 3:43 |
+| 91 | [Salto de Fe](https://open.spotify.com/track/7p90mo9rrIM7mlZldk13ul) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6kC8pHk3AKljg4QWc05oNQ) | 3:43 |
+| 92 | [I Am](https://open.spotify.com/track/25gTd2sJzYkaf6WfNX1OVA) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence – The Encore](https://open.spotify.com/album/57AWuy87CIWGd131a6UUKg) | 4:01 |
 | 93 | [Veneno](https://open.spotify.com/track/1IN2Ufuu1Ojs5Twb6ASmRt) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 3:06 |
 | 94 | [Crazy 4.10.14](https://open.spotify.com/track/2xHivLSyLmj5LdztKQlQ7D) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:02 |
 | 95 | [Go](https://open.spotify.com/track/6OT5SEXE1FoTEPLcyBSNcN) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:53 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 151 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjg0NzAzNzAsMDAwMDAwMDBjMGMwZjJmNDQwNDc1N2ZlMzlmM2RlNjA3YTc2NDRjNA==`
+Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDBlMTVjMTUwMWZjMjg1ZjE4YTAwMTVmZTRkYWU1OWJhNA==`

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 385772,
+  "num_followers": 385767,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTFkODUzZmVmMzc1OGYwMGE3NmQwOWI5NzlmYTZiOGRmYmYwNzg5",
+  "snapshot_id": "MCw1ZmQyOWUxMjQxNTU4MzE2NWIzYjk2MjQzZDgzZmNkNjUzNzk2YWYy",
   "tracks": [
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
+        "name": "Sesame",
+        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Sesame",
+      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
         "name": "Cult.",
         "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
-        "name": "Sesame",
-        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
       "artists": [
         {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Sesame",
-      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
     },
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1111,38 +1127,6 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
-      },
-      "artists": [
-        {
-          "name": "w.o.d.",
-          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
         "name": "HELLO (from The Tiger's Apprentice)",
         "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
       },
@@ -1159,34 +1143,18 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
-        "name": "\u3055\u3059\u3089\u3044",
-        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
       },
       "artists": [
         {
-          "name": "Tamio Okuda",
-          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
         }
       ],
-      "duration_ms": 206200,
-      "name": "\u3055\u3059\u3089\u3044",
-      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 197942,
-      "name": "\u4e0d\u5c48\u306b\u82b1",
-      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1219,6 +1187,38 @@
       "duration_ms": 195657,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+      },
+      "artists": [
+        {
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 197942,
+      "name": "\u4e0d\u5c48\u306b\u82b1",
+      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
     },
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
       },
@@ -1291,18 +1275,38 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
-        "name": "\u3089\u3093\u3069",
-        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
       },
       "artists": [
         {
-          "name": "ZAZEN BOYS",
-          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
         }
       ],
-      "duration_ms": 266693,
-      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
+      "duration_ms": 166613,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
+        "name": "sad girl",
+        "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
     },
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1327,22 +1331,18 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
-        "name": "sad girl",
-        "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
         }
       ],
-      "duration_ms": 148000,
-      "name": "sad girl",
-      "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
+      "duration_ms": 266693,
+      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
     },
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1431,42 +1431,6 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
-        "name": "6 Years In The Game (feat. Awich)",
-        "url": "https://open.spotify.com/album/1KvJrTQgijVXODRXF59v6K"
-      },
-      "artists": [
-        {
-          "name": "VannDa",
-          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        }
-      ],
-      "duration_ms": 253718,
-      "name": "6 Years In The Game (feat. Awich)",
-      "url": "https://open.spotify.com/track/5Xdkl9fc87XMF17yspWsdj"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
         "name": "UMAMI",
         "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
       },
@@ -1487,6 +1451,42 @@
       "duration_ms": 202000,
       "name": "UMAMI",
       "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
+        "name": "6 Years In The Game (feat. Awich)",
+        "url": "https://open.spotify.com/album/1KvJrTQgijVXODRXF59v6K"
+      },
+      "artists": [
+        {
+          "name": "VannDa",
+          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 253718,
+      "name": "6 Years In The Game (feat. Awich)",
+      "url": "https://open.spotify.com/track/5Xdkl9fc87XMF17yspWsdj"
     },
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
+        "name": "Flashback feat. Daichi Yamamoto",
+        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "duration_ms": 284478,
+      "name": "Flashback feat. Daichi Yamamoto",
+      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
         "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
         "url": "https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 269452,
       "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
       "url": "https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
-        "name": "Flashback feat. Daichi Yamamoto",
-        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
-        }
-      ],
-      "duration_ms": 284478,
-      "name": "Flashback feat. Daichi Yamamoto",
-      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
     },
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1655,6 +1655,42 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
+        "name": "WORLD DANCE",
+        "url": "https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "WORLD DANCE",
+      "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 226843,
+      "name": "Around the Corner",
+      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
+    },
+    {
+      "added_at": "2024-02-15 21:26:47",
+      "album": {
         "name": "Sometimes (Japanese Version)",
         "url": "https://open.spotify.com/album/1IVZonSHa5osQ8hexgUrZH"
       },
@@ -1675,18 +1711,18 @@
     {
       "added_at": "2024-02-15 21:26:47",
       "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 226843,
-      "name": "Around the Corner",
-      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
+      "duration_ms": 228573,
+      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
     },
     {
       "added_at": "2024-02-15 21:26:47",
@@ -1711,42 +1747,6 @@
       "duration_ms": 205807,
       "name": "2MANYTIMES",
       "url": "https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
-        "name": "WORLD DANCE",
-        "url": "https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        },
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "WORLD DANCE",
-      "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
-    },
-    {
-      "added_at": "2024-02-15 21:26:47",
-      "album": {
-        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
     }
   ],
   "unique_name": "Tokyo Rising",

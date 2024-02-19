@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,637 likes - 80 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,897 likes - 80 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 43 | [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 |
 | 44 | [Dominion / Mother Russia](https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 7:00 |
 | 45 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 |
-| 46 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
-| 47 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
+| 46 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
+| 47 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
 | 48 | [Love Like Blood](https://open.spotify.com/track/0SEfEDcVisRq8z4gU6r86b) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 6:48 |
 | 49 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 |
 | 50 | [Labyrinths](https://open.spotify.com/track/5ugg71VoRzRxE4mKVjbxh2) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Labyrinths](https://open.spotify.com/album/4GY4x2JuL7PIA2nQXjmscF) | 3:24 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 62 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 |
 | 63 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 |
 | 64 | [Wasteland](https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV) | 5:40 |
-| 65 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 |
-| 66 | [Medusa](https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Medusa](https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv) | 5:53 |
+| 65 | [Medusa](https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Medusa](https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv) | 5:53 |
+| 66 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 |
 | 67 | [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 |
 | 68 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
 | 69 | [I Walk the Line](https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp) | 4:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
 | 80 | [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 |
 
-Snapshot ID: `MCw0YWRjYTRlODE1MThkNzFkNWYwMzcyNDMzNjQ5NGJlMjc0MGZhZThi`
+Snapshot ID: `MCw0MzllMDBlM2MzOTY3MzRlZWNhYzAyODhhZjI3Nzc0M2Q1OGE3Njk2`

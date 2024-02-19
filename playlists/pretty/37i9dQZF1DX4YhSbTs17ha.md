@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. HUMBE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683,523 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683,724 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 | 59 | [Ojos Marrones \- Con Sebastián Yatra](https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ojos Marrones \(Con Sebastián Yatra\)](https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd) | 3:18 |
 | 60 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 61 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |
-| 62 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 62 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 63 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 |
 | 64 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 65 | [TENEMOS QUE HABLAR](https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [TENEMOS QUE HABLAR](https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU) | 3:10 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 | 70 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 |
 | 71 | [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 |
 | 72 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
-| 73 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
+| 73 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/0Kz96xXGxiyZIEJ2pOpUxe) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
 | 74 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 | 75 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 |
 
-Snapshot ID: `MCw0Y2Q1MmUyOGRkNTJhNmM2ZWMwZmM1NGFlNTU5ZjMxMGVlZjMwNDhi`
+Snapshot ID: `MCxkYzFkMmEyYzk5ODQ0YWI1NDJiOWQ5ZjJiY2ExMjM5ZDQ2MjMzZmFm`

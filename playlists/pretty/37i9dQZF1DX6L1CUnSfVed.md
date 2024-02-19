@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6L1CUnSfVed.md) - [plain]
 
 > Les plus grands standards du rock français\. Photo : Indochine
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,210 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,251 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6L1CUnSfVed.md) - [plain]
 | 24 | [Du rhum des femmes](https://open.spotify.com/track/2NshBYcvc4uYYsBj4vHZfh) | [Soldat Louis](https://open.spotify.com/artist/1xrlEiFyB2fhqJATbGDULK) | [Première Bordée](https://open.spotify.com/album/0CU38fbBLIOt5e1guJWCfA) | 2:59 |
 | 25 | [3e sexe](https://open.spotify.com/track/1HkQYQyt8Pufc7HK5Jb9Gh) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le Birthday album](https://open.spotify.com/album/0qIZI5w3O6KKEhthwJyoNV) | 4:40 |
 | 26 | [Tostaky \(Le continent\)](https://open.spotify.com/track/0gK79vjy7hKz3HRMR1iayq) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [Tostaky](https://open.spotify.com/album/6Nu1vIVJlwEhzFjeq0SMjy) | 5:29 |
-| 27 | [La musique que j'aime](https://open.spotify.com/track/7gFHonbyKFAx1SLLIAtoyX) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie 2](https://open.spotify.com/album/35GMsE0Ym30iqR8epZnoUJ) | 5:06 |
+| 27 | [La musique que j'aime](https://open.spotify.com/track/7rRCTsiLg8WfUSqCjW74H4) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Insolitudes](https://open.spotify.com/album/4sCWDuAMQyCANxrHemeldP) | 5:07 |
 | 28 | [Salut à toi](https://open.spotify.com/track/1CMfDFoGHwQIRe4dn9wOG8) | [Bérurier Noir](https://open.spotify.com/artist/4boY3fDYvqcujNmLZpQdbc) | [Enfoncez L'Clown](https://open.spotify.com/album/7MvoHRV2ESH44czf3qxVUC) | 4:30 |
 | 29 | [Cherchez le garçon](https://open.spotify.com/track/0MJLw7QGn79f346Sbu6rA2) | [Taxi Girl](https://open.spotify.com/artist/4ztbfel6DJq0lL4wmTJN9Y) | [Chercher Le Garçon](https://open.spotify.com/album/5K2bMo0BeIF1HYztZ51X8k) | 4:11 |
 | 30 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6L1CUnSfVed.md) - [plain]
 | 49 | [Rock à la radio](https://open.spotify.com/track/41KB3u2LyXKQTv5JJutmii) | [Bijou](https://open.spotify.com/artist/3cNIn4o65yBImKGe9lVuRr) | [Tubes pour danser \- Années 80](https://open.spotify.com/album/6O4zNGoa9rPG3l8mQwLY8k) | 2:21 |
 | 50 | [365 jours ouvrables](https://open.spotify.com/track/6fTpKaifOtbqIG1mKQQLbQ) | [Diabologum](https://open.spotify.com/artist/2yctAUiUiOBP52UC77cToq) | [\#3 \(Ce n'est pas perdu pour tout le monde\)](https://open.spotify.com/album/6NlZIFySnMC6ZYXHGt97ZQ) | 3:18 |
 
-Snapshot ID: `MCxmNjU0ZjI1MjJmYTYwMDZmNGNhM2I0N2U5MzRkNGIyZWIxODhkM2Mw`
+Snapshot ID: `MCxkMDJjMjA5YmM5OGM4MjRiNTViZDRlN2I5MWQ2ZDVmOGZmMTE1OTNm`

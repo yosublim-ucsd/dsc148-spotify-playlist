@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1119918,
+  "num_followers": 1120543,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2NkZjk5MjllZGNmMzQ3MGRkODc5ZjEyZGQwZDA3ZGI0MjgwN2Yw",
+  "snapshot_id": "MCw1MDExNWJiYTA4NTkyZjA5YmJmNzQ5ODAyZTNhNjE0NDA3NTQ2Yzg3",
   "tracks": [
     {
       "added_at": "2024-01-22 22:00:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 126960,
       "name": "La Bamba - Single Version",
       "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
         }
       ],
-      "duration_ms": 129120,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+      "duration_ms": 160864,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
       "artists": [
         {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
         }
       ],
-      "duration_ms": 160864,
-      "name": "Will You Love Me Tomorrow",
-      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+      "duration_ms": 129120,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
       "artists": [
         {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Mary Wells Sings My Guy",
-        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
         }
       ],
-      "duration_ms": 174440,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "The Ultimate Petula Clark",
-        "url": "https://open.spotify.com/album/3YQNnpZGnTAxgQ2CQ8C1l8"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1895,18 +1879,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "The Ultimate Petula Clark",
+        "url": "https://open.spotify.com/album/3YQNnpZGnTAxgQ2CQ8C1l8"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+      "duration_ms": 187760,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1923,6 +1907,22 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Good Vibrations 40th Anniversary",
         "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
       },
@@ -2039,6 +2039,26 @@
       "duration_ms": 217746,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "With A Smile And A Song",
+        "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Frank DeVol & His Orchestra",
+          "url": "https://open.spotify.com/artist/2N0Yx2ISFxGV0yt7xffcnd"
+        }
+      ],
+      "duration_ms": 123360,
+      "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
+      "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -2091,22 +2111,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "With A Smile And A Song",
-        "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Frank DeVol & His Orchestra",
-          "url": "https://open.spotify.com/artist/2N0Yx2ISFxGV0yt7xffcnd"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 123360,
-      "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
-      "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
+      "duration_ms": 143200,
+      "name": "Travelin' Man - Remastered",
+      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -2139,22 +2155,6 @@
       "duration_ms": 159760,
       "name": "Stand By Your Man",
       "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Travelin' Man - Remastered",
-      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "added_at": "2024-01-22 22:00:55",

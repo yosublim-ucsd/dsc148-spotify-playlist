@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Old Yearning\(옛그리움\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,607 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,646 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 | 52 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
 
-Snapshot ID: `MCxlODA0MjY4MDcyMjA0ODAzZWRmN2RkZjJlNDcwZGNmZGI0YTg5ZTEx`
+Snapshot ID: `MCw0Yjg1YTNkNzQzYzM5NTExMGQ5ODY2YzYyY2VlN2E0OTRmODU0MzA0`

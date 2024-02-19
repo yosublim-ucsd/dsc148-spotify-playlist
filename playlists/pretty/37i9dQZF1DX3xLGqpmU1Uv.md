@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,180 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,213 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 15 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
 | 16 | [La Novia de Mi Mejor Amigo \(The Girl of My Best Friend\)](https://open.spotify.com/track/41GiXurY9UN1dU3erI1D4c) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:23 |
 | 17 | [Lagrimas De Cristal](https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:56 |
-| 18 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
-| 19 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 |
+| 18 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 |
+| 19 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
 | 20 | [Al Ritmo De La Lluvia](https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:20 |
 | 21 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
 | 22 | [Olvídalo](https://open.spotify.com/track/4OxlguwUtqjNU0zkAueh9o) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:36 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 44 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/29VGVvgsb7MvMc87aKK794) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:29 |
 | 45 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
 | 46 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
-| 47 | [Aladino](https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:56 |
-| 48 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
+| 47 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
+| 48 | [Aladino](https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:56 |
 | 49 | [No Te Pongas Pantalones](https://open.spotify.com/track/7tZS0ThweTnxIIQjYjgaWB) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:14 |
 | 50 | [Muevanse Todos](https://open.spotify.com/track/43aYQsdCbQ6kMg4PjCGwu5) | [Vianey Valdez](https://open.spotify.com/artist/0JIg0Ml1RCN9v57Ht9Wfd5) | [Como Lo Bailaron Tus Padres, Vol\. 1](https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu) | 2:23 |
 
-Snapshot ID: `MCw3NDg0Yjc2NjdkYmViZjYwNjQxYmUzN2JmNjYwNmFiNzQ2YjM2ZmRh`
+Snapshot ID: `MCwzMjIxMmQ3MmZiNzczMDJmMWU1MThkNjhlN2FkNWJjYWYyZDdlZDBi`

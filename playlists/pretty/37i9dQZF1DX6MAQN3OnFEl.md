@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,143 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,301 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 32 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 |
 | 33 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 34 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 |
-| 35 | [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:24 |
-| 36 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
+| 35 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
+| 36 | [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:24 |
 | 37 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
 | 38 | [SOS](https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:58 |
 | 39 | [My Name Is](https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:28 |
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 51 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 52 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 53 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
-| 54 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
-| 55 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
+| 54 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
+| 55 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 56 | [Get the Party Started](https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood \(Expanded Edition\)](https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2) | 3:12 |
 | 57 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 |
-| 58 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
+| 58 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
 | 59 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 |
-| 60 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
+| 60 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
 | 61 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
 | 62 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
 | 63 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [Gotta Tell You](https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:20 |
 | 100 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
 
-Snapshot ID: `MCw4ZWUxZWI3MTdkZDBmZWNmMGRlMDMyNTMyODdkNzk3NDY5NGJmMDEz`
+Snapshot ID: `MCxmMWRkYzAzZTdiOWViMDMyZDFjZDIzMTg2M2M0ZjRiOTI0YjQ2YmE0`

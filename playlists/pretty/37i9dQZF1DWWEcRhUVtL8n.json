@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Wallows",
-  "num_followers": 1688923,
+  "num_followers": 1688976,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzg1MmMwMzZhZmU4M2Q1NDQ4NGU2NTgxNWU2MmVhYjFiZDhhMjY3",
+  "snapshot_id": "MCwzNTBkN2NkOWMzYjlmNmM1ZTNlMmE0YjcwOTMwNTUzZWYyMjIxMmVh",
   "tracks": [
     {
       "added_at": "2024-02-16 05:15:13",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
-    },
-    {
       "added_at": "2024-02-13 17:56:33",
       "album": {
         "name": "Bloom",
@@ -471,6 +455,22 @@
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "loving u is harder",
-        "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 147426,
-      "name": "loving u is harder",
-      "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 201467,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "loving u is harder",
+        "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 147426,
+      "name": "loving u is harder",
+      "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Lola",
-        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 223587,
-      "name": "Sadie",
-      "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Her Favorite Flowers",
         "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 223587,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Hot in NY",
         "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
         }
       ],
-      "duration_ms": 190933,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "It's Ok to Cry",
+        "url": "https://open.spotify.com/album/0xemqy7Lea1gWWxi25Ubzp"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 161726,
+      "name": "It's Ok to Cry",
+      "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 221000,
       "name": "Rare",
       "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "It's Ok to Cry",
-        "url": "https://open.spotify.com/album/0xemqy7Lea1gWWxi25Ubzp"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 161726,
-      "name": "It's Ok to Cry",
-      "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "I Love My Girl, She's My Boy",
         "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 173800,
       "name": "Self destruct",
       "url": "https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Are You Happy Now?",
-        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 199758,
-      "name": "Dead Girl Walking",
-      "url": "https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Are You Happy Now?",
+        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 199758,
+      "name": "Dead Girl Walking",
+      "url": "https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "There\u2019s no Other",
         "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
       },
@@ -1499,6 +1499,38 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
         "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
       },
@@ -1523,34 +1555,18 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1569,20 +1585,24 @@
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
     },
     {
-      "added_at": "2024-02-09 18:17:32",
+      "added_at": "2024-02-16 05:15:13",
       "album": {
-        "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
+        "name": "SCRAPYARD",
+        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
         }
       ],
-      "duration_ms": 238346,
-      "name": "Alonica",
-      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
+      "duration_ms": 323789,
+      "name": "TEXAS BLUE (with Kevin Abstract)",
+      "url": "https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1635,22 +1655,6 @@
       "duration_ms": 160258,
       "name": "we don't move",
       "url": "https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77"
     },
     {
       "added_at": "2024-02-09 18:17:32",

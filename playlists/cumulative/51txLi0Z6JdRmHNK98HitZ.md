@@ -2,7 +2,7 @@
 
 ### [Faith Crisis Pt 1](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out February 16! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
+> A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out now! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
 
 60 songs - 3 hr 13 min
 

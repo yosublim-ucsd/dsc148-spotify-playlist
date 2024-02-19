@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,427 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,488 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 62 | [Tóxico](https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Tóxico](https://open.spotify.com/album/6SDbcVYvCEx7tBMzpMJLyf) | 2:25 |
 | 63 | [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 |
 | 64 | [Policías y Ladrones](https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Policías y Ladrones](https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj) | 3:41 |
-| 65 | [Mil Escalas](https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Mil Escalas](https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6) | 2:24 |
+| 65 | [Sólo Si Es Contigo](https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Si Es Contigo](https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon) | 3:59 |
 | 66 | [Extrañandote](https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 2:53 |
 | 67 | [Loco Enamorado](https://open.spotify.com/track/5ZnQdZ3Gg7zsJeuhkng8C7) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Loco Enamorado](https://open.spotify.com/album/5GIXdsfc9E6sA31YFUp384) | 2:40 |
 | 68 | [400 Estrellas](https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [400 Estrellas](https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr) | 3:43 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 70 | [Balada](https://open.spotify.com/track/4i1AQRFGt5pMeXDi7WL0xT) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bitácoras Callejeras, Vol\. 2](https://open.spotify.com/album/72UUDbcdajvOVAvKgRnhIS) | 4:20 |
 | 71 | [No quise dañarte](https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [No quise dañarte](https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV) | 3:15 |
 | 72 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 |
-| 73 | [Sólo Si Es Contigo](https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Si Es Contigo](https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon) | 3:59 |
+| 73 | [Mil Escalas](https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Mil Escalas](https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6) | 2:24 |
 | 74 | [Una Carta para Ti](https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Una Carta para Ti](https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb) | 3:28 |
 | 75 | [Vaivén](https://open.spotify.com/track/68RnQABNIGlpZOnWCHTXlP) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Vaivén](https://open.spotify.com/album/4AxOgNmDycOaIv95OiJHMt) | 3:00 |
 | 76 | [Qué Más Da](https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Qué Más Da](https://open.spotify.com/album/1uwybis0C2LleyWdZDc2KA) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [No te puedo olvidar](https://open.spotify.com/track/2AmhsW7krdAbX1jtN3azTP) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [No te puedo olvidar](https://open.spotify.com/album/0SbmPCnt3bejnNrWaKqDtW) | 3:09 |
 | 100 | [Afrodisiaco](https://open.spotify.com/track/5NvQOunxpblReuGZ0W46DY) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Fotos de Familia Vol\. 1](https://open.spotify.com/album/5RBqbnvXtExFiBUDnmwxhS) | 2:48 |
 
-Snapshot ID: `MCwzNmVjYTgzNzRkMDdjNzA1Nzk2MjUxYjNmZDEyNmQ1YzA1NmZkMTM3`
+Snapshot ID: `MCw3NzIzMzM4MzY3MjA5MDgyOGM2ZmRhNjg1MmYwZDE5MjQwM2VkMTI1`

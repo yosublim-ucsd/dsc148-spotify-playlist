@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,189 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,254 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 13 | [Caetano Veloso](https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Coração](https://open.spotify.com/album/1ugs2BKvKNP48jzxQC6pFX) | 3:21 |
 | 14 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
 | 15 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
-| 16 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
-| 17 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
+| 16 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
+| 17 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
 | 18 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
 | 19 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
 | 20 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
@@ -64,19 +64,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 54 | [Festa de Umbanda](https://open.spotify.com/track/4auEly6WQF3aHdaP6CGqza) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 3:54 |
 | 55 | [Playsom](https://open.spotify.com/track/3xeqZUMpHsLO1UEoTIwHBO) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Marcio Victor](https://open.spotify.com/artist/3yC2gBgxQcQ4m90ltqAir9) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 3:58 |
 | 56 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |
-| 57 | [Pochete](https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Pochete](https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S) | 3:55 |
-| 58 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
+| 57 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
+| 58 | [Pochete](https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Pochete](https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S) | 3:55 |
 | 59 | [Cadê Tereza](https://open.spotify.com/track/2ZM9Ee68hmUuztCIdYVetd) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 3:23 |
 | 60 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 61 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 |
 | 62 | [Cigano \- Instrumental](https://open.spotify.com/track/2REfZQ03ryu2zaQAcJoxUQ) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Siba](https://open.spotify.com/artist/3fXYikoi0LcoQgBItngLxO) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 2:22 |
 | 63 | [Cabeça de Nêgo](https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO) | [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [Coleção Nacional](https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu) | 3:57 |
-| 64 | [Fala Lá Pra Ela](https://open.spotify.com/track/5aTOYS7orRPTlc9DOa2CI6) | [Rosa Neon](https://open.spotify.com/artist/1dZEJGHOEVRro2A3sCKegm), [MGZD](https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh) | [Rosa Neon](https://open.spotify.com/album/3Cp8fCtFU6VIi9lqwsgobL) | 2:49 |
-| 65 | [O Mar Serenou](https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 2:59 |
-| 66 | [Meu Nome É Gal](https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:46 |
+| 64 | [Pequim](https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Pequim](https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz) | 3:18 |
+| 65 | [Fala Lá Pra Ela](https://open.spotify.com/track/5aTOYS7orRPTlc9DOa2CI6) | [Rosa Neon](https://open.spotify.com/artist/1dZEJGHOEVRro2A3sCKegm), [MGZD](https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh) | [Rosa Neon](https://open.spotify.com/album/3Cp8fCtFU6VIi9lqwsgobL) | 2:49 |
+| 66 | [O Mar Serenou](https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 2:59 |
 | 67 | [Besta é Tu](https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 4:24 |
-| 68 | [Pequim](https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Pequim](https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz) | 3:18 |
+| 68 | [Meu Nome É Gal](https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:46 |
 | 69 | [A Luz De Tieta \- Live In Brazil / 1998](https://open.spotify.com/track/1XdjKkMcjRxzHQoemRGGuL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Prenda Minha](https://open.spotify.com/album/4HCs1WxdaCTb8S1TlgUG9C) | 4:11 |
 | 70 | [Zé Do Caroço](https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:24 |
 
-Snapshot ID: `MCxiZDYzYjNkZDEzMDhkNzUwNDEwN2VjMzUxYWRjZTBjOGQ2ZWQ4ODQx`
+Snapshot ID: `MCxkNGZkZTBhOWFkMzdhMjMxMTk3MjY4YTFkYjhhNDBkMTM5OWI3MjAx`

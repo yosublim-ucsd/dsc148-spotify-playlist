@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 70499,
+  "num_followers": 70573,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWY5Y2I5Zjc5NTcxNzZiMjg5OWYyYmJkNzc4MGJlMjc0NDllZWU1",
+  "snapshot_id": "MCwzZTg2YmY0N2ExNTZmYjViNmIxOGYxNzgwZDA5N2M3MDU5N2RjYzkx",
   "tracks": [
     {
       "added_at": "2024-02-01 12:01:22",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+        "name": "New Faces - New Sounds",
+        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Gil Melle",
+          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
         }
       ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+      "duration_ms": 181674,
+      "name": "Under Capricorn",
+      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
     },
     {
       "added_at": "2024-02-01 12:01:22",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2024-02-01 12:01:22",
+      "album": {
         "name": "Lennie Tristano / The New Tristano",
         "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 365840,
       "name": "Ghost of a Chance",
       "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
-    },
-    {
-      "added_at": "2024-02-01 12:01:22",
-      "album": {
-        "name": "New Faces - New Sounds",
-        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
-      },
-      "artists": [
-        {
-          "name": "Gil Melle",
-          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Under Capricorn",
-      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
     },
     {
       "added_at": "2024-02-01 12:01:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "The Queen's Fancy",
-      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
-    },
-    {
-      "added_at": "2024-02-01 12:01:22",
-      "album": {
         "name": "Stan Kenton",
         "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 553320,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
+    },
+    {
+      "added_at": "2024-02-01 12:01:22",
+      "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "The Queen's Fancy",
+      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
     },
     {
       "added_at": "2024-02-01 12:01:22",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
-    },
-    {
-      "added_at": "2024-02-01 12:01:22",
-      "album": {
         "name": "The Ivory Hunters",
         "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 250472,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO"
+    },
+    {
+      "added_at": "2024-02-01 12:01:22",
+      "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2024-02-01 12:01:22",

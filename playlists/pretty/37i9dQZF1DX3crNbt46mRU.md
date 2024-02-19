@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,296 likes - 109 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,303 likes - 109 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 51 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
 | 52 | [Blink Of An Eye](https://open.spotify.com/track/5PoL8lwDbcaeqZYBKerOb6) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Blink Of An Eye](https://open.spotify.com/album/3M31O8of9GHDrf1WTCZjDX) | 2:50 |
 | 53 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
-| 54 | [S.A.D](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
+| 54 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
 | 55 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp) | 3:49 |
 | 56 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 |
 | 57 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 73 | [Lost](https://open.spotify.com/track/38AekPWyttjhbI53p7qivw) | [Jamin](https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9) | [Lost](https://open.spotify.com/album/4TlUsD8Fg2lD0i1qWpRSQ5) | 2:54 |
 | 74 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |
 | 75 | [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 |
-| 76 | [Weak in the knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak in the knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 |
+| 76 | [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 |
 | 77 | [Waterfalls](https://open.spotify.com/track/1sstQKxSmP2Z0w0Pm0f87W) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Waterfalls](https://open.spotify.com/album/6LxJlqmx9aiHs3GIqSRMzh) | 2:55 |
 | 78 | [On My Mind](https://open.spotify.com/track/2REV45xgTkmZnixZyQdeCj) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [On My Mind](https://open.spotify.com/album/7d3ipgo7MFc14ktcdiM9sK) | 3:02 |
 | 79 | [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Was ist wenn es gut wird](https://open.spotify.com/track/1XOB1bAPJRk9TmpRMBcabL) | [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh) | [Was ist wenn es gut wird](https://open.spotify.com/album/63l51lb0ctc5R8C4kwCI20) | 2:16 |
 | 109 | [Neverland](https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Neverland](https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik) | 3:32 |
 
-Snapshot ID: `MCxiYWYyODBhOTQ5NTk5ZmVlMGI0ZjM1M2UzYzNkMzA5ZTgwNjQxYTcw`
+Snapshot ID: `MCwyNzU1ZGI3OGNkZGIzNjdlOTdjNDU1OGU3MmIyNWY5MTAzYWU0Nzdl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,165 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,207 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 34 | [Clear Road](https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Clear Road](https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x) | 2:39 |
 | 35 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 |
 | 36 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 |
-| 37 | [My Brother](https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Brother](https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6) | 2:38 |
-| 38 | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 |
+| 37 | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 |
+| 38 | [My Brother](https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Brother](https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6) | 2:38 |
 | 39 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
 | 40 | [Child's Play](https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Child's Play](https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD) | 2:31 |
 | 41 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 48 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 |
 | 49 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 |
 | 50 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
-| 51 | [Gbadun](https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Gbadun](https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO) | 2:40 |
-| 52 | [Abracadabra](https://open.spotify.com/track/5VcTNeY4BX9zw5SaYPP6jj) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Big Time](https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b) | 3:02 |
+| 51 | [Abracadabra](https://open.spotify.com/track/5VcTNeY4BX9zw5SaYPP6jj) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Big Time](https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b) | 3:02 |
+| 52 | [Gbadun](https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Gbadun](https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO) | 2:40 |
 | 53 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 |
 | 54 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
 | 55 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [GoodSin \(feat\. Reekado Banks\) \- Remix](https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [GoodSin \(feat\. Reekado Banks\) \[Remix\]](https://open.spotify.com/album/6qqlM35C4DXPsTO54i9pku) | 3:53 |
 | 60 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 
-Snapshot ID: `MCxhYjI4MmUxNjI5NDBiYjUxNTkxOWUyNGNkNTk1OTljMTE4ZTM0ZTA4`
+Snapshot ID: `MCw5YzM5ZTMwZjJiNzkyYWUwMDlmYWM3MDc2ZTZhNWI4MzM1YzYxNjhj`

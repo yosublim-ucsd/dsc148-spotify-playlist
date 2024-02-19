@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 226915,
+  "2024-02-19": 227029,
   "date_first_scraped": "2022-03-24",
   "description": "LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
@@ -733,7 +733,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 216000,
       "name": "Alma",
       "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 200000,
       "name": "Ballena",
       "url": "https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 146490,
       "name": "Boa Sorte Mesmo",
       "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 159973,
       "name": "Cart\u00e3o Black",
       "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
@@ -2628,6 +2628,28 @@
     },
     {
       "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451284,
+      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
+    },
+    {
+      "album": {
         "name": "Cora\u00e7\u00e3o Quebrado",
         "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
       },
@@ -2990,6 +3012,24 @@
     },
     {
       "album": {
+        "name": "Turma do Pagode XV Anos (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "Deixa em Off - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG"
+    },
+    {
+      "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
       },
@@ -3271,7 +3311,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 145153,
       "name": "Disse Que \u00e9 F\u00e3 de Rap",
       "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
@@ -3357,6 +3397,28 @@
       "duration_ms": 195224,
       "name": "Dores",
       "url": "https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P"
+    },
+    {
+      "album": {
+        "name": "Dorme Com Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rSEw4EQsTnuF92r9NWbDF"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215554,
+      "name": "Dorme Com Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/29x19EWLWMB1sn8WD5iynZ"
     },
     {
       "album": {
@@ -3539,7 +3601,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -4609,6 +4671,28 @@
       "duration_ms": 338823,
       "name": "Giro dos Artistas",
       "url": "https://open.spotify.com/track/0Pjd5h1ZOSyhSwZrDeCIXg"
+    },
+    {
+      "album": {
+        "name": "Turma no Quintal EP4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4yFnfmKpSeqs5nCYv9OY58"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184622,
+      "name": "Gola\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2vvWv4e4PfXCUzsL9CuGzi"
     },
     {
       "album": {
@@ -5872,6 +5956,24 @@
     },
     {
       "album": {
+        "name": "O Som das Multid\u00f5es (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/4d329KQXDPuJgo2828KdKA"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "Lancinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CeeLpwJUYA4b0xL7eSvzn"
+    },
+    {
+      "album": {
         "name": "Larga Essa Vida",
         "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
       },
@@ -7009,7 +7111,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 313845,
       "name": "Mega da Gang 06",
       "url": "https://open.spotify.com/track/5NF0cMnsvWWg3uhF80Aqio"
@@ -8853,7 +8955,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 177551,
       "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
       "url": "https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO"
@@ -9665,7 +9767,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 214783,
       "name": "Posturada - Ao Vivo",
       "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
@@ -10825,7 +10927,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 104145,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
@@ -11149,7 +11251,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 409411,
       "name": "Set Dj Boy 3.0",
       "url": "https://open.spotify.com/track/2xs2TwrlfamtW0DQqId0M5"

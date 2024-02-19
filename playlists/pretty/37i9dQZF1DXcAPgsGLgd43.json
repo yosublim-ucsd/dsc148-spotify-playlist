@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3919,
+  "num_followers": 3922,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjdhMmM2OWJkZWY1Njc2NTNmMTMzZmYzMWEzOTJlNTUyNjk0MWU1",
+  "snapshot_id": "MCw4MmE4OTdkYTJmMmJhZWQ5ODZlYjVjMWFiN2JhODBkMDVkMzc0ZTUx",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Roots EP, Pt. 1",
         "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 216000,
       "name": "Hijos De La Noche",
       "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Gringada",
-        "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
-      },
-      "artists": [
-        {
-          "name": "Costa Leon",
-          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
-        },
-        {
-          "name": "DJ Cuervo",
-          "url": "https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "Gringada",
-      "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Senta Relaxa",
         "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 180014,
       "name": "Senta Relaxa",
       "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Gringada",
+        "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
+      },
+      "artists": [
+        {
+          "name": "Costa Leon",
+          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
+        },
+        {
+          "name": "DJ Cuervo",
+          "url": "https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Gringada",
+      "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Tuku Tu",
-        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
-      },
-      "artists": [
-        {
-          "name": "BOLO THE DJ",
-          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
-        }
-      ],
-      "duration_ms": 140787,
-      "name": "Tuku Tu",
-      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Cuarto Oscuro / BAQ Spicy",
         "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Tuku Tu",
+        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        }
+      ],
+      "duration_ms": 140787,
+      "name": "Tuku Tu",
+      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Canutito",
         "url": "https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG"
       },
@@ -1435,6 +1435,26 @@
       "duration_ms": 206962,
       "name": "Canutito",
       "url": "https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1455,6 +1475,26 @@
       "duration_ms": 142447,
       "name": "Dimini",
       "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1623,26 +1663,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Te Recorde",
-        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Te Recorde",
-      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Gitrox",
         "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
       },
@@ -1655,22 +1675,6 @@
       "duration_ms": 197209,
       "name": "Gitrox",
       "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Quema Quema",
-        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
-      },
-      "artists": [
-        {
-          "name": "Mister Pancho",
-          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
-        }
-      ],
-      "duration_ms": 126707,
-      "name": "Quema Quema",
-      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1695,6 +1699,22 @@
       "duration_ms": 167441,
       "name": "Tr\u00e1gatelo",
       "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Quema Quema",
+        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
+      },
+      "artists": [
+        {
+          "name": "Mister Pancho",
+          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
+        }
+      ],
+      "duration_ms": 126707,
+      "name": "Quema Quema",
+      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1731,26 +1751,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "\u00a1Date Prisa!",
-        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "STO CULTR",
-          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
-        }
-      ],
-      "duration_ms": 199687,
-      "name": "\u00a1Date Prisa!",
-      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Labios (La Noche)",
         "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
       },
@@ -1783,6 +1783,26 @@
       "duration_ms": 231562,
       "name": "Q' Pario",
       "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Se Acaba (Sinego Remix)",
+        "url": "https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT"
+      },
+      "artists": [
+        {
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 381885,
+      "name": "Se Acaba - Sinego Remix",
+      "url": "https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1847,6 +1867,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb"
+      },
+      "artists": [
+        {
+          "name": "Jack Bailey",
+          "url": "https://open.spotify.com/artist/0nvtleWgvZzWCF1xQ8mdwc"
+        },
+        {
+          "name": "Nick Proof",
+          "url": "https://open.spotify.com/artist/1cFOVkSIXej2ndDMhKholO"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Tikitro",
         "url": "https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs"
       },
@@ -1883,42 +1923,6 @@
       "duration_ms": 370000,
       "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
       "url": "https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Balafon",
-        "url": "https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2"
-      },
-      "artists": [
-        {
-          "name": "Blvckr",
-          "url": "https://open.spotify.com/artist/1Uh9u2rcNvMsoYgbgBsj6y"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Balafon",
-      "url": "https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb"
-      },
-      "artists": [
-        {
-          "name": "Jack Bailey",
-          "url": "https://open.spotify.com/artist/0nvtleWgvZzWCF1xQ8mdwc"
-        },
-        {
-          "name": "Nick Proof",
-          "url": "https://open.spotify.com/artist/1cFOVkSIXej2ndDMhKholO"
-        }
-      ],
-      "duration_ms": 171785,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7"
     }
   ],
   "unique_name": "Alma",

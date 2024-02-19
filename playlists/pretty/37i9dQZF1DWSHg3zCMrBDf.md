@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,381 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,420 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 |
 | 50 | [Kusuu](https://open.spotify.com/track/0BXG6kR9D7ZjXtjBwvPiKy) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:25 |
 
-Snapshot ID: `MCxkMzNkMjU1NmVkNjRiMjFhZmM3YzhkNGMyNTk3ZGY2ZTg0YTU5ZTc3`
+Snapshot ID: `MCxiNjMxNzVhZTQ1ZDZiOTkyNDJiNzBmZDUzZjBhOTNmNzZkOTdmMGU4`

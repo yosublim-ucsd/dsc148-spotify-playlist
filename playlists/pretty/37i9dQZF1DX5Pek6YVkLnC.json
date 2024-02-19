@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: ROA",
-  "num_followers": 230869,
+  "num_followers": 230859,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDAzNDg3YTVjMzk3MDIxN2ZmNDA4OTczMjI3ZTdkZWU2MjhiNzI2",
+  "snapshot_id": "MCxkNzljMTdiMWUzYTFlYTMwMDMwZmNlOWQwNjJmOThkNDRjMzdhODU2",
   "tracks": [
     {
       "added_at": "2024-01-30 23:09:29",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-30 23:09:29",
       "album": {
-        "name": "UN TRATO",
-        "url": "https://open.spotify.com/album/5rJnrNKi5leQAFZUXh0f7P"
-      },
-      "artists": [
-        {
-          "name": "Izzy",
-          "url": "https://open.spotify.com/artist/3lx9s0PztiAJYkM0RLD8kC"
-        }
-      ],
-      "duration_ms": 130618,
-      "name": "UN TRATO",
-      "url": "https://open.spotify.com/track/4yZS80QhJzv3cWuHEOf4Ka"
-    },
-    {
-      "added_at": "2024-01-30 23:09:29",
-      "album": {
         "name": "CERTIFIED",
         "url": "https://open.spotify.com/album/6BO3l1rv04Juyf1DMwq6zp"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 240303,
       "name": "D.N.D (feat. Nio Garcia)",
       "url": "https://open.spotify.com/track/49zTA53lttr65mA6Z99S6O"
+    },
+    {
+      "added_at": "2024-01-30 23:09:29",
+      "album": {
+        "name": "UN TRATO",
+        "url": "https://open.spotify.com/album/5rJnrNKi5leQAFZUXh0f7P"
+      },
+      "artists": [
+        {
+          "name": "Izzy",
+          "url": "https://open.spotify.com/artist/3lx9s0PztiAJYkM0RLD8kC"
+        }
+      ],
+      "duration_ms": 130618,
+      "name": "UN TRATO",
+      "url": "https://open.spotify.com/track/4yZS80QhJzv3cWuHEOf4Ka"
     }
   ],
   "unique_name": "Rompiendo: Puerto Rico",

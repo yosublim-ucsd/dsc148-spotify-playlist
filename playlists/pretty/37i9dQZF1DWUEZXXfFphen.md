@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEZXXfFphen.md) - [plain]
 
 > Los sonidos más dulces del pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,250 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,281 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEZXXfFphen.md) - [plain]
 | 59 | [Can't Remember to Forget You \(feat\. Rihanna\)](https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:26 |
 | 60 | [Beautiful Liar](https://open.spotify.com/track/2HWWNoWEEEECwZhAiLg7ib) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:19 |
 
-Snapshot ID: `MCwzMTdlYjIxOGRkMmYxMzllODkzNTU1MGI0NDA4YmRmNWJjMjU4ZmM4`
+Snapshot ID: `MCxiMzUxN2U5Y2ZlZGRjYjNiZjY2ZGY4MjAzZDlhZTQxOTQ4NmY4NGUy`

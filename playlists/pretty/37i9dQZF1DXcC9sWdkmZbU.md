@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,026 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,066 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 46 | [God Gives Power Not Fear \(1 Timothy 1:7\)](https://open.spotify.com/track/4XSzE4AIVFpJk3CsPJYGUS) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI), [Mr\. Steve](https://open.spotify.com/artist/6zO8I3N6qSLXrQ39Ht0Gxu) | [Know God, No Fear: Bible Songs for Such a Time as This](https://open.spotify.com/album/2ELlJVipEutJxawdwh64ih) | 2:11 |
 | 47 | [The Ten Commandments](https://open.spotify.com/track/3gDgLB3yCTirBi4yFa5y64) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [The Ten Commandments](https://open.spotify.com/album/2ucvPEJdeiyUbnvqecfyu6) | 3:31 |
 | 48 | [Come to Me \(Matthew 11:28\-30\)](https://open.spotify.com/track/5ftRDxHHlXxhYjiwPDQu2j) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Sing the Bible, Vol\. 4](https://open.spotify.com/album/1vSzE4ClIzrmKFtKZr7Ni3) | 2:54 |
-| 49 | [Stars \(Philippians 2:14\-16\)](https://open.spotify.com/track/0swWz0e1kcnDokEQTm4qvC) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Sing the Bible, Vol\. 2](https://open.spotify.com/album/52c135YsCutZVTLPf8i1s9) | 3:28 |
+| 49 | [Stars](https://open.spotify.com/track/0swWz0e1kcnDokEQTm4qvC) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Sing the Bible, Vol\. 2](https://open.spotify.com/album/52c135YsCutZVTLPf8i1s9) | 3:28 |
 | 50 | [No Greater Love](https://open.spotify.com/track/2AfFMm3DTsbQ1qvE61uZwM) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 3:50 |
 | 51 | [Power \(Acts 1:8 ESV\)](https://open.spotify.com/track/0zUuGomdXdwtYynSEtyIXd) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Power](https://open.spotify.com/album/3hs9EQ2LPzoJydKy9bXN2m) | 3:13 |
 | 52 | [\(Don't You Know\) It's Time To Praise The Lord](https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 0:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 59 | [Let Your Light Shine \(Matthew 5:14,16 Berean\)](https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Let Your Light Shine](https://open.spotify.com/album/5z8Ma2gz6h4sIH4Rj2jwiw) | 3:06 |
 | 60 | [Blessed Be Your Name](https://open.spotify.com/track/3yJIV1U93Bpgw2cRZ6VUiw) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 3:42 |
 
-Snapshot ID: `MCxjODgzNTgyZmYyMzQzNjhmOTQzY2MyM2VhMzAxMjJjYjBiMDM0MDE3`
+Snapshot ID: `MCxjMjZkYjBiMTQ5NzQyMzFlZjI4NGYwYmE2YzQ2NmYwNmI1Mjg1MDIw`

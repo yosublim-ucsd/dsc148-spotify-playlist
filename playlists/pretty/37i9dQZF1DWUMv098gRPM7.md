@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Aqyila
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,202 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,232 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 56 | [Video Games](https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Video Games](https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ) | 3:40 |
 | 57 | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/track/0DfvMYHipoZ3u0AJf4LjKF) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/album/1HKFbE6Qx3xLhPIqxkZUqb) | 2:31 |
 | 58 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
-| 59 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
-| 60 | [Touch You](https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:38 |
+| 59 | [Touch You](https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:38 |
+| 60 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 61 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
 | 62 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 |
 | 63 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 71 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 |
 | 72 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
 | 73 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
-| 74 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
-| 75 | [Freedom \(with BEAM\)](https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ) | 2:45 |
+| 74 | [Freedom \(with BEAM\)](https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ) | 2:45 |
+| 75 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
 
-Snapshot ID: `MCxhNmIwM2YyNDQzODBhM2E0NWU4MzFhNTk3MThmOTA5YjA4ZDdjMDA2`
+Snapshot ID: `MCwyNDc3MGViNTI3YjI4Zjc4OGFiMDljM2FiNTExMDE5ODViYjE1ZTBk`

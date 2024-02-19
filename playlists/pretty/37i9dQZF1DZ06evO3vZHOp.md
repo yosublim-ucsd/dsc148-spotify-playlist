@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,821 likes - 48 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,924 likes - 48 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 41 | [¿Qué Carajos Quieres Tú Ahora?](https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:35 |
 | 42 | [Hielo](https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:11 |
 | 43 | [FLEXXX](https://open.spotify.com/track/6kmUiXB20EEru6wn39f2Tw) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:14 |
-| 44 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 |
-| 45 | [Animal](https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Animal](https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF) | 3:37 |
+| 44 | [Animal](https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Animal](https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF) | 3:37 |
+| 45 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 |
 | 46 | [Que Cojones](https://open.spotify.com/track/22TyikLrwsaXhsL31mewls) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Que Cojones](https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh) | 2:41 |
 | 47 | [6PM EN MALLORCA](https://open.spotify.com/track/24k6OwxLtnJX0UaC4j5O8W) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [6PM EN MALLORCA](https://open.spotify.com/album/0TFsABRaWVVS30lrRnD3Un) | 2:24 |
 | 48 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAwYmJjMGVhNTQ5MzJkYWM2N2IyOGI3NTZkMjk4MGU4ZA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBlMTRmMTY2ZmY0MDNmYmM0MjRjNjIwNTBkZDBjMTNkYg==`

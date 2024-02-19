@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-898 songs - 2 day 14 hr 25 min
+899 songs - 2 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2022-01-05 |  |
 | [Barbed Wire Love](https://open.spotify.com/track/5vWYEFE5oC9mFrpufdNqb8) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 3:32 | 2022-01-05 |  |
 | [Bargain](https://open.spotify.com/track/4Vtl42qX97JBj68TKifBHR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:33 | 2022-01-05 |  |
-| [Barrytown](https://open.spotify.com/track/7jkk1MrXJptKicctJKkXjC) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:20 | 2022-11-17 |  |
+| [Barrytown](https://open.spotify.com/track/7jkk1MrXJptKicctJKkXjC) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:20 | 2022-11-17 | 2024-02-19 |
 | [Barrytown](https://open.spotify.com/track/53GpNOI1Qe1tx0p6CROgwx) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 3:20 | 2022-01-05 | 2023-08-02 |
 | [Beautiful Girls \- 2015 Remaster](https://open.spotify.com/track/7Ly4DzymgujObKg7wWVHZV) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen II \(Remastered\)](https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI) | 3:56 | 2022-01-05 |  |
 | [Been down so Long](https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:39 | 2022-01-05 |  |
@@ -147,6 +147,7 @@
 | [Change Of The Guard](https://open.spotify.com/track/4nXetPzsp0cG4HAgBW7dXW) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 3:38 | 2022-01-05 | 2022-11-09 |
 | [Change Of The Guard](https://open.spotify.com/track/1hKDXDtgKCgdVi0L6wtXN0) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 3:39 | 2022-11-17 |  |
 | [Charisma](https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:25 | 2022-01-05 |  |
+| [Cheap Sunglasses](https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:48 | 2022-11-17 |  |
 | [Cheap Sunglasses](https://open.spotify.com/track/30jsPpxLvSCYTTTtdjRzBp) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 4:48 | 2022-01-05 | 2024-02-10 |
 | [Cheatin' Woman](https://open.spotify.com/track/2fnAWGcjkl6TXbq58WjCJv) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 4:39 | 2022-01-05 | 2024-02-18 |
 | [Child of Mine](https://open.spotify.com/track/5M2f0NpRHEWijIXUyBZQIY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Bare Trees](https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi) | 5:27 | 2022-01-05 | 2022-07-29 |
@@ -508,7 +509,7 @@
 | [Might Just Take Your Life \- Remastered 2004](https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:40 | 2022-01-05 | 2022-07-29 |
 | [Miss America](https://open.spotify.com/track/2UpMxlf6h57UsAU77G172s) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 5:02 | 2022-01-05 |  |
 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 | 2022-01-05 |  |
-| [Mississippi Kid](https://open.spotify.com/track/3xdwGhgjAVDJqkJhsVe91z) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 3:56 | 2022-01-05 | 2024-02-16 |
+| [Mississippi Kid](https://open.spotify.com/track/3xdwGhgjAVDJqkJhsVe91z) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 3:56 | 2022-01-05 |  |
 | [Mississippi Water](https://open.spotify.com/track/2StkxB942K8edpXLPM0vjU) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb) | [People's People](https://open.spotify.com/album/2BM11NM5bFa2lYqhhJxIab) | 3:33 | 2022-01-05 | 2022-07-27 |
 | [Mississippi Water](https://open.spotify.com/track/2VErcrm4ZMT0D5ThoKmsTH) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb), [Andwellas Dream](https://open.spotify.com/artist/4DV83JtR2UWtGzIyvEyGA8) | [People's People](https://open.spotify.com/album/2ZCpSljywkjNwL4FpLNQtJ) | 3:33 | 2022-01-05 |  |
 | [Mistreated \- Remastered 2004](https://open.spotify.com/track/34RISamoO5iubsOanSlpQo) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 7:28 | 2022-01-05 | 2022-07-29 |
@@ -856,7 +857,7 @@
 | [Warriors](https://open.spotify.com/track/2vMBRpkDd8TbxY01tO9v2c) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:08 | 2022-01-05 | 2022-07-29 |
 | [Watermelon In Easter Hay](https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Joe's Garage Acts I, II & III](https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS) | 9:07 | 2022-01-05 |  |
 | [What You're Doing](https://open.spotify.com/track/5ta0Ra3jMlNWKlSyIML7ZI) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Rush](https://open.spotify.com/album/57ystaP7WpAOxvCxKFxByS) | 4:22 | 2022-01-05 |  |
-| [When a Blind Man Cries \- B\-Side; 2012 Remaster](https://open.spotify.com/track/6LVkntQPrL5GUZKgN6E1fC) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(2016 Version\)](https://open.spotify.com/album/3vf9XhG5wL3J0kVZhCEumf) | 3:31 | 2022-01-05 |  |
+| [When a Blind Man Cries \- B\-Side; 2012 Remaster](https://open.spotify.com/track/6LVkntQPrL5GUZKgN6E1fC) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(2016 Version\)](https://open.spotify.com/album/3vf9XhG5wL3J0kVZhCEumf) | 3:31 | 2022-01-05 | 2024-02-19 |
 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 | 2022-01-05 | 2022-07-29 |
 | [Where Do You Think You're Going?](https://open.spotify.com/track/1wttxNcudvqE58NQpY7Jdk) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Communiqué](https://open.spotify.com/album/6HEOoO8aHq5M88OA4teVY1) | 3:49 | 2022-01-05 |  |
 | [Where Do You Think You're Going?](https://open.spotify.com/track/2kKNeapwCHUUvMhmAOGce6) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Communiqué](https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu) | 3:49 | 2022-01-05 | 2022-07-29 |

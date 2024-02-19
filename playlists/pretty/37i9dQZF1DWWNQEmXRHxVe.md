@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable halftime shows\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,372 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,534 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 26 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
 | 27 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 |
 | 28 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
-| 29 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 |
-| 30 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
+| 29 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
+| 30 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 |
 | 31 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 |
 | 32 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
 | 33 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 46 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 47 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
 | 48 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
-| 49 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
-| 50 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
+| 49 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
+| 50 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 51 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 52 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 53 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 99 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 | 100 | [Motownphilly](https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 3:55 |
 
-Snapshot ID: `MCw3OTQwMDU3ZmNlMDY1NDNmZjNjMDhkMDBiNGQ4NGRmMDgxYTNiZWYx`
+Snapshot ID: `MCwyNGJiOGI1MThkZGQ1MzEyYzc3MWQ1NGNmODQ1ZDA3Y2RjMDIxMWRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,563 likes - 164 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,783 likes - 164 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 11 | [Physique \(feat\. RBZ\)](https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1), [RBZ](https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL) | [Physique \(feat\. RBZ\)](https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ) | 2:58 |
 | 12 | [Minute by Day](https://open.spotify.com/track/55wdL1VMU5irTZf3rbyKXF) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Minute by Day](https://open.spotify.com/album/5BTiYThaDPEtH3QkS1pcxg) | 2:31 |
 | 13 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 |
-| 14 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/19TWCY08zuSX6kdXR9C751) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
+| 14 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 |
 | 15 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 |
 | 16 | [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 |
 | 17 | [Forget You](https://open.spotify.com/track/1qy9CxuSfcG67k3BwK3hP2) | [All Is Fine](https://open.spotify.com/artist/4oWonABFu4oZ9gks7oST80), [Alexine](https://open.spotify.com/artist/4aQbwXmSokNi0u4v4U0e1t) | [Forget You](https://open.spotify.com/album/2a3254o7a4lhbfuHdRDjTJ) | 2:23 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 163 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 | 164 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 
-Snapshot ID: `MCxhMzg3MmFmMmJlNjQ1OTAwMTVjOWY1YzU2YmQyNGJlMGJjYjcxM2M5`
+Snapshot ID: `MCwwYjk4MmM0MjFlYmVmMTc0ODY2MzhiYTY0N2UxMTczMDk0OWMxMmQ2`

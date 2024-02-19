@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 
 > la generación del discman y el walkman
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,978 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,013 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 | 79 | [MMMBop \- Single Version](https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [The Best Of Hanson 20th Century Masters The Millennium Collection](https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5) | 3:58 |
 | 80 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
 
-Snapshot ID: `MCxmYjJhOWY0YTc5NDU5ODBmYjQwMTc5N2UxZjM3MTMwNjNjZTI1MGE0`
+Snapshot ID: `MCxkYWZmYzI0MzQ5MmE1YmI0NTBmNTUwNDYwZjQ2ZWQwYjg2MGI3OTNl`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 393716,
+  "num_followers": 393890,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjJkMzI2NzBkMTU5ZjMzMjk5MDAzNzFlZDNiOTI1MTZhODdiY2Qz",
+  "snapshot_id": "MCw0ODExNGVjZTJmMjA5MzhiYTE1YWY0NGM4ZDgyMzNjZTNjYTAzNzJk",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
       },
       "artists": [
         {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Another Vibe (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "You Are My Sunshine",
         "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
       },
@@ -719,22 +739,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
@@ -747,6 +751,22 @@
       "duration_ms": 224013,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -899,26 +919,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Another Vibe (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "IS IT YOU? / MYSTERIOUS LOVE",
         "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Every Breath You Take",
         "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "Jag vill ha allt",
+      "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 235043,
       "name": "England Skies",
       "url": "https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 206285,
-      "name": "Jag vill ha allt",
-      "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Need The Sun To Break",
-      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "SUGAR EP.",
         "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 369105,
       "name": "Dove",
       "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Need The Sun To Break",
+      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0"
-      },
-      "artists": [
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0"
+      },
+      "artists": [
+        {
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "We Were Here",
         "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 149013,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Color Pomelo",
         "url": "https://open.spotify.com/album/6BdL4sKb4pZzCpwbq0miIh"
       },
@@ -1551,6 +1519,38 @@
       "duration_ms": 233168,
       "name": "Color Pomelo",
       "url": "https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "isaac gracie (extended edition)",
-        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 243876,
       "name": "A Song With No Name",
       "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "isaac gracie (extended edition)",
+        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
+      },
+      "artists": [
+        {
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+        }
+      ],
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Laurel & Sunset",
-        "url": "https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4"
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
       "artists": [
         {
-          "name": "The Sweet Remains",
-          "url": "https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 237746,
-      "name": "Moving in Slow Motion",
-      "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
+      "duration_ms": 312066,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
     }
   ],
   "unique_name": "Relax en casa",

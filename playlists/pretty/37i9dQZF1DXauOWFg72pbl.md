@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,907 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,952 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 69 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
 | 70 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 |
 | 71 | [Footsteps](https://open.spotify.com/track/6hvSILCCQT5a0MRcOE36zd) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP \(Deluxe Edition\)](https://open.spotify.com/album/2OFYF3mFIa9wZqeU2SYSGC) | 4:22 |
-| 72 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
-| 73 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 |
+| 72 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 |
+| 73 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
 | 74 | [What Makes A Good Man?](https://open.spotify.com/track/3nGWzFBJ5tMzHWAgs16fK6) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [The Glorious Dead](https://open.spotify.com/album/5MmMomspau1V5YpXjHYJRy) | 3:46 |
 | 75 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 |
 | 76 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 99 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
 | 100 | [Too Good At Raising Hell](https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Too Good At Raising Hell](https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO) | 3:49 |
 
-Snapshot ID: `MCwzOTk1ZWMwOTIyZjdiNzUxMTM2YjJmMTA1NjA2YWU4MGY2YzkwY2M4`
+Snapshot ID: `MCw2MGIxMjNmNDgyZGE3MTJiNzM3Y2U0OGYxM2MyYTI3ZTdmNDNlOTkz`

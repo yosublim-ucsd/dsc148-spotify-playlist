@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Sasha Alex Sloan
 
-1,589 songs - 3 day 13 hr 31 min
+1,590 songs - 3 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Emergency Contact](https://open.spotify.com/track/4VSI8YfjcRIIHXSsef7I6K) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Emergency Contact](https://open.spotify.com/album/27FswUtwH8a5lg1xLlqdBE) | 3:00 | 2020-10-09 | 2020-11-13 |
 | [emily](https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 3:53 | 2021-02-06 | 2021-05-15 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-06-17 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-18 |  |
 | [Endless \- Sarcastic Sounds Remix](https://open.spotify.com/track/17BeuwU5H2qbLetJP5gly8) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Endless \(Sarcastic Sounds Remix\)](https://open.spotify.com/album/4iqeagZdoH1mwkD5FQkuKu) | 2:11 | 2021-04-03 | 2021-06-05 |
 | [Enough](https://open.spotify.com/track/5C8Y0e4YnmWUcKwWFAHnZ6) | [Joe Avio](https://open.spotify.com/artist/3QegvPZ8QZhhJbNGaaZiXI) | [Whatever Will We Do](https://open.spotify.com/album/0OgwlrS2flxZ0hnmLKKgTh) | 3:50 | 2020-11-21 | 2021-01-15 |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 | 2023-11-04 |
@@ -1133,7 +1134,7 @@
 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 | 2020-04-26\* | 2020-08-07 |
 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo) | 4:14 | 2021-07-04 | 2021-08-28 |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-08-06 |
-| [Rewrite the Stars](https://open.spotify.com/track/6MmBZEU7zbWwPP32XJQPoI) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Rewrite the Stars](https://open.spotify.com/album/1SA55aT60plxlyPRErTCRw) | 2:31 | 2023-12-08 |  |
+| [Rewrite the Stars](https://open.spotify.com/track/6MmBZEU7zbWwPP32XJQPoI) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Rewrite the Stars](https://open.spotify.com/album/1SA55aT60plxlyPRErTCRw) | 2:31 | 2023-12-08 | 2024-02-19 |
 | [Right Person Right Time](https://open.spotify.com/track/5OkOmrLsbr8Lg5wj89LOUb) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Right Person Right Time](https://open.spotify.com/album/2VFni6wfmAnqDS7OWnBUt6) | 2:58 | 2022-09-16 | 2023-02-18 |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2022-10-10 |  |
 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 | 2024-02-16 |  |

@@ -4,7 +4,7 @@
 
 > natural wine vibes, because wine not? \| Photo: Stir Crazy LA
 
-107 songs - 6 hr 42 min
+108 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,11 +38,12 @@
 | [Cruisin to the Park](https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Cruisin to the Park](https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY) | 3:32 | 2024-01-08 |  |
 | [Death of the Phone Call](https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Huli Ka](https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u) | 1:35 | 2024-01-08 |  |
 | [deep in it](https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [deep in it](https://open.spotify.com/album/7ElbJht6FB0z3ykuVKEh1L) | 2:34 | 2024-02-14 |  |
+| [Desafinado](https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:58 | 2024-02-16 |  |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2024-01-08 |  |
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2024-01-08 |  |
 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 | 2024-01-08 |  |
 | [Drifting](https://open.spotify.com/track/7rcIHCRo0d6CZtpwC0cznD) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 2:31 | 2024-01-08 | 2024-02-17 |
-| [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7) | 2:34 | 2024-01-08 |  |
+| [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7) | 2:34 | 2024-01-08 | 2024-02-19 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 | 2024-01-08 |  |
 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 | 2024-01-19 |  |
 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 | 2024-01-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,814 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,782 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 27 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
 | 28 | [La Pregunta](https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:29 |
 | 29 | [Fiebre \(Prod\. King DouDou\)](https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:07 |
-| 30 | [Me Niegas](https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA) | [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [Los Cotizados](https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8) | 3:21 |
+| 30 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 |
 | 31 | [Ojitos Chiquitos](https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 3:49 |
 | 32 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 |
 | 33 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
-| 34 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 |
+| 34 | [Me Niegas](https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA) | [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [Los Cotizados](https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8) | 3:21 |
 | 35 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
 | 36 | [Na De Na](https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw) | 3:22 |
 | 37 | [Hooka](https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 49 | [Me Estas Tentando](https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolucion \(Deluxe\)](https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF) | 3:49 |
 | 50 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 |
 
-Snapshot ID: `MCw0MTgyYmIxNGUxNTdmMmRiMGJkNjU1ZDc1MjM1YjE2OWRiMDRjZmQx`
+Snapshot ID: `MCw4MjdmZTc2YjI0Yzk1ZDU5MjAzZGNkODZkNmRmODI2ZmM0M2U1NDcw`

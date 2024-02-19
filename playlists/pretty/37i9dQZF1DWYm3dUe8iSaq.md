@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,821 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,879 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 28 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 29 | [Unconditional](https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Devon or Las Vegas](https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade) | 4:20 |
 | 30 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
-| 31 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 |
-| 32 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
+| 31 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
+| 32 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 |
 | 33 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 34 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
 | 35 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 39 | [A Love Like That](https://open.spotify.com/track/3S7ZyZIxHglvugzw3vKpuT) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 2:55 |
 | 40 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
 | 41 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
-| 42 | [Give Me A Reason \- Demo Version](https://open.spotify.com/track/76u9IeQG9eJKeUMp9EmuMZ) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [I Don't Think I Do \(Demo Versions\)](https://open.spotify.com/album/5sWsinLSTjwtVFOSeOrsLc) | 3:46 |
-| 43 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
+| 42 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
+| 43 | [Give Me A Reason \- Demo Version](https://open.spotify.com/track/76u9IeQG9eJKeUMp9EmuMZ) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [I Don't Think I Do \(Demo Versions\)](https://open.spotify.com/album/5sWsinLSTjwtVFOSeOrsLc) | 3:46 |
 | 44 | [Untitled](https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:33 |
 | 45 | [For Your Touch](https://open.spotify.com/track/5VeUl0KzQQOm4qLzqTyX83) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [For Your Touch](https://open.spotify.com/album/3E6MTeXMibrYqUIqUnn9qO) | 3:02 |
 | 46 | [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 |
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 56 | [Party Dress](https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY) | 3:14 |
 | 57 | [strawberries for two](https://open.spotify.com/track/33AqMQTISnP1daTHunLVKO) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [strawberries for two](https://open.spotify.com/album/1kMlsA7I3l7LiskTVSlRNX) | 2:41 |
 | 58 | [This Is How We Move](https://open.spotify.com/track/7BDBOaBevxxjq2VN3WrUyS) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:06 |
-| 59 | [Young](https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Young](https://open.spotify.com/album/6J0Giau2BxwhGBYS4UDcic) | 3:21 |
-| 60 | [Love, The Time Is Now](https://open.spotify.com/track/1lyMIOFj8fddSUNVnPwZ5r) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Love, The Time Is Now](https://open.spotify.com/album/7njpPAO7gbTsNbkzlbzjP9) | 2:23 |
+| 59 | [Love, The Time Is Now](https://open.spotify.com/track/1lyMIOFj8fddSUNVnPwZ5r) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Love, The Time Is Now](https://open.spotify.com/album/7njpPAO7gbTsNbkzlbzjP9) | 2:23 |
+| 60 | [Young](https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Young](https://open.spotify.com/album/6J0Giau2BxwhGBYS4UDcic) | 3:21 |
 | 61 | [Bullet](https://open.spotify.com/track/02xiL1bRrT2lEtrxul4JzB) | [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [Bullet](https://open.spotify.com/album/7bUTtLWrkKLsntpZTcacGR) | 3:51 |
 | 62 | [Lava Lamps](https://open.spotify.com/track/5uxGfABpJl3ZlrpwKL45Bh) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Lava Lamps](https://open.spotify.com/album/45zGYTaMmmAXbYhfVFQcMk) | 2:53 |
 | 63 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 |
 | 64 | [It Takes Time](https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [It Takes Time](https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U) | 3:20 |
-| 65 | [Corduroy](https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Corduroy](https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH) | 3:15 |
-| 66 | [Alone With You](https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Alone With You](https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j) | 3:49 |
+| 65 | [Alone With You](https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Alone With You](https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j) | 3:49 |
+| 66 | [Corduroy](https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Corduroy](https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH) | 3:15 |
 | 67 | [High & Low](https://open.spotify.com/track/21vR6ME6fngSvEN8oW2uEg) | [Gemma Hayes](https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2) | [High & Low](https://open.spotify.com/album/1dsyvDDlTPjDYRnMjYnkWb) | 3:53 |
 | 68 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 |
 | 69 | [Like I Used To](https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Like I Used To](https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Another Day](https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [Beudy Penlan](https://open.spotify.com/album/1RA5ryginKxtFUqkFfaNT2) | 2:58 |
 | 80 | [Wandering Souls](https://open.spotify.com/track/2V3Ru7gXqHTskwvV281kzy) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Wandering Souls](https://open.spotify.com/album/3ypI1dsbQu9TLlTaJHGYZ2) | 3:35 |
 
-Snapshot ID: `MCxiOGMyMjJhZmM5MTE4OGZlMzU2ZTE2MGY4YTI4Yjk5MzI3MzhlNTA0`
+Snapshot ID: `MCw0MDQ3MGIzNGY3MGM2M2Y4ZmU5ZjVjN2VjYzNlMTUxYjE0MmI5YzY2`

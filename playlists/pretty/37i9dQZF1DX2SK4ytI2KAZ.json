@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 709017,
+  "num_followers": 709050,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmJjODZhNDJhOGNiNmRkNjQ4MjViMTcwODA5MzQwZDRjOGMwYjI3",
+  "snapshot_id": "MCxhNmIzNWU4YzZmZjVjYWYyMjhlNDcxMmYyMGE4NTdkYjE5M2IzMGY3",
   "tracks": [
     {
       "added_at": "2024-02-16 17:02:19",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
-        "name": "Modern Girl",
-        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -599,22 +599,18 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        },
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 189493,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
+      "duration_ms": 224640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -631,22 +627,6 @@
       "duration_ms": 187973,
       "name": "Ready To Let Go",
       "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -763,6 +743,22 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
+        "name": "Your Apartment",
+        "url": "https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 198707,
+      "name": "Your Apartment",
+      "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -863,22 +859,6 @@
       "duration_ms": 187596,
       "name": "spite",
       "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
-        "name": "Your Apartment",
-        "url": "https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 198707,
-      "name": "Your Apartment",
-      "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -1091,22 +1071,6 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
-        "name": "Alive!",
-        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Alive!",
-      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
       },
@@ -1119,6 +1083,22 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -1239,6 +1219,22 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
+        "name": "Capricorn / Gen-X Cops",
+        "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Gen-X Cops",
+      "url": "https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
         "name": "The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
       },
@@ -1267,6 +1263,22 @@
       "duration_ms": 177773,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
+        "name": "cough drops",
+        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 163990,
+      "name": "cough drops",
+      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -1335,22 +1347,6 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
-        "name": "cough drops",
-        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 163990,
-      "name": "cough drops",
-      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
         "name": "Odelay",
         "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
       },
@@ -1363,6 +1359,22 @@
       "duration_ms": 195440,
       "name": "Devils Haircut",
       "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -1383,6 +1395,38 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
+        "name": "Grief Chapter",
+        "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Explode!",
+      "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
         "name": "Dangerous Game",
         "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
       },
@@ -1399,18 +1443,22 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
       },
       "artists": [
         {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        },
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
+      "duration_ms": 189493,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/5MP8QCjsJQPJ5ApdHMg3dl"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -1447,22 +1495,6 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
         "name": "Orca",
         "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
       },
@@ -1495,6 +1527,22 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
         "name": "Zen (with K.Flay & grandson)",
         "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
       },
@@ -1515,22 +1563,6 @@
       "duration_ms": 215882,
       "name": "Zen (with K.Flay & grandson)",
       "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
-        "name": "Capricorn / Gen-X Cops",
-        "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Gen-X Cops",
-      "url": "https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -1583,6 +1615,22 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
         "name": "Lucky For You",
         "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
@@ -1603,38 +1651,6 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "What Now",
-      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
         "name": "Bank On The Funeral",
         "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
@@ -1647,26 +1663,6 @@
       "duration_ms": 227373,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2024-02-16 17:02:19",

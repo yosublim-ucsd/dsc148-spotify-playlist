@@ -1,12 +1,12 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 429238,
+  "num_followers": 429193,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGEwNzViYTRjM2RjMjYzZDJmZWEyNDMyN2FlNjk5YWNkZjE3MDll",
+  "snapshot_id": "MCxhNmUzNzAzOTA3NWJiZmEyNTFkZjdkNTVkN2Y3MGZmNTRjZDRjNDE5",
   "tracks": [
     {
       "added_at": "2023-01-24 14:22:32",
@@ -355,6 +355,26 @@
     {
       "added_at": "2023-01-24 14:22:32",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+    },
+    {
+      "added_at": "2023-01-24 14:22:32",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2023-01-24 14:22:32",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2023-01-24 14:22:32",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-01-24 14:22:32",
       "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "added_at": "2023-01-24 14:22:32",
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 186146,
       "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
       "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
-    },
-    {
-      "added_at": "2023-01-24 14:22:32",
-      "album": {
-        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
     },
     {
       "added_at": "2023-01-24 14:22:32",

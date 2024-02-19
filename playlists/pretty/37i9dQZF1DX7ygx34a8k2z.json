@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 204816,
+  "num_followers": 205089,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTVlYmZmY2Y0YzFmOTA5ZTViNGQ1NjZlMDZhYmVlYzRlOWM1ZDM1",
+  "snapshot_id": "MCw4N2E3ZTNlNzkxYzEyZmFjMmIxNTk2NTg5MGM3NjliMmJkMzA3MjUw",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
+        "name": "Gran Turismo (Remastered)",
+        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 220467,
+      "name": "My Favourite Game",
+      "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 173493,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
-        "name": "Gran Turismo (Remastered)",
-        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 220467,
-      "name": "My Favourite Game",
-      "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Electriclarryland",
         "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 297266,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
         "name": "Beautiful Freak",
         "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 199960,
       "name": "We Used To Be Friends",
       "url": "https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Iceblink Luck",
-      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+        "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+      "duration_ms": 318373,
+      "name": "Autumn Sweater",
+      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "I Can Hear The Heart Beating As One",
-        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
       "artists": [
         {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 318373,
-      "name": "Autumn Sweater",
-      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Alien Lanes",
-        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
-      },
-      "artists": [
-        {
-          "name": "Guided By Voices",
-          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
-        }
-      ],
-      "duration_ms": 93306,
-      "name": "Game Of Pricks",
-      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 210200,
       "name": "Girl from Mars",
       "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Alien Lanes",
+        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
+      },
+      "artists": [
+        {
+          "name": "Guided By Voices",
+          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+        }
+      ],
+      "duration_ms": 93306,
+      "name": "Game Of Pricks",
+      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Rites Of Passage (Expanded Edition)",
         "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 252960,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     }
   ],
   "unique_name": "Thrifted",

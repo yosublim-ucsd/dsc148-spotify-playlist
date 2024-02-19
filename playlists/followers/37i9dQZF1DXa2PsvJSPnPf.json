@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 217485,
+  "2024-02-19": 217512,
   "date_first_scraped": "2021-12-21",
   "description": "Sit back, stay awhile, and savor the soft, sweet sounds of this collection. ",
   "name": "Front Porch",
@@ -2337,6 +2337,28 @@
     {
       "album": {
         "name": "No Aphrodisiac (Black Stump)",
+        "url": "https://open.spotify.com/album/7oqGNpfjYza0NxTxBxddGx"
+      },
+      "artists": [
+        {
+          "name": "The Whitlams",
+          "url": "https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6"
+        },
+        {
+          "name": "Black Stump",
+          "url": "https://open.spotify.com/artist/61Y01ITZhNtawMjMlAlHyN"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "No Aphrodisiac (Black Stump)",
+      "url": "https://open.spotify.com/track/5bcRzBeFZ3cwA9a8BGje04"
+    },
+    {
+      "album": {
+        "name": "No Aphrodisiac (Black Stump)",
         "url": "https://open.spotify.com/album/5kWKaC2h5CaRZgFqtFDF3V"
       },
       "artists": [
@@ -2351,7 +2373,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 178429,
       "name": "No Aphrodisiac - (Black Stump)",
       "url": "https://open.spotify.com/track/7xynFxkJJqzol41dmFgtPn"

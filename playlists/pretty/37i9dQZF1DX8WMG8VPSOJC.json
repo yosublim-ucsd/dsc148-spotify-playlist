@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1701731,
+  "num_followers": 1702074,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzc2N2UxZWJmYjUzNmU2ZWUwMDMwMTg4ZGNlMjA5ZTc4NzUxMjE1",
+  "snapshot_id": "MCxhNzNlOWU0ZjI4ODBjYTFjZjAzMjliODU4ZTU0MWNlZDdhZjEwODg0",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Glory Days",
-        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 213386,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Glory Days",
+        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "If You Were A Song",
-        "url": "https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 259876,
-      "name": "If You Were A Song",
-      "url": "https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 157906,
       "name": "Take My Name",
       "url": "https://open.spotify.com/track/7g0Zfd5J6Hzx9M2fRUMuba"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+        "name": "If You Were A Song",
+        "url": "https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
         }
       ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+      "duration_ms": 259876,
+      "name": "If You Were A Song",
+      "url": "https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Everywhere But On",
-        "url": "https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Prayed For You",
-      "url": "https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "American Saturday Night",
         "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 321640,
       "name": "Then",
       "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Everywhere But On",
+        "url": "https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Prayed For You",
+      "url": "https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Growing Old With You",
-        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
-      },
-      "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 196007,
-      "name": "Growing Old With You",
-      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Who Needs Pictures",
         "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 226226,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Growing Old With You",
+        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 196007,
+      "name": "Growing Old With You",
+      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
     },
     {
       "added_at": "2024-02-09 05:00:00",

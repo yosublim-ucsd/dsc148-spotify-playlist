@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: Johnny Rotten
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,255 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,529 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 69 | [Pretty Vacant](https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:18 |
 | 70 | [Salad Days](https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [Salad Days](https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2) | 2:46 |
 | 71 | [Code Blue](https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC) | [T.S.O.L.](https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi) | [Dance With Me](https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t) | 2:08 |
-| 72 | [TV Party](https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 3:31 |
-| 73 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
+| 72 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
+| 73 | [TV Party](https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 3:31 |
 | 74 | [Gut Feeling / \(Slap Your Mammy\)](https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 4:57 |
 | 75 | [Mickey Mouse Is Dead](https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ) | [Subhumans](https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK) | [The Day the Country Died](https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1) | 2:44 |
 | 76 | [Ex Lion Tamer \- 2006 Remastered Version](https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:19 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 81 | [Babylon's Burning](https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa) | [The Ruts](https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3) | [The Crack](https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq) | 2:35 |
 | 82 | [New Rose](https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:44 |
 | 83 | [Natural's Not In It](https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:06 |
-| 84 | [Sick Boy](https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe) | [GBH](https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY) | [City Baby Attacked By Rats \(Expanded Version\)](https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5) | 2:32 |
-| 85 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
+| 84 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
+| 85 | [Sick Boy](https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe) | [GBH](https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY) | [City Baby Attacked By Rats \(Expanded Version\)](https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5) | 2:32 |
 | 86 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
-| 87 | [I Want Some](https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Anthology: The Sounds Of Science](https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2) | 2:00 |
+| 87 | [Gimme Gimme Shock Treatment \- 2017 Remaster](https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:44 |
 | 88 | [Dean's Dream](https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Big Lizard In My Backyard](https://open.spotify.com/album/6N8dOvnSvUMYQWBxC4uZeV) | 1:49 |
-| 89 | [Gimme Gimme Shock Treatment \- 2017 Remaster](https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:44 |
+| 89 | [I Want Some](https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Anthology: The Sounds Of Science](https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2) | 2:00 |
 | 90 | [Kick Out The Jams \(Original Uncensored Version\)](https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [The Anthology 1965\-1971](https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG) | 3:03 |
 | 91 | [Life of Crime](https://open.spotify.com/track/4JGfjGq1ySrwFhwXPERGA2) | [The Weirdos](https://open.spotify.com/artist/2XRBA6Nc5WTh9cTcvnqOge) | [Weird World Volume 1](https://open.spotify.com/album/5OFyoxqWQiI7MWlN867V9h) | 2:19 |
 | 92 | [The Modern World](https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [This Is The Modern World](https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
 | 100 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
 
-Snapshot ID: `MCxlN2YyNzllNjRlYjAyZjE1ODA1ZGJkNjQyNjZlNDQ5NjE3Y2QzYjIw`
+Snapshot ID: `MCw3YWQyZjNlNWI0YzcxZTFjMzM4ZjFiYjUzYTViN2E0ZWE2NTE1MzZh`

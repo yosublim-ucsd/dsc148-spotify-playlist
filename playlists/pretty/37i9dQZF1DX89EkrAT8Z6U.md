@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,222 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,543 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,24 +64,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 54 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 55 | [2077](https://open.spotify.com/track/4Gr9pPieF9ZVUxBB8vF1gy) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4aGax9S99B53Pm8oxwzHR0) | 2:15 |
 | 56 | [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 |
-| 57 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
-| 58 | [Cult Classic](https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP) | [ta2cute](https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj) | [Cult Classic](https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT) | 1:47 |
+| 57 | [Cult Classic](https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP) | [ta2cute](https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj) | [Cult Classic](https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT) | 1:47 |
+| 58 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
 | 59 | [Trap Anthem](https://open.spotify.com/track/5Bj8OQClC6mEkSiQ8LgGi2) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem](https://open.spotify.com/album/0RO9UmZ98gMjiqKL69Afca) | 2:12 |
 | 60 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
 | 61 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
 | 62 | [SELL OUT](https://open.spotify.com/track/1671uMsakQAiHKNAKeV3YI) | [Basco](https://open.spotify.com/artist/1j6WlpKlErRMXTjGKez8oJ) | [SELL OUT](https://open.spotify.com/album/45XvqeI16CbVKcXDc86ujJ) | 2:26 |
-| 63 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 |
-| 64 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
+| 63 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
+| 64 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 |
 | 65 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 66 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
 | 67 | [CITÉS DE FRANCE](https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CITÉS DE FRANCE](https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX) | 3:35 |
 | 68 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
-| 69 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
-| 70 | [Good Morning Vietnam](https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Good Morning Vietnam](https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf) | 2:19 |
+| 69 | [Good Morning Vietnam](https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Good Morning Vietnam](https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf) | 2:19 |
+| 70 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
 | 71 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 |
 | 72 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
 | 73 | [Led](https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT) | [GOTOU寄生獣](https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Led](https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a) | 2:14 |
 | 74 | [MK Plus Ultra](https://open.spotify.com/track/00cEH1g73uoXOeZk04HX7r) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6uWl5ITWhAI6KM1WyOQWRM) | 2:10 |
 | 75 | [Kujo Freestyle](https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/1K5NQ3uYpYENDGyt84BhYV) | 1:55 |
 
-Snapshot ID: `MCxkNDM3ZGQwM2M2YTJiYzUwZmI2ZTA0ZWZhZDI1NDVlZTIwYTJlZTk2`
+Snapshot ID: `MCw2MTc0YzRkNjNhODkzMWMxNjgwNmU1MWQ1MzBmOTMyNDhiYzljNGIx`

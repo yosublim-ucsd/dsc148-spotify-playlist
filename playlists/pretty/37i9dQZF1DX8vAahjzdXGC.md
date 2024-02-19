@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,518 likes - 87 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,546 likes - 87 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 39 | [Oh Kasihku](https://open.spotify.com/track/3t7Y6EgzzDUo35V1rOVZZH) | [Obbie Messakh](https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6) | [Oh Kasihku](https://open.spotify.com/album/15D7KIDwvdBVc8EgZMeLwS) | 3:32 |
 | 40 | [Jatuh Cinta Lagi](https://open.spotify.com/track/60TNnFstUpNR9sPMSRZ26T) | [Nobo](https://open.spotify.com/artist/76axRjzvefZPrr2hUfkmf8) | [Jatuh Cinta Lagi](https://open.spotify.com/album/2hLKHhLu6VeQhqpLVInK6b) | 4:21 |
 | 41 | [House On Fire](https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [House On Fire](https://open.spotify.com/album/5AWBcDTeoE569GmknHWFN9) | 3:05 |
-| 42 | [S.A.D](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
+| 42 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
 | 43 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 44 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
 | 45 | [Too Much Too Little](https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Too Much Too Little](https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl) | 2:57 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 86 | [Be Yours](https://open.spotify.com/track/3Jjwrk3xgnJWPTc48GYhWg) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Be Yours](https://open.spotify.com/album/7vM7i3keTw97YelVp8akgg) | 3:04 |
 | 87 | [Nowhere](https://open.spotify.com/track/5d9QunA2YMB6gKQ65fE8cs) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Nowhere](https://open.spotify.com/album/1NgOh8j1ai2Qs67m48gLd9) | 2:46 |
 
-Snapshot ID: `MCxhNWI5N2VmMjlkNzRhNDAzNzI4ODU0OTYwMTIwNjUxYTQzNDlmNmNm`
+Snapshot ID: `MCxiYmZiZTJkNDMzMjI2NGQxOGU4NjM2NjY1OGJjNWM3OWMyMGY0OTM2`

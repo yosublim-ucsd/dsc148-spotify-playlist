@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 39 | [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 |
 | 40 | [Winnetka](https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Winnetka](https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5) | 2:12 |
 | 41 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
-| 42 | [Wave](https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:40 |
-| 43 | [God Bless The Child](https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU) | [Erica Smith Trio](https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI) | [Starlight EP](https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31) | 4:50 |
+| 42 | [God Bless The Child](https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU) | [Erica Smith Trio](https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI) | [Starlight EP](https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31) | 4:50 |
+| 43 | [Wave](https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:40 |
 | 44 | [Señor Danzon](https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ) | [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [Bernardo Sassetti](https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf) | [Cuba Cuba](https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX) | 3:28 |
 | 45 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 |
 | 46 | [One Note Samba](https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Mambo Cantabile](https://open.spotify.com/track/2gAj421uW6j8YYXlfmoEu4) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Havana All\-Stars](https://open.spotify.com/artist/0nBotB1mcxkmT0PRFLNLTf) | [Descarga Caliente](https://open.spotify.com/album/0KJoSsENtZqiYu0oJvfqgy) | 2:35 |
 | 50 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
 
-Snapshot ID: `MCxhNTg5YTFlYjdiZTY5MzU1NzYwNzJiMjM4YWZhM2U1NWVjZTU0YjQy`
+Snapshot ID: `MCw3ZjQzN2Y5ODk0YzgxMjI3YjdhNDhjY2E0OTZkOWU5OGZkNjAyZWJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,311 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,320 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 38 | [El Próximo Tonto](https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [El Próximo Tonto](https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF) | 3:26 |
 | 39 | [Gracias mujer](https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:54 |
 | 40 | [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 |
-| 41 | [La Niña Fresa](https://open.spotify.com/track/0epRYG4Km0dpf2HqAADKqt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los Exitos De La Banda Machos, Vol\. 2](https://open.spotify.com/album/64fPt9hv6ZktuW8rCSQVPk) | 2:39 |
-| 42 | [No compro amores](https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:21 |
-| 43 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 |
+| 41 | [No compro amores](https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:21 |
+| 42 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 |
+| 43 | [La Niña Fresa](https://open.spotify.com/track/0epRYG4Km0dpf2HqAADKqt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los Exitos De La Banda Machos, Vol\. 2](https://open.spotify.com/album/64fPt9hv6ZktuW8rCSQVPk) | 2:39 |
 | 44 | [La noche que Chicago murió](https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:11 |
 | 45 | [Traficantes Michoacanos](https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Batalla De Bandas Banda El Recodo Vs\. Banda Machos](https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6) | 3:09 |
 | 46 | [Mi guitarra y yo](https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las Estrellas de la Musica Mexicana \(USA\)](https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 49 | [Historia Sin Fin](https://open.spotify.com/track/7fzMcKm2TJccXwJMuQU74p) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia Sin Fin](https://open.spotify.com/album/6HIGZ5DJ715QdzrQurNnPo) | 3:16 |
 | 50 | [A prueba de balas](https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [A prueba de balas](https://open.spotify.com/album/0dXYdDDNYFOdR0fLzMnlVx) | 3:21 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA1YjliN2E0YWI4MDVlNTJlYjM5MTk0ZjZhODE1M2EzMg==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBkNjA2ZjQ2NjE5MmNhNzc4MGEyODZiMTQ0ODI2YjA0Zg==`

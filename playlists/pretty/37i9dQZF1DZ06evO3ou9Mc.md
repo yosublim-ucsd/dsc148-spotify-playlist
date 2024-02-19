@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,580 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,652 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 11 | [Slim Pickens Does The Right Thing And Rides The Bomb To Hell](https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:36 |
 | 12 | [All I Want](https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 1:54 |
 | 13 | [Staring At The Sun](https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:13 |
-| 14 | [Half\-Truism](https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:25 |
-| 15 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 |
+| 14 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 |
+| 15 | [Half\-Truism](https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:25 |
 | 16 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 |
 | 17 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 18 | [Americana](https://open.spotify.com/track/0CUYFHDVPANZRwa2SQsoWs) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [We Never Have Sex Anymore](https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:30 |
 | 50 | [Jennifer Lost The War](https://open.spotify.com/track/1AeosetkVBmPqON7FkWSLu) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Offspring](https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7) | 2:35 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBlMWIyOGU1NGUzNzQ1ZGZkZTI1NDU2Y2FhOWUxNDYwOA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA3NzY1MzY5MTZhZDI5ODIwZmNjNWMyZGE4MDg0NjU0YQ==`

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 118530,
+  "2024-02-19": 118554,
   "date_first_scraped": "2021-12-21",
   "description": "Mellow out with this dub music.",
   "name": "Heavy Dub",
@@ -2017,7 +2017,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 192520,
       "name": "Zion Gate Dub",
       "url": "https://open.spotify.com/track/243ucbIZFFKFdIYQhfNNon"
@@ -2039,6 +2039,28 @@
       "duration_ms": 194666,
       "name": "Zion Gate Dub",
       "url": "https://open.spotify.com/track/1ipNNP3bwILX6W2nMa29S7"
+    },
+    {
+      "album": {
+        "name": "This Is Trojan Dub",
+        "url": "https://open.spotify.com/album/5Aa94Y8ws6HvzFlfwMzRsl"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        },
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Zion Gate Dub",
+      "url": "https://open.spotify.com/track/6ylMmlXNm2aCRt1nLhtONX"
     },
     {
       "album": {

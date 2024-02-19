@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 195711,
+  "2024-02-19": 195712,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -699,7 +699,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 203178,
       "name": "Allt som jag har",
       "url": "https://open.spotify.com/track/0qPO2biS5faUuIiXql9I6N"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 332210,
       "name": "Barnatiden",
       "url": "https://open.spotify.com/track/6CMBrR2AJ15aOOpPnIPaZm"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 235620,
       "name": "Bergtagen",
       "url": "https://open.spotify.com/track/2cDVHPlEJggkzq9Juzxul0"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 194223,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
@@ -4016,6 +4016,24 @@
     },
     {
       "album": {
+        "name": "Dummare",
+        "url": "https://open.spotify.com/album/26JlfJ2nLuTHHI8Tf0YZVa"
+      },
+      "artists": [
+        {
+          "name": "Atmosf\u00e4r",
+          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Dummare",
+      "url": "https://open.spotify.com/track/207yBXxFUCVucZHYiP6OsF"
+    },
+    {
+      "album": {
         "name": "TROLL",
         "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
       },
@@ -4237,6 +4255,24 @@
       "duration_ms": 178352,
       "name": "Elevator Eyes",
       "url": "https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb"
+    },
+    {
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/1MZOK8dBUuZISHLUPpVclr"
+      },
+      "artists": [
+        {
+          "name": "Simon Alexander",
+          "url": "https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281351,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7fC6Q58cCvKGuCbDgbB75h"
     },
     {
       "album": {
@@ -5620,6 +5656,24 @@
     },
     {
       "album": {
+        "name": "Jocelyn",
+        "url": "https://open.spotify.com/album/3zS6gnCt8Ksp3zF48waeCJ"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "F\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/3nl7ZG7o931x99SvWIk3oZ"
+    },
+    {
+      "album": {
         "name": "F\u00f6rl\u00e5t f\u00f6r alla g\u00e5nger",
         "url": "https://open.spotify.com/album/1nFXe1jAk8CYIrMxK46PQc"
       },
@@ -6782,6 +6836,24 @@
     },
     {
       "album": {
+        "name": "Helt r\u00e4tt",
+        "url": "https://open.spotify.com/album/2lFsbvTq9t0ZYVjvYefjgj"
+      },
+      "artists": [
+        {
+          "name": "TUAI",
+          "url": "https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140743,
+      "name": "Helt r\u00e4tt",
+      "url": "https://open.spotify.com/track/2Etw9QgIYzhogP9YWgFxbv"
+    },
+    {
+      "album": {
         "name": "Henry St.",
         "url": "https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN"
       },
@@ -7205,7 +7277,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 177669,
       "name": "Hora Madonna",
       "url": "https://open.spotify.com/track/47L8MluywBkWDA0HdgoeYC"
@@ -8745,7 +8817,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 176439,
       "name": "Kanske borde dra",
       "url": "https://open.spotify.com/track/1346kMKphlGAWfvdDd0fk6"
@@ -9006,6 +9078,24 @@
     },
     {
       "album": {
+        "name": "Krossa sn\u00e4llt",
+        "url": "https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB"
+      },
+      "artists": [
+        {
+          "name": "Lisa Howard",
+          "url": "https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193296,
+      "name": "Krossa sn\u00e4llt",
+      "url": "https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk"
+    },
+    {
+      "album": {
         "name": "Ktrl",
         "url": "https://open.spotify.com/album/4Ib2uuSblqFz1EEeEnFcp6"
       },
@@ -9017,7 +9107,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 216891,
       "name": "Ktrl",
       "url": "https://open.spotify.com/track/326XDQRzTe8LDwDHJQtNdE"
@@ -10030,6 +10120,24 @@
     },
     {
       "album": {
+        "name": "L\u00e5ngt h\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/2mYvp2hNIUogRf2j2Op8ov"
+      },
+      "artists": [
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/3neUCGkPr49wZFy3UXaYpg"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242480,
+      "name": "L\u00e5ngt h\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/5U8AlsaiY7b9008LtPb4ZG"
+    },
+    {
+      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
@@ -10435,7 +10543,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 146865,
       "name": "Met her at a party",
       "url": "https://open.spotify.com/track/0yyndWvnE5QBeLFsUA1XRV"
@@ -12227,6 +12335,32 @@
       "duration_ms": 216160,
       "name": "Pengar",
       "url": "https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i"
+    },
+    {
+      "album": {
+        "name": "PENGAR OCH PENGARNAS DR\u00c4NGAR (Radio Edit)",
+        "url": "https://open.spotify.com/album/6kFB7PqxaMpnzyAVOyhDCU"
+      },
+      "artists": [
+        {
+          "name": "Mattias Alkberg",
+          "url": "https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE"
+        },
+        {
+          "name": "Olle Nyman",
+          "url": "https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at"
+        },
+        {
+          "name": "Rebecka Digervall",
+          "url": "https://open.spotify.com/artist/3vHSNoHRWSvrQlbFnVR4Bw"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213656,
+      "name": "PENGAR OCH PENGARNAS DR\u00c4NGAR (Radio Edit)",
+      "url": "https://open.spotify.com/track/7q4YIj34l3NVNAebhnYUCo"
     },
     {
       "album": {
@@ -15919,7 +16053,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 175595,
       "name": "Tell Me Now Honestly",
       "url": "https://open.spotify.com/track/5zJVtravUVXiPynWGClzml"
@@ -16854,6 +16988,24 @@
     },
     {
       "album": {
+        "name": "Tusen l\u00f6gner",
+        "url": "https://open.spotify.com/album/4pq8uv5DY5fvbEcj0kJwrF"
+      },
+      "artists": [
+        {
+          "name": "Immanuel",
+          "url": "https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160125,
+      "name": "Tusen l\u00f6gner",
+      "url": "https://open.spotify.com/track/58U3eRreodcLSvSg6xLayI"
+    },
+    {
+      "album": {
         "name": "Tv\u00e5 idioter",
         "url": "https://open.spotify.com/album/2VgpCTBPtS3jhFeGGaUGMm"
       },
@@ -16931,6 +17083,24 @@
       "duration_ms": 168000,
       "name": "T\u00e4nd alla ljus - Fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/06M8KfNJwdqxB9lLuPVt28"
+    },
+    {
+      "album": {
+        "name": "T\u00e4nd alla ljus f\u00f6r mig",
+        "url": "https://open.spotify.com/album/1OQegjhpVt81ONri9k9SUJ"
+      },
+      "artists": [
+        {
+          "name": "CISSI",
+          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219362,
+      "name": "T\u00e4nd alla ljus f\u00f6r mig",
+      "url": "https://open.spotify.com/track/3heNhbAlaEYepS9PMkqX3w"
     },
     {
       "album": {

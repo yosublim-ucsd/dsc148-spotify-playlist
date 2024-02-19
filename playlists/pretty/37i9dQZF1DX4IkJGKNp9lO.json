@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31022,
+  "num_followers": 31037,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjE2NzhlY2ZjZGVkZDdhMjdiNTJiZWZmYWM4ZGIyZWE2NWFiYmZl",
+  "snapshot_id": "MCwwNDEzZTFmYzU0Mjk3MGU2YjA4NDM1YjVkNzliZDY1Y2IxZWQ5MWRi",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -543,8 +543,8 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Sista Dansen",
-        "url": "https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz"
+        "name": "Med is i magen",
+        "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Psykopaten",
-      "url": "https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO"
+      "duration_ms": 167480,
+      "name": "Psykist Instabil",
+      "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -691,8 +691,8 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Med is i magen",
-        "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
+        "name": "Sista Dansen",
+        "url": "https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Psykist Instabil",
-      "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
+      "duration_ms": 199160,
+      "name": "Psykopaten",
+      "url": "https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Mamma pappa barn",
-      "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 174753,
       "name": "Jag l\u00e4mnar festen",
       "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Mamma pappa barn",
+      "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Alla sover",
-        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 167648,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Docent D\u00f6d (Mini-LP)",
         "url": "https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 145520,
       "name": "Som En Doft Av Napalm",
       "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Alla sover",
+        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 167648,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Upp till dans",
-        "url": "https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud"
-      },
-      "artists": [
-        {
-          "name": "Vidro",
-          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
-        }
-      ],
-      "duration_ms": 141622,
-      "name": "Upp till dans",
-      "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "V\u00e4lkommen till fabriken",
         "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 140653,
       "name": "Dom br\u00e4nner bilar",
       "url": "https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Upp till dans",
+        "url": "https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud"
+      },
+      "artists": [
+        {
+          "name": "Vidro",
+          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
+        }
+      ],
+      "duration_ms": 141622,
+      "name": "Upp till dans",
+      "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Tidens tempo",
-      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Tretton \u00d6vningar i Mindfulness",
         "url": "https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 160148,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Tidens tempo",
+      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
+        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
       },
       "artists": [
         {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+          "name": "Slutstation Tjernobyl",
+          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
         }
       ],
-      "duration_ms": 78800,
-      "name": "Jag vill bli som far",
-      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
+      "duration_ms": 202640,
+      "name": "Till Krig",
+      "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1299,22 +1299,6 @@
       "duration_ms": 162880,
       "name": "B\u00f6rja om",
       "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
-        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
-      },
-      "artists": [
-        {
-          "name": "Slutstation Tjernobyl",
-          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Till Krig",
-      "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1347,6 +1331,22 @@
       "duration_ms": 143026,
       "name": "Kungar Och Knektar",
       "url": "https://open.spotify.com/track/6wsYpZEtDnnuAnWlUZwti0"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 78800,
+      "name": "Jag vill bli som far",
+      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Lyckliga Land",
-        "url": "https://open.spotify.com/album/3jnqE1lvZi9o7ivHjc1YR7"
-      },
-      "artists": [
-        {
-          "name": "Iguana party",
-          "url": "https://open.spotify.com/artist/0KnMJRO7zyMJ0Ny8K0P84Q"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Lyckliga Land",
-      "url": "https://open.spotify.com/track/1NB4kKYHMHPdQl6Jx6xxns"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ"
       },
@@ -1463,22 +1447,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Att Ni Inte Ser...",
-        "url": "https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1"
-      },
-      "artists": [
-        {
-          "name": "Total Apati",
-          "url": "https://open.spotify.com/artist/3gzEJGALMIHxyjYm0Q5Eg4"
-        }
-      ],
-      "duration_ms": 171572,
-      "name": "Modets Klapptr\u00e4n",
-      "url": "https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Bipol\u00e4r & K\u00e4r",
         "url": "https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz"
       },
@@ -1491,6 +1459,38 @@
       "duration_ms": 185454,
       "name": "Bipol\u00e4r & K\u00e4r",
       "url": "https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Lyckliga Land",
+        "url": "https://open.spotify.com/album/3jnqE1lvZi9o7ivHjc1YR7"
+      },
+      "artists": [
+        {
+          "name": "Iguana party",
+          "url": "https://open.spotify.com/artist/0KnMJRO7zyMJ0Ny8K0P84Q"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Lyckliga Land",
+      "url": "https://open.spotify.com/track/1NB4kKYHMHPdQl6Jx6xxns"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Att Ni Inte Ser...",
+        "url": "https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1"
+      },
+      "artists": [
+        {
+          "name": "Total Apati",
+          "url": "https://open.spotify.com/artist/3gzEJGALMIHxyjYm0Q5Eg4"
+        }
+      ],
+      "duration_ms": 171572,
+      "name": "Modets Klapptr\u00e4n",
+      "url": "https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ"
     },
     {
       "added_at": "2024-02-08 23:00:00",

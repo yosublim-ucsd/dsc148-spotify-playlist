@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,671 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,684 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 43 | [Sueña](https://open.spotify.com/track/0RykY6cKA0rnJtYrbSR61H) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Adolorido \(Vol 1\)](https://open.spotify.com/album/7jxXwVsm7JTuG9j5mClYkO) | 4:01 |
 | 44 | [Apellido Guzman](https://open.spotify.com/track/0CrErg58IbHXNzDqiMBTfT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 3:26 |
 | 45 | [Muerto En Vida](https://open.spotify.com/track/4fMr1S1jbrzCB4asN37Urt) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Muerto En Vida](https://open.spotify.com/album/3FpkV6IQ6MhG9H2Nz0BEEy) | 2:38 |
-| 46 | [Tragos De Alcohol](https://open.spotify.com/track/3Xr4yKrO1kL20V8YWFQwey) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Imperio Sinaloense Corridos](https://open.spotify.com/album/6V4Z8u9DtkWlarVXQY8oU3) | 2:38 |
-| 47 | [El Party](https://open.spotify.com/track/5d7HFkZcx09a2SGRCChAcL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Party](https://open.spotify.com/album/4ca5L2W0DmQzOK0jPdoVmd) | 3:32 |
+| 46 | [El Party](https://open.spotify.com/track/5d7HFkZcx09a2SGRCChAcL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Party](https://open.spotify.com/album/4ca5L2W0DmQzOK0jPdoVmd) | 3:32 |
+| 47 | [Tragos De Alcohol](https://open.spotify.com/track/3Xr4yKrO1kL20V8YWFQwey) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Imperio Sinaloense Corridos](https://open.spotify.com/album/6V4Z8u9DtkWlarVXQY8oU3) | 2:38 |
 | 48 | [Mi Credo](https://open.spotify.com/track/2JcmIVpA2TxH2mG2b25kCX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Adolorido \(Vol 1\)](https://open.spotify.com/album/7jxXwVsm7JTuG9j5mClYkO) | 3:05 |
 | 49 | [El Muchacho Criticado \(En Vivo\)](https://open.spotify.com/track/0Y5K54BJgAdZya152sOsnu) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchacho Criticado \(En Vivo\)](https://open.spotify.com/album/7dyB4yyX6WEP3P6Rm8kRnq) | 2:48 |
 | 50 | [Me Ven Relajado](https://open.spotify.com/track/0edZkEF6YykgzCCxiLcXKZ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Ven Relajado](https://open.spotify.com/album/0vPgCXIkpy6V8j8U3zfvcN) | 2:18 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBlZDhkNTE1ZTk3YTI1NjZjYjFmZjUyYTM1YzcwMGJiYg==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBjY2NiYTU2NGZkOTZmMDA0NGU0OWNhODEwYzJiNmQxMw==`

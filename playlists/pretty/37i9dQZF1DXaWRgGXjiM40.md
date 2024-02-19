@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,810 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,896 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 5 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
 | 6 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 |
 | 7 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 |
-| 8 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
-| 9 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
+| 8 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
+| 9 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 | 10 | [Nota 100 \- Ao Vivo](https://open.spotify.com/track/6pOLoZWfX2vwDYibVw8RGv) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Nota 100 \(Ao Vivo\)](https://open.spotify.com/album/32jxqjJYztfYeR9fEeYmIf) | 2:40 |
 | 11 | [Como É Que A Gente Fica \- Ao Vivo](https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:43 |
 | 12 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 30 | [Briga Feia \- Ao Vivo](https://open.spotify.com/track/7bukHRNgGLRySTJEVvLoIR) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:14 |
 | 31 | [Ciumeira \- Ao Vivo](https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 3:10 |
 | 32 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
-| 33 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/6FEYal9Y24izCC1UMHiYSa) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:37 |
+| 33 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 34 | [O Que É Que Tem](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 |
-| 35 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
+| 35 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/6FEYal9Y24izCC1UMHiYSa) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:37 |
 | 36 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 |
 | 37 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/4HQByPPgZOGbzvgJFZX61K) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sem Contra\-Indicação \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi) | 2:44 |
 | 38 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 47 | [Declaração pro Bar \- Ao Vivo](https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:41 |
 | 48 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 |
 | 49 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 |
-| 50 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 |
+| 50 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 |
 
-Snapshot ID: `MCw0YzcwZTQ2ZDkwZGE4NzFiNzhjMjFkMGE1YjY3ZGY5OTI5MGUyNDZj`
+Snapshot ID: `MCw5YWU4MzAwZWIwMGVjYWU0MjY5YjQzNjk0NTFhMzRkYmZhMzE1NmI0`

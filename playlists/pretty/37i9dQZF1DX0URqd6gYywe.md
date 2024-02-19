@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,622 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,779 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 41 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
 | 42 | [Silencio](https://open.spotify.com/track/0lZLhOrIYSAnMeEICJnYSH) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 4:49 |
 | 43 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 |
-| 44 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
-| 45 | [Diez años después](https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:35 |
-| 46 | [Motor Psico](https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI) | 4:56 |
+| 44 | [Motor Psico](https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI) | 4:56 |
+| 45 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
+| 46 | [Diez años después](https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:35 |
 | 47 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 |
-| 48 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
-| 49 | [Desconexión Sideral](https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:51 |
+| 48 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
+| 49 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
 | 50 | [Todo Pasa](https://open.spotify.com/track/28lnhTSWkiBngKkT1ik12n) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:38 |
-| 51 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
+| 51 | [Desconexión Sideral](https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:51 |
 | 52 | [Luz](https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Naranja Persa](https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd) | 4:31 |
-| 53 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
+| 53 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
 | 54 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
 | 55 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 |
 | 56 | [Fulanos de Nadie](https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:41 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 72 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
 | 73 | [Siguiendo la Luna](https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 4:39 |
 | 74 | [La Primera Vez](https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Mecánica Popular](https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS) | 4:44 |
-| 75 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
+| 75 | [Lápiz Libertad](https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx) | [Juan Rosasco en Banda](https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Lápiz Libertad](https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh) | 4:08 |
 | 76 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
 | 77 | [Hay Momentos](https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Esclavo](https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf) | 2:38 |
-| 78 | [Lápiz Libertad](https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx) | [Juan Rosasco en Banda](https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Lápiz Libertad](https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh) | 4:08 |
+| 78 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
 | 79 | [Inconsciente Colectivo](https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En La Vereda del Sol](https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U) | 2:53 |
 | 80 | [La Trampa](https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Trampa](https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3) | 3:36 |
 | 81 | [¿Qué Ves?](https://open.spotify.com/track/5lHCIbpRu6P02qggxYjaDq) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 5:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 99 | [Vendedora de Caricias](https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Vendedora de Caricias](https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91) | 3:19 |
 | 100 | [El Regalo](https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [El Regalo](https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8) | 4:03 |
 
-Snapshot ID: `MCw4YjhiMmU5ODcxM2M2MGIyMGNmOWFiZWViYzU1Njk2NDVlMjU0ODcy`
+Snapshot ID: `MCxjZjA1MTA1Mzk2NjBhMTI3YjhhNzE3MDIzY2I2YzIwNWY3NjVmMTgw`

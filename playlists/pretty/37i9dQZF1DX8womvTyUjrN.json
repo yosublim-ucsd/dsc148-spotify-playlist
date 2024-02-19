@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Ela Taubert",
-  "num_followers": 282971,
+  "num_followers": 283006,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWM5ODI3ZWY4MTQ3NTNhNzg4NmZmMzk4ZWJkY2NkZmRmMTRhZjM3",
+  "snapshot_id": "MCwwYmNjMGI2YmNkZmRjYzI0MjA4NDhhZWY5MjUyZWFmZGJmOGRiYTIz",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "PAENAMORAR",
+        "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "duration_ms": 178701,
+      "name": "PAENAMORAR",
+      "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "rompo esquemas",
         "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 199421,
       "name": "rompo esquemas",
       "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "PAENAMORAR",
-        "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        }
-      ],
-      "duration_ms": 178701,
-      "name": "PAENAMORAR",
-      "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "Pasado Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "Que La Detengan",
         "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
       },
@@ -719,6 +735,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "El Disfraz",
+        "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "Chistes Malos",
         "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
       },
@@ -739,18 +771,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "El Disfraz",
-        "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
+        "name": "No Est\u00e1s",
+        "url": "https://open.spotify.com/album/7gdZQEOFPSZUKj03hqPZnQ"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
         }
       ],
-      "duration_ms": 168426,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls"
+      "duration_ms": 181588,
+      "name": "No Est\u00e1s",
+      "url": "https://open.spotify.com/track/7j9eKuQVUAm4I878E3n2eA"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -767,22 +799,6 @@
       "duration_ms": 168750,
       "name": "fuimos amigos",
       "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "No Est\u00e1s",
-        "url": "https://open.spotify.com/album/7gdZQEOFPSZUKj03hqPZnQ"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 181588,
-      "name": "No Est\u00e1s",
-      "url": "https://open.spotify.com/track/7j9eKuQVUAm4I878E3n2eA"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -851,22 +867,6 @@
       "duration_ms": 173206,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Pasado Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "el afortunado",
+        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "el afortunado",
+      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "en el pasado",
         "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "el afortunado",
-        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
+        "name": "crush",
+        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
       },
       "artists": [
         {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 200597,
-      "name": "el afortunado",
-      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
+      "duration_ms": 199877,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1019,22 +1035,6 @@
       "duration_ms": 167485,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 199877,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "HAGAMOS EL AMOR",
-        "url": "https://open.spotify.com/album/3y4NdIxEf3e3amKDYQi3YB"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "HAGAMOS EL AMOR",
-      "url": "https://open.spotify.com/track/1pWKdA1ToVsC2mxc5mqzQS"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 157375,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "HAGAMOS EL AMOR",
+        "url": "https://open.spotify.com/album/3y4NdIxEf3e3amKDYQi3YB"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "HAGAMOS EL AMOR",
+      "url": "https://open.spotify.com/track/1pWKdA1ToVsC2mxc5mqzQS"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Rosita Sakura",
-        "url": "https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK"
+        "name": "Que Chimbo",
+        "url": "https://open.spotify.com/album/3F5sgJGuvlRmuaV7YQnsvX"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
         }
       ],
-      "duration_ms": 148073,
-      "name": "Rosita Sakura",
-      "url": "https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD"
+      "duration_ms": 136761,
+      "name": "Que Chimbo",
+      "url": "https://open.spotify.com/track/3NtJcM9WHnxLlD0stGJmmm"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1259,34 +1259,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Que Chimbo",
-        "url": "https://open.spotify.com/album/3F5sgJGuvlRmuaV7YQnsvX"
+        "name": "Rosita Sakura",
+        "url": "https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK"
       },
       "artists": [
         {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 136761,
-      "name": "Que Chimbo",
-      "url": "https://open.spotify.com/track/3NtJcM9WHnxLlD0stGJmmm"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "medio vac\u00edo",
-        "url": "https://open.spotify.com/album/5WLapTTLMjeF2g1bJPcTNy"
-      },
-      "artists": [
-        {
-          "name": "Alex Wall",
-          "url": "https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp"
-        }
-      ],
-      "duration_ms": 185163,
-      "name": "medio vac\u00edo",
-      "url": "https://open.spotify.com/track/68bWtlDEUAV5l0bJPUr1sr"
+      "duration_ms": 148073,
+      "name": "Rosita Sakura",
+      "url": "https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 178756,
       "name": "FIKSION",
       "url": "https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "medio vac\u00edo",
+        "url": "https://open.spotify.com/album/5WLapTTLMjeF2g1bJPcTNy"
+      },
+      "artists": [
+        {
+          "name": "Alex Wall",
+          "url": "https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp"
+        }
+      ],
+      "duration_ms": 185163,
+      "name": "medio vac\u00edo",
+      "url": "https://open.spotify.com/track/68bWtlDEUAV5l0bJPUr1sr"
     },
     {
       "added_at": "2024-02-16 05:01:00",

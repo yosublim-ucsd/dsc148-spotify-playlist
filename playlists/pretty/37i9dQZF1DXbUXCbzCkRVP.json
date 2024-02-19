@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 45707,
+  "num_followers": 45742,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODEyZWE0MzgzNDQyYzc5NjJjODZkOTZiMjA0MmY4MTUyZjBhOGFh",
+  "snapshot_id": "MCw3MDBlYjYxODhlYmVjZWI3YjI0MDRhMWZkNmJkNWZiZGMwMzI3ODg1",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 566960,
       "name": "12:15 Slow Goonbash Blues",
       "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Blue Guitar",
-        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 161479,
-      "name": "Blue Guitar",
-      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Genuine Houserocking Music",
         "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 157506,
       "name": "Phillips Goes Bananas",
       "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Blue Guitar",
+        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 161479,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Okie Dokie Stomp",
-      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Chicago/The Blues/Today!",
         "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 141560,
       "name": "Spann's Stomp",
       "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Okie Dokie Stomp",
+      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Stand Back!",
         "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 192000,
       "name": "Cha Cha The Blues",
       "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "All Kinds Of Blues",
-        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
-      },
-      "artists": [
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Frankie And Johnny Boogie",
-      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 205400,
       "name": "Tribute To Elmore James",
       "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "All Kinds Of Blues",
+        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+      },
+      "artists": [
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Frankie And Johnny Boogie",
+      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Screamin'",
+      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Blues On Blues",
         "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 183279,
       "name": "Blues After Hours",
       "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Thank You Mr. Poobah",
-      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 276933,
-      "name": "Screamin'",
-      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
+      "duration_ms": 245933,
+      "name": "Thank You Mr. Poobah",
+      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
     },
     {
       "added_at": "2023-08-23 10:31:46",

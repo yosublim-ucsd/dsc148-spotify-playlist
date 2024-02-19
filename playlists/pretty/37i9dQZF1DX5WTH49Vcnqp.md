@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,372 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,381 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 76 | [737](https://open.spotify.com/track/6AS9eFRFKCbzySHljxjspE) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [737](https://open.spotify.com/album/1BXvwn6HlOu6gcVG7gVq6C) | 2:32 |
 | 77 | [Got The Love](https://open.spotify.com/track/7DAwKG0lJlzkBuP4EfAk0v) | [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Got The Love](https://open.spotify.com/album/2bCgGW9L7vcQBoONhtuC0J) | 3:57 |
 | 78 | [Would It Pain You To See? \- Audiotree Live version](https://open.spotify.com/track/1wNzPN1BgrRUhEbkYJvm4W) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [GUM on Audiotree Live](https://open.spotify.com/album/7oZ64JG8OW2fDfAFQYnD9N) | 4:08 |
-| 79 | [Something To Remember](https://open.spotify.com/track/3NSe6g40eisuM6w7bKNpqY) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Something To Remember](https://open.spotify.com/album/3T80VGPsMW6bOSp6DmgGEX) | 4:28 |
+| 79 | [Something To Remember](https://open.spotify.com/track/0768gHRTVgwK7PPxBFe3tL) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Wing](https://open.spotify.com/album/3Qc1qeHSkWYfWg9Jt9mxMq) | 4:28 |
 | 80 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `MCwxZjAxYTQ3NmFkYWMxMjU4ZGQ0ZjBlZDRlMmRkYzgxZjY1ZWEwOTY4`
+Snapshot ID: `MCxjMjY2ODM4NmU1ZmY2MWM1YjdjNzQxMjgyYmE5Y2E2MDM2ZjRiMDcx`

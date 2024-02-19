@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-406 songs - 22 hr 25 min
+407 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 | 2021-12-27 | 2022-02-01 |
 | [Brad Pitt](https://open.spotify.com/track/0da8lxTVokOyOmpMKZpQuj) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt \(Official Video\)](https://open.spotify.com/album/0w6aGiHfW7m1wgXMAgbrJr) | 3:59 | 2023-12-16 | 2024-02-02 |
 | [Break](https://open.spotify.com/track/3OGMwLZ5ZbPTgTZT22XjTd) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Break](https://open.spotify.com/album/3Sh8YKaGZ4tAYfBahniCaC) | 2:51 | 2021-12-27 |  |
+| [Broken Like Me](https://open.spotify.com/track/00HNVblyBbbKCzJZhxofeW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:16 | 2024-02-18 |  |
 | [Button \(feat\. Anuel AA & Tainy\)](https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:44 | 2022-01-20 |  |
 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 | 2021-12-27 |  |
 | [Celebrate!](https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:06 | 2023-05-16 |  |

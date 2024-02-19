@@ -4,7 +4,7 @@
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-118 songs - 6 hr 31 min
+119 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cider Holiday](https://open.spotify.com/track/0cYC4yBogMCYktHDiHN9y5) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Cider Holiday](https://open.spotify.com/album/3UKDUinlsVMdCAabG9s8fY) | 4:25 | 2022-03-18 |  |
 | [Devil's Dance Floor](https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:59 | 2022-03-18 |  |
 | [Devil’s Dance Floor](https://open.spotify.com/track/4HmWMHOYSwxgnnNKG8thuD) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/7Jj1zGBtvK00r417boBIEj) | 3:59 | 2022-03-18 | 2022-07-29 |
+| [Drink Some More](https://open.spotify.com/track/71MLYxrDVR7PjGmOPqghp9) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:19 | 2024-02-06 |  |
 | [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 | 2022-03-18 | 2023-09-19 |
 | [Drunken Lullabies](https://open.spotify.com/track/3dtVKmxWGhAB9CLnHHS3Nm) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/4BbJ5NKPiICpTrGo1YmQmO) | 3:50 | 2022-03-18 | 2022-07-29 |
 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 | 2022-03-18 |  |
@@ -93,7 +94,7 @@
 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 | 2022-03-18 | 2024-02-07 |
 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 | 2022-03-18 | 2024-02-07 |
 | [Stand Up](https://open.spotify.com/track/3icdIwRcG7VqMwwpbkqkSM) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/2vthT4utjsxoiZB6YmvsZ7) | 3:31 | 2022-03-18 | 2022-07-26 |
-| [Stand Up](https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 3:31 | 2022-03-18 |  |
+| [Stand Up](https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 3:31 | 2022-03-18 | 2024-02-19 |
 | [Still Alive](https://open.spotify.com/track/1RbpnDf4CwKWnQNdMeDjM1) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Spice It Up!](https://open.spotify.com/album/2NzU2lS6b41Dvmm0sFZNl4) | 2:47 | 2022-03-18 | 2024-01-30 |
 | [Still Alive](https://open.spotify.com/track/1hVU5v9FSEjWEyqvBFs9Po) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Still Alive](https://open.spotify.com/album/2lxPat5AT5o7D06Q7YNE6G) | 2:47 | 2022-03-18 | 2022-07-29 |
 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 | 2022-03-18 | 2024-02-07 |

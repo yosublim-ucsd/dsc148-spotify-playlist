@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 
 > Clásicas románticas, melodiosas, apacibles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,654 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,709 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 12 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 13 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
 | 14 | [Rayando el Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8) | 4:18 |
-| 15 | [Si Me Tenías](https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Canto Por Ti](https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO) | 3:59 |
-| 16 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 |
-| 17 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
+| 15 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 |
+| 16 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
+| 17 | [Si Me Tenías](https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Canto Por Ti](https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO) | 3:59 |
 | 18 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
 | 19 | [Cama y Mesa \- Cama e Mesa](https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 2](https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK) | 3:15 |
 | 20 | [Si Te Pudiera Mentir \- Live Version](https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Una Noche En Madrid](https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8) | 4:23 |
-| 21 | [Para Amarnos Más](https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [21 Black Jack](https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR) | 3:26 |
-| 22 | [The Thief in Marrakesh](https://open.spotify.com/track/3PLlvksV9NfmoGiZXEqunJ) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape](https://open.spotify.com/album/6KPqcRfnkR0LKCSSquGzu0) | 3:00 |
+| 21 | [The Thief in Marrakesh](https://open.spotify.com/track/3PLlvksV9NfmoGiZXEqunJ) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape](https://open.spotify.com/album/6KPqcRfnkR0LKCSSquGzu0) | 3:00 |
+| 22 | [Para Amarnos Más](https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [21 Black Jack](https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR) | 3:26 |
 | 23 | [Vida Loca](https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:14 |
 | 24 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 |
 | 25 | [Santa Lucia \- Remastered 2005](https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Rocanrol Bumerang](https://open.spotify.com/album/1YIw799VStxgysT27cUGwp) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 49 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
 | 50 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 |
 
-Snapshot ID: `MCxhMWE4ZDQ1MzhjNzMyNTk4MzNhMzJkMTkxMjgwZWJjYTdlNmEzOTIx`
+Snapshot ID: `MCwwYjVmZjIzMDBjOTBkMTQwNDAzM2FjNjU0MDRjNDlkMTVlYTBkMzY0`

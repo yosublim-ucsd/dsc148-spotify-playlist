@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 150888,
+  "num_followers": 151080,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmYzYTZiNjdkNDIyMGUwMWI5MmI3ZWZmM2JhOWNkMDBkNzA4MDM5",
+  "snapshot_id": "MCwwODJiOTVlZmYwNzgwYTQ2ZWQzOGVmYjE3YjViYmUyOGIzNmY1MTky",
   "tracks": [
     {
       "added_at": "2022-12-30 17:16:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Cruce de Caminos",
-        "url": "https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW"
-      },
-      "artists": [
-        {
-          "name": "Santiago Cruz",
-          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Y Si Te Quedas, \u00bfQu\u00e9?",
-      "url": "https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "M\u00e1s De Mi Alma",
-        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
+        "name": "Cruce de Caminos",
+        "url": "https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
         }
       ],
-      "duration_ms": 287626,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi"
+      "duration_ms": 218146,
+      "name": "Y Si Te Quedas, \u00bfQu\u00e9?",
+      "url": "https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -891,6 +875,22 @@
       "duration_ms": 264599,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "M\u00e1s De Mi Alma",
+        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "\u00c9 Por Amor",
-        "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Pafuera Telara\u00f1as",
         "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 229373,
       "name": "Siempre me quedar\u00e1",
       "url": "https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "\u00c9 Por Amor",
+        "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
     },
     {
       "added_at": "2022-12-30 17:16:00",

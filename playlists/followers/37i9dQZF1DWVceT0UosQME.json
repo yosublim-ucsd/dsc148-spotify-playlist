@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 3470,
+  "2024-02-19": 3595,
   "date_first_scraped": "2024-01-13",
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
   "name": "exams 2024",
@@ -3061,7 +3061,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 117906,
       "name": "Frog-School Beat",
       "url": "https://open.spotify.com/track/5WYyLP0tXdtamiUJ6jRODo"
@@ -7927,6 +7927,24 @@
       "duration_ms": 112941,
       "name": "Sun Course",
       "url": "https://open.spotify.com/track/5zd8kAM3NF6oPd4jJJzaJe"
+    },
+    {
+      "album": {
+        "name": "Sunday (Nichiyoubi)",
+        "url": "https://open.spotify.com/album/5EBjW98OgvW7lXGNfOvnff"
+      },
+      "artists": [
+        {
+          "name": "M.I Hakone",
+          "url": "https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144093,
+      "name": "Sunday (Nichiyoubi)",
+      "url": "https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124,723 likes - 110 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,124,691 likes - 110 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 109 | [Always / Never](https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Always / Never](https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI) | 3:41 |
 | 110 | [Open My Door](https://open.spotify.com/track/1A8QcZJKhUmJwdqzoAahvR) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 2:33 |
 
-Snapshot ID: `MCw0OWYyZDNkODc0OTUxNThlM2YzNjdlNzI4ZjUxOGU4M2NkNzZkMWIx`
+Snapshot ID: `MCw0YzdjNmQ1Yzg1ODE4NDlhYTBlMzRkOGQ2MzI2Y2I0ODJlMTQ4Mzky`

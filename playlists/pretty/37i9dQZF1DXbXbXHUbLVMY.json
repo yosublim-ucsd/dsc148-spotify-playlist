@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 feat. Marstein",
-  "num_followers": 27394,
+  "num_followers": 27415,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjlmMjQ5MTg1ZmJiZmE4YzI5MmFkZTk2MzgyNDgzN2VlZWQ1YTRi",
+  "snapshot_id": "MCxlYjhlMTJiNTNkYmQwMmI5ZTU1ZDE0MjkyNTFiYmM4N2I1ZWFiNjhh",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "KALASH",
+        "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "KALASH",
+      "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Gangster V\u00e4rld",
         "url": "https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 152932,
       "name": "Gangster V\u00e4rld",
       "url": "https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "KALASH",
-        "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
-      },
-      "artists": [
-        {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "KALASH",
-      "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Palmerna",
-        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 147013,
-      "name": "Palmerna",
-      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
+      "duration_ms": 116420,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 137861,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 116420,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "N\u00e5nting i Luften",
-        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting i Luften",
-      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Vidunderbarn",
         "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
       },
@@ -1287,22 +1271,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Saint Laurent",
-        "url": "https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC"
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
       },
       "artists": [
         {
-          "name": "Robin Kadir",
-          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
-        },
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Saint Laurent",
-      "url": "https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y"
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1327,8 +1307,28 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "MEST ELSKET & Hatet",
-        "url": "https://open.spotify.com/album/4IsWLM8UTT7tKWkoc8BhY4"
+        "name": "Saint Laurent",
+        "url": "https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC"
+      },
+      "artists": [
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        },
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Saint Laurent",
+      "url": "https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Boys I D Bl\u00e5",
+        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
       },
       "artists": [
         {
@@ -1336,33 +1336,13 @@
           "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         },
         {
-          "name": "Martin Hazy",
-          "url": "https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b"
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
         }
       ],
-      "duration_ms": 193851,
-      "name": "Snop",
-      "url": "https://open.spotify.com/track/0oB7it0HPFuHa1SBkdSx1p"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "BAD GIRL",
-        "url": "https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1"
-      },
-      "artists": [
-        {
-          "name": "Nineb Youk",
-          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
-        },
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "BAD GIRL",
-      "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
+      "duration_ms": 133130,
+      "name": "Boys I D Bl\u00e5",
+      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1383,6 +1363,26 @@
       "duration_ms": 190346,
       "name": "(\u00c5h) T\u00e5my, T\u00e5my - Rifla x Sheriff",
       "url": "https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "BAD GIRL",
+        "url": "https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1"
+      },
+      "artists": [
+        {
+          "name": "Nineb Youk",
+          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+        },
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "BAD GIRL",
+      "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
     },
     {
       "added_at": "2024-02-15 23:00:00",

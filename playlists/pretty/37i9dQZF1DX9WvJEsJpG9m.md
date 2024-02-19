@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WvJEsJpG9m.md) - [plain]
 
 > Rock from the aughts to fuel your ride\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,220 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,253 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WvJEsJpG9m.md) - [plain]
 | 34 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 |
 | 35 | [The Dark Of The Matinée](https://open.spotify.com/track/6gaWfLDoeG1eoiDAVBN4i8) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 4:06 |
 | 36 | [The Rat](https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:22 |
-| 37 | [An Honest Mistake](https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Bravery](https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb) | 3:39 |
-| 38 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
+| 37 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
+| 38 | [An Honest Mistake](https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Bravery](https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb) | 3:39 |
 | 39 | [Gold Lion](https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:07 |
 | 40 | [To Lose My Life](https://open.spotify.com/track/2W4R6zrp1lLWtMXCJLA98H) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life..\. \(Bonus remix version\)](https://open.spotify.com/album/4A8HMvPUKHOxvTlsrPeNKh) | 3:11 |
 | 41 | [I Got Mine](https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WvJEsJpG9m.md) - [plain]
 | 49 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |
 | 50 | [Staring at the Sun](https://open.spotify.com/track/1RzJ37KMEmEcxtp3SC4WFl) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Young Liars](https://open.spotify.com/album/0HCEO9UaIJwSVvtv5E9P4j) | 4:01 |
 
-Snapshot ID: `MCw2M2YzZjg2ZWEyYjY2MTU5YWZiMmJiN2Q5NTBhZDg5ODBmYWFkNjRj`
+Snapshot ID: `MCxkMWIyODJmNTM5NmZiNmI1ZTc3OGRmNGZmZWQwZTdlMzU0Y2Q3NGU5`

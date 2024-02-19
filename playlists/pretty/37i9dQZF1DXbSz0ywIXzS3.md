@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > "I am never drinking again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,756 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,853 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 29 | [You're The One](https://open.spotify.com/track/0iYBNrznkCwhN3xCmNVJpo) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:26 |
 | 30 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
 | 31 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 |
-| 32 | [3 Libras](https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 3:39 |
-| 33 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
+| 32 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
+| 33 | [3 Libras](https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 3:39 |
 | 34 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 35 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 |
 | 36 | [Play God](https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:45 |
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 52 | [The Emotion](https://open.spotify.com/track/03YZnK3XQWKpvo9TyNZzXf) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:44 |
 | 53 | [Blue and Yellow](https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:21 |
 | 54 | [Broken](https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:17 |
-| 55 | [Northern Downpour](https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:07 |
-| 56 | [Under My Skin](https://open.spotify.com/track/6Jqk2PWC70GEBNmXwmTGHp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:13 |
-| 57 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
+| 55 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
+| 56 | [Northern Downpour](https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:07 |
+| 57 | [Under My Skin](https://open.spotify.com/track/6Jqk2PWC70GEBNmXwmTGHp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:13 |
 | 58 | [Something to Remind You](https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3) | 4:07 |
 | 59 | [Cat And Mouse](https://open.spotify.com/track/4aZirFFDJlUUuvhpjY5cAH) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:28 |
 | 60 | [Ever \(Foreign Flag\)](https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 2:51 |
 | 61 | [Seasons](https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 5:45 |
-| 62 | [To Forgive \- Remastered 2012](https://open.spotify.com/track/428dyogxbsqj9U5leQ9why) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:17 |
-| 63 | [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 |
+| 62 | [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 |
+| 63 | [To Forgive \- Remastered 2012](https://open.spotify.com/track/428dyogxbsqj9U5leQ9why) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:17 |
 | 64 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 |
 | 65 | [Epiphany](https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:16 |
 | 66 | [skins](https://open.spotify.com/track/44Y0uTXcrn42ZyDptUOrpW) | [The Haunting](https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC) | [GHOSTAPE2](https://open.spotify.com/album/6IshG51xx1F2B97Rt4P2ug) | 3:12 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 76 | [The Love Still Held Me Near](https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:23 |
 | 77 | [San Diego](https://open.spotify.com/track/2USJYiIo3g8dt9a2qzD9fG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:12 |
 | 78 | [Ain't It The Life](https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:14 |
-| 79 | [Fever Dream](https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:54 |
-| 80 | [Just the Way I'm Feeling](https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Comfort in Sound](https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng) | 4:23 |
+| 79 | [Just the Way I'm Feeling](https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Comfort in Sound](https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng) | 4:23 |
+| 80 | [Fever Dream](https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:54 |
 
-Snapshot ID: `MCw1NTA2ZDZmM2UwZjRmMDg0NDc3YzdlMGIyZGE1ZGJmZTc2YjRjMjFj`
+Snapshot ID: `MCxhNzIwNDE5NzVhM2QzNjMyNzZmMTI5MjQxYWE2MjQwZGNiMzlmZjE2`

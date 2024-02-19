@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,045 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,072 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 74 | [Floods \- Live](https://open.spotify.com/track/4GBjdj1z74h8RVr1Us6YFc) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Spotify Singles](https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4) | 4:24 |
 | 75 | [Breathe Me \(Homegrown Session\)](https://open.spotify.com/track/1k8AvMh61nJFUIak5NXdEY) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv) | [Breathe Me \(Homegrown Session\)](https://open.spotify.com/album/0BkgJSfl9AGCRvIj5Oekk0) | 2:48 |
 | 76 | [Insecure \- Live in Nashville](https://open.spotify.com/track/1xKTLrwGGxHhltkrDHd6N8) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Insecure \(Live In Nashville\)](https://open.spotify.com/album/3GS6nnMAWVavSdhcq7PLKS) | 3:07 |
-| 77 | [Mine to Lose](https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:31 |
+| 77 | [Mine to Lose](https://open.spotify.com/track/0rx0LgsgBQ8yGJzDwBNLU5) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/6QSOKuLlCEodRIJLQL6iI5) | 3:31 |
 | 78 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
 | 79 | [Runaway](https://open.spotify.com/track/2djLuf0US0tAhZQqGHF8Q2) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Runaway](https://open.spotify.com/album/0N21fqUh7pnxP1BmPBctTc) | 5:08 |
 | 80 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
 
-Snapshot ID: `MCwyMGE3MWE0ZjI3ZDhhMGI3ZTQwN2ZkZWNkNmExYzZkYTZjZTc2ZmY4`
+Snapshot ID: `MCxmYWM0ZTdlZGJlZDMzNjUzYzliMTljYzI3YzFiM2NlOTFhOTU4Y2U4`

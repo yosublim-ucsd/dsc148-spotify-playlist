@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 29561,
+  "2024-02-19": 29564,
   "date_first_scraped": "2023-01-15",
   "description": "<a href=\"spotify:artist:0bGDTQ78MVgI5Snqo9KJZw\">Qrion</a>'s favorite tracks. Updated regularly. Curated by Qrion. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Qrion's track IDs",
@@ -3357,8 +3357,12 @@
       },
       "artists": [
         {
-          "name": "Naz, 88Birds",
-          "url": "https://open.spotify.com/artist/1iNYSEqfpdFiTSt3n5YSuw"
+          "name": "Naz",
+          "url": "https://open.spotify.com/artist/3Y2xG44uOIP7Wns7KYhAJ8"
+        },
+        {
+          "name": "88Birds",
+          "url": "https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1"
         }
       ],
       "date_added": "2024-02-16",

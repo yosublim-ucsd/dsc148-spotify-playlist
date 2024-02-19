@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 
 > Out of office ✅
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,588 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,575 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 36 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
 | 37 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
 | 38 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
-| 39 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 |
+| 39 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
 | 40 | [DÓNDE ESTÁ](https://open.spotify.com/track/35syZ8HVLl1YBS0bY6nzaj) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DÓNDE ESTÁ](https://open.spotify.com/album/7u8SXWRQiR1aCmyjHCzwWJ) | 3:48 |
-| 41 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
+| 41 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 |
 | 42 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
 | 43 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 |
 | 44 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 50 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 51 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 52 | [Vino Bandit](https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Vino Bandit](https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG) | 2:30 |
-| 53 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
-| 54 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
+| 53 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
+| 54 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
 | 55 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 |
 | 56 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
 | 57 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 79 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 |
 | 80 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 |
 
-Snapshot ID: `MCwzN2I4MGUwMmY4OGM1MjE3NzA1ODI0ZDQwMjk2ZmMxNDRmMjNhM2I1`
+Snapshot ID: `MCxkMWIyZmFkZGE3ZmY0ZDIwYWZlNmVmODNiZWViM2I5Y2Q4MmY0NTU4`

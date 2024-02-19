@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,256 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,271 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 57 | [黄昏のワルツ](https://open.spotify.com/track/3icP9Lq6SWh3n2Dq0fYBzJ) | [Taro Hakase](https://open.spotify.com/artist/6vJFQLD25Df5uZW77gVv0k) | [My Favorite Songs](https://open.spotify.com/album/0qrZGRDb1jfDjQfNt0CkdX) | 3:29 |
 | 58 | [No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 |
 | 59 | [Koto \- piano room](https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [piano room](https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG) | 2:30 |
-| 60 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
+| 60 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 61 | [all my luv](https://open.spotify.com/track/0hUySpxkxqBnfLV1nazJGA) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [all my luv](https://open.spotify.com/album/2zWYE2eOqWnnPQiKRCsvMC) | 4:23 |
-| 62 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
+| 62 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
 | 63 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
 | 64 | [Letting Go](https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4) | 3:29 |
 | 65 | [初戀](https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS) | 2:36 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 77 | [the pyre](https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [the pyre](https://open.spotify.com/album/0Ae1E8Gs5Qtnpi27cwJl4f) | 2:40 |
 | 78 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 79 | [Recueil de chants, Op\. 65: No\. 6, Barcarolle](https://open.spotify.com/track/3IrTLEtkdt8AOCZkxhXH3Q) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [WAVES: Music by Rameau, Ravel, Alkan](https://open.spotify.com/album/5j5eLlvzM8KBh6vljwgbpz) | 3:36 |
-| 80 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
+| 80 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
 | 81 | [はひふへほ](https://open.spotify.com/track/1Sqhfgp5UXzJYjejD7pWUv) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [はひふへほ](https://open.spotify.com/album/2Ztz1foS02OoeUVM4LTYVu) | 3:12 |
-| 82 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
+| 82 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
 | 83 | [nowhere](https://open.spotify.com/track/4KIO1h4ocFMHoR29rhtwvc) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Nightfall](https://open.spotify.com/album/1UzrZ7OPtsiDqnyY3zbq3U) | 4:02 |
 | 84 | [Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Beethoven: Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX) | 5:23 |
 | 85 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [drip&trip](https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [drip&trip](https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB) | 2:45 |
 | 100 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 3:39 |
 
-Snapshot ID: `MCwzYjUyYTdhYTQwOGYwN2M5NzAzNDk0Y2IzOGZjZmEwNmRiZWRiYmE1`
+Snapshot ID: `MCw3NjM0NTNiNmQ2MGMwNjEzZDk1MDEzYjA0N2VkYmYyZTY5NmNiNzVm`

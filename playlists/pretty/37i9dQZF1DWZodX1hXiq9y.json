@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 93071,
+  "num_followers": 93177,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDI5M2YzZmFlMGQ2Y2JkMTRkMDY3MjlhODFlMWZkMGU5MmMzODA1",
+  "snapshot_id": "MCw0ZDUwZTA4ZjM2MzRlNGY4MDZjMzdkYzAzOGY4MDc4OTBhNmUzMWZl",
   "tracks": [
     {
       "added_at": "2024-02-01 09:18:34",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Adam's Apple (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 449773,
-      "name": "Footprints - Remastered",
-      "url": "https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Look Out! (Remastered)",
         "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 295200,
       "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Adam's Apple (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 449773,
+      "name": "Footprints - Remastered",
+      "url": "https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -623,8 +623,8 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -727,8 +727,8 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Wrapped Tight",
+      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
         "name": "New Time, New 'Tet",
         "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 602173,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Wrapped Tight",
-      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 606160,
-      "name": "You've Got to Have Freedom",
-      "url": "https://open.spotify.com/track/1sxRufRKMer2iOqxUkdhN4"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 606160,
+      "name": "You've Got to Have Freedom",
+      "url": "https://open.spotify.com/track/1sxRufRKMer2iOqxUkdhN4"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Rights Of Swing (Remastered)",
-        "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Prelude And Part 1 - Remastered",
-      "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Cliff Craft",
         "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 511093,
       "name": "Soul-Lo Blues - Remastered 1997",
       "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Rights Of Swing (Remastered)",
+        "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Prelude And Part 1 - Remastered",
+      "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 289360,
-      "name": "Yardbird Suite - Remastered Version",
-      "url": "https://open.spotify.com/track/2SZHj5NJS1n5LHy7Zhd211"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
         "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 238493,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 289360,
+      "name": "Yardbird Suite - Remastered Version",
+      "url": "https://open.spotify.com/track/2SZHj5NJS1n5LHy7Zhd211"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
+        "name": "Moving In",
+        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 463640,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
         "name": "Rollin' With Leo (Remastered)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 336333,
       "name": "R.J.",
       "url": "https://open.spotify.com/track/3FItXB8TBtUCyY9hS9UtdX"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Moving In",
-        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 463640,
-      "name": "The Forest",
-      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
+        "name": "Pushing the World Away",
+        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "A Side Order of Hijiki",
+      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
         "name": "The Unissued Copenhagen Studio Session",
         "url": "https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc"
       },
@@ -2247,22 +2263,6 @@
       "duration_ms": 446194,
       "name": "Blues in G Flat",
       "url": "https://open.spotify.com/track/0Ue2r9lo6Af2Ix8V1OJWy4"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Pushing the World Away",
-        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "A Side Order of Hijiki",
-      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "David Liebman Quartet / Quintet Live",
-        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
-      },
-      "artists": [
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        }
-      ],
-      "duration_ms": 799425,
-      "name": "The Last Train",
-      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Back East",
         "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 400853,
       "name": "Back East",
       "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "David Liebman Quartet / Quintet Live",
+        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
+      },
+      "artists": [
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        }
+      ],
+      "duration_ms": 799425,
+      "name": "The Last Train",
+      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
     },
     {
       "added_at": "2024-02-01 09:18:34",

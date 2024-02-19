@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 176800,
       "name": "Kiss My (Uh Oh)",
       "url": "https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp"
@@ -1192,6 +1192,24 @@
       "duration_ms": 195880,
       "name": "Love Me Now (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
+    },
+    {
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258306,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 281877,
+  "num_followers": 282082,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGJhN2ZhZjg3OGRiYWQ3ZDJmZGYzNjExZGRlMzIyN2U0ZDJmNGQ0",
+  "snapshot_id": "MCxlZDQ5ODFhN2QyNjkzZTFiZTRkZDBiMGNiZGIyNmFhMmNhZGVmNzRk",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 219666,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2022-07-05 15:28:41",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Holy Diver",
         "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
       },
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
         }
       ],
-      "duration_ms": 353786,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
+      "duration_ms": 256933,
+      "name": "Rainbow in the Dark",
+      "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -487,22 +503,6 @@
       "duration_ms": 287400,
       "name": "Nobody's Fool",
       "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Rainbow in the Dark",
-      "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Long Cold Winter",
         "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 235733,
       "name": "Gypsy Road",
       "url": "https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 353786,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -699,6 +699,54 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Night Songs",
+        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Shake Me",
+      "url": "https://open.spotify.com/track/1Qjpl8Kav6rrO92ZuG0OK8"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "Youth Gone Wild",
+      "url": "https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Best of Volume 1",
+        "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Open Up And Say . . . Ahh!",
         "url": "https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8"
       },
@@ -727,54 +775,6 @@
       "duration_ms": 241893,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Best of Volume 1",
-        "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
-    },
-    {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "Youth Gone Wild",
-      "url": "https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Night Songs",
-        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Shake Me",
-      "url": "https://open.spotify.com/track/1Qjpl8Kav6rrO92ZuG0OK8"
     },
     {
       "added_at": "2021-03-16 22:32:51",

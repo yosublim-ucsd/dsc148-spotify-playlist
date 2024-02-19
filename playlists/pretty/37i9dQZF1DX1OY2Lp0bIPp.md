@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 
 > Giving motivation to your Monday\. You got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,254 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,266 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 2 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
 | 3 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
 | 4 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
-| 5 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
-| 6 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
+| 5 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
+| 6 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
 | 7 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 |
 | 8 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
 | 9 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 36 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
 | 37 | [Numb / Encore](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Numb / Encore: MTV Ultimate Mash\-Ups Presents Collision Course](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) | 3:25 |
 | 38 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
-| 39 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
-| 40 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
+| 39 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
+| 40 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 41 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 |
 | 42 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 43 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 71 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
 | 72 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 |
 | 73 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
-| 74 | [Charlie Brown](https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:45 |
-| 75 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
+| 74 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
+| 75 | [Charlie Brown](https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:45 |
 | 76 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 |
 | 77 | [Superstar](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s) | 3:35 |
 | 78 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 99 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 100 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
 
-Snapshot ID: `MCwwZDc5MTBmMDQ3ODk3NWU3MmRiZWU0NjE1ZjMxNWIxOWE1N2FkMGEw`
+Snapshot ID: `MCw2YWVlYmViYzBkNzgxMmNhMDU1MWJlNTQ0YTdmYTM1N2UxNTMwMzAy`

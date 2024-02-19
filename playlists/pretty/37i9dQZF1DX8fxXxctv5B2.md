@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,393 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,463 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 24 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 25 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 26 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
-| 27 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
-| 28 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
+| 27 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
+| 28 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 29 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 |
 | 30 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
 | 31 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 43 | [Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:06 |
 | 44 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 45 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 |
-| 46 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 |
-| 47 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
+| 46 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
+| 47 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 |
 | 48 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
 | 49 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
 | 50 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 51 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 |
 | 52 | [Missing Piece](https://open.spotify.com/track/2vB9ME0oZwfTGAUMC71CaT) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:35 |
-| 53 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
-| 54 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
+| 53 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
+| 54 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
 | 55 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 |
 | 56 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 | 57 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 79 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
 | 80 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 
-Snapshot ID: `MCwxZTM1ODVhZGFkODQyMWZiZTczNGIzY2QwYmEwNGU0OTkwNTczYjc0`
+Snapshot ID: `MCxhNWEyYThlZjZjNzM4YTExNjAyYWMwMjI3MTNjYzU5NDA1OTBiZWU1`

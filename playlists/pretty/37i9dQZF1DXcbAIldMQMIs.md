@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > Indie pop when ur crushing
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,445 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,513 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 18 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
 | 19 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 20 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 |
-| 21 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
-| 22 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
+| 21 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
+| 22 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
 | 23 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 |
 | 24 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 |
 | 25 | [Drew Barrymore](https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 40 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
 | 41 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 |
 | 42 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
-| 43 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
-| 44 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
+| 43 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
+| 44 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
 | 45 | [Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Pleaser](https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978) | 3:07 |
 | 46 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 |
 | 47 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 53 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 54 | [striptease](https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR) | 2:40 |
 | 55 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
-| 56 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
-| 57 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
+| 56 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
+| 57 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
 | 58 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 |
 | 59 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 |
 | 60 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 69 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 |
 | 70 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
 
-Snapshot ID: `MCw3NWUyMDgxYjI2NTQ0NzJmMjE4YTg0YjgwMWEyZDE4ZTJhMWNkNmQ1`
+Snapshot ID: `MCw2ZGFiM2ZkZjkxMWQ4NTRiMjI0ZDI3MzVkNmZlYzAwZmQ4ZjMwNTMx`

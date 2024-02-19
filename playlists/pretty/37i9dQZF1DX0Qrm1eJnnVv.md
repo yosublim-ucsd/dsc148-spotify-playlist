@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,916 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,924 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 39 | [Peace and Plenty Rag](https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj) | [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Charleston Rag](https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE) | 3:06 |
 | 40 | [Broadway Rag](https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb) | [Squeek Steele](https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF) | [Ragtime, Vol\. 1](https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK) | 3:37 |
 | 41 | [Felicity Rag](https://open.spotify.com/track/3T6xW4I5ph72PwI2PfGMAk) | [John Arpin](https://open.spotify.com/artist/6OMykuv92hzqoSZAzcSdg1) | [Ragtime Rarities](https://open.spotify.com/album/7usFK6PtITIrklPDFG03cZ) | 3:26 |
-| 42 | [Operatic Rag](https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv) | [Waldham Ragtime Pianos](https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5) | [Magnetic Rag](https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF) | 2:44 |
+| 42 | [Champagne Rag](https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f) | [Waldham Ragtime Pianos](https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5) | [The St Louis Rag](https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv) | 3:42 |
 | 43 | [Harlem Rag](https://open.spotify.com/track/3NcbV4lOWtvMZuyiWk4pt9) | [Tom Turpin \(1982\)](https://open.spotify.com/artist/0fFUpKXdGhkHH9TaPLUqJr) | [Silence](https://open.spotify.com/album/34pIdHeTwx6rNUuIUQ97hP) | 2:39 |
 | 44 | [Ethiopia](https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [Joseph F\. Lamb: The Complete Stark Rags \(1908\-1919\)](https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv) | 4:11 |
-| 45 | [Champagne Rag](https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f) | [Waldham Ragtime Pianos](https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5) | [The St Louis Rag](https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv) | 3:42 |
+| 45 | [Operatic Rag](https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv) | [Waldham Ragtime Pianos](https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5) | [Magnetic Rag](https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF) | 2:44 |
 | 46 | [Maple Leaf Rag](https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Entertainer](https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz) | 3:14 |
 | 47 | [Elite Syncopations](https://open.spotify.com/track/3NqrNRSNIAPZ7Q9xv7FAPA) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:24 |
 | 48 | [Bethena \- A Concert Waltz](https://open.spotify.com/track/5WjcpTSFtdziv49MXLKoDy) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Entertainer](https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz) | 4:19 |
 | 49 | [Something Doing](https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Greatest Ragtime Of The Century](https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj) | 3:16 |
 | 50 | [Scott Joplin's New Rag](https://open.spotify.com/track/49uqrtWArmME93qBRrHamC) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:28 |
 
-Snapshot ID: `MCwzYWMwMjg0ZTcyNjU1ZjFkMTJjNmM5MGVhMjQ1M2NmNDQ0Y2YzOTc5`
+Snapshot ID: `MCxhMjQ4MjAxMGQzMjRmMTA0ODVlNGEyZGQ1ODUwZTE2OGVjNTZjM2Ey`

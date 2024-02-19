@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-381 songs - 19 hr 58 min
+382 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [GOZANDO](https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [GOZANDO](https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH) | 2:51 | 2023-12-06 |  |
 | [Gozza](https://open.spotify.com/track/10tYrYa3ngNK7nCDSNskJl) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW), [Tribu Baharú](https://open.spotify.com/artist/55TyqBcG040D9KPsyhxAb3) | [Gozza](https://open.spotify.com/album/0TEewgAiLbvbJXRIRmIsCK) | 3:41 | 2022-03-21 | 2022-04-20 |
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-07-08 | 2023-05-26 |
-| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2023-12-06 |  |
+| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2023-12-06 | 2024-02-19 |
+| [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 | 2024-02-09 |  |
 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-12-06 |  |
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-14 | 2023-05-26 |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-07-08 | 2023-05-26 |

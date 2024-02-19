@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,188 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,193 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 36 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
 | 37 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 |
 | 38 | [With Or Without You](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 |
-| 39 | [Somethin' Stupid](https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:42 |
-| 40 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
+| 39 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
+| 40 | [Somethin' Stupid](https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:42 |
 | 41 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 |
 | 42 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 43 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 69 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 70 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
 
-Snapshot ID: `MCxkZDZhYmQ1ZjE1ODFjMTEyNDA4ZmJlMjQ2NzU5MWYyYWViNDllNjYy`
+Snapshot ID: `MCxkOTFjOTdjYTIyYzJjMDZhMTlkZTAwM2E3ZmYxZTY1ZTgzOWJhZjMw`

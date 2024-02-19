@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 358155,
+  "num_followers": 358220,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTU5Nzk2NjhlZTY4ZDU5ZDE4YTk0YWI5MTgxN2ZmZjU3Y2YzZDgw",
+  "snapshot_id": "MCw2MzhlMTJjMjliMDI3YWZhOGQ4ZmIyNTdmODhlMjI3YmRiNWQwMGMz",
   "tracks": [
     {
       "added_at": "2024-01-18 05:18:40",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
         }
       ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+      "duration_ms": 225416,
+      "name": "ALFOMBRA ROJA",
+      "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 137183,
       "name": "Andamos Mejor",
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
-        "name": "Sin Rumbo",
-        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        }
-      ],
-      "duration_ms": 225416,
-      "name": "ALFOMBRA ROJA",
-      "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 174275,
-      "name": "Aerol\u00ednea Carrillo",
-      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
         "name": "Un Album Sencillo",
         "url": "https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH"
       },
@@ -903,6 +883,26 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 174275,
+      "name": "Aerol\u00ednea Carrillo",
+      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
         "name": "Seguimos Laborando",
         "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 205813,
       "name": "Seguimos Laborando",
       "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
-        "name": "Pacas Verdes (feat. Ovi)",
-        "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 170925,
-      "name": "Pacas Verdes",
-      "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -959,6 +939,22 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
         "name": "Tirando la H",
         "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
       },
@@ -975,18 +971,22 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+        "name": "Pacas Verdes (feat. Ovi)",
+        "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         }
       ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+      "duration_ms": 170925,
+      "name": "Pacas Verdes",
+      "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
+        "name": "Es Dificil Ser Un Santo",
+        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 185756,
+      "name": "Es Dificil Ser Un Santo",
+      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
         "name": "Aventador",
         "url": "https://open.spotify.com/album/2oJmzxo3F84tztXqVBBGFH"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 205973,
       "name": "Aventador",
       "url": "https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
-        "name": "Es Dificil Ser Un Santo",
-        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Es Dificil Ser Un Santo",
-      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 198321,
-      "name": "Sorry Pa\u2019 Los Gabachos",
-      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
+      "duration_ms": 219826,
+      "name": "Clave 7",
+      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Clave 7",
-      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
         "name": "Soy El Rat\u00f3n",
         "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 222669,
       "name": "Soy El Rat\u00f3n",
       "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "Sorry Pa\u2019 Los Gabachos",
+      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
         "name": "El De Las Dos Pistolas",
         "url": "https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 167288,
       "name": "El De Las Dos Pistolas",
       "url": "https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
+        "name": "Pueblo Querido",
+        "url": "https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Pueblo Querido",
+      "url": "https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
         "name": "Hierba de Receta",
         "url": "https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 193561,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
-        "name": "Pueblo Querido",
-        "url": "https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "Pueblo Querido",
-      "url": "https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5"
     },
     {
       "added_at": "2024-01-18 05:18:40",

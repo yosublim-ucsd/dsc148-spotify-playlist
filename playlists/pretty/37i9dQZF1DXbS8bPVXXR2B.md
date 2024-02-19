@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,479 likes - 100 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,517 likes - 100 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 17 | [Remind Me \- Remastered](https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 5:19 |
 | 18 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 19 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
-| 20 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
-| 21 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
+| 20 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
+| 21 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 22 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 23 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 |
 | 24 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 | 100 | [Ashewo Ara](https://open.spotify.com/track/0xnN6Hy5feKHIKdAbH7F7F) | [Kabbala](https://open.spotify.com/artist/4BwyiOrl6JLvblu0RhIWee) | [Ashewo Ara](https://open.spotify.com/album/16zlOZC4ck0f6p2NHsZFmN) | 6:01 |
 
-Snapshot ID: `MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw`
+Snapshot ID: `MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,262 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,596 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 57 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
 | 58 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
 | 59 | [Horny \- '98 Radio Edit](https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Hot 'N' Juicy](https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr) | [Horny \(Radio Edit's\)](https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D) | 3:07 |
-| 60 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
-| 61 | [This Is How We Do It](https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ) | 4:37 |
+| 60 | [This Is How We Do It](https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ) | 4:37 |
+| 61 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
 | 62 | [Space Jam](https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Space Jam \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI) | 5:04 |
 | 63 | [Free](https://open.spotify.com/track/0kqatfl1V116n4U2gKZQuV) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free \- The Strictly Collection](https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT) | 5:53 |
 | 64 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 74 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 75 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 |
 
-Snapshot ID: `MCw5ZjdjZDE3YjdlYjQ3YTE2NDE3MTc1YzcyYmFmMTliZjdkNjgyM2E3`
+Snapshot ID: `MCwxZWY0ZmY0YzBhN2U2ZWRhMDE0YmRmZmFkODU2YjMwOGFhNjllYTEz`

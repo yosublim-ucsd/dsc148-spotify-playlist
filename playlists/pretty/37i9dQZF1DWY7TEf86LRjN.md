@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM?si=K1wo6Wc\-Sb2ISiKUMYabuQ">WITCH</a> take over Welcome To Zamrock; their selection of hits and classics from the scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,090 likes - 33 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,111 likes - 33 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 | 32 | [Really](https://open.spotify.com/track/4tcP3hm9lLs1S1qwrK2gyC) | [Crossbones](https://open.spotify.com/artist/3MsSQdr5EkozOHkZyhlWpf) | [Wise Man](https://open.spotify.com/album/1Z87VMIAYuFqAau4f6JgAI) | 3:57 |
 | 33 | [Avalanche Of Love](https://open.spotify.com/track/1ypEcoMJdjba3Xh9QUIM7K) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 3:55 |
 
-Snapshot ID: `MCw5ZDUyYzFhNWExOWY4MzA0YjFkZWU1MzU2ZDczYWE5YWRkMzM5ZjNk`
+Snapshot ID: `MCxjOTNkOGIxMzY4ZjMzZjE0YWUxZGMyNzNkZDY2MjYyMGM2OGNjMTUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,755 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,787 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 5 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
 | 6 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
 | 7 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
-| 8 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
-| 9 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
+| 8 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
+| 9 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
 | 10 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
 | 11 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 |
 | 12 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 41 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
 | 42 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 |
 | 43 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
-| 44 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 |
-| 45 | [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 |
+| 44 | [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 |
+| 45 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 |
 | 46 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 | 47 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |
 | 48 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 |
 | 49 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 50 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
-| 51 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
-| 52 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
+| 51 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
+| 52 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
 | 53 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
 | 54 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
 | 55 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 69 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 |
 | 70 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 |
 
-Snapshot ID: `MCxmZGE0MmYzYmZmYzJjYTU4ODMzMGZiNzNkNTM5YmZmMzNjYzY0NGNh`
+Snapshot ID: `MCwwMGMzMjZhYTAyZDUwYjA5NThkZWM4MTI0NDlhOTFiNWVjMjFiMDUz`

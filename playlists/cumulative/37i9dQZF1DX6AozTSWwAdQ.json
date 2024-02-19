@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 168668,
       "name": "Eras Of Us",
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
@@ -3364,6 +3364,28 @@
       "duration_ms": 203692,
       "name": "Just Thought You Should Know",
       "url": "https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl"
+    },
+    {
+      "album": {
+        "name": "kinda smacks",
+        "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136601,
+      "name": "kinda smacks",
+      "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
     },
     {
       "album": {

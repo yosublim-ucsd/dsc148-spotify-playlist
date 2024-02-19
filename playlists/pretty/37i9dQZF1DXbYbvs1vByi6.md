@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,473 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,482 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 5 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 6 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 7 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
-| 8 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
-| 9 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
+| 8 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
+| 9 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 | 10 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 |
 | 11 | [Hysteria](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 3:47 |
 | 12 | [Jerk It Out](https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Love For The Streets](https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal) | 3:15 |
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 17 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 | 18 | [For Reasons Unknown](https://open.spotify.com/track/6suRRwX61xSMfU7wJuCVdy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:32 |
 | 19 | [Pacifier](https://open.spotify.com/track/1rcu88dzWE5GyqtpuWvd0C) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:57 |
-| 20 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
-| 21 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
-| 22 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 |
+| 20 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 |
+| 21 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
+| 22 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 23 | [On the Back Burner](https://open.spotify.com/track/6eczJiyXPukaEhiA6OPPtk) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Alcopops & Charity Shops](https://open.spotify.com/album/5RXX48BI3S6SlvMo1cX5jB) | 2:06 |
 | 24 | [Lounge Act](https://open.spotify.com/track/7glld4kxYHp61zIPtSVHNk) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 2:36 |
 | 25 | [Thank God I'm Not You](https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy) | 3:14 |
-| 26 | [Don't Matter](https://open.spotify.com/track/48Jhybk2ZpPrnFb3oXdh6Z) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 2:50 |
-| 27 | [British Bombs](https://open.spotify.com/track/4ZdmTNaBTErD8n9AQE0YaX) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [British Bombs](https://open.spotify.com/album/18nvSHmOdaQNgpz7vsJKPr) | 4:57 |
+| 26 | [British Bombs](https://open.spotify.com/track/4ZdmTNaBTErD8n9AQE0YaX) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [British Bombs](https://open.spotify.com/album/18nvSHmOdaQNgpz7vsJKPr) | 4:57 |
+| 27 | [Don't Matter](https://open.spotify.com/track/48Jhybk2ZpPrnFb3oXdh6Z) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 2:50 |
 | 28 | [Bodys](https://open.spotify.com/track/1Pbs2eCcX9p2onaAvMYvhk) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 6:46 |
 | 29 | [I Can Talk](https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:57 |
 | 30 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 49 | [Black Magic](https://open.spotify.com/track/243b3t0P416vtdmxRllHEV) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [The Amazons \(Deluxe\)](https://open.spotify.com/album/2vsawVLAVvyQ8Oqu190Qbo) | 4:31 |
 | 50 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
 
-Snapshot ID: `MCw5Nzk4M2FjMDA4OTEzM2VlZjA2Njc3YWY0ZjUxZjc4NWFhMDcxMGZi`
+Snapshot ID: `MCwwMTMzMGYxYzNmZjkyMDJkYTQ5OGNjZDk3ZmM5M2U3ZTJiMzJlNzVm`

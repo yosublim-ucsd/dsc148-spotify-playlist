@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-812 songs - 2 day 0 hr 31 min
+813 songs - 2 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-01 | 2023-10-17 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-17 | 2023-03-12 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-06-15 |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2024-02-18 |  |
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2021-03-27 | 2021-04-01 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-13 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-06 | 2022-10-04 |
@@ -327,7 +328,7 @@
 | [Photograph](https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:18 | 2024-02-05 | 2024-02-07 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2023-08-18 |
-| [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-17 |  |
+| [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-17 | 2024-02-19 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-25 | 2022-06-27 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-26 | 2022-09-18 |
 | [Pull Up](https://open.spotify.com/track/1GMHyFG78bKI2IjUuZaMxm) | [PANTHEPACK](https://open.spotify.com/artist/3mtw7Fkg8wdXJdub6ZIkJb) | [The Pack](https://open.spotify.com/album/5z8pxdSutKoCU5hcrOznpB) | 2:54 | 2021-09-24 | 2021-10-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,861 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,871 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 |
 | 100 | [London Bridge](https://open.spotify.com/track/2AABmyao5FVwAm8ZnveJ4m) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 5:27 |
 
-Snapshot ID: `MCw1NTQyNTNlMjU0Y2Y4MjVmMWQ5YmVkMGFhNGFjNGRkNGNkMzZkNTM4`
+Snapshot ID: `MCwwOTc4MDU4MzRlZDI1MGI5NDlhNWU0YTUxMjYzOWQ2MTE4ODYwZTE1`

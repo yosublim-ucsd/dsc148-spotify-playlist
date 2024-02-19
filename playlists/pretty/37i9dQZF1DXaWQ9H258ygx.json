@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 93904,
+  "num_followers": 93963,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2U2ZWNlYmU2YzRlMGRkNGJiMTA0NzA0ZWFmYmJhOWJjYTc5ZDBm",
+  "snapshot_id": "MCwwOTI5MWZhMWFjMTQ1ZTU2ZmQ0NmQ5MjMzYzQ5ZGZkN2I4MWQ3MGFl",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
         "name": "King Of The Fall",
         "url": "https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 154105,
       "name": "Be Alone",
       "url": "https://open.spotify.com/track/7tjtWVu8RsshzPxQm8oT3y"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "DYING 4 YOUR LOVE",
-      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
     },
     {
       "added_at": "2022-10-03 04:00:00",

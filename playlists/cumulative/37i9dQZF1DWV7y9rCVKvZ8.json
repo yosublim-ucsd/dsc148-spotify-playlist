@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 198365,
       "name": "Crazy Form",
       "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
@@ -708,6 +708,24 @@
       "duration_ms": 218735,
       "name": "Dunia Tipu-Tipu",
       "url": "https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 320000,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/21KTIFgocZeDapOi59FK6W"
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 226926,
       "name": "Still",
       "url": "https://open.spotify.com/track/6sv7ZmasB6qSiF8hWJNpDG"
@@ -2694,10 +2712,32 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 199280,
       "name": "World Class Sinner / I\u2019m A Freak",
       "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and? (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWV7y9rCVKvZ8"

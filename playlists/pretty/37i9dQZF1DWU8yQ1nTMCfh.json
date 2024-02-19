@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 280081,
+  "num_followers": 280096,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGI1ZTgwM2NmMTcxYTY3YjdiY2ZmMzhmNDM0YmYwZjY1M2JmM2Nh",
+  "snapshot_id": "MCw1NzU2ODJhNGFjMjk3NGE5YTViMmYzMjkwMGMzNDdiODYyZjJjYjE4",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Llama Gemela",
         "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 207089,
       "name": "Llama Gemela",
       "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "RAMONA FLOWERS",
-        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "RAMONA FLOWERS",
-      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Jaula de Oro",
         "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 238926,
       "name": "Jaula de Oro",
       "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "RAMONA FLOWERS",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "RAMONA FLOWERS",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Instinto Felino",
-        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 188431,
-      "name": "Lo Que Nadie Supo Dar",
-      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Los Flakos",
-        "url": "https://open.spotify.com/album/7HKY2rqTIBUBZAuFfDWcUv"
+        "name": "Instinto Felino",
+        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
       },
       "artists": [
         {
-          "name": "Los Flakos",
-          "url": "https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah"
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
         }
       ],
-      "duration_ms": 212185,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8"
+      "duration_ms": 188431,
+      "name": "Lo Que Nadie Supo Dar",
+      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 177348,
       "name": "Dos",
       "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Los Flakos",
+        "url": "https://open.spotify.com/album/7HKY2rqTIBUBZAuFfDWcUv"
+      },
+      "artists": [
+        {
+          "name": "Los Flakos",
+          "url": "https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah"
+        }
+      ],
+      "duration_ms": 212185,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "El Puesto Es M\u00edo",
+        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 179585,
+      "name": "El Puesto Es M\u00edo",
+      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 215940,
       "name": "T\u00fa Ya No Dices Nada",
       "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "El Puesto Es M\u00edo",
-        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179585,
-      "name": "El Puesto Es M\u00edo",
-      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Desp\u00eddete Bien",
-        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Desp\u00eddete Bien",
-      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Desp\u00eddete Bien",
+        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Desp\u00eddete Bien",
+      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
     },
     {
       "added_at": "2024-02-09 05:00:00",

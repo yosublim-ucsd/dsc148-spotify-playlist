@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,681 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,713 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 49 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 50 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 51 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
-| 52 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
+| 52 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 |
 | 53 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
-| 54 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 |
+| 54 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 | 55 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 56 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 57 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 82 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
 | 83 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 84 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
-| 85 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
-| 86 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
+| 85 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
+| 86 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
 | 87 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
 | 88 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
-| 89 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
-| 90 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
+| 89 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
+| 90 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
 | 91 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
 | 92 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 |
 | 93 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 99 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
 | 100 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 |
 
-Snapshot ID: `MCw0YTMzOGQ3Y2ExZDA1N2FkNjZmYWY1ZjZiZjQ1NjRhN2JhNTQ5ZmRm`
+Snapshot ID: `MCwxNWE1NjdkMDFiM2FiODEwMGQ5ZjA4ZDBlNTM4OTlhOGRlYTJjYTFk`

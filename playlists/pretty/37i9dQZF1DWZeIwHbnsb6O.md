@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,280 likes - 61 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,340 likes - 61 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 29 | [Por Ti](https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 2:52 |
 | 30 | [Dilo Tu](https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:42 |
 | 31 | [Engaño](https://open.spotify.com/track/4HcAjWbSvFMPnqyuzU5qRI) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:26 |
-| 32 | [Garabato Colorado](https://open.spotify.com/track/1XddjFsSL7rpNLcr7FSop7) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Tesoros De Coleccion \- Chabelo](https://open.spotify.com/album/1fJmN6Pwa2nIeX0GnXbW4b) | 3:13 |
-| 33 | [Déjenme llorar \- Con banda](https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 2:37 |
+| 32 | [Déjenme llorar \- Con banda](https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 2:37 |
+| 33 | [Garabato Colorado](https://open.spotify.com/track/1XddjFsSL7rpNLcr7FSop7) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Tesoros De Coleccion \- Chabelo](https://open.spotify.com/album/1fJmN6Pwa2nIeX0GnXbW4b) | 3:13 |
 | 34 | [Lamento De Amor](https://open.spotify.com/track/66nefjRgrIOjrUKCnKZJPq) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [40 Aniversario \(Componente 1\)](https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq) | 3:17 |
 | 35 | [Vida](https://open.spotify.com/track/47BX8KEYwLKHHjssDYfmZy) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [Tesoros De Colección \- Solo Para Enamorados](https://open.spotify.com/album/2VJGuUziW86OlMjaL9p5JX) | 2:17 |
 | 36 | [Triángulo](https://open.spotify.com/track/3tsMbJIgZQZR3MT6I89GI2) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 3:10 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 60 | [Lost In My World \(Perdido en Mi Mundo\)](https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:07 |
 | 61 | [Que Alegre Va María](https://open.spotify.com/track/50TLovGoqCAnyHj4k7Y7r4) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [RCA 100 Anos De Musica \- Segunda Parte \( Grandes Baladas De Los 70s\)](https://open.spotify.com/album/5UQ6XQO9FRydH3GlbJpEDP) | 4:51 |
 
-Snapshot ID: `MCwyYjIxMjc3NDZmYjFkOGNjNjk2OWIyZDFiYjdmNjc4NzQyYzI5OGUy`
+Snapshot ID: `MCw0ZGY1YjcyMDczYThiODRkZDI0NDAzMzJjOTg2NTNkZjcwNWExNzJj`

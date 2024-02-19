@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,504 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,526 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 19 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 20 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 21 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 |
-| 22 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 |
+| 22 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 |
 | 23 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
-| 24 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 |
+| 24 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 |
 | 25 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 26 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
 | 27 | [Vagabond](https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 2:09 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 32 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 | 33 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 |
 | 34 | [Spirits](https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 3:23 |
-| 35 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
+| 35 | [Better Than](https://open.spotify.com/track/4WMMaqVZIlUnDvICcXWgeZ) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd) | 3:35 |
 | 36 | [Speak Too Soon](https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Wild Rivers](https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK) | 2:53 |
-| 37 | [Better Than](https://open.spotify.com/track/4WMMaqVZIlUnDvICcXWgeZ) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd) | 3:35 |
+| 37 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
 | 38 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 39 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 | 40 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 74 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 75 | [Like a River](https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/3o8nivVQguilisc4zKinYI) | 3:35 |
 | 76 | [Walk Above the City](https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:00 |
-| 77 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
-| 78 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
+| 77 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
+| 78 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 79 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
 | 80 | [Now You Don't](https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA) | 3:11 |
 | 81 | [Catholic Country](https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:01 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 96 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
 | 97 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
 | 98 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
-| 99 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 |
-| 100 | [Rising Sun](https://open.spotify.com/track/7vlCerwYf78YVK23WdN2qu) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX) | 3:22 |
+| 99 | [Rising Sun](https://open.spotify.com/track/7vlCerwYf78YVK23WdN2qu) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX) | 3:22 |
+| 100 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 |
 
-Snapshot ID: `MCw4MWRjMTgxYmNjMDM2ZTNkYjc4YjM0OTcwNWVmOTQyODE0NjRkZGZj`
+Snapshot ID: `MCw3YjBkYzMyNjA1ZGIzNWI0ZWQyZjA4ZmVlYTc1NDA0MzdkZDEzZTM4`

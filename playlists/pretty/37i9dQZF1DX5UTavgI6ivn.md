@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > ¡Con sabor y perrenque, aquí está lo mejor de "la tierra de los mil ritmos"! En portada: Fonseca
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,652 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,823 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CANTO A LA VIDA](https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [CANTO A LA VIDA](https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n) | 3:25 |
 | 2 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
-| 3 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 3 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 4 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 5 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 6 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 99 | [Me Llamas \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Me Llamas \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq) | 3:30 |
 | 100 | [La Invité a Bailar](https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/18O2bcdL2iaRBsozg7H0gV) | 4:05 |
 
-Snapshot ID: `MCw3YWMwNjNmYjYwM2MwYmZlOTI1NzZjMTE5YmEzOTM1OWE3YmNmNjM5`
+Snapshot ID: `MCxkOWJhMTNkOWM4MmE3YTEyZmQ0ZDAzMDMwYTJlZDRkMjUzNTllNWY2`

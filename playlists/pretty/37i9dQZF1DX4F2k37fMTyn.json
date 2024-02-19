@@ -1,12 +1,12 @@
 {
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u306e\u540d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: BLANKA",
-  "num_followers": 36260,
+  "num_followers": 36261,
   "original_name": "Girl On Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzgwNTM0MDIwN2NiNDhmMGYxZDMwYWY3YjY3ZjA1NDE2YTgxNDQy",
+  "snapshot_id": "MCxkZDQ0NmQ0ZDE2MDk1OTM2ZTFjOTA1OGQzZTk4ZDBmYTY1ZGI5MmM5",
   "tracks": [
     {
       "added_at": "2024-02-15 15:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -771,18 +771,22 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -807,22 +811,18 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -991,18 +991,22 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "If We Ever Broke Up",
-        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
       "artists": [
         {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 142758,
-      "name": "If We Ever Broke Up",
-      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
     },
     {
       "added_at": "2024-02-15 15:00:00",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2024-02-15 15:00:00",
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
         }
       ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     }
   ],
   "unique_name": "Girl On Fire",

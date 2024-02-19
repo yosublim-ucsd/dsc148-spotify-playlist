@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,815 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,825 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 34 | [ASOBI \(feat\. Candee & MonyHorse\) \- Remix](https://open.spotify.com/track/7C5OicvHguY1bVUF7lSuFq) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [ASOBI \(feat\. Candee & MonyHorse\) \[Remix\]](https://open.spotify.com/album/5d8OTVYyV8DMAXQyge7q45) | 3:16 |
 | 35 | [Best Way 2 Die](https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [Best Way 2 Die](https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ) | 3:34 |
 | 36 | [Kick Up](https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up](https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a) | 3:07 |
-| 37 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 |
-| 38 | [JAPANESE NINJA](https://open.spotify.com/track/00HIKUJ3NMsxnvFuLuQiSf) | [LeMu](https://open.spotify.com/artist/2Fs2BmbyNv5W969MZKe2kM), [P¥TA](https://open.spotify.com/artist/3YVzbws07cdeBA8ZisKzqX), [Will](https://open.spotify.com/artist/3muGOz0Xarz7aRbHp1QOSu), [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe) | [LeMu TAPE](https://open.spotify.com/album/2AIUvGSCl36rMXwiRH1IaV) | 2:22 |
+| 37 | [JAPANESE NINJA](https://open.spotify.com/track/00HIKUJ3NMsxnvFuLuQiSf) | [LeMu](https://open.spotify.com/artist/2Fs2BmbyNv5W969MZKe2kM), [P¥TA](https://open.spotify.com/artist/3YVzbws07cdeBA8ZisKzqX), [Will](https://open.spotify.com/artist/3muGOz0Xarz7aRbHp1QOSu), [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe) | [LeMu TAPE](https://open.spotify.com/album/2AIUvGSCl36rMXwiRH1IaV) | 2:22 |
+| 38 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 |
 | 39 | [NIKE DRIP \- REMIX](https://open.spotify.com/track/7g9zIRbdPvfiPrDOlL3RFP) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4) | [NIKE DRIP \(REMIX\)](https://open.spotify.com/album/2PDJLYDBWmDqtyQMJaO7mF) | 2:30 |
 | 40 | [Go](https://open.spotify.com/track/1bdbr1uDAQMVxY9HXts4uW) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/3h5PA716UNNgWEl2HW1nSJ) | 3:25 |
 | 41 | [TOKYO MANJI REVENGERS](https://open.spotify.com/track/3BEp9EL26N87bu5fzwjO0W) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [GNB AAlucarD](https://open.spotify.com/artist/1xfVkn8HjymKn0leFMPWxK), [HAKU FiFTY](https://open.spotify.com/artist/6fJgIprinfVAfMtLuF1OX8) | [TOKYO MANJI REVENGERS](https://open.spotify.com/album/5w4JHnj6JTqB3lefOFJxOU) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
 | 50 | [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 |
 
-Snapshot ID: `MCxmMDc3N2Y4M2QzMjRmODQ1YTAwMWEzNzUyZjYxYWI4OTY1NWQ4YzI2`
+Snapshot ID: `MCw5NmE5NzE3M2RkYTU0MTM4Y2VlMDhjMjliNzY1MzdiOGRkMDRkZjQ3`

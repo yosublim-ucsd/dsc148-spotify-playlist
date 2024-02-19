@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
-  "num_followers": 121248,
+  "num_followers": 121282,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWRjOWQ3OGVmZWRlZGZiNTFhMjZjZTFmNmY5MGEwMjJiNzlmOThl",
+  "snapshot_id": "MCxkNmFiNDM0YmI2NmI3ZmI2ZDZiYTY1MTg4OWZlOGMzNjk2MTAyNGE5",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "El Siglo del Loro",
+        "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
+      },
+      "artists": [
+        {
+          "name": "Pala",
+          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 100253,
+      "name": "Ponme",
+      "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        },
-        {
-          "name": "Ernesto Snajer",
-          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
-        }
-      ],
-      "duration_ms": 181798,
-      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
-      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -631,22 +631,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "El Siglo del Loro",
-        "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
       },
       "artists": [
         {
-          "name": "Pala",
-          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         },
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Ernesto Snajer",
+          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
         }
       ],
-      "duration_ms": 100253,
-      "name": "Ponme",
-      "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
+      "duration_ms": 181798,
+      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Todo Lo Que No Est\u00e1",
-        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sobral",
-          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        }
-      ],
-      "duration_ms": 216661,
-      "name": "Todo Lo Que No Est\u00e1",
-      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -903,22 +903,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
+        "name": "Todo Lo Que No Est\u00e1",
+        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
       },
       "artists": [
         {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+          "name": "Lu\u00edsa Sobral",
+          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
         },
         {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
         }
       ],
-      "duration_ms": 217787,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
+      "duration_ms": 216661,
+      "name": "Todo Lo Que No Est\u00e1",
+      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "El Mundo y la Nada",
-        "url": "https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1"
-      },
-      "artists": [
-        {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 122821,
-      "name": "Despi\u00e9rtame Cuando Llegues",
-      "url": "https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Rumba en Cahuita",
         "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "El Mundo y la Nada",
+        "url": "https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 122821,
+      "name": "Despi\u00e9rtame Cuando Llegues",
+      "url": "https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Kumbayeo (Lado A)",
         "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 197346,
       "name": "Orquesta natural",
       "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "El Talante de la Noche",
         "url": "https://open.spotify.com/album/7rX3h3nG1B4fvR0XVnwSCs"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Muchacha",
-        "url": "https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD"
-      },
-      "artists": [
-        {
-          "name": "Emilia y Pablo",
-          "url": "https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Muchacha",
-      "url": "https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Palomita de Mar",
         "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD"
+      },
+      "artists": [
+        {
+          "name": "Emilia y Pablo",
+          "url": "https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Migas",
+        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+        }
+      ],
+      "duration_ms": 333409,
+      "name": "Migas",
+      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Deshielo",
         "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Migas",
-        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 333409,
-      "name": "Migas",
-      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
     }
   ],
   "unique_name": "Cancionistas",

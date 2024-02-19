@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 215880,
+  "2024-02-19": 215906,
   "date_first_scraped": "2023-10-25",
   "description": "2023 yaz\u0131na damga vuran \u015fark\u0131lar. Kapak: Semicenk x Do\u011fu Swag",
   "name": "Yaz Hitleri 2023",
@@ -97,10 +97,32 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 149642,
       "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
       "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
+    },
+    {
+      "album": {
+        "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
+        "url": "https://open.spotify.com/album/0Sqh3MjGZAPBLLheEYxxq4"
+      },
+      "artists": [
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149642,
+      "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
+      "url": "https://open.spotify.com/track/4prkrtPoc702AKjtC7fLZx"
     },
     {
       "album": {

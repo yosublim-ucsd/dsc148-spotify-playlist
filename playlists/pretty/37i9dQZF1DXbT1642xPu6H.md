@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 
 > Verano por siempre no importa cuándo y dónde
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,131 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,169 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,16 +54,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 44 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
 | 45 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |
 | 46 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
-| 47 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
-| 48 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
+| 47 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
+| 48 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
 | 49 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
 | 50 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
 | 51 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 52 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 |
 | 53 | [TQG](https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TQG](https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa) | 3:18 |
-| 54 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 |
-| 55 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
-| 56 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
+| 54 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
+| 55 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 |
+| 56 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
 | 57 | [12x3](https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:39 |
 | 58 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 |
 | 59 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 64 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 |
 | 65 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 |
 
-Snapshot ID: `MCw4YTc3NDhhMjJkMjJhMTA1YzlhMGZjYmRlOWY0NzVmZWE0MzZmNjZl`
+Snapshot ID: `MCxkMzc3MjJkMTVjYjU4OTAzOGFjODliZjVlOWY2OTM0NTdjZWIxMThm`

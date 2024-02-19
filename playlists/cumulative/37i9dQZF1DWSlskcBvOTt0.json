@@ -3425,6 +3425,28 @@
     },
     {
       "album": {
+        "name": "Eu Vou Pra Bahia",
+        "url": "https://open.spotify.com/album/17lKsLsdMLL1CkcJzrR0hl"
+      },
+      "artists": [
+        {
+          "name": "DOT (BR)",
+          "url": "https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Eu Vou Pra Bahia",
+      "url": "https://open.spotify.com/track/0Sp67H1rsdLZLbNUoOLYzX"
+    },
+    {
+      "album": {
         "name": "Eunoia",
         "url": "https://open.spotify.com/album/10kcNu8TI8d966msyHYnS9"
       },
@@ -9442,7 +9464,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 206564,
       "name": "Shakshaka",
       "url": "https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey"

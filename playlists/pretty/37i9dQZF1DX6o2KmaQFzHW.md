@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,558 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,626 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 43 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 |
 | 44 | [Cuando Llora Mi Guitarra](https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:40 |
 | 45 | [Canto Nochero](https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 3:22 |
-| 46 | [El Pastor](https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:49 |
-| 47 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Zambas Inolvidables Y Una Canción Al Vino](https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz) | 2:57 |
+| 46 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Zambas Inolvidables Y Una Canción Al Vino](https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz) | 2:57 |
+| 47 | [El Pastor](https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:49 |
 | 48 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 49 | [Anoche No Dormi](https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:41 |
 | 50 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 79 | [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 |
 | 80 | [Para Cantar He Nacido](https://open.spotify.com/track/447ORDEfYxu77edFodcfr6) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Para Cantar He Nacido](https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR) | 3:26 |
 | 81 | [Purmamarca](https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71), [Franco Barrionuevo](https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb), [Luis Paredes](https://open.spotify.com/artist/62b29phHmw4APV3xe26cco) | [Concierto del Alma](https://open.spotify.com/album/2x35VXSZW6xfQQSvSnYIVW) | 3:33 |
-| 82 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 |
-| 83 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
+| 82 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
+| 83 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 |
 | 84 | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D) | 12:50 |
 | 85 | [Qué Te Ocurre Amigo Mío](https://open.spotify.com/track/1kFbnDteYOYeQB5eB1aWs6) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:38 |
 | 86 | [López Pereyra](https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 | 90 | [Dios a la Una](https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE) | [Daniel Altamirano](https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx) | [Mi Ultima Canción](https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz) | 6:04 |
 
-Snapshot ID: `MCxhYjg0NWFmYzFlMWNlMzRiN2UyNjI3MzdjNzQ0MTI0NGQ0MjFlMzEw`
+Snapshot ID: `MCw1N2U2MmU3N2RlNjUyOTNlNGMyZjM1ZGQ0ZTMyYjE1OTNlNGJmMWI4`

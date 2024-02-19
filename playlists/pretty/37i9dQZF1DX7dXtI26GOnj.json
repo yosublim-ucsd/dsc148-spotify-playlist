@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Kali Uchis, Peso Pluma",
-  "num_followers": 174656,
+  "num_followers": 174729,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2RkN2Y5NjE1ZWI4ZmNkYmM1NzZlZmE3MzE5NzJmNmMzMzVlNGQz",
+  "snapshot_id": "MCwwMDY3ZmQwMTZhMjZlZDRlNjhlOTYxZWE1ZjEyYzc4MzJkNDE4NzY4",
   "tracks": [
     {
       "added_at": "2024-02-16 03:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Bota Ni\u00f1a",
-        "url": "https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR"
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Bota Ni\u00f1a",
-      "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1295,22 +1295,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+        "name": "Bota Ni\u00f1a",
+        "url": "https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+      "duration_ms": 209693,
+      "name": "Bota Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Borracho y Loco",
         "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
       },
@@ -1383,6 +1399,42 @@
       "duration_ms": 171800,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1407,58 +1459,6 @@
       "duration_ms": 179666,
       "name": "Faldas y Gistros",
       "url": "https://open.spotify.com/track/0qFS3YSjOgoO7qiOekDJtp"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Santorini",
-        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Te Menti",
         "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
       },
@@ -1559,6 +1579,22 @@
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188930,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1631,42 +1667,6 @@
       "duration_ms": 191606,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188930,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": "2024-02-16 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697,796 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697,915 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 94 | [Ahora Quien](https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Amar Sin Mentiras](https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq) | 5:05 |
 | 95 | [Lo Siento Mucho](https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:18 |
 | 96 | [Rabia](https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Rabia](https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf) | 3:37 |
-| 97 | [Por Tu Bien](https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:53 |
-| 98 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
-| 99 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 |
-| 100 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 |
+| 97 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
+| 98 | [Por Tu Bien](https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:53 |
+| 99 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 |
+| 100 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 |
 
-Snapshot ID: `MCwyOTliOTZiNGNjM2YxMzk0ZWI5YTMxMTk2ODU5MDVjYzZmOTI1M2Ex`
+Snapshot ID: `MCxlZWRjMDY2YmE3ZWZiMDA0NTcxNGM3MGQwNDRmNmYwYTI1YzMxNmI4`

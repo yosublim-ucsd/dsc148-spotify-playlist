@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzI5OWYzM2RhZGNmMWQxNTFjOWYwN2QwNTQyYzYzMWJkMzlhZjU0",
+  "snapshot_id": "MCwwMDY5M2JiZGQwMjQ1MzkzNmJiNTVkNTczNjFhZWM3MDRjNjU1NzMz",
   "tracks": [
     {
       "added_at": "2023-05-25 20:52:42",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Surface Sounds",
-        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 284798,
-      "name": "Hey Gringo",
-      "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Days Are Gone",
         "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 245293,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Surface Sounds",
+        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 284798,
+      "name": "Hey Gringo",
+      "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK"
     },
     {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194994,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
-    },
-    {
       "added_at": "2023-06-02 11:00:50",
       "album": {
         "name": "Trouble\u2019s Coming",
@@ -1035,6 +1019,22 @@
       "duration_ms": 228400,
       "name": "Trouble\u2019s Coming",
       "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 194994,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Heartbreak Of The Century",
-        "url": "https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 229124,
-      "name": "Heartbreak Of The Century",
-      "url": "https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Heartbreak Of The Century",
+        "url": "https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 229124,
+      "name": "Heartbreak Of The Century",
+      "url": "https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb"
     },
     {
       "added_at": "2023-07-28 14:13:22",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
+        "name": "estella//",
+        "url": "https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 118733,
+      "name": "estella//",
+      "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 187890,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "estella//",
-        "url": "https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 118733,
-      "name": "estella//",
-      "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
     },
     {
       "added_at": "2023-05-25 20:52:42",

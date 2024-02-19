@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3uZkaA66y2JQegYQaCP1Fp">Erika de Casier</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127 likes - 42 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 42 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 37 | [Trick](https://open.spotify.com/track/0jctbEYOwwCldDcIjPh1a9) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:55 |
 | 38 | [s.e.x.y.o.m.g\. \(feat\. Debbie Sings\)](https://open.spotify.com/track/7E8lq2tTvGfB8fpR5Ipt9p) | [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB), [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Elements \(Deluxe\)](https://open.spotify.com/album/26sxU2CplXqpmaogJJkb2Y) | 3:17 |
 | 39 | [Camo](https://open.spotify.com/track/0NYTDaeVpepG9KxxP3ehQ9) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:07 |
-| 40 | [No One's God](https://open.spotify.com/track/3lI8GbBt2RTH2F2AJkJXgS) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [No One's God](https://open.spotify.com/album/0Sy6QHq7t9bxY3poE7E3Se) | 4:07 |
-| 41 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 |
-| 42 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 |
+| 40 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 |
+| 41 | [No One's God](https://open.spotify.com/track/3lI8GbBt2RTH2F2AJkJXgS) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [No One's God](https://open.spotify.com/album/0Sy6QHq7t9bxY3poE7E3Se) | 4:07 |
+| 42 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 |
 
-Snapshot ID: `Mjg0NzAzNzAsMDAwMDAwMDA2ZWQxZGQ2OGIzYWE4MjA0MDdjZWUzYWFlMDA0MWE4Yw==`
+Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDA4YWI0ZTMxNWVkODFkYzE5MTUyZTBjZmQ2NzE4M2RkYg==`

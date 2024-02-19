@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,286 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,362 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 12 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 |
 | 13 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 14 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 |
-| 15 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 |
-| 16 | [Other Side](https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Other Side](https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo) | 3:26 |
+| 15 | [Other Side](https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Other Side](https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo) | 3:26 |
+| 16 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 |
 | 17 | [Demons \- Massane Remix](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ) | 4:03 |
 | 18 | [All I Need](https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH) | [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ) | [All I Need](https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN) | 3:21 |
 | 19 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 26 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 |
 | 27 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 |
 | 28 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
-| 29 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
-| 30 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 |
+| 29 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 |
+| 30 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
 | 31 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 | 32 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 |
 | 33 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 49 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
 | 50 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
 
-Snapshot ID: `MCw4MjZlYTYxZDI0ZGIwMGUzNGI4NzExMTcwZTZjMzM3Y2IzOTM3NjFl`
+Snapshot ID: `MCw0ZGNlNjRmZWY2MmQ3ZjI3ODdhMDVjY2RmOGE2YTJjNDgyOTViNTQy`

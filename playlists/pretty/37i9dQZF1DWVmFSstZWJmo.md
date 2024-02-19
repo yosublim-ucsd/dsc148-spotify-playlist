@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > The good ole days!!!!!!!! cover: Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,340 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,484 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 24 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 |
 | 25 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 |
 | 26 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 |
-| 27 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
+| 27 | [Pursuit Of Happiness \- Extended Steve Aoki Remix](https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Pursuit Of Happiness \[Extended Steve Aoki Remix \(Explicit\)\]](https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv) | 6:13 |
 | 28 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
-| 29 | [Pursuit Of Happiness \- Extended Steve Aoki Remix](https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Pursuit Of Happiness \[Extended Steve Aoki Remix \(Explicit\)\]](https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv) | 6:13 |
+| 29 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 30 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 |
 | 31 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
 | 32 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 52 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 53 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
 | 54 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
-| 55 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
-| 56 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
+| 55 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
+| 56 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
 | 57 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
 | 58 | [girlfriend](https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:13 |
 | 59 | [Don't Look Back into the Sun](https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Don't Look Back into the Sun](https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 99 | [Cousins](https://open.spotify.com/track/0vxGpG3QTbioUTAToBAuBl) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 2:25 |
 | 100 | [I Found Out](https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 2:07 |
 
-Snapshot ID: `MCxlY2Q1MzA5NTU5NzllNTNmNDQwMGZkMmY2YWVlZjlmNzQ3M2I5YTA0`
+Snapshot ID: `MCxhYWFjMTQ4NzBiYzM0MjJjYTM0ZDBhMjI4NWIxMWRmYWQxZjMwOGNi`

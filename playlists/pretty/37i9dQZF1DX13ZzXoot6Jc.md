@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,244 likes - 83 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,245 likes - 83 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 27 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 |
 | 28 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 |
 | 29 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 |
-| 30 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 |
-| 31 | [Paint The Town Blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Paint The Town Blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 |
+| 30 | [Paint The Town Blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Paint The Town Blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 |
+| 31 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 |
 | 32 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 |
 | 33 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 |
 | 34 | [You, Me, And Whiskey](https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey](https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ) | 3:07 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 52 | [Daylight Savings](https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [If We Were A Love Song](https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx) | 2:47 |
 | 53 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 54 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |
-| 55 | [I'll Be Here](https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [I'll Be Here](https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk) | 4:07 |
-| 56 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
+| 55 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
+| 56 | [I'll Be Here](https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [I'll Be Here](https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk) | 4:07 |
 | 57 | [The Whiskey's Gone](https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [The Whiskey's Gone](https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm) | 2:57 |
 | 58 | [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 |
 | 59 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 82 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 |
 | 83 | [Shoulda Known Better](https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:46 |
 
-Snapshot ID: `MCwwMzA2MjI0NzM0ZjcyNjJhMDcxOTRlMzk3ZGU0OTQ0MTY5OTU2NGMy`
+Snapshot ID: `MCw0ZDUyNzQ0YjQyYWYzNjM2MTY3N2Y4OTc4ZTk1ODUwZDMyNTJjZDk0`

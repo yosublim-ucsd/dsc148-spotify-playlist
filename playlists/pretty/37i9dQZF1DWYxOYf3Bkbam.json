@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 46324,
+  "num_followers": 46368,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjk2MjZkMGJmMDI1MDg2M2VjZGY2NGRlYTY2NjM1MWZmMTNhNTEz",
+  "snapshot_id": "MCxiNTE1MDM4MzQ5ZWJkMTgxZjZiNWMxYmNjMThkMWVmMTE3MDg0Mzdl",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Damasio Esquivel",
+          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
+        }
+      ],
+      "duration_ms": 111893,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Entre Chamam\u00e9 y Sapucay",
         "url": "https://open.spotify.com/album/1icp40IGBQgUVHtyqdxRSX"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 180499,
       "name": "Devu\u00e9lveme el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Damasio Esquivel",
-          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
-        }
-      ],
-      "duration_ms": 111893,
-      "name": "Granja San Antonio",
-      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Chamamecero",
-        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo Y Los Cardocitos",
-          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "El Gaucho Gil",
-      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Los Palmare\u00f1os 23 A\u00f1os",
         "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 259853,
       "name": "Borracho Sin Destino",
       "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Chamamecero",
+        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo Y Los Cardocitos",
+          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "El Gaucho Gil",
+      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Otras M\u00fasicas",
-        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Me Dicen el Rey",
         "url": "https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 166480,
       "name": "Amanecer Campero",
       "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Cate",
-          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
-        }
-      ],
-      "duration_ms": 123226,
-      "name": "Un simbronazo",
-      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 204746,
       "name": "Mi ponchillo colorado",
       "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Cate",
+          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
+        }
+      ],
+      "duration_ms": 123226,
+      "name": "Un simbronazo",
+      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Mano a mano",
-        "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
-      },
-      "artists": [
-        {
-          "name": "Pancho Escalada",
-          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
-        },
-        {
-          "name": "Pastor Luna",
-          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
-        }
-      ],
-      "duration_ms": 144906,
-      "name": "El pe\u00f3n de Obraje",
-      "url": "https://open.spotify.com/track/7HG7rEI3qkOukfGvRxj9ge"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Mano a mano",
+        "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        },
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "duration_ms": 144906,
+      "name": "El pe\u00f3n de Obraje",
+      "url": "https://open.spotify.com/track/7HG7rEI3qkOukfGvRxj9ge"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
-          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Al Gaucho Gil",
-      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1447,22 +1431,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Las Penas del Provinciano",
-      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Sencillito Nom\u00e1s",
         "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
       },
@@ -1475,6 +1443,38 @@
       "duration_ms": 182200,
       "name": "No Hay Mal Que por Bien No Venga",
       "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
+          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Al Gaucho Gil",
+      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Las Penas del Provinciano",
+      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
     },
     {
       "added_at": "2023-06-09 03:00:00",

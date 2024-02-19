@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4154422,
+  "num_followers": 4154755,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2U1ZjAzMDExMjliOWJmYjE1NTZiNmU2ZjA4YzY5MTI4OTlhMTYw",
+  "snapshot_id": "MCxlMTVmODdhY2UxNjZhZjlmMDc5OTNmMWVjYzNlNzM5Y2VmMjA1Yzlm",
   "tracks": [
     {
       "added_at": "2023-12-14 21:40:15",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Drama Y Luz",
+        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -583,38 +615,6 @@
       "duration_ms": 222346,
       "name": "Mariposa tecknicolor",
       "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
-        "name": "Drama Y Luz",
-        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 254373,
       "name": "Soldadito marinero",
       "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -751,34 +751,18 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
         }
       ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
+      "duration_ms": 244760,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -795,6 +779,22 @@
       "duration_ms": 233733,
       "name": "A un minuto de ti",
       "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 284933,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
         "name": "Yo, Minor\u00eda Absoluta",
         "url": "https://open.spotify.com/album/3FgvMxabfL5UtlcPzASEhh"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Esa noche",
-      "url": "https://open.spotify.com/track/2jggaUpOvn2G6Pv2HCEU6m"
+      "duration_ms": 284933,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -1587,6 +1571,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Esa noche",
+      "url": "https://open.spotify.com/track/2jggaUpOvn2G6Pv2HCEU6m"
     },
     {
       "added_at": "2023-12-14 21:40:15",

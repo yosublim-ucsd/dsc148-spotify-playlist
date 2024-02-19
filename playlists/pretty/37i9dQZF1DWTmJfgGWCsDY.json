@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 3243,
+  "num_followers": 3249,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTE2NGVkNzI0YWExZDMyYTdjYWQyZjMzNjYwNmYxYmVhNzkwOGU0",
+  "snapshot_id": "MCxjNGVlNWM1OTJmZjVlZTVhMWQzNWM2NDI4ODAxOWUyZmE1YTdjOGU2",
   "tracks": [
     {
       "added_at": "2024-02-16 06:54:32",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Miss Buza (feat. Dulla Makabila)",
-        "url": "https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW"
-      },
-      "artists": [
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 320653,
-      "name": "Miss Buza (feat. Dulla Makabila)",
-      "url": "https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Kafubaa",
         "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 246986,
       "name": "Kafubaa",
       "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Miss Buza (feat. Dulla Makabila)",
+        "url": "https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 320653,
+      "name": "Miss Buza (feat. Dulla Makabila)",
+      "url": "https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -323,22 +323,18 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Kama Ujui Utajua",
-        "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
+        "name": "Hainaga Ushemeji",
+        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
       },
       "artists": [
         {
-          "name": "Platform",
-          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
-        },
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+          "name": "Man Fongo",
+          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
         }
       ],
-      "duration_ms": 239046,
-      "name": "Kama Ujui Utajua",
-      "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
+      "duration_ms": 296507,
+      "name": "Hainaga Ushemeji",
+      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -359,38 +355,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Hainaga Ushemeji",
-        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
-      },
-      "artists": [
-        {
-          "name": "Man Fongo",
-          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
-        }
-      ],
-      "duration_ms": 296507,
-      "name": "Hainaga Ushemeji",
-      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
-        "name": "Hits of Aslay",
-        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
-      },
-      "artists": [
-        {
-          "name": "Aslay",
-          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "Umbea",
-      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Nalimwaga",
         "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
       },
@@ -407,6 +371,42 @@
       "duration_ms": 224906,
       "name": "Nalimwaga",
       "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Kama Ujui Utajua",
+        "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 239046,
+      "name": "Kama Ujui Utajua",
+      "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Hits of Aslay",
+        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Umbea",
+      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
         "name": "Cheusi Cheupe (feat. Meja Kunta)",
         "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 279000,
       "name": "Cheusi Cheupe (feat. Meja Kunta)",
       "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "UTAMUWA BAKHRESA",
-        "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
-      },
-      "artists": [
-        {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
-        }
-      ],
-      "duration_ms": 277812,
-      "name": "UTAMUWA BAKHRESA",
-      "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Wapo",
         "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 243997,
       "name": "Wapo",
       "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "UTAMUWA BAKHRESA",
+        "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        }
+      ],
+      "duration_ms": 277812,
+      "name": "UTAMUWA BAKHRESA",
+      "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Chura Wangu",
-        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Chura Wangu",
-      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Mr Dj",
         "url": "https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI"
       },
@@ -1087,8 +1071,24 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Magetoni",
-        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Maisha Yetu Usela",
+        "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/3W1gApYpJuigyKw2DZkBKn"
         }
       ],
-      "duration_ms": 314226,
-      "name": "Magetoni",
-      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
+      "duration_ms": 325666,
+      "name": "Maisha Yetu Usela",
+      "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
+        "name": "Happy birthday",
+        "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        },
+        {
+          "name": "Kidakizo mc",
+          "url": "https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N"
+        }
+      ],
+      "duration_ms": 211957,
+      "name": "Happy birthday",
+      "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
         "name": "Uongo",
         "url": "https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi"
       },
@@ -1219,6 +1239,26 @@
       "duration_ms": 206455,
       "name": "Uongo",
       "url": "https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Magetoni",
+        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
+      },
+      "artists": [
+        {
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+        },
+        {
+          "name": "Jeusi mc",
+          "url": "https://open.spotify.com/artist/3W1gApYpJuigyKw2DZkBKn"
+        }
+      ],
+      "duration_ms": 314226,
+      "name": "Magetoni",
+      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -1239,46 +1279,6 @@
       "duration_ms": 219506,
       "name": "Kwampalange",
       "url": "https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
-        "name": "Maisha Yetu Usela",
-        "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
-      },
-      "artists": [
-        {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
-        },
-        {
-          "name": "Jeusi mc",
-          "url": "https://open.spotify.com/artist/3W1gApYpJuigyKw2DZkBKn"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "Maisha Yetu Usela",
-      "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
-        "name": "Happy birthday",
-        "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
-      },
-      "artists": [
-        {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
-        },
-        {
-          "name": "Kidakizo mc",
-          "url": "https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N"
-        }
-      ],
-      "duration_ms": 211957,
-      "name": "Happy birthday",
-      "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
     },
     {
       "added_at": "2024-02-16 06:54:32",

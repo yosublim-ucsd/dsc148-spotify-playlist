@@ -4,7 +4,7 @@
 
 > 2012 highlights from the home of indie music.
 
-135 songs - 8 hr 35 min
+136 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [I Will Wait](https://open.spotify.com/track/0hm8rgOY17z7kQJlqGKbu7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 4:36 | 2022-05-19 | 2022-10-13 |
 | [I Will Wait](https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:36 | 2022-05-19 |  |
 | [Insane feat\. Moon Holiday](https://open.spotify.com/track/0ULEBRTLZhgKisTpgKzAuB) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:33 | 2022-05-19 | 2024-02-14 |
+| [Insane feat\. Moon Holiday](https://open.spotify.com/track/7gqKkrzG5OV1CLViOaXSay) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Moon Holiday](https://open.spotify.com/artist/5HAqdulyJZF8EPKIvPMRTy) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 3:33 | 2022-05-19 |  |
 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 | 2022-05-19 |  |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2022-05-19 |  |
 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 | 2022-05-19 |  |
@@ -130,7 +131,7 @@
 | [Taro](https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 5:14 | 2022-05-19 |  |
 | [Tessellate](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:01 | 2022-05-19 |  |
 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 | 2022-05-19 |  |
-| [The House That Heaven Built](https://open.spotify.com/track/2ShOBhvAAglIFJ7Be8aJK2) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:49 | 2022-05-19 |  |
+| [The House That Heaven Built](https://open.spotify.com/track/2ShOBhvAAglIFJ7Be8aJK2) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:49 | 2022-05-19 | 2024-02-19 |
 | [The House That Heaven Built](https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW) | 4:49 | 2022-05-19 | 2022-11-13 |
 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 | 2022-05-19 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2022-05-19 |  |

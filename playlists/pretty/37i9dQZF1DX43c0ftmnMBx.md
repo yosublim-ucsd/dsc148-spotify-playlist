@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,012 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,062 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 39 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 |
 | 40 | [Medicina De Amor](https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx) | 6:00 |
 | 41 | [Eso da Pa To](https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN) | [Marino Castellanos](https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz) | [Bachatas Para La Historia](https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU) | 3:30 |
-| 42 | [Me Voy \- Bachata](https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:02 |
-| 43 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
+| 42 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
+| 43 | [Me Voy \- Bachata](https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:02 |
 | 44 | [Muchachita Linda](https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todo Tiene Su Hora](https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2) | 3:23 |
 | 45 | [Ya No Te Buscaré](https://open.spotify.com/track/1CIUos10Or0tFaf4ZhaSfW) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 3:36 |
 | 46 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 60 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
 | 61 | [Hoja En Blanco](https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 5:08 |
 | 62 | [Morir Solo](https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Morir Solo](https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb) | 4:02 |
-| 63 | [Me Duele La Cabeza](https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Oblígame](https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm) | 3:53 |
-| 64 | [No Es Brujeria](https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Alma Perdida](https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu) | 4:08 |
+| 63 | [No Es Brujeria](https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Alma Perdida](https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu) | 4:08 |
+| 64 | [Me Duele La Cabeza](https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Oblígame](https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm) | 3:53 |
 | 65 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
 | 66 | [Llora Alma Mía](https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Llora Alma Mia](https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so) | 4:21 |
 | 67 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 |
 
-Snapshot ID: `MCwzMzgzZDQ5Nzk2MjFmZTVmZWY1OTIzMTE2ZGYwNGZjOWMzNjIxOWU4`
+Snapshot ID: `MCwxYWVmY2UyNGQ5NWVjM2UwZDUyMGY4NzFmZWI1ODcyNjQwOTg5YmI5`

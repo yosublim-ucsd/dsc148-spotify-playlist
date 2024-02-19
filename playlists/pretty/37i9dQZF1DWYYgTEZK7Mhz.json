@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 26677,
+  "num_followers": 26705,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDM5YzIzMzRhMWMxNmQ4ZjQ2ZmQ3ZmEzM2RlNzUxYzE1MDM1Yjk2",
+  "snapshot_id": "MCwwMWNiMGUxNjRiOGRhNjE4YTgyNjE0ZmQwMTU1MGRjYjJlZDE4ZTJj",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "La Partita",
+        "url": "https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 135560,
+      "name": "La Partita Di Pallone",
+      "url": "https://open.spotify.com/track/6RVKSp5e4jOY8sQklLa297"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Riccardo Del Turco",
         "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 223453,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "La Partita",
-        "url": "https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 135560,
-      "name": "La Partita Di Pallone",
-      "url": "https://open.spotify.com/track/6RVKSp5e4jOY8sQklLa297"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Rita Pavone",
+        "url": "https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "Il Ballo Del Mattone",
+      "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "40 Grandi Successi",
         "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 136000,
       "name": "Se Puoi Uscire Una Domenica Sola Con Me",
       "url": "https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Rita Pavone",
-        "url": "https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "Il Ballo Del Mattone",
-      "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Hitstory Deluxe Edition",
-        "url": "https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv"
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
       },
       "artists": [
         {
-          "name": "Gianna Nannini",
-          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
         }
       ],
-      "duration_ms": 268080,
-      "name": "Fotoromanza",
-      "url": "https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr"
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+        "name": "Hitstory Deluxe Edition",
+        "url": "https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv"
       },
       "artists": [
         {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+          "name": "Gianna Nannini",
+          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
+      "duration_ms": 268080,
+      "name": "Fotoromanza",
+      "url": "https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr"
     },
     {
       "added_at": "2023-06-05 07:42:38",

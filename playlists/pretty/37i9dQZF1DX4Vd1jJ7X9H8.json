@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 307351,
+  "num_followers": 307426,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjlkMzYzNzNmOTQ5NDIxYzQ4ZDBiMmQ1OGFlMzBjNDYyMmI0Mzg4",
+  "snapshot_id": "MCw3NjgxYjJiM2VmMTk0ZmZmNjdjZjk4NTQ0ZjUyNzU5NmU0YTIxNDdl",
   "tracks": [
     {
       "added_at": "2024-02-16 18:16:21",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "HIT EM WHERE IT HURTS",
-        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 165499,
-      "name": "HIT EM WHERE IT HURTS",
-      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
         "name": "Think About Things",
         "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 173385,
       "name": "Think About Things",
       "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
+        "name": "HIT EM WHERE IT HURTS",
+        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 165499,
+      "name": "HIT EM WHERE IT HURTS",
+      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
     },
     {
       "added_at": "2024-02-16 18:16:21",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
-        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
-        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
     }
   ],
   "unique_name": "Soir\u00e9e",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,285 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,372 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 16 | [MIRACLE CHILD](https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [COAT OF MANY COLORS](https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE) | 4:03 |
 | 17 | [Yet](https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [Yet](https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft) | 5:02 |
 | 18 | [Goodness of God \- Live](https://open.spotify.com/track/6vXOAkNQQ1KLmnC7vGYA0c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:57 |
-| 19 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
+| 19 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 20 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 |
 | 21 | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 |
-| 22 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
+| 22 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
 | 23 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 |
 | 24 | [COUNT 'EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 |
 | 25 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 7:22 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 39 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 |
 | 40 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 41 | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N), [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb) | 5:50 |
-| 42 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
-| 43 | [I Need You Now](https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 4:11 |
+| 42 | [I Need You Now](https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 4:11 |
+| 43 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
 | 44 | [Nothing Else \- Live](https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Nothing Else \(Live\)](https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP) | 8:46 |
 | 45 | [Can't Give Up Now](https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 4:57 |
 | 46 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 |
 | 50 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 
-Snapshot ID: `MCxlNzc2NDA5YjVlZDBjMTU0OTkxYTk2Mzc4MDA4MTQ1ZTI1OWRjOTM0`
+Snapshot ID: `MCw2NmIyM2U4NDExMmUwOGNlZWUxNDNjMjI1YTk2YjljODY5Nzg1ODY2`

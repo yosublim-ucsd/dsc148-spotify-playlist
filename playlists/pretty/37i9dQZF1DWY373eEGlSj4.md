@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,767 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,218 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 30 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 |
 | 31 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:18 |
 | 32 | [Love Is in the Air](https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [Classic Hits](https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV) | 3:28 |
-| 33 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
-| 34 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
+| 33 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
+| 34 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
 | 35 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 |
 | 36 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
 | 37 | [Without You](https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 3:21 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 46 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
 | 47 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
 | 48 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
-| 49 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 |
-| 50 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 |
+| 49 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 |
+| 50 | [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 |
 
-Snapshot ID: `MCxlMTM3ODQ4NzgwMzdhZDRlOWYxZGRlZjlkMmFhNDU4MTM5M2U0Mzhi`
+Snapshot ID: `MCxmNGZlOWU2MGMxOWI0N2U1YzUzM2E3YzkwMTVlMmY1M2UyOTZkOGYy`

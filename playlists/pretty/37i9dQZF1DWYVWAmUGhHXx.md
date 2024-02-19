@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > enciende la llama de la pasión con estas rolas seleccionadas por El Mali 😈🥂🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,641 likes - 90 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,752 likes - 90 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 60 | [Hasta Aquí Te Fui Fiel](https://open.spotify.com/track/7zridhiD9txjjYAcDoC0qY) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [30 Exitos Insuperables](https://open.spotify.com/album/7DXKWP4a12stMxz3idZZl2) | 4:24 |
 | 61 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
 | 62 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 |
-| 63 | [Lo Quiero a Morir](https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Zayda](https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H) | 4:20 |
+| 63 | [Lo Quiero a Morir](https://open.spotify.com/track/7bdTyG1zKCHayAFiLDSJHp) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Lo Quiero a Morir](https://open.spotify.com/album/3gUjzuhToilAd6EpC0yQju) | 4:20 |
 | 64 | [Ven Devórame Otra Vez](https://open.spotify.com/track/5mg6sU732O35VMfCYk3lmX) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Ven Devórame Otra Vez \(Baile Total\)](https://open.spotify.com/album/59dQPzYAIAs2vdU7tP3wTh) | 5:14 |
 | 65 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 |
 | 66 | [Virgen](https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 89 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
 | 90 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
 
-Snapshot ID: `MCxhYzZlNmI5Y2Y4YmZiYzUwNDAyY2U1ZGYwM2I2MGIyMDljZDFmZDM2`
+Snapshot ID: `MCw5NmY5ZDc3YTdmYTExODg3N2ZkYzI3OGM4MzJjMDgwNTA3NzdiNThj`

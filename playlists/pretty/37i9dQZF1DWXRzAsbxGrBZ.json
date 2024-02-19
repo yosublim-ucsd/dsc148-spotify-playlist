@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 45259,
+  "num_followers": 45381,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI2ODc2Nzc1NWZmZGJhYThlYzVkZDI2YzFkYjMzM2Q5ZTk4ZWZm",
+  "snapshot_id": "MCwwZjliZjNmZjlhMGUyOGY4NzFjNWY3ZDVlZjA1MWIyNzE2ODhjNjMx",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Queen (Dan Kye Remix)",
+        "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        },
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 327894,
+      "name": "Queen - Dan Kye Remix",
+      "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
         "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
@@ -471,34 +491,6 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Never Thought",
-        "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
-      },
-      "artists": [
-        {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Thap Soul",
-          "url": "https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy"
-        },
-        {
-          "name": "NexVocals",
-          "url": "https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X"
-        },
-        {
-          "name": "Massive R",
-          "url": "https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc"
-        }
-      ],
-      "duration_ms": 284284,
-      "name": "Never Thought",
-      "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -539,6 +531,34 @@
       "duration_ms": 453711,
       "name": "Octave",
       "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Never Thought",
+        "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Thap Soul",
+          "url": "https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy"
+        },
+        {
+          "name": "NexVocals",
+          "url": "https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X"
+        },
+        {
+          "name": "Massive R",
+          "url": "https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc"
+        }
+      ],
+      "duration_ms": 284284,
+      "name": "Never Thought",
+      "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -803,26 +823,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Queen (Dan Kye Remix)",
-        "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
-      },
-      "artists": [
-        {
-          "name": "Muzi",
-          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
-        },
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 327894,
-      "name": "Queen - Dan Kye Remix",
-      "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Mend It / Your Eyes Remixes",
         "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
       },
@@ -951,26 +951,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Joyful Music, Vol. 1 (Compiled)",
-        "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
+        "name": "Those Times",
+        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
       },
       "artists": [
         {
-          "name": "Craving Souls",
-          "url": "https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe"
-        },
-        {
-          "name": "Da Tee SA",
-          "url": "https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2"
-        },
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+          "name": "C-Moody",
+          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
         }
       ],
-      "duration_ms": 413910,
-      "name": "Nelisiwe",
-      "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
+      "duration_ms": 465288,
+      "name": "Those Times",
+      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
     }
   ],
   "unique_name": "Deep House Session",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 
 > This is Bruno Mars\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,774,084 likes - 42 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,774,667 likes - 42 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 | 35 | [Straight up & Down](https://open.spotify.com/track/2mrZYZGmPFV3QOyYPZ1zsn) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:18 |
 | 36 | [Gorilla](https://open.spotify.com/track/2ih2U8ttFzCjnQ5njF3SrR) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 4:04 |
 | 37 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
-| 38 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 |
-| 39 | [777](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 2:45 |
+| 38 | [777](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 2:45 |
+| 39 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 |
 | 40 | [Leave The Door Open \- Live](https://open.spotify.com/track/1Ffw1qFqCw2IaozOJ5mL2O) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open \(Live\)](https://open.spotify.com/album/4rRB9bAIwawVcrdLXuq9Qu) | 4:20 |
 | 41 | [24K Magic \- R3hab Remix](https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [24K Magic \(R3hab Remix\)](https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK) | 2:38 |
 | 42 | [Catch a Grenade \- The Hooligans Remix](https://open.spotify.com/track/1EOWf8bsePF6QtiDUAclrJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 3:30 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAwZmE5ZGZkNjQ4ODM4ODc5NzZmZGRiYjdlNmMwNjk2NA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBhMDQwNzQ3MmJjZmJlMDk5MDgyNzc3OTZmNzg4MjMyZA==`

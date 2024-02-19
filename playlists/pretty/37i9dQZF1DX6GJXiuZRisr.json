@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1539761,
+  "num_followers": 1539974,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjVlMzRmMmQzZTkzODllMDYwNmZlYTM1OWNlYzUyYmViMDMzOTll",
+  "snapshot_id": "MCw3MGQ3NTcyNWY2MThmZWFkODMwNTYxNzQ1MWNmZmVjNDM2NDA5MjM5",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Otherside (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Otherside - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Tighter (feat. Jalja) [CamelPhat Remix]",
         "url": "https://open.spotify.com/album/7Kv9Cpvd2BWwMkiGqMxfUI"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Otherside (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Otherside - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Breathe Me In",
+        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 178420,
+      "name": "Breathe Me In",
+      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 314880,
       "name": "All That Matters - ARTBAT Remix Radio Edit",
       "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Breathe Me In",
-        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 178420,
-      "name": "Breathe Me In",
-      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 232245,
-      "name": "Silenced",
-      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Anjunabeats Volume 14",
         "url": "https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 308053,
       "name": "Need To Feel Loved - Tinlicker Remix",
       "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 232245,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Rapture (with Robert Falcon)",
-        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Skyscrapers (Hi-Lo Remix)",
         "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 296368,
       "name": "Skyscrapers - Hi-Lo Remix",
       "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Rapture (with Robert Falcon)",
+        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Made Of Gold",
-        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Made Of Gold",
-      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
       },
@@ -1627,6 +1607,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Made Of Gold",
+        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Made Of Gold",
+      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Little Mushroom That Got Away",
-        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 335409,
-      "name": "The Little Mushroom That Got Away",
-      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 213870,
       "name": "The Morning After",
       "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "The Little Mushroom That Got Away",
+        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 335409,
+      "name": "The Little Mushroom That Got Away",
+      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1731,18 +1731,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1791,26 +1799,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1847,42 +1847,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Little Darling (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
+        "name": "HEREON",
+        "url": "https://open.spotify.com/album/5jSrvGNnDa6PDi7vlRFMLV"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
         },
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 200952,
-      "name": "Little Darling - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
         },
         {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+          "name": "HEREON",
+          "url": "https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr"
         }
       ],
-      "duration_ms": 222151,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO"
+      "duration_ms": 211428,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/2J2CcT3UwIq79wQvCCGtqR"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1911,6 +1895,46 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        }
+      ],
+      "duration_ms": 222151,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Little Darling (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 200952,
+      "name": "Little Darling - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "REDUX 006",
         "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
       },
@@ -1923,30 +1947,6 @@
       "duration_ms": 255238,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Cami Bear",
-          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
-        }
-      ],
-      "duration_ms": 190199,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1975,26 +1975,46 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "HEREON",
-        "url": "https://open.spotify.com/album/5jSrvGNnDa6PDi7vlRFMLV"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
       },
       "artists": [
         {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
         },
         {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         },
         {
-          "name": "HEREON",
-          "url": "https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr"
+          "name": "Cami Bear",
+          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
         }
       ],
-      "duration_ms": 211428,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/2J2CcT3UwIq79wQvCCGtqR"
+      "duration_ms": 190199,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
+      },
+      "artists": [
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "duration_ms": 452682,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2031,26 +2051,6 @@
       "duration_ms": 480000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
-      },
-      "artists": [
-        {
-          "name": "Dyzen",
-          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
-        },
-        {
-          "name": "Sideral",
-          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
-        }
-      ],
-      "duration_ms": 452682,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
     },
     {
       "added_at": "2024-02-16 05:00:00",

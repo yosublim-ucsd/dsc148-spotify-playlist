@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,931 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,159 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [I Like To Move It](https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [I Like To Move It](https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV) | 2:18 |
 | 50 | [Lose You \- Felix Jaehn Remix](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lose You \(Felix Jaehn Remix\)](https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu) | 2:36 |
 
-Snapshot ID: `MCxlNjQ0MjMzMjQ3MjA2M2ZiNjlhODVhY2IwY2JhOTk4NjQzNDZlZmVk`
+Snapshot ID: `MCw0N2I2MWJlODVjMTA3ZTE0NzA3M2E5Yzc4NGNiY2M4YTI5ZGJkNGJi`

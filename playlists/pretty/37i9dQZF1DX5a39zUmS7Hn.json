@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Pearl Jam",
-  "num_followers": 445409,
+  "num_followers": 445597,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWE0NWYwNjM1NWRhNTc0Y2YzN2VjMDIzMWZjNzA0N2ExZGQzMjcy",
+  "snapshot_id": "MCxiZTliZTBiNTFjNzg3ZjMzNTE1N2UxYzRkODk0ZmM3Zjg5MmRhNmQ5",
   "tracks": [
     {
       "added_at": "2024-02-16 12:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-16 12:00:00",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2024-02-16 12:00:00",
-      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 270773,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
+    },
+    {
+      "added_at": "2024-02-16 12:00:00",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2024-02-16 12:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-16 12:00:00",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
-    },
-    {
-      "added_at": "2024-02-16 12:00:00",
-      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
+    },
+    {
+      "added_at": "2024-02-16 12:00:00",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
     },
     {
       "added_at": "2024-02-16 12:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-16 12:00:00",
       "album": {
-        "name": "Louder Than Bombs",
-        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 140506,
-      "name": "Panic - 2011 Remaster",
-      "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
-    },
-    {
-      "added_at": "2024-02-16 12:00:00",
-      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
+    },
+    {
+      "added_at": "2024-02-16 12:00:00",
+      "album": {
+        "name": "Louder Than Bombs",
+        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 140506,
+      "name": "Panic - 2011 Remaster",
+      "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
     },
     {
       "added_at": "2024-02-16 12:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-02-16 12:00:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
-    },
-    {
-      "added_at": "2024-02-16 12:00:00",
-      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 163693,
       "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
       "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+    },
+    {
+      "added_at": "2024-02-16 12:00:00",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     },
     {
       "added_at": "2024-02-16 12:00:00",
@@ -1163,6 +1163,22 @@
       "duration_ms": 245240,
       "name": "Jesus He Knows Me",
       "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+    },
+    {
+      "added_at": "2024-02-16 12:00:00",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 269813,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
     },
     {
       "added_at": "2024-02-16 12:00:00",
@@ -1235,38 +1251,6 @@
     {
       "added_at": "2024-02-16 12:00:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 269813,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
-    },
-    {
-      "added_at": "2024-02-16 12:00:00",
-      "album": {
-        "name": "Angry",
-        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 226735,
-      "name": "Angry",
-      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
-    },
-    {
-      "added_at": "2024-02-16 12:00:00",
-      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
+    },
+    {
+      "added_at": "2024-02-16 12:00:00",
+      "album": {
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "In Between Days - 2006 Remaster",
+      "url": "https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA"
     }
   ],
   "unique_name": "Legends Only",

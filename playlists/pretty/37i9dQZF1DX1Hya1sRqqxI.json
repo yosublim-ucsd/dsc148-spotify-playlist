@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 380548,
+  "num_followers": 380935,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2E3NGUyYTQwOTMxYzFiZmEyYzU1NDNiZGVlNzc1MGU2NTE0ZmQ0",
+  "snapshot_id": "MCw0Y2YyZWY3ODYxY2Q1OGNkNTg1NTc5ODEzNDc2NjJjYTE2ZjI1M2U3",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Life & Times",
@@ -855,6 +839,22 @@
       "duration_ms": 179466,
       "name": "Bad, Bad Leroy Brown",
       "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "30 Years Of Funk: 1969-1999 The Anthology",
-        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
-      },
-      "artists": [
-        {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Some Kind Of Wonderful - Remastered 1999",
-      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "ABC",
@@ -1179,6 +1163,22 @@
       "duration_ms": 174866,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "30 Years Of Funk: 1969-1999 The Anthology",
+        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
+      },
+      "artists": [
+        {
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Some Kind Of Wonderful - Remastered 1999",
+      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Songs In The Key Of Life",
@@ -1275,6 +1259,22 @@
       "duration_ms": 252373,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Freedom for the Stallion (Expanded Edition)",
@@ -1419,6 +1403,22 @@
       "duration_ms": 170160,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
-      },
-      "artists": [
-        {
-          "name": "Gary Glitter",
-          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "Rock 'n' Roll (Part 2)",
-      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Bad Girls",
         "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 295106,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
+      },
+      "artists": [
+        {
+          "name": "Gary Glitter",
+          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "Rock 'n' Roll (Part 2)",
+      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2005,22 +2005,6 @@
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Shambala - Single Version",
-      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
@@ -2035,6 +2019,22 @@
       "duration_ms": 303640,
       "name": "Boogie Nights",
       "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Shambala - Single Version",
+      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Sing a Song",
-      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Sing a Song",
+      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2249,6 +2249,22 @@
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "You See The Trouble With Me",
+      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "C'est Chic (2018 Remaster)",
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "You See The Trouble With Me",
-      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -2345,22 +2345,6 @@
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Once Upon A Star",
-        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
-      },
-      "artists": [
-        {
-          "name": "Bay City Rollers",
-          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "KC & the Sunshine Band, Pt. 3... and More",
@@ -2375,6 +2359,22 @@
       "duration_ms": 242133,
       "name": "I'm Your Boogie Man",
       "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Once Upon A Star",
+        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
+      },
+      "artists": [
+        {
+          "name": "Bay City Rollers",
+          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
     },
     {
       "added_at": "2021-03-22 14:18:04",

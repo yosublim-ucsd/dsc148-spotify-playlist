@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,353 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,378 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 6 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 7 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 | 8 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
-| 9 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 |
+| 9 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 |
 | 10 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
-| 11 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 |
+| 11 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 |
 | 12 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 |
 | 13 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 | 14 | [MAMA'S EYES](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MAMA'S EYES](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 45 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
 | 46 | [Mountain](https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Mountain](https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw) | 2:49 |
 | 47 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 |
-| 48 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
-| 49 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
-| 50 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 |
-| 51 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 |
+| 48 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
+| 49 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
+| 50 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 |
+| 51 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 |
 | 52 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 |
 | 53 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
 | 54 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 56 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 |
 | 57 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
 | 58 | [Wish You Loved You](https://open.spotify.com/track/0yDDmW5M34iwPa2ifQ1zul) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Wish You Loved You](https://open.spotify.com/album/7xq93PnXerft7cpEREyca5) | 2:39 |
-| 59 | [Paradise Calling](https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:06 |
-| 60 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 |
+| 59 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 |
+| 60 | [Paradise Calling](https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:06 |
 | 61 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
 | 62 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 |
 | 63 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
 | 64 | [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 |
 | 65 | [Crash](https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Crash](https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt) | 2:39 |
-| 66 | [If I Was A God](https://open.spotify.com/track/3CIWI8DBoxqPycMudrgmtk) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:55 |
-| 67 | [Amelia](https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:11 |
+| 66 | [Amelia](https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:11 |
+| 67 | [If I Was A God](https://open.spotify.com/track/3CIWI8DBoxqPycMudrgmtk) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:55 |
 | 68 | [Dear Body](https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Dear Body](https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh) | 3:09 |
 | 69 | [Balance](https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Balance](https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn) | 3:34 |
 | 70 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [More to me](https://open.spotify.com/track/0J1qkBgPKmgAY3M3BPe1QR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [More to me](https://open.spotify.com/album/5feSG8uVsqlDWrMrzIrInL) | 2:15 |
 | 80 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 
-Snapshot ID: `MCxkOTJhMDQyMTM1YWMwNTU4YjZiNDczYWUxZjQ5MWU3MjU4ZDQ3Njc3`
+Snapshot ID: `MCxlMDU0NTZmNTA3Y2Q1ZmZjMmI5OWJkOTY1NTkzZjNkMzM5MzdkY2Q3`

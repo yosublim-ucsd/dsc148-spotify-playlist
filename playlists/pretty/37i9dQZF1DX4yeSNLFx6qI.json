@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1697796,
+  "num_followers": 1697915,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTliOTZiNGNjM2YxMzk0ZWI5YTMxMTk2ODU5MDVjYzZmOTI1M2Ex",
+  "snapshot_id": "MCxlZWRjMDY2YmE3ZWZiMDA0NTcxNGM3MGQwNDRmNmYwYTI1YzMxNmI4",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Por Tu Bien",
-      "url": "https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Otra Piel",
         "url": "https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Verano, por siempre",
-        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
       "artists": [
         {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 176000,
-      "name": "una luz",
-      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
+      "duration_ms": 233026,
+      "name": "Por Tu Bien",
+      "url": "https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1735,6 +1719,22 @@
       "duration_ms": 199640,
       "name": "Para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Verano, por siempre",
+        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "una luz",
+      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
     }
   ],
   "unique_name": "Sin Ti",

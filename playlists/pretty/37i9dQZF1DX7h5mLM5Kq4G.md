@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 
 > The songs we've been partying to in 2023\. Cover:  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,707 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,729 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 | 37 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 38 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
 | 39 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 |
-| 40 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
-| 41 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 40 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 41 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
 | 42 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 |
 | 43 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
 | 44 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 | 50 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 |
 | 51 | [TQG](https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TQG](https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa) | 3:18 |
 | 52 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 |
-| 53 | [On My Love](https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Sped Up\)](https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B) | 3:42 |
-| 54 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
+| 53 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
+| 54 | [On My Love](https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Sped Up\)](https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B) | 3:42 |
 | 55 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 56 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 57 | [IT'S GETTING HOT](https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [IT'S GETTING HOT](https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO) | 2:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 | 74 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 |
 | 75 | [In Ha Mood](https://open.spotify.com/track/3SCWujtLgFG3jnIeeu88Sv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/60vFqvfYZc16Myf4QkUjnx) | 2:09 |
 
-Snapshot ID: `MCw0NjI5NzhjYzcxMTI4OWQ1ZGNhYzkyNzFjNzM1N2UzMjM5ODgyMGE1`
+Snapshot ID: `MCw4NmQwZjE3NWNkYTU4ZTQ2NGRjMDQ2NmFkNzk1YTFkNGRmYTNhYmZk`

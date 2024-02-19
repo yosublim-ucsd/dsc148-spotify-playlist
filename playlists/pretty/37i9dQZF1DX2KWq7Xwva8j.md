@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: pablopablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,704 likes - 31 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,710 likes - 31 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 4 | [La Última](https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [La Última](https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU) | 3:23 |
 | 5 | [ME DUELE QUERERTE](https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [ME DUELE QUERERTE](https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ) | 2:26 |
 | 6 | [steak tar tar](https://open.spotify.com/track/1VMkIjiscNSY0fuzJDI0bi) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [SUERTE, CHICA](https://open.spotify.com/album/7wEZoRihqkS2JgKsvAewnQ) | 2:26 |
-| 7 | [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 |
+| 7 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
 | 8 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
 | 9 | [En Sueños](https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [En Sueños](https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97) | 3:12 |
 | 10 | [Me da igual](https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Me da igual](https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8) | 2:51 |
 | 11 | [Mala Vida](https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mala Vida](https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7) | 2:49 |
 | 12 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 |
 | 13 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
-| 14 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
+| 14 | [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 |
 | 15 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
 | 16 | [Esa Morena](https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Esa Morena](https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc) | 2:52 |
 | 17 | [Xarnega](https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:34 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 30 | [qué voy a hacer](https://open.spotify.com/track/30DkvLu9N0LFqnW30cSSgi) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [SUERTE, CHICA](https://open.spotify.com/album/7wEZoRihqkS2JgKsvAewnQ) | 3:05 |
 | 31 | [Mandela Place](https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 3:33 |
 
-Snapshot ID: `MCxlYjljYTJmMzYxNDAyNDJjMjQ0YTdiNmU0ZmZkYTQ0MzYxMmExNDk3`
+Snapshot ID: `MCwzMDljNzM5OThhZThkNzhmMzYxNzM4OTcxY2NiODNkNWNiNTRjMjA3`

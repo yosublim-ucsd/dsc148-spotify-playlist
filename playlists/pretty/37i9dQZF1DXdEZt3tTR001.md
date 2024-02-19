@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,071 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,118 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 34 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 35 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
 | 36 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
-| 37 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 |
-| 38 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
-| 39 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 |
-| 40 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:39 |
+| 37 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
+| 38 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 |
+| 39 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:39 |
+| 40 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 |
 | 41 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
 | 42 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
 | 43 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 70 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
 | 71 | [Get to You Again](https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 4:27 |
 | 72 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
-| 73 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
-| 74 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
+| 73 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
+| 74 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 75 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 |
 | 76 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 77 | [Sleepless Nights \(feat\. Phoelix\)](https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 79 | [Again](https://open.spotify.com/track/47cZOrEp9js0X3E6tQt5b4) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Ash Lee](https://open.spotify.com/artist/5cLztgiKT0bPu4xzweQxKT) | [Again](https://open.spotify.com/album/1QZJpWXksSmGPnWImp4JE8) | 2:21 |
 | 80 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
 
-Snapshot ID: `MCwzOWE5YzcxZmViOTExZDQ4MmEyODg2ZGIzNTA5MzI1ODViMzFlOWZh`
+Snapshot ID: `MCwxOTYxMmNiMTQzYTIyYTJmMGI5ZWJjZDQ0YzIwM2FhYWJhZGM1MDg2`

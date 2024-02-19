@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,013 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,044 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 6 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
 | 7 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 |
 | 8 | [When Will I Be Loved](https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 2:04 |
-| 9 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Sweetheart Of The Rodeo](https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK) | 2:33 |
-| 10 | [Garden Party](https://open.spotify.com/track/7J5tyfg3OYVNR97KH66ovw) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS), [The Stone Canyon Band](https://open.spotify.com/artist/4VPrTgtrZqcXCy5nGYKDAe) | [Garden Party](https://open.spotify.com/album/76BrDrAEcQhjvXehCVMpWv) | 3:49 |
+| 9 | [Garden Party](https://open.spotify.com/track/7J5tyfg3OYVNR97KH66ovw) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS), [The Stone Canyon Band](https://open.spotify.com/artist/4VPrTgtrZqcXCy5nGYKDAe) | [Garden Party](https://open.spotify.com/album/76BrDrAEcQhjvXehCVMpWv) | 3:49 |
+| 10 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Sweetheart Of The Rodeo](https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK) | 2:33 |
 | 11 | [Shame On The Moon](https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [The Distance](https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1) | 4:55 |
 | 12 | [Mr\. Bojangles \- Remastered 2001](https://open.spotify.com/track/3cq6mwsjgygbwRIi9wVPGv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Certified Hits \(Remastered\)](https://open.spotify.com/album/2ZJcwgKQMSLyQAfBJsWfbD) | 3:35 |
 | 13 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
 | 50 | [Ten More Miles to Louisiana](https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 2:24 |
 
-Snapshot ID: `MCwzZWRmMGI5MmEwZmNjZWU5NDY1MDMxYmEzOTVmOWE2ZjNkYmEzYzBk`
+Snapshot ID: `MCxhZmUzYmYwZmJhNWJkYjk3NGMwNzc2MmE4Nzg2NjY5MDJkMzEwODY1`

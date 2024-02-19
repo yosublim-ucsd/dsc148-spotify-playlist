@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 190764,
+  "num_followers": 190798,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmJjMzU5NGNkNmU1NTM5MDBhZWU5N2M4NTZjNmVjM2NlMmNjMDIy",
+  "snapshot_id": "MCw5ZGM4Mjk4YzFhZGU1ZGFiZTAwNzkzMWY0MDAyZGY3NTcyMWQ1MTg3",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ambient 23",
-        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 481906,
-      "name": "amb23 - 1",
-      "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Circular Forms",
         "url": "https://open.spotify.com/album/4k4UMY26lPgkQnZKQFoZ6c"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 408969,
       "name": "Half Light of Dawn",
       "url": "https://open.spotify.com/track/7JvtQFXJOikRIcyQSr3azz"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Ambient 23",
+        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 481906,
+      "name": "amb23 - 1",
+      "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Between the Floating Mist",
-        "url": "https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk"
-      },
-      "artists": [
-        {
-          "name": "LFO Waves",
-          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
-        }
-      ],
-      "duration_ms": 179583,
-      "name": "Between the Floating Mist",
-      "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sources (Early Works 1986-1992)",
         "url": "https://open.spotify.com/album/2USaQM9Uxhg6kwh3Ka9Nwd"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Between the Floating Mist",
+        "url": "https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk"
+      },
+      "artists": [
+        {
+          "name": "LFO Waves",
+          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Between the Floating Mist",
+      "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Whities 029",
-        "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
-        }
-      ],
-      "duration_ms": 403694,
-      "name": "Waiting in Arisaig",
-      "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Fading In And Out",
         "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Whities 029",
+        "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        }
+      ],
+      "duration_ms": 403694,
+      "name": "Waiting in Arisaig",
+      "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Surfing On Sine Waves",
         "url": "https://open.spotify.com/album/4NH9JJ1uy1ls8wlltjTjG7"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 283493,
       "name": "Quino-Phec",
       "url": "https://open.spotify.com/track/1vMitMDq7PVpzmHF1bpKLY"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "You Look Different",
-        "url": "https://open.spotify.com/album/7oInz2CwQurgbtTJEm5oqH"
-      },
-      "artists": [
-        {
-          "name": "Fall Therapy",
-          "url": "https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/2X8BEeeQfrN6eIkWAI0NPH"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Alias Sessions",
-        "url": "https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z"
+        "name": "You Look Different",
+        "url": "https://open.spotify.com/album/7oInz2CwQurgbtTJEm5oqH"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+          "name": "Fall Therapy",
+          "url": "https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C"
         }
       ],
-      "duration_ms": 282026,
-      "name": "Dividing Space",
-      "url": "https://open.spotify.com/track/67jrkrrREo02weSIvzfVLM"
+      "duration_ms": 160573,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/2X8BEeeQfrN6eIkWAI0NPH"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "The Alias Sessions",
+        "url": "https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 282026,
+      "name": "Dividing Space",
+      "url": "https://open.spotify.com/track/67jrkrrREo02weSIvzfVLM"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Succour (Redux)",
         "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 393195,
       "name": "Monastic",
       "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Soothe & Sleep, Vol.8",
-        "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
       },
       "artists": [
         {
-          "name": "KENJI KIHARA",
-          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
         }
       ],
-      "duration_ms": 220327,
-      "name": "Flow in the Back",
-      "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG"
+      },
+      "artists": [
+        {
+          "name": "Filterscape",
+          "url": "https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG"
+        "name": "Soothe & Sleep, Vol.8",
+        "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
       },
       "artists": [
         {
-          "name": "Filterscape",
-          "url": "https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1"
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB"
+      "duration_ms": 220327,
+      "name": "Flow in the Back",
+      "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1227,38 +1227,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Just Before Silence",
-        "url": "https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn"
+        "name": "Skinless X-1",
+        "url": "https://open.spotify.com/album/6yaGBKH8hE3II5C7XKzASE"
       },
       "artists": [
         {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
-        },
-        {
-          "name": "Menhir",
-          "url": "https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL"
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
         }
       ],
-      "duration_ms": 231494,
-      "name": "The Cage",
-      "url": "https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
-      },
-      "artists": [
-        {
-          "name": "X.Y.R.",
-          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "Labyrinth (Exit)",
-      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
+      "duration_ms": 189205,
+      "name": "Response to Subdivisions \u263e",
+      "url": "https://open.spotify.com/track/5M0k3W4cVCKuk7ut9UuU80"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1283,18 +1263,42 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Skinless X-1",
-        "url": "https://open.spotify.com/album/6yaGBKH8hE3II5C7XKzASE"
+        "name": "Repair Techniques",
+        "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
       },
       "artists": [
         {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 189205,
-      "name": "Response to Subdivisions \u263e",
-      "url": "https://open.spotify.com/track/5M0k3W4cVCKuk7ut9UuU80"
+      "duration_ms": 232000,
+      "name": "Sugi",
+      "url": "https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Just Before Silence",
+        "url": "https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        },
+        {
+          "name": "Menhir",
+          "url": "https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL"
+        }
+      ],
+      "duration_ms": 231494,
+      "name": "The Cage",
+      "url": "https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Repair Techniques",
-        "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
+          "name": "X.Y.R.",
+          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Sugi",
-      "url": "https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS"
+      "duration_ms": 386000,
+      "name": "Labyrinth (Exit)",
+      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Caisson",
-        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 469333,
-      "name": "Caisson",
-      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "ZEBRA",
         "url": "https://open.spotify.com/album/4xHiUAsLhBxefu9A0xMKfj"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 414117,
       "name": "Nzuku",
       "url": "https://open.spotify.com/track/2J2x5N7N3LWYZfz4nH9uff"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Caisson",
+        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 469333,
+      "name": "Caisson",
+      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
     },
     {
       "added_at": "2023-04-21 14:41:23",

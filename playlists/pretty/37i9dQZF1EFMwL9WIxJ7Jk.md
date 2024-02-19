@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,536 likes - 134 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,537 likes - 134 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 41 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:56 |
 | 42 | [LET YOU BE RIGHT](https://open.spotify.com/track/28nrOocj11pS0UVH2VM6b5) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [LET YOU BE RIGHT](https://open.spotify.com/album/2yaquWkps9rx9tPo3EtobL) | 2:56 |
 | 43 | [Credit](https://open.spotify.com/track/63dFd2UgXD8l2buNGEtKRs) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:51 |
-| 44 | [Mr\. Almost \(feat\. Shy Carter\)](https://open.spotify.com/track/17dtO7OkVT3fpzGAaghHH5) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:16 |
-| 45 | [24/7](https://open.spotify.com/track/0e3aRkhcCdkYN62p2PFfD3) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:05 |
+| 44 | [24/7](https://open.spotify.com/track/0e3aRkhcCdkYN62p2PFfD3) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:05 |
+| 45 | [Mr\. Almost \(feat\. Shy Carter\)](https://open.spotify.com/track/17dtO7OkVT3fpzGAaghHH5) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:16 |
 | 46 | [Bang Dem Sticks](https://open.spotify.com/track/1aSjgqYklzgdzOXSXLrWSn) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:00 |
 | 47 | [Woman Up](https://open.spotify.com/track/1BHfxwjNbzbQFphMCpxiRq) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:28 |
 | 48 | [Better \(feat\. Yo Gotti\)](https://open.spotify.com/track/6str6hBCPSjfhSIS4qscDJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 2:47 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 133 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 134 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `Mjg0NzAzNzAsMDAwMDAwMDBiOTAxMjcwOWExYjRkYzBlZTlkY2UyMTM2MDViZDhlNA==`
+Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDBjMzUwNjM2ODkzNzM4M2I4M2ZhMTY1MWJlOTJhM2I4ZQ==`

@@ -4,7 +4,7 @@
 
 > The women whose music and influence have rocked our world\. Cover: Hayley Williams of Paramore
 
-284 songs - 16 hr 44 min
+285 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Crimes Of Passion](https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ) | 2:51 | 2020-03-11 | 2023-03-09 |
 | [Hit Me With Your Best Shot](https://open.spotify.com/track/1rCMzndNSm36yUAn2uHBPW) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Trending Now Volume 19](https://open.spotify.com/album/5Slgz8afL8MBypBQzs1Lm6) | 2:52 | 2020-03-11 | 2022-11-13 |
 | [Hit Me With Your Best Shot \- 1999 Digital Remaster](https://open.spotify.com/track/7nrtHjt4Vk4Z5jMHOwaS8F) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Synchronistic Wanderings](https://open.spotify.com/album/4CcLtOTSlV2389khMapisZ) | 2:51 | 2020-03-11 | 2022-07-29 |
-| [Hole In My Head](https://open.spotify.com/track/5Jxm8WzWz7uJWg8JajPJ3u) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Hole In My Head](https://open.spotify.com/album/2H5E6mJHbo9aNfzjJA74da) | 1:41 | 2024-02-05 |  |
+| [Hole In My Head](https://open.spotify.com/track/39FkjMarlvPHCghpQ5S8yE) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Hole In My Head](https://open.spotify.com/album/2mWIi7kmpQ0tPqsuXPLXaI) | 1:41 | 2024-02-05 |  |
+| [Hole In My Head](https://open.spotify.com/track/5Jxm8WzWz7uJWg8JajPJ3u) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Hole In My Head](https://open.spotify.com/album/2H5E6mJHbo9aNfzjJA74da) | 1:41 | 2024-02-05 | 2024-02-19 |
 | [Hooves](https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Hooves](https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz) | 2:43 | 2023-03-08 | 2023-07-20 |
 | [Hooves](https://open.spotify.com/track/59gcuFEGvp32erxYFekyG4) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:43 | 2023-05-24 |  |
 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 | 2024-02-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 50180,
+  "num_followers": 50198,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2M3ZGIwYWY1ZGVjNjkxOTg3MWM4MGUzNGU4YzdiYTI1ZDg3NjY4",
+  "snapshot_id": "MCxhNjM2YzQ2MzE1ZjE3M2EzZDYzNzIzODUxNzkzMWNmOTY3ODA5Y2Iy",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "late at night",
-        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
+        "name": "Take It Or Squeeze It",
+        "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "The Beatnuts",
+          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 174682,
-      "name": "late at night",
-      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
+      "duration_ms": 212293,
+      "name": "Se Acabo (feat. Method Man) - Remix",
+      "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -855,22 +859,18 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Take It Or Squeeze It",
-        "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
+        "name": "late at night",
+        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
       },
       "artists": [
         {
-          "name": "The Beatnuts",
-          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 212293,
-      "name": "Se Acabo (feat. Method Man) - Remix",
-      "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
+      "duration_ms": 174682,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Curtain Call 2",
         "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 212013,
       "name": "Is This Love ('09) (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "luvu222",
-        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
-      },
-      "artists": [
-        {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
-        }
-      ],
-      "duration_ms": 110571,
-      "name": "luvu222",
-      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Ain't Safe (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/3yj2uESNcngIeP0BdISs58"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 166514,
       "name": "Ain't Safe (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/22sJiw8rbuiiDEpdKNMRVP"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "luvu222",
+        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "duration_ms": 110571,
+      "name": "luvu222",
+      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "RAMONA PARK BROKE MY HEART",
         "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 179674,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 330408,
+      "name": "Stakes Is High",
+      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "USEE4YOURSELF",
         "url": "https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 172105,
       "name": "Shoot My Shot",
       "url": "https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Stakes Is High",
-        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 330408,
-      "name": "Stakes Is High",
-      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -2179,7 +2179,7 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Flatline",
+        "name": "Flatline (feat. Kenny Mason)",
         "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
       },
       "artists": [

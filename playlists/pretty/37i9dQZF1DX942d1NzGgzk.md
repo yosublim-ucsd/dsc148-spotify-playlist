@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Shaé Universe
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,573 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,616 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 33 | [Terms and Conditions](https://open.spotify.com/track/0gR8uAS5TNzsuWzWw9OR8C) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:29 |
 | 34 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 |
 | 35 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
-| 36 | [sore loser \- Acoustic](https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [sore loser \(Acoustic\)](https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam) | 2:11 |
+| 36 | [Used Girl](https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I) | [Tallia Storm](https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh) | [Used Girl](https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC) | 3:52 |
 | 37 | [Leave You Alone](https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:29 |
-| 38 | [Used Girl](https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I) | [Tallia Storm](https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh) | [Used Girl](https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC) | 3:52 |
+| 38 | [sore loser \- Acoustic](https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [sore loser \(Acoustic\)](https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam) | 2:11 |
 | 39 | [Dive \- Acoustic](https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive \(Acoustic\)](https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4) | 3:06 |
 | 40 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 |
 | 41 | [It’s Not Me, It’s You \(feat\. Destin Conrad\)](https://open.spotify.com/track/2N6s3852GdbqhV29or63En) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 59 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
 | 60 | [As You Are \- A COLORS SHOW](https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [As You Are \- A COLORS SHOW](https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc) | 3:41 |
 
-Snapshot ID: `MCw3OTE3OGY1ZjFkOGViYmU2NGE4MGQzZTUyMjJhYzRiNGYzNGFhZTkw`
+Snapshot ID: `MCxlOTkxYjg2NjViNWM3ZmMxODYyYzJlNDg1MjFiY2JiM2VlODEzOWQx`

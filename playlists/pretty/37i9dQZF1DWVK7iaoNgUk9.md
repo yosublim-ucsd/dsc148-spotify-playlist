@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 
 > se for pra sofrer, que seja com trilha sonora né não??
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,962 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,016 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 53 | [Penhasco2](https://open.spotify.com/track/0t5cfOZxePTvuYXTywHzjH) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:53 |
 | 54 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
 | 55 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
-| 56 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
-| 57 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
-| 58 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
+| 56 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
+| 57 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
+| 58 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
 | 59 | [Love You Goodbye](https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:16 |
 | 60 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 |
 
-Snapshot ID: `MCxmZGQ5NzAzZTI4NTQ4NzViYmEzOTI0YjBjMGEzYWY3YjhmNjBjYWYx`
+Snapshot ID: `MCxiMWViZTUwYzQ4M2Y4MjA4NzFjMzM0OGEzZmExMmQ4MzljODI0ZjBi`

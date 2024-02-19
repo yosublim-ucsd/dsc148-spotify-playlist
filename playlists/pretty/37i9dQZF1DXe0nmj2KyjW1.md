@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0nmj2KyjW1.md) - [plain]
 
 > Escucha lo mejor de la superstar argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,386 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,460 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
+| 1 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/0Kz96xXGxiyZIEJ2pOpUxe) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
 | 2 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 |
 | 3 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 4 | [Muñecas](https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Muñecas](https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR) | 2:36 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0nmj2KyjW1.md) - [plain]
 | 33 | [Playa](https://open.spotify.com/track/5iny7576bQLjbgHyefw9EM) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:27 |
 | 34 | [Siempre Brillarás](https://open.spotify.com/track/1JWduKM5MLVp7OVnXAqTZ7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI \(Martina Stoessel\) \[Deluxe Edition\]](https://open.spotify.com/album/2pFtQ4nD1Dq1ESF4w7wk3Q) | 3:00 |
 | 35 | [Lo Malo \- Remix](https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Lo Malo \(Remix\)](https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf) | 3:04 |
-| 36 | [Ya no me llames](https://open.spotify.com/track/75mVUHbkXidxhYAiUpxDHi) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Ya no me llames](https://open.spotify.com/album/0WopxBdg0sehHG1JaxQSTZ) | 3:08 |
+| 36 | [Ya no me llames](https://open.spotify.com/track/75mVUHbkXidxhYAiUpxDHi) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [TINI](https://open.spotify.com/artist/0Kz96xXGxiyZIEJ2pOpUxe) | [Ya no me llames](https://open.spotify.com/album/0WopxBdg0sehHG1JaxQSTZ) | 3:08 |
 | 37 | [Duele \(feat\. John C\)](https://open.spotify.com/track/5elv0DQyIeFVgMnxQ43lRf) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:18 |
 | 38 | [La Cintura \(feat\. Flo Rida & Tini\) \- Remix](https://open.spotify.com/track/7cui0h7KoaifEFzekOl6zX) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 2:58 |
 | 39 | [Flores](https://open.spotify.com/track/2sC2wIpNRIzXfh84HuS3uV) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Quiero Volver](https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me) | 3:21 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0nmj2KyjW1.md) - [plain]
 | 51 | [Sad Song \(feat\. TINI\)](https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Sad Song \(feat\. TINI\)](https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR) | 2:34 |
 | 52 | [Bésame \(I Need You\) \(with TINI & Reik\)](https://open.spotify.com/track/25c15KvAiyM8DNmDoFqwzm) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Bésame \(I Need You\) \(with TINI & Reik\)](https://open.spotify.com/album/6F3AXexyqa3xH9VZPB7VrA) | 2:16 |
 
-Snapshot ID: `MCxiYWJjM2IzMzYzYzlmZTdhODY3MzQxYWE2NzVhM2I3MjU4N2ZkN2Jk`
+Snapshot ID: `MCxjNjI4ZGM4YTI3MDFmYWFkYjI4NTdmNDc5OTJjOTg5MDM4MWE1ZTIx`

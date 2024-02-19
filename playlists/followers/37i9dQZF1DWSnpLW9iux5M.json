@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 61533,
+  "2024-02-19": 61526,
   "date_first_scraped": "2021-12-28",
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
   "name": "Gospel Christmas",
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 258372,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/3jWnra0rKnLwSf0jN67i84"
@@ -1209,6 +1209,28 @@
       "duration_ms": 188135,
       "name": "I\u2019ll Be Home For Christmas",
       "url": "https://open.spotify.com/track/2pcA8F0cSYeMhXCHqBxBoX"
+    },
+    {
+      "album": {
+        "name": "A J Holiday",
+        "url": "https://open.spotify.com/album/2nt6fN9ycbCmC7HaS5j3W5"
+      },
+      "artists": [
+        {
+          "name": "J. Moss",
+          "url": "https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW"
+        },
+        {
+          "name": "Matt Jones Orchestra",
+          "url": "https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188136,
+      "name": "I\u2019ll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/7LsohUDYAUvnrsuOBgIQBt"
     },
     {
       "album": {

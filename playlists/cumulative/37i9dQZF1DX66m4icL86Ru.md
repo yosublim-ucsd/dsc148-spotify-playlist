@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Flo Milli
 
-485 songs - 23 hr 34 min
+486 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-01-06 | 2023-08-01 |
 | [Ion Need](https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Ion Need](https://open.spotify.com/album/1MBgUk435GEy7uiJ4YRCEM) | 3:37 | 2023-05-26 | 2023-06-24 |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-29 | 2023-11-18 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-06 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-06 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2023-11-24 |  |
 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 | 2022-03-26 | 2023-03-11 |
 | [Jane Doe](https://open.spotify.com/track/0YHHVezUoKC10MtiLUliqx) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Jane Doe](https://open.spotify.com/album/4dtUttZLZbbkp6cN52zDy2) | 2:44 | 2022-11-11 | 2022-11-19 |
 | [JUMP \(feat\. Coast Contra\)](https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [JUMP](https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1) | 3:26 | 2022-07-08 | 2022-07-30 |

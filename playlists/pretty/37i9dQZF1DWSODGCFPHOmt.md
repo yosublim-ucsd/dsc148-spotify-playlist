@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,986 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,982 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 44 | [Amarga navidad \(Ranchera\)](https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78), [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La última canción](https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279) | 2:36 |
 | 45 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Navidad Desde El Meritito Norte](https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia) | 3:23 |
 | 46 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/7cWMHZIakSw3ANHmNSyndX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:00 |
-| 47 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 |
-| 48 | [Navidad Sin Ti](https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:17 |
-| 49 | [La Bala](https://open.spotify.com/track/2PsYNKGoDGJ3gRXuHICdRv) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Los Ultimos Exitos De Rigo Tovar](https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8) | 6:21 |
-| 50 | [Un Diciembre Diferente](https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Un Diciembre Diferente](https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym) | 3:22 |
+| 47 | [La Bala](https://open.spotify.com/track/2PsYNKGoDGJ3gRXuHICdRv) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Los Ultimos Exitos De Rigo Tovar](https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8) | 6:21 |
+| 48 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 |
+| 49 | [Un Diciembre Diferente](https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Un Diciembre Diferente](https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym) | 3:22 |
+| 50 | [Navidad Sin Ti](https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:17 |
 | 51 | [Voy A Pedirle A Santa Claus](https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Voy A Pedirle A Santa Claus](https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW) | 2:37 |
 | 52 | [Rodolfo El Reno](https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Rodolfo El Reno](https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ) | 3:27 |
 | 53 | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [El Año Viejo](https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:18 |
 | 80 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |
 
-Snapshot ID: `MCw2N2I5MWI5ODU5Nzg4NjdkMGM4NmRhMjdjY2Q5OWY1ZGY5YzE2ZTI4`
+Snapshot ID: `MCxlOGVmYzg1ZmE5ODI1MmMzZDAwYjFlOTczNDQxODIxY2M5ODQ5Nzlk`

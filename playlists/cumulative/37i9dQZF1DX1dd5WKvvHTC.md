@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0sMAHzxguan2KpnKFZPW2d">Sadie Jean</a> with collaborators Rory Andrew, Victoria Zaro, and producer <a href="spotify:artist:3dIbvdQQd3HXfQcRjR6lb7">Griff Clawson</a>
 
-51 songs - 2 hr 50 min
+52 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [I Think I Saw The Moon](https://open.spotify.com/track/3obstpkhlFd6ZKybpCbSiJ) | [Hayley Warner](https://open.spotify.com/artist/1xrvnT8IPYpS6iOkAq8tLt) | [I Think I Saw The Moon](https://open.spotify.com/album/2S0AogmBWxHUrjmsHVnxQf) | 3:57 | 2024-01-22 |  |
 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-01-22 |  |
 | [Just A Dream](https://open.spotify.com/track/1JDFkA3lfDzoeVz2H6Mljy) | [Rachel Ana Dobken](https://open.spotify.com/artist/0yjMY9pIL4rmCOLrNtvSlP) | [Just A Dream](https://open.spotify.com/album/1FmLJMi5DZ9ytnnBA9yGpL) | 5:41 | 2024-01-22 |  |
-| [Kiss of Death](https://open.spotify.com/track/78NFpDM4sMdpL0Qw1x3Kpo) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0), [Vessel](https://open.spotify.com/artist/1GOmB31SXRbXCfTKrG2ta8) | [Kiss of Death](https://open.spotify.com/album/0tGoDYWI7xG300Hyn42s8y) | 5:19 | 2024-01-22 |  |
+| [Kiss of Death](https://open.spotify.com/track/3o3rGWacgLdSqCFWawiLAD) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0), [Vessel](https://open.spotify.com/artist/1GOmB31SXRbXCfTKrG2ta8) | [Big Anonymous](https://open.spotify.com/album/6B1TpyCZ28bpZaF0wKRree) | 5:19 | 2024-01-22 |  |
+| [Kiss of Death](https://open.spotify.com/track/78NFpDM4sMdpL0Qw1x3Kpo) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0), [Vessel](https://open.spotify.com/artist/1GOmB31SXRbXCfTKrG2ta8) | [Kiss of Death](https://open.spotify.com/album/0tGoDYWI7xG300Hyn42s8y) | 5:19 | 2024-01-22 | 2024-02-19 |
 | [Learn To Live Without You](https://open.spotify.com/track/4JU2iK9bpsfGrd5UMvt0D7) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Learn To Live Without You / Better Than Anything](https://open.spotify.com/album/1EzOWqVvTiEDzWaWt5YLxV) | 3:10 | 2024-01-22 |  |
 | [Let It Go](https://open.spotify.com/track/524wbK27Ssf7fMuzOUmJ7U) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Let It Go](https://open.spotify.com/album/2mjKjhxmC3ZInWFSmtAy71) | 3:33 | 2024-01-22 |  |
 | [Let You Go](https://open.spotify.com/track/3fjoLni3kK44sAV34KgbeT) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Let You Go](https://open.spotify.com/album/2gn7njh6rbT1FsVtPbONCt) | 2:30 | 2024-01-22 |  |

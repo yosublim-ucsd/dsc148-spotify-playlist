@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,017 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,240 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 14 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 15 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
 | 16 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
-| 17 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
+| 17 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 18 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
-| 19 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
+| 19 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
 | 20 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
 | 21 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
 | 22 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 |
 | 23 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 24 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
-| 25 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
+| 25 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
 | 26 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
 | 27 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 |
-| 28 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
+| 28 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
 | 29 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 30 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
 | 31 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 79 | [Where the Wild Roses Grow](https://open.spotify.com/track/4LK8kGGY0FGSGIAk2GwI30) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 \- Remaster\)](https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva) | 3:57 |
 | 80 | [Holland, 1945](https://open.spotify.com/track/64DpBZj4IlDFzCwxTq7azl) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:12 |
 
-Snapshot ID: `MCxmNzg1YzBiODQ2ODhmMjcyMjg4NWVhMjllODI5MGE4ZDJkYTcxOTJl`
+Snapshot ID: `MCw3OWQzOTcxZDY4MDk4OWFkOGU5OTA3ZjNjZWYzNzZmM2FhODg2YmI2`

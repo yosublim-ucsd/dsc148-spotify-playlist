@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,950 likes - 94 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,283 likes - 94 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 14 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
 | 15 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 |
 | 16 | [DHL](https://open.spotify.com/track/2INhKpUdzh7v0j041gZNsz) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [DHL](https://open.spotify.com/album/1Fh1gzTOImG12M35w3nqQF) | 4:28 |
-| 17 | [You Can't Save Me](https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:54 |
-| 18 | [Appletree](https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 4:25 |
+| 17 | [Appletree](https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 4:25 |
+| 18 | [You Can't Save Me](https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:54 |
 | 19 | [Yo Love \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Yo Love \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1) | 2:23 |
 | 20 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 |
 | 21 | [Leftovers](https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Leftovers](https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0) | 3:12 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 87 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
 | 88 | [Swim Home \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Swim Home \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO) | 3:06 |
 | 89 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 |
-| 90 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
-| 91 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
+| 90 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
+| 91 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 | 92 | [Sleep On It](https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:36 |
 | 93 | [Worst Way](https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [themes](https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Worst Way](https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz) | 2:52 |
 | 94 | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6) | 6:17 |
 
-Snapshot ID: `MCw3ZGI3NTUwM2EwMDQ4ODc4OTE4MDMyZThlY2MyMGU5OThlMGFhODcy`
+Snapshot ID: `MCw3M2E4Zjg0NjMxMjUzNTYwYmMxNDg1YjgzNTJhN2JlMTBhMThkMjc0`

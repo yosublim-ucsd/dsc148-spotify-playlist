@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-213 songs - 13 hr 49 min
+214 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Love Falls Down](https://open.spotify.com/track/5X5XhvErlZwcy9Mj0O2aVV) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/08WEyVCx9yGsm8as4jbyOZ) | 5:15 | 2021-12-13 | 2022-07-29 |
 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 | 2022-04-28 |  |
 | [Make a Change](https://open.spotify.com/track/1EKAEKLKc9hi6x8bjgTT9T) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:29 | 2021-12-13 | 2022-07-29 |
-| [Make a Change](https://open.spotify.com/track/4mIp8DZXXX1CCsRQi9x98L) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:29 | 2022-07-05 |  |
+| [Make a Change](https://open.spotify.com/track/4mIp8DZXXX1CCsRQi9x98L) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:29 | 2022-07-05 | 2024-02-19 |
+| [Make a Change](https://open.spotify.com/track/66TjJJq67nkHkwkfabSqX5) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 3:29 | 2023-12-01 |  |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/0BhvzFxq3FHiMdGcLiTphr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/album/2uiF3HvWDxAMupxCZ8t1VY) | 3:39 | 2021-12-13 | 2022-07-29 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2022-07-05 | 2022-12-06 |
 | [Marching Band \- feat\. Masego](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 | 2023-10-03 |  |

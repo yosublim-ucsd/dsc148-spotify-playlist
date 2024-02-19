@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 738538,
+  "num_followers": 738755,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTA3MGZlZTcwYWU4NWE5YjE1OTViYTdjZmY2Nzk5NWM1YTJkZTIw",
+  "snapshot_id": "MCw1NTcxYmM5YTFhNTZhMDdlMjQ5MDk0YTVkNzQ1MTQ1NDNkYmM4OGMy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "On My Way to You",
-      "url": "https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 179600,
       "name": "Every Light In The House",
       "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "On My Way to You",
+      "url": "https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Never Will",
-        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "One Night Standards",
-      "url": "https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Haunted Heart",
         "url": "https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 211200,
       "name": "Queen Of My Double Wide Trailer",
       "url": "https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Never Will",
+        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "One Night Standards",
+      "url": "https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "I Will Stand By You - The Essential Collection",
-        "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 256333,
-      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
-      "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Cold Beer & Country Music",
         "url": "https://open.spotify.com/album/68hj8MWgSPDB8q92LP8KVj"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 186167,
       "name": "Cold Beer & Country Music",
       "url": "https://open.spotify.com/track/6r8oKdUQPyW3z3I0ooWlCt"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "I Will Stand By You - The Essential Collection",
+        "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 256333,
+      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
+      "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
     }
   ],
   "unique_name": "Traditional Country",

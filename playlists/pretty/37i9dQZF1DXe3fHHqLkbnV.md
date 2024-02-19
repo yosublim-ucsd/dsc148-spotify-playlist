@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 
 > The best easy rock from the 1990s\. Cover: Bryan Adams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,829 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,061 likes - 80 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 64 | [Can't Get You Off My Mind](https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:34 |
 | 65 | [Something To Talk About](https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:47 |
 | 66 | [One Of Us \- Short Version](https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [The Best Of Joan Osborne 20th Century Masters The Millennium Collection](https://open.spotify.com/album/2QXG7PMDNdAOangkVnV4Kc) | 5:02 |
-| 67 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:28 |
-| 68 | [If I Had $1,000,000](https://open.spotify.com/track/0KeDuUqEX3P0cKzRD5pEom) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Gordon](https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691) | 4:26 |
+| 67 | [If I Had $1,000,000](https://open.spotify.com/track/0KeDuUqEX3P0cKzRD5pEom) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Gordon](https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691) | 4:26 |
+| 68 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:28 |
 | 69 | [I'm The Only One](https://open.spotify.com/track/4veE1jrMbVSy9FRCiYDGkD) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Yes I Am](https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD) | 4:55 |
 | 70 | [6th Avenue Heartache](https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:37 |
 | 71 | [I Still Do](https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 79 | [Lucky Man](https://open.spotify.com/track/0bw1li9y32rw40HGodRShs) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:53 |
 | 80 | [Cloud Number Nine](https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:45 |
 
-Snapshot ID: `MCw5OGM4M2FkNmQ0NWM2MWY3NDdlOTZiZTdiZWNhNTAxNGIwMWY1YjUy`
+Snapshot ID: `MCw1NDRkNGZkZTIwZmYyYWYwYjhiMThkYWQ2NmQ1YWRjMTFiNWYxNWMz`

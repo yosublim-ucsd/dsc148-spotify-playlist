@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes that both you and your little one can enjoy.",
-  "num_followers": 31293,
+  "num_followers": 31301,
   "original_name": "Raised on Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzEyMjk2MWI0ZTBiODVhNjcwMjNmNTgxZWJmNDlhMWMxOWM4ZDU5",
+  "snapshot_id": "MCxkZWRkYjA3MjEzMThiYWUwZDNlM2JkMzQ2Mjc0M2ZhYzY2YTExNzVh",
   "tracks": [
     {
       "added_at": "2023-01-09 06:31:47",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
-        "name": "Revoluci\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 264599,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
-    },
-    {
-      "added_at": "2023-01-09 06:31:47",
-      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 303106,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2023-01-09 06:31:47",
+      "album": {
+        "name": "Revoluci\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 264599,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+      "duration_ms": 175506,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
-    },
-    {
-      "added_at": "2023-01-09 06:31:47",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
+    },
+    {
+      "added_at": "2023-01-09 06:31:47",
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 175506,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3"
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "No Llores por Mi",
-      "url": "https://open.spotify.com/track/1qZPQqoomnPzHKGjvn136r"
-    },
-    {
-      "added_at": "2023-01-09 06:31:47",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 286466,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
+    },
+    {
+      "added_at": "2023-01-09 06:31:47",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "No Llores por Mi",
+      "url": "https://open.spotify.com/track/1qZPQqoomnPzHKGjvn136r"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Bailamos",
-      "url": "https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe"
-    },
-    {
-      "added_at": "2023-01-09 06:31:47",
-      "album": {
         "name": "Historia De Un Idolo Vol.II",
         "url": "https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 227706,
       "name": "I Need to Know",
       "url": "https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72"
+    },
+    {
+      "added_at": "2023-01-09 06:31:47",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "Bailamos",
+      "url": "https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+        "name": "Lo Mejor De Los Tres Grandes",
+        "url": "https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 264240,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/3NdkOHvXadtSXWHPQ66rW5"
+      "duration_ms": 351333,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw"
     }
   ],
   "unique_name": "Raised on Latin",

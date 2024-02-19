@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 132709,
+  "num_followers": 132708,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDk0OWUwMDAxNDU2MDE5MWMzMjEzOWIxMjNkOWU1ZTQyZDExZjU3",
+  "snapshot_id": "MCwxYjQ0OTk1MGUxMDJmYjY2NjMwNDdlOThmZjBkZDc4ZGRiNTcyYWY2",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Motion (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/7tpEGkrQn7roe8BPqSkt3u"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 147391,
       "name": "Motion (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Can't Fake What You Feel",
-        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 171052,
-      "name": "Can't Fake What You Feel",
-      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Breathless (with Alina Baraz)",
         "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
       },
@@ -991,22 +971,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Like A Tattoo",
-        "url": "https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO"
+        "name": "Can't Fake What You Feel",
+        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
       "artists": [
         {
-          "name": "Don Arcadio",
-          "url": "https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh"
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
         },
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 260853,
-      "name": "Like A Tattoo",
-      "url": "https://open.spotify.com/track/4FSODqy1KStAlvQJmH7vR9"
+      "duration_ms": 171052,
+      "name": "Can't Fake What You Feel",
+      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1051,6 +1031,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Like A Tattoo",
+        "url": "https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO"
+      },
+      "artists": [
+        {
+          "name": "Don Arcadio",
+          "url": "https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh"
+        },
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 260853,
+      "name": "Like A Tattoo",
+      "url": "https://open.spotify.com/track/4FSODqy1KStAlvQJmH7vR9"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Bunda",
         "url": "https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ"
       },
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Breathwork",
-        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
+        "name": "D.W.Y.W. (Do What You Want)",
+        "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
       },
       "artists": [
         {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
         }
       ],
-      "duration_ms": 169655,
-      "name": "On + On (with Justine Skye)",
-      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
+      "duration_ms": 208064,
+      "name": "D.W.Y.W. (Do What You Want)",
+      "url": "https://open.spotify.com/track/2ZNFpE337s3luymlkhJSgQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1123,22 +1119,6 @@
       "duration_ms": 192278,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "D.W.Y.W. (Do What You Want)",
-        "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
-      },
-      "artists": [
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 208064,
-      "name": "D.W.Y.W. (Do What You Want)",
-      "url": "https://open.spotify.com/track/2ZNFpE337s3luymlkhJSgQ"
     },
     {
       "added_at": "2024-02-09 19:57:50",
@@ -1163,6 +1143,26 @@
       "duration_ms": 223087,
       "name": "Pyjamas feat. Remi Wolf (Chamos Remix)",
       "url": "https://open.spotify.com/track/2pKYIlPZXCbhvxL4uUDIUb"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Breathwork",
+        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "On + On (with Justine Skye)",
+      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Contact (Karen Nyame KG Remix)",
-        "url": "https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "Contact - Karen Nyame KG Remix",
-      "url": "https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Forbidden Feelingz",
         "url": "https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 174092,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Contact (Karen Nyame KG Remix)",
+        "url": "https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "Contact - Karen Nyame KG Remix",
+      "url": "https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1551,78 +1551,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "PHASE",
-        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
-      },
-      "artists": [
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "2MANYTHINGS",
-      "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 184914,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Chrome Bull DLX",
-        "url": "https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 200361,
-      "name": "Feel the Feels",
-      "url": "https://open.spotify.com/track/7qnaukVhNsfUCNX8Pd5uXv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "90s (Remix)",
         "url": "https://open.spotify.com/album/0241uDx21SHRh0BJK0auir"
       },
@@ -1651,18 +1579,74 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+        "name": "PHASE",
+        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Xtasy",
-      "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
+      "duration_ms": 193000,
+      "name": "2MANYTHINGS",
+      "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Chrome Bull DLX",
+        "url": "https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 200361,
+      "name": "Feel the Feels",
+      "url": "https://open.spotify.com/track/7qnaukVhNsfUCNX8Pd5uXv"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 184914,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1687,22 +1671,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 186123,
-      "name": "Sumthin Crazy (with Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+      "duration_ms": 178200,
+      "name": "Xtasy",
+      "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1719,6 +1699,26 @@
       "duration_ms": 230002,
       "name": "So Badly",
       "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Sumthin Crazy (with Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 237929,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "crave you",
         "url": "https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 160863,
       "name": "crave you",
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 237929,
-      "name": "Already",
-      "url": "https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 225937,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Cruisin'",
         "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 207194,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 225937,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
     }
   ],
   "unique_name": "Choice Edit",

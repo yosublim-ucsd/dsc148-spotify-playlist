@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Juliana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,770 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,766 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Heaven](https://open.spotify.com/track/2fe3VX1zPGqxZr6Amj2KTa) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro \(Versión Libro\)](https://open.spotify.com/album/67gKu1xe7Htg15Xmri1Vx8) | 2:52 |
 | 2 | [De Curvo Cuerpo](https://open.spotify.com/track/2xsXk1ryjN5Z4nhODZuIcr) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Paralelas](https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH) | 3:37 |
-| 3 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 3 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 4 | [Vaivén](https://open.spotify.com/track/1hX7DwiZ3QZKg3ZtKpIK7e) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Vaivén](https://open.spotify.com/album/4hAbr4FXXv5AcsUyazXteo) | 3:18 |
 | 5 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 6 | [VAMPIRA RPS](https://open.spotify.com/track/25wZAOe1XKargxzF1N7MVX) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [VAMPIRA RPS](https://open.spotify.com/album/5JoC7BJWPh7hdKCk8DZQvX) | 3:06 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 84 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 85 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MCxlN2RjMzdjYjM5OWY4OTQ3NjA0N2E4ODgxYWQ4ODZiNWQ2MjNhNDg5`
+Snapshot ID: `MCxiYTIzYWFlNjRjYzJiNGY2ZDdiMGFlYWI5NzE0ZTJjNTJiODI5ZWI2`

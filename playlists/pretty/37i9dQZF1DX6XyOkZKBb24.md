@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,896 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,222 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 8 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 9 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 10 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
-| 11 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
-| 12 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
+| 11 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
+| 12 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 13 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 |
 | 14 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
 | 15 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 37 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 |
 | 38 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 39 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 |
-| 40 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
-| 41 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
-| 42 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
-| 43 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
-| 44 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 |
+| 40 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
+| 41 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
+| 42 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
+| 43 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
+| 44 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
 | 45 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
-| 46 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
-| 47 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
+| 46 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 |
+| 47 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
 | 48 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 |
 | 49 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
 | 50 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 53 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
 | 54 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
 | 55 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
-| 56 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 |
-| 57 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 |
+| 56 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 |
+| 57 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 |
 | 58 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 |
 | 59 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 |
 | 60 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 74 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
 | 75 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 |
 
-Snapshot ID: `MCwzYWM3YmEwODA1YjU0OTAwMWNiOGI4MjRiYWQ4ZGVlNDhjMTdlNDhi`
+Snapshot ID: `MCw1MmNjNjZiYjViMmE4ZGZhM2FhODgyNzQ3YTJkYjYzOWU2ZWE5M2Q4`

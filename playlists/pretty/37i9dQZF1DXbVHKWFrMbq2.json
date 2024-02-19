@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 15498,
+  "num_followers": 15519,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGEwNWNkODQwYjQ4ODkyYWVlOTM3ZmQyOWIwZTAzMDc0YzkxYjIw",
+  "snapshot_id": "MCw2NjAxMmU5NjQ2MDMwNjBhMzI2NGFjMDEwYjAzMTAyZDQ2OTI3ZTUz",
   "tracks": [
     {
       "added_at": "2024-02-15 20:20:16",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-02-15 20:20:16",
+      "album": {
         "name": "wherever u r (ft. V of BTS)",
         "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
-    },
-    {
-      "added_at": "2024-02-15 20:20:16",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+    },
+    {
+      "added_at": "2024-02-15 20:20:16",
+      "album": {
         "name": "PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 178041,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
-    },
-    {
-      "added_at": "2024-02-15 20:20:16",
-      "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -1015,6 +1015,42 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
+    },
+    {
+      "added_at": "2024-02-15 20:20:16",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
+    },
+    {
+      "added_at": "2024-02-15 20:20:16",
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
       },
@@ -1047,22 +1083,6 @@
       "duration_ms": 227375,
       "name": "Hasta Que Llegue El Verano",
       "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
-    },
-    {
-      "added_at": "2024-02-15 20:20:16",
-      "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -1151,22 +1171,18 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
+        "name": "complikado",
+        "url": "https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
+      "duration_ms": 178076,
+      "name": "complikado",
+      "url": "https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -1183,22 +1199,6 @@
       "duration_ms": 186812,
       "name": "La Mochila del Mundo",
       "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
-    },
-    {
-      "added_at": "2024-02-15 20:20:16",
-      "album": {
-        "name": "complikado",
-        "url": "https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp"
-      },
-      "artists": [
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        }
-      ],
-      "duration_ms": 178076,
-      "name": "complikado",
-      "url": "https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P"
     },
     {
       "added_at": "2024-02-15 20:20:16",

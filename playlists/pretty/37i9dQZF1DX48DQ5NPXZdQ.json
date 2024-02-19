@@ -1,12 +1,12 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 56250,
+  "num_followers": 56263,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmEyYjY4NjI2YTFhNDMzYTExNGQzYWYyY2M3MTExNDViMzJlYTQx",
+  "snapshot_id": "MCw0ZGI2NmUyNTg4YTE0MDVlODU4ZDY5ZGQ3NWU1ZjQxY2VmMTRhZTUy",
   "tracks": [
     {
       "added_at": "2023-11-28 00:23:42",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-11-28 00:23:42",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
-      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
-    },
-    {
-      "added_at": "2023-11-28 00:23:42",
-      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 243573,
       "name": "Y Volver\u00e9 - Remastered 1994",
       "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+    },
+    {
+      "added_at": "2023-11-28 00:23:42",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
+      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
     },
     {
       "added_at": "2023-11-28 00:23:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-28 00:23:42",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/2ysuZe6xyKlpVzuNKAJUuL"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "S\u00fabete a Mi Moto",
-      "url": "https://open.spotify.com/track/1CNUozOLzsqVQxrct155hY"
-    },
-    {
-      "added_at": "2023-11-28 00:23:42",
-      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 280743,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l"
+    },
+    {
+      "added_at": "2023-11-28 00:23:42",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/2ysuZe6xyKlpVzuNKAJUuL"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "S\u00fabete a Mi Moto",
+      "url": "https://open.spotify.com/track/1CNUozOLzsqVQxrct155hY"
     },
     {
       "added_at": "2023-11-28 00:23:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,756 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,794 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,18 +14,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 4 | [The Lion Sleeps Tonight \(Wimoweh\)](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Wimoweh!!! \- The Best Of The Tokens](https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0) | 2:42 |
 | 5 | [Earth Angel](https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [Earth Angel](https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd) | 2:51 |
 | 6 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
-| 7 | [Short Fat Fannie](https://open.spotify.com/track/5xAkEg9CI3rxXFV8mdbSyp) | [Larry Williams](https://open.spotify.com/artist/5NBY8xM51dP3UGR7bwjLD6) | [Here's Larry Williams](https://open.spotify.com/album/0IezgTiPL0BoQuujiGQvVZ) | 2:26 |
-| 8 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
+| 7 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
+| 8 | [Short Fat Fannie](https://open.spotify.com/track/5xAkEg9CI3rxXFV8mdbSyp) | [Larry Williams](https://open.spotify.com/artist/5NBY8xM51dP3UGR7bwjLD6) | [Here's Larry Williams](https://open.spotify.com/album/0IezgTiPL0BoQuujiGQvVZ) | 2:26 |
 | 9 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
 | 10 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams](https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D), [The Zodiacs](https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
 | 11 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
 | 12 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
 | 13 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 |
-| 14 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
-| 15 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
-| 16 | [The Book of Love](https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Who Wrote The Book Of Love? \[Digital Version\]](https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV) | 2:18 |
-| 17 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
-| 18 | [Down in Mexico](https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 3:16 |
+| 14 | [Down in Mexico](https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 3:16 |
+| 15 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
+| 16 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
+| 17 | [The Book of Love](https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Who Wrote The Book Of Love? \[Digital Version\]](https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV) | 2:18 |
+| 18 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
 | 19 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
 | 20 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
 | 21 | [Life Is but a Dream](https://open.spotify.com/track/7pihvWmEVo5J2PcxvP6T4f) | [The Harptones](https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7) | [The Harptones](https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
 | 50 | [Speedoo \(Alternative Take\)](https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5) | [The Cadillacs](https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH) | [The Fabulous Cadillacs](https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY) | 2:21 |
 
-Snapshot ID: `MCwwYjFiYTIxN2Q0YTU3MDY5ODBmYmRiM2Q5YTYwMjNmZTZlNjBhOWM0`
+Snapshot ID: `MCwwYjk3OGZjNjVhODU5NmI1ODRiZTVkMGMwNjU1MmU3OWRjMjk4ODA4`

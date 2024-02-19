@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,445 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,551 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,25 +23,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 13 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 14 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
 | 15 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
-| 16 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
-| 17 | [Think](https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:19 |
+| 16 | [Think](https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:19 |
+| 17 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
 | 18 | [Ain't Too Proud To Beg](https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:36 |
 | 19 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 |
 | 20 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 |
 | 21 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
-| 22 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
+| 22 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 23 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
-| 24 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 25 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:05 |
-| 26 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
-| 27 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
-| 28 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 |
+| 24 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:05 |
+| 25 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
+| 26 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 |
+| 27 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
+| 28 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 29 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
 | 30 | [Respect \- 2003 Remaster](https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:22 |
 | 31 | [This Will Be \(An Everlasting Love\) \- 2003 Remaster](https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Natalie Cole Anthology](https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb) | 2:51 |
 | 32 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
-| 33 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
-| 34 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 |
+| 33 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 |
+| 34 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
 | 35 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 |
 | 36 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 37 | [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 49 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 |
 | 50 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight](https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK) | 2:54 |
 
-Snapshot ID: `MCxmNTc4MWI1MTY0OWIwNGZjY2VjMDAzNWJmY2Q3OTNlYTQxMTA3MDQ5`
+Snapshot ID: `MCxmZDNkYTdmYjc0NzAzY2MyZDdjMDk3MWEzMWEzMDlkZTAzN2NjYjBi`

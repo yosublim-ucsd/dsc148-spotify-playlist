@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 102170,
+  "2024-02-19": 102241,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -741,7 +741,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 141030,
       "name": "9MM",
       "url": "https://open.spotify.com/track/3EYVgA1fsZ3ZrcE5vpIzYf"
@@ -3375,7 +3375,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 161666,
       "name": "BEKO",
       "url": "https://open.spotify.com/track/57p4wDILbaJAnhCFZjuEPo"
@@ -24967,7 +24967,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 177150,
       "name": "Simadi",
       "url": "https://open.spotify.com/track/2ILpP6nlR7QndbxtzLbZ7K"
@@ -28355,6 +28355,24 @@
       "duration_ms": 260217,
       "name": "Trafficante",
       "url": "https://open.spotify.com/track/4sHGVE7twEnFddJ3DqyWXs"
+    },
+    {
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-145 songs - 9 hr 46 min
+146 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 | 2023-03-20 |  |
 | [Heaven \- Nicolas Jaar Remix](https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Remix Crusades \(2007\-2013\)](https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A) | 5:17 | 2023-03-20 | 2024-02-17 |
 | [Hello Hello Hello \- Polo & Pan Remix](https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:56 | 2023-03-20 |  |
-| [Hey Boy](https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:15 | 2023-08-14 |  |
+| [Hey Boy](https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:15 | 2023-08-14 | 2024-02-19 |
 | [Horizon](https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Horizon](https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK) | 3:34 | 2023-03-20 |  |
 | [How Long](https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Horizons](https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y) | 4:21 | 2023-03-20 |  |
 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 | 2023-03-20 |  |
@@ -135,6 +135,7 @@
 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 | 2023-03-20 | 2024-02-05 |
 | [Strangers](https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:40 | 2023-08-14 |  |
 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 | 2023-03-20 | 2024-01-13 |
+| [Supersonics](https://open.spotify.com/track/2Y808U6qanXAMnN8jovGC1) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw) | 3:21 | 2023-08-14 |  |
 | [SWIM](https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:37 | 2023-03-20 |  |
 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2023-03-20 | 2023-05-24 |
 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 | 2023-03-20 |  |

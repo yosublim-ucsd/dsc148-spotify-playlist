@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 
 > Un derroche de sensualidad\. Prince Royce, Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,323 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,368 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 8 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 9 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 |
 | 10 | [Imitadora](https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:54 |
-| 11 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 |
+| 11 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
 | 12 | [La Mejor Versión de Mi \- Remix](https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Mejor Versión de Mi \(Remix\)](https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d) | 3:49 |
 | 13 | [Cuando Me Enamoro](https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:20 |
 | 14 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 |
 | 15 | [Bachata Rosa](https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:17 |
-| 16 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
+| 16 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 |
 | 17 | [Te Espero \- feat\. Maria Becerra](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero \(feat\. Maria Becerra\)](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 |
 | 18 | [Loco](https://open.spotify.com/track/6yjsa6c8nSGQqXF12vFSpp) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:33 |
 | 19 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 74 | [Darte un Beso](https://open.spotify.com/track/3tYeEnUudAt7ulPdlMSNZO) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Peter Nieto](https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:02 |
 | 75 | [Reflejo](https://open.spotify.com/track/54zDpwf0mqx9VQRn91SLX6) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Reflejo](https://open.spotify.com/album/1re6ndovzDhuHMhfYVfG2D) | 4:13 |
 
-Snapshot ID: `MCxkYzM4ZDgxMTg4NWVhN2FlOTBlNTkyOWFhN2FlZTM1ZDA5NTMyNGU4`
+Snapshot ID: `MCw4ZDg0ZTYxZWMyZDBkNzMwMjVjY2ZhMTY5MzA0ODgxNzQwZmZhOGIz`

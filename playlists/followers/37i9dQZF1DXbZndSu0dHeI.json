@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 207278,
+  "2024-02-19": 207412,
   "date_first_scraped": "2021-12-30",
   "description": "Sometimes it's nice to be nice, you know.",
   "name": "The Lovely Little Playlist",
@@ -781,6 +781,24 @@
       "duration_ms": 198426,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
+    },
+    {
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "album": {
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
@@ -3817,7 +3835,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
@@ -4127,6 +4145,24 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "album": {
@@ -5132,6 +5168,24 @@
     },
     {
       "album": {
+        "name": "Release Myself",
+        "url": "https://open.spotify.com/album/0KFPqibU9CKkZCwRNfyRxT"
+      },
+      "artists": [
+        {
+          "name": "Bess Atwell",
+          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218312,
+      "name": "Release Myself",
+      "url": "https://open.spotify.com/track/2ghHspqlmRofnMVcCBJ4Bu"
+    },
+    {
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3Igeg1be3hBUPElfNhxRbO"
       },
@@ -5388,6 +5442,24 @@
     },
     {
       "album": {
+        "name": "The Death Of Summer & Other Promises",
+        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269411,
+      "name": "Skin Parade",
+      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
+    },
+    {
+      "album": {
         "name": "Fall Back Asleep",
         "url": "https://open.spotify.com/album/5qLtchUaugg04COY4RE1rT"
       },
@@ -5493,7 +5565,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 269914,
       "name": "So My Darling",
       "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
@@ -5857,7 +5929,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
@@ -6103,6 +6175,24 @@
       "duration_ms": 219666,
       "name": "The Call",
       "url": "https://open.spotify.com/track/6covI0tCdNCKqp7yoKeUtD"
+    },
+    {
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
       "album": {
@@ -6499,7 +6589,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 309400,
       "name": "Tropic Morning News",
       "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"

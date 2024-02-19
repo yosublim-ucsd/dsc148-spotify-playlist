@@ -1,12 +1,12 @@
 {
   "description": "Power through your chores with these upbeat tracks.",
-  "num_followers": 270288,
+  "num_followers": 270472,
   "original_name": "Housework Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDg2MjY3ZDg5NmU5ZTMzNGI1ODI2MmFjZGFiNDFiZjRmNjExNTBm",
+  "snapshot_id": "MCwxNjhjZTdkMjkwYjJjMGIzNWI3OWQ0MjZmMzg1YWIzOTZlMzg0MTcy",
   "tracks": [
     {
       "added_at": "2021-12-24 08:51:22",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Toto",
-        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Hold the Line",
-      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 183306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Hold the Line",
+      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -559,6 +543,22 @@
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Mistaken Identity",
-        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
-      },
-      "artists": [
-        {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Mistaken Identity",
+        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Eye To The Telescope",
+        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+      "duration_ms": 201706,
+      "name": "Suddenly I See",
+      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Eye To The Telescope",
-        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
-          "name": "KT Tunstall",
-          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 201706,
-      "name": "Suddenly I See",
-      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 212253,
       "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
     },
     {
       "added_at": "2021-12-24 08:51:22",

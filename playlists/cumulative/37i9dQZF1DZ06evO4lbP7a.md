@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 31 min
+58 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [タルト](https://open.spotify.com/track/130eybbEhnHRlKBJK9N4TR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 3:12 | 2023-12-26 |  |
 | [ハロ](https://open.spotify.com/track/69cF34CNjzxX1ySIPJxtMf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [ハロ](https://open.spotify.com/album/0mzoRF3WErpncvKCQqoHEu) | 3:18 | 2023-12-26 |  |
 | [パレットは透明](https://open.spotify.com/track/25e3Pxxt0G1KGvMbYelQMG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [パレットは透明](https://open.spotify.com/album/23xlWGbhuph9wClaYZqbPg) | 3:17 | 2023-12-26 |  |
-| [ブルーマンデー](https://open.spotify.com/track/1pSIyieeeazY8U9ZcwsxGe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 4:00 | 2023-12-26 |  |
+| [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 | 2024-02-18 |  |
+| [ブルーマンデー](https://open.spotify.com/track/1pSIyieeeazY8U9ZcwsxGe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 4:00 | 2023-12-26 | 2024-02-19 |
 | [モンスター \(feat\. yama\)](https://open.spotify.com/track/09gBx310Z7KnMI5LdB3fDl) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [モンスター \(feat\. yama\)](https://open.spotify.com/album/4EQUcmmhgMy6Aolbr4UdPL) | 4:23 | 2023-12-26 |  |
 | [ライカ](https://open.spotify.com/track/5uUB3W0R5M3dh3iXLPsiK7) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:25 | 2023-12-26 |  |
 | [ランニングアウト](https://open.spotify.com/track/2O69Nb7qeYxaJFtZNuTZsR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [ランニングアウト](https://open.spotify.com/album/0Dku1OpQxwAbV7SJFeSn0w) | 4:03 | 2023-12-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,476 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,510 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 | 50 | [Bhaag D.K\. Bose, Aandhi Aayi](https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Delhi Belly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi) | 4:01 |
 
-Snapshot ID: `MCw0MzE4ZWJhMDQ5NjRjNzUwOWRmZjgyNzM2NTYwNTIyODljODhkYWU3`
+Snapshot ID: `MCwyN2RkYjU5YmMxNDFkY2U5ZTY4NzQzMmQ5MDg0OTI3OTVmMzg2YWNj`

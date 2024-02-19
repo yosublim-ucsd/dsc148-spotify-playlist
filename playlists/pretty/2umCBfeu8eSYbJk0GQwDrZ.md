@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,201 likes - 60 songs - 3 hr 18 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,200 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

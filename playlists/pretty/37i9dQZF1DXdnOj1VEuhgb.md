@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Kleo x Segah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,331,492 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,628 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 39 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 |
 | 40 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
 | 41 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 |
-| 42 | [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 |
+| 42 | [Caney](https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/46DEhRYZNFp9nBmC6j9Dru) | 2:45 |
 | 43 | [AĞZI BOZUK](https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [AĞZI BOZUK](https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN) | 2:06 |
 | 44 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 | 45 | [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 | 50 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
 
-Snapshot ID: `MCxjNTMyNWQxZDgzY2JmNTdhODkwYmYxZWMxY2Y0NjlkMGVjNDcxMjk5`
+Snapshot ID: `MCwzOTVjOWZlNzk3YTc4OWU1MTJkYjIyYzY4YmUzZmViMzBmODZiZmE2`

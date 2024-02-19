@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-249 songs - 9 hr 36 min
+250 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [hand of god](https://open.spotify.com/track/5BkpjyhjGiptuzxI2n5L67) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:43 | 2022-04-15 | 2022-11-26 |
 | [Here There](https://open.spotify.com/track/1lXBO9MA1ZnyQSaMPS0Ipo) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/7pKuX4GEQp8hsy4Z702aKm) | 1:59 | 2022-04-15 | 2023-05-24 |
 | [Here There](https://open.spotify.com/track/2uKCULX5fviDo0PspMcxRs) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/2v8fJtNbT42y6huBvyyvIT) | 1:59 | 2022-04-15 | 2022-07-29 |
-| [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 | 2022-04-15 |  |
+| [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 | 2022-04-15 | 2024-02-19 |
 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 | 2022-04-15 |  |
 | [i dream of you every night](https://open.spotify.com/track/4Z5aQZdyQ8Fc3R7PE17T0e) | [lostlife.](https://open.spotify.com/artist/40OFkxP3djvsCg7Aj3d7sk) | [i dream of you every night](https://open.spotify.com/album/1aypmsUBuVvA4gG9mb40KL) | 2:27 | 2022-04-15 | 2022-07-28 |
 | [i love being with you](https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:36 | 2022-04-15 | 2023-09-14 |
@@ -211,6 +211,7 @@
 | [Sweets](https://open.spotify.com/track/1bsjAwp4XljpGAUzGhh65J) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Sweets](https://open.spotify.com/album/1P1jnONledr9c2VI0PmcdN) | 1:26 | 2022-04-15 | 2022-07-29 |
 | [Swing Set](https://open.spotify.com/track/4VpOk0wgPJiaWcSOVFfKGk) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Memory Bloom](https://open.spotify.com/album/4KLRpnXk7KYPOpHNuDqBXQ) | 2:24 | 2022-04-15 | 2022-07-22 |
 | [Swingtheory](https://open.spotify.com/track/0LWlhQwduzn48itDPT2yY8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 3:48 | 2022-04-15 | 2022-11-20 |
+| [Swingtheory](https://open.spotify.com/track/2w7VjB083rwx1oxDW3CbfO) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 3:48 | 2022-04-15 |  |
 | [Swishers](https://open.spotify.com/track/4IYHeSEVelitaI7mX116rb) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Runway](https://open.spotify.com/album/6ho9z5s9kqlWfh3R8QdY0s) | 1:56 | 2022-04-15 |  |
 | [Take You There](https://open.spotify.com/track/7pn7E6FglPjV1dDaknCaD8) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Setsuna](https://open.spotify.com/album/7MFvFVNg8VQAar6XjEUj8R) | 2:32 | 2022-04-15 |  |
 | [Take You There](https://open.spotify.com/track/6iSR5KCUp8HlVpSaZD3jPU) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Serenade](https://open.spotify.com/album/3Fb3TEKBzKvu9in5JXDC9X) | 2:32 | 2022-04-15 | 2022-07-29 |

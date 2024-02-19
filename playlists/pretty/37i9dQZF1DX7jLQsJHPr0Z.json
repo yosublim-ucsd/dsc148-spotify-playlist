@@ -1,12 +1,12 @@
 {
   "description": "The aux for every college party.",
-  "num_followers": 74632,
+  "num_followers": 74901,
   "original_name": "Frat Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzk0M2MzYWMwMDc2MTNlZThlNzExNTA2MTY2ODJkZTU2YWFmNzVj",
+  "snapshot_id": "MCw0NGJiZTIyMDQyMGFmMTdkYjIxMDJiMDQ1NDY5MzBhMWJiZjNhNzFi",
   "tracks": [
     {
       "added_at": "2023-11-09 20:11:48",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-09 20:11:48",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Wet Dreamz",
-      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
-    },
-    {
-      "added_at": "2023-11-09 20:11:48",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2023-11-09 20:11:48",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Wet Dreamz",
+      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-09 20:11:48",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2023-11-09 20:11:48",
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "added_at": "2023-11-09 20:11:48",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -515,22 +515,6 @@
       "duration_ms": 276920,
       "name": "Empire State Of Mind",
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
-    },
-    {
-      "added_at": "2023-11-09 20:11:48",
-      "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Work Out",
-      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-11-09 20:11:48",
       "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
+    },
+    {
+      "added_at": "2023-11-09 20:11:48",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2023-11-09 20:11:48",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -635,22 +619,18 @@
     {
       "added_at": "2023-11-09 20:11:48",
       "album": {
-        "name": "K.I.D.S. (Deluxe)",
-        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 195873,
-      "name": "The Spins",
-      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
+      "duration_ms": 258893,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -671,6 +651,26 @@
       "duration_ms": 231400,
       "name": "Low (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+    },
+    {
+      "added_at": "2023-11-09 20:11:48",
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -711,8 +711,8 @@
     {
       "added_at": "2023-11-09 20:11:48",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+        "name": "Luv Is Rage 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+      "duration_ms": 220586,
+      "name": "20 Min",
+      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -795,8 +795,8 @@
     {
       "added_at": "2023-11-09 20:11:48",
       "album": {
-        "name": "Luv Is Rage 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 220586,
-      "name": "20 Min",
-      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-11-09 20:11:48",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 138293,
-      "name": "Get Into It (Yuh)",
-      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
-    },
-    {
-      "added_at": "2023-11-09 20:11:48",
-      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+    },
+    {
+      "added_at": "2023-11-09 20:11:48",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 138293,
+      "name": "Get Into It (Yuh)",
+      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
     },
     {
       "added_at": "2023-11-09 20:11:48",
@@ -1827,22 +1827,18 @@
     {
       "added_at": "2023-11-09 20:11:48",
       "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+      "duration_ms": 237600,
+      "name": "Hotel Room Service",
+      "url": "https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths"
     }
   ],
   "unique_name": "Frat Party",

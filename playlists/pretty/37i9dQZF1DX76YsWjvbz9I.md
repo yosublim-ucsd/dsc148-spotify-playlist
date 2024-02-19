@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,550 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,698 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 52 | [The More I See You](https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:44 |
 | 53 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:02 |
 | 54 | [When I Fall In Love](https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae For Lovers](https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU) | 3:49 |
-| 55 | [Taking A Chance On Love](https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 2:24 |
+| 55 | [My Melancholy Baby](https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:39 |
 | 56 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 |
-| 57 | [My Melancholy Baby](https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:39 |
+| 57 | [Taking A Chance On Love](https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 2:24 |
 | 58 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 59 | [All The Way](https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Sinatra](https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5) | 3:29 |
 | 60 | [Them There Eyes](https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae Sings Lover Man And Other Billie Holiday Classics](https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A) | 2:45 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 72 | [But Beautiful](https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [More Of The Great](https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0) | 4:15 |
 | 73 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
 | 74 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
-| 75 | [Long Ago and Far Away](https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:49 |
-| 76 | [Night And Day](https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 |
+| 75 | [Night And Day](https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 |
+| 76 | [Long Ago and Far Away](https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:49 |
 | 77 | [One for My Baby](https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [Meet Me Around Midnight](https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO) | 3:49 |
 | 78 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:26 |
 | 79 | [That's All](https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Dedicated to You \- Remastered 2003](https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Sarah \- Dedicated to You](https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ) | 6:02 |
 | 100 | [Have You Met Miss Jones](https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [You Are Free](https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7) | 2:05 |
 
-Snapshot ID: `MCxiOGE2MDYxOTU1MjI4MTY4N2Q1MjA0MWJjYzA3NjJjMjM5ZTc0ZTNi`
+Snapshot ID: `MCxlZGJlOGY0MGMyNzYyNmMxNzhhMTVkNWJkNDg1M2Y5ZjVlYzhhZGJl`

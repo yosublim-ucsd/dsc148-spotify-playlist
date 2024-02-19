@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 172170,
+  "num_followers": 172264,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGQ1MTAzMWNlMzJkNGQxZTRlYmY4NTE3YjBhZDI1ZmQxZDAyNTc2",
+  "snapshot_id": "MCxhODE5ZjYwNDg5NWQyNjk3Mzk0YTE0YzM0MmRjMjQwMzAxODkzNzlm",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Una Aventura",
         "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 215169,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "El Envidioso",
-        "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 191996,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "A la Medida",
         "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 143010,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "El Envidioso",
+        "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 191996,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
       },
       "artists": [
         {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 128400,
-      "name": "Libro Abierto",
-      "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
+      "duration_ms": 128400,
+      "name": "Libro Abierto",
+      "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 147280,
-      "name": "Esta situaci\u00f3n",
-      "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
+      "duration_ms": 164973,
+      "name": "Despedida Con Mariachi",
+      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Esta situaci\u00f3n",
+      "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Nuestra Historia",
         "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 241386,
       "name": "El Caminante",
       "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Despedida Con Mariachi",
-      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "El Abuelo",
-        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "\u00c9xitos Rancheros",
         "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+        "name": "El Abuelo",
+        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 178213,
-      "name": "El Adolorido",
-      "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1639,6 +1623,22 @@
       "duration_ms": 160392,
       "name": "Que Chulos Ojos",
       "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "El Adolorido",
+      "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Casas De Madera (Remasterizado)",
         "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 188604,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Mi Piquito De Oro",
+        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Mi Piquito De Oro",
+      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "El Amo del Imperio",
         "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
       },
@@ -1915,38 +1931,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 183193,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Mi Piquito De Oro",
-        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Mi Piquito De Oro",
-      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "El Campesino y el Sol",
         "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 234653,
       "name": "El Campesino Y El Sol",
       "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "15 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 183193,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 186131,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
@@ -2011,6 +1995,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 186131,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "15 \u00c9xitos 15",
         "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
@@ -2023,6 +2023,22 @@
       "duration_ms": 208213,
       "name": "Vengo A Verte",
       "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Mi Acorde\u00f3n Y Yo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2c7AyQtEFhIASh47qXn5il"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Para Poder Llegar A Ti",
+      "url": "https://open.spotify.com/track/23KQy98EfuBMGlCyCKbIXK"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2055,22 +2071,6 @@
       "duration_ms": 199626,
       "name": "T\u00fa y las Nubes",
       "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Pu\u00f1o De Tierra",
-        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 114733,
-      "name": "Ases y Tercia de Reyes",
-      "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
@@ -2155,18 +2139,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Ojitos Verdes",
-        "url": "https://open.spotify.com/album/12NMZGKX68Z4Y0AcrbNiRi"
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
       "artists": [
         {
-          "name": "Dueto Las Palomas",
-          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 147080,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/14VZC2EXvzZxRKOIFmo35b"
+      "duration_ms": 114733,
+      "name": "Ases y Tercia de Reyes",
+      "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2183,6 +2167,22 @@
       "duration_ms": 162272,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/65DppNriLfxOOM5eCSaKm3"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Ojitos Verdes",
+        "url": "https://open.spotify.com/album/12NMZGKX68Z4Y0AcrbNiRi"
+      },
+      "artists": [
+        {
+          "name": "Dueto Las Palomas",
+          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/14VZC2EXvzZxRKOIFmo35b"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Tata Dios",
-      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "El Triunfador",
         "url": "https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 202071,
       "name": "Nom\u00e1s Por Tu Culpa",
       "url": "https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Tata Dios",
+      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
     },
     {
       "added_at": "2023-06-16 16:57:29",

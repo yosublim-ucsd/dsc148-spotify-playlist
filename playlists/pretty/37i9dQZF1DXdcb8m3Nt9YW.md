@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Gabito Ballesteros, Peso Pluma y Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,657 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,790 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 40 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 |
 | 41 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
 | 42 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
-| 43 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 |
+| 43 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/0js27m6Zy7oJDWfJ4f2hJ5) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/0xlaInOYofb0OkPiW9zDuJ) | 4:16 |
 | 44 | [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 |
 | 45 | [El Deportivo](https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Deportivo](https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg) | 3:12 |
 | 46 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 74 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 |
 | 75 | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \(En Vivo\)](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 |
 
-Snapshot ID: `MCw5M2UwZGIyMThmOGJlMDE5ZjQ2YmMyY2MyYWRmOTU0YTdlNTMxNDFj`
+Snapshot ID: `MCw5ZWYzNzM2OTVhZThlNGU2ZTEyOWJkOWI2MTRlMmJjOGEwYWJkZjYx`

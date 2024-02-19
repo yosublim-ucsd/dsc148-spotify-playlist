@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 1810433,
+  "num_followers": 1810490,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODk4YWViNDU1MWI1MTI2ZWExZWQ4M2JkYTQzNDEwZmRhYzdjMDA1",
+  "snapshot_id": "MCw4MzU5NTJkNWZjYmI0ZmUxODY5OGQ0ZjlmZjNiNTUyYTg1NjcyNzBh",
   "tracks": [
     {
       "added_at": "2024-02-16 19:49:25",
@@ -251,22 +251,18 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -307,18 +303,22 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
-    },
-    {
-      "added_at": "2024-02-16 19:49:25",
-      "album": {
         "name": "Pa'lla Voy",
         "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 246787,
       "name": "Pa'lla Voy",
       "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+    },
+    {
+      "added_at": "2024-02-16 19:49:25",
+      "album": {
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -847,6 +847,22 @@
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "added_at": "2024-02-16 19:49:25",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
-    },
-    {
-      "added_at": "2024-02-16 19:49:25",
-      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2024-02-16 19:49:25",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
-      },
-      "artists": [
-        {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
-    },
-    {
-      "added_at": "2024-02-16 19:49:25",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
-    },
-    {
-      "added_at": "2024-02-16 19:49:25",
-      "album": {
         "name": "A Mi Estilo...",
         "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 349600,
       "name": "Se\u00f1ora De Madrugada",
       "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
+    },
+    {
+      "added_at": "2024-02-16 19:49:25",
+      "album": {
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+      },
+      "artists": [
+        {
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
-        "name": "Adi\u00f3s Amor",
-        "url": "https://open.spotify.com/album/2xusGJapa7Sd0s05R4vF5R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 267891,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/2IKJ403d0JPRMbjYhSgdIm"
-    },
-    {
-      "added_at": "2024-02-16 19:49:25",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 169207,
       "name": "El Que Ama Sufre",
       "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": "2024-02-16 19:49:25",
+      "album": {
+        "name": "Adi\u00f3s Amor",
+        "url": "https://open.spotify.com/album/2xusGJapa7Sd0s05R4vF5R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 267891,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/2IKJ403d0JPRMbjYhSgdIm"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
-        "name": "Historia De Un Sonero",
-        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
-    },
-    {
-      "added_at": "2024-02-16 19:49:25",
-      "album": {
         "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
         "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 153608,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+    },
+    {
+      "added_at": "2024-02-16 19:49:25",
+      "album": {
+        "name": "Historia De Un Sonero",
+        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
+        "name": "Busco Un Pueblo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Ella Lo Que Quiere Es Salsa (feat. Voltio & Jowell y Randy)",
+      "url": "https://open.spotify.com/track/6l9iRzgakAc5U82eVbt8ow"
+    },
+    {
+      "added_at": "2024-02-16 19:49:25",
+      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -1523,30 +1547,6 @@
       "duration_ms": 249160,
       "name": "Viene Y Se Va",
       "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
-    },
-    {
-      "added_at": "2024-02-16 19:49:25",
-      "album": {
-        "name": "Busco Un Pueblo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Ella Lo Que Quiere Es Salsa (feat. Voltio & Jowell y Randy)",
-      "url": "https://open.spotify.com/track/6l9iRzgakAc5U82eVbt8ow"
     },
     {
       "added_at": "2024-02-16 19:49:25",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-02-16 19:49:25",
       "album": {
-        "name": "Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Coraz\u00f3n Roto",
-      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
-    },
-    {
-      "added_at": "2024-02-16 19:49:25",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 384800,
       "name": "Tu No Sabes Querer",
       "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
+    },
+    {
+      "added_at": "2024-02-16 19:49:25",
+      "album": {
+        "name": "Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Coraz\u00f3n Roto",
+      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
     },
     {
       "added_at": "2024-02-16 19:49:25",

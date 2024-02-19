@@ -4,10 +4,11 @@
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=ufvviwyFRdmPwgIEioNVWA>Neon Adejo</a>
 
-215 songs - 17 hr 5 min
+216 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 | 2023-12-29 |  |
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2023-04-07 | 2024-02-17 |
 | [Afayo](https://open.spotify.com/track/7a1hq80YixqQiDqCKC2uHc) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [The Heirloom](https://open.spotify.com/album/1FunCx5cBfAALXrEKOl4B7) | 3:29 | 2023-12-05 | 2023-12-13 |
 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 | 2023-10-06 | 2023-12-30 |
@@ -120,7 +121,7 @@
 | [Kumama Papa \- Tiktok refix version](https://open.spotify.com/track/2Pu5TsQ90hDVUZmuNDnzJc) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Kumama Papa \(Tiktok refix version\)](https://open.spotify.com/album/2LoujkHDhoCOfHUrP1Hq2x) | 2:04 | 2023-12-05 | 2023-12-13 |
 | [Let the Sparks Fly \- 2023](https://open.spotify.com/track/3sNXJt9GqDcMlmbaiZ4lAG) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Let the Sparks Fly](https://open.spotify.com/album/1SgHuXrG74oPv7PGm6inM3) | 3:50 | 2023-12-29 | 2024-01-08 |
 | [Life With You](https://open.spotify.com/track/1bNCQXUm3PldHEsM6Aiu3p) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Life With You](https://open.spotify.com/album/40N9JGqPnf5QziBqLETT2z) | 2:46 | 2023-07-07 | 2023-07-14 |
-| [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-12-29 |  |
+| [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-12-29 | 2024-02-19 |
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2023-04-07 |  |
 | [Marvelous God](https://open.spotify.com/track/4pgOw2cCRtS0BWgn0lMdOZ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 3:53 | 2023-12-05 | 2023-12-13 |
 | [Maximum Enjoyment](https://open.spotify.com/track/3hZ7ENafBwo41O5D2mbb3c) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Maximum Enjoyment](https://open.spotify.com/album/0TsOIKXvZHeIGiUzq4NKpC) | 4:18 | 2023-12-05 | 2023-12-13 |

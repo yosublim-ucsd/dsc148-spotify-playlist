@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,275 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,451 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 25 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
 | 26 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 27 | [Low](https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq) | 4:34 |
-| 28 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 |
-| 29 | [August 10](https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:25 |
+| 28 | [August 10](https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:25 |
+| 29 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 |
 | 30 | [ready now](https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [ready now](https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3) | 2:56 |
 | 31 | [Permanent Way](https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p) | 4:12 |
 | 32 | [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 41 | [Static](https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M) | 3:55 |
 | 42 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
 | 43 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
-| 44 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 |
-| 45 | [Mia & Keira \(Days To Come\)](https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [New Estate](https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7) | 4:18 |
+| 44 | [Mia & Keira \(Days To Come\)](https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [New Estate](https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7) | 4:18 |
+| 45 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 |
 | 46 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
 | 47 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Ode to Joy](https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry) | 3:33 |
 | 48 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
@@ -64,17 +64,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 54 | [Belo Horizonte](https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 3:46 |
 | 55 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 56 | [Rio Grande](https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Rio Grande](https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3) | 4:31 |
-| 57 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
+| 57 | [don’t get caught up](https://open.spotify.com/track/2k8gVOolKZ7FIHNkoVRVcu) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 3:38 |
 | 58 | [Ocean](https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:18 |
-| 59 | [don’t get caught up](https://open.spotify.com/track/2k8gVOolKZ7FIHNkoVRVcu) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 3:38 |
+| 59 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
 | 60 | [Californian Soil](https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 3:41 |
 | 61 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
 | 62 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
 | 63 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 |
 | 64 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
 | 65 | [anew](https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [anew](https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K) | 3:35 |
-| 66 | [Spark](https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk) | 4:24 |
-| 67 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
+| 66 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
+| 67 | [Spark](https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk) | 4:24 |
 | 68 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
 | 69 | [Old Graffiti](https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:28 |
 | 70 | [Maybe October](https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Maybe October](https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX) | 2:44 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 92 | [Black & Thunder](https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 5:01 |
 | 93 | [Le temps se fuit](https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Le temps se fuit](https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt) | 3:30 |
 | 94 | [This Here Island](https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [This Here Island](https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ) | 4:03 |
-| 95 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 |
-| 96 | [Stuck](https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Stuck](https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ) | 3:39 |
+| 95 | [Stuck](https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Stuck](https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ) | 3:39 |
+| 96 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 |
 | 97 | [Isn't Ever A Day](https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Future Perfect, Present Tense](https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS) | 4:44 |
 | 98 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
 | 99 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
 | 100 | [Man of the Universe](https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:09 |
 
-Snapshot ID: `MCxkNDBhMTFhMzlmZmEwZjA5MzQ2N2IwZGFjOTkzYzUzNWFjMjI2NDY0`
+Snapshot ID: `MCw3MDE0MWJlNjg3NDRmMjVjOTZlYTFkNjcyYWVjZGNmMDIyODZjNWQ2`

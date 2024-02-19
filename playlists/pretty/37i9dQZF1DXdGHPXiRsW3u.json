@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 536619,
+  "num_followers": 536889,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2E0NDllZmZkMDc5OWM4MTc4MTUzMzk2YmM0N2IwYzE4NDRhMTY1",
+  "snapshot_id": "MCwyN2JmNjEyZjI1ODE5NzliYjBhNDZjOGIwZTQ1MTg1ZGJmOWQ3MGVi",
   "tracks": [
     {
       "added_at": "2024-02-12 15:05:39",
@@ -79,18 +79,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
       "artists": [
         {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 267960,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -111,18 +111,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         }
       ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "The Reason (20th Anniversary)",
         "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 261426,
-      "name": "Breakeven",
-      "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+      "duration_ms": 261426,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "In My Place",
-      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+      "duration_ms": 226680,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "No One (Remixes)",
+        "url": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 254523,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "No One (Remixes)",
-        "url": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 254523,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+      "duration_ms": 256825,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 230093,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -915,22 +915,6 @@
       "duration_ms": 210506,
       "name": "Chasing Pavements",
       "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -971,6 +955,22 @@
       "duration_ms": 184400,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 238173,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "The Breakthrough",
+        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 262693,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "The Breakthrough",
-        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/1JZkTZEXkLvkR2oQ9PSKuO"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Coyote Ugly",
         "url": "https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 215506,
       "name": "Can't Fight The Moonlight",
       "url": "https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/1JZkTZEXkLvkR2oQ9PSKuO"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "Northern Star",
         "url": "https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 294200,
       "name": "Never Be The Same Again",
       "url": "https://open.spotify.com/track/79EAVfOpzgfHx3IE2BVFQv"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
     }
   ],
   "unique_name": "Soft 00s",

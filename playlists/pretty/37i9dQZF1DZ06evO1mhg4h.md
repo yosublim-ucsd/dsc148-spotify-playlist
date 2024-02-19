@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 > This is 結束バンド\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,235 likes - 16 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,256 likes - 16 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 9 | [光の中へ\-instrumental\-](https://open.spotify.com/track/1t8KHcCAzyvXrCc4AIuZjN) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 10 | [ギターと孤独と蒼い惑星 \-恒星\- Live ver.](https://open.spotify.com/track/5fwkSQLLk78Jx8neIz6iDP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:01 |
 | 11 | [忘れてやらない](https://open.spotify.com/track/5ISHFvPLUqKz2JfDRtwnb2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:43 |
-| 12 | [カラカラ \-恒星\- Live ver.](https://open.spotify.com/track/0BlWCoGxEBkMjq61eVWhOD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:34 |
+| 12 | [Distortion!! \-恒星\- Live ver.](https://open.spotify.com/track/3dcIyoeDzG5ROztf8ErTP3) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 3:37 |
 | 13 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 |
-| 14 | [Distortion!! \-恒星\- Live ver.](https://open.spotify.com/track/3dcIyoeDzG5ROztf8ErTP3) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 3:37 |
+| 14 | [カラカラ \-恒星\- Live ver.](https://open.spotify.com/track/0BlWCoGxEBkMjq61eVWhOD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:34 |
 | 15 | [Distortion!!](https://open.spotify.com/track/3l8rIBKJUDQFqQfKvcpQ1w) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |
 | 16 | [忘れてやらない \-恒星\- Live ver.](https://open.spotify.com/track/5kSQT3kthSFcU7ewqYN43D) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:43 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBiYzliOWIyYjgxMzNjODJiYWEwMTcwZWNiMzhiM2VkMg==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA4OWZlM2JhNGRjMjQzZTE1YWY3NWIyN2U1YTEzYTQ5Mg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,987 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,049 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [The Feeling of Love, Pt\. 1](https://open.spotify.com/track/41ODRLJntkgtZj4HfRyevz) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liaisons Dangereuses](https://open.spotify.com/album/5rzEgTKWMEBrVdkgFGfJMb) | 7:15 |
 | 100 | [Good Morning Heartache \- From "Lady Sings The Blues" Soundtrack](https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Motown Anthology](https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc) | 2:22 |
 
-Snapshot ID: `MCw0ZDQwZDg4MGM1YjRiYTc0NTg2OGYwNmJjODg0MmJiNDE5M2IxMzE4`
+Snapshot ID: `MCw2YWM2NzAwOGZiNTNiYmE1MjMyNWUzZmUyZGFhNWYwZmI0YmFlMzU0`

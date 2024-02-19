@@ -4,7 +4,7 @@
 
 > Unwind and let the afternoon unfold.
 
-199 songs - 12 hr 38 min
+200 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2021-09-02 | 2023-04-30 |
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:13 | 2023-04-07 |  |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-09-02 | 2022-07-29 |
-| [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 | 2021-09-02 |  |
+| [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 | 2021-09-02 | 2024-02-19 |
 | [Belly of the Beast](https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:11 | 2021-09-02 | 2023-04-14 |
 | [Blind in the Fray](https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Blind in the Fray](https://open.spotify.com/album/0QuFRJgVH31Dw9lG3kOvv0) | 3:32 | 2021-09-02 | 2022-07-28 |
 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2021-09-02 |  |
@@ -185,6 +185,7 @@
 | [Two of Us On the Run](https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez) | 4:35 | 2023-05-05 | 2024-02-14 |
 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 | 2021-09-02 | 2022-07-29 |
 | [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 | 2021-09-02 | 2022-02-09 |
+| [Undertow](https://open.spotify.com/track/26FSlb8mzIyJbU5gH30imx) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf) | 3:24 | 2023-06-30 |  |
 | [Unveiled](https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos) | [Loah](https://open.spotify.com/artist/3smkUIA0gfguE46oluw954) | [This Heart](https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF) | 4:12 | 2021-09-02 |  |
 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2021-09-02 | 2024-01-19 |
 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 | 2021-09-02 | 2022-07-29 |

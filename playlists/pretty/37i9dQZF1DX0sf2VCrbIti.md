@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos\. ¡Felices fiestas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,063 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,061 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 27 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 28 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 29 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 |
-| 30 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 31 | [Me Enamoro de Ella](https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 4:17 |
+| 30 | [Me Enamoro de Ella](https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 4:17 |
+| 31 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 32 | [Apiádate de Mi](https://open.spotify.com/track/3SHvRyQDsmumq48SF7jtVk) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle \(3 CD Box Set\)](https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL) | 5:04 |
 | 33 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 | 34 | [Te Compro Tu Novia](https://open.spotify.com/track/5DrdMZSiRKOVQszXln9VMO) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/5iHMlPownkV9K9VBR2GCoo) | 4:27 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 57 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
 | 58 | [Cielito Lindo](https://open.spotify.com/track/17UQaysFON93fn278DeWqg) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Total](https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD) | 3:41 |
 | 59 | [5 Pa´ Las 12](https://open.spotify.com/track/5FmBAWbO9P6LL7BGzEhPGi) | [Rondalla Y Coro Infantil Suarez](https://open.spotify.com/artist/49T57226vsQSeHWDLAdC6q) | [Ring, Ring Villancicos Navideños Con Rondalla Y Coro Infantil Suarez](https://open.spotify.com/album/3F1y5I7WJzIlNpE6fr6Q19) | 3:03 |
-| 60 | [El Bote](https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 2:51 |
-| 61 | [Buscandote](https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 4:40 |
+| 60 | [Buscandote](https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 4:40 |
+| 61 | [El Bote](https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 2:51 |
 | 62 | [Arranca en Fá](https://open.spotify.com/track/4IQeMjVi0BzCeTyP280ZGx) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 3:36 |
 | 63 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 |
 | 64 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 74 | [Venga un Abrazo](https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:14 |
 | 75 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
 
-Snapshot ID: `MCwxZGRjNjI0NjhmZGE2MGI5NTAxZDQ4YzFkN2MzMjRkMmI1NzU3MDY3`
+Snapshot ID: `MCwzNTQ4M2VkNGU4OGFkNmNiNTRiMzQwYTc3NTcyOTFiNDJmOTc5NGFh`

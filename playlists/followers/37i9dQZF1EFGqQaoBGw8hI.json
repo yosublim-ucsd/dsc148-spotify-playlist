@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 2623,
+  "2024-02-19": 2625,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq\">Elton John</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Elton John",
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 185066,
       "name": "Chiquita - John John - Nikita",
       "url": "https://open.spotify.com/track/5rRtYctTs18b1SihtgTqgC"
@@ -2059,6 +2059,24 @@
       "duration_ms": 235440,
       "name": "Crocodile Rock",
       "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195848,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak"
     },
     {
       "album": {
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 315026,
       "name": "Don't Let the Sun Go Down on Me (Live)",
       "url": "https://open.spotify.com/track/7AXstxrwG7o0mcbOdo0fiy"
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 347666,
       "name": "Don't Let The Sun Go Down On Me - Live",
       "url": "https://open.spotify.com/track/6Zkulfbv0ebe7tukkftvd1"
@@ -8747,7 +8765,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
@@ -8769,7 +8787,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 210066,
       "name": "Sorry Seems To Be The Hardest Word - Radio Edit",
       "url": "https://open.spotify.com/track/3fPHdvqv44BY06urgU1KYn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,387 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,438 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 69 | [No Diggity](https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M) | 3:41 |
 | 70 | [We Come Running](https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Wake Up](https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW) | 4:07 |
 | 71 | [This Head I Hold](https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:55 |
-| 72 | [Taro](https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 5:14 |
-| 73 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
+| 72 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
+| 73 | [Taro](https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 5:14 |
 | 74 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
-| 75 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
-| 76 | [I Found You](https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:59 |
+| 75 | [I Found You](https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:59 |
+| 76 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 77 | [Sleep Alone](https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv) | 3:56 |
 | 78 | [Chained](https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:47 |
 | 79 | [From Nowhere](https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 3:16 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 97 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
 | 98 | [lofticries](https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:59 |
 | 99 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
-| 100 | [The House That Heaven Built](https://open.spotify.com/track/2ShOBhvAAglIFJ7Be8aJK2) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:49 |
+| 100 | [Insane feat\. Moon Holiday](https://open.spotify.com/track/7gqKkrzG5OV1CLViOaXSay) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Moon Holiday](https://open.spotify.com/artist/5HAqdulyJZF8EPKIvPMRTy) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 3:33 |
 
-Snapshot ID: `MCw4OTdlMTQ1ODY5YmRjZTU4ZWRiNzQ3MDk3NDhjYzYyODhjNjY3OTg2`
+Snapshot ID: `MCwxYzVhYWRmOWFhODI1ZjcxMjk0ZWYyNWQxOGQ2YzkxZjRmNDNlZDNj`

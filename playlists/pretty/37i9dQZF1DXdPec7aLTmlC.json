@@ -1,12 +1,12 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6182783,
+  "num_followers": 6183045,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTQwNDI5YjlkMmVkOTMzZmY4Yjk1OWQ2YjRjNzA1NzEwZGZlOTdj",
+  "snapshot_id": "MCw4ZWU4ODY0NTZjMGU4N2EzNTBjNWM4MGMzMDM5OTAyNDc0ZjM1OGZi",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 171360,
       "name": "You Need To Calm Down",
       "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 261153,
       "name": "Castle on the Hill",
       "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 170640,
-      "name": "I Forgot That You Existed",
-      "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1199,18 +1199,38 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "I Forgot That You Existed",
+      "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1243,26 +1263,6 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "AOK",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 208106,
       "name": "If It's Lovin' That You Want",
       "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "So Am I",
-      "url": "https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Jerusalema",
         "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 342612,
       "name": "Jerusalema (feat. Nomcebo Zikode)",
       "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "So Am I",
+      "url": "https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG"
     }
   ],
   "unique_name": "Happy Hits!",

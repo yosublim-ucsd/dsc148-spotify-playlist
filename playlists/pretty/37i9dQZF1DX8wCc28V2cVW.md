@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,053 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,086 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 60 | [Full Speed Ahead](https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:54 |
 | 61 | [FFVII REMAKE: ヘリガンナー \(The Valkyrie\)](https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj) | [Keiki Kobayashi](https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 8:50 |
 | 62 | [Duty and Friendship](https://open.spotify.com/track/3YDnSPfWMHpA39rUDx0eDw) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 1:26 |
-| 63 | [FFVII REMAKE: ミッドナイトスパイラル \(Midnight Spiral\)](https://open.spotify.com/track/7msxPsfAJSjUWkSi1q3qXS) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:59 |
+| 63 | [FFVII REMAKE: STAND UP](https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:09 |
 | 64 | [FFVII REMAKE: 魔晄中毒 \(Mako Poisoning\)](https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU) | [中村佳紀](https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:27 |
 | 65 | [This Is Your Story](https://open.spotify.com/track/0rxs6IUm0NeyvIDn9vhPnZ) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:20 |
 | 66 | [Plains of Eternity](https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 74 | [FFVII REMAKE: 七六分室陽動作戦 \(S7\-6 Annex Diversion\)](https://open.spotify.com/track/4emMYOnNkxIKekiGmmcOuT) | [中村佳紀](https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 6:40 |
 | 75 | [FFVII REMAKE: グロウガイスト \(Ghoul\)](https://open.spotify.com/track/5cV4tTVdcgnqfQc19m612K) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 7:22 |
 
-Snapshot ID: `MCw1OTk3NWNkZTdlM2FiMTVmZmQwYmY4MDBkMWYyY2RhZTI0YmQ0YmUw`
+Snapshot ID: `MCxhZTNjNDBjYjFkZTU1ZmNmOWMwMTM3MzM4NjE4YjZhMWFkMDI5MzRh`

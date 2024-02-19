@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-730 songs - 1 day 19 hr 38 min
+731 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [Just for Now](https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:00 | 2021-12-17 | 2022-07-25 |
 | [Just Wanna Be Your Friend](https://open.spotify.com/track/1pvEF9QEuLwjXlcnYYml54) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Wanna Be Your Friend](https://open.spotify.com/album/37yp4T6Gtrf4JzTcwNbKnA) | 2:27 | 2022-01-24 | 2022-04-17 |
 | [Keep On Dancing](https://open.spotify.com/track/5clIpJtJdJbV1WMioS5CXS) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/2w2gRZhzkG0oAO54M8Pcat) | 3:15 | 2021-12-17 | 2022-05-18 |
-| [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-01-24 |  |
+| [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-01-24 | 2024-02-19 |
 | [Killer Queen \(What I Need\)](https://open.spotify.com/track/02RJ5dskUzptI7vFRMKw3J) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Killer Queen \(What I Need\)](https://open.spotify.com/album/1tHCJdeRE4oRYKd93t1XCy) | 3:18 | 2022-04-08 | 2022-04-20 |
 | [King Street](https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:38 | 2022-07-29 |  |
 | [King Street](https://open.spotify.com/track/6jEhp06H3nxblZIyBy7ueE) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [King Street](https://open.spotify.com/album/1EzN2Ajl5JdJ2Pwgz8BxKF) | 3:38 | 2021-12-17 | 2022-07-29 |
@@ -378,6 +378,7 @@
 | [Let's Be Still](https://open.spotify.com/track/3QmzlL0tTtDgD1Hwfct68D) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:28 | 2022-07-22 |  |
 | [Let's Be Still](https://open.spotify.com/track/5IJnj6Um7jVuRPT4WGj1z6) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 4:28 | 2022-01-24 | 2022-04-13 |
 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 | 2022-07-22 | 2024-02-03 |
+| [letting go](https://open.spotify.com/track/3LN3dLb9gUpanpriaqagMU) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 4:26 | 2023-10-06 |  |
 | [letting go](https://open.spotify.com/track/5JKt1juGsS1rFnxAVEalys) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [letting go](https://open.spotify.com/album/0Itz1TtlN6ayjXgiwzCpQ6) | 4:28 | 2021-12-17 | 2022-07-29 |
 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2023-03-28 |  |
 | [Lights of Los Angeles](https://open.spotify.com/track/39bPID980Tjn3xmlAGLp6d) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Lights of Los Angeles](https://open.spotify.com/album/0Hqei8dyLO2nGMXul7mxZI) | 3:42 | 2022-01-24 | 2022-04-19 |

@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,065 songs - 3 day 0 hr 39 min
+1,066 songs - 3 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Ham Hocks and Cabbage](https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:24 | 2022-04-14 | 2022-09-23 |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-04-14 |  |
 | [Hay Square Serenade](https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Hay Square Serenade](https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr) | 3:48 | 2024-02-02 |  |
+| [Hazel](https://open.spotify.com/track/31xTgQQsM0etDnwb6ziLbW) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [Hazel](https://open.spotify.com/album/0kTzgg4yQiJKfDymYvvqh9) | 3:51 | 2024-02-16 |  |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2023-01-19 |  |
 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 | 2023-03-29 |  |
 | [Heartstring](https://open.spotify.com/track/4S6nFmL0sTrPWqbMet7Q3e) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Heartstring](https://open.spotify.com/album/7vEcdZNrkIzxS9uGpBQfLM) | 2:48 | 2023-09-22 |  |
@@ -754,7 +755,7 @@
 | [Reverie](https://open.spotify.com/track/39g5kkVtR6sTOrGXYWZ20C) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Reverie](https://open.spotify.com/album/5qYeX1wAGm8jIA9EUa2LUQ) | 4:00 | 2023-03-09 |  |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-11 |  |
-| [Road to Hana](https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Road to Hana](https://open.spotify.com/album/2zCpyIiQxlJy8KerSpUS7H) | 2:50 | 2023-08-31 |  |
+| [Road to Hana](https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Road to Hana](https://open.spotify.com/album/2zCpyIiQxlJy8KerSpUS7H) | 2:50 | 2023-08-31 | 2024-02-19 |
 | [Romance / Hommage à Milhaud](https://open.spotify.com/track/3lw4OExcjj4kba4uU9gF4P) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:45 | 2022-04-14 |  |
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-20 |  |
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2022-04-14 | 2022-05-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,321 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,368 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 72 | [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 |
 | 73 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 74 | [Get Up](https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Dim The Lights](https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU) | 4:05 |
-| 75 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
-| 76 | [Believer](https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2rd6vOxRnBTXJP1qizJs7C) | 2:49 |
+| 75 | [Believer](https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2rd6vOxRnBTXJP1qizJs7C) | 2:49 |
+| 76 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
 | 77 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 |
 | 78 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
 | 79 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
 | 80 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
 | 81 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 |
 | 82 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
-| 83 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
-| 84 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 |
+| 83 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 |
+| 84 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
 | 85 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
 | 86 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
 | 87 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 97 | [愛するPOW](https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:20 |
 | 98 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 |
 | 99 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
-| 100 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 |
+| 100 | [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 |
 
-Snapshot ID: `MCw4YmYzNDk1ZTI0NjJhMjBjZDM3MDIyNTVlYjc1YjQ3MDAyZTJlNGFk`
+Snapshot ID: `MCw2NTM2NDdlMzljMTUyNWVmOWE3NDQxNjk1YmQ1ZDFkZGE2YWYzOWVi`

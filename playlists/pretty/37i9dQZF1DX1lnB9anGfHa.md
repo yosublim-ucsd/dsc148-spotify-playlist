@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,566 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,597 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 20 | [Ki moun ou ye](https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE) | 5:20 |
 | 21 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 |
 | 22 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
-| 23 | [Loba](https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Loba](https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J) | 3:41 |
-| 24 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
+| 23 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
+| 24 | [Loba](https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Loba](https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J) | 3:41 |
 | 25 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 |
 | 26 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
 | 27 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 31 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
 | 32 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
 | 33 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
-| 34 | [Strange Delights](https://open.spotify.com/track/1F2VWdI3nGfJHvohV1EzRM) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:40 |
-| 35 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
+| 34 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
+| 35 | [Strange Delights](https://open.spotify.com/track/1F2VWdI3nGfJHvohV1EzRM) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:40 |
 | 36 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 |
 | 37 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
 | 38 | [r\(EMOTE\)](https://open.spotify.com/track/0j4oE7wt2ejFjqNKRcc2rW) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 3:41 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 41 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
 | 42 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
 | 43 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |
-| 44 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
-| 45 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
+| 44 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
+| 45 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
 | 46 | [Who Gives a Thought](https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:59 |
 | 47 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 |
 | 48 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 69 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 |
 | 70 | [Dois Litorais](https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34) | [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP) | [Dois Litorais](https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw) | 8:40 |
 | 71 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 |
-| 72 | [An Interior of Strange Beauty](https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX) | 6:34 |
-| 73 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 |
+| 72 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 |
+| 73 | [An Interior of Strange Beauty](https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX) | 6:34 |
 | 74 | [Glossy Bingo Stain](https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Eulo Cramps](https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO) | 6:02 |
 | 75 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
 
-Snapshot ID: `MCxhNDcyNDVjYjRjYmM3NzUyMzUyMmJmMzVmZDlhOWM2NDA4OWJkM2Q1`
+Snapshot ID: `MCxmMWY4Y2RiMmRkM2ZlZmE1ZDFkODcwOTBmZTQwNzI5ZjY3YjRlOWNk`

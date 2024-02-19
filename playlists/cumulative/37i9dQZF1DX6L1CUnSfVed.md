@@ -4,7 +4,7 @@
 
 > Les plus grands standards du rock français\. Photo : Indochine
 
-51 songs - 3 hr 13 min
+52 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [L'aventurier](https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'aventurier](https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6) | 3:51 | 2023-01-17 |  |
 | [La fille du coupeur de joints \- Remastered](https://open.spotify.com/track/6yvqfPRAJip5vwtfSMl2Xg) | [Hubert\-Félix Thiéfaine](https://open.spotify.com/artist/5uD9sDsgIlcyH0e6Hkxbat) | [...tout corps vivant branché sur le secteur étant appelé à s'émouvoir..\. \(Remastered\)](https://open.spotify.com/album/6DSUNeVYtnZVMYtV2MPNP3) | 3:55 | 2023-01-17 |  |
 | [La Fille Du Père Noël](https://open.spotify.com/track/0TQY0BnDjUBW9NddZpH3wo) | [Bijou](https://open.spotify.com/artist/3cNIn4o65yBImKGe9lVuRr) | [Pic A Glace](https://open.spotify.com/album/5dPE9TQcvO6oWHy6rqeaQh) | 2:40 | 2023-01-17 |  |
-| [La musique que j'aime](https://open.spotify.com/track/7gFHonbyKFAx1SLLIAtoyX) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie 2](https://open.spotify.com/album/35GMsE0Ym30iqR8epZnoUJ) | 5:06 | 2023-01-17 |  |
+| [La musique que j'aime](https://open.spotify.com/track/7gFHonbyKFAx1SLLIAtoyX) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie 2](https://open.spotify.com/album/35GMsE0Ym30iqR8epZnoUJ) | 5:06 | 2023-01-17 | 2024-02-19 |
+| [La musique que j'aime](https://open.spotify.com/track/7rRCTsiLg8WfUSqCjW74H4) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Insolitudes](https://open.spotify.com/album/4sCWDuAMQyCANxrHemeldP) | 5:07 | 2023-01-17 |  |
 | [Lambé An Dro](https://open.spotify.com/track/4TQxGBi80EZbm6COxwIcGR) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:54 | 2023-01-17 |  |
 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 | 2023-01-17 |  |
 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 | 2023-01-17 |  |

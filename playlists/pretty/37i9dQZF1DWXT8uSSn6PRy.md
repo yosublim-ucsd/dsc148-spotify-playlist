@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXT8uSSn6PRy.md) - [plain]
 
 > The hottest tracks in the North\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,261 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,411 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXT8uSSn6PRy.md) - [plain]
 | 45 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 46 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 47 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
-| 48 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
+| 48 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
 | 49 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 50 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 51 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXT8uSSn6PRy.md) - [plain]
 | 74 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 75 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 |
 
-Snapshot ID: `MCw0YmM1OGMxZmY1NjZlNDE3YzJlY2M0MDc0YmE1NDI0Y2IyYWJjZjJi`
+Snapshot ID: `MCwzZmE2ZjdlZTA4OTE3ZjRmNTIwZTA0YmI1MWRkYTFiOWMzNjJkMWE2`

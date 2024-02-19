@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Banda MS en portada.",
-  "num_followers": 637572,
+  "num_followers": 637915,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjc3MTQxZDRkM2I0Yjc1ZTk0NjY5Y2M1NmE3MjNjMTFlZjQ1ZDUx",
+  "snapshot_id": "MCw0ODI4OGU0MzZlNGRjNzY2MGZiMzVkYjA2NTM0MjIxNzZjZGNmZjcz",
   "tracks": [
     {
       "added_at": "2024-02-16 06:16:31",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-02-16 06:16:31",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 224835,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2024-02-16 06:16:31",
-      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
+    },
+    {
+      "added_at": "2024-02-16 06:16:31",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 224835,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
       "added_at": "2024-02-16 06:16:31",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-02-16 06:16:31",
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": "2024-02-16 06:16:31",
+      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 162187,
       "name": "ALVRGZO",
       "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
-    },
-    {
-      "added_at": "2024-02-16 06:16:31",
-      "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2024-02-16 06:16:31",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2024-02-16 06:16:31",
       "album": {
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 163057,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
+    },
+    {
+      "added_at": "2024-02-16 06:16:31",
+      "album": {
         "name": "Brattiputy",
         "url": "https://open.spotify.com/album/2jmAx9Pl6bp05KnJvBNV1f"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 230816,
       "name": "Brattiputy",
       "url": "https://open.spotify.com/track/4NRvhgXpBfLCPjdDbZHjp7"
-    },
-    {
-      "added_at": "2024-02-16 06:16:31",
-      "album": {
-        "name": "BLING BLING",
-        "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 163057,
-      "name": "BLING BLING",
-      "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
     },
     {
       "added_at": "2024-02-16 06:16:31",

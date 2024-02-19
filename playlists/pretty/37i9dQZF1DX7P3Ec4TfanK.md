@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > Inizia la giornata con la tua dose di caffè e buonumore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,843 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,831 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 48 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 49 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
 | 50 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
-| 51 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
-| 52 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 |
+| 51 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 |
+| 52 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 53 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
 | 54 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 55 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 77 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 |
 | 78 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 |
 | 79 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
-| 80 | [Un Briciolo Di Allegria \(con MINA\)](https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:27 |
+| 80 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 |
 
-Snapshot ID: `MCwxZmY5ODcwNGExMzM3MjE3OTRmNjIzZDIyMGMyOGQ0MDY3OGU0YTNi`
+Snapshot ID: `MCw0ZGNjNDdlMmI1ZDMyZmRiZTQ4NmQ0ZTc0NjljNDY4NTZiMWYyZGYz`

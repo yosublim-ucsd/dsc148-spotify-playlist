@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176002,
+  "num_followers": 176016,
   "original_name": "San Valentino 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTEyZDkzMGNlZDI0OWI1NjdlZTA4ZDE5YTNjZjhiYzc5YTdjZjgy",
+  "snapshot_id": "MCxhNWNlYjNlMjk4OGRmMWNhNzFhZWE1YjJlZDUwN2UzMmJmYzUwOWUx",
   "tracks": [
     {
       "added_at": "2024-02-13 14:01:38",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Mi Fai Stare Bene",
-        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
-      },
-      "artists": [
-        {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Iris (Tra Le Tue Poesie)",
-      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Splende",
         "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 211093,
       "name": "Una finestra tra le stelle",
       "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Mi Fai Stare Bene",
+        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
+      },
+      "artists": [
+        {
+          "name": "Biagio Antonacci",
+          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Iris (Tra Le Tue Poesie)",
+      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -555,38 +555,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 193624,
-      "name": "Faccio un casino",
-      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
       },
@@ -607,6 +575,38 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 193624,
+      "name": "Faccio un casino",
+      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 226160,
       "name": "Cascare nei tuoi occhi",
       "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -655,18 +639,34 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Unica",
-        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
       "artists": [
         {
-          "name": "Antonello Venditti",
-          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
         }
       ],
-      "duration_ms": 234600,
-      "name": "Unica",
-      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "111 Centoundici",
+        "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Sere nere",
+      "url": "https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "111 Centoundici",
-        "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
         }
       ],
-      "duration_ms": 264986,
-      "name": "Sere nere",
-      "url": "https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR"
+      "duration_ms": 234600,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -731,6 +731,22 @@
       "duration_ms": 243333,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Nessuno \u00e8 solo",
+        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Ti scatter\u00f2 una foto",
+      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -771,18 +787,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+        "name": "Soundtrack '96 - 06 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
       "artists": [
         {
           "name": "Elisa",
           "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        },
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
         }
       ],
-      "duration_ms": 239693,
-      "name": "Anche Fragile",
-      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+      "duration_ms": 266746,
+      "name": "Gli Ostacoli Del Cuore",
+      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -843,18 +863,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Nessuno \u00e8 solo",
-        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
+        "name": "Perdere l'amore",
+        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
         }
       ],
-      "duration_ms": 272946,
-      "name": "Ti scatter\u00f2 una foto",
-      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
+      "duration_ms": 251533,
+      "name": "Perdere l'amore",
+      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -875,54 +895,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Perdere l'amore",
-        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Perdere l'amore",
-      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Mentre Tutto Scorre (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Solo 3 min",
-      "url": "https://open.spotify.com/track/0X1q9dp4z8MYFYaUDm2unn"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Soundtrack '96 - 06 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
       "artists": [
         {
           "name": "Elisa",
           "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        },
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
         }
       ],
-      "duration_ms": 266746,
-      "name": "Gli Ostacoli Del Cuore",
-      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Gemelli Diversi",
+        "url": "https://open.spotify.com/album/4ygqhQe4UIOz197L7i2gmT"
+      },
+      "artists": [
+        {
+          "name": "Gemelli Diversi",
+          "url": "https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Un attimo ancora",
+      "url": "https://open.spotify.com/track/2a7Hags2I9mLMHTcEk6u6Q"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Appena prima di partire",
         "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Gemelli Diversi",
-        "url": "https://open.spotify.com/album/4ygqhQe4UIOz197L7i2gmT"
+        "name": "Mentre Tutto Scorre (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
       },
       "artists": [
         {
-          "name": "Gemelli Diversi",
-          "url": "https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ"
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Un attimo ancora",
-      "url": "https://open.spotify.com/track/2a7Hags2I9mLMHTcEk6u6Q"
+      "duration_ms": 218000,
+      "name": "Solo 3 min",
+      "url": "https://open.spotify.com/track/0X1q9dp4z8MYFYaUDm2unn"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Rimmel",
+        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Rimmel",
+      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Diari Aperti",
         "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 202533,
       "name": "Se Piovesse Il Tuo Nome",
       "url": "https://open.spotify.com/track/0FNRyMufs8Ox03TtaoyCjH"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "La Vasca",
-        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Una Su 1.000.000",
-      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Rimmel",
-        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
+        "name": "La Vasca",
+        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
       },
       "artists": [
         {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
         }
       ],
-      "duration_ms": 220640,
-      "name": "Rimmel",
-      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
+      "duration_ms": 176373,
+      "name": "Una Su 1.000.000",
+      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Tempo Reale Extra",
-        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
-      },
-      "artists": [
-        {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Il mio giorno pi\u00f9 bello nel mondo",
-      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Il giorno dopo (Gli Indimenticabili)",
         "url": "https://open.spotify.com/album/3EqcpKN1Quc0ihDUDSXyGG"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 283893,
       "name": "Minuetto",
       "url": "https://open.spotify.com/track/0jjZh3fHqW2JciT1b19oAN"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Tempo Reale Extra",
+        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
+      },
+      "artists": [
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Il mio giorno pi\u00f9 bello nel mondo",
+      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Cocciante",
+          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Bella senz'anima",
+      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3IzPzAZrnxl8nBtKh3IxIx"
       },
@@ -1171,38 +1187,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "it.pop",
-        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Oggi Sono Io",
-      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Cocciante",
-          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Bella senz'anima",
-      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/7eVkAghlrN31cqwiVvuCT0"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 210361,
       "name": "Scusa",
       "url": "https://open.spotify.com/track/2rBYzHaHOypx0Ic8dt0PfX"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "it.pop",
+        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Oggi Sono Io",
+      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Vietato morire",
-        "url": "https://open.spotify.com/album/7tPKUDspDKomiAvIrTRJQB"
+        "name": "Giovani per sempre",
+        "url": "https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE"
       },
       "artists": [
         {
-          "name": "Ermal Meta",
-          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
-        },
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
         }
       ],
-      "duration_ms": 221988,
-      "name": "Piccola anima (feat. Elisa)",
-      "url": "https://open.spotify.com/track/5UPL90ZL0XghWWNw57WVR9"
+      "duration_ms": 222101,
+      "name": "La ragazza con il cuore di latta",
+      "url": "https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1455,6 +1451,26 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Vietato morire",
+        "url": "https://open.spotify.com/album/7tPKUDspDKomiAvIrTRJQB"
+      },
+      "artists": [
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 221988,
+      "name": "Piccola anima (feat. Elisa)",
+      "url": "https://open.spotify.com/track/5UPL90ZL0XghWWNw57WVR9"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Fai rumore",
         "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
       },
@@ -1467,38 +1483,6 @@
       "duration_ms": 216140,
       "name": "Fai rumore",
       "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Giovani per sempre",
-        "url": "https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 222101,
-      "name": "La ragazza con il cuore di latta",
-      "url": "https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Come Thelma E Louise",
-        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 300306,
-      "name": "Come saprei",
-      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1531,6 +1515,22 @@
       "duration_ms": 270346,
       "name": "Sei nell'anima",
       "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Come Thelma E Louise",
+        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 300306,
+      "name": "Come saprei",
+      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 218092,
+      "name": "Il mondo prima di te",
+      "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Dove Gli Occhi Non Arrivano",
         "url": "https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
+        "name": "Miss Italia",
+        "url": "https://open.spotify.com/album/53D7eK2Gn6kLeSTns5Q7vf"
       },
       "artists": [
         {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "Patty Pravo",
+          "url": "https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh"
         }
       ],
-      "duration_ms": 218092,
-      "name": "Il mondo prima di te",
-      "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
+      "duration_ms": 254666,
+      "name": "Pensiero stupendo",
+      "url": "https://open.spotify.com/track/5P2sVkO2mhgeDicQc1btfj"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1635,22 +1651,6 @@
       "duration_ms": 219293,
       "name": "Brioschi",
       "url": "https://open.spotify.com/track/4b8hQaPTM7FhpOOAkKBj5A"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Miss Italia",
-        "url": "https://open.spotify.com/album/53D7eK2Gn6kLeSTns5Q7vf"
-      },
-      "artists": [
-        {
-          "name": "Patty Pravo",
-          "url": "https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Pensiero stupendo",
-      "url": "https://open.spotify.com/track/5P2sVkO2mhgeDicQc1btfj"
     },
     {
       "added_at": "2024-02-13 14:01:38",

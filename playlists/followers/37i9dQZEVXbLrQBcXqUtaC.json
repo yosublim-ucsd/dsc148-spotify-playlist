@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 8067,
+  "2024-02-19": 8070,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Saudi Arabia.",
   "name": "Top 50 - Saudi Arabia",
@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -6001,7 +6001,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
@@ -6019,7 +6019,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -11983,7 +11983,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 167864,
       "name": "Not Allowed",
       "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
@@ -16319,7 +16319,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 215150,
       "name": "Sunsetz",
       "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
@@ -17396,6 +17396,24 @@
     },
     {
       "album": {
+        "name": "Til We See The Sunlight",
+        "url": "https://open.spotify.com/album/7pb1mKXOStaxU5KRAkCFd3"
+      },
+      "artists": [
+        {
+          "name": "Dick Groves",
+          "url": "https://open.spotify.com/artist/3Gq9nrpt63QmN1UGoEB4ix"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "Til We See The Sunlight - radio edit",
+      "url": "https://open.spotify.com/track/5WZXyEQupNTbIEIUPk7rzr"
+    },
+    {
+      "album": {
         "name": "The Name Chapter: TEMPTATION",
         "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
       },
@@ -17641,6 +17659,24 @@
       "duration_ms": 168066,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
+    },
+    {
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "album": {
@@ -19861,7 +19897,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 60760,
       "name": "\u0627\u0644\u0646\u0627\u0633 \u0627\u0646\u0648\u0627\u0639",
       "url": "https://open.spotify.com/track/4hXKUpx4Rl5yBNGISoB5UK"
@@ -21535,7 +21571,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 194001,
       "name": "\u0646\u0627\u0631\u0647\u0645 \u062a\u0627\u0643\u0644 \u062d\u0637\u0628\u0647\u0645 - \u0645\u0633\u0631\u0639",
       "url": "https://open.spotify.com/track/6bPeQsnBv2qQB19HZcl3eY"
@@ -22011,7 +22047,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 235164,
       "name": "\u064a\u0627\u062d\u0644\u0648\u0647 \u064a\u0627 \u0645\u0638\u0644\u0648\u0645\u0647",
       "url": "https://open.spotify.com/track/1dtdhDZ5ApMKaI6YGMDyaX"

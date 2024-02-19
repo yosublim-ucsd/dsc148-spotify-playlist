@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: MAX, HUH YUNJIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,301,866 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,301,948 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 |
 | 50 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 |
 
-Snapshot ID: `MCw4YTcwZjgxYTUzZjM4Y2QzZDdiZmMyYjkxNzU1OTYwMWI3MjE2M2Zi`
+Snapshot ID: `MCw4ZDM0NTc0M2RkYWMxZjJjYjYxNjkxMmFjMzI2YzlmZWRhNDg2YzAy`

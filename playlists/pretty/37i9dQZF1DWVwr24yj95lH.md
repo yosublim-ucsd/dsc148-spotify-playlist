@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,109 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,100 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 23 | [Let It Sink](https://open.spotify.com/track/6JiZWNx3vkY1FXEbxJpudk) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6AKctSjeMPlLSFjcDe7dF1) | 3:02 |
 | 24 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 |
 | 25 | [Lips Of An Angel](https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Extreme Behavior](https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ) | 4:21 |
-| 26 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
-| 27 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 |
+| 26 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 |
+| 27 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
 | 28 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
 | 29 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
 | 30 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 52 | [Real World](https://open.spotify.com/track/70fe354BpVKEvMY0de78YO) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:51 |
 | 53 | [Heavy](https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Dosage](https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66) | 2:54 |
 | 54 | [What If](https://open.spotify.com/track/22bX2FwXSvG49G0bPWm5nc) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 5:18 |
-| 55 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
-| 56 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
+| 55 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
+| 56 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
 | 57 | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:42 |
 | 58 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 |
 | 59 | [Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:27 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 65 | [Wasting My Time](https://open.spotify.com/track/5dpAN1mjFPL38kh9kWsCiw) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [The Fallout \(Limited Edition\)](https://open.spotify.com/album/7IUXXDlKqqLRkJLXrrhXCo) | 4:29 |
 | 66 | [Bottom of a Bottle](https://open.spotify.com/track/3EmNjy3zFszmAOCikiKxCd) | [Smile Empty Soul](https://open.spotify.com/artist/1KEUVZo7CMTSJoM8doulOT) | [Shapeshifter](https://open.spotify.com/album/4t8bZNqNroLlMNj8p908VL) | 3:41 |
 | 67 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
-| 68 | [1000hp](https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3) | 3:46 |
-| 69 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
+| 68 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
+| 69 | [1000hp](https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3) | 3:46 |
 | 70 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
 
-Snapshot ID: `MCwzZDQ3MDUzNjRmNzFjYWNlMDZhOTU2NDJkYTA5MThiNjdiYWI0N2E0`
+Snapshot ID: `MCwwNWQ5MTIyZTE1MTJlYmIxYzE1MGViMTVmMDU0YTEwZjliN2VkZTU5`

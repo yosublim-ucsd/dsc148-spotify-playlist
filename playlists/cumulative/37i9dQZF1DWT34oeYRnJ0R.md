@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Hamilton
 
-394 songs - 20 hr 27 min
+395 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 | 2022-09-06 |  |
 | [Mood \- Remix](https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Mood \(Remix\)](https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L) | 4:07 | 2023-08-11 | 2023-12-16 |
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-08-31 | 2023-12-14 |
+| [MULTIVERSO](https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [MULTIVERSO](https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU) | 3:32 | 2024-02-17 |  |
 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 | 2023-05-12 | 2023-10-07 |
 | [My Love](https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [My Love](https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn) | 3:34 | 2023-06-02 |  |
 | [My Summer Time](https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summer Time](https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr) | 3:07 | 2022-07-26 | 2022-09-07 |
@@ -381,7 +382,7 @@
 | [Uff](https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Uff](https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU) | 2:32 | 2023-12-21 |  |
 | [Umaye](https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Umaye](https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7) | 2:31 | 2023-05-26 | 2023-12-16 |
 | [Una Llamada](https://open.spotify.com/track/0K1muMnMBrwseIwuswb18q) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Una Llamada](https://open.spotify.com/album/1V9ImHHtf4gyi3FZt9WuWJ) | 3:13 | 2022-03-21 | 2022-06-01 |
-| [UuU](https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [UuU](https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq) | 2:55 | 2023-02-24 |  |
+| [UuU](https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [UuU](https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq) | 2:55 | 2023-02-24 | 2024-02-19 |
 | [Vamonos](https://open.spotify.com/track/1kX0I8IyV9lP81e1TTV31W) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Vamonos](https://open.spotify.com/album/0Iu7xrc9ZWf474adXxtcN7) | 2:39 | 2023-10-06 | 2023-12-16 |
 | [Vamos Pal Espacio](https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:33 | 2023-04-09 | 2023-10-07 |
 | [VENENO](https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:33 | 2022-11-26 |  |

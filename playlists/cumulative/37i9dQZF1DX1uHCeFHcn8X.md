@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2010s.
 
-441 songs - 1 day 3 hr 16 min
+442 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2021-06-15 |  |
 | [Tidal Wave](https://open.spotify.com/track/26wSsLYZbhb8AzLgzaHnEY) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Tidal Wave](https://open.spotify.com/album/2O12MA9mtG8URbD1rlDQSR) | 3:11 | 2022-04-28 | 2022-07-24 |
 | [Tilted](https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine And The Queens](https://open.spotify.com/album/6icxSA6dVp16bBXaeAMSYG) | 3:53 | 2022-01-05 | 2022-04-21 |
+| [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 | 2023-04-05 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2021-02-17 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-07-09 | 2023-03-16 |
 | [Too Late For Lullabies](https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Higher Than Here](https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x) | 4:16 | 2021-02-17 | 2023-07-10 |
@@ -395,7 +396,7 @@
 | [True Love \(feat\. Lily Allen\)](https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 3:50 | 2021-02-17 |  |
 | [Trying My Best](https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:42 | 2021-06-15 |  |
 | [Uncover](https://open.spotify.com/track/5rkok5WSDPoQb9xKx5R61n) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Uncover](https://open.spotify.com/album/60HpAwkOWjgTIJERzgy76n) | 3:32 | 2021-02-17 | 2022-07-29 |
-| [Uncover](https://open.spotify.com/track/3DQisSEr1TLp9H0BEeKiQS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Uncover](https://open.spotify.com/album/0vXJ3rh6Sy7KWjp2P5d7ll) | 3:33 | 2022-07-09 |  |
+| [Uncover](https://open.spotify.com/track/3DQisSEr1TLp9H0BEeKiQS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Uncover](https://open.spotify.com/album/0vXJ3rh6Sy7KWjp2P5d7ll) | 3:33 | 2022-07-09 | 2024-02-19 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-01-19 | 2022-03-30 |
 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 | 2021-02-17 |  |
 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 | 2021-02-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,622 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,677 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 33 | [Cuando los Necesité \- Banda](https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 3:02 |
 | 34 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 35 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
-| 36 | [Ruleteando el Mezcal](https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Caricias Vendidas](https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7) | 3:11 |
-| 37 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 |
+| 36 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 |
+| 37 | [Ruleteando el Mezcal](https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Caricias Vendidas](https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7) | 3:11 |
 | 38 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:04 |
 | 39 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 |
 | 40 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 74 | [Era Cabrón El Viejo](https://open.spotify.com/track/1L8MkFekvJDFuvoYNutXQ8) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Puras Arrolladoras](https://open.spotify.com/album/3oVnh7uXcSSs2EiBXbyh4e) | 2:38 |
 | 75 | [Entre Pancho y Pancho 2.0](https://open.spotify.com/track/2p35OtN25aGq8Brpp3GyiV) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Entre Pancho y Pancho 2.0](https://open.spotify.com/album/59JMwQSNIq5w6h7PaHiYYv) | 2:53 |
 
-Snapshot ID: `MCw0MmFiODhiYzI3NDUwY2MyMDFhMTliNjRlZTBkZjhiNGNiZDkzN2Qy`
+Snapshot ID: `MCw2MDc1NzI4NGIwODJkNTI2ZjFkZTI3ZDI5MjdkNGU5M2QzMmU1NDk5`

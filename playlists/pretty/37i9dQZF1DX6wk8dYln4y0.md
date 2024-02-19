@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > Spotify 's \*hits different\* \- a playlist pop\-up in Sydney feat\. your favourite artists\. Click  <a href="https://spoti.fi/hitsdifferentsummercampday1"> here </a> for more info\. Cover: Ruel
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,008 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,973 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 16 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 17 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 18 | [Feel Alive](https://open.spotify.com/track/0Ewbn4M4wxWt8sweebYu1U) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [How Do You Feel?](https://open.spotify.com/album/2PVSQH2TCtppaZAGAHF0Iz) | 3:21 |
-| 19 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 20 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
+| 19 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
+| 20 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 21 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 22 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 | 23 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 65 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 |
 | 66 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 67 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 |
-| 68 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 |
-| 69 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
+| 68 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
+| 69 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 |
 | 70 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
 | 71 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 |
 | 72 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 79 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 |
 | 80 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 
-Snapshot ID: `MCw2MGM3YWM2YzBmMWIxYmJjOTgwOTA0MjQyMjQxNzE4NWJjOGNlOWE3`
+Snapshot ID: `MCw0MzdhOTQxNzJlYjk1NWQ2YTBjM2M1YWU3MWI4YzA4MTg3NGZkMjA4`

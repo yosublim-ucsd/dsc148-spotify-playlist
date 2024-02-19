@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,006 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,012 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 13 | [Holiday](https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 3:52 |
 | 14 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
 | 15 | [Ela Vai Voltar \(Todos Os Defeitos De Uma Mulher Perfeita\)](https://open.spotify.com/track/70dJEanFPdYuWZumkrnKeX) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Imunidade Musical](https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1) | 3:08 |
-| 16 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
-| 17 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:34 |
+| 16 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:34 |
+| 17 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
 | 18 | [Medication](https://open.spotify.com/track/2WQKHNETUytUGsD32TTNeO) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 3:42 |
 | 19 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 |
 | 20 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 45 | [Forever](https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 3:24 |
 | 46 | [La Mar \(The Ocean\)](https://open.spotify.com/track/0WuWrW1N8ofJBjM5ZHkFjH) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Learn Yourself](https://open.spotify.com/album/1OuDc65IgZ0nKnNwPMaylr) | 3:57 |
 | 47 | [No Mar \- Ao Vivo](https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:27 |
-| 48 | [Walk, Don't Run \- Stereo](https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run](https://open.spotify.com/album/63nMHrHgu1xVuaWMT9eEap) | 2:02 |
-| 49 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 |
-| 50 | [All Night](https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:30 |
+| 48 | [All Night](https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:30 |
+| 49 | [Walk, Don't Run \- Stereo](https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run](https://open.spotify.com/album/63nMHrHgu1xVuaWMT9eEap) | 2:02 |
+| 50 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 |
 | 51 | [In Your Eyes](https://open.spotify.com/track/3QbMBn1cm37oUtWYwmccqc) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Never Stop Fighting](https://open.spotify.com/album/0ltj09wROERvSflQiyzt2v) | 3:09 |
 | 52 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
 | 53 | [Family Tree](https://open.spotify.com/track/7FB4AMETSW8jALAPNRKw7Y) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
 | 75 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 
-Snapshot ID: `MCwzNGEyMDAzMjkzZDQ4M2ExZjYxNzQ1MDQ1ZTU3ZTI2ZDQ3NDU1ZWUz`
+Snapshot ID: `MCwzY2NkNmNmMzhlYjg3ZmY0NmZiNzllNDU1ODhjOGU2ZTRmY2VlZjVi`

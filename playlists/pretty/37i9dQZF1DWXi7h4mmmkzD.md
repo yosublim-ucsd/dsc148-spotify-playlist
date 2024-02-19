@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 
 > Nighttime is the right time for these party hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,835 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,827 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 48 | [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 |
 | 49 | [Just the Way](https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 3:13 |
 | 50 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
-| 51 | [Unforgettable](https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 2:37 |
-| 52 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 51 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 52 | [Unforgettable](https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 2:37 |
 | 53 | [My Girl](https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 3:17 |
 | 54 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
 | 55 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 58 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 59 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
 | 60 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
-| 61 | [Pull Up](https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [County Line](https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q) | 2:32 |
-| 62 | [Here For A Good Time](https://open.spotify.com/track/11OFYsUK9EVJsQ6nutH32M) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Here For A Good Time](https://open.spotify.com/album/0JxBiJVEmzFJdbMwgLohC1) | 3:00 |
+| 61 | [Here For A Good Time](https://open.spotify.com/track/11OFYsUK9EVJsQ6nutH32M) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Here For A Good Time](https://open.spotify.com/album/0JxBiJVEmzFJdbMwgLohC1) | 3:00 |
+| 62 | [Pull Up](https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [County Line](https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q) | 2:32 |
 | 63 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 64 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 |
 | 65 | [Ready Set Roll](https://open.spotify.com/track/1pbjOhmFwYC09EYU5EwB5L) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq) | 3:10 |
 | 66 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 |
-| 67 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2oyJMZrw1DGvvkT2NbCZ0Y) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/1yf8bz1b5QKWWyCEJb32S8) | 3:04 |
-| 68 | [When the Sun Goes Down](https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:50 |
+| 67 | [When the Sun Goes Down](https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:50 |
+| 68 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2oyJMZrw1DGvvkT2NbCZ0Y) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/1yf8bz1b5QKWWyCEJb32S8) | 3:04 |
 | 69 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:29 |
 | 70 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 |
 | 71 | [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 75 | [Good as You](https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:12 |
 | 76 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
 | 77 | [My Kinda Party](https://open.spotify.com/track/7yZ93UxLRiF6eaiBrYkWfr) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 4:44 |
-| 78 | [Break Up with Him](https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:27 |
+| 78 | [God Gave Me You](https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:49 |
 | 79 | [Undo It](https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 2:57 |
 | 80 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
-| 81 | [God Gave Me You](https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:49 |
+| 81 | [Break Up with Him](https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:27 |
 | 82 | [Every Little Thing](https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:10 |
 | 83 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
 | 84 | [Tequila Little Time](https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 99 | [Get Your Shine On](https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:42 |
 | 100 | [I Was On a Boat That Day](https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 2:58 |
 
-Snapshot ID: `MCxlMzQxODk0Nzg2ODJjYWU2MmViMmZjM2U3NmEyNzA2NGIyMjA5OWY4`
+Snapshot ID: `MCxlOGUyMjA1MWUwODNkZjQwZmY4MDY3ZTdlOGIzYjBiYzk5OWFkZDE2`

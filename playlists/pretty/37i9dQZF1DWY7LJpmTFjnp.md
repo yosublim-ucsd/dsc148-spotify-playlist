@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Zoé en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,382 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,457 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 62 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 63 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g) | 3:40 |
 | 64 | [Maligno \(feat\. León Larregui\)](https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 4:51 |
-| 65 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 |
+| 65 | [Somos Ajenos \- Noches de Salón](https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Noches De Salón](https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8) | 3:52 |
 | 66 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
-| 67 | [Somos Ajenos \- Noches de Salón](https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Noches De Salón](https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8) | 3:52 |
+| 67 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 |
 | 68 | [Muñequita Sintética](https://open.spotify.com/track/7G3S3F0Jrosbw3SD91KW0F) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Muñequita Sintética](https://open.spotify.com/album/3pAbzsdOcyO4WBOsOVBjA0) | 4:43 |
 | 69 | [Morenaza](https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Maldita Vecindad y los Hijos del Quinto Patio](https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE) | 5:05 |
 | 70 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 92 | [El Recuento de los Daños](https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [!!Puro Macanazo!!](https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ) | 4:31 |
 | 93 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
 | 94 | [Estoy Perdiendo La Razón](https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Estoy Perdiendo La Razón](https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK) | 3:22 |
-| 95 | [¿Quién Cuida al Pueblo?](https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [¿Quién Cuida al Pueblo?](https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9) | 4:04 |
-| 96 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 95 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 96 | [¿Quién Cuida al Pueblo?](https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [¿Quién Cuida al Pueblo?](https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9) | 4:04 |
 | 97 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 |
 | 98 | [La Locomotora \- MTV Unplugged](https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 4:01 |
 | 99 | [América](https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [ADN \(Capítulo N\)](https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX) | 3:02 |
 | 100 | [Elemento \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
 
-Snapshot ID: `MCw4NzA4YWRmMTRjZDZlY2UwMzJmYmYyYTUyZGNkNjczMDg1OWM2OTU1`
+Snapshot ID: `MCwwMDI3YTFiZmVhODFlODAwYTNiZjY4MTc0YWQzNDkyYzY1ZTdlOGM5`

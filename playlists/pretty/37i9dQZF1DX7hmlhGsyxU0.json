@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 158061,
+  "num_followers": 158161,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGQ2NTIyNmU2NzYxY2UyZjFjN2ZhNDBiYThmOGU0OGIyOTFhN2Uw",
+  "snapshot_id": "MCw3OGMwMWViMzgyYmUxMjE5MDJhZjNjNTQxODZhYmYxODQ1NmFjMzNk",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "On The Verge Of Collapse",
-        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
-      },
-      "artists": [
-        {
-          "name": "Rohit",
-          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "We All Grieve Differently",
-      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 153000,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "On The Verge Of Collapse",
+        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
+      },
+      "artists": [
+        {
+          "name": "Rohit",
+          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "We All Grieve Differently",
+      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 251889,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 132755,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "How Time Works",
         "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
       },
@@ -603,26 +587,6 @@
       "duration_ms": 225053,
       "name": "How Time Works",
       "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "You Will Never Walk Alone (Glowworm Rework)",
-        "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
-      },
-      "artists": [
-        {
-          "name": "Maciej Sadowski",
-          "url": "https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J"
-        },
-        {
-          "name": "Glowworm",
-          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "You Will Never Walk Alone - Glowworm Rework",
-      "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -663,6 +627,26 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "You Will Never Walk Alone (Glowworm Rework)",
+        "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
+      },
+      "artists": [
+        {
+          "name": "Maciej Sadowski",
+          "url": "https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J"
+        },
+        {
+          "name": "Glowworm",
+          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "You Will Never Walk Alone - Glowworm Rework",
+      "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Zerachiel",
         "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 191870,
       "name": "Zerachiel",
       "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "K\u00e4rlek",
         "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
@@ -799,22 +783,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 157500,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
     },
     {
       "added_at": "2023-06-27 16:12:39",

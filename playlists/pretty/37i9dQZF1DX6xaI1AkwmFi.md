@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,218 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,233 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 11 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
 | 12 | [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 |
 | 13 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 |
-| 14 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
+| 14 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 15 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
 | 16 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 |
 | 17 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 18 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
+| 18 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
 | 19 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
 | 20 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
 | 21 | [Present](https://open.spotify.com/track/5ZA0IAAjEC5tn3jOJhGPLJ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Present](https://open.spotify.com/album/35iKr3pjxUGUtEC1FUkiL6) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 49 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 |
 | 50 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 |
 
-Snapshot ID: `MCw2ODIwYzhiMDNjZDJkODE0NjkwOTU0ZjVkYjg5YmI0NDEwYTU0YWI5`
+Snapshot ID: `MCw4OTE0YTE0NjUwNTAyZDBkOTkwNzQzNTY5MDY0ZDU3ZTU1NmJlNTA1`

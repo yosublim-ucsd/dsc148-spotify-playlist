@@ -18326,7 +18326,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 340741,
       "name": "Hutukara",
       "url": "https://open.spotify.com/track/7G8Oxa0NrH4B2d8HZF3T9u"
@@ -22402,7 +22402,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 167027,
       "name": "Maliciosa - Ao Vivo",
       "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
@@ -24992,6 +24992,32 @@
       "duration_ms": 138855,
       "name": "Mini Game",
       "url": "https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ"
+    },
+    {
+      "album": {
+        "name": "Mini Saia",
+        "url": "https://open.spotify.com/album/7Jb2B2l9kw03C6pxGRKz8S"
+      },
+      "artists": [
+        {
+          "name": "Italo Melo",
+          "url": "https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Mini Saia",
+      "url": "https://open.spotify.com/track/09sUNzy7IX6z9FOWjk2Tmo"
     },
     {
       "album": {
@@ -32296,7 +32322,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 298747,
       "name": "Pot-Pourri: Turma Do Funil / Cacha\u00e7a / Ressaca",
       "url": "https://open.spotify.com/track/7x99gjAbTpJRdpx7f0KJ1y"
@@ -40792,12 +40818,12 @@
           "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
         },
         {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
           "name": "MC PH",
           "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
       "date_added": "2024-01-31",

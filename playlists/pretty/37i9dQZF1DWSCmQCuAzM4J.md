@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCmQCuAzM4J.md) - [plain]
 
 > se acabó todo 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,218 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,227 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCmQCuAzM4J.md) - [plain]
 | 23 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 |
 | 24 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
 | 25 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
-| 26 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
-| 27 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 26 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 27 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 28 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 |
-| 29 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
-| 30 | [Lemon Tree](https://open.spotify.com/track/2epbL7s3RFV81K5UhTgZje) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish of the Day](https://open.spotify.com/album/3epesmrZX0KYpeImQtcVUa) | 3:11 |
+| 29 | [Lemon Tree](https://open.spotify.com/track/2epbL7s3RFV81K5UhTgZje) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish of the Day](https://open.spotify.com/album/3epesmrZX0KYpeImQtcVUa) | 3:11 |
+| 30 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
 | 31 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
 | 32 | [Everybody Hurts](https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:20 |
 | 33 | [Who Knew \- Edit](https://open.spotify.com/track/2hns6Dv29Yrg68AVTJiAyA) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:28 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCmQCuAzM4J.md) - [plain]
 | 41 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 |
 | 42 | [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:18 |
 | 43 | [Without You](https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:35 |
-| 44 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
-| 45 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
+| 44 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
+| 45 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 | 46 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
 | 47 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
 | 48 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
 | 49 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 |
 | 50 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 
-Snapshot ID: `MCxlMGVlMWQ0ZDljMzZhYWIzNGFmM2E3YjgyN2JmYmQ3M2E5ZWI5ZDAz`
+Snapshot ID: `MCw0NzNkMGE5ZTQ1ZmE4NWYwMWZkMDUwNDFlODU4M2QxNmFhMDQ3M2Uy`

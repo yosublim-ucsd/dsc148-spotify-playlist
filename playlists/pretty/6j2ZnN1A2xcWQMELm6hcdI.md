@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Lola Brooke
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 338,574 likes - 232 songs - 11 hr 43 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 338,562 likes - 232 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 149 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 |
 | 150 | [See You in Church](https://open.spotify.com/track/6KncYAsbwJj852e0gyajOE) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [See You in Church.](https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv) | 3:08 |
 | 151 | [WET WHITE TEE SHIRT \(SIDE A\)](https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V2](https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9) | 2:14 |
-| 152 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 152 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 153 | [DUMB BITCH PUNCH](https://open.spotify.com/track/771oKmhmsRmq3iNnEIyFTw) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [DUMB BITCH PUNCH](https://open.spotify.com/album/3JJcipJTUaT5gpavGpRFkH) | 3:19 |
 | 154 | [1\-800\-GOT\-STRESS](https://open.spotify.com/track/7fhAWoFWTKaOl1VtdqqZhf) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [1\-800\-GOT\-STRESS](https://open.spotify.com/album/7au7oYaB1KzTr9k2JdOlGJ) | 3:09 |
 | 155 | [The Other POV](https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The Other POV](https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3) | 2:59 |

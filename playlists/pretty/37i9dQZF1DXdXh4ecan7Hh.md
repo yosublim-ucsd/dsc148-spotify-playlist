@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,837 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,847 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 29 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 30 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
 | 31 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
-| 32 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 |
-| 33 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
+| 32 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
+| 33 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 |
 | 34 | [Man in the Mirror](https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Spotify Singles](https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx) | 4:19 |
 | 35 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
 | 36 | [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 55 | [Green Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:38 |
 | 56 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 |
 | 57 | [Best Shot \(Spotify Singles\)](https://open.spotify.com/track/2WfVAdZp1iQ0OqwnNyKzlU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h) | 4:10 |
-| 58 | [Attention \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:27 |
-| 59 | [Psycho \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 4:07 |
+| 58 | [Psycho \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 4:07 |
+| 59 | [Attention \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:27 |
 | 60 | [Unforgettable \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 2:38 |
 | 61 | [Never Comin Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:21 |
 | 62 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 69 | [Dear God \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/78GAT649ad19quwcuiuMQs) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:02 |
 | 70 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 
-Snapshot ID: `MCw1MjY5M2E3OWZlNmMzMWIxZmRkMTFjODFjZTkzMmFlYzRiZWI5NjVm`
+Snapshot ID: `MCxjZTU4OTc3ZGMyMGVlYzYwYjdhZjJkOTI4NTA5NTk5YzIzMjkxM2Fh`

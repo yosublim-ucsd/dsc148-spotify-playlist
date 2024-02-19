@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,161 likes - 126 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,166 likes - 126 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 60 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 | 61 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 62 | [How Wonderful We Are](https://open.spotify.com/track/1A2mbkIm1zzPq1kvIQC3J7) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 3:56 |
-| 63 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
+| 63 | [Highlands](https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 3:31 |
 | 64 | [Stranger Danger](https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Stranger Danger](https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS) | 4:41 |
 | 65 | [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 |
 | 66 | [Dream Job](https://open.spotify.com/track/5jZ0Q2yRYnI961sJbyWlK0) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dream Job](https://open.spotify.com/album/4xeMI1fcnZJ4ndXFkMqhzO) | 2:44 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 125 | [Out In The Fields](https://open.spotify.com/track/7AQn44WwBs4UAUF79wXzHd) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Aging](https://open.spotify.com/album/21ytlmXJV1mWsF0dRiV7Ar) | 4:00 |
 | 126 | [It’s Fine](https://open.spotify.com/track/5uGJfyXEHstfpzuOnuR6mb) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [Natural Disaster](https://open.spotify.com/album/0ybuiLFQiZM4YFserGDl4h) | 3:46 |
 
-Snapshot ID: `MCxiMjVhOWE4Nzg4OWQ3MDhjYWZiZjhhNWRjNzE0MDU2YTI2NmRiMmIy`
+Snapshot ID: `MCxkMWRiNjIyNTEzNTlmYzYxZmI4ZTgzOWUwYWQwMjBjYTFiMWEyZjQ5`

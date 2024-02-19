@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran ✨ Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,712 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,699 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 5 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |
 | 6 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
 | 7 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 8 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 8 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 9 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
 | 10 | [EL BARCO](https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:23 |
 | 11 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 31 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
 | 32 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 |
 | 33 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 |
-| 34 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 35 | [Si Una Vez](https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:47 |
+| 34 | [Si Una Vez](https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:47 |
+| 35 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 36 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 |
 | 37 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 |
 | 38 | [Los Consejos](https://open.spotify.com/track/54KqP2AoCRcEMTfooOI5nK) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 49 | [Ni Una Más](https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Ni Una Más](https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU) | 3:28 |
 | 50 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
 
-Snapshot ID: `MCw5N2NhZjBkNDYwNWQ1NmQ1ZTEwMTM4NjJkNjU5YTA1YTgzZmZhMjcx`
+Snapshot ID: `MCw3Mzg5ZjRlZDkxMjVkNzc5MGRkZGRjYjUxYWIzNDkzNGU3MDgxMzM3`

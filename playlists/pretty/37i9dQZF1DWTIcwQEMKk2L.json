@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 66921,
+  "num_followers": 66951,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGM0YzA5OGE1MDQ1NzVmZDQ2M2Q2OWQ0ZTlkNjQxM2Y3MDA2ODI0",
+  "snapshot_id": "MCw2ZWEwNWJiYjdmZTRkZWQ2MGYwMmU1OGEzZjgzYjgxM2EyZjE0MjQz",
   "tracks": [
     {
       "added_at": "2024-02-12 08:42:03",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
-      },
-      "artists": [
-        {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Before last month",
         "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 124238,
       "name": "Before last month",
       "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+      },
+      "artists": [
+        {
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Breathe In (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 89893,
-      "name": "Summer Waltz / The Drive",
-      "url": "https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "You Are Peace",
         "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 204911,
       "name": "You Are Peace",
       "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Breathe In (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 89893,
+      "name": "Summer Waltz / The Drive",
+      "url": "https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Oddities",
-        "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
-      },
-      "artists": [
-        {
-          "name": "Robert Gafforelli",
-          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
-        }
-      ],
-      "duration_ms": 212374,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 118016,
       "name": "Kleine Forelle",
       "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Oddities",
+        "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "duration_ms": 212374,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Amorous Rebound",
-        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Amorous Rebound",
-      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Fall Pieces",
         "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 238277,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Amorous Rebound",
+        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
+      },
+      "artists": [
+        {
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+        }
+      ],
+      "duration_ms": 109440,
+      "name": "Amorous Rebound",
+      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
-      },
-      "artists": [
-        {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Friendship.",
         "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
       },
       "artists": [
         {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
         }
       ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
+      "duration_ms": 269000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1215,6 +1199,22 @@
       "duration_ms": 212000,
       "name": "First Sunrise",
       "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
-      },
-      "artists": [
-        {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Nostalgia.",
         "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 104199,
       "name": "Nostalgia.",
       "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "erinna",
-        "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
-      },
-      "artists": [
-        {
-          "name": "Klaus Weissmuller",
-          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
-        }
-      ],
-      "duration_ms": 128873,
-      "name": "erinna",
-      "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "erinna",
+        "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
+      },
+      "artists": [
+        {
+          "name": "Klaus Weissmuller",
+          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
+        }
+      ],
+      "duration_ms": 128873,
+      "name": "erinna",
+      "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
     },
     {
       "added_at": "2024-02-12 08:42:03",

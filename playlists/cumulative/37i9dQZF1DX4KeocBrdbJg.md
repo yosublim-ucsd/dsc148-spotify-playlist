@@ -4,7 +4,7 @@
 
 > chipi chipi chapa chapa dubidubi 🎶
 
-533 songs - 1 day 5 hr 24 min
+534 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 | 2024-01-25 |  |
 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 | 2023-05-09 | 2023-06-07 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2021-12-15 | 2023-03-03 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-11-02 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-11-02 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-16 |  |
 | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 | 2023-07-26 | 2023-08-25 |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/album/0PTGY2rz75YFy0H1jvibuD) | 3:35 | 2022-01-24 | 2022-10-26 |
 | [Jiggle Jiggle](https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv) | [Jiggle Jiggle](https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT) | 1:37 | 2022-05-25 | 2022-07-27 |

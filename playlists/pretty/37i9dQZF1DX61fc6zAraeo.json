@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 97296,
+  "num_followers": 97321,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTg5MDQzNTQ3MTA3MzAwOTZmMmQ5Nzc3ZGZhZWQ2YTI5OTg0NDJl",
+  "snapshot_id": "MCw0OWQ3OTAxZmQyMTA3N2Y1M2QyOTFkNDc0Nzg2Y2UwYWQyNWRjMjk2",
   "tracks": [
     {
       "added_at": "2024-02-15 10:24:03",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 196224,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -159,6 +159,26 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Out of Love",
+        "url": "https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 138559,
+      "name": "Out of Love",
+      "url": "https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Monsoon (feat. Tokio Hotel)",
         "url": "https://open.spotify.com/album/1vDHV4XiihKINCQhWX04O6"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 163598,
       "name": "Monsoon (feat. Tokio Hotel)",
       "url": "https://open.spotify.com/track/5KtDo0LvaAVjRXrIFrYgUF"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Out of Love",
-        "url": "https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 138559,
-      "name": "Out of Love",
-      "url": "https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 165845,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "The Drop (Ownboss Remix)",
         "url": "https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 165845,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Back In '99",
         "url": "https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 129242,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "The One (feat. Blair)",
-        "url": "https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG"
-      },
-      "artists": [
-        {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        },
-        {
-          "name": "Blair",
-          "url": "https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O"
-        }
-      ],
-      "duration_ms": 179636,
-      "name": "The One (feat. Blair)",
-      "url": "https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Dancing All Alone",
         "url": "https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 186666,
       "name": "Dancing All Alone",
       "url": "https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "The One (feat. Blair)",
+        "url": "https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        },
+        {
+          "name": "Blair",
+          "url": "https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O"
+        }
+      ],
+      "duration_ms": 179636,
+      "name": "The One (feat. Blair)",
+      "url": "https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 187920,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/33MCxT30XFEvEsSVIsFCOH"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/7ia3tvn2ZZgtQo3I3hIhEv"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 153024,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/33MCxT30XFEvEsSVIsFCOH"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/7ia3tvn2ZZgtQo3I3hIhEv"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/08LGWohzZ6wlIiWVMMlOKC"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 163155,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/5LkYm5EiaNGV5WCQvKokZ7"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 162222,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/08LGWohzZ6wlIiWVMMlOKC"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 163155,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/5LkYm5EiaNGV5WCQvKokZ7"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/5QsHT3GMVl5qaG3XnvNE0B"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/6uFFIOeXnKL0fL29ZjiaSH"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/3hv6DpbPmyPaDBO7hrRqJ5"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 154545,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/3V1XM5IEWW34oUHBBXBjq8"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "No Air",
-        "url": "https://open.spotify.com/album/5QsHT3GMVl5qaG3XnvNE0B"
-      },
-      "artists": [
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "No Air",
-      "url": "https://open.spotify.com/track/6uFFIOeXnKL0fL29ZjiaSH"
     },
     {
       "added_at": "2024-02-15 10:24:03",

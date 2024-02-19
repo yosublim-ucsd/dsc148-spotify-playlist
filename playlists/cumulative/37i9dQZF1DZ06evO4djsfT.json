@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH"
+    },
+    {
+      "album": {
         "name": "Glory 2 Glory",
         "url": "https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP"
       },

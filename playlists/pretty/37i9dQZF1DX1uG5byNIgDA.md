@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,017 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,016 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 7 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 |
 | 8 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
 | 9 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
-| 10 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
+| 10 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
 | 11 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
-| 12 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
+| 12 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
 | 13 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
 | 14 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 |
 | 15 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [See U Later](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:18 |
 | 50 | [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 |
 
-Snapshot ID: `MCxlYTAwMjRmZGY4NjgxYzdkMWE2NzYyNjhkNTI3NWQzNzJmMzkyNjMz`
+Snapshot ID: `MCw3NmExNGQyMGYyY2YwNTA3YWMwZTgzNTA2Njk5MTEyNWFhZDMyNjc4`

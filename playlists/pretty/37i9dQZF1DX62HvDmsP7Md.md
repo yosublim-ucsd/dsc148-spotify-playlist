@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,784 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,976 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 64 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 65 | [Money Ain't a Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:14 |
 
-Snapshot ID: `MCw3NDFhMmI2MWJlZWM3NTdmMzY1YTYxM2VjNWNmN2IwZmU4YjFhMzQ0`
+Snapshot ID: `MCw1MTUzZjg1ZTc5ZmI2MzBiMTdiMDhhMjcxZDUyNWJkNGYwZTE5NzRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,012 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,064 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 10 | [Los Ricos También Lloran](https://open.spotify.com/track/4ah8X7TcY3T5wy9ovVJGpq) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Los Ricos También Lloran](https://open.spotify.com/album/42ITN8GeRpWertgabpDGia) | 3:34 |
 | 11 | [El Perdedor](https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:11 |
 | 12 | [Vivo per lei](https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Bocelli \(Remastered\)](https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3) | 4:25 |
-| 13 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:05 |
-| 14 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
+| 13 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
+| 14 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:05 |
 | 15 | [En cambio no](https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera anticipada](https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7) | 3:57 |
 | 16 | [Amor \(Amor, amor, amor\)](https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:42 |
 | 17 | [El Privilegio De Amar](https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Privilegio De Amar](https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f) | 3:56 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 19 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 |
 | 20 | [Un Poco De Tu Amor](https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:26 |
 | 21 | [Corazones Invencibles](https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Romántico Desliz](https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt) | 3:37 |
-| 22 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 2:46 |
-| 23 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
+| 22 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
+| 23 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 2:46 |
 | 24 | [Nunca Te Olvidaré](https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Cosas Del Amor](https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB) | 4:24 |
 | 25 | [La Descarada](https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:23 |
 | 26 | [Entra en Mi Vida](https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 4:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Contra Viento Y Marea](https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:40 |
 | 70 | [Poco A Poco](https://open.spotify.com/track/6PlRNIEZIvkvCZp8CWTKg4) | [Jeremías](https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E) | [Jeremías](https://open.spotify.com/album/4lg6lw4GS5ckUlmizqfXiL) | 4:23 |
 
-Snapshot ID: `MCxjYjJjZTZjY2M0YWQyN2E3ODM3MDYxOWZhOWJhODQ4NTRmMGYxOTFl`
+Snapshot ID: `MCw1OWI2NDNlMDYxNWI5MDM3ZDg1ZGNmMmIzNGY4ZmQwZGU5MjIxZmZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,945 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,961 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 55 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
 | 56 | [Not The 1975](https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:18 |
 | 57 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 |
-| 58 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
-| 59 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
+| 58 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
+| 59 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
 | 60 | [Ramon Ayala](https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 2:48 |
 | 61 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 |
 | 62 | [The Matrix](https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [The Matrix](https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd) | 3:21 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 83 | [The Best](https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:43 |
 | 84 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
 | 85 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
-| 86 | [Wildfire](https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 2:46 |
-| 87 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
+| 86 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
+| 87 | [Wildfire](https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 2:46 |
 | 88 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
 | 89 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 90 | [Don't Miss](https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6) | 3:07 |
 | 91 | [Running In Circles](https://open.spotify.com/track/3EjHI10QuKMoVBxcgpHrf3) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [Running In Circles / HURT](https://open.spotify.com/album/4TLVu9jrPLKpyPj1R3m2RW) | 3:53 |
-| 92 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 |
+| 92 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 |
 | 93 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 |
-| 94 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 |
-| 95 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
+| 94 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
+| 95 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 |
 | 96 | [Quiet Little Voices](https://open.spotify.com/track/4TQJGu7KoqOFvjvopA8fx2) | [We Were Promised Jetpacks](https://open.spotify.com/artist/3gnrmLahFhVXRI9DA1MImH) | [These Four Walls](https://open.spotify.com/album/2AAC54hhi2XzPvIk7IWpgg) | 4:17 |
 | 97 | [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 |
 | 98 | [Be Legendary](https://open.spotify.com/track/1K48Rz8fb7x6zdJkyVoQoq) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/3qytVWeUzpO3PkxPWurIfY) | 3:23 |
 | 99 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:12 |
 | 100 | [Human \(feat\. Barns Courtney\)](https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Atlas Underground Flood](https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6) | 3:04 |
 
-Snapshot ID: `MCxiNzQ5NDk2YzYyZTgxYzlkOTM5NGZlYTg1MTJiNGM0ZjlhZjFmY2Yy`
+Snapshot ID: `MCxmZTMwYzRiNTM5ZTc5ZTE1MjdiZGFhN2RmMjVjN2ZlM2Q3YWE5MTU4`

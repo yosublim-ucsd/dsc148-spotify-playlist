@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-435 songs - 1 day 2 hr 21 min
+436 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [HEADLINE](https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [HEADLINE](https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb) | 3:16 | 2022-03-11 | 2022-09-10 |
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-09 | 2023-11-08 |
 | [Heart Is On My Sleeve](https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Heart Is On My Sleeve](https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy) | 4:13 | 2022-10-28 |  |
-| [Hello](https://open.spotify.com/track/3PShip6upqx22eGpErMcLC) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:57 | 2023-10-27 |  |
+| [Hello](https://open.spotify.com/track/3PShip6upqx22eGpErMcLC) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:57 | 2023-10-27 | 2024-02-19 |
 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-04 |  |
 | [High](https://open.spotify.com/track/3AzYlyo9FhKyETJKQI84rm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:47 | 2023-05-19 | 2023-06-22 |
 | [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2024-01-21 |
@@ -419,6 +419,7 @@
 | [Waterfall \(I Adore You\)](https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Waterfall \(I Adore You\)](https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9) | 4:52 | 2023-10-27 |  |
 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 | 2023-10-27 | 2024-02-10 |
 | [We Found Love](https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [We Found Love](https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p) | 3:09 | 2023-09-08 |  |
+| [We Got To Change](https://open.spotify.com/track/3KOtaTxNIitCRgkdq3F4ir) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [We Got To Change](https://open.spotify.com/album/3ve6xJpPDWT9YABqOrciFS) | 3:46 | 2024-02-16 |  |
 | [Weightless](https://open.spotify.com/track/1DtKIGt2v637DaiBSu5vv9) | [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Weightless](https://open.spotify.com/album/6QFd5hVu9jc69TXwaxxFdU) | 2:28 | 2023-07-21 | 2023-09-02 |
 | [WELCOME TO SOUL,PRESENT](https://open.spotify.com/track/0us7zsn3fg0xjJ4nzNeEHu) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:09 | 2023-05-05 | 2023-10-07 |
 | [What A Difference She Made](https://open.spotify.com/track/4kOdKWtst1d1PwERMtOWlX) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:55 | 2022-10-14 |  |

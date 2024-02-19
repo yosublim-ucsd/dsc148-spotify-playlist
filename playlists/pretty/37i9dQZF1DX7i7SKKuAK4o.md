@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7i7SKKuAK4o.md) - [plain]
 
 > Kumpulan lagu Hits hingga beberapa tahun lalu\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,551 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,665 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7i7SKKuAK4o.md) - [plain]
 | 49 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
 | 50 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 
-Snapshot ID: `MCw1Nzc5M2M1ODkwYWI0MzA3ZTk5NDkzM2E2Y2JhZTU4OGY2ZDA5YWMz`
+Snapshot ID: `MCxmN2UzZGMxMzk0YjE3Y2E0NDc1ZTkzNjFlMTA4MjJiYzgyNmE4MTA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Kota The Friend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,519 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,585 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [PLAIN JANE](https://open.spotify.com/track/0ibfcFmGtwTPScXJY7USAE) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [PLAIN JANE](https://open.spotify.com/album/1gU8EZFGp7aIaIz8PCPldL) | 2:07 |
 | 100 | [Destiny](https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Destiny](https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW) | 1:36 |
 
-Snapshot ID: `MCxhYWY1ZjU4ZjBlN2I3NjEzZTZhNGI5MzdmNWJjOWZmMmEyMjg4ZTgw`
+Snapshot ID: `MCwyMjExM2MyNmNkOTlhYzkxMWU3NTFkNzVlZmQxZDAwMjY1ZDNmZWRh`

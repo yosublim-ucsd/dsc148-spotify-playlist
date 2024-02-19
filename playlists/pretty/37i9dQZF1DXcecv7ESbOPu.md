@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,578 likes - 123 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,611 likes - 123 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 122 | [JUSSI](https://open.spotify.com/track/5z7Zc81YRQHchQJXXIj6RE) | [ALVA](https://open.spotify.com/artist/5cutSKNdUWOwGrP7KsdNLU) | [JUSSI](https://open.spotify.com/album/6z5UZcjnwzfKYeXjKprt1i) | 3:23 |
 | 123 | [SOLDAT \- RMX](https://open.spotify.com/track/7MZQoikPpcwneYkKhdRvoe) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SOLDAT \(RMX\)](https://open.spotify.com/album/7d01BzemHy5sO25e3BodoN) | 2:19 |
 
-Snapshot ID: `MCw3NmJjNmFiNjU2MjFhZGE5MTNiN2RhMzVmOTQ4YTE5OTJhODU0MGFj`
+Snapshot ID: `MCw2NTc5NDhiZmNhMmRkZmM2OTcxYzJkMTVmMzMzODEwMjM3ZGNjMTI3`

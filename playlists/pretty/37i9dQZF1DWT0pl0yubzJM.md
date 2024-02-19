@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,700 likes - 35 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,703 likes - 35 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 12 | [Marea de Venus](https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:22 |
 | 13 | [Suficiente](https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Suficiente](https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI) | 4:04 |
 | 14 | [MATE](https://open.spotify.com/track/6gmGCkSs5AA0FWwI2poY9Z) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:11 |
-| 15 | [Agujeros Negros](https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Revolución](https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O) | 2:38 |
+| 15 | [La Bomba](https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [San Cipriano](https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9) | 2:43 |
 | 16 | [Escafandra](https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 2:53 |
-| 17 | [La Bomba](https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [San Cipriano](https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9) | 2:43 |
+| 17 | [Agujeros Negros](https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Revolución](https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O) | 2:38 |
 | 18 | [Tarde de Cansancio](https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:08 |
 | 19 | [Montañas de Agua](https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trance Zomba](https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS) | 3:29 |
 | 20 | [Jubilados Violentos](https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 3:19 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Marmota](https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 4:42 |
 | 35 | [Manzana de Metal](https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Nada Es Exacto Salvo la Medida de los Sueños](https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM) | 5:18 |
 
-Snapshot ID: `MCwyZmY3YTA4OTA4YTcwOTJiZTg5OGM1MzMxZjY2ZGY4ZDA1MDhkMjBl`
+Snapshot ID: `MCw3YTQ4YTFkYTI2ZmQxOWEwMzQ0MmFjN2ExMmI1YmExNzNiMmExNmE3`

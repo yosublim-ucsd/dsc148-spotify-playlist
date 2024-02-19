@@ -4,7 +4,7 @@
 
 > La esquina donde las estrellas de la Música Mexicana se juntan\. Piso 21, Eden Muñoz en portada.
 
-234 songs - 12 hr 19 min
+235 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 | 2022-04-01 | 2022-09-10 |
 | [Falso Amigo](https://open.spotify.com/track/7Gmh0Emb8tt5XKCavZZfvD) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Falso Amigo](https://open.spotify.com/album/7iKG6XMWGzrz8OpST6DjRL) | 3:15 | 2022-08-05 | 2022-11-08 |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-01-13 | 2023-08-09 |
-| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2022-09-16 |  |
+| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2022-09-16 | 2024-02-19 |
+| [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 | 2024-01-26 |  |
 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-10-27 |  |
 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 | 2023-08-25 |  |
 | [Hoy Se Amerita](https://open.spotify.com/track/2cnxxpTjSby0FmV2FnhjxA) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Hoy Se Amerita](https://open.spotify.com/album/4Bw3M3YZnEULlh1OQYtmWH) | 3:26 | 2022-09-09 | 2022-12-17 |

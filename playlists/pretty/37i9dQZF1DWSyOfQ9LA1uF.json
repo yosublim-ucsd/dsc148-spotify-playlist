@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 70180,
+  "num_followers": 70190,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODhhODBlNGM4YTA2NjFmNmM0Yjg0MzU2NzI2ZTY4MmUwNDkxZTll",
+  "snapshot_id": "MCw1MTNkZjI0ZTQwMDBmZjdlOTg4ZDJjZDdlNzg4ZWQxZGZhMGNlZGE1",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Kitsun\u00e9 Maison Compilation 4",
-        "url": "https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ"
-      },
-      "artists": [
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        },
-        {
-          "name": "Midnight Juggernauts",
-          "url": "https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx"
-        }
-      ],
-      "duration_ms": 355520,
-      "name": "I Get Around - Midnight Juggernauts Remix",
-      "url": "https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "From Then Until Now",
         "url": "https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 351094,
       "name": "Let Me Back Up - Crookers Tetsujin Remix",
       "url": "https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Kitsun\u00e9 Maison Compilation 4",
+        "url": "https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ"
+      },
+      "artists": [
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "Midnight Juggernauts",
+          "url": "https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx"
+        }
+      ],
+      "duration_ms": 355520,
+      "name": "I Get Around - Midnight Juggernauts Remix",
+      "url": "https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6"
     },
     {
       "added_at": "2022-08-24 22:29:13",

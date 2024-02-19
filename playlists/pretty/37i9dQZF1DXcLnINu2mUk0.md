@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Ivandro escolhe as músicas, ele decide!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,240 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,256 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 11 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 12 | [Give God Praises](https://open.spotify.com/track/4amIx2cjGkQBmQjSFViTgD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:02 |
 | 13 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 |
-| 14 | [DIREÇÃO PARIS](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
+| 14 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 15 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
 | 16 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
 | 17 | [Pontos Finais](https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Pontos Finais](https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 79 | [Honesto \(Faroeste\)](https://open.spotify.com/track/6uGGjOmsyH4iSpG3tZfW6W) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [BELLA SAINT](https://open.spotify.com/artist/4smL5IyxleZm2uUsmj7fpI) | [Honesto \(Faroeste\)](https://open.spotify.com/album/72BJO5d7IEQaJjLiX0n4NA) | 3:40 |
 | 80 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 
-Snapshot ID: `MCw0N2FkYmIwZGZlNjkwNjdhNGMxYjk2YWIwZWM3ZTYyMjM3YjIwNWIy`
+Snapshot ID: `MCw1YTYwMmY5ZDZjMzBmZGIxNmUyNzk5MDk1YTBiZjE5ODY1MjJmNWU1`

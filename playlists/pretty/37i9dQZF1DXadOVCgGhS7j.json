@@ -1,12 +1,12 @@
 {
   "description": "Put a spring in your step with these mood boosting tracks.",
-  "num_followers": 1859057,
+  "num_followers": 1859120,
   "original_name": "Fun Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWUwNGYwNjRmZDM3MGViYWU3ZDRkZjI1MjQ2OGQ1Y2Y1NmJiYjEz",
+  "snapshot_id": "MCw3NDEyOTJjN2FlYzAxMjVjYjRkZTUzMDhjNDg3YzhkYWI1ODgwZGIw",
   "tracks": [
     {
       "added_at": "2023-05-18 17:37:33",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2023-03-02 09:53:34",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 261153,
       "name": "Castle on the Hill",
       "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2023-02-17 11:17:00",

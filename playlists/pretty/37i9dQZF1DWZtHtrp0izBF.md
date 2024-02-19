@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 914 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 981 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 43 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 |
 | 44 | [Mi Media Mitad](https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [20th Anniversary](https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW) | 4:52 |
 | 45 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 46 | [Un Montón de Estrellas](https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Viceversa](https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX) | 4:33 |
+| 46 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
 | 47 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
-| 48 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
+| 48 | [Un Montón de Estrellas](https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Viceversa](https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX) | 4:33 |
 | 49 | [Casi Te Envidio](https://open.spotify.com/track/07PF7Djp1Dmrin3X5fy8nA) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero \(20 Éxitos\)](https://open.spotify.com/album/7CV3xQzREhrKHzipageL3n) | 5:21 |
 | 50 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 
-Snapshot ID: `MCwzMGIzNjU5MDMwZjBkOTg0MTllNmFhNjM1MjM5NjE0MzI0MjViYTU4`
+Snapshot ID: `MCw5NGE3YjVmMTA5N2JkYTgyOTViNDBkNTkyZGIyZjY5OTJiMGY5MGYw`

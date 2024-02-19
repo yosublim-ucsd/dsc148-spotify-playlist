@@ -1,12 +1,12 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: (G)I-DLE) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 951490,
+  "num_followers": 951620,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmFiZDdjNTg5NmI5MTk5NTFkYjIzZGNhNmQzMzkxMWNlOGIwMWRi",
+  "snapshot_id": "MCw5YjBlNWQwM2Y3NmYzNWNmMDYzYjVhNzhhZjBhODI1Y2JmNWI4ODc2",
   "tracks": [
     {
       "added_at": "2024-02-06 15:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "NOBODY",
         "url": "https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 161120,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "ENTWURF",
-        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
     },
     {
       "added_at": "2024-02-06 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 353864,
+  "num_followers": 353891,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjYzM2E0N2U1OGRjMDc2ZmM3MmM1YmVjZjdlOGJjYTM0OGZlNjg1",
+  "snapshot_id": "MCxiYzczOGFkNTcwNmVjMzBhMjEwNWNiODM0MWIwNzA2NzBhNTE0MzJi",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Amansara Remixed",
-        "url": "https://open.spotify.com/album/1QKIcCF0KmiDmRbGMnZvDZ"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 241338,
-      "name": "Sueno en Paraguay - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Otun",
         "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 263225,
       "name": "Solo Quiero (feat. Pedrina)",
       "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/1QKIcCF0KmiDmRbGMnZvDZ"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 241338,
+      "name": "Sueno en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 348887,
       "name": "Astral",
       "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Canario",
-      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "CARISMA",
         "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Canario",
+      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "Ahomale",
+        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
+      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Shika Shika Presents Eco",
         "url": "https://open.spotify.com/album/09Hnfjh6xV41cCJahc0PHG"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 332830,
       "name": "Paso Por El Fuego",
       "url": "https://open.spotify.com/track/5h9Tbkweollk1sCg5lX3Vs"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Ahomale",
-        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
-      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
     },
     {
       "added_at": "2023-11-24 02:05:30",

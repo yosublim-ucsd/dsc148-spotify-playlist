@@ -4,7 +4,7 @@
 
 > These ones are taking off 🚀🚀🚀 Cover: Usher
 
-70 songs - 3 hr 48 min
+71 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [if u think i'm pretty](https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:08 | 2024-02-09 |  |
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-01-23 | 2024-02-12 |
 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 | 2024-01-23 |  |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2024-01-23 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2024-01-23 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-13 |  |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2024-01-23 |  |
 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 | 2024-01-23 | 2024-02-14 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-01-23 |  |

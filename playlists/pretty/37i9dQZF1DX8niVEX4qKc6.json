@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Mica Sotera",
-  "num_followers": 180717,
+  "num_followers": 180740,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmJjM2EzODE4YTNmZGIzMzRmMGMxYTA4NzQ0ZWRmZjJhYjU1NDcx",
+  "snapshot_id": "MCwwY2Q5ZWEzYzZiZDVhNmZiMjJlYjNkMjMxMDc5MTZiMjk5NmIwYmQ3",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Fin de Fiesta",
-        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 101818,
-      "name": "Fin de Fiesta",
-      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 266824,
       "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "yen3",
         "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 186625,
       "name": "yen3",
       "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Ojos de R\u00edo",
         "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 136512,
       "name": "Ojos de R\u00edo",
       "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2024-02-02 03:00:00",

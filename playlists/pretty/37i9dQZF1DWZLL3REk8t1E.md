@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,326 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,466 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,23 +33,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 23 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
 | 24 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 |
 | 25 | [El Amor De Tu Vida](https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Tony Melendez](https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF) | [El Amor De Tu Vida](https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9) | 2:43 |
-| 26 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
+| 26 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
 | 27 | [El Amor Soñado](https://open.spotify.com/track/587p8shYuTXUhThG3t9x60) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 2:44 |
-| 28 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
+| 28 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
 | 29 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 |
 | 30 | [Borracho de Amor](https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I) | 3:24 |
 | 31 | [La Puerta Negra](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Gracias America Sin Fronteras](https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd) | 3:23 |
 | 32 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
 | 33 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 |
-| 34 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |
-| 35 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
+| 34 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
+| 35 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |
 | 36 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
 | 37 | [Secuestro De Amor](https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 3:16 |
 | 38 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
 | 39 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
 | 40 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 |
-| 41 | [Cuál Adiós](https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE) | 3:29 |
-| 42 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
+| 41 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
+| 42 | [Cuál Adiós](https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE) | 3:29 |
 | 43 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
 | 44 | [Fuiste Mía](https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:11 |
 | 45 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 99 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
 | 100 | [Seremos](https://open.spotify.com/track/1ea25iz3zE8aLnbSZ5ZR92) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Seremos](https://open.spotify.com/album/6H4FKdBzb29bJ8xOJCRJPr) | 3:06 |
 
-Snapshot ID: `MCw0NzU2ZjA3OGY1YThlNDYyMTg5ZDVkMWEwZjkxMmE1YmNmMWQ2YTA3`
+Snapshot ID: `MCwyZDkxY2QzMzE1MTgxYzBmMmQ1MDg2YzU4NmFlYmZlZjg3ZDJlODQ3`

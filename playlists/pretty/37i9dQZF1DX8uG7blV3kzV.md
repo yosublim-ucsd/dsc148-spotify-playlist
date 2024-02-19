@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 
 > The hottest in hip\-hop, R&B and Afrobeats\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,259 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,263 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 25 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 26 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
 | 27 | [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 |
-| 28 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
-| 29 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
+| 28 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
+| 29 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 30 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
 | 31 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 32 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 49 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
 | 50 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 
-Snapshot ID: `MCxlY2E1ZWUxY2Q4ZGFhYjUwMTY1MmE0MzU1ZDYzNmVhMTA3ZGVkOTQ1`
+Snapshot ID: `MCwyYTY4OGZmNWZiNjU1NTQ2OTNmNzQ1ODdjYjI0MTI1YzJjMTNiMjdk`

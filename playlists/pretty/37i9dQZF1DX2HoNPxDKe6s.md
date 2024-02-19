@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 
 > The hip\-hop party soundtrack of summer, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,428 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,426 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 10 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
 | 11 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 12 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
-| 13 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 |
+| 13 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 |
 | 14 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:19 |
 | 15 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
-| 16 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 |
+| 16 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 |
 | 17 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 18 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
 | 19 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 46 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 47 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
 | 48 | [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 |
-| 49 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 |
-| 50 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
+| 49 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
+| 50 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 |
 
-Snapshot ID: `MCwzNWNkZWMxZjQwNWNlYjZkZDEzNGUxOWU2YzE1ZTQ2OTRkYWI4Mzlm`
+Snapshot ID: `MCwwNTg3YjQwZDE2OGFjMTljN2U0ZDZlOGQ1ODU5MmYwZTc1NjkwYTE2`

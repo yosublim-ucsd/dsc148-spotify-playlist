@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 
 > The songs of the 1980s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,632 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,791 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 24 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 |
 | 25 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 26 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
-| 27 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
-| 28 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
-| 29 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
+| 27 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
+| 28 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
+| 29 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 | 30 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 31 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 |
 | 32 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 53 | [Caribbean Queen \(No More Love On the Run\)](https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:04 |
 | 54 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 |
 | 55 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
-| 56 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
-| 57 | [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 3:37 |
+| 56 | [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 3:37 |
+| 57 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
 | 58 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 59 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
 | 60 | [Venus](https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [True Confessions \(Collector's Edition\)](https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h) | 3:49 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 68 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
 | 69 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
 | 70 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |
-| 71 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
-| 72 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 |
+| 71 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 |
+| 72 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
 | 73 | [Cruel Summer](https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 3:35 |
 | 74 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
 | 75 | [Addicted To Love](https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Eric 'ET' Thorngren](https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2) | [Riptide](https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd) | 6:03 |
 
-Snapshot ID: `MCw3MDRhODVkNjc2YWFiMzM3ZmM1OTJkMzgyYzNlYzc3NzU4YjdhMTg4`
+Snapshot ID: `MCxkYTFiODdkYTc3ZjljMjNlNmQ3Y2U5Y2ZmNTA5MGQ5NjE4ZmUzM2Zh`

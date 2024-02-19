@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Sinéad Harnett
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,021 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,027 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
 | 50 | [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 |
 
-Snapshot ID: `MCxhYzNiOGFiZThiYjE0OTJjZDRhNTljODlmYjVjMzFlZjRlOTBhMjVj`
+Snapshot ID: `MCxiYzRhZTFlMzAxMWJmYzFjZTRhZjU0MDU5M2E4ZmMwNjUwMjE5ZTBl`

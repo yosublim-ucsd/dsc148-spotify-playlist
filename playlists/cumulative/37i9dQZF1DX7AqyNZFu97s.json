@@ -5062,10 +5062,28 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 260053,
       "name": "Colours",
       "url": "https://open.spotify.com/track/27rRxKadyDREugkcdpDCda"
+    },
+    {
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/17RoIHpP5F48m6gDzozYqL"
+      },
+      "artists": [
+        {
+          "name": "Jack Cullen",
+          "url": "https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260053,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/2V9Kql3sFzGih0tvOULLdd"
     },
     {
       "album": {

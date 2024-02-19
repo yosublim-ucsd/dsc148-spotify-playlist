@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs">Mark Ronson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,338 likes - 78 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,337 likes - 78 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 35 | [Then There Were Two](https://open.spotify.com/track/3HOwzZCW4jgwls1nX215Ie) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Then There Were Two](https://open.spotify.com/album/0Hge6ViJwQegFirPFJv3MA) | 2:32 |
 | 36 | [Why Hide \(feat\. Diana Gordon\)](https://open.spotify.com/track/2ezB38ZcizFvMogmHgBztH) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 4:19 |
 | 37 | [Feel About You \(feat\. Mapei\)](https://open.spotify.com/track/4VwelhIHr9HY2zjUFS8QRW) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Feel About You \(feat\. Mapei\)](https://open.spotify.com/album/6bNP3lhcQuHdDWDGbrOaBI) | 2:50 |
-| 38 | [I Can't Lose \(feat\. Keyone Starr\)](https://open.spotify.com/track/2VNSUMHI1R3B6wVV8P7ZlG) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Keyone Starr](https://open.spotify.com/artist/5aNSfdgygtKXXyFAwqyASY) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 3:16 |
-| 39 | [Pain Is Inevitable](https://open.spotify.com/track/2d0dCpzPN76EhB4yv3S6ng) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:55 |
+| 38 | [Pain Is Inevitable](https://open.spotify.com/track/2d0dCpzPN76EhB4yv3S6ng) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:55 |
+| 39 | [I Can't Lose \(feat\. Keyone Starr\)](https://open.spotify.com/track/2VNSUMHI1R3B6wVV8P7ZlG) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Keyone Starr](https://open.spotify.com/artist/5aNSfdgygtKXXyFAwqyASY) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 3:16 |
 | 40 | [Pressure Off \(feat\. Janelle Monáe and Nile Rodgers\)](https://open.spotify.com/track/3m68q8grLFaQDNmCI4NKgN) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Paper Gods \(Deluxe Edition\)](https://open.spotify.com/album/5Mg8II19DRd8u88AJXt7zS) | 4:21 |
 | 41 | [Summer Breaking \(feat\. Kevin Parker\)](https://open.spotify.com/track/3hoh1AoKwuC3VZ8CYj6YA9) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 3:07 |
 | 42 | [True Blue \(feat\. Angel Olsen\)](https://open.spotify.com/track/4iALA6dAUWWjONe6pPPSGs) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 5:48 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 77 | [Do You Do You Know \(feat\. Santigold & Kathleen Hanna\)](https://open.spotify.com/track/6jN57Tbx38RDQ7eEGoH1Fd) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Kathleen Hanna](https://open.spotify.com/artist/0NXQFDQVqS7ffqT8yLKUAM) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 2:31 |
 | 78 | [Hell To Be You Baby](https://open.spotify.com/track/1AJsGxc2WejmcdXbxX50uk) | [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Hell To Be You Baby](https://open.spotify.com/album/48BuHR7I9Nauw1WA60OhTy) | 3:55 |
 
-Snapshot ID: `Mjg0NzAzNzAsMDAwMDAwMDA0NzcyMWQ2MGU0YjM2OWRkOTQ5NTc4ZjRlM2RmYjU4Yg==`
+Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDA3ZjZmNWQyNDI1ZDllM2ZiYjAyMzQxM2YxZWJiODg3OQ==`

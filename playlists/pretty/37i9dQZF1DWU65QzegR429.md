@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,405 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,408 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 13 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 |
 | 14 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 |
 | 15 | [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 |
-| 16 | [T'as peur](https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [T'as peur](https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d) | 3:35 |
-| 17 | [Soso \- Remix](https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:22 |
+| 16 | [Soso \- Remix](https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:22 |
+| 17 | [T'as peur](https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [T'as peur](https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d) | 3:35 |
 | 18 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
 | 19 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj) | 2:55 |
 | 20 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 42 | [TOKO](https://open.spotify.com/track/1kE0aGbuxGUOS6rUaBPhCe) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TOKO](https://open.spotify.com/album/0IKs9DTpEL26R4G8h0fW5z) | 2:55 |
 | 43 | [Come](https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Come](https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1) | 2:56 |
 | 44 | [SPICY](https://open.spotify.com/track/3Qjwo4QZcSR79l5GaoHweR) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [SPICY](https://open.spotify.com/album/5D0lLOvY3tsKuo2WTFfj4d) | 3:00 |
-| 45 | [Para Mi \(Freestyle\)](https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [para mi \(Freestyle\)](https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C) | 2:50 |
-| 46 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
+| 45 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
+| 46 | [Para Mi \(Freestyle\)](https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [para mi \(Freestyle\)](https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C) | 2:50 |
 | 47 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
 | 48 | [Anormales](https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Anormales](https://open.spotify.com/album/2daADHTTdKChlNqaIQ9cMD) | 3:28 |
 | 49 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
 | 50 | [Ghetto Love \(feat\. Modblack\)](https://open.spotify.com/track/6tKf1yECBWM1YOuld7sU4B) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS), [Modblack](https://open.spotify.com/artist/3I4F2sRhhXJLoUgnfnZKil) | [Ghetto Love \(feat\. Modblack\)](https://open.spotify.com/album/34IJofkFyAezKIRECKpiFC) | 3:05 |
 
-Snapshot ID: `MCwyMmUwMmIyNjNhMTBmZjQ3ODU4MTZlOTk4NTY2MWJkNGE0MmE4ZThm`
+Snapshot ID: `MCwzZmRmNzQ5YjcwZTQ2YTJjNDYzOGRlYWVmZmE2ODA2NmYwNWQwMDAw`

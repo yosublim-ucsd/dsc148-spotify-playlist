@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 116971,
+  "num_followers": 117092,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODdmM2ViNDhlMDJlZDU0NTdkNjY0NmEyMjE4ZmVmMzRkZWU2Y2Y3",
+  "snapshot_id": "MCxkNzlkMDkzZDE2YmRhZTBlZWZhMGViNTVhMWY5MTEyZjNmNmE0MmY5",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
+      },
+      "artists": [
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        }
+      ],
+      "duration_ms": 485055,
+      "name": "N\u00e3o Desista de Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Aguente, Guerreiro",
         "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 307750,
       "name": "Aguente, Guerreiro",
       "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
-      },
-      "artists": [
-        {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        }
-      ],
-      "duration_ms": 485055,
-      "name": "N\u00e3o Desista de Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Tempo de Espera",
-        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
       },
       "artists": [
         {
-          "name": "Ketelyn Amanda",
-          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "duration_ms": 263040,
-      "name": "Tempo de Espera",
-      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+        "name": "Tempo de Espera",
+        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Ketelyn Amanda",
+          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
+      "duration_ms": 263040,
+      "name": "Tempo de Espera",
+      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
+        "name": "Desapareceu um Povo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS"
       },
       "artists": [
         {
@@ -1260,29 +1260,13 @@
           "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
         },
         {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+          "name": "Rodrigo Vinheiro",
+          "url": "https://open.spotify.com/artist/1z5mBQfcYWzBTrBschPZUc"
         }
       ],
-      "duration_ms": 293506,
-      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Voc\u00ea Disse",
-        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Voc\u00ea Disse",
-      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
+      "duration_ms": 210977,
+      "name": "Desapareceu um Povo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 154810,
       "name": "Engaja na Vit\u00f3ria",
       "url": "https://open.spotify.com/track/73FKPURqJ3UfrvwCehSFfP"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Voc\u00ea Disse",
+        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Voc\u00ea Disse",
+      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1411,8 +1411,8 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Desapareceu um Povo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS"
+        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
       },
       "artists": [
         {
@@ -1420,13 +1420,13 @@
           "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
         },
         {
-          "name": "Rodrigo Vinheiro",
-          "url": "https://open.spotify.com/artist/1z5mBQfcYWzBTrBschPZUc"
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
         }
       ],
-      "duration_ms": 210977,
-      "name": "Desapareceu um Povo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
+      "duration_ms": 293506,
+      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
     },
     {
       "added_at": "2023-12-22 03:00:00",

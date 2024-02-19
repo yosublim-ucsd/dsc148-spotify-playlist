@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 172131,
+  "num_followers": 172216,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQ1YTE1M2Y3YmUyYmY3YjI4ODYxMWQyZjA1OWI1OGNlNTZhMDIz",
+  "snapshot_id": "MCwyMjk4MDBmZjU3ZGIyMzYwMzg5NmNhYmVhNzMzMGFjZjczMjgwZGZm",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -159,22 +159,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 170078,
-      "name": "Me Gustas Natural",
-      "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -195,18 +191,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+      "duration_ms": 170078,
+      "name": "Me Gustas Natural",
+      "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Joder",
-        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Joder",
-      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 234984,
       "name": "BILLBOARD",
       "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": "2024-01-26 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,687,215 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,687,624 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 30 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
 | 31 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |
 | 32 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
-| 33 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
-| 34 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
+| 33 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
+| 34 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
 | 35 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
 | 36 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 37 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 42 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
 | 43 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 |
 | 44 | [California Dreamin'](https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Fly Me To The Moon](https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY) | 3:20 |
-| 45 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Dreamer](https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31) | 3:53 |
-| 46 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
-| 47 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
-| 48 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
+| 45 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
+| 46 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Dreamer](https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31) | 3:53 |
+| 47 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
+| 48 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
 | 49 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 | 50 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
 | 51 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 54 | [Jungle Boogie](https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 3:06 |
 | 55 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 56 | [The Boss](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Black Caesar](https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI) | 3:14 |
-| 57 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 |
-| 58 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
+| 57 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
+| 58 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 |
 | 59 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 |
 | 60 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 |
 | 61 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang \(Reissue\)](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 79 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
 | 80 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Man In The Street: The Complete Yellow Stax Solo Singles \(1968\-1974\)](https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b) | 2:22 |
 
-Snapshot ID: `MCw5ZmQxN2IwMGMzMjgyNzI0M2QwYjJiMGM4M2EyNjk5N2QyZDVhM2M5`
+Snapshot ID: `MCw4YTQwZWIzODIxZmU2NTc5OGExNWU5NTdhZWY0Mjg2ZDRlZDVkOTkw`

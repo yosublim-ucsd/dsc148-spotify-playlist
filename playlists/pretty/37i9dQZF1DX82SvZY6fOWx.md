@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82SvZY6fOWx.md) - [plain]
 
 > Walk on sunshine or dance on the ceiling with some feel good 80s Pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,395 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,417 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82SvZY6fOWx.md) - [plain]
 | 25 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 26 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 27 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
-| 28 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
-| 29 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
+| 28 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
+| 29 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
 | 30 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 31 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
 | 32 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82SvZY6fOWx.md) - [plain]
 | 49 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
 | 50 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 
-Snapshot ID: `MCxkMWU4NmI4ZjEwNmIxNjQyYmZjZDY4YzYwZjkwMTE5ZjY1ZDNlZDU0`
+Snapshot ID: `MCwwMzQxZWY5MTgzZmZhZWI2ZWM5MWYxMjJiYWYwYWI4MTFiYTkwMDM1`

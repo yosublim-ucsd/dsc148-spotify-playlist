@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 3 min
+69 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Dnou](https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:00 | 2023-03-17 | 2023-08-20 |
 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 | 2023-03-17 | 2023-08-20 |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-19 |  |
+| [Friends](https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:30 | 2024-02-18 |  |
 | [Glory 2 Glory](https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory 2 Glory](https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP) | 3:07 | 2023-07-08 | 2024-01-21 |
 | [Glory 2 Glory](https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:07 | 2024-01-20 |  |
 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 | 2023-03-17 |  |

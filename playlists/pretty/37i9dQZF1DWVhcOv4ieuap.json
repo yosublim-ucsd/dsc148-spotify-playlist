@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1030259,
+  "num_followers": 1030337,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGY5NjllNTc3MjA3YzFhMDZjMDE2MGM5Njk0ZGEzY2VjNjVhN2Y3",
+  "snapshot_id": "MCxkNDYzY2JiMGQ5MDUyM2ZmOWE3YTFhOTEzYWQwMDcyYzQzMjM2MTQ4",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 214781,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "KESI (Remix)",
         "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 246850,
       "name": "Te Espero - feat. Maria Becerra",
       "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Te quiero",
-        "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 214781,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Uff",
-        "url": "https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "Uff",
-      "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Uff",
+        "url": "https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "Uff",
+      "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"
     },
     {
       "added_at": "2024-02-16 05:01:00",

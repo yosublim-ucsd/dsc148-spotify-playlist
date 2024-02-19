@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,347 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,360 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 98 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 |
 | 99 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 |
 
-Snapshot ID: `MCwwYTA0MzA2N2ZmYTJlMjkyMDVhNzRlMjRjNTFiYjcwNThjNTE3NjU5`
+Snapshot ID: `MCwwY2U3NmIzMWNmMmQ0OWU4MjM3MDk2Yzg5ZjEyZTBjNGE2ZGI3OGZm`

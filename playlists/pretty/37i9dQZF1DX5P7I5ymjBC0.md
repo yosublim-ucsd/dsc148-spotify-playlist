@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,283 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,308 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 36 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
 | 37 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
 | 38 | [The Awakening](https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k) | [The Awakening](https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR) | 2:21 |
-| 39 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
-| 40 | [Seekho Na](https://open.spotify.com/track/0hFEqnYMbPJab6KjdKETkx) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Ab Ke Sawan](https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv) | 5:55 |
+| 39 | [Seekho Na](https://open.spotify.com/track/0hFEqnYMbPJab6KjdKETkx) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Ab Ke Sawan](https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv) | 5:55 |
+| 40 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
 | 41 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 |
-| 42 | [Aaj Rang Hai](https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Aaj Rang Hai](https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W) | 3:25 |
-| 43 | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 |
+| 42 | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 |
+| 43 | [Aaj Rang Hai](https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Aaj Rang Hai](https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W) | 3:25 |
 | 44 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
 | 45 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 |
 | 46 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Lat Ulajhi](https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S) | [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Classical Unwind](https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8) | 3:59 |
 | 50 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 |
 
-Snapshot ID: `MCw0YWM3OTFhN2I2NzAxNzMyNDRmZWE0MmM0N2VhMDQzOGYwZmZlNmE4`
+Snapshot ID: `MCwwZDhlM2ExMzEyOWUxNzE0MGRjNjY4NDEwNWQ2MGZjZWYwODE4OTgw`

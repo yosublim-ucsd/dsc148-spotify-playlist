@@ -1,12 +1,12 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1085750,
+  "num_followers": 1085719,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjc1MjY5MzY0YmI2YTI1YjAxYTZjODU1MjE4ZDhhY2U4NDBkNTQw",
+  "snapshot_id": "MCw1YzdjNmNjMmViYWFiNjk2ZTg0NjlmYjExZTliOWE1ZmMyNTNmMzM1",
   "tracks": [
     {
       "added_at": "2024-01-19 03:00:00",
@@ -687,30 +687,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "My Heart Goes (La Di Da)",
-        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "My Heart Goes (La Di Da)",
-      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "My Heart Goes (La Di Da)",
+        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "My Heart Goes (La Di Da)",
+      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
       "added_at": "2024-01-19 03:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-01-19 03:00:00",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2024-01-19 03:00:00",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2024-01-19 03:00:00",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
       "added_at": "2024-01-19 03:00:00",

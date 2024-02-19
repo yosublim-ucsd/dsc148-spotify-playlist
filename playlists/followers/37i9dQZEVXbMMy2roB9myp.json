@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 1534448,
+  "2024-02-19": 1535023,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Argentina.",
   "name": "Top 50 - Argentina",
@@ -4052,6 +4052,40 @@
     },
     {
       "album": {
+        "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) [Remix]",
+        "url": "https://open.spotify.com/album/1gOZkfjt7XYXBbfZWWSjPT"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270869,
+      "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) - Remix",
+      "url": "https://open.spotify.com/track/0e09Q1sQWzAsP2Yo62la9F"
+    },
+    {
+      "album": {
         "name": "Un Sentimiento",
         "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
       },
@@ -7203,7 +7237,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 338000,
       "name": "Los del Espacio",
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"

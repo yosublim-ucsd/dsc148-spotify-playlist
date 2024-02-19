@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> tfw only one of you reads the dress code
+> tfw only one of you reads the dress code // cover: Timothée Chalamet and Zendaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,169,075 likes - 104 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,168,747 likes - 104 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 103 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
 | 104 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 |
 
-Snapshot ID: `MCxhNDljYTIzN2E2OWRhOGQyMTUxZTQ2MmU0MzU2MTlkNzBiOGYzZTNk`
+Snapshot ID: `MCxhODFlMDIzYmUwMjEyOTcxOGE5MGMxMDQ0MmI2NzUzMjRjMWNlZDQ1`

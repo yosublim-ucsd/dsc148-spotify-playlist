@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 237506,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3PShip6upqx22eGpErMcLC"
@@ -8128,6 +8128,24 @@
       "duration_ms": 189187,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J"
+    },
+    {
+      "album": {
+        "name": "We Got To Change",
+        "url": "https://open.spotify.com/album/3ve6xJpPDWT9YABqOrciFS"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226148,
+      "name": "We Got To Change",
+      "url": "https://open.spotify.com/track/3KOtaTxNIitCRgkdq3F4ir"
     },
     {
       "album": {

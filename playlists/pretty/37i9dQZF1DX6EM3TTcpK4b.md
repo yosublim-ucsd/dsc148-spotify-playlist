@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,707 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,913 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 14 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
 | 15 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
 | 16 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 |
-| 17 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
+| 17 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
 | 18 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:33 |
 | 19 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
 | 20 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 21 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 22 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
-| 23 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
+| 23 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 24 | [Dime Cómo Quieres](https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw) | 2:51 |
 | 25 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
 | 26 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 40 | [No Entiendo](https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:43 |
 | 41 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 42 | [El Malo](https://open.spotify.com/track/0O3YmQ76fAGwrMIsmsEa8e) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:57 |
-| 43 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 |
+| 43 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 44 | [Nube Viajera](https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 4:04 |
 | 45 | [Llamarada](https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:24 |
 | 46 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 |
 | 47 | [Fallaste Corazón](https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:46 |
 | 48 | [Por Una Mujer Bonita](https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 2:44 |
-| 49 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
+| 49 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 |
 | 50 | [Esclavo y Amo](https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:57 |
 | 51 | [La Llorona](https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 8:10 |
 | 52 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 63 | [Soñador Eterno](https://open.spotify.com/track/5u91nMfFrx63mbRENGOSUA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:13 |
 | 64 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
 | 65 | [La Mitad Que Me Faltaba](https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:25 |
-| 66 | [Rata De Dos Patas](https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Taco Placero](https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh) | 3:38 |
-| 67 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:19 |
+| 66 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:19 |
+| 67 | [Rata De Dos Patas](https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Taco Placero](https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh) | 3:38 |
 | 68 | [El Pastor](https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:55 |
 | 69 | [Besos Y Copas](https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 2:58 |
 | 70 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 99 | [Animas Que No Amanezca](https://open.spotify.com/track/5jlWc3WmSTZ73RNmCqCQP3) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc), [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rancheras Inmortales](https://open.spotify.com/album/3x09ZlCqCLUxPvIEybsvU7) | 2:26 |
 | 100 | [Ya No Me Interesas](https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:02 |
 
-Snapshot ID: `MCxiNGNjMWZiNzYwODU2NmQxZWMyYWM3MjVkMWI3OWUwZTBiYTQwM2Yz`
+Snapshot ID: `MCwwMWFlN2E0OTdiYjM5YzFlNmI4NTUzNTFlOTZkOGRmOGQ2NTRhZTY4`

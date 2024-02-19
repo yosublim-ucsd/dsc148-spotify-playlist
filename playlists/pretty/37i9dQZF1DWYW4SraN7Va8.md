@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,802 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,998 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 44 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
 | 45 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
 | 46 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
-| 47 | [Heartbreaker](https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [In The Heat Of The Night](https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY) | 3:29 |
-| 48 | [Shout at the Devil](https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly) | 3:14 |
-| 49 | [La Grange \(2005 Remaster\)](https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:50 |
+| 47 | [La Grange \(2005 Remaster\)](https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:50 |
+| 48 | [Heartbreaker](https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [In The Heat Of The Night](https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY) | 3:29 |
+| 49 | [Shout at the Devil](https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly) | 3:14 |
 | 50 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
 | 51 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
 | 52 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 54 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 |
 | 55 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 |
 | 56 | [Black Magic Woman](https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 3:15 |
-| 57 | [Run to the Hills \(2015 Remaster\)](https://open.spotify.com/track/5b1jZ9geGD4boxz24XgGPp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo) | 3:53 |
-| 58 | [Woman](https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 2:56 |
+| 57 | [Woman](https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 2:56 |
+| 58 | [Run to the Hills \(2015 Remaster\)](https://open.spotify.com/track/5b1jZ9geGD4boxz24XgGPp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo) | 3:53 |
 | 59 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
 | 60 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 61 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 74 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
 | 75 | [What's Love Got To Do With It](https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [What's Love Got To Do With It](https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ) | 3:19 |
 
-Snapshot ID: `MCw4NTVjN2FlM2ExMGY5ZWJiNjg1NWIyNjdjZjZhOWNmYTZiNDg4MjAz`
+Snapshot ID: `MCxjOWUzY2Y0Yjc2OGE1YzI0OGEwNzk2YjU2YTIwNTk4OTNmMjg5Y2Ji`

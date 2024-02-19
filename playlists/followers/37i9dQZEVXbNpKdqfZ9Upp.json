@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 8248,
+  "2024-02-19": 8248,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -3629,7 +3629,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
@@ -11981,7 +11981,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -12967,6 +12967,44 @@
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "Hell\u2019s Greatest Dad",
+      "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
     },
     {
       "album": {
@@ -15305,7 +15343,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 249464,
       "name": "La Intenci\u00f3n",
       "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
@@ -16853,6 +16891,36 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175113,
+      "name": "Loser, Baby",
+      "url": "https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA"
     },
     {
       "album": {
@@ -26687,7 +26755,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 181591,
       "name": "Se\u00f1orita - Remix",
       "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
@@ -32539,7 +32607,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
@@ -33973,7 +34041,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"

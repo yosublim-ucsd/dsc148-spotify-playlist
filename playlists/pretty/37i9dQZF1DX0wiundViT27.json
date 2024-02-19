@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 612945,
+  "num_followers": 612961,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQ5NDk2YzYyZTgxYzlkOTM5NGZlYTg1MTJiNGM0ZjlhZjFmY2Yy",
+  "snapshot_id": "MCxmZTMwYzRiNTM5ZTc5ZTE1MjdiZGFhN2RmMjVjN2ZlM2Q3YWE5MTU4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "hometown",
         "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 256071,
       "name": "hometown",
       "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "We Need More Bricks",
-        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 228600,
-      "name": "We Need More Bricks",
-      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Everything's Electric",
         "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "We Need More Bricks",
+        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "We Need More Bricks",
+      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
     },
     {
       "added_at": "2023-12-15 05:00:00",

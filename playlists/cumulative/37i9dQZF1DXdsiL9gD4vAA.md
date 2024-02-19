@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-139 songs - 13 hr 4 min
+141 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,10 @@
 | [Gulzar Speaks \- Khwab](https://open.spotify.com/track/33IlpTp09vVa3VSTm4A5ol) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 1:03 | 2023-09-14 |  |
 | [Gulzar Speaks \- Tarkieb](https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 0:46 | 2023-09-14 |  |
 | [Gum si meri Parchhayi](https://open.spotify.com/track/2onUkx3QJFXINeiBSGSGQR) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Gum Si Meri Parchhayi](https://open.spotify.com/album/2AeIh4w4O0pUMy7ksBjzUR) | 4:58 | 2023-09-15 |  |
-| [Gumshuda](https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/4lEWszwJldkVUZigfwccng) | 3:48 | 2023-07-19 |  |
-| [Haathon Ki Lakeeron](https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/2d3k3BF0zEDZxdRTs64fze) | 7:24 | 2023-05-19 |  |
+| [Gumshuda](https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/4lEWszwJldkVUZigfwccng) | 3:48 | 2023-07-19 | 2024-02-19 |
+| [Gumshuda](https://open.spotify.com/track/43sashI4VkUAwNRNxY7r4Y) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/0WZW8fuex9rJLsHILJVii7) | 3:48 | 2024-02-15 |  |
+| [Haathon Ki Lakeeron](https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/2d3k3BF0zEDZxdRTs64fze) | 7:24 | 2023-05-19 | 2024-02-19 |
+| [Haathon Ki Lakeeron](https://open.spotify.com/track/0n9MV72hcWle7aWcNBZhDA) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/6rXD5EMeUVlTAFviAa6GOy) | 7:24 | 2024-02-15 |  |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/2UaGnopu3HmCVlJ0lHfQHE) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk), [Pushkar Jog](https://open.spotify.com/artist/2tKnS5nS5NOk2VIMTN7OjA) | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/album/56hiuxLFq78Jj10Ts0iNEg) | 3:43 | 2023-03-02 |  |
 | [Hangama Hai Kiu Barbad](https://open.spotify.com/track/5BLW13IDABVJN5J0dS7AjG) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 8:29 | 2021-12-01 | 2022-07-29 |
 | [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/1M3NqMGpz82MZymh0bJSIx) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 8:36 | 2022-07-26 | 2023-09-16 |

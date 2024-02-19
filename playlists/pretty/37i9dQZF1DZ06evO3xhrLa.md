@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,098 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,133 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 25 | [Eternal Sunshine](https://open.spotify.com/track/3t844ssjXzE9M3SDtUxTI4) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 3:30 |
 | 26 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
 | 27 | [Triggered \(freestyle\)](https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:29 |
-| 28 | [Sparks Will Fly \(feat\. Jhené Aiko\)](https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:12 |
+| 28 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
 | 29 | [Remember](https://open.spotify.com/track/3vMVipXhMeZt3wWbSBD4th) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 3:18 |
-| 30 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
+| 30 | [Moments](https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 2:58 |
 | 31 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 |
-| 32 | [Moments](https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 2:58 |
+| 32 | [Sparks Will Fly \(feat\. Jhené Aiko\)](https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:12 |
 | 33 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 |
 | 34 | [One Of Dem Nights \(with Jhené Aiko\)](https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:23 |
 | 35 | [Above And Beyond](https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 49 | [Comfort Inn Ending \(Freestyle\)](https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 5:21 |
 | 50 | [you vs them](https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:24 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA2MjIwNGM3ZWZlYWU2M2UyYjlmMzg1YTBiZWEzNjk4Mw==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBjZjRjMDY1ZjczNTM5M2IyOTk4YjNmODAxODUzN2MyYw==`

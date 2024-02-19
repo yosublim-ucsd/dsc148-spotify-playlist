@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,676 likes - 101 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,694 likes - 101 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 10 | [I Found A Place In My Heart](https://open.spotify.com/track/2JMcnVo0GurJvj5BF6APuY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [I Found A Place In My Heart](https://open.spotify.com/album/6gQRIuxmGLeFzNCbJF4kM5) | 3:05 |
 | 11 | [Cryin In The Rain](https://open.spotify.com/track/1iH2MvCrH0Dk3ZRkhPgDjy) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/7weNDcQWoNH39elxDoE8gA) | 3:30 |
 | 12 | [Haunted by You](https://open.spotify.com/track/03hLqqYkI9NrrkyCd6IbAg) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Haunted by You](https://open.spotify.com/album/7iryZotVB6K4OtMufi4Tfm) | 4:42 |
-| 13 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:03 |
+| 13 | [Better Days](https://open.spotify.com/track/6JUbNCkbY43fsTVcEr3Yxf) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/0p5LJ9i0t0HBwNDvuud4Kj) | [The Alders & The Ashes](https://open.spotify.com/album/2tqfiWVMrP284aCYzqtJb1) | 4:04 |
 | 14 | [Magnolia Trees](https://open.spotify.com/track/6V7ZRet51m5X0Fbs2Xy0Sa) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:35 |
 | 15 | [What's the Matter with You](https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8) | 3:52 |
 | 16 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 100 | [All Gone](https://open.spotify.com/track/55NkVwvITV119DkY4zhKEx) | [Micatone](https://open.spotify.com/artist/7yQjOE5dpqtfPCBXaHtrEj) | [The Crack](https://open.spotify.com/album/3VafpZNlfkUkYflCaCukUw) | 4:17 |
 | 101 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 
-Snapshot ID: `MCwwNGRkZTUwNzM5Y2ZkNGQ1YjU3MzU0NzFhNzU1ZmYwNGNiNWFiODll`
+Snapshot ID: `MCxiMDIxYWQ0OTczNDcyMTM4NjEzMDY1MmUxZWZjZTIwZDQ1YjQ5ZTQ1`

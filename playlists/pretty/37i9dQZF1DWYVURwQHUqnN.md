@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Hamza x Kaaris
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,455 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,573 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Ça débite](https://open.spotify.com/track/7AYN9igONRrVZoONAshs14) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [Ça débite](https://open.spotify.com/album/5W59ipjIbw7XLeO0Bj4k4c) | 2:23 |
 | 40 | [Lancôme \(feat\. ElGrandeToto\)](https://open.spotify.com/track/29ST3UVdjUIYyu5eiRNpZI) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:00 |
 
-Snapshot ID: `MCwxM2YyNTViYjdjMThiNDI5Y2U0NTc5NzIxMDI2OTFiNDIzYzZiNzA4`
+Snapshot ID: `MCxkYWVhNDVmZjNiNDgzNWU0M2UwNGFiOTViN2I3NTZlNWY3MmU4YjY4`

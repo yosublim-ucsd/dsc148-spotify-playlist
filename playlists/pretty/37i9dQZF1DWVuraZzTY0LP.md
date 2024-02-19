@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,394 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,435 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 59 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
 | 60 | [Perder para Ganar](https://open.spotify.com/track/5dCWXWENrozBEeZ0rS1S3q) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:02 |
 | 61 | [Bonnie Hill](https://open.spotify.com/track/4R77PNllrdwsvTRTx66BQn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:11 |
-| 62 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
+| 62 | [Cold Wars](https://open.spotify.com/track/503HjYtCoDtXQRhu01Vvx4) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:54 |
 | 63 | [Wacha Checa](https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Wacha Checa](https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY) | 3:37 |
-| 64 | [Cold Wars](https://open.spotify.com/track/503HjYtCoDtXQRhu01Vvx4) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:54 |
+| 64 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
 | 65 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 66 | [For Sure](https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:25 |
 | 67 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 69 | [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 |
 | 70 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 |
 
-Snapshot ID: `MCxmM2ViMzMwOTc0MDNmM2E0OGVkM2Y0YTIyZWNkOTc0MDQxMmY4ZjRm`
+Snapshot ID: `MCwwZTVkMWVjOGRiMTNlOTlhMGRhN2JjYTEyYzc3ZDk0ZmYxZTU2ZWE0`

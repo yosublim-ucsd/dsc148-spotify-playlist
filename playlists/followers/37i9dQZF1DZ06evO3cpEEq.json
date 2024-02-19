@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 340,
+  "2024-02-19": 342,
   "date_first_scraped": "2023-06-18",
   "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
   "name": "This Is Felicity Urquhart",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 170560,
       "name": "As You Lay Sleeping",
       "url": "https://open.spotify.com/track/2uRYWpRboWnVCnyICEDXuO"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 248729,
       "name": "Fly By Night",
       "url": "https://open.spotify.com/track/1aXAG1r1nWbwTT5R0kkv7x"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 199880,
       "name": "I Fall",
       "url": "https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 238266,
       "name": "Planet of Love",
       "url": "https://open.spotify.com/track/7wTQs1o4yo1m3aLvuMZHGi"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 212420,
       "name": "Softer Side",
       "url": "https://open.spotify.com/track/5qz43mUFzrB1W7SsKmp1mV"
@@ -1759,7 +1759,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 126866,
       "name": "You Can't Break My Heart",
       "url": "https://open.spotify.com/track/4ONAoZUWmzDHrp3nLFpuxf"

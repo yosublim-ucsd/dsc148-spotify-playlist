@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 
 > Still in rotation\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,138,384 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,138,414 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 6 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
 | 7 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 8 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
-| 9 | [Break from Toronto](https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 1:39 |
+| 9 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 10 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
-| 11 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
+| 11 | [Break from Toronto](https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 1:39 |
 | 12 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
 | 13 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 14 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 47 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 48 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 |
 | 49 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 |
-| 50 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
+| 50 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 |
 | 51 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
 | 52 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 |
-| 53 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 |
-| 54 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
-| 55 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 |
+| 53 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
+| 54 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 |
+| 55 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
 | 56 | [Go Crazy](https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:56 |
 | 57 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 |
 | 58 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 74 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 |
 | 75 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 
-Snapshot ID: `MCwwZDQxMjU5NDUwN2YzYmQwMGMxYWY1ZGRhNGZkNzkzNzI3NDhjMzgz`
+Snapshot ID: `MCxmNjdlZTk0OTczOTRlZGE1OWVjYzU0MzFiNTc0ZTlkOWU1MmNmNzE1`

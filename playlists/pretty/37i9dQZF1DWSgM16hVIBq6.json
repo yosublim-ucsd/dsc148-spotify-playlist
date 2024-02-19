@@ -1,12 +1,12 @@
 {
   "description": "Se prendi\u00f3 la fiesta, featuring Marc Anthony.",
-  "num_followers": 83934,
+  "num_followers": 83980,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWUzMTRkNTY2OWM3Njg0OTBlZDg2OGZkZWI3YTgyNDIwN2VmNWI1",
+  "snapshot_id": "MCwwMDgzZTEyZTMwOGFmNzg1M2NiMjQ2ZWZjZDJjMjhjZmY1NjRiMTU0",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 308040,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+      "duration_ms": 308040,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
+        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 192698,
+      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
+      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Los Vaqueros: La Trilog\u00eda",
         "url": "https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 232373,
       "name": "Nota de Amor (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
-        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 192698,
-      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
-      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
       "artists": [
         {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+      "duration_ms": 180494,
+      "name": "No Se Vale",
+      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
         }
       ],
-      "duration_ms": 180494,
-      "name": "No Se Vale",
-      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 266893,
       "name": "T\u00fa No Le Amas Le Temes",
       "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Rebotando",
+        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Como Un Trueno",
+      "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Rebotando",
-        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
+        "name": "Gente Valiente",
+        "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
       },
       "artists": [
         {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 246266,
-      "name": "Como Un Trueno",
-      "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
+      "duration_ms": 228226,
+      "name": "Ya No Me Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/4JnJ9ACXmtLkpH61ZvFSaM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Gente Valiente",
-        "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 228226,
-      "name": "Ya No Me Duele M\u00e1s",
-      "url": "https://open.spotify.com/track/4JnJ9ACXmtLkpH61ZvFSaM"
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1727,22 +1743,6 @@
       "duration_ms": 264193,
       "name": "Mala y Peligrosa (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2024-02-09 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,942 likes - 132 songs - 6 hr 44 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,935 likes - 132 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

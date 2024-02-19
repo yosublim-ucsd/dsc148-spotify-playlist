@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-1,105 songs - 2 day 15 hr 39 min
+1,106 songs - 2 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -910,7 +910,7 @@
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2024-01-20 | 2024-02-15 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-06-12 |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-01 | 2023-04-24 |
-| [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 | 2024-02-17 |  |
+| [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 | 2024-02-17 | 2024-02-19 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2022-12-01 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 | 2023-12-24 | 2023-12-30 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-25 | 2022-12-28 |
@@ -1067,6 +1067,7 @@
 | [アイドル](https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:31 | 2024-01-12 | 2024-01-15 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-14 | 2023-07-29 |
 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 | 2023-10-21 | 2023-10-23 |
+| [不為誰而作的歌](https://open.spotify.com/track/0VqSdtXseb9khdZrnYVyM1) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | ["和自己對話" 實驗專輯](https://open.spotify.com/album/2BllRBDJwm9kthtOoYTzNK) | 4:25 | 2024-02-18 |  |
 | [从前说](https://open.spotify.com/track/3t5edAHbyFEW67wFApp7EO) | [小阿七](https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh) | [从前说](https://open.spotify.com/album/3XKhqXwWo2nHfTCsvYkmtq) | 4:11 | 2023-03-21 | 2023-11-19 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2021-10-23 | 2022-09-18 |
 | [你，好不好？ \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛，教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2021-03-27\* | 2024-01-20 |

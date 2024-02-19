@@ -4,7 +4,7 @@
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-91 songs - 5 hr 37 min
+92 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Granular](https://open.spotify.com/track/29bnMDOJHrA9d0oBT7VMd7) | [Animal Cosmic](https://open.spotify.com/artist/1v4g9cy8RhkIRkVkodY6Hi) | [Granular](https://open.spotify.com/album/1EpN6ohIqzWG4dpChulIxh) | 4:52 | 2022-10-14 |  |
 | [Guaracha Sente](https://open.spotify.com/track/4uqGPV5UXDGbICOTYbTJRi) | [TOSCA](https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx) | [Guaracha Sente](https://open.spotify.com/album/41SwFyAeGnvHaDq5u1fwo9) | 3:05 | 2022-10-14 |  |
 | [Guerra en la tierra \- Remix by Amable & Monoculture](https://open.spotify.com/track/2LHzolLUzAzdNesb35fTDf) | [Los Pilotos](https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Amable & Monoculture](https://open.spotify.com/artist/3E3UyMVfcXhszuXjrKdKIm) | [Guerra en la tierra \(Remix by Amable & Monoculture\)](https://open.spotify.com/album/1ICK4JvVQGaaviM7DVsfpW) | 4:07 | 2022-10-14 |  |
-| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2022-10-14 |  |
+| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2022-10-14 | 2024-02-19 |
+| [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 | 2022-10-14 |  |
 | [Honey](https://open.spotify.com/track/2bOalEb2NVugngrIPAx4Vg) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Honey](https://open.spotify.com/album/0dxP5UGRoYHs2n7IODw7ql) | 2:34 | 2022-10-14 |  |
 | [Hours and Hours](https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Hours and Hours](https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df) | 4:05 | 2022-10-14 |  |
 | [I See You \- Edit](https://open.spotify.com/track/0Uk5TnK1rxmQk2MHbxEW3H) | [Prayer Handz](https://open.spotify.com/artist/11LK8QA4t0rsq3Mv5Bc3UW) | [I See You](https://open.spotify.com/album/71xnDH2Jzm0J2ERMShU2SJ) | 2:45 | 2022-10-14 |  |

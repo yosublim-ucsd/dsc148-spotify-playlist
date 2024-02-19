@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,970 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,969 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 16 | [Dime \(with Conexión Divina\)](https://open.spotify.com/track/0RUEaNVgRbaj8Mm1qPaHri) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Dime \(with Conexión Divina\)](https://open.spotify.com/album/62LsTv9SDFBUihRPwVUsLr) | 3:52 |
 | 17 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 |
 | 18 | [Esperando](https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Esperando](https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO) | 2:21 |
-| 19 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
-| 20 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
+| 19 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
+| 20 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
 | 21 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [MI HOGAR \(with maye\)](https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH) | 2:55 |
 | 22 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
 | 23 | [NO HAY SEÑAL](https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [NO HAY SEÑAL](https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph) | 2:41 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 53 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
 | 54 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
 
-Snapshot ID: `MCw1NzZmOTc4NmI2NDA2YmYwOWNhMDZmMTc2OGRkY2M5YWQyZjZhMjA0`
+Snapshot ID: `MCwyNDAyNTIwM2M5OTg4ZTIzNTJiZDg1M2I4MTk4MGI0ZmIyYjgzZGZi`

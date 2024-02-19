@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Skepsis
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,779 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,823 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 |
 | 55 | [Step It Up](https://open.spotify.com/track/608TATD49stSCcojEMTwmX) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Step It Up / Lights](https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj) | 4:30 |
 
-Snapshot ID: `MCw5MzliNDMwZDFiZTY3MDJkNjg4NzgzM2YzODJjZDhjOGEzNjE2MWJh`
+Snapshot ID: `MCw1Mjc0YWY1NzU0ZWQ2MTg1ZWJiZDFkMGQ0NzU3YjhiNDc4NjJjYjAz`

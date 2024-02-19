@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,177 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,189 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 13 | [Sweet Connection](https://open.spotify.com/track/4fav1BF3LdS5yI4o7mKFrL) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Sweet Connection](https://open.spotify.com/album/1JNlbSEqfyXE2JABA0x3ne) | 2:41 |
 | 14 | [Take A Picture](https://open.spotify.com/track/4SAayBsUqR4vfVK2FX1xjd) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Take A Picture](https://open.spotify.com/album/17JSRVLb00E5mYIdYjhVoq) | 2:29 |
 | 15 | [The Minute](https://open.spotify.com/track/2DBRpLYlwoE3K0oLI7uwiE) | [YATTE](https://open.spotify.com/artist/3V4DqEgHjHda4aIDaiSvJd), [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [The Minute](https://open.spotify.com/album/11o4UR4cXiQ3Kebd4Otjop) | 4:15 |
-| 16 | [\(I Don't Need A\) New Girl](https://open.spotify.com/track/62j1wP9DisLMkvglJKLJx7) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [\(I Don't Need A\) New Girl](https://open.spotify.com/album/79yQNCy3XUASpUzE2qibKu) | 4:33 |
+| 16 | [\(I Don't Need A\) New Girl](https://open.spotify.com/track/1uYMePrdjwPmpvaEJAy1bX) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 4:33 |
 | 17 | [What Ever It May Be \(Diamond Cut\)](https://open.spotify.com/track/4KzIYex4b4zPXKZxyzM97K) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be \(Diamond Cut\)](https://open.spotify.com/album/369LanidLMx9Q1G40wKfhl) | 3:59 |
 | 18 | [The Limit](https://open.spotify.com/track/5xZhh4ZLFnUltMJ5xVur6a) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT), [AYA](https://open.spotify.com/artist/1IPTC92TkaOIMj9Gohi8MF) | [The Limit](https://open.spotify.com/album/5P6N1ibaaDY8KYwJzthatT) | 3:34 |
 | 19 | [Guitar for Robots](https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN) | [Cool Aid](https://open.spotify.com/artist/5eouF3YpHk4ZcPXd2FkaKc) | [Guitar for Robots](https://open.spotify.com/album/10nJahT2mV6gRG1PYEcJgt) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 99 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 |
 | 100 | [Dress Code \- Radio Edit](https://open.spotify.com/track/3483vNrzxVuUvI5PqWEeuv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Dress Code](https://open.spotify.com/album/2IfrsypQxsQbZf6NFhkLLY) | 3:20 |
 
-Snapshot ID: `MCxhMzQ5MTc0YWY3Mzg1MmJlM2Y4MDYwZTEwZWRiYWZkOWUzNzRiMGZi`
+Snapshot ID: `MCxhNzZmYjJhOGFkNzdmODBiZTE1NjQxMGUwMTM3MGMwZjRlY2E0ZDM5`

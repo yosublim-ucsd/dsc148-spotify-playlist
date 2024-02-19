@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 29905,
+  "2024-02-19": 29919,
   "date_first_scraped": "2023-02-14",
   "description": "<a href=\"spotify:artist:4d8OiNWwKaA6MBPq0K06Xa\">Mehmet Aslan</a>'s favorite tracks. Updated regularly. Curated by Mehmet Aslan. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Mehmet Aslan's track IDs",
@@ -2757,10 +2757,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 273240,
       "name": "Sabato Italiano",
       "url": "https://open.spotify.com/track/3eGaKntSr7YjqqhPUPcueJ"
+    },
+    {
+      "album": {
+        "name": "Sabato italiano",
+        "url": "https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD"
+      },
+      "artists": [
+        {
+          "name": "I Coccodrilli",
+          "url": "https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273240,
+      "name": "Sabato Italiano",
+      "url": "https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: ZHU & UPSAHL
 
-293 songs - 15 hr 21 min
+294 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [ASHAMED](https://open.spotify.com/track/2olEwF2igUG4f2eooVChni) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 3:01 | 2024-01-19 |  |
 | [August](https://open.spotify.com/track/3ZQ3kDvbNYIZI4uR1qQHII) | [Intelligency](https://open.spotify.com/artist/6DdgtZYlUGNzjqkdCqvmfB) | [August](https://open.spotify.com/album/489NxMGW2HZko650E8fi8x) | 2:59 | 2020-08-17 | 2022-04-21 |
 | [Back from the Dead](https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Back from the Dead](https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku) | 2:59 | 2022-05-30 |  |
-| [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 | 2021-08-13 |  |
+| [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 | 2021-08-13 | 2024-02-19 |
 | [Bad Juice \- BROODS Remix](https://open.spotify.com/track/0KKlrAWyFoFW4GLh5nAwfN) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Bad Juice \(BROODS Remix\)](https://open.spotify.com/album/6z2TcWBWAPk7SUjAMxKOOa) | 3:00 | 2022-11-25 | 2023-04-17 |
 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 | 2021-11-12 |  |
 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 | 2024-02-16 |  |
@@ -255,6 +255,7 @@
 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 | 2021-12-03 |  |
 | [Summerland](https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Summerland](https://open.spotify.com/album/1A1dSoZMQPU0DcCfaSLvQ1) | 3:49 | 2021-07-23 | 2022-03-05 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2023-07-28 |
+| [Superhuman \(with K.Flay\)](https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 4:00 | 2024-02-16 |  |
 | [Take Me Instead](https://open.spotify.com/track/6KKE7k07XtLb3xFRsB7Ns4) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [...If You Don’t Save Yourself](https://open.spotify.com/album/3k7YVehp4DBwLxQlRAQOAL) | 2:46 | 2021-02-26 | 2023-06-10 |
 | [Teleport](https://open.spotify.com/track/5uJaYw9o3w7VXMCNlXnT7K) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Teleport/Comedown](https://open.spotify.com/album/0rdcXRAneYGHkuLRA3DL1I) | 3:25 | 2022-01-21 | 2022-03-16 |
 | [Tell Me The Truth](https://open.spotify.com/track/0hdiC2o5agqlpH9G9dqbGg) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Tell Me The Truth](https://open.spotify.com/album/3zGWVpOZH5mpbT3UkC10Wa) | 4:02 | 2022-04-08 | 2022-10-13 |

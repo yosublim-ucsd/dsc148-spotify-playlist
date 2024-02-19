@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 | 2024-02-16 |
+| [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 |  |
 | [1\-800\-GHOST\-DANCE](https://open.spotify.com/track/135UPaNucXPVEKvwdRczfM) | [Hella](https://open.spotify.com/artist/1n861RIk6CTAWncgHR9UHg) | [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw) | 3:44 | 2021-10-15 | 2022-05-21 |
 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 | 2021-10-15 | 2023-08-30 |
 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 | 2023-08-09 |  |
@@ -85,7 +85,7 @@
 | [Jap'n Cazz](https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Stegosauro](https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N) | 3:25 | 2023-08-09 |  |
 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 | 2021-10-15 |  |
 | [KALA](https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mario Camarena](https://open.spotify.com/artist/1C5b4zPDtIjrhOVVvBBtCZ) | [SIMILAR](https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA) | 3:19 | 2023-08-09 |  |
-| [Lasitud](https://open.spotify.com/track/1t3nTkvb3iTshGXZOg6AgU) | [Cazamos Cometas](https://open.spotify.com/artist/66aOj1OwKfg765P5GPMLPQ) | [María](https://open.spotify.com/album/3XIKKZu6j73mu2MKFdi9JX) | 4:04 | 2021-10-15 |  |
+| [Lasitud](https://open.spotify.com/track/1t3nTkvb3iTshGXZOg6AgU) | [Cazamos Cometas](https://open.spotify.com/artist/66aOj1OwKfg765P5GPMLPQ) | [María](https://open.spotify.com/album/3XIKKZu6j73mu2MKFdi9JX) | 4:04 | 2021-10-15 | 2024-02-19 |
 | [Little Bubble, Where You Going?](https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx) | [Piglet](https://open.spotify.com/artist/7eMopflZIkcPF4refj6MNU) | [Lava Land](https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM) | 4:57 | 2021-10-15 |  |
 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 | 2021-10-15 |  |
 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 | 2021-10-15 |  |

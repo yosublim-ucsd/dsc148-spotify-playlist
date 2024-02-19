@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,470 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,468 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 78 | [When I'm Back On My Feet Again](https://open.spotify.com/track/47SOobTLWvyZpUfpmuUARJ) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
 | 79 | [Please Remember](https://open.spotify.com/track/1rB4HmjMpfGKDc53vsVzOY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Please Remember \(Dave Audé Mix\)](https://open.spotify.com/album/7KDMaaPtQ7uEOHmQhngd6O) | 4:34 |
 | 80 | [Reach \(NBC Olympic Version\)](https://open.spotify.com/track/0i00AL9toLfJeb4VlWLvSi) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [DESTINY](https://open.spotify.com/album/6D7RaPGKDvgn2s6uairNRI) | 3:50 |
-| 81 | [Some Hearts](https://open.spotify.com/track/4VsMvUldyABTPUodYRI6uX) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:48 |
-| 82 | [From the Heart](https://open.spotify.com/track/5lg3WRgq89Bpa2vcqRg752) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Freak Me: The Collection](https://open.spotify.com/album/07uutXwmC4nbwV4mXwOY7z) | 4:55 |
+| 81 | [From the Heart](https://open.spotify.com/track/5lg3WRgq89Bpa2vcqRg752) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Freak Me: The Collection](https://open.spotify.com/album/07uutXwmC4nbwV4mXwOY7z) | 4:55 |
+| 82 | [Some Hearts](https://open.spotify.com/track/4VsMvUldyABTPUodYRI6uX) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:48 |
 | 83 | [I'm Getting Used To You](https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:03 |
 | 84 | [By the Time This Night Is Over \(with Peabo Bryson\)](https://open.spotify.com/track/0dbx8qCvWgnlTZoj8a5gC7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:20 |
 | 85 | [That's When I'll Stop Loving You](https://open.spotify.com/track/3TnT4ULnE2bzJG40gUtZh6) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:51 |
@@ -250,8 +250,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 240 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 |
 | 241 | [I'm Not Made of Steel](https://open.spotify.com/track/319QNS9ILIXDlEfnYwSFtn) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:11 |
 | 242 | [The One Thing](https://open.spotify.com/track/3mgXHv9bi2TFYeC5O1D1zT) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:09 |
-| 243 | [Everything Changes](https://open.spotify.com/track/378MBhAXwx1OexsqBZMBGa) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:24 |
-| 244 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
+| 243 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
+| 244 | [Everything Changes](https://open.spotify.com/track/378MBhAXwx1OexsqBZMBGa) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:24 |
 | 245 | [Rescue](https://open.spotify.com/track/0U8mYB7HCn5JOKdK6Z3FGp) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Seventy Two & Sunny](https://open.spotify.com/album/2zZwVIJj6sknvA1Fn4zhhQ) | 4:04 |
 | 246 | [If You Could See You \(Through My Eyes\)](https://open.spotify.com/track/6VcWyiv7ILCFkJ4QW061P4) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:57 |
 | 247 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 |
@@ -306,8 +306,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 296 | [Couldn't We](https://open.spotify.com/track/6WHzVPpUITX9rh6SgoI9uV) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:32 |
 | 297 | [Where Do I Go From You](https://open.spotify.com/track/6Z4z8B5DQiDJSB9iWOi1G0) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:25 |
 | 298 | [The Plumbing Song](https://open.spotify.com/track/4feL1rU1EcDRDQHetpFYlr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Off The Deep End](https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL) | 4:06 |
-| 299 | [Stop Time Tonight](https://open.spotify.com/track/2XmSd93cDzMcFoZR3JYTrL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Life](https://open.spotify.com/album/37QTLk15OwBegvWfBWk36J) | 4:00 |
-| 300 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
+| 299 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
+| 300 | [Stop Time Tonight](https://open.spotify.com/track/2XmSd93cDzMcFoZR3JYTrL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Life](https://open.spotify.com/album/37QTLk15OwBegvWfBWk36J) | 4:00 |
 | 301 | [Desire](https://open.spotify.com/track/1Zhs2crzqQVST3j60dCKhu) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:52 |
 | 302 | [I Cried My Last Tear Last Night](https://open.spotify.com/track/47BLoOazepLdnSO1wDbdwJ) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 4:13 |
 | 303 | [What Are You Doing With a Fool Like Me \- Studio Version](https://open.spotify.com/track/1ADmyvNaireK0kH2xNdVyO) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker Live](https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz) | 4:50 |
@@ -358,8 +358,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 348 | [I Know You Too Well](https://open.spotify.com/track/3psObHKM9bzvpBZ3fnOoPt) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 4:55 |
 | 349 | [Private Affair](https://open.spotify.com/track/32CbjmRkWBkTX2bFAgMqG4) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [2300 Jackson Street](https://open.spotify.com/album/2XK6MmKEP1jA9EjO5bHpJw) | 4:10 |
 | 350 | [No Fool No More](https://open.spotify.com/track/1RhaF2Eq1Zg1zR1MIaY9I1) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Mick Guzauski](https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz) | [Best Of](https://open.spotify.com/album/1dVhczEhJUyJpao75GZkA2) | 4:17 |
-| 351 | [NAACP Swing](https://open.spotify.com/track/3TKklRQ0zQFzZ4o8bAho35) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:34 |
-| 352 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 |
+| 351 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 |
+| 352 | [NAACP Swing](https://open.spotify.com/track/3TKklRQ0zQFzZ4o8bAho35) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:34 |
 | 353 | [Feels Like Home](https://open.spotify.com/track/6bYV3JaJuDQX3meBGx5jMe) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Sittin' On Top Of The World](https://open.spotify.com/album/6whu15IpXsztdwhOC43SXX) | 4:32 |
 | 354 | [You're Right, I Was Wrong](https://open.spotify.com/track/3XyvYg1ffmvYJT0YZ334Rj) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [I Couldn´t Have Said It Better Myself](https://open.spotify.com/album/4aIx98BVdGYLJGGftvmGVS) | 3:44 |
 | 355 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg0NzAzNzAsMDAwMDAwMDAzODA2OTUxNzQ2NWYwMDFmYTkxZTM3OTdkMTRlYmI0Mg==`
+Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDBlMzQzMGI4M2M0ZjlmZGNjNzVmMzg1ODg0NTU2Njc5NQ==`

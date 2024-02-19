@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Alfie Sharp\. Artwork: Isu Kim
 
-1,596 songs - 3 day 13 hr 19 min
+1,597 songs - 3 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Cold](https://open.spotify.com/track/3z2YAeIQ5DZUtB33aWXRdq) | [Tom Gortler](https://open.spotify.com/artist/2BAJypvks27ENNB8vX1P2u) | [Cold](https://open.spotify.com/album/6VhH8FHPySyL2CS6nh6fK3) | 2:59 | 2022-10-26 | 2022-12-01 |
 | [Cold Shoulder](https://open.spotify.com/track/6dM03febxBftzkOcstPW8i) | [Benny Mails](https://open.spotify.com/artist/0XzjmqIqvTnie7suxhyFC1) | [Cold Shoulder](https://open.spotify.com/album/2cH3BO3e8MnsZxsw35796M) | 1:50 | 2023-08-01 | 2023-08-16 |
 | [Cold Showers](https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Cold Showers](https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg) | 3:20 | 2023-04-05 | 2023-04-27 |
-| [Colours](https://open.spotify.com/track/27rRxKadyDREugkcdpDCda) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Colours](https://open.spotify.com/album/14li8d438zTKkc3BhgP1cS) | 4:20 | 2024-02-07 |  |
+| [Colours](https://open.spotify.com/track/27rRxKadyDREugkcdpDCda) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Colours](https://open.spotify.com/album/14li8d438zTKkc3BhgP1cS) | 4:20 | 2024-02-07 | 2024-02-19 |
+| [Colours](https://open.spotify.com/track/2V9Kql3sFzGih0tvOULLdd) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Colours](https://open.spotify.com/album/17RoIHpP5F48m6gDzozYqL) | 4:20 | 2024-02-14 |  |
 | [Colours](https://open.spotify.com/track/4kAZK0R5sz85zfRWdzTJu3) | [Raheem Bakare](https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM) | [Colours](https://open.spotify.com/album/418RtvJgdu07bflQaBlJm8) | 3:17 | 2023-03-09 | 2023-04-06 |
 | [coma](https://open.spotify.com/track/4BCep4TTQxxulP0QhjlsOE) | [king dem0](https://open.spotify.com/artist/1aqdH0Q6tKZhZaFngbWUD8) | [Songs For Zara](https://open.spotify.com/album/3DBQky9nvVDSLtNrQT8ANX) | 2:16 | 2023-11-22 | 2024-01-31 |
 | [come to me](https://open.spotify.com/track/0j6lE5uz5elSDglEtSaCYW) | [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [come to me](https://open.spotify.com/album/1JhirJM4nIiLr3leUMaQq0) | 1:48 | 2023-04-19 | 2023-05-24 |

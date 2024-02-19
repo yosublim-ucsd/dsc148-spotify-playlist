@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,485 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,506 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 3 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 4 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
 | 5 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
-| 6 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
+| 6 | [Acróstico \- Milan y Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan y Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 7 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 8 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
 | 9 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 22 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
 | 23 | [Tú Sí Sabes Quererme \(feat\. Los Macorinos\)](https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 4:04 |
 | 24 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:39 |
-| 25 | [Funeral](https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 4:28 |
+| 25 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
 | 26 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 |
-| 27 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
+| 27 | [Funeral](https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 4:28 |
 | 28 | [No me importa nada](https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Luz V](https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o) | 4:07 |
 | 29 | [María](https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:51 |
 | 30 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 62 | [Colmena](https://open.spotify.com/track/1LDFu2wQ1eiaUNBuCYjXod) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Hombre Invisible](https://open.spotify.com/album/6di4m3nzYyO0PIQP4QLCPU) | 4:54 |
 | 63 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 |
 | 64 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 |
-| 65 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
-| 66 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
+| 65 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
+| 66 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
 | 67 | [Adentro](https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Adentro](https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1) | 3:48 |
 | 68 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jimenez](https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ) | 3:26 |
 | 69 | [Debut Y Despedida](https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:03 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 77 | [El Andariego](https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:17 |
 | 78 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 |
 | 79 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
-| 80 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
-| 81 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
+| 80 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
+| 81 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
 | 82 | [Sabor a Mí \- Amuzgo](https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Mariano García](https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:17 |
 | 83 | [Habrá](https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Habrá](https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf) | 3:07 |
 | 84 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 99 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
 | 100 | [Marchita](https://open.spotify.com/track/2ytk2n3eCn8hsM3leSVqhN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:46 |
 
-Snapshot ID: `MCxjOWE4ZjVkMTM4ZTA2MDQ1MmRmN2Y1NzFjZTcwNmZiOTkxMGY1YjRi`
+Snapshot ID: `MCxiNTAyMDBmYmU1MGQ2OGIwM2ZkMDdmYzhiMGQ2ODdhOTU2MmFiMDBj`

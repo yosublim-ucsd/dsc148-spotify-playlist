@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,924 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,956 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 46 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 47 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
 | 48 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 |
-| 49 | [Loyalty](https://open.spotify.com/track/64jt46zpWwImMcxRIj8GVY) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 2:47 |
-| 50 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
+| 49 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
+| 50 | [Loyalty](https://open.spotify.com/track/64jt46zpWwImMcxRIj8GVY) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 2:47 |
 
-Snapshot ID: `MCw3NjkxY2I5MGU2OThjNGE3MDI4NmFhNTRmZjgxOWVmN2RmY2Y2NmI4`
+Snapshot ID: `MCw5YWJkOWJkM2RlZDc5NjllMjdlZGEwMzY0NDdiNTVlNWQ0ODQ0ZDhm`

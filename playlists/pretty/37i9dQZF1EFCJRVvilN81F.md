@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,542 likes - 135 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,540 likes - 135 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 113 | [SMILING](https://open.spotify.com/track/28xRKT60WwfDDb5pHtJT2N) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:49 |
 | 114 | [No One Like You](https://open.spotify.com/track/0IeM0wphilRFSDEVSRrQ23) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 9:18 |
 | 115 | [Lookin for Ya](https://open.spotify.com/track/1ulXrCzBYnG3JJW11IXVZ8) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:24 |
-| 116 | [You And Me](https://open.spotify.com/track/6efwJ8S8qvGIJPCivsXcGX) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 4:38 |
-| 117 | [ON THE LOW](https://open.spotify.com/track/698woGLcYhbvbeQtRNvksr) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [FACETS](https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk) | 2:37 |
+| 116 | [ON THE LOW](https://open.spotify.com/track/698woGLcYhbvbeQtRNvksr) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [FACETS](https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk) | 2:37 |
+| 117 | [You And Me](https://open.spotify.com/track/6efwJ8S8qvGIJPCivsXcGX) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 4:38 |
 | 118 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 | 119 | [Intro \- Live At Capitol Studios / 2014](https://open.spotify.com/track/0fnld7tIRNZq8Kel2OLcbv) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Covered \(The Robert Glasper Trio Recorded Live At Capitol Studios\)](https://open.spotify.com/album/24G0m5YTTWxqrRvllb9O7v) | 2:12 |
 | 120 | [warmest winter.](https://open.spotify.com/track/1DQV5VtXXo09zuCdsWqDrN) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 3:49 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 134 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 135 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Mjg0NzAzNjAsMDAwMDAwMDBhZmI4NjAwOWI5NTRmNGMyZDkyZGFjMDc0NjBiNzc0MA==`
+Snapshot ID: `Mjg0NzE4MDAsMDAwMDAwMDBkNDg5NWMwNGE2OTczMzFkYjc4ZjBkZGNlYjZmMDc0YQ==`

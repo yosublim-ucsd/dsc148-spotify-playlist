@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 151813,
+  "num_followers": 151912,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzE3ZjAxYmE4MGExMDFkYTgzMjNhYTZjOWI3NmI4YzUyOTE0MDc5",
+  "snapshot_id": "MCwzNGFjNWY4ZDYxMDdjZGU1NDg2YmU1YWNmYmMyYjBlNWNmODE2YjIx",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Secrets of My Heart",
-        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 192531,
-      "name": "My True Love Is You",
-      "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 361306,
       "name": "Everytime We Say Goodbye",
       "url": "https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Secrets of My Heart",
+        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 192531,
+      "name": "My True Love Is You",
+      "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
         }
       ],
-      "duration_ms": 262626,
-      "name": "While My Lady Sleeps (take 10) - Alternate Take",
-      "url": "https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d"
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "I Miss You So",
         "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "While My Lady Sleeps (take 10) - Alternate Take",
+      "url": "https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Meshuga Baby",
-        "url": "https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 264751,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 275687,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Meshuga Baby",
+        "url": "https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 264751,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1043,50 +1043,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Over The Years",
-        "url": "https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 449000,
-      "name": "Lucky To Be Me",
-      "url": "https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "What'll I Do",
-        "url": "https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Hanlon",
-          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
-        },
-        {
-          "name": "Peter Hodges",
-          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
-        }
-      ],
-      "duration_ms": 245063,
-      "name": "What'll I Do",
-      "url": "https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "It's Magic",
         "url": "https://open.spotify.com/album/2GmDXAz7riUllsiCGd0htY"
       },
@@ -1135,22 +1091,46 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+        "name": "Over The Years",
+        "url": "https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
         }
       ],
-      "duration_ms": 310106,
-      "name": "Where Are You?",
-      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+      "duration_ms": 449000,
+      "name": "Lucky To Be Me",
+      "url": "https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "What'll I Do",
+        "url": "https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "duration_ms": 245063,
+      "name": "What'll I Do",
+      "url": "https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1167,6 +1147,26 @@
       "duration_ms": 199933,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Grasiela Piasson & Guga Stroeter",
         "url": "https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4"
       },
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Cool Velvet: Stan Getz And Strings",
+        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Songs from Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
       },
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Cool Velvet: Stan Getz And Strings",
-        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
+        "name": "No Guarantees",
+        "url": "https://open.spotify.com/album/1nR6FaZr89igcbaPow6y8z"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
         }
       ],
-      "duration_ms": 246866,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
+      "duration_ms": 188545,
+      "name": "No Guarantees",
+      "url": "https://open.spotify.com/track/6ZVC9vfwMNEKD2CwyrhMOp"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 222640,
       "name": "Let's Try This Again",
       "url": "https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "No Guarantees",
-        "url": "https://open.spotify.com/album/1nR6FaZr89igcbaPow6y8z"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 188545,
-      "name": "No Guarantees",
-      "url": "https://open.spotify.com/track/6ZVC9vfwMNEKD2CwyrhMOp"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Violets for Your Furs",
-        "url": "https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt"
-      },
-      "artists": [
-        {
-          "name": "Jason Fabus",
-          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
-        }
-      ],
-      "duration_ms": 216654,
-      "name": "Violets for Your Furs",
-      "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "City of Sounds",
         "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 464093,
       "name": "Ojos Cari\u00f1osos",
       "url": "https://open.spotify.com/track/0MJP086n8wHT0rrMNt9ag8"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Violets for Your Furs",
+        "url": "https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt"
+      },
+      "artists": [
+        {
+          "name": "Jason Fabus",
+          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
+        }
+      ],
+      "duration_ms": 216654,
+      "name": "Violets for Your Furs",
+      "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "The Art of Jazz with Ben Besiakov",
-        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
-      },
-      "artists": [
-        {
-          "name": "Ben Besiakov",
-          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
-        }
-      ],
-      "duration_ms": 319955,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 297297,
       "name": "I'm Afraid (Of Loving You Too Much) (feat. Ben Paterson)",
       "url": "https://open.spotify.com/track/6Ea7TV4pktvUgKakKKr9pZ"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "The Art of Jazz with Ben Besiakov",
+        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
+      },
+      "artists": [
+        {
+          "name": "Ben Besiakov",
+          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
+        }
+      ],
+      "duration_ms": 319955,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Lady Sings the Blues",
-        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
       },
       "artists": [
         {
-          "name": "Rebecca Ferguson",
-          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
         }
       ],
-      "duration_ms": 201120,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/5mcHO8QN7aujyCMyiyyvHT"
+      "duration_ms": 210600,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -2099,6 +2083,22 @@
       "duration_ms": 237013,
       "name": "C\u00e2dencia",
       "url": "https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Lady Sings the Blues",
+        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/5mcHO8QN7aujyCMyiyyvHT"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/3V0kkAM0XktsMtD88qXHZO"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 305128,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/37HQHRDtFQ3H80fEgxiW9I"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 184893,
       "name": "Sometimes I'm Happy",
       "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/3V0kkAM0XktsMtD88qXHZO"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 305128,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/37HQHRDtFQ3H80fEgxiW9I"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -2519,34 +2519,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 181133,
-      "name": "For The Want Of A Kiss - Live",
-      "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Now Pronouncing: Caity Gyorgy",
-        "url": "https://open.spotify.com/album/4uhLfLaqoYyOww0elnoSyv"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "There by the Door",
-      "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
+      "duration_ms": 359000,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -2567,6 +2551,38 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Now Pronouncing: Caity Gyorgy",
+        "url": "https://open.spotify.com/album/4uhLfLaqoYyOww0elnoSyv"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "There by the Door",
+      "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "For The Want Of A Kiss - Live",
+      "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "On My Worst Day (I'm Still In Love With You)",
         "url": "https://open.spotify.com/album/05usim6u1byXZXYzYq70JO"
       },
@@ -2579,38 +2595,6 @@
       "duration_ms": 224660,
       "name": "On My Worst Day (I'm Still In Love With You)",
       "url": "https://open.spotify.com/track/3wbCw5YUZbHbVpJB4VkCyy"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Way Down Low",
-        "url": "https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "What Else Can I Do",
-      "url": "https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -2631,6 +2615,22 @@
       "duration_ms": 209653,
       "name": "When The World Was Young",
       "url": "https://open.spotify.com/track/041C0yfThCF0m5dKdrO3zZ"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -2699,6 +2699,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "In the Space Between Our Souls",
+        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Saga",
+          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
+        }
+      ],
+      "duration_ms": 413916,
+      "name": "In the Space Between Our Souls",
+      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Julian",
         "url": "https://open.spotify.com/album/63QrOaQz8pdeXGG7XfTAYb"
       },
@@ -2715,22 +2731,6 @@
       "duration_ms": 221112,
       "name": "Julian",
       "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "In the Space Between Our Souls",
-        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Saga",
-          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
-        }
-      ],
-      "duration_ms": 413916,
-      "name": "In the Space Between Our Souls",
-      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -2847,22 +2847,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "The Uptown Shuffle",
-        "url": "https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A"
-      },
-      "artists": [
-        {
-          "name": "Vincent Herring",
-          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
-        }
-      ],
-      "duration_ms": 618107,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Dindi",
         "url": "https://open.spotify.com/album/0TfJkb6NSFDo2I89wGmiac"
       },
@@ -2879,6 +2863,22 @@
       "duration_ms": 350890,
       "name": "Dindi",
       "url": "https://open.spotify.com/track/7qNTlknMfHKgR6lrY8lzwU"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "The Uptown Shuffle",
+        "url": "https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A"
+      },
+      "artists": [
+        {
+          "name": "Vincent Herring",
+          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
+        }
+      ],
+      "duration_ms": 618107,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -3171,22 +3171,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "One Evening in July",
-        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
-        }
-      ],
-      "duration_ms": 296720,
-      "name": "Happy Little Sunshine Beam",
-      "url": "https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "The Art of Jazz with Miriam Netti, Vol. 2",
         "url": "https://open.spotify.com/album/01WOu4s6vmRdYC7eK2JMt8"
       },
@@ -3203,18 +3187,34 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Life Came into Colour",
-        "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
+        "name": "One Evening in July",
+        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
       },
       "artists": [
         {
-          "name": "Katharine Timoney",
-          "url": "https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7"
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
         }
       ],
-      "duration_ms": 316166,
-      "name": "Life Came into Colour",
-      "url": "https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD"
+      "duration_ms": 296720,
+      "name": "Happy Little Sunshine Beam",
+      "url": "https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Isn't It Romantic?",
+        "url": "https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi"
+      },
+      "artists": [
+        {
+          "name": "Judy Whitmore",
+          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+        }
+      ],
+      "duration_ms": 333346,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/2XTmKUTBP5L8YhHbGM7vw3"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -3239,18 +3239,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Isn't It Romantic?",
-        "url": "https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi"
+        "name": "Life Came into Colour",
+        "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
       },
       "artists": [
         {
-          "name": "Judy Whitmore",
-          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+          "name": "Katharine Timoney",
+          "url": "https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7"
         }
       ],
-      "duration_ms": 333346,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/2XTmKUTBP5L8YhHbGM7vw3"
+      "duration_ms": 316166,
+      "name": "Life Came into Colour",
+      "url": "https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD"
     },
     {
       "added_at": "2024-02-16 00:01:00",

@@ -4,7 +4,7 @@
 
 > The hottest tracks in the North\. Cover: Victoria Monét
 
-606 songs - 1 day 7 hr 58 min
+607 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,8 @@
 | [iPad](https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [iPad](https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp) | 3:22 | 2022-03-11 | 2022-03-26 |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-11-10 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-14 | 2022-02-05 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-11-03 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-11-03 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-16 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-31 | 2022-04-02 |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-04 | 2022-04-29 |
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-03-24 | 2023-04-15 |

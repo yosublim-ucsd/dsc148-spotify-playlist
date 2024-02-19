@@ -1,12 +1,12 @@
 {
   "description": "Ya viene amaneciendo, la luz ya nos alumbra.",
-  "num_followers": 104730,
+  "num_followers": 104740,
   "original_name": "A Darle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmNkZWE1Y2VjODk1MGIxNzU2ODk5YmY3NDI2NGRkYjgwZGRmNTAy",
+  "snapshot_id": "MCwyNjk3M2U4M2MzZWQyYzVhZjI0NjEzMzY3OTUzN2Y0Y2U4MzkxMWQ0",
   "tracks": [
     {
       "added_at": "2024-01-15 19:02:13",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
       },
       "artists": [
         {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+      "duration_ms": 215640,
+      "name": "El Malo De Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/32MQwnY0WUaNVT7i4W9d9F"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -471,22 +487,6 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
-        "name": "Privilegio",
-        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "El Malo De Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/32MQwnY0WUaNVT7i4W9d9F"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 191994,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -627,18 +611,34 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 191994,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -679,34 +679,34 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Que Sea",
-        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 170506,
-      "name": "Que Sea",
-      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+        "name": "Que Sea",
+        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
       "artists": [
         {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 199333,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
+      "duration_ms": 170506,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
     },
     {
       "added_at": "2024-01-15 19:02:13",

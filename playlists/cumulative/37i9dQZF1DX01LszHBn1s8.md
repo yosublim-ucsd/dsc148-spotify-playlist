@@ -4,7 +4,7 @@
 
 > it's a real\-life boogie and a real\-life hoedown 🐎
 
-1,377 songs - 3 day 0 hr 27 min
+1,378 songs - 3 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,8 @@
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2022-05-19 |  |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-10-27 |  |
 | [Islands in the Stream](https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 4:09 | 2023-10-19 |  |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-10 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-10 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-14 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-05-19 |  |
 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 | 2022-05-19 |  |
 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 | 2023-03-08 |  |

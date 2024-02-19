@@ -4,12 +4,12 @@
 
 > 
 
-84 songs - 5 hr 27 min
+85 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Remy Boyz](https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi) | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU) | 3:16 | 2023-11-12 |  |
-| [Across The Sea](https://open.spotify.com/track/7JJPh9eOiSr8zYlBjcu2w0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 4:32 | 2024-02-16 |  |
+| [Across The Sea](https://open.spotify.com/track/7JJPh9eOiSr8zYlBjcu2w0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 4:32 | 2024-02-16 | 2024-02-19 |
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2024-01-16 |  |
 | [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 | 2024-02-16 |  |
 | [Back to the Holler](https://open.spotify.com/track/6G33hFS4gVKktRhlfqEVzs) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 7:37 | 2023-11-14 |  |
@@ -27,6 +27,7 @@
 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 | 2023-11-19 |  |
 | [Die Anywhere Else](https://open.spotify.com/track/4oCeMWwBmMmfAjGwSvrTa4) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 2:24 | 2023-11-14 |  |
 | [Disciples](https://open.spotify.com/track/2gNfxysfBRfl9Lvi9T3v6R) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:48 | 2024-01-17 |  |
+| [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 | 2024-02-18 |  |
 | [Drive](https://open.spotify.com/track/0lrYqe4ICHQEEn0K4eQ7d9) | [Kolektivo](https://open.spotify.com/artist/49KPk2yG5dFFH0Tnmob13T) | [Drive](https://open.spotify.com/album/2C0TUEdw7XJyNGcbO9Y4wZ) | 2:04 | 2024-01-18 |  |
 | [ecstacy \(super slowed\)](https://open.spotify.com/track/4piafr7YSZHYgPvH4n4NeE) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(super slowed\)](https://open.spotify.com/album/686pnMMAj8CBNLjwIIJR1a) | 2:16 | 2023-11-16 | 2024-01-24 |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2024-02-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Karol G & Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,430 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,434 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Dreams \(Plasma Reflex\) \(feat\. Crooked Bangs\)](https://open.spotify.com/track/4d3Bpulz7wXrd8hndD7ci1) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [TESSERACT](https://open.spotify.com/album/6ccsXcDzYI8vkqzPhp7SB4) | 4:00 |
 | 100 | [Himalaya](https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Himalaya](https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk) | 2:48 |
 
-Snapshot ID: `MCxkYTVkZmM0MDE1ZWZkMmUzMjMwMjFiYjVjYWM2ZmQ2YjRhMDBjZWIx`
+Snapshot ID: `MCwzNmJlOTE0NzQxYTY3MmFlNzQ4NWI3MzhlNTQxNzQ3ODdiY2ZmZTA0`

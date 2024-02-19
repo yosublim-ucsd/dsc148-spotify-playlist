@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: soraya
 
-262 songs - 21 hr 5 min
+263 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Highway](https://open.spotify.com/track/25BXE8InZQK5CBhP1n7mFm) | [田中さとこ](https://open.spotify.com/artist/79fINByBtobHwIrMTeHn7N) | [Piano Scenes](https://open.spotify.com/album/7q4sFyc7TjG2gUIql8O837) | 3:36 | 2024-01-31 |  |
 | [Hilarious](https://open.spotify.com/track/4Dv7ZG44TPxxRDJyf8X5W4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2baMPvKUmxUghuOUqKm9AL) | 4:03 | 2024-01-09 | 2024-01-11 |
 | [Hilarious](https://open.spotify.com/track/4MCR0GMtMnryCukxwl3ilp) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2nalZQ0dRQRMjwZySTpLK4) | 4:03 | 2024-01-10 | 2024-02-14 |
+| [How Deep Is Your Love](https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [SEIKO JAZZ 3](https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR) | 5:37 | 2024-02-13 |  |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
 | [ILa](https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [ILa](https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX) | 3:11 | 2023-10-17 | 2023-11-22 |
@@ -243,7 +244,7 @@
 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 | 2022-09-06 |  |
 | [サンダーボルト・メインテーマ用](https://open.spotify.com/track/2kNRdLNryDeX4xBYiKCm02) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [オリジナル・サウンドトラック「機動戦士ガンダム サンダーボルト」](https://open.spotify.com/album/6kSwAMTPlRZNw29XCwK0pu) | 4:13 | 2024-01-31 |  |
 | [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 | 2022-11-15 | 2022-12-14 |
-| [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 | 2022-09-06 |  |
+| [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 | 2022-09-06 | 2024-02-19 |
 | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/track/68Kxl8innv2zWN3epatGk9) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/album/3Ykac9AA0n5R2QiodHXmxq) | 5:12 | 2022-09-27 | 2022-10-26 |
 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 | 2022-09-06 | 2023-01-11 |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-13 | 2022-10-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Dreaming of a white Christmas \u2728\u2744\ufe0f",
-  "num_followers": 151784,
+  "num_followers": 151749,
   "original_name": "White Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDcwNWFkNTI3OGMyM2UwOWVmZTQxMzk1ODYzYWY3ZDNmODM5MjFk",
+  "snapshot_id": "MCxmNGVjODgwYzg1MzY5ZmZiZTRhMjljZTgxYmQ4MTYzMTUxMjA0OWJl",
   "tracks": [
     {
       "added_at": "2023-12-16 03:21:22",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-12-16 03:21:22",
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
+    },
+    {
+      "added_at": "2023-12-16 03:21:22",
+      "album": {
         "name": "Holiday Wishes",
         "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
-    },
-    {
-      "added_at": "2023-12-16 03:21:22",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "DJ Play A Christmas Song",
-      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
     },
     {
       "added_at": "2023-12-16 03:21:22",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-16 03:21:22",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 255306,
-      "name": "Merry Christmas, Happy Holidays",
-      "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
-    },
-    {
-      "added_at": "2023-12-16 03:21:22",
-      "album": {
         "name": "Christmas & Chill",
         "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 158720,
       "name": "Winter Things",
       "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
+    },
+    {
+      "added_at": "2023-12-16 03:21:22",
+      "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 255306,
+      "name": "Merry Christmas, Happy Holidays",
+      "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
     },
     {
       "added_at": "2023-12-16 03:21:22",

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 46353,
+  "num_followers": 46378,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTJhMDQyMTM1YWMwNTU4YjZiNDczYWUxZjQ5MWU3MjU4ZDQ3Njc3",
+  "snapshot_id": "MCxlMDU0NTZmNTA3Y2Q1ZmZjMmI5OWJkOTY1NTkzZjNkMzM5MzdkY2Q3",
   "tracks": [
     {
       "added_at": "2023-12-01 15:59:50",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+        "name": "pick up the phone",
+        "url": "https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 256236,
-      "name": "People Help the People",
-      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+      "duration_ms": 145219,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "pick up the phone",
-        "url": "https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf"
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 145219,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u"
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Matters of the Heart",
-        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
-      },
-      "artists": [
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "The Vow",
-      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "Coffee Shop",
         "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "All The Boys",
-        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
       },
       "artists": [
         {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
         }
       ],
-      "duration_ms": 151906,
-      "name": "All The Boys",
-      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
+      "duration_ms": 175492,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -835,6 +819,22 @@
       "duration_ms": 165260,
       "name": "Gracie",
       "url": "https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "All The Boys",
+        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "All The Boys",
+      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Portraits",
-        "url": "https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 186918,
-      "name": "Paradise Calling",
-      "url": "https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "Can I Jump?",
         "url": "https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 223851,
       "name": "Can I Jump?",
       "url": "https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 186918,
+      "name": "Paradise Calling",
+      "url": "https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Introverted Extrovert",
-        "url": "https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 175202,
-      "name": "If I Was A God",
-      "url": "https://open.spotify.com/track/3CIWI8DBoxqPycMudrgmtk"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 131793,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "Introverted Extrovert",
+        "url": "https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 175202,
+      "name": "If I Was A God",
+      "url": "https://open.spotify.com/track/3CIWI8DBoxqPycMudrgmtk"
     },
     {
       "added_at": "2023-12-01 15:59:50",

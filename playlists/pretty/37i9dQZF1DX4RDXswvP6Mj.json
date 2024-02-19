@@ -1,12 +1,12 @@
 {
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: DPR ARTIC, DPR IAN) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
-  "num_followers": 856857,
+  "num_followers": 856871,
   "original_name": "K-Club Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA1NTRjYjk1ZjIyMmU2NjEwZTMwNTE4M2JkNWY5OTRmMzdiZGM1",
+  "snapshot_id": "MCw5ZGRhM2M0YjM2MjM2ZTM5NmE1NWU2YjcwMGY0MGM1NDc5NDRhMjFj",
   "tracks": [
     {
       "added_at": "2024-02-06 07:56:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-06 07:56:36",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2024-02-06 07:56:36",
-      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 173134,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
+    },
+    {
+      "added_at": "2024-02-06 07:56:36",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2024-02-06 07:56:36",

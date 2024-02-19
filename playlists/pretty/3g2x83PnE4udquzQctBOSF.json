@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2494,
+  "num_followers": 2496,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "Mzk2OSxhNGRlNTU1Mjg1NGYyNTkyZjAyNWQ1NzAzODQ3MjRhMTcyODJjNmQ1",
+  "snapshot_id": "Mzk5NixiMzdlZDcxYWIwMGZiNjIzODY5OTJmMjlmZjJlMWY0MGNjMzg5YTNm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:57:30",
@@ -25,6 +25,74 @@
       "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
     },
     {
+      "added_at": "2024-02-18 14:53:59",
+      "album": {
+        "name": "Pick Ya Poison",
+        "url": "https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 178299,
+      "name": "Pick Ya Poison",
+      "url": "https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S"
+    },
+    {
+      "added_at": "2024-02-18 14:53:54",
+      "album": {
+        "name": "Needle On The Record (4am Mix)",
+        "url": "https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Needle On The Record - 4am Mix",
+      "url": "https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc"
+    },
+    {
+      "added_at": "2024-02-18 14:53:47",
+      "album": {
+        "name": "To The Beat",
+        "url": "https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "duration_ms": 236987,
+      "name": "To The Beat",
+      "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
+    },
+    {
+      "added_at": "2023-05-12 16:24:04",
+      "album": {
+        "name": "Trees",
+        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 182659,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
+    },
+    {
       "added_at": "2024-02-04 14:38:02",
       "album": {
         "name": "Body Chalk",
@@ -39,6 +107,22 @@
       "duration_ms": 170322,
       "name": "Body Chalk",
       "url": "https://open.spotify.com/track/0QE8eb7vXTb4WHbVBwu4Ql"
+    },
+    {
+      "added_at": "2024-02-18 14:53:52",
+      "album": {
+        "name": "Put 'em Up",
+        "url": "https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE"
+      },
+      "artists": [
+        {
+          "name": "TECHTIC",
+          "url": "https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "Put 'em Up",
+      "url": "https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe"
     },
     {
       "added_at": "2024-02-04 14:36:57",
@@ -85,10 +169,10 @@
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
-      "added_at": "2023-05-12 16:24:04",
+      "added_at": "2023-03-17 19:24:07",
       "album": {
-        "name": "Trees",
-        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
       },
       "artists": [
         {
@@ -96,9 +180,29 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 182659,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
+      "duration_ms": 197416,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
+    },
+    {
+      "added_at": "2024-02-18 14:53:49",
+      "album": {
+        "name": "Sneaky Link (feat. Barney Bones)",
+        "url": "https://open.spotify.com/album/3MkfK7Sq6nDfiJdaOYphsg"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Sneaky Link (feat. Barney Bones)",
+      "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
     },
     {
       "added_at": "2024-01-14 14:28:49",
@@ -173,10 +277,10 @@
       "url": "https://open.spotify.com/track/4PBW79WVzYojdwSPdzHXjA"
     },
     {
-      "added_at": "2023-03-17 19:24:07",
+      "added_at": "2023-02-10 17:30:44",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
       },
       "artists": [
         {
@@ -184,9 +288,25 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 197416,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
+      "added_at": "2024-02-18 14:54:02",
+      "album": {
+        "name": "GUNZ.OUT",
+        "url": "https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "GUNZ.OUT - Extended Mix",
+      "url": "https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe"
     },
     {
       "added_at": "2024-01-14 14:28:47",
@@ -205,22 +325,6 @@
       "url": "https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp"
     },
     {
-      "added_at": "2023-12-10 13:22:58",
-      "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
-    },
-    {
       "added_at": "2024-02-04 14:37:51",
       "album": {
         "name": "Jump In",
@@ -235,102 +339,6 @@
       "duration_ms": 166153,
       "name": "Jump In",
       "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
-    },
-    {
-      "added_at": "2023-12-10 13:22:56",
-      "album": {
-        "name": "Sexy",
-        "url": "https://open.spotify.com/album/0FJgzF5I50HNvAS0QrDCCh"
-      },
-      "artists": [
-        {
-          "name": "YOUniverse (IT)",
-          "url": "https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii"
-        }
-      ],
-      "duration_ms": 325966,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/2P2earmjJAjuoUbW9du0WB"
-    },
-    {
-      "added_at": "2023-02-10 17:30:44",
-      "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
-    },
-    {
-      "added_at": "2024-01-14 14:28:33",
-      "album": {
-        "name": "Give You",
-        "url": "https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Give You",
-      "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
-    },
-    {
-      "added_at": "2023-12-10 13:23:00",
-      "album": {
-        "name": "I Can't Take No More",
-        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 157784,
-      "name": "I Can't Take No More",
-      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
-    },
-    {
-      "added_at": "2023-12-10 13:23:04",
-      "album": {
-        "name": "Lamban\u00e7a",
-        "url": "https://open.spotify.com/album/3k3chhDSIDK4Xz5W7MQANe"
-      },
-      "artists": [
-        {
-          "name": "Techin",
-          "url": "https://open.spotify.com/artist/3PafwoNI6rsWQDLdH9LUjr"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Extremos!",
-      "url": "https://open.spotify.com/track/4ucfCwuo09MtHrocsyKf2Y"
-    },
-    {
-      "added_at": "2024-01-14 14:28:44",
-      "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/07XMRuimaG7X1vbryMOpib"
-      },
-      "artists": [
-        {
-          "name": "Des & Del",
-          "url": "https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ"
-        }
-      ],
-      "duration_ms": 148953,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7AJy67TqJVYSSlp4z01H4d"
     },
     {
       "added_at": "2023-01-20 06:39:56",
@@ -349,20 +357,52 @@
       "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
     },
     {
-      "added_at": "2023-12-10 13:22:50",
+      "added_at": "2024-02-18 14:53:57",
       "album": {
-        "name": "fall '23",
-        "url": "https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7"
+        "name": "SHOW EM THE BASS",
+        "url": "https://open.spotify.com/album/2uGnRBNWYS5VaFoBKaZjPx"
       },
       "artists": [
         {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+          "name": "Niteplan",
+          "url": "https://open.spotify.com/artist/1VY8rr16Fj5C2rDUnDVCE0"
         }
       ],
-      "duration_ms": 406000,
-      "name": "put it to music.",
-      "url": "https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo"
+      "duration_ms": 369230,
+      "name": "CLASSY",
+      "url": "https://open.spotify.com/track/0rAGI2o5rdVpNdINqVQYlp"
+    },
+    {
+      "added_at": "2024-01-14 14:28:33",
+      "album": {
+        "name": "Give You",
+        "url": "https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Give You",
+      "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
+    },
+    {
+      "added_at": "2024-01-14 14:28:44",
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/07XMRuimaG7X1vbryMOpib"
+      },
+      "artists": [
+        {
+          "name": "Des & Del",
+          "url": "https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ"
+        }
+      ],
+      "duration_ms": 148953,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7AJy67TqJVYSSlp4z01H4d"
     },
     {
       "added_at": "2024-01-14 14:28:41",
@@ -381,20 +421,20 @@
       "url": "https://open.spotify.com/track/4xc2PKPPWvHs4z6zRdQwyx"
     },
     {
-      "added_at": "2023-12-10 13:23:06",
+      "added_at": "2022-09-30 05:47:41",
       "album": {
-        "name": "Break The Roof EP",
-        "url": "https://open.spotify.com/album/5gxHkVyxMaMXsoZKcYfntZ"
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
       },
       "artists": [
         {
-          "name": "THEOS",
-          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Twentyk",
-      "url": "https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv"
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
     },
     {
       "added_at": "2024-02-04 14:37:25",
@@ -429,22 +469,6 @@
       "url": "https://open.spotify.com/track/6HIV6cFs5NWjduJ5CJvmuy"
     },
     {
-      "added_at": "2022-09-30 05:47:41",
-      "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
-    },
-    {
       "added_at": "2024-02-04 14:37:23",
       "album": {
         "name": "Beat",
@@ -459,26 +483,6 @@
       "duration_ms": 201750,
       "name": "Beat",
       "url": "https://open.spotify.com/track/41zbZ3ed6BYG3cGgG0Csk2"
-    },
-    {
-      "added_at": "2023-12-10 13:22:53",
-      "album": {
-        "name": "2 Pain EP",
-        "url": "https://open.spotify.com/album/3vIvCo482ulFZa15p1QZoc"
-      },
-      "artists": [
-        {
-          "name": "Artslaves",
-          "url": "https://open.spotify.com/artist/7HKgNfBkWLzzhyc43jmMLk"
-        },
-        {
-          "name": "Leonardo Gonnelli",
-          "url": "https://open.spotify.com/artist/1oPZQYWNypR7DseLlEVhXe"
-        }
-      ],
-      "duration_ms": 355081,
-      "name": "2 Pain",
-      "url": "https://open.spotify.com/track/5VJ6AseyaUpoMDiYazmw86"
     },
     {
       "added_at": "2024-01-14 14:28:38",

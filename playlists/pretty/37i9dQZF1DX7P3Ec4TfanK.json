@@ -1,12 +1,12 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e buonumore! ",
-  "num_followers": 417843,
+  "num_followers": 417831,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmY5ODcwNGExMzM3MjE3OTRmNjIzZDIyMGMyOGQ0MDY3OGU0YTNi",
+  "snapshot_id": "MCw0ZGNjNDdlMmI1ZDMyZmRiZTQ4NmQ0ZTc0NjljNDY4NTZiMWYyZGYz",
   "tracks": [
     {
       "added_at": "2024-01-24 15:07:08",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-01-24 15:07:08",
       "album": {
-        "name": "Be Kind (with Halsey)",
-        "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 172761,
-      "name": "Be Kind (with Halsey)",
-      "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
-    },
-    {
-      "added_at": "2024-01-24 15:07:08",
-      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+    },
+    {
+      "added_at": "2024-01-24 15:07:08",
+      "album": {
+        "name": "Be Kind (with Halsey)",
+        "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 172761,
+      "name": "Be Kind (with Halsey)",
+      "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
     },
     {
       "added_at": "2024-01-24 15:07:08",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2024-01-24 15:07:08",
       "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
       },
       "artists": [
         {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        },
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         }
       ],
-      "duration_ms": 207615,
-      "name": "Un Briciolo Di Allegria (con MINA)",
-      "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     }
   ],
   "unique_name": "Caff\u00e8 del Buongiorno",

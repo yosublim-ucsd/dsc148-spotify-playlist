@@ -1,12 +1,12 @@
 {
   "description": "LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 226915,
+  "num_followers": 227029,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWFhYTIxZTRhMzdjMWMxZDk4MDY0YWU5NDc4NTExMjM1ZTAxMzY2",
+  "snapshot_id": "MCxhMTQ3YTAwMmNmNTAyODA3YmZiNWIwMTIyYWY4MTg2MGQ5ZDFhOGVh",
   "tracks": [
     {
       "added_at": "2024-02-17 17:43:08",
@@ -235,30 +235,6 @@
     {
       "added_at": "2024-02-17 17:43:08",
       "album": {
-        "name": "Melhor S\u00f3",
-        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
-    },
-    {
-      "added_at": "2024-02-17 17:43:08",
-      "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
       },
@@ -295,6 +271,30 @@
       "duration_ms": 438748,
       "name": "Desacato",
       "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
+    },
+    {
+      "added_at": "2024-02-17 17:43:08",
+      "album": {
+        "name": "Melhor S\u00f3",
+        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
     },
     {
       "added_at": "2024-02-17 17:43:08",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-02-17 17:43:08",
       "album": {
+        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 1",
+        "url": "https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        }
+      ],
+      "duration_ms": 326201,
+      "name": "Erro Gostoso / Mal Acostumado / A Gente Se Entrega",
+      "url": "https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y"
+    },
+    {
+      "added_at": "2024-02-17 17:43:08",
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 177877,
       "name": "Dose de Gin",
       "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
-    },
-    {
-      "added_at": "2024-02-17 17:43:08",
-      "album": {
-        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 1",
-        "url": "https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        }
-      ],
-      "duration_ms": 326201,
-      "name": "Erro Gostoso / Mal Acostumado / A Gente Se Entrega",
-      "url": "https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y"
     },
     {
       "added_at": "2024-02-17 17:43:08",
@@ -619,30 +619,6 @@
     {
       "added_at": "2024-02-17 17:43:08",
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
-      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
-    },
-    {
-      "added_at": "2024-02-17 17:43:08",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 148525,
       "name": "Cheiro de Sexo",
       "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
+    },
+    {
+      "added_at": "2024-02-17 17:43:08",
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
+      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
     },
     {
       "added_at": "2024-02-17 17:43:08",
@@ -783,38 +783,6 @@
     {
       "added_at": "2024-02-17 17:43:08",
       "album": {
-        "name": "Nota D\u00f3",
-        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DJ DuBom",
-          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
-        }
-      ],
-      "duration_ms": 202550,
-      "name": "Nota D\u00f3",
-      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
-    },
-    {
-      "added_at": "2024-02-17 17:43:08",
-      "album": {
         "name": "Na Minha Blunt",
         "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
       },
@@ -847,6 +815,38 @@
       "duration_ms": 170322,
       "name": "Na Minha Blunt",
       "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
+    },
+    {
+      "added_at": "2024-02-17 17:43:08",
+      "album": {
+        "name": "Nota D\u00f3",
+        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ DuBom",
+          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
+        }
+      ],
+      "duration_ms": 202550,
+      "name": "Nota D\u00f3",
+      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
     },
     {
       "added_at": "2024-02-17 17:43:08",
@@ -1111,30 +1111,6 @@
     {
       "added_at": "2024-02-17 17:43:08",
       "album": {
-        "name": "O Que Que T\u00e1 Acontecendo",
-        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
-      },
-      "artists": [
-        {
-          "name": "Mc Arizinho",
-          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "Doug Hits",
-          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "O Que Que T\u00e1 Acontecendo",
-      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
-    },
-    {
-      "added_at": "2024-02-17 17:43:08",
-      "album": {
         "name": "My Boo",
         "url": "https://open.spotify.com/album/0IvpAd8VMNzoPfKp0SUL5F"
       },
@@ -1159,6 +1135,30 @@
     {
       "added_at": "2024-02-17 17:43:08",
       "album": {
+        "name": "O Que Que T\u00e1 Acontecendo",
+        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
+      },
+      "artists": [
+        {
+          "name": "Mc Arizinho",
+          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "O Que Que T\u00e1 Acontecendo",
+      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
+    },
+    {
+      "added_at": "2024-02-17 17:43:08",
+      "album": {
         "name": "Xuxu",
         "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
       },
@@ -1175,6 +1175,42 @@
       "duration_ms": 172523,
       "name": "Xuxu",
       "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
+    },
+    {
+      "added_at": "2024-02-17 17:43:08",
+      "album": {
+        "name": "Energia Benzadeus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 204058,
+      "name": "Polo Norte - Ao Vivo",
+      "url": "https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny"
+    },
+    {
+      "added_at": "2024-02-17 17:43:08",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Quebrado",
+        "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
+      },
+      "artists": [
+        {
+          "name": "Ley",
+          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
+        }
+      ],
+      "duration_ms": 193222,
+      "name": "Cora\u00e7\u00e3o Quebrado",
+      "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
     },
     {
       "added_at": "2024-02-17 17:43:08",
@@ -1199,42 +1235,6 @@
       "duration_ms": 178728,
       "name": "Camuflado De BAPE - Feat. Rare Kidd",
       "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
-    },
-    {
-      "added_at": "2024-02-17 17:43:08",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Quebrado",
-        "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
-      },
-      "artists": [
-        {
-          "name": "Ley",
-          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
-        }
-      ],
-      "duration_ms": 193222,
-      "name": "Cora\u00e7\u00e3o Quebrado",
-      "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
-    },
-    {
-      "added_at": "2024-02-17 17:43:08",
-      "album": {
-        "name": "Energia Benzadeus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 204058,
-      "name": "Polo Norte - Ao Vivo",
-      "url": "https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny"
     },
     {
       "added_at": "2024-02-17 17:43:08",

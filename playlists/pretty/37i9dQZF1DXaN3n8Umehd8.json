@@ -1,12 +1,12 @@
 {
   "description": "Canciones para emocionarnos, reflexionar y celebrar, elegidas por <a href=\"spotify:show:5GfRxX2kl2BJVB1e7AgcDh\"> Marco Antonio Regil</a>",
-  "num_followers": 16348,
+  "num_followers": 16358,
   "original_name": "Insp\u00edrate con Marco Antonio Regil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDQ0MWM0ZThiOTJmZjAyZmZjNzk4ODRmZDhiMjBlMDg5Y2VjYWQ3",
+  "snapshot_id": "MCxhNGY0MmU5N2Y0NmY5NjBkMmNmMzAyOGM1ZjZkZjE0ZjlmZjNiYTYx",
   "tracks": [
     {
       "added_at": "2024-01-16 19:35:43",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-01-16 19:35:43",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "added_at": "2024-01-16 19:35:43",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2024-01-16 19:35:43",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2024-01-16 19:35:43",

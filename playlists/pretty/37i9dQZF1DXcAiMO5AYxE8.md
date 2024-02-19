@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,267 likes - 62 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,369 likes - 62 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 49 | [Can't Fake the Feeling](https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ) | [Geraldine Hunt feat\. Freddie James & Rosalind aka Cheri](https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo) | [Soultry, Jazzy, & Sexy](https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF) | 5:22 |
 | 50 | [Disco Nights \(Rock Freak\) \- Single Remix](https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:53 |
 | 51 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
-| 52 | [Best Love](https://open.spotify.com/track/4pJCC6lAVFM1ApmZcjTqxZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Stronger Than Ever \(Expanded Edition\)](https://open.spotify.com/album/1KpU7ibCL9fRpFlFBAujxy) | 3:53 |
-| 53 | [Stop and Think](https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Champs](https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh) | 5:03 |
+| 52 | [Stop and Think](https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Champs](https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh) | 5:03 |
+| 53 | [Best Love](https://open.spotify.com/track/4pJCC6lAVFM1ApmZcjTqxZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Stronger Than Ever \(Expanded Edition\)](https://open.spotify.com/album/1KpU7ibCL9fRpFlFBAujxy) | 3:53 |
 | 54 | [A Simple Game](https://open.spotify.com/track/6xvDMk1KQE1ZaMZg4ZSEdn) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Here You Are: The Best of Billy Ocean](https://open.spotify.com/album/40xWoQoVhjcXS9h7LFcjjz) | 5:03 |
 | 55 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 |
 | 56 | [Funkin' for Jamaica](https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [The Best Year Of My Life: 1981G010004775674D](https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ) | 3:53 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
 | 62 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 
-Snapshot ID: `MCwzNTFhODBjMjE5ZDA5MDU4MTg4NTJlMmRhNjdiODViMjNiYzE2ZGYx`
+Snapshot ID: `MCw3OGFiNjk3OTAwZWZmOTYxMjZkNTVmNjYyY2UzZjU1NTUwZjIwZmVh`

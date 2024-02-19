@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Historia M\u00fasical - 30 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280880,
+      "name": "Buscandote",
+      "url": "https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl"
+    },
+    {
+      "album": {
         "name": "El Arenal",
         "url": "https://open.spotify.com/album/11EOgFqgtSZwStG3ryasgR"
       },
@@ -766,7 +788,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 162298,
       "name": "El Ron de Vinola",
       "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"

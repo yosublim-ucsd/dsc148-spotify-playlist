@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 109862,
+  "num_followers": 109965,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjQ1ZmM3ZDU5M2I5Mjg1YThlYmExNmE4NTczNDlmZDU1NTlmZTY2",
+  "snapshot_id": "MCw3OGRkM2ZkYjg2YzYyMGYyYWVlYWU1YTg5MGRjZGY3YjM3ZjI3YWIw",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -131,26 +131,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Mis Nuevos Cantares",
-        "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
-      },
-      "artists": [
-        {
-          "name": "Erick Escobar",
-          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
-        },
-        {
-          "name": "Nayo Quintero",
-          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
-        }
-      ],
-      "duration_ms": 235235,
-      "name": "No Pude Quitarte las Espinas",
-      "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "La Combinacion Vallenata Elite Vol. 5",
         "url": "https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 297360,
       "name": "Quiero Volar",
       "url": "https://open.spotify.com/track/4WU4Bliu90KAVOXymgmraL"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Mis Nuevos Cantares",
+        "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
+      },
+      "artists": [
+        {
+          "name": "Erick Escobar",
+          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+        },
+        {
+          "name": "Nayo Quintero",
+          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+        }
+      ],
+      "duration_ms": 235235,
+      "name": "No Pude Quitarte las Espinas",
+      "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
     },
     {
       "added_at": "2022-12-16 20:17:47",

@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 413142,
+  "num_followers": 413151,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzNmZjQ3MmY5OWY4YWZmMGQwMDU1OGI2MGE0MzJmNWNkNTI4NWQ4",
+  "snapshot_id": "MCw0NGM0YmFiNmQ5ZjYxYTA3ZWY5N2E4YWM0NTAxMzllZjMzM2JhN2Rl",
   "tracks": [
     {
       "added_at": "2024-02-05 15:46:10",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 289560,
       "name": "Don't Look Back In Anger - Remastered",
       "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 238000,
       "name": "In a Manner of Speaking",
       "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
       },
@@ -1447,22 +1431,6 @@
       "duration_ms": 282000,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
-        "name": "Brenda Lee",
-        "url": "https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1495,6 +1463,22 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 426614,
       "name": "La femme d'argent",
       "url": "https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Brenda Lee",
+        "url": "https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
         "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 150613,
       "name": "Garota de Ipanema",
       "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2024-02-05 15:46:10",

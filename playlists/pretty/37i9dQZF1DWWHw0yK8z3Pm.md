@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,774 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,782 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 57 | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP) | 3:50 |
 | 58 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 59 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
-| 60 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
-| 61 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 |
+| 60 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 |
+| 61 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 62 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 |
 | 63 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
 | 64 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 79 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
 | 80 | [This Ain't It](https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 6:14 |
 | 81 | [Highway 87](https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:20 |
-| 82 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
-| 83 | [Into The Unknown](https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK) | 2:48 |
-| 84 | [CAMPFIRE](https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p) | 3:00 |
+| 82 | [CAMPFIRE](https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p) | 3:00 |
+| 83 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
+| 84 | [Into The Unknown](https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK) | 2:48 |
 | 85 | [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 |
 | 86 | [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 |
 | 87 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
 | 88 | [This Distance](https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:02 |
 | 89 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
-| 90 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
-| 91 | [Kingdom For A Fool](https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA) | 3:28 |
-| 92 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
+| 90 | [Kingdom For A Fool](https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA) | 3:28 |
+| 91 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
+| 92 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
 | 93 | [Resurrection Day](https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Resurrection Day](https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM) | 2:49 |
 | 94 | [Pretending](https://open.spotify.com/track/7DWiZj8PrmJF5pA16htFEF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 5:39 |
 | 95 | [Bequest](https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Bequest](https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte) | 3:58 |
 | 96 | [Abraham](https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Abraham](https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF) | 4:10 |
-| 97 | [Coyote](https://open.spotify.com/track/4XvkVnSQOyLFgE4iu9w62g) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/3rZWy0ccyoMV2uUyNnXW9k) | 4:16 |
-| 98 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 |
+| 97 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 |
+| 98 | [Coyote](https://open.spotify.com/track/4XvkVnSQOyLFgE4iu9w62g) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/3rZWy0ccyoMV2uUyNnXW9k) | 4:16 |
 | 99 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
 | 100 | [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 |
 
-Snapshot ID: `MCxhMTYwOGNmZjhkN2E5MjhhMGUyOTczMGUzOTcwNzJjYzFmMDc3YWM0`
+Snapshot ID: `MCw5MTA3MTlhODUxNTUzYWQ5NmZiNDQ0NjkwZTJlNDkzNTlmZjIwMjc2`

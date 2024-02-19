@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-514 songs - 1 day 6 hr 35 min
+515 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Call Me Thomas](https://open.spotify.com/track/2xjUmMZdlDWYKFiAcXLrSB) | [Tina Boonstra](https://open.spotify.com/artist/2H6LfNrRiHP6J007Cgol35) | [Call Me Thomas](https://open.spotify.com/album/1ij4ME2R2V8LB85F8NGjcP) | 4:31 | 2023-02-24 | 2023-04-09 |
 | [Calling My Name](https://open.spotify.com/track/7z562WDJSrCKq9cKG6nzs3) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Calling My Name](https://open.spotify.com/album/0MeWg0gWGL7F9RyR5EHGCN) | 2:18 | 2023-12-15 | 2024-01-27 |
 | [Camouflage](https://open.spotify.com/track/0NYCAILVVyZ5KR8Aa24xup) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Camouflage](https://open.spotify.com/album/3rndBTKrFcvOJ5cy3BakoS) | 2:46 | 2023-04-07 | 2024-01-27 |
+| [Can I Get a Witness](https://open.spotify.com/track/4wa9fDSypocJR9E08iMkaS) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [Can I Get a Witness](https://open.spotify.com/album/3SGtDcEbFg8ilsXmwEs1RM) | 3:10 | 2024-01-26 |  |
 | [Candlelight](https://open.spotify.com/track/3aIEDekEyK5BOOoLuJNo4C) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Candlelight](https://open.spotify.com/album/5TaylRZLl8LZJ9SAccvHQe) | 3:54 | 2024-01-26 |  |
 | [Captive](https://open.spotify.com/track/2f3EkdJtuokX2L85cK0yOz) | [Clemency](https://open.spotify.com/artist/5fuNHncNSPS8kNTSDzxlvJ) | [Captive](https://open.spotify.com/album/1xo0esdUHZWjuVzInMGm27) | 3:03 | 2020-12-18 | 2022-06-23 |
 | [Captured \- with Trulah](https://open.spotify.com/track/2E0HUOrgjtVfMYCeKw9ZoQ) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl), [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Captured \(with Trulah\)](https://open.spotify.com/album/4tk3i1oLFGMjC9shHslFTp) | 5:12 | 2023-04-21 |  |
@@ -254,7 +255,7 @@
 | [Lead Me \(Among the Ruins\)](https://open.spotify.com/track/7ICNCOdTKpSzjSm4QrQBn1) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Lead Me \(Among the Ruins\)](https://open.spotify.com/album/2H80kM6umUt3ZMVuuqqleo) | 5:11 | 2020-12-18 | 2022-07-26 |
 | [Leaning on the Everlasting Arms](https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [MATIN: Rest](https://open.spotify.com/album/12cExcrLvFwR8xc7TjyIwG) | 5:29 | 2024-01-26 |  |
 | [Legendary](https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Legendary](https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8) | 2:09 | 2023-08-04 |  |
-| [Let A Little Light In](https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Let A Little Light In](https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL) | 4:18 | 2023-04-07 |  |
+| [Let A Little Light In](https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Let A Little Light In](https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL) | 4:18 | 2023-04-07 | 2024-02-19 |
 | [Letting Go](https://open.spotify.com/track/0cfP8rKYUHke3HPfzShZdw) | [Johan Van Rensburg](https://open.spotify.com/artist/78PN6tfFrmzWMWFPyRvdrD), [Emeale Maritz](https://open.spotify.com/artist/6c43Y8VCUwZsM4bJNT2UDn) | [Letting Go](https://open.spotify.com/album/1RGpCw6f556Zl1MvVyMf4n) | 5:00 | 2024-01-26 | 2024-01-31 |
 | [Lift Me](https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Veil](https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol) | 3:56 | 2023-12-15 |  |
 | [LIFT MY HANDS](https://open.spotify.com/track/1ywzTEhz2wgVfaUvzPiXOQ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LIFT MY HANDS](https://open.spotify.com/album/2klAopt9CenASP8ZxD4JBh) | 3:39 | 2023-03-10 | 2023-08-05 |

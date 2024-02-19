@@ -1462,7 +1462,7 @@
     {
       "album": {
         "name": "Jaanavule (From \"BRO\")",
-        "url": "https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg"
+        "url": "https://open.spotify.com/album/3CjTEOn02KVq8zw0BONyKZ"
       },
       "artists": [
         {
@@ -1477,6 +1477,28 @@
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224477,
+      "name": "Jaanavule (From \"BRO\")",
+      "url": "https://open.spotify.com/track/6YuOxaMb7UC3gL8snkZvHL"
+    },
+    {
+      "album": {
+        "name": "Jaanavule (From \"BRO\")",
+        "url": "https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "K. Pranati",
+          "url": "https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-19",
       "duration_ms": 224477,
       "name": "Jaanavule (From \"BRO\")",
       "url": "https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik"

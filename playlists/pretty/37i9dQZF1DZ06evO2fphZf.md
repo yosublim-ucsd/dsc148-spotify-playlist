@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thuy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,814 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,817 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 47 | [Love Come Down](https://open.spotify.com/track/1psyxX7jRaZU8qcUxWQx4z) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [I Don't Wanna Rap No More](https://open.spotify.com/album/2NZQvOFm3oJNXg9q5fbQQg) | 3:52 |
 | 48 | [Reasons](https://open.spotify.com/track/3BEOKlFeiFCEFrfqTVH53F) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Reasons \(feat\. Thuy\) \- Single](https://open.spotify.com/album/0SEahu9fVx9ivOEuqgDSki) | 3:24 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA1ZGI3NmE3MmVjNDgxMzliOGI1MjMyYTRkYzlmNjFhNA==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBiNzQ1NDE0MTAwZGMzYjVkZDUwZmEyN2QyNmU3ODlhNA==`

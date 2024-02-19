@@ -4,7 +4,7 @@
 
 > Waktu Indonesia bagian mager dan dengar lagu\-lagu enak.
 
-98 songs - 6 hr 8 min
+99 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,12 +99,13 @@
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2023-02-23 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2022-12-14 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-12-14 |  |
-| [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2022-12-14 |  |
+| [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2022-12-14 | 2024-02-19 |
 | [Waiting on Fireworks](https://open.spotify.com/track/1n1fFzYq9b5ybCgE9HWFbh) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Waiting on Fireworks](https://open.spotify.com/album/78ikOZ1uBAMc2QUHgugNAC) | 4:32 | 2023-12-11 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-08-02 |  |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2022-12-14 | 2023-12-17 |
 | [XXL](https://open.spotify.com/track/4kFbxA8gCGx47zJrZ9KiQT) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:26 | 2024-01-03 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-12-14 |  |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2022-12-14 | 2024-01-21 |
+| [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2024-01-03 |  |
 
 \*This playlist was first scraped on 2022-12-15. Prior content cannot be recovered.

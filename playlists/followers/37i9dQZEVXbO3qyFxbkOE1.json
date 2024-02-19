@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 1821597,
+  "2024-02-19": 1822035,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Mexico.",
   "name": "Top 50 - Mexico",
@@ -493,6 +493,28 @@
       "duration_ms": 168086,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261068,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
     },
     {
       "album": {
@@ -2189,7 +2211,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"

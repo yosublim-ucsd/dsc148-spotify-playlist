@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,643 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,662 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 3 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 |
 | 4 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 |
 | 5 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
-| 6 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
-| 7 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
+| 6 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
+| 7 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
 | 8 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 |
 | 9 | [Lonely Day](https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:47 |
 | 10 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 11 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 |
 | 12 | [I Hate Everything About You](https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace](https://open.spotify.com/album/13topfW33NjnACjnRiZBX7) | 3:51 |
 | 13 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
-| 14 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
-| 15 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
+| 14 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
+| 15 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
 | 16 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
 | 17 | [DONTTRUSTME](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 3:12 |
 | 18 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 79 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
 | 80 | [Sorry You're Not a Winner](https://open.spotify.com/track/2LK4xHEsGJF5aNx6yBjkOm) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Sorry You're Not a Winner / OK! Time for Plan B](https://open.spotify.com/album/5pafHBblPtzj5WRLjQ3WqV) | 4:00 |
 
-Snapshot ID: `MCxlNjc3ZDIxNGYzYzc2NmE2ZDYxNmY0ZDY4MjI2ZTdkNDYyODAxY2Yz`
+Snapshot ID: `MCxjNzMzOGU0Mzc4NWZmMmM4ZGE5ZDQ4ZWM3ZjFjMzE0YTcwYzYxZDJi`

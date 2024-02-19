@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 31771,
+  "num_followers": 31772,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmFlNjRhN2RmMDkyNWE5YmE1MGQzNDRkNzk2NWU3MzMzOTNiZGIz",
+  "snapshot_id": "MCw3YmZjNTVlMDlkZjNjNzdkYmJiM2NjYzM0NWQ5Y2I2MWJmNWIxOGE4",
   "tracks": [
     {
       "added_at": "2023-12-08 00:22:41",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
       },
       "artists": [
         {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
         }
       ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -627,18 +627,38 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+        "name": "L\u00fadico",
+        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
       },
       "artists": [
         {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+          "name": "Francisco De Rosa",
+          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
+        },
+        {
+          "name": "Francisco De Rosa Quinteto",
+          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
         }
       ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
+      "duration_ms": 306999,
+      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
+      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
+      },
+      "artists": [
+        {
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -667,26 +687,6 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "L\u00fadico",
-        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
-      },
-      "artists": [
-        {
-          "name": "Francisco De Rosa",
-          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
-        },
-        {
-          "name": "Francisco De Rosa Quinteto",
-          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
-        }
-      ],
-      "duration_ms": 306999,
-      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
-      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Flor de piel",
-        "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        },
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 155904,
-      "name": "Flor de piel",
-      "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 273213,
       "name": "Swing Summit",
       "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Flor de piel",
+        "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        },
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 155904,
+      "name": "Flor de piel",
+      "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
     },
     {
       "added_at": "2023-12-08 00:22:41",

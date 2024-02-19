@@ -1,12 +1,12 @@
 {
   "description": "Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo' ",
-  "num_followers": 15360,
+  "num_followers": 15422,
   "original_name": "Perreo de Dos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDE3NmYxZWZkZGNmOTgzY2U0NjY4YjM0MDUyOTZhZDY0YzY5NDdh",
+  "snapshot_id": "MCw4ZjhkODY2Y2E1ZWRkOTE5ZWI0NGIxMmQ4ZjM0YzQ4N2RiYWM3N2Jm",
   "tracks": [
     {
       "added_at": "2024-02-09 06:00:00",
@@ -739,18 +739,22 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+        "name": "Entre Nosotros",
+        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 151400,
-      "name": "EL CUARTO DE FERXXO",
-      "url": "https://open.spotify.com/track/1WBwck9KqWfe6mr2j06UEM"
+      "duration_ms": 192352,
+      "name": "Entre Nosotros",
+      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -771,22 +775,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Entre Nosotros",
-        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 192352,
-      "name": "Entre Nosotros",
-      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+      "duration_ms": 151400,
+      "name": "EL CUARTO DE FERXXO",
+      "url": "https://open.spotify.com/track/1WBwck9KqWfe6mr2j06UEM"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Mi Lova",
-        "url": "https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Mi Lova",
-      "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Bellaquita (Remix)",
         "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 304733,
       "name": "Bellaquita - Remix",
       "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Mi Lova",
+        "url": "https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Mi Lova",
+      "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Quien Contra Mi 2",
-        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 254254,
-      "name": "Ponme al Dia",
-      "url": "https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Yo Soy la Fama",
         "url": "https://open.spotify.com/album/1Kh36gr6wF5KfF2oGTKTSX"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 239232,
       "name": "Mamisonga",
       "url": "https://open.spotify.com/track/0B5NFyHi0F9SPyd1A0En9m"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 254254,
+      "name": "Ponme al Dia",
+      "url": "https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb"
     },
     {
       "added_at": "2024-02-09 06:00:00",

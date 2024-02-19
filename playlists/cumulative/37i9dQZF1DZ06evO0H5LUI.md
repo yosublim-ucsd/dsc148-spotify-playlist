@@ -4,7 +4,7 @@
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 40 min
+58 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,10 +59,11 @@
 | [Savana](https://open.spotify.com/track/7vPKvqTBq4akWHhfo4WCxT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Savana](https://open.spotify.com/album/4Jh20UJGE2tLzWqqjdCDYo) | 2:48 | 2023-11-10 | 2024-02-17 |
 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 | 2023-11-10 |  |
 | [Todo Pasa](https://open.spotify.com/track/5dysG1GlvAU2GndJU7O9Wb) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Gabriel Bitrán](https://open.spotify.com/artist/0cLnWomMNr0IlMpeWHwfP3) | [Todo Pasa](https://open.spotify.com/album/0JTwFw2yB7anulkQWSVmO3) | 2:59 | 2023-11-10 | 2023-12-14 |
-| [TSUNAMI](https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [TSUNAMI](https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE) | 2:46 | 2023-11-10 |  |
+| [TSUNAMI](https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [TSUNAMI](https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE) | 2:46 | 2023-11-10 | 2024-02-19 |
 | [Una Chica Como Tú](https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Chica Como Tú](https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M) | 2:47 | 2023-11-10 |  |
 | [Vente](https://open.spotify.com/track/0jGekvFOOBQm3Ba8IfimAp) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:29 | 2023-11-10 |  |
 | [Veo, Veo](https://open.spotify.com/track/2gtf19UFW3XLNsEnbfdBVb) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Veo, Veo](https://open.spotify.com/album/059eZpWBrNGHJ95xr9Ent5) | 2:40 | 2023-11-10 | 2024-02-17 |
+| [Vinta$h](https://open.spotify.com/track/56LA9tBBl0oLEjgKJLRKpn) | [Zaucy](https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Vinta$h](https://open.spotify.com/album/1LjcaATUkhM1wU2ZN4cfSi) | 3:16 | 2024-02-18 |  |
 | [VoyAHacerLoQueYoQuiera \(feat\. Leon Leiden\)](https://open.spotify.com/track/72fOZEogU7lBQ9JyHwvOS9) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Noche Eterna](https://open.spotify.com/album/6E73adRyPWKIVzD2RgVL5A) | 3:23 | 2023-11-10 |  |
 | [Ya No Se Mueve](https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ya No Se Mueve](https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq) | 2:35 | 2023-11-10 |  |
 

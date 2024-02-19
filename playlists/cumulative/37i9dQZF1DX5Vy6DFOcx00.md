@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,301 songs - 2 day 21 hr 58 min
+1,303 songs - 2 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-03-29 | 2023-09-28 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-29 | 2023-06-02 |
 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 | 2022-12-29 | 2023-05-03 |
+| [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 | 2024-02-18 |  |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-15 | 2023-07-01 |
 | [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-31 | 2022-11-16 |
 | [High](https://open.spotify.com/track/2LseyBkPJv7r7wCt2yMEgX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-01-17 | 2023-01-20 |
@@ -583,7 +584,8 @@
 | [interface](https://open.spotify.com/track/20I2uDgPP2ReUv5isYjRFf) | [Sgarz](https://open.spotify.com/artist/6Wm6y1q6KLwDOZg9x5HmDP) | [critical prosperity](https://open.spotify.com/album/3izvkZcCS1i4AB8c4EAmPk) | 2:52 | 2023-10-17 | 2023-11-12 |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2022-05-03 | 2022-12-02 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2023-01-11 | 2023-04-22 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-03 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-03 | 2024-02-19 |
+| [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2023-11-15 |  |
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/2lujnKdLiRVjcueFs648AW) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts) | 2:42 | 2023-01-17 | 2023-02-24 |
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 | 2023-02-17 | 2023-02-25 |
 | [It's A Wrap](https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 3:58 | 2023-01-25 | 2023-04-27 |

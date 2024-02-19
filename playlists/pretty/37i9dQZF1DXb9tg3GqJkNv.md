@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,297 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,311 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 55 | [Dwayne Carter Flow](https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N) | 2:10 |
 | 56 | [Priceless](https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [FB](https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar) | [Priceless](https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek) | 4:32 |
 | 57 | [Time & It's Order](https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Time & It's Order](https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV) | 2:15 |
-| 58 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
-| 59 | [NightmareZ](https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7) | 1:49 |
+| 58 | [NightmareZ](https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7) | 1:49 |
+| 59 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
 | 60 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 |
 | 61 | [Body & A Face](https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J) | 2:39 |
 | 62 | [Go There](https://open.spotify.com/track/3BIouEzekdzTJYtR9fmYRA) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J), [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0) | [Different Route](https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2) | 2:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 75 | [Toronto](https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Toronto](https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm) | 2:53 |
 
-Snapshot ID: `MCxkMjU0NmE0MTdlNmJjNmY4MzE3OWIxOTc2ODIxODlhNGUzNGE1ODQ1`
+Snapshot ID: `MCxiNzg5ODgzOGEzMmI5NTk5NDU5Mzk3OWZjOTFkZDEyZWFjNzhhMGZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,868 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,889 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 66 | [Al Vacío](https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Catalina García de Monsieur Periné, Flor de Toloache](https://open.spotify.com/artist/02cfFgG5C1GSyRYBwY6WYp) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 4:49 |
 | 67 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 68 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 |
-| 69 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
-| 70 | [Amándote](https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:30 |
+| 69 | [Amándote](https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:30 |
+| 70 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
 | 71 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
 | 72 | [Parapente](https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 2:42 |
 | 73 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 87 | [Ojitos de Md \- Remix](https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik) | 2:50 |
 | 88 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 89 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
-| 90 | [Viernes](https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Viernes](https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0) | 3:11 |
+| 90 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
 
-Snapshot ID: `MCxkMmRlNTM3OTM5MjFiYjVlMzBkNGM1NjU2OWY5ODM4YzZlNWM0OTY2`
+Snapshot ID: `MCxiNTEwMmNhYTk5YmI1NmU2NTZhNmI5MWE1MzM4MTZlMzk0MTg0YmYy`

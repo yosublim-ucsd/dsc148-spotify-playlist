@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4?si=ltRvo8h\_S06G7E6RyEC0Vw>Chioma Jesus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,612 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,641 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Momentum](https://open.spotify.com/track/6OGlcMVlHteIpnT6M27pzT) | [SEYHGA](https://open.spotify.com/artist/6nDYfLpJkJKMVjn9M12Zws) | [Momentum](https://open.spotify.com/album/0I1h4qJOrsZtt9v3X521ba) | 2:55 |
 | 100 | [planted](https://open.spotify.com/track/0ney937s8k6qIEcbu89Ev7) | [Mathapelo](https://open.spotify.com/artist/2IpVNXm7MLj471f0r1U1DL) | [planted](https://open.spotify.com/album/1S8GyLFP0kGI48SkAjJpoB) | 3:19 |
 
-Snapshot ID: `MCxmYzQwNDhkNjgwOGM1NjA5MWI1NGYzNjc2ZDg1M2U5ODAyODYzOTlj`
+Snapshot ID: `MCw5MjkwMzM0YzdkMjQyMWFiMTU0YzFmMjgwZTFmMzhhZGE4ZDRlMGVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: coldrain
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,464 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,486 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 49 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 |
 | 50 | [The Autumn Song](https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Missing](https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY) | 3:01 |
 | 51 | [恋のメガラバ](https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [恋のメガラバ / G'old〜en〜Guy \(D×D remix\) \[feat\. Misaki\]](https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU) | 5:24 |
-| 52 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
-| 53 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
+| 52 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
+| 53 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
 | 54 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
 | 55 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
 | 56 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 69 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
 | 70 | [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 |
 | 71 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
-| 72 | [ゆらめき \(YURAMEKI\)](https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [19990120](https://open.spotify.com/album/5xkvN0sLl4iaokgZixvhvz) | 5:09 |
-| 73 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
+| 72 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
+| 73 | [ゆらめき \(YURAMEKI\)](https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [19990120](https://open.spotify.com/album/5xkvN0sLl4iaokgZixvhvz) | 5:09 |
 | 74 | [Enchant](https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Enchant](https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG) | 2:44 |
-| 75 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
-| 76 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
+| 75 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
+| 76 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
 | 77 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 |
 | 78 | [SWEET DREAMS](https://open.spotify.com/track/2nWm1F041PLDHAFcKTiuf1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:30 |
 | 79 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 99 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 |
 | 100 | [Seaside](https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b) | [THE NOVEMBERS](https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF) | [The Novembers](https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO) | 3:27 |
 
-Snapshot ID: `MCxmZmE3ZTBmODFhZjEwZDM0ZmQ5YTMwMDBjODUwNTc3NDJjN2FiYmE0`
+Snapshot ID: `MCw5MjZiYjkxOWVkMDA3YzU2NTUzODBlYmQyZTQyNjY1Mjc0N2EzZTA2`

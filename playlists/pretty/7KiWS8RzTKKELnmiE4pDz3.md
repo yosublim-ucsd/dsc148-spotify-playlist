@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 175 songs - 9 hr 14 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 176 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,5 +183,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 173 | [Nothing Changë](https://open.spotify.com/track/3rLjenWhYQNFGI1xrvTHWy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:57 |
 | 174 | [Lyfestylë \(with Lil Wayne\)](https://open.spotify.com/track/15qRV1yUqFR6ViOwxoopod) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:56 |
 | 175 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 |
+| 176 | [Blue](https://open.spotify.com/track/07pEbfPpD6FvyWr6BsQrAG) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Don't Go Tellin' Your Momma](https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm) | 2:25 |
 
-Snapshot ID: `NzIyOCxhODVlZjk4YWU4MGQ2NTU3Y2U5MTllMDJjYzQwZDI0YmNiNzRkZDk4`
+Snapshot ID: `NzIyOSxjMzMwMmEwOTcxN2EzZjQyYjNkYTYwOWUzMGMxZjQ2NjMyNmNjYmQy`

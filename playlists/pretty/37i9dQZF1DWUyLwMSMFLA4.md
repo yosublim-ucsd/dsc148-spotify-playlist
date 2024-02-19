@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,522 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,870 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,19 +56,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 46 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 |
 | 47 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
 | 48 | [Ocho Cuarenta](https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 5:54 |
-| 49 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 |
-| 50 | [Intento](https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac) | 3:53 |
+| 49 | [Intento](https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac) | 3:53 |
+| 50 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 |
 | 51 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
 | 52 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 |
-| 53 | [Me Muero de Amor \- En Vivo](https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [Me Muero de Amor \(En Vivo\)](https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88) | 3:28 |
+| 53 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 |
 | 54 | [Disfruto](https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto](https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5) | 2:10 |
-| 55 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 |
+| 55 | [Me Muero de Amor \- En Vivo](https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [Me Muero de Amor \(En Vivo\)](https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88) | 3:28 |
 | 56 | [Yo Tomo](https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm) | 3:24 |
 | 57 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 |
-| 58 | [Pibe Cantina](https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 3:38 |
-| 59 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
+| 58 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 |
+| 59 | [Pibe Cantina](https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 3:38 |
 | 60 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
-| 61 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 |
+| 61 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
 | 62 | [La Cumbita](https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [De Enero a Enero](https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g) | 3:14 |
 | 63 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 |
 | 64 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 90 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
 | 91 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 |
 | 92 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 |
-| 93 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 |
+| 93 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
 | 94 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 |
-| 95 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
+| 95 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 |
 | 96 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
 | 97 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 |
 | 98 | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z) | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe) | 2:21 |
 | 99 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 100 | [Sobreviviendo](https://open.spotify.com/track/2ca7BrKnsQd0iSSkEI9CFY) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Los Mas Grandes Exitos](https://open.spotify.com/album/2A4irFl71OjqxE0x6FNO0T) | 3:05 |
 
-Snapshot ID: `MCwyN2QwZjMzZThiYmY4MzEyYWMzMmY2MGE1Y2NlOTRhZDgzOGQzMzlj`
+Snapshot ID: `MCw5N2I5Nzc1NWVhYmFhY2QzNTIxN2UwN2QzNTc3ZjFjYjk3M2NlMTEw`

@@ -4,7 +4,7 @@
 
 > Desde Culiacán, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile.
 
-104 songs - 5 hr 30 min
+105 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2023-01-30 |  |
 | [M.L.P](https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [M.L.P](https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1) | 3:31 | 2023-04-14 |  |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-04-14 |  |
-| [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 | 2023-01-30 |  |
+| [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/0js27m6Zy7oJDWfJ4f2hJ5) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/0xlaInOYofb0OkPiW9zDuJ) | 4:16 | 2023-04-14 |  |
+| [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 | 2023-01-30 | 2024-02-19 |
 | [Me Conocen](https://open.spotify.com/track/6hMYMcXi5CHfJchkOeYlYP) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Ozz](https://open.spotify.com/artist/15z32WJ4SdkUN6iUhBgV8u) | [Me Conocen](https://open.spotify.com/album/5uCHSXpMqNl4WnIaOJA8gS) | 2:18 | 2023-01-30 |  |
 | [Me Dicen el Coyote \- Live](https://open.spotify.com/track/3jGETrKu7jooC0FPfMRc6d) | [Pepe Garza](https://open.spotify.com/artist/0KwMypY6oQFgD1XhiBiQD5) | [Bohemios de Afición en Vivo Desde Garibaldi](https://open.spotify.com/album/5Twco2xZSWI6Sivuhqoqn5) | 3:04 | 2023-01-30 |  |
 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 | 2022-01-20 |  |

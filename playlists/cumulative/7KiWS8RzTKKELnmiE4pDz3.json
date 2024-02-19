@@ -1573,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "Don't Go Tellin' Your Momma",
+        "url": "https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm"
+      },
+      "artists": [
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        },
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145411,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/07pEbfPpD6FvyWr6BsQrAG"
+    },
+    {
+      "album": {
         "name": "Bombaclot",
         "url": "https://open.spotify.com/album/74eVXHFF8J4ra7RQobQoyh"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,051 likes - 51 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,089 likes - 51 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 11 | [A Ele a Glória \- Ao Vivo](https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Ele a Glória \(Ao Vivo\)](https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY) | 7:17 |
 | 12 | [Creio Que Tu És a Cura](https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Creio Que Tu És a Cura](https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6) | 5:51 |
 | 13 | [És o Amor \- Ao Vivo](https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [És o Amor \(Ao Vivo\)](https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER) | 6:43 |
-| 14 | [Tu és Poderoso \- Ao Vivo](https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tu és Poderoso \(Ao Vivo\)](https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP) | 10:29 |
-| 15 | [Eu Navegarei](https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:49 |
+| 14 | [Eu Navegarei](https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:49 |
+| 15 | [Tu és Poderoso \- Ao Vivo](https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tu és Poderoso \(Ao Vivo\)](https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP) | 10:29 |
 | 16 | [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 |
 | 17 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 |
 | 18 | [Vida aos Sepulcros](https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Vida aos Sepulcros](https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV) | 4:53 |
 | 19 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 |
-| 20 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
-| 21 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
+| 20 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
+| 21 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 22 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 | 23 | [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 |
 | 24 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 50 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 |
 | 51 | [Estás Comigo](https://open.spotify.com/track/1ZzqP7qxiVAjmScE9AlE3n) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Jesus](https://open.spotify.com/album/2PDO2DqKmVPbHIIoHvoaBd) | 4:39 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA5ZjBmMjY0OWI3MjNiYTUzMWZlZjU4NDA4YWEwNzAyNg==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA0NDE5MTYwMDIzNGY4ZTA2ZDdiNjY4MWFlMTcwNGFlOA==`

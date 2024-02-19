@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,258 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,366 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [La machine](https://open.spotify.com/track/4YcK0u6DgSg1jQqWYCXTBq) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [AYA](https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC) | 3:03 |
 | 40 | [Criminel](https://open.spotify.com/track/6JAezQjLfd5CopZ5klhzHu) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Losa](https://open.spotify.com/album/1teNie7q2r9ik9SHyPkHJn) | 3:16 |
 
-Snapshot ID: `MCw4ZWE5ZjZiMzMyNzVjNDAzZjM3M2I1MGI3N2M3NWM1ZjBiZGMwZjdh`
+Snapshot ID: `MCw3NDY3MGZmMDc2OWI4YWVhMjhlZDIxYjg1ZTY4M2EyODE3YzBlNzVi`

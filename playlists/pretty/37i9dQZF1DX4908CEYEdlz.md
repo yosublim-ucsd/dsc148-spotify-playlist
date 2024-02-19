@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,691 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,673 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 64 | [Kingdom](https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Kingdom](https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB) | 4:32 |
 | 65 | [Fortunate Son \- Nowhere Sessions](https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Sessions](https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD) | 1:54 |
 | 66 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
-| 67 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
-| 68 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
+| 67 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
+| 68 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
 | 69 | [UKUMKANI](https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Griô](https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB) | 3:04 |
 | 70 | [PARE\(SER\)](https://open.spotify.com/track/2x8iWbXOkSS3iOavdOa4M0) | [Bayside Kings](https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p) | [DUALIDADE \#LIVREPARATODOS](https://open.spotify.com/album/5cYJymh4Af0dTazxomJdpg) | 1:54 |
 | 71 | [Carnivore](https://open.spotify.com/track/6nKI1hpBkx80u2fs57eG09) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 75 | [Dreadpool](https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Dreadpool](https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ) | 2:59 |
 
-Snapshot ID: `MCxlYjAxYjA3NjFhMGQ5ODNkNDc2Y2Y1YzE2NTU3ZWVkZjMyY2Y3MTM0`
+Snapshot ID: `MCxhOGM2ZTI5YmVmNDdjY2MzM2NkMjkyOGFkNjc0MmY0NjBiNTA5OTQ2`

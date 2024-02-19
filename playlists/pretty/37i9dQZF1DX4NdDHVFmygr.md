@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains du moment\. Cover: Moha K
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,731 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,957 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 48 | [Khssara](https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/1svd34TFBJ8ZfDFtuJZqUJ) | 2:32 |
 | 49 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 |
 
-Snapshot ID: `MCxkNDhjYTBlMmJjNjlmNTc4ZjE0ODk4YzM2OTYzOTBkNDNiZmMzOTNm`
+Snapshot ID: `MCw4NTAyNGYwMWJjMTExZTc5Nzk3NDkwMzQ4YmM5Y2UwNDI0OGZmZjcx`

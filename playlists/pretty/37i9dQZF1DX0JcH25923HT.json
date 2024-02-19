@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 426174,
+  "num_followers": 426292,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmU0YmJhODVmOTg5M2NjNTY5ODlmMDFhMTk2NWY4YjE4YzljYTM1",
+  "snapshot_id": "MCxhMWI1NTZhZjJmYjAwOTA4MmZhZjU5MGIyMzI0YTczZmUyOGExYWE0",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Flakk Daniel's Lp",
-        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        }
-      ],
-      "duration_ms": 245190,
-      "name": "Buenos Genes",
-      "url": "https://open.spotify.com/track/76NtMPMpA6fuUH4euMYZoD"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "C\u00f3mo Le Digo",
         "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 226100,
       "name": "C\u00f3mo Le Digo",
       "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "duration_ms": 245190,
+      "name": "Buenos Genes",
+      "url": "https://open.spotify.com/track/76NtMPMpA6fuUH4euMYZoD"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1247,26 +1247,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Pininfarina (Remix)",
-        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         },
         {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 260787,
-      "name": "Pininfarina - Remix",
-      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1311,6 +1307,30 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Pininfarina (Remix)",
+        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 260787,
+      "name": "Pininfarina - Remix",
+      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Si Tu Lo Dejas",
         "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 275478,
       "name": "Si Tu Lo Dejas",
       "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2355,18 +2355,30 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Dubai",
-        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
+        "name": "C90 (Remix)",
+        "url": "https://open.spotify.com/album/2OLJMC8S2A3HfNevKPfYm4"
       },
       "artists": [
         {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 157732,
-      "name": "Dubai",
-      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
+      "duration_ms": 316000,
+      "name": "C90 (Remix)",
+      "url": "https://open.spotify.com/track/6b4ioB9n5Hkeu2GdSOWzJJ"
     }
   ],
   "unique_name": "Trap Rewind",

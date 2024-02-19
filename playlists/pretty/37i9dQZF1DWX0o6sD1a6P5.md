@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tam Sir
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,552 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,745 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 |
 | 50 | [Jalouse](https://open.spotify.com/track/1eTc0w4sRlkV0qz9hkbqMj) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Jalouse](https://open.spotify.com/album/3d4ONFiZsEZfGPfvWz2OM9) | 3:13 |
 
-Snapshot ID: `MCwwNmVhZWQ5MDViYzFiZTA2NzkxOWJiNGE4ZDgwNmE5NTJmZTkzN2Yw`
+Snapshot ID: `MCxjNTc1NWVjMDBhYTAwM2ZkMGJhN2EwNDg2M2MxNzFhYzdlZTZkOTcx`

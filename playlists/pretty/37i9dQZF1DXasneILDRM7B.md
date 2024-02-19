@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,022,040 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,022,073 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,22 +52,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 42 | [Decode](https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF) | 4:21 |
 | 43 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 44 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
-| 45 | [Famous Last Words](https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:59 |
-| 46 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
+| 45 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
+| 46 | [Famous Last Words](https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:59 |
 | 47 | [She Looks So Perfect](https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:22 |
 | 48 | [I Wanna Be Sedated](https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:29 |
 | 49 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 |
 | 50 | [Come Out and Play](https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:17 |
-| 51 | [The Rock Show](https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 |
-| 52 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 |
+| 51 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 |
+| 52 | [The Rock Show](https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 |
 | 53 | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:13 |
 | 54 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 |
 | 55 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 56 | [MakeDamnSure](https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:28 |
 | 57 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 58 | [Sweetness](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:40 |
-| 59 | [If You Can't Hang](https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl) | 4:10 |
-| 60 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 |
+| 59 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 |
+| 60 | [If You Can't Hang](https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl) | 4:10 |
 | 61 | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:10 |
 | 62 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 |
 | 63 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 100 | [Girls & Boys](https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:03 |
 
-Snapshot ID: `MCxjMjY2OTVlZWZiNTEwZDc0MTU1MmY0NzA4YTJhZjY2NTgwM2RiYmIw`
+Snapshot ID: `MCxiMDhmZjdiOTg3M2RkMTdiYmE3ODgzMmQ4NGUxODI5ZjMwYTIwZGZm`

@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 637926,
+  "2024-02-19": 637963,
   "date_first_scraped": "2021-12-21",
   "description": "Ease into the day",
   "name": "Mellow Morning",
@@ -3120,6 +3120,24 @@
     },
     {
       "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
+    },
+    {
+      "album": {
         "name": "If I Weren't Me",
         "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
       },
@@ -3131,7 +3149,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"

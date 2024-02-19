@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,990 likes - 47 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,034 likes - 47 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 9 | [White Shampoo Brush](https://open.spotify.com/track/3EwUEJcn0SKGaco2gBidSk) | [ASMR PPOMO](https://open.spotify.com/artist/2tB09djNHoTug9dRlPY30k) | [Asmr Realistic! Scalp Massage & Hair Brushing Sounds](https://open.spotify.com/album/5LAthT4SyMb4EckkWD8k64) | 5:28 |
 | 10 | [Oil Massage](https://open.spotify.com/track/6zl4uiCSDE1RyH55jrV9gX) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [ASMR \| Some of My Favourite Sounds](https://open.spotify.com/album/6tFZnaQPznbCNkHokxTvFp) | 2:50 |
 | 11 | [Long\-Nailed Deep Ear Attention Pt.2](https://open.spotify.com/track/4XvzLrty6v5yiGQE5f8TmX) | [FrivolousFox ASMR](https://open.spotify.com/artist/6JI1jwOnED6XOslfOYeQQP) | [Long\-Nailed Deep Ear Attention](https://open.spotify.com/album/5oXzFATWsecCjqfQgf3Zey) | 5:17 |
-| 12 | [DOUBLE Brain Melting Mic Scratching with NO TALKING Pt.5](https://open.spotify.com/track/50aywA5spaGEHmdy59tBRf) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [DOUBLE Brain Melting Mic Scratching with NO TALKING](https://open.spotify.com/album/02c0PtJKDoLIeckBGHAYja) | 4:53 |
+| 12 | [Ear Cupping Massage, Pt\. IV](https://open.spotify.com/track/4NpHzlzrSOzxx88gy3U9dF) | [Sebastian ASMR](https://open.spotify.com/artist/2rBJtnBqfgXfKv2gMPgcSK) | [Ultimate Ear Massage](https://open.spotify.com/album/6ZLgKI4AwHTSoH57t7jgz6) | 4:15 |
 | 13 | [Hand Massage with Rubber Gloves](https://open.spotify.com/track/2fa4KMcuDil6GfzIpnpjyO) | [Alexa ASMR](https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF) | [ASMR Massage \- Massage Sounds for Intense Tingles and Relaxation](https://open.spotify.com/album/7bSZskRAVTpZczU5hNosVC) | 2:32 |
-| 14 | [Ear Cupping Massage, Pt\. IV](https://open.spotify.com/track/4NpHzlzrSOzxx88gy3U9dF) | [Sebastian ASMR](https://open.spotify.com/artist/2rBJtnBqfgXfKv2gMPgcSK) | [Ultimate Ear Massage](https://open.spotify.com/album/6ZLgKI4AwHTSoH57t7jgz6) | 4:15 |
+| 14 | [DOUBLE Brain Melting Mic Scratching with NO TALKING Pt.5](https://open.spotify.com/track/50aywA5spaGEHmdy59tBRf) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [DOUBLE Brain Melting Mic Scratching with NO TALKING](https://open.spotify.com/album/02c0PtJKDoLIeckBGHAYja) | 4:53 |
 | 15 | [Brushing Hair](https://open.spotify.com/track/6sYYyEh9z14wOYwsnrqOAK) | [Lucy Stella ASMR](https://open.spotify.com/artist/6HvjU87Hkljkcvgpm2inJS) | [ASMR Calm](https://open.spotify.com/album/3P8FCAFIMtxeYPv9Wk4INP) | 3:31 |
 | 16 | [Muscle Massage](https://open.spotify.com/track/7AhE5d2ZLVovBK1pAKP3vv) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Chiropractor Roleplay \| Neck & Back Cracking \(Cracking Sounds\) Relaxing Doctor Check\-Up](https://open.spotify.com/album/1qfg4vz3VDJRqLzZrl6Vz5) | 3:53 |
 | 17 | [Lotion Massage](https://open.spotify.com/track/7pEOu3sNcSPdBP7XMTQHoh) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Lotion Massage](https://open.spotify.com/album/5J8XSFmWNqHdEhi0XJwUMX) | 4:30 |
 | 18 | [7 Tingle Massages Pt.2](https://open.spotify.com/track/1tvP8rFCsboSjB62yu4mz1) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [7 Tingly Massages](https://open.spotify.com/album/4rsAtuIMx3RkhaV5Leqx2T) | 5:36 |
-| 19 | [Brain Melting Mic Scratching Pt.3](https://open.spotify.com/track/57nPzI8kww0jlc3j4NltAG) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Brain Melting Mic Scratching](https://open.spotify.com/album/4NDoPCl8EiCgBbDRFG79W6) | 3:58 |
-| 20 | [Serum Massage](https://open.spotify.com/track/1SumfX4KD5sKrdnNo2gJYA) | [ASMR Bakery](https://open.spotify.com/artist/54Mf3tKmBGQbBQlPfC6N7T) | [ASMR Taking Care of Teddy, Head Massage, Facial Cleansing, Fur Combing and Ear Cleaning \(No Talking\)](https://open.spotify.com/album/53qvsFoqNPARRdybQzNw0c) | 6:08 |
+| 19 | [Serum Massage](https://open.spotify.com/track/1SumfX4KD5sKrdnNo2gJYA) | [ASMR Bakery](https://open.spotify.com/artist/54Mf3tKmBGQbBQlPfC6N7T) | [ASMR Taking Care of Teddy, Head Massage, Facial Cleansing, Fur Combing and Ear Cleaning \(No Talking\)](https://open.spotify.com/album/53qvsFoqNPARRdybQzNw0c) | 6:08 |
+| 20 | [Brain Melting Mic Scratching Pt.3](https://open.spotify.com/track/57nPzI8kww0jlc3j4NltAG) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Brain Melting Mic Scratching](https://open.spotify.com/album/4NDoPCl8EiCgBbDRFG79W6) | 3:58 |
 | 21 | [Lotion Ear Massage Pt\. 3](https://open.spotify.com/track/2i4Q1ws0zYUbk6aGHEalLR) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Lotion Ear Massage](https://open.spotify.com/album/3ZFuo0KXX55NKDWPrw8qZf) | 3:53 |
 | 22 | [Helping you fall sleep with a relaxing hand and head massage Pt.2](https://open.spotify.com/track/0llPJPAIBv48UDRI0piTAX) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Helping you fall sleep with a relaxing hand and head massage](https://open.spotify.com/album/0Mxearp6dO183ZajtJdtM6) | 4:45 |
 | 23 | [7 Tingle Massages Pt.1](https://open.spotify.com/track/4f7emjWlRrzGny0U85rHUH) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [7 Tingly Massages](https://open.spotify.com/album/4rsAtuIMx3RkhaV5Leqx2T) | 6:50 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 46 | [Rubbing it](https://open.spotify.com/track/6xYKogdbhvY0BoR50nGdSc) | [Willy Ymer](https://open.spotify.com/artist/6F5ZrBdFO0aI22v3p4GPK3) | [Fluffy Pillow](https://open.spotify.com/album/3BafvyZxxVaBbAg7cJ5rcQ) | 2:46 |
 | 47 | [Lotion Ear Massage Pt\. 1](https://open.spotify.com/track/2JNIfNuAYm33btPUXwSTvx) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Lotion Ear Massage](https://open.spotify.com/album/3ZFuo0KXX55NKDWPrw8qZf) | 6:07 |
 
-Snapshot ID: `MCw3M2ViY2I0MjY1Mzc2ZDk3OTAyNDRjOTQ5ZWNlZTc1MzdjNDBjMzBi`
+Snapshot ID: `MCxhZjdlNWJmMzIyODYxYTFiNGNkYzllNmY1MTY0ZGY5ODQ5NzU4YjVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Vibey indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,073 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,203 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 17 | [Asc\. Scorpio](https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ) | 2:46 |
 | 18 | [Sugar](https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:56 |
 | 19 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
-| 20 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
-| 21 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 |
+| 20 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 |
+| 21 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
 | 22 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
 | 23 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
 | 24 | [Summer's Over](https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:53 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 27 | [Talk Is Cheap](https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 3:38 |
 | 28 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 |
 | 29 | [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 |
-| 30 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
-| 31 | [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 |
+| 30 | [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 |
+| 31 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
 | 32 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
-| 33 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 |
-| 34 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
+| 33 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
+| 34 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 |
 | 35 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 |
-| 36 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
-| 37 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 |
+| 36 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 |
+| 37 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
 | 38 | [Pictures of You](https://open.spotify.com/track/2cAZ6Pxbq34h5rgUr7hZKC) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE) | 3:09 |
 | 39 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 |
 | 40 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 82 | [All My Love](https://open.spotify.com/track/7zDl54zA8lMPe0g9Ezvnap) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi) | 2:45 |
 | 83 | [In the Dark](https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:19 |
 | 84 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
-| 85 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 |
-| 86 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
-| 87 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 |
-| 88 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
+| 85 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
+| 86 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 |
+| 87 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
+| 88 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 |
 | 89 | [Miami Baby](https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:53 |
 | 90 | [SummerBrain](https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo) | [Moon Panda](https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm) | [Sing Spaceship, Sing!](https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv) | 3:28 |
 | 91 | [Fool](https://open.spotify.com/track/4RA2kuqYCdqk1CeZjc3jlL) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Fool](https://open.spotify.com/album/47GRGVpoDs4prZR1dGTOa4) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 99 | [My Shadow Life](https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [Oddbody](https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 1:37 |
 | 100 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 
-Snapshot ID: `MCw3MTUzNDFiMWZhZGI0ZWIyN2EwNjUxYWQ4MDBjMDY4Yjg4ODliODNj`
+Snapshot ID: `MCxmNTExZTJjYmYyMjg4YjE4Y2VhMmIyNzc0Yzc3NzI1ZTEwNjU2MDJl`

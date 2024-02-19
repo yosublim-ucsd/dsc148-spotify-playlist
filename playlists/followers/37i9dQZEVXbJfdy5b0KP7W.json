@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 459604,
+  "2024-02-19": 459640,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Peru.",
   "name": "Top 50 - Peru",
@@ -2846,6 +2846,32 @@
     },
     {
       "album": {
+        "name": "Culiacan",
+        "url": "https://open.spotify.com/album/6voeSni244SC714pYLdZQC"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171860,
+      "name": "Culiacan",
+      "url": "https://open.spotify.com/track/6QQXDKcSLWCEJa5iENMZ82"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
@@ -4219,7 +4245,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 167418,
       "name": "Esc\u00e1pate Conmigo - Remix",
       "url": "https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV"

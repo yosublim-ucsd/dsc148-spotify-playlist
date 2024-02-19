@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,360 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,381 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 58 | [Season 2 Episode 3](https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:03 |
 | 59 | [2 / 14](https://open.spotify.com/track/2QwpEi3eNToZCCMMRcOj0u) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [My Thoughts On You](https://open.spotify.com/album/6itEtMM5U5hc5klRxnDvBx) | 2:43 |
 | 60 | [Burn the Witch](https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 3:40 |
-| 61 | [Send Them Off!](https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:20 |
-| 62 | [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:17 |
+| 61 | [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:17 |
+| 62 | [Send Them Off!](https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:20 |
 | 63 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
 | 64 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 |
-| 65 | [Old Friends](https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal \(Expanded Edition\)](https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4) | 3:27 |
-| 66 | [A Little While](https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 5:18 |
+| 65 | [A Little While](https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 5:18 |
+| 66 | [Old Friends](https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal \(Expanded Edition\)](https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4) | 3:27 |
 | 67 | [For Elise](https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:23 |
 | 68 | [Someone To Stay](https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay](https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l) | 4:14 |
 | 69 | [GOT IT GOOD](https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:48 |
@@ -91,17 +91,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 81 | [A 1000 Times](https://open.spotify.com/track/7dfQNWgVxikbrdvEmsfPMA) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [I Had a Dream That You Were Mine](https://open.spotify.com/album/6y1jBrHYQywxtQqkGrKsSG) | 4:08 |
 | 82 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
 | 83 | [Our Own House](https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:52 |
-| 84 | [Uno](https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Uno](https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR) | 2:51 |
-| 85 | [Gemini Feed](https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [The Altar](https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR) | 3:06 |
+| 84 | [Gemini Feed](https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [The Altar](https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR) | 3:06 |
+| 85 | [Uno](https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Uno](https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR) | 2:51 |
 | 86 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 |
 | 87 | [GLOWED UP](https://open.spotify.com/track/4v20N4W83XDJORt7WCedII) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:58 |
 | 88 | [22 \(OVER S∞∞N\)](https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 2:48 |
 | 89 | [Don't Touch My Hair \(feat\. Sampha\)](https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:17 |
 | 90 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
 | 91 | [Are We Ready? \(Wreck\)](https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Gameshow \(Deluxe Edition\)](https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb) | 3:50 |
-| 92 | [Flame](https://open.spotify.com/track/3PVsWhlUR6mNxU9fk1BWca) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/1SzxwOqnQiILK4xlSzXWx4) | 3:47 |
-| 93 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
-| 94 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 |
+| 92 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 |
+| 93 | [Flame](https://open.spotify.com/track/3PVsWhlUR6mNxU9fk1BWca) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/1SzxwOqnQiILK4xlSzXWx4) | 3:47 |
+| 94 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 95 | [29 \#Strafford APTS](https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 4:05 |
 | 96 | [Grey Luh](https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 4:21 |
 | 97 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 99 | [Painting \(Masterpiece\)](https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Lewis Del Mar](https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ) | 4:03 |
 | 100 | [Surprise Yourself](https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:20 |
 
-Snapshot ID: `MCxiOWEwOTgxNTk5ZWQxMmU5MDc1MmZkMjk2MzViMjNhYzQwNjg3MmJk`
+Snapshot ID: `MCwwZjRlY2ZiNWNmYWY4YmQxYzIyOTMxZjY5ZmZmY2U2MzcxYzYxOGIx`

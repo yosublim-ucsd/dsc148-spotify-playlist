@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,040 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,191 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 15 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 16 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 17 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
-| 18 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 |
-| 19 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
+| 18 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
+| 19 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 |
 | 20 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 |
 | 21 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
 | 22 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 45 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
 | 46 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 47 | [Don't Stand So Close To Me](https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:02 |
-| 48 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
-| 49 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
+| 48 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
+| 49 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 50 | [I Guess That's Why They Call It The Blues](https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:45 |
 | 51 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
 | 52 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 79 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |
 | 80 | [Cherish \- Single Version](https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:58 |
 
-Snapshot ID: `MCw2ZGE3OWNhMTNkOGMyYjcxZGJhMzc1NTkzNGJkNTIwOGU3YTRlNDBm`
+Snapshot ID: `MCxkNjYwMzA0ZDVkN2IyYzg4ZGY1ZWIyOTRiMTYzZmNmYjYwZmI3N2Ey`

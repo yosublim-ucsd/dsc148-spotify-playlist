@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,112 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,117 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 12 | [Bossa For Sol](https://open.spotify.com/track/5i8wZCyQ2DQT7RiUUVeHfF) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Traveler](https://open.spotify.com/album/5sI1NOyb5qvkUHaZTxYDYo) | 2:46 |
 | 13 | [Chove Chuva](https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 3:04 |
 | 14 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 |
-| 15 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
+| 15 | [Só Danço Samba](https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:36 |
 | 16 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 |
-| 17 | [Só Danço Samba](https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:36 |
+| 17 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
 | 18 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
 | 19 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 20 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 52 | [Entre Dos Aguas](https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R) | 6:02 |
 | 53 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
 | 54 | [Mantra](https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/37svAARdwTp6vApCWBwoec) | 4:54 |
-| 55 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
-| 56 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
+| 55 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
+| 56 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
 | 57 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 |
 | 58 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
 | 59 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
 | 60 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Elegance: The Birth Of The Modern Jazz Quartet](https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC) | 3:29 |
 | 61 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
-| 62 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
-| 63 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw) | 2:38 |
+| 62 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw) | 2:38 |
+| 63 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
 | 64 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 65 | [La Colegiala](https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 3:41 |
 | 66 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 79 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
 | 80 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
 
-Snapshot ID: `MCxkYWJkMmM0MGY2NzgwZTkzMjEyOWI2YjdiNjM4NDgzN2JkYjUzZjFm`
+Snapshot ID: `MCxiYjMwMTU5OTRmYmIzNzhiN2FiNmYzNmJmMTc3MWE4ODJjNTBiYjIx`

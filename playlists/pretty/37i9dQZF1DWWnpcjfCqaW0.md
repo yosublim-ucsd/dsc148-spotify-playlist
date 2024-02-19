@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,953 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,991 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 49 | [Under Your Spell Again \- Mono Single Version](https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:44 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
 | 51 | [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:43 |
-| 52 | [I Ain't Never \- Single Version](https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 1:53 |
-| 53 | [Why Don't You Love Me](https://open.spotify.com/track/5tP3bJn54lflOjlQ8CaTbV) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Ramblin’ Man \(Undubbed Edition\)](https://open.spotify.com/album/3ZgPZQuoMZM4RM5y5amzUh) | 2:26 |
+| 52 | [Why Don't You Love Me](https://open.spotify.com/track/5tP3bJn54lflOjlQ8CaTbV) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Ramblin’ Man \(Undubbed Edition\)](https://open.spotify.com/album/3ZgPZQuoMZM4RM5y5amzUh) | 2:26 |
+| 53 | [I Ain't Never \- Single Version](https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 1:53 |
 | 54 | [Crazy Arms](https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:32 |
 | 55 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 |
 | 56 | [Beautiful Lies](https://open.spotify.com/track/0TOnG6XkBU2Z9YBCCiRtMW) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty) | [The Best Of Jean Shepard](https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB) | 2:50 |
-| 57 | [I'm Movin' On](https://open.spotify.com/track/446eGf6Afa6PuZYTsF19U1) | [Hank Snow, The Singing Ranger, And His Rainbow Ranch Boys](https://open.spotify.com/artist/4F2Wz6nsyGRJWISzANL6vQ) | [Super Hits](https://open.spotify.com/album/6CzIVuYfqWNYNw46XpITBl) | 2:47 |
-| 58 | [Why Baby Why](https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [22 Early Starday Recordings](https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G) | 2:16 |
+| 57 | [Why Baby Why](https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [22 Early Starday Recordings](https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G) | 2:16 |
+| 58 | [I'm Movin' On](https://open.spotify.com/track/446eGf6Afa6PuZYTsF19U1) | [Hank Snow, The Singing Ranger, And His Rainbow Ranch Boys](https://open.spotify.com/artist/4F2Wz6nsyGRJWISzANL6vQ) | [Super Hits](https://open.spotify.com/album/6CzIVuYfqWNYNw46XpITBl) | 2:47 |
 | 59 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
 | 60 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
 | 61 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 69 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 |
 | 70 | [Hey Joe](https://open.spotify.com/track/7HfldGtGQR9FalFBKR14ya) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [The Decca Singles 1952\-1953](https://open.spotify.com/album/3i4OTQnJVagBNrNYnuaiuc) | 2:39 |
 | 71 | [I Can't Stop Loving You](https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:34 |
-| 72 | [Gotta Travel On](https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu) | [Billy Grammer](https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA) | [Gotta Travel On: The Very Best Of Billy Grammar](https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY) | 2:30 |
-| 73 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
+| 72 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
+| 73 | [Gotta Travel On](https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu) | [Billy Grammer](https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA) | [Gotta Travel On: The Very Best Of Billy Grammar](https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY) | 2:30 |
 | 74 | [Honky Tonk Man](https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [The Essential Johnny Horton](https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN) | 2:10 |
 | 75 | [If You Ain't Lovin' \(You Ain't Livin'\)](https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:22 |
 
-Snapshot ID: `MCxiODZkZDgxNWJhYzk0OTA2MDZiZjFkNmY4NzU4YzZiZjhjNDc0N2Uy`
+Snapshot ID: `MCwzZTk1MDVjNDJjODFiZDc5YzM0ZjgyZGQ0M2VmZjRmMWMyZDlhYzMw`

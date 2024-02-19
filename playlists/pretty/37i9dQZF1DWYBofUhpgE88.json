@@ -1,12 +1,12 @@
 {
   "description": "Rap per non smettere mai di crederci \ud83d\udcaa\ud83c\udfcb\ufe0f\ud83c\udfc3\u200d\u2640",
-  "num_followers": 340040,
+  "num_followers": 340083,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGFhODNhYzhlMGQ0YjE4N2M4M2M5Yzg3NTU0MjhmZGNmYjE2MDk3",
+  "snapshot_id": "MCw5M2Q5NTljMGJmZmMzYTVjOTE4MWI2OTYyOTlhYzZjOTVkMTg0OTlj",
   "tracks": [
     {
       "added_at": "2024-02-08 14:59:10",
@@ -31,6 +31,22 @@
     {
       "added_at": "2024-02-08 14:59:10",
       "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "added_at": "2024-02-08 14:59:10",
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 297786,
       "name": "Till I Collapse",
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "added_at": "2024-02-08 14:59:10",
-      "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2024-02-08 14:59:10",
@@ -847,22 +847,26 @@
     {
       "added_at": "2024-02-08 14:59:10",
       "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
         }
       ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+      "duration_ms": 244200,
+      "name": "What's The Difference",
+      "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv"
     },
     {
       "added_at": "2024-02-08 14:59:10",
@@ -887,26 +891,22 @@
     {
       "added_at": "2024-02-08 14:59:10",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         },
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 244200,
-      "name": "What's The Difference",
-      "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv"
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
       "added_at": "2024-02-08 14:59:10",
@@ -984,13 +984,17 @@
           "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 137098,
-      "name": "Hoe (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
+      "duration_ms": 162411,
+      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
       "added_at": "2024-02-08 14:59:10",
@@ -1136,17 +1140,13 @@
           "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         },
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 162411,
-      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
-      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
+      "duration_ms": 137098,
+      "name": "Hoe (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
       "added_at": "2024-02-08 14:59:10",

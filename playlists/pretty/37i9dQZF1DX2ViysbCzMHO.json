@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 146662,
+  "num_followers": 146728,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjQzZDNkZDhkNTQ3Mzg5MGE2OGNmMWI1MThjM2JhNGEzNzIxOGZj",
+  "snapshot_id": "MCw3YzRkNGE5YmI4NjU4NWQ2MTZkZDQ4MGU5YmUzMjg3MzM4N2VlOTQ5",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Two Story House",
-        "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
+        "name": "The Cowboy In Me (Yellowstone Edition)",
+        "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Two Story House",
-      "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
+      "duration_ms": 217676,
+      "name": "The Cowboy In Me - Yellowstone Edition",
+      "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Cowboy In Me (Yellowstone Edition)",
-        "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
+        "name": "Two Story House",
+        "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 217676,
-      "name": "The Cowboy In Me - Yellowstone Edition",
-      "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
+      "duration_ms": 199986,
+      "name": "Two Story House",
+      "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 175639,
       "name": "Half Of Me - Acoustic",
       "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me (Piano)",
-        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Something's Gonna Kill Me - Piano",
-      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 170755,
       "name": "Buy Dirt - Alternate Version",
       "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Something's Gonna Kill Me (Piano)",
+        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Something's Gonna Kill Me - Piano",
+      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "I'm Not Prettier",
-        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
         }
       ],
-      "duration_ms": 178191,
-      "name": "I'm Not Pretty - Acoustic",
-      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+        "name": "I'm Not Prettier",
+        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
       "artists": [
         {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+      "duration_ms": 178191,
+      "name": "I'm Not Pretty - Acoustic",
+      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 204004,
       "name": "Better Off Gone (Acoustic Sessions)",
       "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
-      },
-      "artists": [
-        {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
-        }
-      ],
-      "duration_ms": 175783,
-      "name": "Drinking Alone - Sunset Session",
-      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Love Makes You Blind (Acoustic Version)",
         "url": "https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Love You Again (Hey World Sessions)",
-        "url": "https://open.spotify.com/album/5nWaaNIGhziGIB8T73Rkgx"
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
       },
       "artists": [
         {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
         }
       ],
-      "duration_ms": 177386,
-      "name": "Love You Again - Hey World Sessions",
-      "url": "https://open.spotify.com/track/6s9H533OuVIPhQ4dMeZ0Zd"
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 187361,
       "name": "You, Me, And Whiskey - Acoustic",
       "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Love You Again (Hey World Sessions)",
+        "url": "https://open.spotify.com/album/5nWaaNIGhziGIB8T73Rkgx"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Love You Again - Hey World Sessions",
+      "url": "https://open.spotify.com/track/6s9H533OuVIPhQ4dMeZ0Zd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Humble Quest: In Rare Form",
-        "url": "https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 188651,
-      "name": "I Can't Love You Anymore - In Rare Form",
-      "url": "https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Humble Quest: In Rare Form",
+        "url": "https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 188651,
+      "name": "I Can't Love You Anymore - In Rare Form",
+      "url": "https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Made (Wedding Version)",
         "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 215227,
       "name": "Made (Wedding Version)",
       "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Standing Room Only (Acoustic)",
+        "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Standing Room Only - Acoustic",
+      "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 254989,
       "name": "You Didn\u2019t - Acoustic",
       "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Standing Room Only (Acoustic)",
-        "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Standing Room Only - Acoustic",
-      "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
     },
     {
       "added_at": "2024-02-16 05:00:00",

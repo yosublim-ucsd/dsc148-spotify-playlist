@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,189 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,252 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 45 | [季節の音](https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [季節の音](https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG) | 4:02 |
 | 46 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 47 | [QUIET SPACE FOR QUIET LIFE, Pt.3](https://open.spotify.com/track/7LUxmRn3m9Y7Bpiak546Qt) | [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi), [畳野彩加](https://open.spotify.com/artist/04y7KDVl7fo1YNHCzeRfW4) | [QUIET SPACE FOR QUIET LIFE, Pt.3&4](https://open.spotify.com/album/1pwQGSXQWBJUNHMhGaNP9j) | 14:59 |
-| 48 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 |
-| 49 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
+| 48 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
+| 49 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 |
 | 50 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
 | 51 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
 | 52 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 55 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 |
 | 56 | [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 |
 | 57 | [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 |
-| 58 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
-| 59 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 |
+| 58 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 |
+| 59 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
 | 60 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
 
-Snapshot ID: `MCxjYmRmMmMwMTFkMjM4OTM5NmFhNjcwMWZmZDdiODZlODc4ZmMxZTU2`
+Snapshot ID: `MCwzNjNhZmZmYzc3ZmJlZjk1YmY2YjBmYjRjYzdlY2Y5NDQ1OTMxNWE4`

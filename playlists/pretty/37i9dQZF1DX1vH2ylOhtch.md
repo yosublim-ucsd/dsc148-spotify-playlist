@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 
 > uh\-oh?
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,966 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,981 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 23 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 |
 | 24 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 |
 | 25 | [Segundos Platos](https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:04 |
-| 26 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
-| 27 | [El Mismo Aire \- con Pablo Alborán](https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [El Mismo Aire \(con Pablo Alborán\)](https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6) | 3:08 |
+| 26 | [El Mismo Aire \- con Pablo Alborán](https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [El Mismo Aire \(con Pablo Alborán\)](https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6) | 3:08 |
+| 27 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
 | 28 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 29 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
 | 30 | [Good News](https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 59 | [A Veces](https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 3:33 |
 | 60 | [Solo Me Gustas Tú](https://open.spotify.com/track/5SRMV6nJtnSGXa3wgqoNwS) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Casky](https://open.spotify.com/artist/6C9VbzkpOtldLCPCImRuQa) | [Solo Me Gustas Tú](https://open.spotify.com/album/2Vc8V7UgW7r2LUdd2J8rHJ) | 2:24 |
 
-Snapshot ID: `MCw3ZjRjZWViNThkOWY0Y2VjYmMyYTM2NDcxOWM4MTc3MGJkZDI3NGRl`
+Snapshot ID: `MCw5MjM4N2EzZDhkNDM1NzI4YTllZjA5MmUyZGYyYzJjMDhiZGNlZTli`

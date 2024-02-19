@@ -1,12 +1,12 @@
 {
   "description": "Roses are red, violet are blue, its been fun but i'm leaving you. \n",
-  "num_followers": 94589,
+  "num_followers": 94631,
   "original_name": "Anti Valentines Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmNlMWYzMjFhYjcwOGU4NDJhZTExZTY0NGM1YjY3NzI4NGM5NmE0",
+  "snapshot_id": "MCxhOThiYjI3NDU4YTUxNDYxZWQ0ZGNhMGQ4NWUxZGVlYjU2ZWE4ZDQz",
   "tracks": [
     {
       "added_at": "2024-02-02 17:57:35",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-02 17:57:35",
       "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
-      "added_at": "2024-02-02 17:57:35",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2024-02-02 17:57:35",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2024-02-02 17:57:35",

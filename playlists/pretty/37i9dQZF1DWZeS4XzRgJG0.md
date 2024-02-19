@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > sorry ik kan niet..\. moet studeren
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,360 likes - 181 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,365 likes - 181 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 22 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
 | 23 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 |
 | 24 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
-| 25 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 |
-| 26 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
+| 25 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
+| 26 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 |
 | 27 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 |
 | 28 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 29 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 79 | [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 |
 | 80 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 | 81 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 |
-| 82 | [River Flows In You](https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [First Love \(The Original & the Very First Recording\)](https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh) | 3:08 |
-| 83 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
+| 82 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
+| 83 | [River Flows In You](https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [First Love \(The Original & the Very First Recording\)](https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh) | 3:08 |
 | 84 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
 | 85 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 86 | [One Day](https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr) | 3:22 |
-| 87 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 |
-| 88 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 |
+| 87 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 |
+| 88 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 |
 | 89 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 |
 | 90 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 91 | [Sorry](https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:40 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 136 | [Night Trouble](https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Night Trouble](https://open.spotify.com/album/7u7l9XNKOdM1UXLOL4BJq8) | 6:31 |
 | 137 | [In My Head](https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv) | 3:34 |
 | 138 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 |
-| 139 | [The Man Who Can't Be Moved \- Acoustic](https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
-| 140 | [Nicotine](https://open.spotify.com/track/5YqwpwmzMGwUIU9h1kcOK8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/0cai6DfUIlJ3aDAAzommLJ) | 3:58 |
+| 139 | [Nicotine](https://open.spotify.com/track/5YqwpwmzMGwUIU9h1kcOK8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/0cai6DfUIlJ3aDAAzommLJ) | 3:58 |
+| 140 | [The Man Who Can't Be Moved \- Acoustic](https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
 | 141 | [House of Cards](https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41) | 3:34 |
 | 142 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 |
 | 143 | [Sorry](https://open.spotify.com/track/07uuo1yEND3oinbFZnYOvx) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/2mDFaJRa8HHbUbWusiq3DF) | 3:47 |
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 146 | [Boys Like You \- Acoustic](https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Boys Like You \(Acoustic\)](https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to) | 3:58 |
 | 147 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
 | 148 | [I Don't Want You Back](https://open.spotify.com/track/38nKfxyRrjYfx0ODX1W5yB) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hopeful](https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM) | 3:44 |
-| 149 | [Don't Let Me Down](https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Covers](https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq) | 2:44 |
-| 150 | [You Let Me Walk Alone](https://open.spotify.com/track/07qlsG6DYRLBbovwca9Vbr) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Dreamer](https://open.spotify.com/album/2t0sI2bIbjfGv6UmjEG3LP) | 2:57 |
+| 149 | [You Let Me Walk Alone](https://open.spotify.com/track/07qlsG6DYRLBbovwca9Vbr) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Dreamer](https://open.spotify.com/album/2t0sI2bIbjfGv6UmjEG3LP) | 2:57 |
+| 150 | [Don't Let Me Down](https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Covers](https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq) | 2:44 |
 | 151 | [Unconditional \- Acoustic](https://open.spotify.com/track/0aj6nonctejtaipI1jctFL) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Unconditional \(Acoustic\)](https://open.spotify.com/album/3U3O0OFKyL9gY9bFPuDuz7) | 3:46 |
 | 152 | [Nothing Really Matters](https://open.spotify.com/track/4fGbdX3qUTOS8Kpsc8hQT6) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/4thfd5IORYpYB83wxnQAQ0) | 3:42 |
 | 153 | [Money In My Head](https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:08 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 180 | [Teach Me How to Dance with You](https://open.spotify.com/track/2RvVimZp4g2LGMF4q9OlQO) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:36 |
 | 181 | [Brick by Brick](https://open.spotify.com/track/2VtYaV47iikX4qDXI2hHdr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [All in Good Time](https://open.spotify.com/album/629twvJQdWmsEJltulAT50) | 3:45 |
 
-Snapshot ID: `MCxjODMxZTdmMzg5YTE4YjlhOWRlNTM0MWQ1MzM5Y2JhNzA1ODRjNDA5`
+Snapshot ID: `MCxlMjA2NWY0Zjk4ZjM4OGVjNzhmYTk1NGM1NzVmMDMyMWRmNDMyMDFm`

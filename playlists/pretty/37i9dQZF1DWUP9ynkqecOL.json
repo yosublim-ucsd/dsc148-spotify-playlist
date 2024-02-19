@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21488,
+  "num_followers": 21500,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODkxYzk1YWQzZTg4Njg1NmMyNmM4YjdhNWZiMDkyNGE5ZWY2OWE5",
+  "snapshot_id": "MCw3YWNmYzU4MDA0YmY5YzhiODg1OGY3OGM4OGVmYzYxOGZlYTk2Y2Qx",
   "tracks": [
     {
       "added_at": "2024-01-25 19:57:37",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
+        "name": "Viajante",
+        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "Viajante",
+      "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
         "name": "Susurro (Matanza Remix)",
         "url": "https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 302368,
       "name": "Susurro - Matanza Remix",
       "url": "https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
-        "name": "Viajante",
-        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Viajante",
-      "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1031,18 +1031,30 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Madre de la Sierra",
-        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+        "name": "Sencilla es mi canoa como mis afectos",
+        "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
       "artists": [
         {
-          "name": "Porangu\u00ed",
-          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+        },
+        {
+          "name": "Xanducero",
+          "url": "https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW"
+        },
+        {
+          "name": "Silvio Astier",
+          "url": "https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW"
+        },
+        {
+          "name": "Remiseria Temperley",
+          "url": "https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo"
         }
       ],
-      "duration_ms": 275256,
-      "name": "Madre de la Sierra",
-      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
+      "duration_ms": 383979,
+      "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
+      "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1087,6 +1099,22 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
+        "name": "Madre de la Sierra",
+        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+      },
+      "artists": [
+        {
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+        }
+      ],
+      "duration_ms": 275256,
+      "name": "Madre de la Sierra",
+      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
         "name": "SUELTA",
         "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
       },
@@ -1099,34 +1127,6 @@
       "duration_ms": 332024,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
-        "name": "Sencilla es mi canoa como mis afectos",
-        "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
-      },
-      "artists": [
-        {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
-        },
-        {
-          "name": "Xanducero",
-          "url": "https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW"
-        },
-        {
-          "name": "Silvio Astier",
-          "url": "https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW"
-        },
-        {
-          "name": "Remiseria Temperley",
-          "url": "https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo"
-        }
-      ],
-      "duration_ms": 383979,
-      "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
-      "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Truenatruena",
-        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
-      },
-      "artists": [
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        }
-      ],
-      "duration_ms": 272503,
-      "name": "Truenatruena",
-      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
         "name": "Litoraleza",
         "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 192495,
       "name": "Gurisito Cosmico",
       "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "Truenatruena",
+        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
+      },
+      "artists": [
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        }
+      ],
+      "duration_ms": 272503,
+      "name": "Truenatruena",
+      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1347,62 +1347,6 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
-      },
-      "artists": [
-        {
-          "name": "Ensamble Folkl\u00f3rico Digital",
-          "url": "https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI"
-        },
-        {
-          "name": "Villa Diamante",
-          "url": "https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD"
-        },
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Bienvenidos a la Computadora",
-          "url": "https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Cehache Respira",
-          "url": "https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l"
-        }
-      ],
-      "duration_ms": 267353,
-      "name": "La Fuerza",
-      "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
-        "name": "Asimetrico",
-        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        }
-      ],
-      "duration_ms": 260867,
-      "name": "Los Pajaros",
-      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
         "name": "Tierra Natal (Barzo Remix)",
         "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
       },
@@ -1423,6 +1367,26 @@
       "duration_ms": 199578,
       "name": "Tierra Natal - Barzo Remix",
       "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "Asimetrico",
+        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        }
+      ],
+      "duration_ms": 260867,
+      "name": "Los Pajaros",
+      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1459,6 +1423,42 @@
       "duration_ms": 241023,
       "name": "Peoncito de Estancia - Kaleema Remix",
       "url": "https://open.spotify.com/track/0zIiND609voPOWidaLjnYi"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
+      },
+      "artists": [
+        {
+          "name": "Ensamble Folkl\u00f3rico Digital",
+          "url": "https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI"
+        },
+        {
+          "name": "Villa Diamante",
+          "url": "https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD"
+        },
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Bienvenidos a la Computadora",
+          "url": "https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Cehache Respira",
+          "url": "https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l"
+        }
+      ],
+      "duration_ms": 267353,
+      "name": "La Fuerza",
+      "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
     },
     {
       "added_at": "2024-01-25 19:57:37",

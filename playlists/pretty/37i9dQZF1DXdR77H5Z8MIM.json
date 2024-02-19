@@ -1,12 +1,12 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: JEON SOMI",
-  "num_followers": 350033,
+  "num_followers": 350100,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjU2ODdkNjBlZDlkNDc2ODBmMmZhODAzOWU0ZGQzMDE5MDdkMWFl",
+  "snapshot_id": "MCxkNzFiYjdkZmUzYmM1MjM3MzVmZGY4Y2FiY2E0MzdjNjI2NzBhMTVj",
   "tracks": [
     {
       "added_at": "2024-01-17 03:29:18",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-01-17 03:29:18",
       "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
+    },
+    {
+      "added_at": "2024-01-17 03:29:18",
+      "album": {
         "name": "IN LIFE",
         "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-01-17 03:29:18",
       "album": {
-        "name": "ENTWURF",
-        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
         }
       ],
-      "duration_ms": 165746,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
+      "duration_ms": 159761,
+      "name": "Arson",
+      "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
     },
     {
       "added_at": "2024-01-17 03:29:18",
@@ -1155,22 +1171,6 @@
       "duration_ms": 202203,
       "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
       "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
-    },
-    {
-      "added_at": "2024-01-17 03:29:18",
-      "album": {
-        "name": "Red Diary Page.1",
-        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Some",
-      "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
     }
   ],
   "unique_name": "Nolja!",

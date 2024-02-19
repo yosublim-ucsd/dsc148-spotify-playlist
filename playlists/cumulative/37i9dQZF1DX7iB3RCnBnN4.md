@@ -4,7 +4,7 @@
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Ariana Grande
 
-630 songs - 1 day 14 hr 17 min
+631 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [idontwannabeyouanymore](https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:23 | 2023-11-06 |  |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 | 2023-08-11 |  |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-12-15 |  |
-| [In My Feelings](https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/42wvKYHFezpmDuAP43558f) | 3:37 | 2021-07-21 | 2024-02-17 |
+| [In My Feelings](https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/42wvKYHFezpmDuAP43558f) | 3:37 | 2021-07-21 |  |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2021-07-21 |  |
 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2021-07-21 |  |
 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2021-07-21 |  |
@@ -473,6 +473,7 @@
 | [Side To Side](https://open.spotify.com/track/4HeCFqiB1rBqGqvE10rF1a) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:46 | 2021-07-21 | 2022-11-13 |
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2022-04-07 |  |
 | [Silence](https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silence](https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh) | 3:00 | 2021-07-21 |  |
+| [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6) | 3:50 | 2024-02-19 |  |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2023-01-04 | 2024-01-25 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 | 2023-01-04 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2021-07-21 |  |

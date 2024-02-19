@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,225,391 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,225,622 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 33 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 |
 | 34 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 |
 | 35 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
-| 36 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 |
-| 37 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 |
+| 36 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 |
+| 37 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 |
 | 38 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 |
 | 39 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 40 | [Get Busy](https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 49 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
 | 50 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
 
-Snapshot ID: `MCwyZGQ5NjVhNTY5ODc5ZjRmNDQ0ZGNjODEyZTEyYzZhY2I3YzU5ZGFm`
+Snapshot ID: `MCw2MjU4OWVlNWE4MjNiMzM4Y2I5MjM1OGNkMWYyNmY5YzEwNTBlZjY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,231 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,296 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 39 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 |
 | 40 | [Candy](https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Brick By Brick](https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8) | 4:13 |
 | 41 | [Where the Wild Roses Grow](https://open.spotify.com/track/4LK8kGGY0FGSGIAk2GwI30) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 \- Remaster\)](https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva) | 3:57 |
-| 42 | [Perfect](https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Adore \(Super Deluxe\)](https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz) | 3:22 |
+| 42 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 |
 | 43 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
 | 44 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
 | 45 | [Dramamine](https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [This Is a Long Drive for Someone with Nothing to Think About](https://open.spotify.com/album/3PTktNuj2FItJr8afuiieo) | 5:42 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 58 | [March Of The Pigs](https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 2:58 |
 | 59 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 |
 | 60 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 |
-| 61 | [I Think I'm Paranoid](https://open.spotify.com/track/7fFJ4nfi1mnQ10J8YAu9Di) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 3:38 |
-| 62 | [Been Caught Stealing](https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf) | 3:33 |
+| 61 | [Been Caught Stealing](https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf) | 3:33 |
+| 62 | [I Think I'm Paranoid](https://open.spotify.com/track/7fFJ4nfi1mnQ10J8YAu9Di) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 3:38 |
 | 63 | [Bone Machine \- Remastered](https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:03 |
 | 64 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
 | 65 | [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 69 | [Black Sunshine](https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 4:49 |
 | 70 | [A Letter to Elise](https://open.spotify.com/track/4DdXOLc1VMAY34ourCn1Xa) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 5:11 |
 | 71 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
-| 72 | [Bull In The Heather](https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Experimental Jet Set, Trash And No Star](https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO) | 3:04 |
-| 73 | [People Ain't No Good](https://open.spotify.com/track/7gXDZrCMJ0jV9yAf4hZ0Z3) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 5:42 |
+| 72 | [People Ain't No Good](https://open.spotify.com/track/7gXDZrCMJ0jV9yAf4hZ0Z3) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 5:42 |
+| 73 | [Bull In The Heather](https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Experimental Jet Set, Trash And No Star](https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO) | 3:04 |
 | 74 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 |
 | 75 | [Megalomaniac](https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 6:07 |
 
-Snapshot ID: `MCwyNzNmNzRhOGJlOGNiZTFlMjE5Mjg0Y2M2MTFjOTkyN2I4MDIwZThh`
+Snapshot ID: `MCwwN2RhZjI2MDgwZGVhODg4M2NiMWRmNzg4YTUwMGM5MjVjYzVlYWRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:6eXZu6O7nAUA5z6vLV8NKI">Little Simz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,556 likes - 84 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,732 likes - 84 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 49 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 50 | [1991](https://open.spotify.com/track/0UTmS76yJwuCpiKEn16uN5) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:30 |
 | 51 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 |
-| 52 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
+| 52 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
 | 53 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
 | 54 | [Fantasy](https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:15 |
 | 55 | [Hatin on Me](https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Real Rap B\*\*\*\*](https://open.spotify.com/album/24BlqiVfMDly6VLwxA6OA1) | 3:24 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 83 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
 | 84 | [Ring\-a\-Ling](https://open.spotify.com/track/4C2PbS2Z1c4XB7D9HRppbv) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:58 |
 
-Snapshot ID: `MCwwN2E4ZjUzNzkxZjYxYWYwNzIxY2JlZTBhZmExMDI0Y2QyMzc1NDE4`
+Snapshot ID: `MCxmODNjOTdhMWViNWJiYzc3MWE0YTQwMzA3YWJjNjNiNTdlN2M4NDI5`

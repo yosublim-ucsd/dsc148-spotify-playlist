@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Only the best Hip\-hop, only fire bars\. 21 Savage on Cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067,001 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067,228 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 32 | [Did Me Wrong](https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:57 |
 | 33 | [No Hook 2](https://open.spotify.com/track/2eLrDMQnosvAOTzoZ8bRZZ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Hook 2](https://open.spotify.com/album/4VnhVzYgluzloFMMY5cCf5) | 2:22 |
 | 34 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
-| 35 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
+| 35 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
 | 36 | [Pressure](https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Pressure](https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1) | 2:44 |
 | 37 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
 | 38 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 98 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 | 99 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 
-Snapshot ID: `MCxlZjJjMzZiMDM3Nzk0ODk3MGVmZmViMTllYzg0MTc0MmMwMDE5ZDA3`
+Snapshot ID: `MCw0MGIwMjkwZTgzYjE0MjIxOWQ4ZTdmNmM3MTc1OGNiNzMzOWQzZjc2`

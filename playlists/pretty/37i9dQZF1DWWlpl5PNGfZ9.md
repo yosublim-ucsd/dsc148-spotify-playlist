@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,759 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,917 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 22 | [En El Muelle de San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
 | 23 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
 | 24 | [Bye Bye](https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:49 |
-| 25 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 |
-| 26 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
+| 25 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
+| 26 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 |
 | 27 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 28 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 29 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 36 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
 | 37 | [La Pachanga](https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:41 |
 | 38 | [Historia de Taxi](https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Historias](https://open.spotify.com/album/110rZdMmIjA335CehJJkuk) | 6:45 |
-| 39 | [Por Amarte](https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
-| 40 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 |
+| 39 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 |
+| 40 | [Por Amarte](https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
 | 41 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 42 | [Ojos Así](https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:55 |
 | 43 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 44 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
-| 45 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
+| 44 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
+| 45 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
 | 46 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
 | 47 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 48 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
 | 49 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
 | 50 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
 
-Snapshot ID: `MCxkZTVkZWE1MTViOGQxOTAxNTQyNjE5YWY3ZDMwZDIxNTFjNmYxZWIz`
+Snapshot ID: `MCxhZWNjYmM4NDU0YjY3ZjVjNzM3MDI5MGMxMjc5ZDlhYjhkZjA1NmEy`

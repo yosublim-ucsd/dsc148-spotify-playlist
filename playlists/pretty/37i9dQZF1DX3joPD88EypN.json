@@ -1,13 +1,29 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 37738,
+  "num_followers": 37776,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjQ0N2JiMzM5ZjJhM2MxMWM2MmIzMjRjNzQ1MjJiNGE0OTYwYzI4",
+  "snapshot_id": "MCxlYjdjNjk0ZWM1MDljNDBkN2NmYzY4NGMyOTk0ZTI0N2IzODA5OGY5",
   "tracks": [
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+    },
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
@@ -35,22 +51,6 @@
       "duration_ms": 349386,
       "name": "Tsirani Tsar",
       "url": "https://open.spotify.com/track/1Zu31CU9CSl9ZpEnmky8xT"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "The Ground",
+        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 367120,
       "name": "Remembrance VI",
       "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "The Ground",
-        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Changing Places",
-        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 496693,
-      "name": "Song Of Yearning",
-      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "When We Leave",
         "url": "https://open.spotify.com/album/7MZXhA40qEoGogH9YtURmG"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Changing Places",
+        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 496693,
+      "name": "Song Of Yearning",
+      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Vejviser",
         "url": "https://open.spotify.com/album/46IWsNiP4DYe77DZah0VOZ"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Eclipse Cycles",
+        "url": "https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "Eclipse Cycles",
+      "url": "https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Last Spring",
         "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 205084,
       "name": "Margit Hjukse",
       "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "The Mariner's Cross",
-        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "The Mariner's Cross",
-      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "The Mariner's Cross",
+        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "The Mariner's Cross",
+      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "\u00d8yne",
         "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
       },
@@ -999,6 +1015,22 @@
       "duration_ms": 210000,
       "name": "\u00d8yne",
       "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1027,22 +1059,6 @@
       "duration_ms": 469706,
       "name": "So I Write",
       "url": "https://open.spotify.com/track/4HsqVdZAwDB7SasYlWOn0H"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Eclipse Cycles",
-        "url": "https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "Eclipse Cycles",
-      "url": "https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "A Fine Line",
         "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
       },
@@ -1211,6 +1211,34 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Reflections and Odysseys",
+        "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
+      },
+      "artists": [
+        {
+          "name": "Rymden",
+          "url": "https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW"
+        },
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        },
+        {
+          "name": "Magnus \u00d6str\u00f6m",
+          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
+        },
+        {
+          "name": "Dan Berglund",
+          "url": "https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4"
+        }
+      ],
+      "duration_ms": 415186,
+      "name": "The Lugubrious Youth Of Lucky Luke",
+      "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "How Could It Be?",
         "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
       },
@@ -1243,30 +1271,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Reflections and Odysseys",
-        "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
       },
       "artists": [
         {
-          "name": "Rymden",
-          "url": "https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW"
-        },
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        },
-        {
-          "name": "Magnus \u00d6str\u00f6m",
-          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
-        },
-        {
-          "name": "Dan Berglund",
-          "url": "https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4"
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
         }
       ],
-      "duration_ms": 415186,
-      "name": "The Lugubrious Youth Of Lucky Luke",
-      "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 166920,
       "name": "Richter Sonntag",
       "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        }
-      ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1383,38 +1383,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Salmesykkel",
-        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
-      },
-      "artists": [
-        {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 169639,
-      "name": "Bibelbeltet",
-      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Children's Day",
-        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
-      },
-      "artists": [
-        {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
-        }
-      ],
-      "duration_ms": 415645,
-      "name": "Children's Day - Small Group Version",
-      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms"
       },
@@ -1435,6 +1403,38 @@
       "duration_ms": 301253,
       "name": "Mirages",
       "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Children's Day",
+        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
+      },
+      "artists": [
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        }
+      ],
+      "duration_ms": 415645,
+      "name": "Children's Day - Small Group Version",
+      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Salmesykkel",
+        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
+      },
+      "artists": [
+        {
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+        }
+      ],
+      "duration_ms": 169639,
+      "name": "Bibelbeltet",
+      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Terrible Seeds",
-        "url": "https://open.spotify.com/album/5bAAHXmNqVMqw1ljb9p88x"
-      },
-      "artists": [
-        {
-          "name": "Little North",
-          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
-        },
-        {
-          "name": "Oscar Andreas Haug",
-          "url": "https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Terrible Seeds",
-      "url": "https://open.spotify.com/track/2FZRmOGIlh2nOqACQgeAW2"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Adam",
         "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 498112,
       "name": "Adam",
       "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Terrible Seeds",
+        "url": "https://open.spotify.com/album/5bAAHXmNqVMqw1ljb9p88x"
+      },
+      "artists": [
+        {
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+        },
+        {
+          "name": "Oscar Andreas Haug",
+          "url": "https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Terrible Seeds",
+      "url": "https://open.spotify.com/track/2FZRmOGIlh2nOqACQgeAW2"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Sanctus",
         "url": "https://open.spotify.com/album/4bnFbID19CQHZDXyr61Qr9"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 308173,
       "name": "Sanctus",
       "url": "https://open.spotify.com/track/3spHdmdcQ1Qs3XnyGNZEYA"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Both Only",
-        "url": "https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA"
-      },
-      "artists": [
-        {
-          "name": "Joona Toivanen Trio",
-          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
-        }
-      ],
-      "duration_ms": 341248,
-      "name": "Faculties",
-      "url": "https://open.spotify.com/track/6jGwH0RLZKUTmMay2iB5Mz"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Going with the Flow",
         "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 531252,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Both Only",
+        "url": "https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA"
+      },
+      "artists": [
+        {
+          "name": "Joona Toivanen Trio",
+          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+        }
+      ],
+      "duration_ms": 341248,
+      "name": "Faculties",
+      "url": "https://open.spotify.com/track/6jGwH0RLZKUTmMay2iB5Mz"
     },
     {
       "added_at": "2024-02-16 00:01:00",

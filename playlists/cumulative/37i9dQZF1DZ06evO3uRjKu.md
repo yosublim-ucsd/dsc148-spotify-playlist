@@ -4,7 +4,7 @@
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 9 min
+60 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bye Bye](https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:49 | 2022-10-26 |  |
 | [Cambio Mi Dolor](https://open.spotify.com/track/1bfAH3Bt7u1YlRNCUirYwD) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 3:55 | 2022-10-26 | 2023-06-18 |
 | [Carcaman](https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:12 | 2022-10-26 |  |
+| [Carmín](https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3) | [Yoru](https://open.spotify.com/artist/5Hbzj3FeAKHQMRZN3HfUwZ), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Carmín](https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh) | 2:58 | 2024-02-18 |  |
 | [Centurion](https://open.spotify.com/track/4CGt19vmFmyEKmWTnTXDcs) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:18 | 2022-10-26 |  |
 | [cumbia](https://open.spotify.com/track/5Quu2pIGvboHPYxJaqFXyE) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vilma Palma E Vampiros, Grandes Exitos](https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2) | 3:05 | 2022-10-26 |  |
 | [Demasiado Tarde](https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:50 | 2022-10-26 |  |
@@ -44,7 +45,7 @@
 | [Psicótico](https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT) | [ELÍAS](https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Psicótico](https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc) | 3:21 | 2022-10-26 |  |
 | [Quiero Llegar \- En Vivo](https://open.spotify.com/track/3C9cFMfZZb2SUWiiZaX0Wd) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vivo Grandes Exitos en Buenos Aires \(En Vivo\)](https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi) | 4:35 | 2022-10-26 |  |
 | [Reina del Club](https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 4:38 | 2022-10-26 |  |
-| [Sabor París \- Bossa Mix](https://open.spotify.com/track/0Xb0JauqscZOOnziPSQmJr) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 5:39 | 2024-01-14 |  |
+| [Sabor París \- Bossa Mix](https://open.spotify.com/track/0Xb0JauqscZOOnziPSQmJr) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 5:39 | 2024-01-14 | 2024-02-19 |
 | [Salvando Vidas \- En Vivo](https://open.spotify.com/track/7LSJtOR7izWSEljRyLQb8n) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vivo Grandes Exitos en Buenos Aires \(En Vivo\)](https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi) | 3:37 | 2022-10-26 |  |
 | [Si Eso Te Pone Mejor](https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 4:17 | 2022-10-26 |  |
 | [Siempre Llega un Amor](https://open.spotify.com/track/2gZjr9UZ97ZpuncfDeABtN) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 4:51 | 2022-10-26 | 2023-01-12 |

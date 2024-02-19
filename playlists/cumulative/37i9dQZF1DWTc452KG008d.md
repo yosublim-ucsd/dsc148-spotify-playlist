@@ -4,7 +4,7 @@
 
 > Because a quiet Sunday every now and again doesn't hurt anybody.
 
-105 songs - 6 hr 27 min
+106 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2023-06-15 | 2023-11-03 |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2023-06-15 |  |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2023-06-15 |  |
+| [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 | 2023-11-30 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2023-06-15 |  |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2023-06-15 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2023-06-15 |  |
@@ -86,7 +87,7 @@
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-06-15 |  |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-09-15 | 2023-11-16 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-06-15 |  |
-| [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-11-30 |  |
+| [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-11-30 | 2024-02-19 |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2023-06-15 |  |
 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 | 2023-11-02 |  |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-06-15 | 2023-10-21 |

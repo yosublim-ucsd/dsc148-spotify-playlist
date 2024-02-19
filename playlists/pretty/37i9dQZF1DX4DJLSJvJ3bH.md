@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,546 likes - 125 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,523 likes - 125 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 51 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
 | 52 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 53 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
-| 54 | [The Twelve Days of Christmas](https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 4:00 |
-| 55 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
+| 54 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
+| 55 | [The Twelve Days of Christmas](https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 4:00 |
 | 56 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
 | 57 | [Christmas In New Orleans](https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:55 |
 | 58 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/19liWJnMu8RapUGKR6Y8fx) | [Kyle Mendes Jazz Trio](https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS) | 3:21 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 87 | [A Child Is Born](https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [A Child Is Born](https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW) | 3:19 |
 | 88 | [Christmas Blues](https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:47 |
 | 89 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
-| 90 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 4:27 |
-| 91 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
+| 90 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
+| 91 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 4:27 |
 | 92 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 |
 | 93 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Ultimate Jazz Christmas](https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL) | 2:17 |
 | 94 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/6YlfwPv17X9gr6K22dR3QY) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 3:20 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 113 | [Dear Mister Santa Claus](https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:55 |
 | 114 | [Merry Christmas Baby](https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:23 |
 | 115 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [I'll Be Home for Christmas](https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8) | 1:41 |
-| 116 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 |
-| 117 | [Blue Christmas](https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Winter Wonderland](https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39) | 3:50 |
+| 116 | [Blue Christmas](https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Winter Wonderland](https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39) | 3:50 |
+| 117 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 |
 | 118 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 |
 | 119 | [Christmas Bells](https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:43 |
 | 120 | [You Don't Have To Be A Santa Claus \(When Christmas Comes Around\)](https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:46 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 124 | [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 |
 | 125 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [We Wish You A Merry Christmas](https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg) | 2:41 |
 
-Snapshot ID: `MCw5MjgyMjA0MjM3NzMxYmRjZWMzZWM2NDc3MTUyMmZlMjYwZDA0ZGZj`
+Snapshot ID: `MCw5OTU2NWJkZDdlN2Q0NmEwMjZmNjg5Zjc5MzMxYjliODczY2UwZWIw`

@@ -1,12 +1,12 @@
 {
   "description": "\u2728 life in plastic is fantastic \u2728",
-  "num_followers": 405172,
+  "num_followers": 405938,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWFlMWZmNDg1Y2U1ZWRiYWYzMmFkNjE1OTMyYjVjNzgzOWI3YmIz",
+  "snapshot_id": "MCw4YzFkN2FkMjc2NzU0OTViYWMwZTQzYmY0N2IzNTVkMTRjODhkNjc2",
   "tracks": [
     {
       "added_at": "2023-12-26 22:31:12",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-12-26 22:31:12",
       "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
-      "added_at": "2023-12-26 22:31:12",
-      "album": {
         "name": "Electra Heart (Deluxe)",
         "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 154666,
       "name": "Bubblegum Bitch",
       "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
+    },
+    {
+      "added_at": "2023-12-26 22:31:12",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "added_at": "2023-12-26 22:31:12",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-12-26 22:31:12",
       "album": {
-        "name": "The Idol Episode 1 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
+        "name": "Slut Pop",
+        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
       },
       "artists": [
         {
-          "name": "Lily-Rose Depp",
-          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 199280,
-      "name": "World Class Sinner / I\u2019m A Freak",
-      "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
+      "duration_ms": 118153,
+      "name": "Treat Me Like A Slut",
+      "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
     },
     {
       "added_at": "2023-12-26 22:31:12",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-12-26 22:31:12",
       "album": {
-        "name": "Slut Pop",
-        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
+        "name": "The Idol Episode 1 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
         }
       ],
-      "duration_ms": 118153,
-      "name": "Treat Me Like A Slut",
-      "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+      "duration_ms": 199280,
+      "name": "World Class Sinner / I\u2019m A Freak",
+      "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
     },
     {
       "added_at": "2023-12-26 22:31:12",

@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 382665,
+  "num_followers": 382791,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2U2YjIxMTQ1ODUwZWZlODIxYTJlZjE1YWM1MjA0MjA3YmI3NDk4",
+  "snapshot_id": "MCwwMmE1MzFhNGRhM2ZhZmJlZDVjNTUwNTVhMDQxOTQ1MjAzYWJjMjk2",
   "tracks": [
     {
       "added_at": "2024-01-18 18:19:37",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
+    },
+    {
+      "added_at": "2024-01-18 18:19:37",
+      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
-        "name": "Utah",
-        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
-    },
-    {
-      "added_at": "2024-01-18 18:19:37",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 172480,
       "name": "(I\u2019m Gonna Get Over This) Some Day",
       "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
-    },
-    {
-      "added_at": "2024-01-18 18:19:37",
-      "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 247293,
-      "name": "Big Time",
-      "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -839,6 +823,22 @@
       "duration_ms": 299719,
       "name": "Sugaree",
       "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
+    },
+    {
+      "added_at": "2024-01-18 18:19:37",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -871,22 +871,6 @@
       "duration_ms": 194533,
       "name": "CRYING\u2019S JUST A THING YOU DO",
       "url": "https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG"
-    },
-    {
-      "added_at": "2024-01-18 18:19:37",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -967,6 +951,22 @@
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2024-01-18 18:19:37",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
-        "name": "Allen Stone",
-        "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
-    },
-    {
-      "added_at": "2024-01-18 18:19:37",
-      "album": {
         "name": "Side Pony",
         "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 217680,
       "name": "I Don't Care About You",
       "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
+    },
+    {
+      "added_at": "2024-01-18 18:19:37",
+      "album": {
+        "name": "Allen Stone",
+        "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 146493,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
-        "name": "Cowboy Nudes",
-        "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 170537,
-      "name": "Cowboy Nudes",
-      "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
-    },
-    {
-      "added_at": "2024-01-18 18:19:37",
-      "album": {
         "name": "Seventeen Acres",
         "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
+        "name": "Cowboy Nudes",
+        "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 170537,
+      "name": "Cowboy Nudes",
+      "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
+    },
+    {
+      "added_at": "2024-01-18 18:19:37",
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2024-01-18 18:19:37",
-      "album": {
-        "name": "More Photographs (A Continuum)",
-        "url": "https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "This Is A Photograph II",
-      "url": "https://open.spotify.com/track/5WtjJrwJvlKqTBl92Wmlc8"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
+        "name": "More Photographs (A Continuum)",
+        "url": "https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "This Is A Photograph II",
+      "url": "https://open.spotify.com/track/5WtjJrwJvlKqTBl92Wmlc8"
+    },
+    {
+      "added_at": "2024-01-18 18:19:37",
+      "album": {
         "name": "Fine to Me",
         "url": "https://open.spotify.com/album/7m1gJq3SBJHvpw50OeyKps"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
-        "name": "Bahamas Is Afie",
-        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Little Record Girl",
-      "url": "https://open.spotify.com/track/5K467049SloeEJHvMhJDcl"
+      "duration_ms": 224200,
+      "name": "Too Little, Too Late, Too Bad",
+      "url": "https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -1419,6 +1419,22 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2024-01-18 18:19:37",
+      "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Little Record Girl",
+      "url": "https://open.spotify.com/track/5K467049SloeEJHvMhJDcl"
     },
     {
       "added_at": "2024-01-18 18:19:37",
@@ -1459,34 +1475,18 @@
     {
       "added_at": "2024-01-18 18:19:37",
       "album": {
-        "name": "You're the One",
-        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Too Little, Too Late, Too Bad",
-      "url": "https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55"
-    },
-    {
-      "added_at": "2024-01-18 18:19:37",
-      "album": {
-        "name": "SEA/SONS",
-        "url": "https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Alexander",
-          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
-        }
-      ],
-      "duration_ms": 198321,
-      "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
-      "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     }
   ],
   "unique_name": "the new retro",

@@ -4,7 +4,7 @@
 
 > No procrastination allowed\. Only fun songs to help you get chores done.
 
-186 songs - 11 hr 11 min
+187 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2021-09-23 |  |
 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 | 2021-09-23 |  |
 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-02 |  |
+| [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 | 2024-02-02 |  |
 | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 | 2022-12-29 | 2023-03-30 |
 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 | 2022-12-29 |  |
 | [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 3:36 | 2021-09-23 | 2022-07-29 |
@@ -80,7 +81,7 @@
 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 | 2022-12-29 |  |
 | [I've Got a Rock 'N' Roll Heart](https://open.spotify.com/track/0pEu81PfEP0L9u4iTY5zvI) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/4jSmWv7f63DJKOj7YyKV7l) | 3:13 | 2021-09-23 | 2022-07-28 |
 | [Imma Be](https://open.spotify.com/track/5OiLJ8tjUPFiPX2gVM8fxJ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:17 | 2021-09-23 | 2022-07-28 |
-| [In My Feelings](https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:37 | 2022-12-29 |  |
+| [In My Feelings](https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:37 | 2022-12-29 | 2024-02-19 |
 | [It's Gonna Be Me](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:12 | 2021-09-23 | 2022-07-29 |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2021-09-23 |  |
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2022-09-30 | 2023-05-05 |

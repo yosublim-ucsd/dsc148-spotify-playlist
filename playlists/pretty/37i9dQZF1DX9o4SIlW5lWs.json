@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Daniel Agostini.",
-  "num_followers": 211581,
+  "num_followers": 211701,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDhkYjZjYzM5YjIzNzgzNjc2NjZhMGRiOGQ3YmNiZjhhYWZjMTQ3",
+  "snapshot_id": "MCw0NWNjMDIwNDI4YTRlMWI3ZGI2M2MwNGNjZmFiMTRhMDQ3NjNjMjRj",
   "tracks": [
     {
       "added_at": "2024-02-16 03:00:00",
@@ -335,22 +335,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Con Vos",
-        "url": "https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N"
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
         }
       ],
-      "duration_ms": 176658,
-      "name": "Con Vos",
-      "url": "https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x"
+      "duration_ms": 129229,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -371,18 +367,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Latidos",
-        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
+        "name": "Con Vos",
+        "url": "https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N"
       },
       "artists": [
         {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         }
       ],
-      "duration_ms": 129229,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
+      "duration_ms": 176658,
+      "name": "Con Vos",
+      "url": "https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Creciendo",
-        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Tan S\u00f3lo Amantes",
-      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Messirve Mix 7",
         "url": "https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 164756,
       "name": "Siguiendo La Luna",
       "url": "https://open.spotify.com/track/6P36zQKLdaW8WBUqmmqmpH"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tan S\u00f3lo Amantes",
+      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1223,22 +1223,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 240720,
-      "name": "Con \u00c9l No Soportas",
-      "url": "https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 217293,
       "name": "Ya lleg\u00f3 el sabor",
       "url": "https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 240720,
+      "name": "Con \u00c9l No Soportas",
+      "url": "https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Lo Mejor de R\u00e1faga",
-        "url": "https://open.spotify.com/album/328Ys1TcAr9CNAHcy9jf9N"
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 213506,
-      "name": "Ag\u00fcita",
-      "url": "https://open.spotify.com/track/4AwjZri8DDFBQQnZZKeVBF"
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+        "name": "Lo Mejor de R\u00e1faga",
+        "url": "https://open.spotify.com/album/328Ys1TcAr9CNAHcy9jf9N"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+      "duration_ms": 213506,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/4AwjZri8DDFBQQnZZKeVBF"
     },
     {
       "added_at": "2024-02-16 03:00:00",

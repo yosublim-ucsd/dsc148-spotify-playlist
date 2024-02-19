@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 339158,
+  "num_followers": 339137,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWI5ZTBkYzk2ZGExYmU3MDM4NDYxNzZkMTcwN2Q4NDdkZGIzMDJj",
+  "snapshot_id": "MCxhOTMwMjcxNDNmNzI5NDg0ZGZiYWM2ODRmOTRkNDc5MTJlZDlhNGJl",
   "tracks": [
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2NmIkHfuMdIdqJlu3LtxwU"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2NmIkHfuMdIdqJlu3LtxwU"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
+        "name": "Collision Course (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Points of Authority / 99 Problems / One Step Closer",
+      "url": "https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
-        "name": "Collision Course (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Points of Authority / 99 Problems / One Step Closer",
-      "url": "https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX"
     },
     {
       "added_at": "2024-01-19 14:53:58",

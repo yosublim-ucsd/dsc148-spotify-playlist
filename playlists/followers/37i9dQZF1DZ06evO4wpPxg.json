@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 1570,
+  "2024-02-19": 1580,
   "date_first_scraped": "2022-05-26",
   "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
   "name": "This Is Rev. Gary Davis",
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 137626,
       "name": "Coco Blues",
       "url": "https://open.spotify.com/track/0lBwR0hV88ZIw4iCzagqJX"
@@ -525,6 +525,24 @@
       "duration_ms": 299676,
       "name": "Come Down And See Me Sometime - Live",
       "url": "https://open.spotify.com/track/2POSDthiSCS9W9wmSGsyfW"
+    },
+    {
+      "album": {
+        "name": "Let Us Get Together",
+        "url": "https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448333,
+      "name": "Come Down To See Me Sometime - Live in Seattle, WA",
+      "url": "https://open.spotify.com/track/2HtsYX0K8oFi87fLONP0sB"
     },
     {
       "album": {
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 283106,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 287133,
       "name": "Hills and Valleys",
       "url": "https://open.spotify.com/track/3BcAQ2S4kCUKsxlYgLIsxL"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 174733,
       "name": "I Belong To The Band",
       "url": "https://open.spotify.com/track/3aGOyp9ty4PnRoQKDh0huq"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 286426,
       "name": "If I Had My Way",
       "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
@@ -2609,7 +2627,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 189653,
       "name": "Lord, Stand By Me",
       "url": "https://open.spotify.com/track/43YFUTTItto66K15U3PdIi"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 170826,
       "name": "Marine Band",
       "url": "https://open.spotify.com/track/3PmkzxGGW4bJOhTyxyD3yY"
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -3509,7 +3527,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "Samson And Delilah",
       "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
@@ -4193,7 +4211,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 161226,
       "name": "The Reverend Speaks I - Live in Seattle, WA",
       "url": "https://open.spotify.com/track/41uX776F1CcogiuJ4J6C38"
@@ -4463,7 +4481,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"

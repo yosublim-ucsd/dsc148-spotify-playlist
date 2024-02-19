@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,596 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,752 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 74 | [Stars \- The Shack Film Version](https://open.spotify.com/track/2KPjz1SM7AWC9GxXHmRucG) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Stars \(The Shack Film Version\)](https://open.spotify.com/album/65VDJ8KgsyQ4NnBc6d1K2d) | 3:44 |
 | 75 | [Fare Thee Well](https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Perdida](https://open.spotify.com/album/27evZfDFySSv4dcje8afMI) | 4:21 |
 
-Snapshot ID: `MCxhNGJiOTVmZjQyOWVjODRjMGY0MGJkY2Y0YTYyMWQyNGY4ZjQ0Y2M5`
+Snapshot ID: `MCxhYTA1OWY0Yjg4MmVlOGE4NzY4ZWIyMDg2ZWY3OWVhZjNjYjZhMzcw`

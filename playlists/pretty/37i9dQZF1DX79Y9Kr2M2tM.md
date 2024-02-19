@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,193 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,212 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 58 | [Plans](https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 3:49 |
 | 59 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
 | 60 | [Bite](https://open.spotify.com/track/3K8puYhgILDNgQL3IfGFGw) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p) | 3:32 |
-| 61 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 |
-| 62 | [To Each His Own](https://open.spotify.com/track/4r4APlZYwRDLt0m91auppo) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:10 |
+| 61 | [To Each His Own](https://open.spotify.com/track/4r4APlZYwRDLt0m91auppo) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:10 |
+| 62 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 |
 | 63 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
 | 64 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
 | 65 | [Heavy](https://open.spotify.com/track/26eylodAJLTp1GkG4Q7wNy) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:01 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 96 | [Horizons](https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j) | [Xavia](https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i) | [Mountain Whisper](https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0) | 4:34 |
 | 97 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
 | 98 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
-| 99 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
-| 100 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
+| 99 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
+| 100 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
 
-Snapshot ID: `MCxmZmI0YWM0ZGQyOWMxOGUxM2YzMzBjYzk2N2I5YTg5YmVmZTBmOWFj`
+Snapshot ID: `MCwzYjRhMjBmZTQ2YjUxZmMxZTY1ODliMTg0NDQzNDlmZDAyYjgxZWJj`

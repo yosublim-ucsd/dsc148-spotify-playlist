@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,126 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,083 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 15 | [Fyge \- Reworks](https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Reworks](https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF) | 3:51 |
 | 16 | [Pentru ca](https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [Pentru ca](https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx) | 3:12 |
 | 17 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 |
-| 18 | [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 |
-| 19 | [Em nên yêu cô ta](https://open.spotify.com/track/6u8BfDFmGXZRkxfd8M3PSp) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 4:01 |
+| 18 | [Em nên yêu cô ta](https://open.spotify.com/track/6u8BfDFmGXZRkxfd8M3PSp) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 4:01 |
+| 19 | [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 |
 | 20 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
 | 21 | [la raíz](https://open.spotify.com/track/03tz2giwv6Jv0Sl5bXDy0A) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [con cariño y con cuidado](https://open.spotify.com/album/5AHM4rMUidenTvhMQb4cz7) | 3:44 |
 | 22 | [Scoot](https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Scoot](https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7) | 2:57 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 24 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
 | 25 | [LIE BACK HARDER](https://open.spotify.com/track/7ho7R7emSd3bEPb1Rm0BZ6) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [LIE BACK HARDER](https://open.spotify.com/album/4o6p4bcvWaLIxInauE5CvI) | 2:02 |
 | 26 | [言不由衷](https://open.spotify.com/track/1K4viDkmDlxabXN2f39VfC) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 4:59 |
-| 27 | [Struny](https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Struny](https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB) | 3:57 |
-| 28 | [Все невипадково](https://open.spotify.com/track/5hjBItGjGd9JIFv5sltLIQ) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Віддаю](https://open.spotify.com/album/0KZVsgKj9r6pwqdohzFWy8) | 3:04 |
+| 27 | [Все невипадково](https://open.spotify.com/track/5hjBItGjGd9JIFv5sltLIQ) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Віддаю](https://open.spotify.com/album/0KZVsgKj9r6pwqdohzFWy8) | 3:04 |
+| 28 | [Struny](https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Struny](https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB) | 3:57 |
 | 29 | [Mine](https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Mine](https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD) | 2:41 |
 | 30 | [Gönlümün Balkonu](https://open.spotify.com/track/1F0bRB1uo9a8uMO5RrQBd8) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Eteğimdeki Taşlar](https://open.spotify.com/album/0kKWs0ComnwZkfZyeTgMkI) | 3:57 |
 | 31 | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \- Melatonin](https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \(Melatonin\)](https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t) | 3:15 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [Mula](https://open.spotify.com/track/1gh9BcsC8eU0FlH5JEuUEV) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Mula](https://open.spotify.com/album/34oz7Evonovs53OIyZFvDQ) | 3:00 |
 | 40 | [mother luna](https://open.spotify.com/track/5O5XF0Ln1X1lejZcP8iS02) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [mother luna](https://open.spotify.com/album/1xfuwVFrHx1EnQuo3MlLuy) | 2:28 |
 | 41 | [WHAT YOU THINK OF](https://open.spotify.com/track/4GmOUr865qgrdmZOIOLH2q) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH), [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x) | [WHAT YOU THINK OF](https://open.spotify.com/album/01ngB0MbBmzxx8QbUvtRh8) | 2:30 |
-| 42 | [עד שייפול הירח](https://open.spotify.com/track/1IGBBGr0r8xVAm49Pkf4YR) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [עד שייפול הירח](https://open.spotify.com/album/53Hrnu2s8H9ALN0zoOv12L) | 3:19 |
-| 43 | [Mulher](https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL) | 4:49 |
+| 42 | [Mulher](https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL) | 4:49 |
+| 43 | [עד שייפול הירח](https://open.spotify.com/track/1IGBBGr0r8xVAm49Pkf4YR) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [עד שייפול הירח](https://open.spotify.com/album/53Hrnu2s8H9ALN0zoOv12L) | 3:19 |
 | 44 | [Troubled Waters](https://open.spotify.com/track/6TuyWjGT8Gi0kRu0S3MU1o) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Troubled Waters](https://open.spotify.com/album/5ibxI0a4EgHOBYGMkk5P0Y) | 4:06 |
 | 45 | [Betty Bruce](https://open.spotify.com/track/0eX83sk4tLtPBMf37tgMKc) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Betty Bruce](https://open.spotify.com/album/1XTJX5QoGnJVsDiSyQHfqB) | 3:28 |
 | 46 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [TOKYOITE](https://open.spotify.com/track/6CyZCDqEgRAMjbJrzkpWnT) | [TOMOKO IDA](https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB) | [TOKYOITE](https://open.spotify.com/album/3MtWoSQsfhcelBCzUwaLAB) | 2:48 |
 | 49 | [Cloudy Skies](https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU) | [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ), [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Cloudy Skies](https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc) | 4:13 |
 
-Snapshot ID: `MCxhNWE0NWUxZGZjZjA1ZjNiZjcyOTkwNmM3MDUzZTVkODMyOGUwNDkx`
+Snapshot ID: `MCw2NmI4MjFhYmMxNDJkNjdiZGVjMjFlNGRkNzk5MmU5Y2ZiZTQ4MDk1`

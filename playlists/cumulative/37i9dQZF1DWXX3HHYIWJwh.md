@@ -4,7 +4,7 @@
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-119 songs - 6 hr 13 min
+121 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [bugs](https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [bugs](https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7) | 3:59 | 2024-01-30 |  |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-11-23 | 2023-11-30 |
 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-09 |  |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-02-18 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-11-23 |  |
 | [dame un beso](https://open.spotify.com/track/1UVN4riE1cU49ARhbB8phJ) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos), [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k) | [YELLOW NOTE](https://open.spotify.com/album/3T5uunEVFcYhl4uqKSxyUV) | 3:22 | 2023-12-26 | 2023-12-30 |
 | [dame un beso](https://open.spotify.com/track/6PNS6uP80uCchkfpRL0rbE) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos), [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k) | [YELLOW NOTE](https://open.spotify.com/album/1qIeBADh8JAZ0g2sAmTBlZ) | 3:22 | 2023-12-26 | 2024-01-24 |
@@ -62,10 +63,11 @@
 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 | 2024-02-06 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-11-23 | 2023-11-29 |
 | [Imagining \(feat\. Amaarae\)](https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:40 | 2024-01-16 | 2024-02-17 |
+| [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 | 2024-02-18 |  |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-23 | 2023-12-20 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-23 | 2023-12-27 |
 | [LEGIT](https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LEGIT](https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh) | 3:34 | 2024-02-16 |  |
-| [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2024-02-09 |  |
+| [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2024-02-09 | 2024-02-19 |
 | [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2024-01-16 | 2024-01-30 |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-12-12 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2023-11-28 | 2024-01-19 |
@@ -93,7 +95,7 @@
 | [Runaway Baby](https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 2:28 | 2024-01-23 |  |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-11-23 | 2024-01-12 |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-11-23 |  |
-| [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/50yNTF0Od55qnHLxYsA5Pw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:39 | 2024-01-23 |  |
+| [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/50yNTF0Od55qnHLxYsA5Pw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:39 | 2024-01-23 | 2024-02-19 |
 | [So I Don't Forget](https://open.spotify.com/track/2M2ghHSmrQrIJxAA8ElptH) | [MIKA 米卡](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [So I Don't Forget](https://open.spotify.com/album/05b3Kdk2Jox2csFJXpamb3) | 3:04 | 2023-12-19 | 2023-12-27 |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-26 |  |
 | [Starlight 〜君に届くまで...〜](https://open.spotify.com/track/1063HKJblWTIoYGoc5qOgz) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [Proxima](https://open.spotify.com/album/5wgV4qqmXF54eFFHYxNlAz) | 3:08 | 2023-12-26 | 2024-01-11 |

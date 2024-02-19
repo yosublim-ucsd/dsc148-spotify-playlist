@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Gotta catch 'em all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,200 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,211 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 12 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 |
 | 13 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
 | 14 | [I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 |
-| 15 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
+| 15 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 |
 | 16 | [Shed](https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:16 |
-| 17 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 |
+| 17 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
 | 18 | [Relay](https://open.spotify.com/track/3vuG06ETVyqQlxW2wbBVjg) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [\[trauma ray\]](https://open.spotify.com/album/7vejvPuK0jnMXpzNiikHsR) | 3:22 |
 | 19 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
 | 20 | [Reckless Tongue](https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8) | 2:58 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 67 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 |
 | 68 | [Something Right](https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Stovall](https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp) | 3:21 |
 | 69 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
-| 70 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
-| 71 | [Snail \- Remastered 2011](https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 5:08 |
+| 70 | [Snail \- Remastered 2011](https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 5:08 |
+| 71 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 72 | [Knights](https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Planet of Ice](https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV) | 3:39 |
 | 73 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 |
 | 74 | [Body Language](https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Slow Heart](https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb) | 4:09 |
 | 75 | [Apple Cider, I Don't Mind](https://open.spotify.com/track/02SdGsV2CdVzFNaMiI33Uk) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 1:57 |
-| 76 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
-| 77 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 |
-| 78 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 |
-| 79 | [Thru The Eyes Of Ruby \- Remastered 2012](https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 7:38 |
+| 76 | [Thru The Eyes Of Ruby \- Remastered 2012](https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 7:38 |
+| 77 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
+| 78 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 |
+| 79 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 |
 | 80 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
 | 81 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
 | 82 | [Note To Self](https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 3:49 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 94 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
 | 95 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 96 | [Damp](https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do) | [Daylight](https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv) | [The Difference In Good And Bad Dreams](https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt) | 2:42 |
-| 97 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
-| 98 | [Goldfinger](https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 4:31 |
-| 99 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 |
-| 100 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 |
+| 97 | [Goldfinger](https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 4:31 |
+| 98 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
+| 99 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 |
+| 100 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 |
 
-Snapshot ID: `MCxkMTFhZjQ4YWViYTIyMTg2NTFlOWY5MmUyNzNhMDYxZTU4Zjc2NDAy`
+Snapshot ID: `MCwxMmRiN2FlMjZjMzY4YTQ3YjY4ZGIxMTgzZjM0YTc1YzQ3MGIzMWM4`

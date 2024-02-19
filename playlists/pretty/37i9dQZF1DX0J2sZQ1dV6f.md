@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,024 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,103 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 | 29 | [PVTIVUELTA](https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [PVTIVUELTA](https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E) | 2:23 |
 | 30 | [Humo Trankilizante](https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR), [Hijos De Leyva](https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe) | [Humo Trankilizante](https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs) | 2:32 |
 | 31 | [Lavadita de Fresa](https://open.spotify.com/track/1jdPJagF2WvDuzjYWSp79D) | [Gerry Garcia](https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4) | [Lavadita de Fresa](https://open.spotify.com/album/7nRSYjA1igpQ7KoHyfpmy4) | 3:22 |
-| 32 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 |
+| 32 | [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 |
 | 33 | [El Fieston](https://open.spotify.com/track/3dieJ76FVSIvpVssUlME5w) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Merca Xin Corte](https://open.spotify.com/artist/7jmtZgZygzmC35GMHpcM1z) | [El Fieston](https://open.spotify.com/album/3XHXxnzLAemR2oCIZhcQpd) | 3:19 |
 | 34 | [Alucín](https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D) | [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Alucín](https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ) | 2:12 |
 | 35 | [Los Favoritos De Los Capos](https://open.spotify.com/track/5TbmLpzZkiAvmR3BprcSnz) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 2:25 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 | 39 | [Corrido Espacial](https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 3:42 |
 | 40 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
 
-Snapshot ID: `MCxhNGQ3ZDlhY2IwZDU5NDVlYTk1MGU0MjFiZGUzZTA1YzJjZTI0YzU4`
+Snapshot ID: `MCwwNjNmODMzZWI0MTQxNjM1YzhlMzk2YTBiMWU3ODgwY2NiYWZjNmJj`

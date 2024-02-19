@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Nicaragua.
 
-809 songs - 1 day 21 hr 49 min
+810 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Cancioncitas de Amor](https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:57 | 2024-02-13 |  |
 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 | 2021-06-01 | 2021-06-02 |
 | [Canción para la Navidad](https://open.spotify.com/track/2gSexK7Je8Szlo7nm0vvJB) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [El pregón](https://open.spotify.com/album/1Z27GPKKGRGUpayXPsVej2) | 3:49 | 2021-12-26 | 2021-12-27 |
-| [Candy](https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 3:27 | 2023-09-27 |  |
+| [Candy](https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 3:27 | 2023-09-27 | 2024-02-19 |
 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 | 2023-06-06 | 2024-02-03 |
 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 | 2022-11-19 | 2022-11-22 |
 | [CASUALIDAD](https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:03 | 2022-11-05 | 2022-11-07 |
@@ -151,6 +151,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-11-26 | 2022-04-21 |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-09 |  |
 | [COMO HAS ESTAU?](https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 2:07 | 2022-11-05 | 2022-11-07 |
+| [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-18 |  |
 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 | 2022-11-05 | 2022-11-07 |
 | [Cuevita](https://open.spotify.com/track/3LGn1d8P4Na3WHvYwCE6NL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:40 | 2023-03-18 | 2023-03-21 |
 | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 | 2024-02-06 | 2024-02-09 |

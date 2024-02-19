@@ -1,5 +1,5 @@
 {
-  "2024-02-18": 201328,
+  "2024-02-19": 201370,
   "date_first_scraped": "2021-12-28",
   "description": "Songs of faith, hope, and the greatest of these, love.",
   "name": "Higher Love",
@@ -2435,7 +2435,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 125714,
       "name": "Nice n Slow",
       "url": "https://open.spotify.com/track/5lLOxGJhIem0mC8IYUSzVG"
@@ -3641,6 +3641,24 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+    },
+    {
+      "album": {
+        "name": "Here's to Second Chances",
+        "url": "https://open.spotify.com/album/6H7p31cAoeGC8TjZe2V6In"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178748,
+      "name": "What Will She Say",
+      "url": "https://open.spotify.com/track/0PHlJJa4i5f2DV1QrL65s9"
     },
     {
       "album": {

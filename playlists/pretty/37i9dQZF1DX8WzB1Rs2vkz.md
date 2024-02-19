@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,750 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,810 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 15 | [Aquel Lugar](https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 3:51 |
 | 16 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 |
 | 17 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
-| 18 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
-| 19 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 18 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 19 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
 | 20 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 |
 | 21 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
 | 22 | [Bachata Rosa](https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:17 |
-| 23 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 |
-| 24 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
+| 23 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
+| 24 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 |
 | 25 | [Mi Corazoncito](https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 |
 | 26 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 27 | [Hay Amores](https://open.spotify.com/track/6dvndG2cfbK3jXOL2pxkGz) | [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn), [Astrid Celeste](https://open.spotify.com/artist/17bJlJD5HIrXLGykmaXUwy) | [Hay Amores](https://open.spotify.com/album/1a5T9ZlYKpPFABaQOcKfw9) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 74 | [Le Viene Bien](https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Décimo Cuarto](https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2) | 2:53 |
 | 75 | [Princesa](https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 3:25 |
 
-Snapshot ID: `MCxhZjg3NzlhN2VlOWQ0ZmI5MzNlYzNhODg1ODc3ZWZjYzMzODRkZTU5`
+Snapshot ID: `MCw3ZjUyMWVkZjFiYzk3ZDA5ZDEzN2MzMDdjNDU2MGU4OWMzMzIyOTdh`

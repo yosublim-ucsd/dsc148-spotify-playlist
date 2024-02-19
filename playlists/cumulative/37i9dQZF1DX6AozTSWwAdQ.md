@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-361 songs - 19 hr 4 min
+362 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Electrify My Soul](https://open.spotify.com/track/6HV9qEoFoP6LLwEqYw8rSQ) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Electrify My Soul](https://open.spotify.com/album/7rr3qb54fKwumwhSh76Y8w) | 3:28 | 2022-06-06 | 2022-07-29 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-07-25 | 2024-01-09 |
 | [Empires](https://open.spotify.com/track/6W2PWC5H7FSG3fdWc70EgZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM \- Act I & II](https://open.spotify.com/album/2ZagNJdDOXRHe3W5f4ov4W) | 3:10 | 2023-02-07 | 2023-02-14 |
-| [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-11 |  |
+| [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-11 | 2024-02-19 |
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-03-13 | 2023-03-21 |
 | [Everything Is Nothing](https://open.spotify.com/track/0Uk4Vl90h4B217sWhXJeIf) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Everything Is Nothing](https://open.spotify.com/album/2Gg9al8bC4Je0nmgRAnujj) | 2:01 | 2022-12-06 | 2022-12-13 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-21 | 2023-07-29 |
@@ -189,6 +189,7 @@
 | [J\-O\-B](https://open.spotify.com/track/4Y04Y4j9y3urznHQOzMuxk) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [J\-O\-B](https://open.spotify.com/album/2QsCvTev6EAZVuxYA5nfi5) | 2:40 | 2023-08-21 | 2023-08-29 |
 | [jealous of my friends](https://open.spotify.com/track/5Elsfzs4R5AhZMrfepTxwV) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [jealous of my friends](https://open.spotify.com/album/4rRgE2wgNlVoxWi8aeVFbb) | 2:44 | 2023-03-20 | 2023-03-28 |
 | [Just Thought You Should Know](https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty, Pt\. 1](https://open.spotify.com/album/19GamUBcGLTBx9n7OjqGcw) | 3:23 | 2022-06-06 | 2022-07-28 |
+| [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-19 |  |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-25 |  |
 | [Kiss Me](https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:49 | 2023-06-26 |  |
 | [Kiss Me](https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:49 | 2022-09-05 | 2022-10-11 |

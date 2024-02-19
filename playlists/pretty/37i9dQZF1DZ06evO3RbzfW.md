@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,293,859 likes - 46 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294,031 likes - 46 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 19 | [Ohne dich](https://open.spotify.com/track/4aFC7Mes7CW5vHcb8ZApAx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:31 |
 | 20 | [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 |
 | 21 | [Rein raus](https://open.spotify.com/track/4fPrxIohi60EZfNy2TlD44) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:09 |
-| 22 | [Waidmanns Heil](https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:32 |
-| 23 | [Asche zu Asche](https://open.spotify.com/track/407eqFGqQc40KPf43YrQ44) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 3:51 |
+| 22 | [Asche zu Asche](https://open.spotify.com/track/407eqFGqQc40KPf43YrQ44) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 3:51 |
+| 23 | [Waidmanns Heil](https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:32 |
 | 24 | [Zeit](https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 5:21 |
 | 25 | [Was ich liebe](https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:29 |
 | 26 | [Keine Lust](https://open.spotify.com/track/7eeDeUM9E7b0vkDfRz20Zt) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 3:42 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 45 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 |
 | 46 | [Bestrafe mich](https://open.spotify.com/track/5QueZSIpWUbH4nLZlkjjkP) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:36 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA4NzAwMjA1NTA2N2RiOTNlNDdiZTQwZTgxMjM0NzZmZg==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDAyZDBjYjVkMzFjNTYwNTk5YzFjNTdkNGI3NWYxOThkMw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 
 > Temitas chulos para acompañarte cuando vas de un sitio a otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,341 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,313 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 | 34 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 |
 | 35 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 |
 | 36 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 |
-| 37 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
-| 38 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 |
+| 37 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 |
+| 38 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
 | 39 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 |
 | 40 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 |
 | 41 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 | 44 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 45 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
 | 46 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 |
-| 47 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
+| 47 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
 | 48 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
-| 49 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
-| 50 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 |
+| 49 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 |
+| 50 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
 
-Snapshot ID: `MCw0MTc2MTdjNzM1MjE5M2E2YjY5NGMyYjYxZDIzZTllYmUwMzMzODcw`
+Snapshot ID: `MCw4ZmRlMmNkN2QzZTlmZDU0ZDVjM2YxZGI1MGFiMmYxOGQ1OTM2ZmJj`

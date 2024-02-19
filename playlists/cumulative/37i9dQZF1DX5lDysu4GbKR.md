@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-220 songs - 13 hr 22 min
+221 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Magic](https://open.spotify.com/track/0hNa2G3CxcEFD1iG0GM2rY) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 4:42 | 2022-10-27 |  |
 | [Make the Most \- Live](https://open.spotify.com/track/40jbQpNvRIFpV1i9UTcNgB) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Make the Most \(Live\)](https://open.spotify.com/album/1bGkar5XcMRqcs4sxp02sF) | 3:42 | 2021-12-09 | 2023-08-31 |
 | [Meant to Be](https://open.spotify.com/track/4SmFQJI0xNBavjodMBfscN) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Thankful](https://open.spotify.com/album/2yhzbRsA4dOr3OV5gzHXqt) | 4:34 | 2021-12-09 | 2023-04-09 |
-| [Mine to Lose](https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:31 | 2021-12-09 |  |
+| [Mine to Lose](https://open.spotify.com/track/0rx0LgsgBQ8yGJzDwBNLU5) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/6QSOKuLlCEodRIJLQL6iI5) | 3:31 | 2024-02-09 |  |
+| [Mine to Lose](https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:31 | 2021-12-09 | 2024-02-19 |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2021-12-09 | 2023-04-13 |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2023-04-07 | 2024-02-09 |
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-24 | 2022-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: REI AMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,284 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,281 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 25 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 |
 | 26 | [Working for the Knife](https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:38 |
 | 27 | [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 |
-| 28 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
-| 29 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
+| 28 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
+| 29 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
 | 30 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 |
 | 31 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN) | 1:47 |
 | 32 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
 | 33 | [Lose](https://open.spotify.com/track/530l1XggFTVKZIM3khE10r) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/312cHRlzeS4VuD1RHzAGIt) | 4:16 |
 | 34 | [universe](https://open.spotify.com/track/6gSBiIezn6yKhCVhBUOSwB) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [universe](https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma) | 3:06 |
-| 35 | [Better Than the Boys](https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy) | 2:34 |
-| 36 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
-| 37 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
-| 38 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
+| 35 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
+| 36 | [Better Than the Boys](https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy) | 2:34 |
+| 37 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
+| 38 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
 | 39 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
 | 40 | [Bicycle](https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 2:59 |
 | 41 | [Loved By U](https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm) | 3:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
 | 90 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 
-Snapshot ID: `MCw3NDMwYzEwMDA4ZGQwZjA1YWQwY2UxODE2MjNlODNlOTM0ODRiMGFm`
+Snapshot ID: `MCwxOWQ0NDhmNDc5NmRiNzNhZTQ1NWY2ODQ1NTE5MmZlZjY4OTA5OGVj`

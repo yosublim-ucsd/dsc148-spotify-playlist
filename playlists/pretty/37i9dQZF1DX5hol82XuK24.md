@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,168 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,208 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 25 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 |
 | 26 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
 | 27 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
-| 28 | [Ms](https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:58 |
-| 29 | [Slither](https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 1:50 |
+| 28 | [Slither](https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 1:50 |
+| 29 | [Ms](https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:58 |
 | 30 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
 | 31 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
 | 32 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 43 | [bmbmbm](https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 4:56 |
 | 44 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 |
 | 45 | [Show Me Your Mind](https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Show Me Your Mind](https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM) | 3:33 |
-| 46 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
-| 47 | [Strange Time](https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:20 |
+| 46 | [Strange Time](https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:20 |
+| 47 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
 | 48 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 |
 | 49 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
 | 50 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 99 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
 | 100 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
 
-Snapshot ID: `MCwwODQxOTlhYmEwMmFhZjE5YmUxZWU1NjE5YzQ0NjMyOTA4YzViZWNl`
+Snapshot ID: `MCxlYzEyMTRkMzM3MzU4YWQzNmFmM2U4NzliNGQ5NDlkNWJjZmFjNWZh`

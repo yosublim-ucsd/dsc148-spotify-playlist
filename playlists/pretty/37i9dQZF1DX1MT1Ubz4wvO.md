@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con El Último Vecino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,958 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,960 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Personalidad](https://open.spotify.com/track/6Ch3Zsu1tACPxnwzK66Zfy) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [Personalidad](https://open.spotify.com/album/0bhdvluYmMcB8kq4kgbAbY) | 2:56 |
 | 50 | [Flores](https://open.spotify.com/track/1rilaVrnxtBAokz6Qwbec0) | [Pool Tides](https://open.spotify.com/artist/6JzRAaSS0BMJNrQVAN378g) | [Flores](https://open.spotify.com/album/6nAiqNxO8gKHt8cO1EPAWW) | 1:46 |
 
-Snapshot ID: `MCxmNWQxODRiNGJkZTYyYzk3ZmMwYWQ4YzA1MjlmZjlhNTdlNmZhYWYw`
+Snapshot ID: `MCxmMDNmMjU4NjNkYjIyYzg4YWZhY2IxZjYxZDY0NjdiYWJiYzgyOTQ5`

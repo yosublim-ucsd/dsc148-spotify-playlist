@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-145 songs - 9 hr 30 min
+146 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:04 | 2021-12-10 |  |
 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 | 2021-12-10 |  |
 | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL) | 5:30 | 2021-12-10 |  |
-| [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 | 2022-08-26 |  |
+| [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 | 2022-08-26 | 2024-02-19 |
 | [La Cancioncita \- En Vivo en el Luna Park](https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Orquesta Infanto\-juvenil de Constitución](https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v) | [La Cancioncita \(En Vivo en el Luna Park\)](https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj) | 5:39 | 2023-12-08 | 2024-01-14 |
 | [La Cola Less \- En Vivo](https://open.spotify.com/track/1Mc3igeO36vqjsEknZtj4I) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [La Fiesta \(En Vivo\)](https://open.spotify.com/album/2vw8QONQeAzZrOfOppQomN) | 2:03 | 2023-06-16 | 2023-09-24 |
 | [La danza de los mirlos \- En Vivo](https://open.spotify.com/track/03gL2VXNNyYdeZHYbdsYYO) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 0:37 | 2021-12-10 | 2022-11-19 |
@@ -100,6 +100,7 @@
 | [Nunca Más \- En Vivo](https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Nunca Más \(En Vivo\)](https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA) | 3:04 | 2023-03-24 |  |
 | [Paisaje \- En Vivo](https://open.spotify.com/track/6eoyDlYshTp0L8t6qPodeN) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Paisaje \(En Vivo\)](https://open.spotify.com/album/1JgFPt2VdpuaMNRFtJ9N65) | 2:36 | 2022-01-07 | 2022-07-28 |
 | [Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo \- En Vivo](https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [20 Grandes Éxitos](https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3) | 7:37 | 2021-12-10 |  |
+| [Pedazo De Papel \- En Vivo En Arena Maipú Mendoza](https://open.spotify.com/track/5JhAgBgjwjCJqgG58QFVmG) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [La Gira y La Serenata](https://open.spotify.com/album/5QinfgsUxJrIreNnHyOzTN) | 4:51 | 2023-12-29 |  |
 | [Pedazo De Papel \- En Vivo En El Luna Park](https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [La Gira y La Serenata](https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n) | 4:51 | 2023-01-14 | 2024-01-24 |
 | [Perdoname \- En Vivo](https://open.spotify.com/track/3Kblkkz9XPxduAQbykNCKK) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Perdoname \(En Vivo\)](https://open.spotify.com/album/3TXYJH08gHDEyGpDhhZfgb) | 1:56 | 2023-12-29 |  |
 | [Perdoname / Te Quiero a Ti \- En Vivo](https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 4:29 | 2022-01-03 |  |

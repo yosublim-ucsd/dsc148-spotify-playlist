@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Benjam\u00edn Walker",
-  "num_followers": 124179,
+  "num_followers": 124178,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGYzNTgzMzJhYWU3NjhiN2NjMjQ4MDFjM2NjOWUxMzExNDhiYjIw",
+  "snapshot_id": "MCxlNTMxMzMyMzIxN2RhODcyM2Y3MGU3NWZlY2ZmYWFlNTAxZWE0Nzk4",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -391,18 +391,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
+        "name": "Instintos",
+        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 113852,
-      "name": "Lo Nuestro",
-      "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
+      "duration_ms": 208723,
+      "name": "Instintos",
+      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -423,22 +427,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Instintos",
-        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
       },
       "artists": [
         {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 208723,
-      "name": "Instintos",
-      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+      "duration_ms": 113852,
+      "name": "Lo Nuestro",
+      "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "VALOR",
-        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "VALOR",
-      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Suave Pendiente",
         "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 266502,
       "name": "Sulamita",
       "url": "https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "VALOR",
+        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "VALOR",
+      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Dos Cordilleras",
-        "url": "https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 164433,
-      "name": "Brillas en la Pista",
-      "url": "https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "CIELO",
         "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
       },
@@ -719,18 +699,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Puro Espejo",
-        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
+        "name": "Dos Cordilleras",
+        "url": "https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA"
       },
       "artists": [
         {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
         }
       ],
-      "duration_ms": 187124,
-      "name": "G\u00e1rgolas",
-      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
+      "duration_ms": 164433,
+      "name": "Brillas en la Pista",
+      "url": "https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -747,6 +731,22 @@
       "duration_ms": 142106,
       "name": "<3",
       "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Puro Espejo",
+        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 187124,
+      "name": "G\u00e1rgolas",
+      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
+        "name": "Maricoteca",
+        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 222543,
+      "name": "Maricoteca",
+      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Maricoteca",
-        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
+        "name": "Nochecita en B.A",
+        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
         }
       ],
-      "duration_ms": 222543,
-      "name": "Maricoteca",
-      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
+      "duration_ms": 154666,
+      "name": "Nochecita en B.A",
+      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 168725,
       "name": "Manso visto",
       "url": "https://open.spotify.com/track/5Te3UMQrCSS0WmvY9mzH0A"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "Nochecita en B.A",
-        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Nochecita en B.A",
-      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -903,34 +903,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
+        "name": "AMOR MINIMAL",
+        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "Riley (S)",
-        "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
-      },
-      "artists": [
-        {
-          "name": "Sunt Dracone",
-          "url": "https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Riley",
-      "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
+      "duration_ms": 206750,
+      "name": "Decid\u00ed",
+      "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
+        "name": "Peque\u00f1as Esperanzas",
+        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 206750,
-      "name": "Decid\u00ed",
-      "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
+      "duration_ms": 200238,
+      "name": "Peque\u00f1as Esperanzas",
+      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 173336,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/34ztqmhrKX3aaARaXKr8vP"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Riley (S)",
+        "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
+      },
+      "artists": [
+        {
+          "name": "Sunt Dracone",
+          "url": "https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Riley",
+      "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "La Torpeza",
-        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "La Torpeza",
-      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Ganas de Verte",
         "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 198000,
       "name": "Ganas de Verte",
       "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "La Torpeza",
+        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "La Torpeza",
+      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Salvaje y tierno",
-      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Lo Que No Hablas",
         "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
       },
@@ -1463,18 +1447,34 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Barreras de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
       },
       "artists": [
         {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Barreras de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
+      "duration_ms": 187105,
+      "name": "Salvaje y tierno",
+      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 247351,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+        "name": "Barreras de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
       },
       "artists": [
         {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
         }
       ],
-      "duration_ms": 247351,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
+      "duration_ms": 228000,
+      "name": "Barreras de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Consenso",
-        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
-      },
-      "artists": [
-        {
-          "name": "Colayuta",
-          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
-        }
-      ],
-      "duration_ms": 219895,
-      "name": "Consenso",
-      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 353957,
       "name": "Frente a Frente",
       "url": "https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Consenso",
+        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
+      },
+      "artists": [
+        {
+          "name": "Colayuta",
+          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+        }
+      ],
+      "duration_ms": 219895,
+      "name": "Consenso",
+      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
     },
     {
       "added_at": "2024-01-26 03:00:00",

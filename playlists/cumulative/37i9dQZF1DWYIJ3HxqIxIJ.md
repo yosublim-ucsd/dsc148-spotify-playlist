@@ -4,7 +4,7 @@
 
 > Blusher is our new RADAR artist to watch!
 
-279 songs - 14 hr 25 min
+280 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [10's & 8's \(no 4's or 5's\)](https://open.spotify.com/track/26JfqluzJmS53ICnM7ADP7) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [burnt ur clothes & changed the addy](https://open.spotify.com/album/1glKNCGA70lAvykhx0Onr2) | 2:45 | 2022-11-10 | 2023-06-23 |
 | [190](https://open.spotify.com/track/3Yl5Lbx1PC7UdVJFAIG342) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [190](https://open.spotify.com/album/0hFGnUbSIHMRq6SnIhOvRT) | 3:31 | 2022-11-10 | 2023-03-13 |
 | [About A Girl](https://open.spotify.com/track/68A10gwRQs1VHy7BgSjQJA) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO) | [About A Girl](https://open.spotify.com/album/7cRJ3DLTPqNvYRB0JwQnuW) | 3:21 | 2021-10-15 | 2022-08-16 |
-| [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 | 2023-08-17 |  |
+| [Adored](https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 2:40 | 2024-01-18 |  |
+| [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 | 2023-08-17 | 2024-02-19 |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-02 | 2023-06-28 |
 | [ALL MINE](https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ALL MINE](https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb) | 2:59 | 2023-06-22 | 2023-06-28 |
 | [Anakin](https://open.spotify.com/track/2UwGt0YhbHfGoEUPgcMDs6) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Anakin](https://open.spotify.com/album/29sRzR6ZbXnEhH8jQfPss3) | 4:33 | 2022-08-15 | 2022-11-11 |

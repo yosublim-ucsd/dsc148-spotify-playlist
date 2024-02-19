@@ -4,13 +4,13 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-244 songs - 11 hr 52 min
+245 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Day 2 Nights](https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou) | 2:18 | 2022-07-28 | 2023-11-12 |
 | [1 Day 2 Nights](https://open.spotify.com/track/7bRu6qrKsJlwbxf04aZiTT) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4HOViEGgltWnwKliaJHX1K) | 2:18 | 2021-11-19 | 2022-07-27 |
-| [Alien \- Topic Remix](https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Alien \(Topic Remix\)](https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C) | 2:39 | 2022-07-28 |  |
+| [Alien \- Topic Remix](https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Alien \(Topic Remix\)](https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C) | 2:39 | 2022-07-28 | 2024-02-19 |
 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 | 2022-07-28 | 2023-10-13 |
 | [All Day And Night](https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:49 | 2022-07-28 | 2023-10-13 |
 | [All Night \(feat\. Ally Brooke\)](https://open.spotify.com/track/0poEFjyV2iHKtxjdWFwjmS) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [All Night \(feat\. Ally Brooke\)](https://open.spotify.com/album/0wXQE5QGxFdviVPa7GKMCA) | 2:46 | 2023-10-12 | 2023-11-08 |
@@ -156,6 +156,7 @@
 | [Nobody Else](https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Sara Sangfelt](https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC) | [Nobody Else](https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0) | 2:59 | 2021-11-19 | 2022-07-29 |
 | [Noise Cancellation](https://open.spotify.com/track/1xaRuLkOMbu5LZR6TAZWHr) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 3:17 | 2021-11-19 | 2022-07-29 |
 | [Noise Cancellation](https://open.spotify.com/track/6rFaGfDRVRXlVdUVgBz0Ho) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L) | 3:17 | 2023-10-12 | 2023-10-20 |
+| [Nostalgia](https://open.spotify.com/track/73W9I0EIOcw8IW8zEIiyN4) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Nostalgia](https://open.spotify.com/album/6hVYf2R4nHBorsLM6Oj2cN) | 3:19 | 2024-02-15 |  |
 | [Ocean Breeze](https://open.spotify.com/track/63NvtfDogYya9xiEjPLzzz) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Ocean Breeze](https://open.spotify.com/album/29CRVlePWghcgMQuq4mweH) | 3:10 | 2021-11-19 | 2022-07-28 |
 | [Off My Mind \(feat\. Gia Koka\)](https://open.spotify.com/track/4oICoT51iTYWUTgGcHBTeH) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Off My Mind \(feat\. Gia Koka\)](https://open.spotify.com/album/7GtD4bIYFgCDvoGNsrv7Ud) | 2:14 | 2021-11-19 | 2022-07-23 |
 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2021-11-19 | 2023-12-11 |

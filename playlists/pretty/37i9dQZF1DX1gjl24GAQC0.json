@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? (Cover: The Wind) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 820957,
+  "num_followers": 820909,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzJlODcxYmU4YTI5Y2VkNTlkZGMzOTgyYTM0ZTk5NzlmYmE4NmQw",
+  "snapshot_id": "MCwzNjBkMGM3YTFkMGZjN2ViYTg2NzZkMDRkZTk5N2IxMjA1MGNkZmRh",
   "tracks": [
     {
       "added_at": "2024-02-14 09:06:58",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-14 09:06:58",
       "album": {
-        "name": "Hot Sauce - The 1st Album",
-        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
-    },
-    {
-      "added_at": "2024-02-14 09:06:58",
-      "album": {
         "name": "Fall In Love Again",
         "url": "https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 208965,
       "name": "Fall In Love Again",
       "url": "https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3"
+    },
+    {
+      "added_at": "2024-02-14 09:06:58",
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
     },
     {
       "added_at": "2024-02-14 09:06:58",

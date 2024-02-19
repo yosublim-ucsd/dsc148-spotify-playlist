@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 
 > Instant classics from over the years loaded into one sweet mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,944,367 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,944,466 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 | 18 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 19 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 |
 | 20 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
-| 21 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
-| 22 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 21 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 22 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 23 | [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) | 4:12 |
 | 24 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 25 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 | 49 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 50 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
 
-Snapshot ID: `MCxkMmQ2YWNiZTQ0YjI1ODkwNzUxOTdkZGQ0ZmIzYzc4MGI4ODc3YTY2`
+Snapshot ID: `MCxjNmJkYmZmNjkxMWU4YmM1YWJmNGM2MmRjOTIzMzg3ZTFjZTEwNmM3`

@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 308083,
+  "num_followers": 308256,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGNjODgwMjI2NjRkOGVhYWNkZTkyMzM2MDcwMmVkYjRhYWFjYzJm",
+  "snapshot_id": "MCxkYjgzMGNjZDhiZTliY2Q0MDE4MWY1OWY1YzE0NWNjMzdiZTEwOGM0",
   "tracks": [
     {
       "added_at": "2024-02-09 10:36:50",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-02-09 10:36:50",
       "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
+    },
+    {
+      "added_at": "2024-02-09 10:36:50",
+      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 78066,
       "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
       "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
-    },
-    {
-      "added_at": "2024-02-09 10:36:50",
-      "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2024-02-09 10:36:50",
       "album": {
-        "name": "Clementi: Piano Sonatas",
-        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
+        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
+        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
       },
       "artists": [
         {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Donatella Failoni",
-          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
         }
       ],
-      "duration_ms": 148173,
-      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
-      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
+      "duration_ms": 176333,
+      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
+      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2024-02-09 10:36:50",
       "album": {
-        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
-        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
+        "name": "Clementi: Piano Sonatas",
+        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
         },
         {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+          "name": "Donatella Failoni",
+          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
-      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
+      "duration_ms": 148173,
+      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
+      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1299,6 +1299,30 @@
     {
       "added_at": "2024-02-09 10:36:50",
       "album": {
+        "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
+        "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "duration_ms": 119146,
+      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
+      "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
+    },
+    {
+      "added_at": "2024-02-09 10:36:50",
+      "album": {
         "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
         "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
       },
@@ -1315,26 +1339,6 @@
       "duration_ms": 85280,
       "name": "Schumann: Bunte Bl\u00e4tter, Op. 99: No. 6, Albumbl\u00e4tter III",
       "url": "https://open.spotify.com/track/5BgIxyGdmvBk044vSh6P2A"
-    },
-    {
-      "added_at": "2024-02-09 10:36:50",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1359,6 +1363,26 @@
     {
       "added_at": "2024-02-09 10:36:50",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2024-02-09 10:36:50",
+      "album": {
         "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
         "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
@@ -1379,30 +1403,6 @@
       "duration_ms": 153640,
       "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
       "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
-    },
-    {
-      "added_at": "2024-02-09 10:36:50",
-      "album": {
-        "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
-        "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        },
-        {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
-        }
-      ],
-      "duration_ms": 119146,
-      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
-      "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-02-09 10:36:50",
       "album": {
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+    },
+    {
+      "added_at": "2024-02-09 10:36:50",
+      "album": {
         "name": "Schumann 50",
         "url": "https://open.spotify.com/album/0p0cbnZyFmkv1tjrEOAQIb"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 114601,
       "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
       "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
-    },
-    {
-      "added_at": "2024-02-09 10:36:50",
-      "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2024-02-09 10:36:50",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
+    },
+    {
+      "added_at": "2024-02-09 10:36:50",
+      "album": {
         "name": "Vanhal: Symphonies, Vol. 3",
         "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
       },
@@ -1632,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
-      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
+      "duration_ms": 223493,
+      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
+      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1683,26 +1703,6 @@
       "duration_ms": 143693,
       "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
       "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
-    },
-    {
-      "added_at": "2024-02-09 10:36:50",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1820,9 +1820,9 @@
           "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
         }
       ],
-      "duration_ms": 223493,
-      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
-      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
+      "duration_ms": 304813,
+      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
+      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
     },
     {
       "added_at": "2024-02-09 10:36:50",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2024-02-09 10:36:50",
       "album": {
+        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
+        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
+      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
+    },
+    {
+      "added_at": "2024-02-09 10:36:50",
+      "album": {
         "name": "Myslivecek: Symphonies",
         "url": "https://open.spotify.com/album/2iNn6zLNV5YIakjGtE58cl"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 158000,
       "name": "Overtures For 2 Horns, 2 Oboes And Strings / Overture No. 2 In A: 2. Andante",
       "url": "https://open.spotify.com/track/4WxImfB2vIXWCibwyRQgql"
-    },
-    {
-      "added_at": "2024-02-09 10:36:50",
-      "album": {
-        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
-        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "Alexandra Whittingham",
-          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
-      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
     },
     {
       "added_at": "2024-02-09 10:36:50",

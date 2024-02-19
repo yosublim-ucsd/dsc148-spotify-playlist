@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,439 likes - 301 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,440 likes - 301 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 197 | [INNOCENT](https://open.spotify.com/track/1KIFCi8G2xun3uXACcZDZy) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM), [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [INNOCENT](https://open.spotify.com/album/4EW6GvsKJE1X40aHbOR9Fk) | 3:26 |
 | 198 | [Be Without You](https://open.spotify.com/track/2hy8VUlygF2HoKQJbkAKkn) | [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [Be Without You](https://open.spotify.com/album/4iONmkExzW0E1uyH1pmdEj) | 3:20 |
 | 199 | [Heart & Soul](https://open.spotify.com/track/61yTqIK1JeO1V6bwOeTKSb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/6sxWIQBXdPaom8CiG0IMOT) | 2:42 |
-| 200 | [Rude Love \- Live Acoustic](https://open.spotify.com/track/6qL7vsuhKpkqjKzWnFn3iM) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love \(Acoustic Versions\)](https://open.spotify.com/album/3YrwPhks1IDgK3ETB3wHNw) | 2:59 |
-| 201 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 |
+| 200 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 |
+| 201 | [Rude Love \- Live Acoustic](https://open.spotify.com/track/6qL7vsuhKpkqjKzWnFn3iM) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love \(Acoustic Versions\)](https://open.spotify.com/album/3YrwPhks1IDgK3ETB3wHNw) | 2:59 |
 | 202 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
 | 203 | [Stranger](https://open.spotify.com/track/4MUsd6bLYntVKqF1Msk5Vd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:52 |
 | 204 | [Inside Of Me \- Radio Edit](https://open.spotify.com/track/06otM0LvTEQr5tofhO3eWo) | [My Digital Enemy](https://open.spotify.com/artist/7xwN3wuAbcvsSsY4fj1iLA) | [Inside Of Me](https://open.spotify.com/album/6Ikxxt68oAMp9IS5bxmEE6) | 2:39 |
@@ -269,8 +269,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 259 | [Go\-go Girl](https://open.spotify.com/track/79g34ACMp6zEjt5Tu8TYbw) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Suburban Plaza](https://open.spotify.com/artist/3p4jVzrkk30nsU9vBu8wqm) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 3:02 |
 | 260 | [FOREVER ANYWAY](https://open.spotify.com/track/6t8IevRP0WqkrnvjVZM9FJ) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [INNOCENT](https://open.spotify.com/album/1a5UWR2OuViy3GPj71nSDX) | 3:47 |
 | 261 | [Runaway](https://open.spotify.com/track/4y4DwppW6dvTPtIt7a1y8v) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Tiffi](https://open.spotify.com/artist/6YJLGRyg8mzvDkwSUgl8nW) | [HTTP404](https://open.spotify.com/album/2mHLX4cwIZxtrISqQLo729) | 3:29 |
-| 262 | [the edge](https://open.spotify.com/track/4fY9E3t149Gxz7NI3LDyx5) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 3:38 |
-| 263 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 262 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 263 | [the edge](https://open.spotify.com/track/4fY9E3t149Gxz7NI3LDyx5) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 3:38 |
 | 264 | [Glue](https://open.spotify.com/track/4sSDywa0Qrb239NRxUJXFm) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Bartoven](https://open.spotify.com/artist/791iKkqcOaZclUe2Bpp3OT) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 3:21 |
 | 265 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 |
 | 266 | [The Flame \(Feat\. Siegal\)](https://open.spotify.com/track/0jD8NoEdV3msBb7yiuNay0) | [Messy Marv](https://open.spotify.com/artist/5QoPmqq8UfE0zsTWkM3CQD), [Siegal](https://open.spotify.com/artist/0crPGfFVQvuEi4oDF8EIbK) | [Disobayish](https://open.spotify.com/album/5L9rRqVeBmLeyv42SYQSBY) | 4:16 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 300 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 | 301 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Mjg0NzAzNzAsMDAwMDAwMDBmY2Y1YTFmZDBjNTg5NTU2ODA0YWU5YWUxNGQ2MjNjOQ==`
+Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDBiNzY2NTAyYzIxMzU2ODkxNDdlMzljN2VlNmI0YTI1Nw==`

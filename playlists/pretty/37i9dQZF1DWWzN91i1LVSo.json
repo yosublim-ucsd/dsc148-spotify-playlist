@@ -1,12 +1,12 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 124112,
+  "num_followers": 124105,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmM5NDhmNDNmZTRiZmRjMDc4OTlhNzdlMGI2ZjNiZTc3YzhjOTc2",
+  "snapshot_id": "MCxhNzcxNjg5ODJmOTlmZjc4MDE0MGQ5MTU5YzlkNzAyZjVmY2UyZDY3",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Feeling You",
-        "url": "https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H"
+        "name": "All The Light Above It Too",
+        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
       },
       "artists": [
         {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 201195,
-      "name": "Feeling You",
-      "url": "https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS"
+      "duration_ms": 210466,
+      "name": "Sunsets For Somebody Else",
+      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "All The Light Above It Too",
-        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+        "name": "Feeling You",
+        "url": "https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
         }
       ],
-      "duration_ms": 210466,
-      "name": "Sunsets For Somebody Else",
-      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
+      "duration_ms": 201195,
+      "name": "Feeling You",
+      "url": "https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 294000,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1309,6 +1309,26 @@
       "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "loml",
+        "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "HOHYUN",
+          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
+        }
+      ],
+      "duration_ms": 201908,
+      "name": "loml",
+      "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Can't See Straight (Acoustic)",
@@ -1357,26 +1377,6 @@
       "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "loml",
-        "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "HOHYUN",
-          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
-        }
-      ],
-      "duration_ms": 201908,
-      "name": "loml",
-      "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Meet Me on the Edge of Our Ruin",
@@ -1407,6 +1407,22 @@
       "duration_ms": 205395,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "DIM",
+        "url": "https://open.spotify.com/album/1kPkhN0iKwcktJ2kUExVO8"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 271518,
+      "name": "DIM",
+      "url": "https://open.spotify.com/track/45uf7Rx6MoRhJBkncNysZN"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Crying in Cars",
         "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "DIM",
-        "url": "https://open.spotify.com/album/1kPkhN0iKwcktJ2kUExVO8"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 271518,
-      "name": "DIM",
-      "url": "https://open.spotify.com/track/45uf7Rx6MoRhJBkncNysZN"
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/3LN3dLb9gUpanpriaqagMU"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1651,22 +1667,6 @@
       "duration_ms": 223453,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/3LN3dLb9gUpanpriaqagMU"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,664,522 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,664,847 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 28 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 |
 | 29 | [Pelikula](https://open.spotify.com/track/663vZfMh88Uo2bfTx6wiE4) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4Ufwb1ZIfcSK4GKGzfZipb) | 3:24 |
 | 30 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
-| 31 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
-| 32 | [Para Sa Sarili](https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Mood Swing](https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU) | 4:22 |
+| 31 | [Para Sa Sarili](https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Mood Swing](https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU) | 4:22 |
+| 32 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
 | 33 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 |
 | 34 | [Kundiman](https://open.spotify.com/track/6Al0RruBBzC6ft8u1p78hG) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:39 |
 | 35 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 37 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 |
 | 38 | [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 |
 | 39 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 |
-| 40 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
+| 40 | [Mundo](https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl) | 5:49 |
 
-Snapshot ID: `MCxmODEyZjMwNzFjMDM4Nzg4MWE0MGQzODhjYTZiYTNhZDBlOTNhNGM1`
+Snapshot ID: `MCw3NzgxMTQ0NzE2OGVmNDVjNmZkZTA3NTdhODY0NTQwMGJiNWMzMTc0`

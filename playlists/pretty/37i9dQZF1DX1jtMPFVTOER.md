@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,326 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,361 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Kanazawa](https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Hotel San Claudio](https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu) | 3:54 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCxhMWY2NTg2YmM5ZDIyOWQzMTRmZTdkNWE5ZGY0MmE5OGNiMWZiMTU2`
+Snapshot ID: `MCxjZjI2ODFkYWE1ZTE0OTViNmQ3N2VmYzFiYmI0OTA3ZDM2YTQ2ZDQy`

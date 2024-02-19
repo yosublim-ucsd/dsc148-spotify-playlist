@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,359 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,495 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 |
 | 2 | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w) | 2:45 |
 | 3 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
-| 4 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
+| 4 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
 | 5 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
 | 6 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 7 | [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 74 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 | 75 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 
-Snapshot ID: `MCw2MjEzNTdkZGQ1MTU1MDRmYzViMDUwNmZjNTlhZWZiMmQ5ZTI3MWY0`
+Snapshot ID: `MCxkOWUxMzBkNDIwMzk5ZjY2MDk5YWQ0NjYxMWFjNTdjZjU0YWRmMTE2`

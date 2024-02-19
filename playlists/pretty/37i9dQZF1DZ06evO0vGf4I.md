@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,397,275 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,397,808 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 44 | [Dark Knight Dummo \(feat\. Travis Scott\)](https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 4:16 |
 | 45 | [Maria I'm Drunk \(feat\. Justin Bieber & Young Thug\)](https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:49 |
 | 46 | [Ghostface Killers \(feat\. Travis Scott\)](https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 4:28 |
-| 47 | [Aye \(feat\. Travis Scott\)](https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:27 |
-| 48 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 |
+| 47 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 |
+| 48 | [Aye \(feat\. Travis Scott\)](https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:27 |
 | 49 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 |
 | 50 | [Only 1 \(Interlude\) \(with Travis Scott\)](https://open.spotify.com/track/4cEqoGTqPRZy76Yl3ymj3V) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 1:20 |
 | 51 | [You \(feat\. Travis Scott\)](https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:33 |
 
-Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBmZjU1NTk4Njc0YzEwY2JkNDE1ZGY0ZDRhODA0MTFjNQ==`
+Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA4NGJhOGIzMWE5YTczNzAxN2ZiZmExNTc1OWRmZWY0MQ==`

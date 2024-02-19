@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 
 > All 80s, all ballads\. Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,768 likes - 85 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,902 likes - 85 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 15 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
 | 16 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 17 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
-| 18 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
-| 19 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 18 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 19 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
 | 20 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
 | 21 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
 | 22 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 68 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
 | 69 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
 | 70 | [Live to Tell](https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:51 |
-| 71 | [Ever Since the World Began](https://open.spotify.com/track/2yx6DUrIIGXSAwrvfBrTKQ) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 3:42 |
+| 71 | [Meet Me Half Way \- From "Over The Top" Soundtrack](https://open.spotify.com/track/5CdX4HXMRxyldTVxXDrzSA) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Back To Avalon](https://open.spotify.com/album/5WtMgGIexFuhipmaqUMi3Z) | 3:39 |
 | 72 | [I Won't Hold You Back](https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:53 |
-| 73 | [Meet Me Half Way \- From "Over The Top" Soundtrack](https://open.spotify.com/track/5CdX4HXMRxyldTVxXDrzSA) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Back To Avalon](https://open.spotify.com/album/5WtMgGIexFuhipmaqUMi3Z) | 3:39 |
+| 73 | [Ever Since the World Began](https://open.spotify.com/track/2yx6DUrIIGXSAwrvfBrTKQ) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 3:42 |
 | 74 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
 | 75 | [Just Once](https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:33 |
 | 76 | [I Don't Have the Heart](https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [It's Real](https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc) | 4:13 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 84 | [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:26 |
 | 85 | [That's What Friends Are For \(with Elton John, Gladys Knight & Stevie Wonder\)](https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Greatest Hits 1979\-1990](https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo) | 4:16 |
 
-Snapshot ID: `MCxmOWZiYTMwYTc4ZGUxODQxNjM3MTQ0MDY4ZDFkYzliNDc5ZTA0YTdl`
+Snapshot ID: `MCw5ZGFlMjU4MjYxYzliMGI4NTFjMmIyMWFlZWIxZjI3YTE5OTJjNzEx`
