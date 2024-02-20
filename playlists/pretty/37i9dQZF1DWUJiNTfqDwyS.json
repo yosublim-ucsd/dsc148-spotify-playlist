@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 363127,
+  "num_followers": 363191,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWE4ZjE4MDlhYjhjZDc5NDAxY2U4MWU3MDdjNjE3ZjE1MWE4OTAx",
+  "snapshot_id": "MCw5NjI4OTQ1NDMyNDM3MTUxYmVjMzY2ZWI0MTdiYTIxNDdiYzM0NzBi",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 366400,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
         "name": "Helter Skelter",
         "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 215937,
       "name": "Helter Skelter",
       "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 366400,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
         "name": "Symbol Of Life",
         "url": "https://open.spotify.com/album/1lvVqodR4aT3R8WemeIgDN"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 258053,
       "name": "Shout 2000",
       "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
     },
     {
       "added_at": "2023-08-23 14:56:37",

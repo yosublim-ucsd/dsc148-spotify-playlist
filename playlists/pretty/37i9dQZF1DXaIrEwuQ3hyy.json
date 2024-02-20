@@ -1,12 +1,12 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1035475,
+  "num_followers": 1035383,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTc4NGU3ZGE5MGI4ZTczYjIwM2RlNjM3NjdkMjEzZDM4NDYxYzk0",
+  "snapshot_id": "MCw4N2VhZTg2YWY3YjIyN2Q5YjFkOTZkYzYwZWMxMGY2MjE4ZTM4YzFl",
   "tracks": [
     {
       "added_at": "2024-02-09 15:18:38",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196730,
+      "name": "Billie Bossa Nova",
+      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2024-02-09 15:18:38",
+      "album": {
         "name": "Snooze (Acoustic) (feat. Justin Bieber)",
         "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2024-02-09 15:18:38",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Billie Bossa Nova",
-      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
     },
     {
       "added_at": "2024-02-09 15:18:38",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
-      },
-      "artists": [
-        {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Little Life",
-      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
-    },
-    {
-      "added_at": "2024-02-09 15:18:38",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
-        "name": "Gr\u00fcne Augen l\u00fcgen nicht",
-        "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
         }
       ],
-      "duration_ms": 179140,
-      "name": "Gr\u00fcne Augen l\u00fcgen nicht",
-      "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
+      "duration_ms": 270315,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
     },
     {
       "added_at": "2024-02-09 15:18:38",
@@ -519,6 +503,22 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
+        "name": "Gr\u00fcne Augen l\u00fcgen nicht",
+        "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Gr\u00fcne Augen l\u00fcgen nicht",
+      "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
+    },
+    {
+      "added_at": "2024-02-09 15:18:38",
+      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 235506,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
-    },
-    {
-      "added_at": "2024-02-09 15:18:38",
-      "album": {
-        "name": "1000 Mal",
-        "url": "https://open.spotify.com/album/6TEMyjBHnYZlUseeszRv1g"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "1000 Mal",
-      "url": "https://open.spotify.com/track/3cO96muC5c7P2mJURgYFBS"
     },
     {
       "added_at": "2024-02-09 15:18:38",
@@ -571,6 +551,26 @@
       "duration_ms": 157241,
       "name": "lavender (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7"
+    },
+    {
+      "added_at": "2024-02-09 15:18:38",
+      "album": {
+        "name": "1000 Mal",
+        "url": "https://open.spotify.com/album/6TEMyjBHnYZlUseeszRv1g"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 152586,
+      "name": "1000 Mal",
+      "url": "https://open.spotify.com/track/3cO96muC5c7P2mJURgYFBS"
     },
     {
       "added_at": "2024-02-09 15:18:38",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
-        "name": "Summer Someday",
-        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
-      },
-      "artists": [
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
-    },
-    {
-      "added_at": "2024-02-09 15:18:38",
-      "album": {
         "name": "Know the Night",
         "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "added_at": "2024-02-09 15:18:38",
+      "album": {
+        "name": "Summer Someday",
+        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
     },
     {
       "added_at": "2024-02-09 15:18:38",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
-        "name": "she goes",
-        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "she goes",
-      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
-    },
-    {
-      "added_at": "2024-02-09 15:18:38",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2024-02-09 15:18:38",
+      "album": {
+        "name": "she goes",
+        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "she goes",
+      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
     },
     {
       "added_at": "2024-02-09 15:18:38",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
+        "name": "Stay cool",
+        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 207982,
+      "name": "Stay cool",
+      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
+    },
+    {
+      "added_at": "2024-02-09 15:18:38",
+      "album": {
         "name": "Two Thirds",
         "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
-        "name": "Stay cool",
-        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 207982,
-      "name": "Stay cool",
-      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
-    },
-    {
-      "added_at": "2024-02-09 15:18:38",
-      "album": {
         "name": "Amniotic (Deluxe Version)",
         "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
       },
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-02-09 15:18:38",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
       },
       "artists": [
         {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
+      "duration_ms": 252413,
+      "name": "Samara",
+      "url": "https://open.spotify.com/track/1uAvKraqOWgoCt8bwce9e9"
     }
   ],
   "unique_name": "Winter Chillout",

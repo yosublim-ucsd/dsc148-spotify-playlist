@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Kucka, Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,673 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,671 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Peluca](https://open.spotify.com/track/33lOblfXc6se38LlrJDH3P) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b), [Aaar](https://open.spotify.com/artist/0TqJNiXUcTs5meyOUHD2pb) | [PERO LIKE](https://open.spotify.com/album/3vcrVihQrt6Rfuwc3ezD2H) | 3:02 |
 | 100 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 |
 
-Snapshot ID: `MCw2OGZlM2FjNTU2OWI5YmExNDljZjI5Y2U3NTEyZjViOWEyNDAwMDg5`
+Snapshot ID: `MCwyOTgyZTA0ZWU1MTQ1ZmU1ZjMwZTFhNTJiODU4ZjM2MzhlMGNhMTUy`

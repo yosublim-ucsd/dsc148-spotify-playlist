@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 108660,
+  "num_followers": 108703,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmNjYzQwNGE0NmYyOTNiMzMwNjkyYTQ0NWIzOGY3YjQyNTJkY2I1",
+  "snapshot_id": "MCxhYWYwMDA2ZTM2MWM5MDg1M2YwMjJlNDQ4YzBkZTlhY2VjN2I5NWU5",
   "tracks": [
     {
       "added_at": "2024-02-01 19:36:52",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "No S\u00e9 Si Es Baires O Madrid",
-        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 237946,
-      "name": "11 y 6",
-      "url": "https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv"
+      "duration_ms": 225120,
+      "name": "Te Hacen Falta Vitaminas - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
+        "name": "No S\u00e9 Si Es Baires O Madrid",
+        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Te Hacen Falta Vitaminas - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
+      "duration_ms": 237946,
+      "name": "11 y 6",
+      "url": "https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -451,6 +451,22 @@
       "duration_ms": 368743,
       "name": "Paisano de Hurlingham",
       "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -531,22 +547,6 @@
       "duration_ms": 442826,
       "name": "Pensar en Nada",
       "url": "https://open.spotify.com/track/1kfht0wfcJrQwuCtqzMzfH"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Botella (En Vivo)",
-        "url": "https://open.spotify.com/album/1todV49PshzA1zQckYe0KR"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 277875,
-      "name": "Botella - En Vivo",
-      "url": "https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -771,6 +755,38 @@
       "duration_ms": 247613,
       "name": "La Rueda M\u00e1gica - En Vivo",
       "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 291139,
+      "name": "Banda de Garage",
+      "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+        "name": "Botella (En Vivo)",
+        "url": "https://open.spotify.com/album/1todV49PshzA1zQckYe0KR"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
+      "duration_ms": 277875,
+      "name": "Botella - En Vivo",
+      "url": "https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -823,22 +839,6 @@
       "duration_ms": 341626,
       "name": "Traicionero - En Vivo en el Estadio \u00danico",
       "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 291139,
-      "name": "Banda de Garage",
-      "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Solito Vas (En Vivo Movistar Arena)",
-        "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 234571,
-      "name": "Solito Vas - En Vivo Movistar Arena",
-      "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "El Rock De Mi Vida",
         "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 263573,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Solito Vas (En Vivo Movistar Arena)",
+        "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 234571,
+      "name": "Solito Vas - En Vivo Movistar Arena",
+      "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1111,6 +1111,38 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
+        "name": "En Vivo-Vol.2",
+        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Me Puedo Programar (En Vivo",
+      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
         "name": "Otra Noche en la Luna (Episodio I)",
         "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
@@ -1147,22 +1179,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "En Vivo-Vol.2",
-        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Me Puedo Programar (En Vivo",
-      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 381826,
       "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
       "url": "https://open.spotify.com/track/1i3tcCQHDYa1htkkkqmpUS"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1279,22 +1279,70 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+        "name": "En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/1u6H3heR03PvMNWvCnasex"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
         },
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+      "duration_ms": 236720,
+      "name": "\u00bfPor Qu\u00e9 Ser\u00e1 Que Dios No Me Quiere? - En Vivo",
+      "url": "https://open.spotify.com/track/0ARVb977xP9T7NWHK0xvzS"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 331453,
+      "name": "Sacrificio y Rock and Roll",
+      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Desde Lejos No Se Ve",
+        "url": "https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 236680,
+      "name": "Desde Lejos No Se Ve - En Vivo",
+      "url": "https://open.spotify.com/track/0dQnYqZuIFrj3Sn38Fjg7Q"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1319,54 +1367,22 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
       },
       "artists": [
         {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 331453,
-      "name": "Sacrificio y Rock and Roll",
-      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
-        "name": "En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/1u6H3heR03PvMNWvCnasex"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         },
         {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 236720,
-      "name": "\u00bfPor Qu\u00e9 Ser\u00e1 Que Dios No Me Quiere? - En Vivo",
-      "url": "https://open.spotify.com/track/0ARVb977xP9T7NWHK0xvzS"
+      "duration_ms": 268960,
+      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1395,8 +1411,8 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Desde Lejos No Se Ve",
-        "url": "https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz"
+        "name": "Fantasmas Pel\u00e9andole al Viento",
+        "url": "https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx"
       },
       "artists": [
         {
@@ -1404,9 +1420,9 @@
           "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 236680,
-      "name": "Desde Lejos No Se Ve - En Vivo",
-      "url": "https://open.spotify.com/track/0dQnYqZuIFrj3Sn38Fjg7Q"
+      "duration_ms": 414120,
+      "name": "Marad\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/7C2OKAL0Yh6VXjZe4MF4Ar"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "22/12/18 Flores (En Vivo)",
         "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 250538,
       "name": "Ay, Qu\u00e9 Dios Boludo",
       "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Fantasmas Pel\u00e9andole al Viento",
-        "url": "https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 414120,
-      "name": "Marad\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/7C2OKAL0Yh6VXjZe4MF4Ar"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "Vivire Viajando",
         "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Vivo Paranoico",
-        "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
-      },
-      "artists": [
-        {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Carol - Vivo",
-      "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "En Vivo en el Teatro Coliseo",
         "url": "https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 487597,
       "name": "\u00bfQu\u00e9 Tal? - En Vivo",
       "url": "https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Vivo Paranoico",
+        "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Carol - Vivo",
+      "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Una Vez M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        },
-        {
-          "name": "Juanse",
-          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
-        }
-      ],
-      "duration_ms": 289074,
-      "name": "Una Vez M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "Sortilegio de Arrabal (En Vivo)",
         "url": "https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Una Vez M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "duration_ms": 289074,
+      "name": "Una Vez M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs"
     }
   ],
   "unique_name": "Vivo de Rock",

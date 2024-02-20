@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 23 songs - 1 hr 16 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 28 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,10 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 21 | [Self Esteem](https://open.spotify.com/track/3t4OeuZLxYUKjWgCaZMFDP) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Can't Maintain](https://open.spotify.com/album/0nm6MlBgiFUET6shfchd8l) | 1:36 |
 | 22 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 23 | [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 |
+| 24 | [Happy Pills](https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Happy Pills](https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1) | 3:23 |
+| 25 | [I'm Not Ok](https://open.spotify.com/track/17weS3aO2oaGYJ9Q9yM56X) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Kids In The Night](https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH) | 3:01 |
+| 26 | [Always Tired](https://open.spotify.com/track/5gRJEKibCgEHT0EyTzCCNN) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Always Tired](https://open.spotify.com/album/1uwuVHWQtLlheh6WxKnjDP) | 3:03 |
+| 27 | [Where Do I Sign?](https://open.spotify.com/track/5Myf2whTzO5haXrfeisXG8) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Are We Having Fun?](https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g) | 3:11 |
+| 28 | [Problems](https://open.spotify.com/track/2GxzBF4jpZRYDzJO6A32d6) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Problems](https://open.spotify.com/album/4lBNSreUSPpeHYRti8gjee) | 3:22 |
 
-Snapshot ID: `MjYsN2JiYjU2ZTM4ODBkNzM1OTE4NWViN2QyM2Q5MTEyMGFhZWFjNzJlMA==`
+Snapshot ID: `MzEsMTBmOWQzMzM5MTEyMzkwZWRlMzJhYTJmMjFiZWRlY2U5MmY2MDA1NQ==`

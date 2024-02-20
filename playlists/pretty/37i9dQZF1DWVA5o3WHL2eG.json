@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: ana\u00efs",
-  "num_followers": 33007,
+  "num_followers": 33005,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjdlZWNjMTcyZWZjZDNlMDk0MjgxNjdiYjVkODcwN2RkNWQyYzI5",
+  "snapshot_id": "MCwyZmM1OWM0OTA5NzgxMmZmZjI1MmJmYmMxY2VmOTFlZmU0YjMzZWRl",
   "tracks": [
     {
       "added_at": "2024-02-14 00:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Lovesong",
-        "url": "https://open.spotify.com/album/7kQJJ7WcmsHmuq7tJsTL3t"
-      },
-      "artists": [
-        {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
-        }
-      ],
-      "duration_ms": 130157,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/2Cog6WTjyfEqZEj0eecGeS"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "DLIT (die Liebe ist tot)",
         "url": "https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 166016,
       "name": "DLIT (die Liebe ist tot)",
       "url": "https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/7kQJJ7WcmsHmuq7tJsTL3t"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        }
+      ],
+      "duration_ms": 130157,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/2Cog6WTjyfEqZEj0eecGeS"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "F\u00fchrerschein",
-        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 242671,
-      "name": "F\u00fchrerschein",
-      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Unterwegs",
         "url": "https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 180689,
       "name": "Unterwegs",
       "url": "https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "F\u00fchrerschein",
+        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 242671,
+      "name": "F\u00fchrerschein",
+      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "MONEY BAGS",
-        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
-      },
-      "artists": [
-        {
-          "name": "TRINA",
-          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
-        }
-      ],
-      "duration_ms": 150167,
-      "name": "MONEY BAGS",
-      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "lolita",
         "url": "https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 154224,
       "name": "lolita",
       "url": "https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "MONEY BAGS",
+        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
+      },
+      "artists": [
+        {
+          "name": "TRINA",
+          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+        }
+      ],
+      "duration_ms": 150167,
+      "name": "MONEY BAGS",
+      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "oh my messy mind",
-        "url": "https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt"
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI"
       },
       "artists": [
         {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
         }
       ],
-      "duration_ms": 167233,
-      "name": "oh my messy mind",
-      "url": "https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV"
+      "duration_ms": 176111,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "MONSTER",
-        "url": "https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "MONSTER",
-      "url": "https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Parasol",
         "url": "https://open.spotify.com/album/6SJeS83n9HgC4nmtwHyTjE"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/19TnzXcSCLzpSGtS1CzsOW"
+        "name": "oh my messy mind",
+        "url": "https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt"
       },
       "artists": [
         {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
         }
       ],
-      "duration_ms": 163933,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/3LgHqvm344AweV924Zcgd9"
+      "duration_ms": 167233,
+      "name": "oh my messy mind",
+      "url": "https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 185624,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/5rGrH9RbXJN2TggEhHPkWW"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/19TnzXcSCLzpSGtS1CzsOW"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/3LgHqvm344AweV924Zcgd9"
     },
     {
       "added_at": "2024-02-14 00:00:00",

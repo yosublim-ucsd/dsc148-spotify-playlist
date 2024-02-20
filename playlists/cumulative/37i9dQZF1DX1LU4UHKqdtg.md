@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: MAX, HUH YUNJIN
 
-912 songs - 2 day 1 hr 41 min
+913 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 | 2022-07-28 | 2022-10-12 |
 | [DUMB DUMB](https://open.spotify.com/track/6HAbPNraOVHwShFFtRVTik) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/1aFBAMZbMPfzXYGjANINvw) | 2:27 | 2021-12-23 | 2022-01-04 |
 | [Dystopia](https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. Ⅵ\. Mujin](https://open.spotify.com/album/5MtxPx9oyiXDH6x5r646Go) | 3:34 | 2023-03-24 | 2023-04-26 |
+| [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-19 |  |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-01 | 2022-06-14 |
 | [Eclipse](https://open.spotify.com/track/0yhSuVJ4QGrFetP7cO4Y8a) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [Alter Ego](https://open.spotify.com/album/65EPSaLb7zDDiTt6RVIbfj) | 3:14 | 2021-12-23 | 2022-01-21 |
 | [ECLIPSE](https://open.spotify.com/track/5blarPVSwhHNVB5aFMr4fL) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst), [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [ECLIPSE](https://open.spotify.com/album/77vY8TKGpFazJpKSUQSjyD) | 3:21 | 2023-06-27 | 2023-08-01 |

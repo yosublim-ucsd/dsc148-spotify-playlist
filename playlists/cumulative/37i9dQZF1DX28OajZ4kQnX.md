@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-148 songs - 8 hr 30 min
+149 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Une belle journée pour vivre](https://open.spotify.com/track/5dZcYOYKqhbrP9Eb52xQAX) | [Rox](https://open.spotify.com/artist/3ZMTLiH3o8SiHy3taw9h0X), [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [FuegoFlex](https://open.spotify.com/artist/7qvZ0ZHgSmIlKnd2yabQUk), [Krapitaine Cochet](https://open.spotify.com/artist/6Q6FqTJ3mNMiVyO82JVcx0) | [Mon nom est Cosmos](https://open.spotify.com/album/6mhSEkOkh1tE3AfIKjJQZe) | 3:45 | 2024-01-12 |  |
 | [Vexed](https://open.spotify.com/track/0rN3AzAnx0SedfkB1ZzT5g) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/74JtkXieAwoCrvklPedFsi) | 2:16 | 2023-02-03 | 2023-10-12 |
 | [Vexed](https://open.spotify.com/track/7az3DTSQRpG2cgaG4puG6O) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/4Qe18ssZaa6QqbSoKFsmr1) | 2:16 | 2023-09-11 |  |
-| [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 | 2023-02-03 |  |
+| [Voices & Vices](https://open.spotify.com/track/4WVz4SvwDGOpfFjKYSs1Rv) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2oPdxzadZjbbH0V8U5waPk) | 2:50 | 2024-01-12 |  |
+| [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 | 2023-02-03 | 2024-02-20 |
 | [Waguan](https://open.spotify.com/track/05zhESBwuLZQwSGVs1sYY0) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Laylizzy](https://open.spotify.com/artist/7b2v2a92dpEbW4PJUSQCml) | [Strength In Numbers](https://open.spotify.com/album/28volG5cNQEUI0U8CdD6DF) | 4:57 | 2023-09-01 | 2023-09-12 |
 | [Walalahoi](https://open.spotify.com/track/3DLbC2AjEcqCvQux6b0Fns) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Izzo Business](https://open.spotify.com/artist/336vBcTCmzdcvoihntCJza) | [The Chosen](https://open.spotify.com/album/6xOVc2v6gfvktg2HcjAwZo) | 3:48 | 2023-09-01 | 2023-09-12 |
 | [Welcome to Ug \(Poa Remix\)](https://open.spotify.com/track/3VLLom5tY6D7vTMmJQz4oN) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Giovani Kiyingi](https://open.spotify.com/artist/72IhajuC3cvuHWwQdkJrYP), [Ebrahim Soul'O](https://open.spotify.com/artist/7C1uPFQwrkX5D88Gsc3jhe), [Agami Tonny](https://open.spotify.com/artist/2ntQ7o9imq9REY4by45eGH), [Poa](https://open.spotify.com/artist/2VCjA3p1oisG2Icg3xImMH) | [Welcome to Ug \(Poa Remix\)](https://open.spotify.com/album/6X0McZ1kH41i53IR9IjhFf) | 3:35 | 2022-09-08 |  |

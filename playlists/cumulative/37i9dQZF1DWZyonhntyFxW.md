@@ -4,13 +4,14 @@
 
 > اسمك فاشل بين البراكتسسس، بلعب بيهم يسطى ركتسسس، بكتفهم زي جكتسسس غلاف: أبيوسف
 
-286 songs - 14 hr 27 min
+287 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 | 2023-08-17 |  |
 | [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 | 2023-08-17 |  |
 | [3azraeel](https://open.spotify.com/track/3j5XyebVOoFAG7i2b5rAub) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Wa7ed Wa7ed](https://open.spotify.com/album/72ZPz1ikH0Ub2Sjtx78S4u) | 2:44 | 2023-06-15 | 2023-08-18 |
+| [3esabat](https://open.spotify.com/track/0yvG6cDzjt7EtJNjYspBgA) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:52 | 2024-02-19 |  |
 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 | 2024-02-16 |  |
 | [3latol](https://open.spotify.com/track/3BW4QtHR5ExFrgD1YzcvCx) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [3latol](https://open.spotify.com/album/4dMol51wkB8izKa8Z9AlOx) | 3:08 | 2022-05-10 | 2022-08-24 |
 | [7ABAYBY](https://open.spotify.com/track/6pcftuLAqLrKmMP3WJwhqJ) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [7ABAYBY](https://open.spotify.com/album/3azkh7kw6gTSaIbpHdr4bV) | 2:36 | 2023-05-25 | 2023-06-04 |
@@ -36,7 +37,7 @@
 | [Ana w Zmely](https://open.spotify.com/track/6o187GRw3avGumhmhiMgM8) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Ana w Zmely](https://open.spotify.com/album/0X0i3G96Ajte0wpha1I4Hj) | 2:58 | 2023-01-16 | 2023-08-18 |
 | [Ana Wingii](https://open.spotify.com/track/776sud6Dt8OnUuRcQnmKe8) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Mangesto](https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5) | 1:58 | 2023-08-24 | 2023-10-01 |
 | [Ansak Wansahom](https://open.spotify.com/track/1IiDvZtAgkNHsjgowc42eT) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [El Kebir](https://open.spotify.com/album/3OI8G2Gclk9WFXo4JPnzNf) | 3:01 | 2023-05-16 | 2023-06-24 |
-| [Askot Khales](https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:50 | 2023-07-26 |  |
+| [Askot Khales](https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:50 | 2023-07-26 | 2024-02-20 |
 | [Baba](https://open.spotify.com/track/0HjAtdzoK8MsULTU5VwyFT) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:53 | 2022-09-13 | 2022-12-24 |
 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 | 2024-01-28 |  |
 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 | 2022-11-07 | 2023-05-17 |
@@ -188,7 +189,7 @@
 | [OPPS](https://open.spotify.com/track/1UTRr55P3GJIk6A9V4p4Ad) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [OPPS](https://open.spotify.com/album/6zc7KGo3ghbc7Mn5WE8ght) | 2:12 | 2023-01-26 | 2023-05-12 |
 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 | 2024-02-16 |  |
 | [QESA HAZENA](https://open.spotify.com/track/2mBLOKrLsZbVfFKWjKadqe) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:07 | 2022-05-10 | 2022-08-24 |
-| [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 | 2022-05-16 |  |
+| [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 | 2022-05-16 | 2024-02-20 |
 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 | 2023-09-06 |  |
 | [ROCKSTAR](https://open.spotify.com/track/6cjGkkdBNvkcFeKk1TQ1jd) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:22 | 2023-05-11 | 2023-08-18 |
 | [Roo7](https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Cabina](https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp) | 3:09 | 2022-09-13 | 2022-12-19 |

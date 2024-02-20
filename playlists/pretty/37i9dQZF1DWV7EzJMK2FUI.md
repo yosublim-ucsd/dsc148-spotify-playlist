@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448,027 likes - 794 songs - 1 day 22 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448,985 likes - 794 songs - 1 day 22 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 23 | [I'll Never Smile Again](https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Never Smile Again](https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz) | 2:46 |
 | 24 | [Bluesette](https://open.spotify.com/track/5sF4nEG1dZLBnODQWxGhUP) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Bluesette](https://open.spotify.com/album/3WxNprVVDsnLaayEQI3PFX) | 3:25 |
 | 25 | [Hope Street](https://open.spotify.com/track/5HGFH6PbfBWcetcRgUHHKK) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Hope Street](https://open.spotify.com/album/5mcyj4rb0b0v54jUK9EOcR) | 2:28 |
-| 26 | [Elegy](https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY) | [Buss Quartet](https://open.spotify.com/artist/1OfER2aiowHuG93YnU0w7I) | [Elegy](https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj) | 3:51 |
+| 26 | [Elegy](https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Elegy](https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj) | 3:51 |
 | 27 | [Lost But Found](https://open.spotify.com/track/7IJKCq5Xt8nC6xI3ZDXwJo) | [Nathan Hill Trio](https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz) | [Lost But Found](https://open.spotify.com/album/1fvZrbpTV0PrBvKAUqLcRT) | 3:18 |
 | 28 | [Wind Dancer](https://open.spotify.com/track/32wWxPaGYRbkHHLI3bqoYz) | [Dreamland](https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj) | [Wind Dancer](https://open.spotify.com/album/32FSarmIZSQXG34jvKX324) | 3:01 |
 | 29 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 73 | [Anything Valuable](https://open.spotify.com/track/5a7Q73tRHa4y1qXPT1VCdC) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Anything Valuable](https://open.spotify.com/album/7aDY8EF18etZAMxa1Rm2R7) | 3:46 |
 | 74 | [I don't like small talk](https://open.spotify.com/track/29hZHB8paxWSssuEpAjbut) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [I don't like small talk](https://open.spotify.com/album/509eYk6Pa9XObKTY63dWQs) | 3:33 |
 | 75 | [You playin' me?](https://open.spotify.com/track/1A3oYJ8iMpHrvPsgxgSnNk) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [You playin' me?](https://open.spotify.com/album/6hUefZQvQZFz6lQQ9RveOf) | 3:04 |
-| 76 | [Mystic Melancholy](https://open.spotify.com/track/7489e1ULwkoljHeHUFUssi) | [Buss Quartet](https://open.spotify.com/artist/1OfER2aiowHuG93YnU0w7I) | [Mystic Melancholy](https://open.spotify.com/album/3fgiQHp4OHLbjkbavGv9Wm) | 3:42 |
+| 76 | [Mystic Melancholy](https://open.spotify.com/track/7489e1ULwkoljHeHUFUssi) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Mystic Melancholy](https://open.spotify.com/album/3fgiQHp4OHLbjkbavGv9Wm) | 3:42 |
 | 77 | [Heartstrings](https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Heartstrings](https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx) | 2:41 |
 | 78 | [How Long Have I Waited?](https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Bittersweet](https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5) | 3:11 |
 | 79 | [Accidently On Purpose](https://open.spotify.com/track/6Iph7VLWk26M9A1URCSSur) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Accidently On Purpose](https://open.spotify.com/album/2QRYJ2dDOuVtmmq64TSHph) | 2:57 |
@@ -803,4 +803,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 793 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 |
 | 794 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 |
 
-Snapshot ID: `MCw2ODJlY2Y4MWU3M2RiODRmNTAzMDk1ZWIwMjZmNTEzM2M5YTYwZjU4`
+Snapshot ID: `MCxiYzkzZDA2YTYxYWY1MzViOTRmNzZkZDU1MWM4NmUwNWM1ODljMmQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Karol G y Tiesto
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,514 likes - 56 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,529 likes - 56 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [me mudé pa' ph <3](https://open.spotify.com/track/2qxVV8sYLD4JwPdTUR1kO1) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Bathul](https://open.spotify.com/artist/22dpVJKjyltqfokaGYbMpK) | [me mudé pa' ph <3](https://open.spotify.com/album/54VzSRO2HBLca1SdNS5AQE) | 2:51 |
 | 56 | [Lua](https://open.spotify.com/track/1iilEnhis2SZrqGdcjKOY5) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Lua \(Boiadeira Internacional EP.4\)](https://open.spotify.com/album/4hy4Wsbl0nWmAWMdp46OHV) | 3:26 |
 
-Snapshot ID: `MCwxM2NlYjYzOWMwNzcxOTc2ZWQ3OWViMDYwZTA5NWM5Zjc5YTE2YTli`
+Snapshot ID: `MCwwZDg2ZjI4ODBlYzFkNTc4MDFkNmMzMGQ3YWQyNzY2ZGM4ZmUyYjNj`

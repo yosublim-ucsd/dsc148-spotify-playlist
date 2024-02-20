@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945896,
+  "num_followers": 945960,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWU4MzAwZWIwMGVjYWU0MjY5YjQzNjk0NTFhMzRkYmZhMzE1NmI0",
+  "snapshot_id": "MCw0YzcwZTQ2ZDkwZGE4NzFiNzhjMjFkMGE1YjY3ZGY5OTI5MGUyNDZj",
   "tracks": [
     {
       "added_at": "2024-01-05 14:31:40",
@@ -227,6 +227,62 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "Propaganda - Ao Vivo",
+      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "S de Saudade",
+        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edza & Maur\u00edlio",
+          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "S de Saudade",
+      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
         "name": "Graveto (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
       },
@@ -263,42 +319,6 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        },
-        {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "Ao Vivo No Ibirapuera",
-        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 186379,
-      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
-      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
         "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
@@ -311,74 +331,6 @@
       "duration_ms": 234961,
       "name": "Largado \u00c0s Tra\u00e7as - Ao Vivo",
       "url": "https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "Propaganda - Ao Vivo",
-      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "S de Saudade",
-        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edza & Maur\u00edlio",
-          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "S de Saudade",
-      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 168172,
-      "name": "Bem Pior Que Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/4UANYptjv2kpV6IY7IjXoJ"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 163089,
-      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -403,18 +355,18 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
       },
       "artists": [
         {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 313266,
-      "name": "Caso Indefinido - Ao Vivo",
-      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+      "duration_ms": 186379,
+      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
+      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -435,34 +387,18 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
         }
       ],
-      "duration_ms": 199363,
-      "name": "Bebida Na Ferida - Ao Vivo",
-      "url": "https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "Realidade - Ao Vivo Em Manaus",
-        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -499,6 +435,54 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
+        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 168172,
+      "name": "Bem Pior Que Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4UANYptjv2kpV6IY7IjXoJ"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 199363,
+      "name": "Bebida Na Ferida - Ao Vivo",
+      "url": "https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 163089,
+      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
       },
@@ -511,38 +495,6 @@
       "duration_ms": 187118,
       "name": "Eu, Voc\u00ea, O Mar e Ela",
       "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "Ao Vivo No Ibirapuera",
-        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 194580,
-      "name": "Briga Feia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7bukHRNgGLRySTJEVvLoIR"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 190083,
-      "name": "Ciumeira - Ao Vivo",
-      "url": "https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -563,6 +515,22 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
+        "name": "Live In London - At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "O Que \u00c9 Que Tem",
+      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -579,18 +547,18 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "Live In London - At The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 215213,
-      "name": "O Que \u00c9 Que Tem",
-      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
+      "duration_ms": 194580,
+      "name": "Briga Feia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bukHRNgGLRySTJEVvLoIR"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -611,6 +579,22 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
+        "name": "Realidade - Ao Vivo Em Manaus",
+        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -623,6 +607,38 @@
       "duration_ms": 191866,
       "name": "Contram\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "MORENA",
+        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 193221,
+      "name": "MORENA",
+      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 165074,
+      "name": "Na Conta Da Loucura - Ao Vivo",
+      "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "MORENA",
-        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 193221,
-      "name": "MORENA",
-      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
         "name": "Como. Sempre Feito. Nunca (ao Vivo)",
         "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
       },
@@ -679,34 +679,18 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
       },
       "artists": [
         {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 165074,
-      "name": "Na Conta Da Loucura - Ao Vivo",
-      "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
-        "name": "Amor Da Sua Cama",
-        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        }
-      ],
-      "duration_ms": 188309,
-      "name": "Amor Da Sua Cama",
-      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+      "duration_ms": 190083,
+      "name": "Ciumeira - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -731,22 +715,18 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "Facas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
         }
       ],
-      "duration_ms": 196379,
-      "name": "Facas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -779,6 +759,26 @@
       "duration_ms": 199701,
       "name": "Apelido Carinhoso",
       "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "Facas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 196379,
+      "name": "Facas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "Vagabundo",
-        "url": "https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 165380,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
         "name": "Live-M\u00f3vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
       },
@@ -871,6 +851,22 @@
       "duration_ms": 181512,
       "name": "Vingan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 190244,
+      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

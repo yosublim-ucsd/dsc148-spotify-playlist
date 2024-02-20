@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 200900,
       "name": "Barrytown",
       "url": "https://open.spotify.com/track/7jkk1MrXJptKicctJKkXjC"
@@ -9058,7 +9058,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 236066,
       "name": "Mississippi Kid",
       "url": "https://open.spotify.com/track/3xdwGhgjAVDJqkJhsVe91z"
@@ -10111,6 +10111,24 @@
     },
     {
       "album": {
+        "name": "Armed Forces (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fIpP2UR5bKQbhhDoH6GyK"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Oliver's Army",
+      "url": "https://open.spotify.com/track/1fK4o91ATUTpvBCOZ2GKDh"
+    },
+    {
+      "album": {
         "name": "Armed Forces (Remastered 2020)",
         "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
       },
@@ -10122,7 +10140,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 180840,
       "name": "Oliver's Army",
       "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"

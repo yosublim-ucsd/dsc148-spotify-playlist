@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: Cha Eun-Woo",
-  "num_followers": 798144,
+  "num_followers": 798382,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzNiMDJhNmExYmQ2YmJlNTAzNTAxMWVhMTM3NDMxZDY1MDkyODAw",
+  "snapshot_id": "MCw2NThjOWQ5MTI3NmU0MzVmYjIzYmI5YjRhMDBjZTIzYTQ5MzM0OGRi",
   "tracks": [
     {
       "added_at": "2024-02-15 09:08:37",
@@ -23,6 +23,74 @@
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+    },
+    {
+      "added_at": "2024-02-15 09:08:37",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/1kQUndHexxKgQMfJxfPt8A"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/0e9skrsECOVqRRNFgFdA5c"
+    },
+    {
+      "added_at": "2024-02-15 09:08:37",
+      "album": {
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Sugarcoat (NATTY Solo)",
+      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
+    },
+    {
+      "added_at": "2024-02-15 09:08:37",
+      "album": {
+        "name": "Killin' It",
+        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "added_at": "2024-02-15 09:08:37",
+      "album": {
+        "name": "KINEMA",
+        "url": "https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Do or Die (ft. DPR IAN)",
+      "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
     },
     {
       "added_at": "2024-02-15 09:08:37",
@@ -59,38 +127,6 @@
     {
       "added_at": "2024-02-15 09:08:37",
       "album": {
-        "name": "Killin' It",
-        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
-      },
-      "artists": [
-        {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
-    },
-    {
-      "added_at": "2024-02-15 09:08:37",
-      "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/1kQUndHexxKgQMfJxfPt8A"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/0e9skrsECOVqRRNFgFdA5c"
-    },
-    {
-      "added_at": "2024-02-15 09:08:37",
-      "album": {
         "name": "TWS 1st Mini Album 'Sparkling Blue'",
         "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
       },
@@ -103,26 +139,6 @@
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
-    },
-    {
-      "added_at": "2024-02-15 09:08:37",
-      "album": {
-        "name": "KINEMA",
-        "url": "https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8"
-      },
-      "artists": [
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        },
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Do or Die (ft. DPR IAN)",
-      "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
     },
     {
       "added_at": "2024-02-15 09:08:37",
@@ -551,22 +567,6 @@
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
-    },
-    {
-      "added_at": "2024-02-15 09:08:37",
-      "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Sugarcoat (NATTY Solo)",
-      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
     },
     {
       "added_at": "2024-02-15 09:08:37",

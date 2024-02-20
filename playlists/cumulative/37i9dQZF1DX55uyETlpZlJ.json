@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/2QkuqKnB4GkAr6iCVDCJNL"
+      },
+      "artists": [
+        {
+          "name": "Eshani",
+          "url": "https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg"
+        },
+        {
+          "name": "djlethal",
+          "url": "https://open.spotify.com/artist/1UaUAQfV6k8WGPd4DyUEsN"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137206,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/0cXqo8QjhCsn9qMYjDMZYN"
+    },
+    {
+      "album": {
         "name": "BREAK",
         "url": "https://open.spotify.com/album/2Qe4fZTViRXEZ6f8gCLiog"
       },
@@ -912,10 +934,36 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 206380,
       "name": "Chanda",
       "url": "https://open.spotify.com/track/0DVxGoL51eoPgFljBnbJol"
+    },
+    {
+      "album": {
+        "name": "Chanda",
+        "url": "https://open.spotify.com/album/0XpUURR7bNOYU88nkHNKjx"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Buck",
+          "url": "https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG"
+        },
+        {
+          "name": "Navya H",
+          "url": "https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206380,
+      "name": "Chanda",
+      "url": "https://open.spotify.com/track/3WBenVVe9S0FkVxApthEnJ"
     },
     {
       "album": {
@@ -1436,7 +1484,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 75168,
       "name": "FREE STYLE",
       "url": "https://open.spotify.com/track/4niYNBF9Y0L39KRtEEtjTg"
@@ -1594,6 +1642,28 @@
       "duration_ms": 177406,
       "name": "Haaralu",
       "url": "https://open.spotify.com/track/75EX7KicIHR8oJeJsnhFOv"
+    },
+    {
+      "album": {
+        "name": "Haaride",
+        "url": "https://open.spotify.com/album/3VJHNfv2jL5ngZsmm1Jjm4"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Harsha Shannu",
+          "url": "https://open.spotify.com/artist/10SnuopQQz9cFktsDaRzTw"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169908,
+      "name": "Haaride",
+      "url": "https://open.spotify.com/track/1lpmHxVN3Px3umhAHmTdlz"
     },
     {
       "album": {
@@ -2758,7 +2828,7 @@
     {
       "album": {
         "name": "Maleya Hani",
-        "url": "https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT"
+        "url": "https://open.spotify.com/album/6Nysx2Ca6BBohm1PRxVg6W"
       },
       "artists": [
         {
@@ -2773,6 +2843,28 @@
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193439,
+      "name": "Maleya Hani",
+      "url": "https://open.spotify.com/track/2r0Mrm57KXfChbJibyPtip"
+    },
+    {
+      "album": {
+        "name": "Maleya Hani",
+        "url": "https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT"
+      },
+      "artists": [
+        {
+          "name": "KALKITHENAME",
+          "url": "https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk"
+        },
+        {
+          "name": "Thrupthi Rai",
+          "url": "https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-20",
       "duration_ms": 193439,
       "name": "Maleya Hani",
       "url": "https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU"
@@ -3488,7 +3580,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 60000,
       "name": "Naavu Kuuda OG",
       "url": "https://open.spotify.com/track/2FKlfqCs0ouc6W9fvsRTQM"
@@ -3788,7 +3880,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 209480,
       "name": "Nanne Kaadide",
       "url": "https://open.spotify.com/track/19wt6iXGtJi6zyLibLArvD"
@@ -4640,7 +4732,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 270057,
       "name": "ONTI NANU",
       "url": "https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7"

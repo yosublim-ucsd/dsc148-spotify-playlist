@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,381 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,378 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 41 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:21 |
 | 42 | [In Ya Nature](https://open.spotify.com/track/2b26ap5bsuyyUD9zu6Y6D1) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Blue](https://open.spotify.com/album/5iPR8nuHYbs1fQhSzOPSHJ) | 2:36 |
 | 43 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 |
-| 44 | [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 |
+| 44 | [Terrible News](https://open.spotify.com/track/1Fq62so6JYiEizTz8o1aVW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:52 |
 | 45 | [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 |
 | 46 | [LONG in the tOOth \(feat\. Pos of De La Soul & The Budos Band\)](https://open.spotify.com/track/65d4dP3o6k2zlj14eNKW50) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Pos of De La Soul](https://open.spotify.com/artist/0QJINgNjVXlG2aRED0jEx3), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [LONG in the tOOth \(feat\. Pos of De La Soul & The Budos Band\)](https://open.spotify.com/album/3hYcpA9HGxUYwRVgQi0Afu) | 3:45 |
 | 47 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Something To Remember](https://open.spotify.com/track/0768gHRTVgwK7PPxBFe3tL) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Wing](https://open.spotify.com/album/3Qc1qeHSkWYfWg9Jt9mxMq) | 4:28 |
 | 80 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `MCxjMjY2ODM4NmU1ZmY2MWM1YjdjNzQxMjgyYmE5Y2E2MDM2ZjRiMDcx`
+Snapshot ID: `MCwxZjAxYTQ3NmFkYWMxMjU4ZGQ0ZjBlZDRlMmRkYzgxZjY1ZWEwOTY4`

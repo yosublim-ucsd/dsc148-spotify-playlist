@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 113804,
+  "2024-02-20": 113852,
   "date_first_scraped": "2023-02-01",
   "description": "<a href=\"spotify:playlist:37i9dQZF1DXayDMsJG9ZBv\">Hot Hits Japan</a>\u3001\u3082\u3057\u304f\u306f<a href=\"spotify:playlist:37i9dQZF1DXafb0IuPwJyF\">Tokyo Super Hits</a>\u306b10\u9031\u4ee5\u4e0a\u30ea\u30b9\u30c8\u30fb\u30a4\u30f3\u3057\u305f\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Taylor Swift",
   "name": "On Replay -\u30e1\u30ac\u30d2\u30c3\u30c8\u30fb\u30ea\u30d7\u30ec\u30a4-",
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 176800,
       "name": "Kiss My (Uh Oh)",
       "url": "https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp"
@@ -1193,6 +1193,24 @@
       "duration_ms": 195880,
       "name": "Love Me Now (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
+    },
+    {
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258306,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh"
     },
     {
       "album": {

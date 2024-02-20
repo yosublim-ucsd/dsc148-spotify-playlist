@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet \| Cover: Crawlers
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,330 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,385 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 114 | [Apollo](https://open.spotify.com/track/6NMUkluQ4ZI6XwGuqH2Z2n) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [Apollo](https://open.spotify.com/album/4x11dM49Sq4awkswFoJfoR) | 3:19 |
 | 115 | [supernAtural](https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [supernAtural](https://open.spotify.com/album/0yFDcLCs2xq8RR48hWNpOu) | 2:39 |
 
-Snapshot ID: `MCw4MmQ4YmFkN2MwMDcxZjY0NDY2ZDQ2ZGFmNWI4YjJlZTExYWY0NmJk`
+Snapshot ID: `MCw1MWZhMjI0ZWEyNjFiZWEyOWE2OGI3NDZmMzJmYzQxYjE0ZjllMjA2`

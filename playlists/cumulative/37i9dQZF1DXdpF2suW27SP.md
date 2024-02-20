@@ -4,7 +4,7 @@
 
 > Dillaz entra na zona.
 
-470 songs - 1 day 1 hr 16 min
+471 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Cadáver \- Com Banda](https://open.spotify.com/track/6AYzHvfq4kQTSUrAuMKc5a) | [ELIS NEON](https://open.spotify.com/artist/2DOIppGoIGLPvyctXvucnS), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cadáver \(Com Banda\)](https://open.spotify.com/album/4hYRLI69BcEjSqalwWeBqR) | 4:02 | 2023-03-10 | 2023-03-31 |
 | [Cafuné](https://open.spotify.com/track/5f4gri8xbphuUM1zuU3FKe) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cafuné](https://open.spotify.com/album/28nSJpg47bARr21Jija0f8) | 2:55 | 2023-07-20 |  |
 | [Caixões Personalizados Remix](https://open.spotify.com/track/6Aabu9h1GGqwqDN55jBcEG) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3), [Xuxu Bower](https://open.spotify.com/artist/5PLJ01HIqRRN5qTltrfPk7), [Madkutz](https://open.spotify.com/artist/3VKduU9O9IouSv4M4PxUP3) | [All Star \(PRODIGIA\-TE\)](https://open.spotify.com/album/5b4pbI8mHAg5HeDJKWDyKE) | 3:57 | 2023-04-06 | 2023-05-12 |
+| [Cantona](https://open.spotify.com/track/6mobne6wnkwLGDxF9T7D55) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:23 | 2024-02-19 |  |
 | [Cara Podre Freestyle 2](https://open.spotify.com/track/6hOIHn5MPBnwhkxF3izAkS) | [SamySam Beats](https://open.spotify.com/artist/2tIwY9RiPuPVjYnrGz0aXZ) | [Cara Podre Freestyle 2](https://open.spotify.com/album/67XbS78MRt5GnFvpu6RZ2L) | 1:45 | 2022-07-21 | 2022-08-12 |
 | [Cara Que Engana](https://open.spotify.com/track/1DHSj9pjlwGsVTQ2A2Z8gk) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cara Que Engana](https://open.spotify.com/album/0xtL6QER4C37WbjNRkhhC5) | 2:59 | 2022-07-16 | 2023-02-10 |
 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 | 2022-11-25 | 2023-07-28 |

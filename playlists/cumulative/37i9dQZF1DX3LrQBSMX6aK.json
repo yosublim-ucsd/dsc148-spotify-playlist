@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Article 370",
+        "url": "https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156900,
+      "name": "Najariya LoFi Cake Mix",
+      "url": "https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji"
+    },
+    {
+      "album": {
         "name": "Nazariya Lag Jayegi",
         "url": "https://open.spotify.com/album/1FCH4k508ltzrqzS76BRkU"
       },

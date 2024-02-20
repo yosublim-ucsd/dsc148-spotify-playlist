@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,441 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,442 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 6 | [Luga Pandemic](https://open.spotify.com/track/0O2wVyNkepLJcEmcJbDTix) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Luga Pandemic](https://open.spotify.com/album/3J4Ej6runJXjT4iQxF8cSR) | 3:06 |
 | 7 | [T H U G From U G](https://open.spotify.com/track/6hdJEJ6r3D9a1ZL4xjkUpE) | [Ekii](https://open.spotify.com/artist/4HIT5Z3VQvOsLj0fYBhK2h) | [I Am Ekii](https://open.spotify.com/album/7dy3N5YrZlG9DZyRCjFZmN) | 2:15 |
 | 8 | [Told You So](https://open.spotify.com/track/5bnX5oi9viuOLqaehmyhYt) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 2:44 |
-| 9 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 |
+| 9 | [Voices & Vices](https://open.spotify.com/track/4WVz4SvwDGOpfFjKYSs1Rv) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2oPdxzadZjbbH0V8U5waPk) | 2:50 |
 | 10 | [Coming In Hot \- Short Version](https://open.spotify.com/track/4PNUQ1EM9MXcZgf26Lvj6U) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB) | [Coming In Hot](https://open.spotify.com/album/6Yt2pOIVZP1QuqAxrilW2H) | 2:12 |
 | 11 | [Vexed](https://open.spotify.com/track/7az3DTSQRpG2cgaG4puG6O) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/4Qe18ssZaa6QqbSoKFsmr1) | 2:16 |
 | 12 | [Belong](https://open.spotify.com/track/1BxdWcqrXT7DBrPXAwHacK) | [KeDi](https://open.spotify.com/artist/3aaq8ReIvKF925g2qtGnV7) | [Belong](https://open.spotify.com/album/07MimenonWNMJeSgQYpUyz) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Tough Timez](https://open.spotify.com/track/6HlV4tWyzvYsjhJqALInJJ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/79Z6HX577GPeUdKD4CUWgW) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCxmZThiYWVjYmEwYTA1NGNiNDM2MmIwZmZlZTcxMjU1MmNmMGI4NmJi`
+Snapshot ID: `MCwxYWM4ODhiNTcxZTVkYzQ3YjY0ZGU0NGIxMWI5NzFjYTk3MTQ3NGM3`

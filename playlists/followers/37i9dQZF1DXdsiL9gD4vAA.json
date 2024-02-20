@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 89217,
+  "2024-02-20": 89344,
   "date_first_scraped": "2021-12-28",
   "description": "Let these contemplative couplets take you away.",
   "name": "Golden Ghazals",
@@ -871,10 +871,28 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 228100,
       "name": "Gumshuda",
       "url": "https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA"
+    },
+    {
+      "album": {
+        "name": "Gumshuda",
+        "url": "https://open.spotify.com/album/0WZW8fuex9rJLsHILJVii7"
+      },
+      "artists": [
+        {
+          "name": "Anindito Paul",
+          "url": "https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228100,
+      "name": "Gumshuda",
+      "url": "https://open.spotify.com/track/43sashI4VkUAwNRNxY7r4Y"
     },
     {
       "album": {
@@ -893,10 +911,32 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 444007,
       "name": "Haathon Ki Lakeeron",
       "url": "https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia"
+    },
+    {
+      "album": {
+        "name": "Haathon Ki Lakeeron",
+        "url": "https://open.spotify.com/album/6rXD5EMeUVlTAFviAa6GOy"
+      },
+      "artists": [
+        {
+          "name": "Anweshaa",
+          "url": "https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3"
+        },
+        {
+          "name": "Quincy Chett",
+          "url": "https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444007,
+      "name": "Haathon Ki Lakeeron",
+      "url": "https://open.spotify.com/track/0n9MV72hcWle7aWcNBZhDA"
     },
     {
       "album": {

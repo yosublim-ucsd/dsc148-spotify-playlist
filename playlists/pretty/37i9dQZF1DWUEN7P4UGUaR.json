@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 8719,
+  "num_followers": 8732,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTJjODNhMjQ3ZTAwNGFjMTY2MzEwMjM2MzJiYmE1ZGM2YTRjMDQ1",
+  "snapshot_id": "MCw5YjgwOTI1MWFlYzVkYTgwZTFjZDA5YTM4MTA0MGMzZGFlZDQ4YTBi",
   "tracks": [
     {
       "added_at": "2024-02-16 05:26:43",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
+        "name": "I will pray",
+        "url": "https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 170631,
+      "name": "I will pray",
+      "url": "https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
         "name": "Ruach Hakodesh",
         "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
       },
@@ -159,6 +175,26 @@
       "duration_ms": 552000,
       "name": "Ruach Hakodesh",
       "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
+        "name": "Unconditional Love (feat. Niiella)",
+        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Niiella",
+          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+        }
+      ],
+      "duration_ms": 226017,
+      "name": "Unconditional Love (feat. Niiella)",
+      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
     },
     {
       "added_at": "2024-02-16 05:26:43",
@@ -247,6 +283,22 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
+        "name": "Hosanna (Live)",
+        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 344862,
+      "name": "Hossana (Live)",
+      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -263,38 +315,18 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
-        "name": "Unconditional Love (feat. Niiella)",
-        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Niiella",
-          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 226017,
-      "name": "Unconditional Love (feat. Niiella)",
-      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
-        "name": "Hosanna (Live)",
-        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 344862,
-      "name": "Hossana (Live)",
-      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2024-02-16 05:26:43",
@@ -315,18 +347,18 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+      "duration_ms": 288990,
+      "name": "Turning Around(Live)",
+      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
     },
     {
       "added_at": "2024-02-16 05:26:43",
@@ -379,38 +411,6 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
-        "name": "I will pray",
-        "url": "https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 170631,
-      "name": "I will pray",
-      "url": "https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 288990,
-      "name": "Turning Around(Live)",
-      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
         "name": "Lifted High",
         "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
         "name": "Live in Kumasi",
         "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
       },
@@ -471,38 +455,6 @@
       "duration_ms": 280000,
       "name": "Nyame Tumfo (Live)",
       "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Man on a Mission",
-      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
     },
     {
       "added_at": "2024-02-16 05:26:43",
@@ -543,18 +495,50 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
-        "name": "Mile (I Know)",
-        "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
       "artists": [
         {
-          "name": "LUIGI MACLEAN",
-          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 342685,
-      "name": "Mile (I Know)",
-      "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Man on a Mission",
+      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
     },
     {
       "added_at": "2024-02-16 05:26:43",
@@ -579,18 +563,18 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
-        "name": "Deeper Touch",
-        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
+        "name": "Mile (I Know)",
+        "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
       },
       "artists": [
         {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+          "name": "LUIGI MACLEAN",
+          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
         }
       ],
-      "duration_ms": 781930,
-      "name": "Deeper Medley",
-      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
+      "duration_ms": 342685,
+      "name": "Mile (I Know)",
+      "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
     },
     {
       "added_at": "2024-02-16 05:26:43",
@@ -607,6 +591,38 @@
       "duration_ms": 292545,
       "name": "Victory Chant",
       "url": "https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
+        "name": "Deeper Touch",
+        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
+      },
+      "artists": [
+        {
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+        }
+      ],
+      "duration_ms": 781930,
+      "name": "Deeper Medley",
+      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
+        "name": "Efiri Nyame",
+        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Me Ko M'Anim",
+      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
     },
     {
       "added_at": "2024-02-16 05:26:43",
@@ -675,42 +691,6 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
-        "name": "Gye Wo Nkoaa",
-        "url": "https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv"
-      },
-      "artists": [
-        {
-          "name": "Lordina The Soprano",
-          "url": "https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 300877,
-      "name": "Gye Wo Nkoaa",
-      "url": "https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
         "name": "Nkunim (The Victory Song)",
         "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 408235,
       "name": "Amenuveve (Grace)",
       "url": "https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
+        "name": "Gye Wo Nkoaa",
+        "url": "https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv"
+      },
+      "artists": [
+        {
+          "name": "Lordina The Soprano",
+          "url": "https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 300877,
+      "name": "Gye Wo Nkoaa",
+      "url": "https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD"
     },
     {
       "added_at": "2024-02-16 05:26:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-16 05:26:43",
       "album": {
-        "name": "The Awakening (Alpha Edition)",
-        "url": "https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC"
-      },
-      "artists": [
-        {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        }
-      ],
-      "duration_ms": 486295,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD"
-    },
-    {
-      "added_at": "2024-02-16 05:26:43",
-      "album": {
         "name": "MOVE VOL 1",
         "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 433646,
       "name": "Glory Chants",
       "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
+    },
+    {
+      "added_at": "2024-02-16 05:26:43",
+      "album": {
+        "name": "The Awakening (Alpha Edition)",
+        "url": "https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        }
+      ],
+      "duration_ms": 486295,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD"
     },
     {
       "added_at": "2024-02-16 05:26:43",

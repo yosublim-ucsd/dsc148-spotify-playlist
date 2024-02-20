@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 18269,
+  "2024-02-20": 18290,
   "date_first_scraped": "2023-07-10",
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
   "name": "This Is Julia Vit\u00f3ria",
@@ -275,6 +275,28 @@
       "duration_ms": 317360,
       "name": "Ess\u00eancia Da Adora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C"
+    },
+    {
+      "album": {
+        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499742,
+      "name": "Eu Canto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
     },
     {
       "album": {

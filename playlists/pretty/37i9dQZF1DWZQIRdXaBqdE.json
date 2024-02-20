@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 394492,
+  "num_followers": 394553,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGNlOGRmOTZiZDk4MWMzNjE0MDg3OGQwNjM5OWUyYTFjYjk4YTIy",
+  "snapshot_id": "MCw5NjRkMzBlOWMxYjBhY2E0Y2MyZjY5ODZkMjJmZWNmNjc2OTE3NjQ2",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -143,6 +143,38 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -171,38 +203,6 @@
       "duration_ms": 182653,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Tanya Tucker / Super Hits",
-        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
-      },
-      "artists": [
-        {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Big Iron",
-      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Ring Of Fire: The Best Of Johnny Cash",
         "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 158426,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Big Iron",
+      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+      "duration_ms": 201600,
+      "name": "Fishin' in the Dark",
+      "url": "https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O"
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Fishin' in the Dark",
-      "url": "https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW"
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Sentimentally Yours",
-        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "She's Got You - Single Version",
-      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 223613,
       "name": "Two Dozen Roses",
       "url": "https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "She's Got You - Single Version",
+      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Back To The Barrooms",
-        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "I Think I'll Just Stay Here And Drink",
-      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "I Will Stand By You - The Essential Collection",
         "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
       },
@@ -1159,22 +1143,6 @@
       "duration_ms": 256333,
       "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
       "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Talking In Your Sleep",
-      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1195,6 +1163,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 236626,
       "name": "Meet Me In Montana",
       "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "The Very Best Of David Frizzell & Shelly West",
+        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
+      },
+      "artists": [
+        {
+          "name": "David Frizzell",
+          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
+        },
+        {
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "You're The Reason God Made Oklahoma",
+      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Tribute To Tradition",
         "url": "https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 361093,
       "name": "Same Old Train",
       "url": "https://open.spotify.com/track/5KMWwtJv3Ll2ROZfMerQs0"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "The Very Best Of David Frizzell & Shelly West",
-        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
-      },
-      "artists": [
-        {
-          "name": "David Frizzell",
-          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
-        },
-        {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "You're The Reason God Made Oklahoma",
-      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
     },
     {
       "added_at": "2023-08-21 00:02:44",

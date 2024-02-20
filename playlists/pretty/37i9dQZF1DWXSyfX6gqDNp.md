@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,409 likes - 176 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,421 likes - 176 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 5 | [Lousanne](https://open.spotify.com/track/0h0viT2OPpnxwzlwBmbEkU) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Lousanne](https://open.spotify.com/album/7mMtf6zUZvZjY1o3XguazB) | 3:19 |
 | 6 | [Gloomy Sunday](https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Gloomy Sunday](https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk) | 3:13 |
 | 7 | [Everytime We Say Hello](https://open.spotify.com/track/4PnwjyfS2Q6Mp2ZH1vyLqF) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Everytime We Say Hello](https://open.spotify.com/album/2gKBIiQPl5DA9ftNIu7qj6) | 3:43 |
-| 8 | [Elegy](https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY) | [Buss Quartet](https://open.spotify.com/artist/1OfER2aiowHuG93YnU0w7I) | [Elegy](https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj) | 3:51 |
+| 8 | [Elegy](https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Elegy](https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj) | 3:51 |
 | 9 | ['Round Midnight](https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | ['Round Midnight](https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg) | 3:34 |
 | 10 | [La Balade Bleu](https://open.spotify.com/track/4kFHtdSchgDFLKAnV3n2KX) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [La Balade Bleu](https://open.spotify.com/album/6XFrb3dkvb3mVhtI5XP9LG) | 3:02 |
 | 11 | [To Dream Like Youth](https://open.spotify.com/track/6WZ2kt3R8fLhWnIG7qrGbk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [To Dream Like Youth](https://open.spotify.com/album/6vhlU52iYbCpTiafWC5wRD) | 3:55 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 175 | [Somewhat Melancholy](https://open.spotify.com/track/3uMnKzPcOo1Hz1MUhjSX8o) | [The Greenview](https://open.spotify.com/artist/6YZKrUAZXUSmE4d74re04P) | [One Day I Wrote Her Name](https://open.spotify.com/album/20wkflrP7lt5uZxdJFLBHn) | 3:17 |
 | 176 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 |
 
-Snapshot ID: `MCxjODViNTUzZDU4OWZkNWEyZThhMWU3YWYyYmQzYjVhNDA1OGE1N2U5`
+Snapshot ID: `MCw5NTY3NzVmZmJjODI0OWI1NGFkZjUwYjNlYTdhMWM0NjUyZmViZjVm`

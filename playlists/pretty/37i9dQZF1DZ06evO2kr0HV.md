@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,596 likes - 48 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,604 likes - 48 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 47 | [Noche sensorial \- En Vivo Desde El Teatro Metropólitan](https://open.spotify.com/track/0w0OuWz42PHJ0Skzu0avXQ) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [En Vivo desde el Teatro Metropólitan](https://open.spotify.com/album/2BDrVcGhof46VC0Bs0EaL4) | 3:40 |
 | 48 | [Cada paso \(feat\. Esteman\) \- Acústica](https://open.spotify.com/track/7ywq7yAzasSDAt0tbUwO1S) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fin de la primera vida](https://open.spotify.com/album/49r4PlotqmoaXEeEM9j1ku) | 3:02 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA4YjM2ZjAzZWJkZGMyZjkyNzVmN2Q5OTMzNWNhNWMxNg==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDBjYmE4Y2I4MTkxMDY3ZWY5YjQ3OWM1ZWYwYTgxMDA2YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 887 likes - 71 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 888 likes - 71 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 70 | [Alpaca](https://open.spotify.com/track/1aKLAx0q6575E5EjhSIgMl) | [Deathorcist](https://open.spotify.com/artist/5TNeUEygdPYbGmqHsSfoGk) | [Alpaca](https://open.spotify.com/album/3ymomE4E1aESx1hiUg5lyt) | 4:06 |
 | 71 | [Get Up!](https://open.spotify.com/track/3MAvDDp5U2EOBA6kQCTZPv) | [TRASH DAY](https://open.spotify.com/artist/7atgGb1JGbFC3OGbuQDYiF) | [Get Up!](https://open.spotify.com/album/10Hq07ay4eXDwaNwwyiMQ2) | 2:53 |
 
-Snapshot ID: `MCw3NTkzNGZiMDZlNTJiYTk2ZjQ1ODhmOTRlOTRkZDZhNGM1NzM2MDBk`
+Snapshot ID: `MCw0MzQ0M2MxNGYwM2VkZjU4MGM3ZjI5ZjNjMmQ4YjRiZWQzN2QzODA1`

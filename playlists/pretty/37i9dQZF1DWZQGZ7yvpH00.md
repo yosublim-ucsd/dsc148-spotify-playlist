@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,506 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,976 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Una Noche En Miami](https://open.spotify.com/track/5TM1G08OEZjLu70YaSbYe2) | [Martinsito](https://open.spotify.com/artist/0lGwR7cZwTuIOpeiagR5uf), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Una Noche En Miami](https://open.spotify.com/album/0H0QKdt4RkDRRPi4EYofRp) | 2:42 |
 | 50 | [Perdon Mi Amor](https://open.spotify.com/track/41YKdTzwqHlBiR244FTccB) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Perdon Mi Amor](https://open.spotify.com/album/6JPNa1R21McyMnP6rjtpks) | 2:38 |
 
-Snapshot ID: `MCwwZTIyOWM0ZjVjNmRlMmM5Y2Q4OTBmNDhhNTYzMjU0ZDVlMmY1NGE3`
+Snapshot ID: `MCw5NDQ2Yzk2MThhZThhNDkxNDg1MWE1NDg5ZDc5Nzk2MmQ1YTc3YzRi`

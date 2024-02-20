@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 洪佩瑜 \(Pei\-Yu Hung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,505 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,506 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 31 | [大齡女子](https://open.spotify.com/track/4pkUru7mlNlEP5B5urUbGL) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [大齡女子](https://open.spotify.com/album/5HlQLO8UShpkR5z6S3wDa0) | 5:08 |
 | 32 | [星星堆滿天](https://open.spotify.com/track/1mQZ7y5h9sPLmuFoBjrKZB) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [ONE](https://open.spotify.com/album/2n6eu9oXcqwk46V5l4vc6G) | 4:28 |
 | 33 | [對的人](https://open.spotify.com/track/0tsEr5a7QUap42Rm55Nief) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [為愛做的傻事](https://open.spotify.com/album/5VY4rWUXPjfM5CvKQpsfVZ) | 4:37 |
-| 34 | [你說](https://open.spotify.com/track/2HKExvYvJMad0dvNIQzjAV) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [小太空](https://open.spotify.com/album/7HOLLUFkSB7xjy4UYdwiAX) | 4:34 |
+| 34 | [你說](https://open.spotify.com/track/48nPKi9fSR38Q0TMOwdAxf) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [小太空](https://open.spotify.com/album/2TpMMUlG9HgMZudmMpCndd) | 4:34 |
 | 35 | [那些酒精成癮的日子](https://open.spotify.com/track/72RZIOvWjpdKdXHajfi5a7) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [PLUTO](https://open.spotify.com/album/2dAegw6SJ1TYiX7s1DMNZz) | 4:36 |
 | 36 | [02](https://open.spotify.com/track/20GglrUv9gfiQJyYcvx7aS) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [MJ116](https://open.spotify.com/artist/5MU5bVomn4vkQ08DRZfhEc) | [骨子裡 \(Innermost\)](https://open.spotify.com/album/59m9RxMiwXUgy1IM2HF7yE) | 4:04 |
 | 37 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [分開的常理](https://open.spotify.com/track/2eOAbUlv5UARNGt1fOzaej) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [忘不記](https://open.spotify.com/album/2o0oEFwph6jcXwQo8VXCkG) | 2:40 |
 | 50 | [對面男生的房間](https://open.spotify.com/track/3m91v0fvEJDAFbcWmou7YS) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [年華](https://open.spotify.com/album/5MTWp9gLM678D3yq3pboBG) | 4:08 |
 
-Snapshot ID: `MCxiYjczYTg2ZjllZDI1ZmY4ZjEwYjU4ZDhmZDFmMzQwNWEzZjk2NWQz`
+Snapshot ID: `MCwzNzVhMzBjMGI3MTJjNmY5MmEyYWYyYTA3NjYzZTViNWFkODliN2Yx`

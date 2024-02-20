@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid Swahili love stories for you and yours\. Cover: Phina
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,467 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,501 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Hapa](https://open.spotify.com/track/3o2XGqeVS2V6zQWjCtSBPd) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Hapa](https://open.spotify.com/album/1Q88BNMCpqlFBh46WRR7pn) | 3:17 |
 | 50 | [Nampenda](https://open.spotify.com/track/6bY6Rrr3enYLfJK7djbgZQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nampenda](https://open.spotify.com/album/0xhgXtc2IbEFcG7K12Olkb) | 3:37 |
 
-Snapshot ID: `MCxlYTk1Nzk3NmFmNmQ5OWRiYTZlZmY5Yzk3NGZiMGNjZTQwY2NiOTgy`
+Snapshot ID: `MCxmYWVmYTg3MjhmNzEyYzdkYmI3M2QxMTUxYjAxMTY2Y2U3NmE0ZWMz`

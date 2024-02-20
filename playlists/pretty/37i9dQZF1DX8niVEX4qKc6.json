@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Mica Sotera",
-  "num_followers": 180740,
+  "num_followers": 180776,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2Q5ZWEzYzZiZDVhNmZiMjJlYjNkMjMxMDc5MTZiMjk5NmIwYmQ3",
+  "snapshot_id": "MCxkNmJjM2EzODE4YTNmZGIzMzRmMGMxYTA4NzQ0ZWRmZjJhYjU1NDcx",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Canciones Elegidas 93-04",
+        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "Tu Locura",
+      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Bemaste",
         "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 240000,
       "name": "siente m\u00e1s",
       "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Canciones Elegidas 93-04",
-        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Tu Locura",
-      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "ACOUSTIC SESSION",
-        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Chau",
         "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 176270,
       "name": "Desaprender",
       "url": "https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "ACOUSTIC SESSION",
+        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Pu\u00f1al",
         "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
       },
@@ -871,22 +855,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
       "artists": [
         {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -963,6 +943,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Besos, Lim\u00f3n y Miel",
         "url": "https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 227739,
       "name": "Besos, Lim\u00f3n y Miel",
       "url": "https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 214986,
       "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
       "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Polos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
+      },
+      "artists": [
+        {
+          "name": "Ella Es Tan Cargosa",
+          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
+        }
+      ],
+      "duration_ms": 271229,
+      "name": "En Redondel - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Polos (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
-      },
-      "artists": [
-        {
-          "name": "Ella Es Tan Cargosa",
-          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
-        }
-      ],
-      "duration_ms": 271229,
-      "name": "En Redondel - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Hecho a la Antigua",
-        "url": "https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 217535,
-      "name": "Soldado Raso - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/2UVD0QU951KBWGaACek9e0"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Hecho a la Antigua",
+        "url": "https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 217535,
+      "name": "Soldado Raso - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2UVD0QU951KBWGaACek9e0"
     },
     {
       "added_at": "2024-02-02 03:00:00",

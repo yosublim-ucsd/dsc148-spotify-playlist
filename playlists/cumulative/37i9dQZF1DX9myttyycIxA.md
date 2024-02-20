@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Lime Garden
 
-1,172 songs - 2 day 18 hr 36 min
+1,173 songs - 2 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1137,7 +1137,8 @@
 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 | 2022-09-16 | 2023-01-18 |
 | [Where Did Love Go](https://open.spotify.com/track/4z39J7DIRryqxOV8O4gzzB) | [Ryan Ritual](https://open.spotify.com/artist/1DbXVMdQqNejIYLU2xsIMi), [Mating Ritual](https://open.spotify.com/artist/4ZeB1hzT2mSZrf7wszOqHs) | [Where Did Love Go](https://open.spotify.com/album/7yYF23Wts2nEKdUSoEIMq8) | 4:14 | 2023-06-09 | 2023-07-29 |
 | [Where I Met U](https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw) | 2:02 | 2023-03-23 | 2023-07-01 |
-| [Where We've Been](https://open.spotify.com/track/1roZVHlL8RR4s6cdrHl2qZ) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where We've Been](https://open.spotify.com/album/6ZADkFBIE0TDXapyOthWL0) | 5:15 | 2024-01-19 |  |
+| [Where We've Been](https://open.spotify.com/track/1roZVHlL8RR4s6cdrHl2qZ) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where We've Been](https://open.spotify.com/album/6ZADkFBIE0TDXapyOthWL0) | 5:15 | 2024-01-19 | 2024-02-20 |
+| [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 | 2024-01-19 |  |
 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 | 2021-10-22 | 2022-04-24 |
 | [Where You'll Find Me Now \- Alternate Version](https://open.spotify.com/track/5iB3Sl8ba4jkSKQKWt0zIu) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [You've Passed / Where You'll Find Me Now \(Early Versions\)](https://open.spotify.com/album/2VLIPyyCSjXgeVo17ZQte6) | 4:49 | 2023-06-15 | 2023-12-09 |
 | [While You Wait](https://open.spotify.com/track/3eyFhuo6X5hRX9YIxgUsOW) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [While You Wait](https://open.spotify.com/album/1YBz1SiTdUeDr6cs8QPskU) | 4:50 | 2022-01-28 | 2022-04-26 |

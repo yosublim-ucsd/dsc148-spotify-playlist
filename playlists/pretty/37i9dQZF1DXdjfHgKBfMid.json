@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udc83\ud83c\udffd\ud83d\udd7a\ud83c\udffc\ud83e\ude87\ud83c\udfba\ud83e\ude98",
-  "num_followers": 31327,
+  "num_followers": 31360,
   "original_name": "Full Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODEwZGRhYTU1NTRkYWY3NDA0MjhiYjEyZGE4ZjdiYmYyNWZiOTdk",
+  "snapshot_id": "MCw1ZmJmYzIxYjZhMWE5NjE3YjU5OWYyMTVlZjY5NDdiN2M4Nzg2Y2Fl",
   "tracks": [
     {
       "added_at": "2024-02-16 03:00:00",
@@ -223,26 +223,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Ni Una Ni Dos",
         "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 168000,
       "name": "Mentiras | CROSSOVER #3",
       "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "SEROTONINA (DELUXE)",
-        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 211127,
-      "name": "COMO YO TE QUIERO (DELUXE)",
-      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Otro D\u00eda M\u00e1s",
         "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 202342,
       "name": "Otro D\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "SEROTONINA (DELUXE)",
+        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 211127,
+      "name": "COMO YO TE QUIERO (DELUXE)",
+      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Te Sigo Enamorando",
         "url": "https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 311080,
       "name": "Te hubieras ido antes",
       "url": "https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Por Dios Que No",
-        "url": "https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 168189,
-      "name": "Por Dios Que No",
-      "url": "https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
       },
@@ -703,22 +683,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "200 Copas",
-        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
+        "name": "Por Dios Que No",
+        "url": "https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN"
       },
       "artists": [
         {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         },
         {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 237738,
-      "name": "200 Copas",
-      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
+      "duration_ms": 168189,
+      "name": "Por Dios Que No",
+      "url": "https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -751,6 +731,26 @@
       "duration_ms": 196360,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "200 Copas",
+        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "duration_ms": 237738,
+      "name": "200 Copas",
+      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
     },
     {
       "added_at": "2024-02-16 03:00:00",

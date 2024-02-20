@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 179139,
+  "num_followers": 179173,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3",
+  "snapshot_id": "MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -735,26 +735,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Dosis",
-        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
-      },
-      "artists": [
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 236578,
-      "name": "A Ciegas",
-      "url": "https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Sin Gravedad",
         "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
       },
@@ -775,18 +755,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Hijo del Borracho",
-        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
+        "name": "Dosis",
+        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
       "artists": [
         {
-          "name": "Arias",
-          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         }
       ],
-      "duration_ms": 200636,
-      "name": "Ma' Na",
-      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
+      "duration_ms": 236578,
+      "name": "A Ciegas",
+      "url": "https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -811,6 +795,22 @@
       "duration_ms": 135850,
       "name": "Somos Uno",
       "url": "https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "El Hijo del Borracho",
+        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
+      },
+      "artists": [
+        {
+          "name": "Arias",
+          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
+        }
+      ],
+      "duration_ms": 200636,
+      "name": "Ma' Na",
+      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Gozo Yo Quer\u00eda",
         "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
       },
@@ -1431,18 +1411,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Dios, Familia & Rap",
-        "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
       },
       "artists": [
         {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
         }
       ],
-      "duration_ms": 245039,
-      "name": "Hay Algo",
-      "url": "https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r"
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1459,6 +1443,22 @@
       "duration_ms": 186602,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Dios, Familia & Rap",
+        "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        }
+      ],
+      "duration_ms": 245039,
+      "name": "Hay Algo",
+      "url": "https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "No, No",
-        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 176158,
-      "name": "No, No",
-      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "No, No",
+        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "No, No",
+      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -1711,6 +1711,30 @@
       "duration_ms": 231627,
       "name": "Firme Y Enfocado",
       "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Soy Tan Feliz",
+        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 266571,
+      "name": "Soy Tan Feliz",
+      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1747,30 +1771,6 @@
       "duration_ms": 240500,
       "name": "Picheo",
       "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Soy Tan Feliz",
-        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 266571,
-      "name": "Soy Tan Feliz",
-      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 206230,
+      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Veintiuno",
         "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 310574,
       "name": "Amor de Hermano",
       "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 206230,
-      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
     },
     {
       "added_at": "2022-08-27 05:04:45",

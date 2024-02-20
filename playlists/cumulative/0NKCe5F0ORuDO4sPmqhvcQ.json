@@ -9923,6 +9923,24 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/57ikyQgMgUUyDQde2uz861"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212519,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/35Us9HQPF88aiWQkR3sG3G"
+    },
+    {
+      "album": {
         "name": "Tear It to Pieces",
         "url": "https://open.spotify.com/album/2GkG5QTPZJYNWc2wNVhE8w"
       },

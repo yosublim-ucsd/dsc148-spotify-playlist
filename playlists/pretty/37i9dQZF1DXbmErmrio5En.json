@@ -1,12 +1,12 @@
 {
   "description": "saturation, distortion, feedBack. ft. bixby",
-  "num_followers": 35908,
+  "num_followers": 35938,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDYyMjM3NjZmNzA0NzM2MmMwMzA2MDNkYzUxODMxNWI3MWNhMTky",
+  "snapshot_id": "MCw1NjFmY2E4Zjk5ZWM1ZmQwYTc1NDE5Y2Y0YjVhNmJhY2E1ODI3NTAx",
   "tracks": [
     {
       "added_at": "2024-02-14 20:46:47",
@@ -183,18 +183,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "CRUEL WORLD",
-        "url": "https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC"
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
       },
       "artists": [
         {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 147692,
-      "name": "CRUEL WORLD",
-      "url": "https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX"
+      "duration_ms": 151015,
+      "name": "lastjune",
+      "url": "https://open.spotify.com/track/1welGULVlPbPc61eiGEELm"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -215,18 +215,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+        "name": "CRUEL WORLD",
+        "url": "https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 151015,
-      "name": "lastjune",
-      "url": "https://open.spotify.com/track/1welGULVlPbPc61eiGEELm"
+      "duration_ms": 147692,
+      "name": "CRUEL WORLD",
+      "url": "https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "hypochondriac",
+        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 374546,
+      "name": "introvert",
+      "url": "https://open.spotify.com/track/0uOgY7Q90XkqibGImcnAER"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "SCRAPYARD I",
         "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 181915,
       "name": "A LA CARTE (feat. brakence)",
       "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "hypochondriac",
-        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 374546,
-      "name": "introvert",
-      "url": "https://open.spotify.com/track/0uOgY7Q90XkqibGImcnAER"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "GORE",
+        "url": "https://open.spotify.com/album/18qf5tvWCzzhPauoKyJSTh"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 148678,
+      "name": "unpredictable thinGs",
+      "url": "https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "problems (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/79lTZVUHdaqLkj814XzZxw"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 119259,
       "name": "burn my tongue",
       "url": "https://open.spotify.com/track/18eOqwpYQ4zzSmx1csIBZD"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "GORE",
-        "url": "https://open.spotify.com/album/18qf5tvWCzzhPauoKyJSTh"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 148678,
-      "name": "unpredictable thinGs",
-      "url": "https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "c u never",
         "url": "https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 175806,
       "name": "c u never",
       "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "teeth",
+        "url": "https://open.spotify.com/album/6rPaZlzhLAO2z3NwGtIL1b"
+      },
+      "artists": [
+        {
+          "name": "juno",
+          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
+        }
+      ],
+      "duration_ms": 144448,
+      "name": "my fault",
+      "url": "https://open.spotify.com/track/2yHDIMVsumkPPNLo3omJKk"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "27AM",
         "url": "https://open.spotify.com/album/7IEniMglg0CFSh8bKfGJen"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 172500,
       "name": "bounty",
       "url": "https://open.spotify.com/track/76nPwPy3z57UlFiLTWUKS7"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "teeth",
-        "url": "https://open.spotify.com/album/6rPaZlzhLAO2z3NwGtIL1b"
-      },
-      "artists": [
-        {
-          "name": "juno",
-          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
-        }
-      ],
-      "duration_ms": 144448,
-      "name": "my fault",
-      "url": "https://open.spotify.com/track/2yHDIMVsumkPPNLo3omJKk"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "White Tiger",
-        "url": "https://open.spotify.com/album/2ij1JaqxLVOKTOsSUZKMji"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 114187,
-      "name": "white tiger",
-      "url": "https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "cybercrush222",
         "url": "https://open.spotify.com/album/09xWmIzUAG9kuyCUMupEQa"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 119476,
       "name": "cybercrush222",
       "url": "https://open.spotify.com/track/0E4wLngBTydfvANcDA6k6O"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "White Tiger",
+        "url": "https://open.spotify.com/album/2ij1JaqxLVOKTOsSUZKMji"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 114187,
+      "name": "white tiger",
+      "url": "https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "good things",
+        "url": "https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 174656,
+      "name": "good things",
+      "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "i guess i'm alone",
         "url": "https://open.spotify.com/album/2rYtBpMF1iace9p6mhojxo"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "good things",
-        "url": "https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 174656,
-      "name": "good things",
-      "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "spit",
         "url": "https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "VIDEO GAME",
-        "url": "https://open.spotify.com/album/5byaS0rosm6QwgVwtRPoeb"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 128720,
-      "name": "VIDEO GAME",
-      "url": "https://open.spotify.com/track/2dPgrDsNTN2tTUQMn3vWW5"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "castle in the woods song",
         "url": "https://open.spotify.com/album/6FCltUoh0A8nBBSlEibOkl"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 121318,
       "name": "castle in the woods song",
       "url": "https://open.spotify.com/track/1EBHLTCDBFwuHVhrtq6H1z"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "VIDEO GAME",
+        "url": "https://open.spotify.com/album/5byaS0rosm6QwgVwtRPoeb"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 128720,
+      "name": "VIDEO GAME",
+      "url": "https://open.spotify.com/track/2dPgrDsNTN2tTUQMn3vWW5"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "i used to just cry about it",
-        "url": "https://open.spotify.com/album/3TZ7OjH6U6LNDpRr8dM9MC"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "checkpoint",
-      "url": "https://open.spotify.com/track/1MRJdd1VnGWDeX1wtsN9f8"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "EVEN IF",
         "url": "https://open.spotify.com/album/1rFxsnEzfqRYzm9LNcgouz"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 105914,
       "name": "distant",
       "url": "https://open.spotify.com/track/0KJVPtDDxAJxXKvHE3MC9v"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "i used to just cry about it",
+        "url": "https://open.spotify.com/album/3TZ7OjH6U6LNDpRr8dM9MC"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "checkpoint",
+      "url": "https://open.spotify.com/track/1MRJdd1VnGWDeX1wtsN9f8"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "M*A*D (Miss American Dream)",
-        "url": "https://open.spotify.com/album/6yrOPZonbgXTeb4TbJ7odD"
-      },
-      "artists": [
-        {
-          "name": "Izzy Spears",
-          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0r3cq4kZ3cXhYvmkywATG2"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "Face For The Radio",
         "url": "https://open.spotify.com/album/1wMbTB7IKFwlLS3ELUVBH1"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 132187,
       "name": "Sierra Echo X-Ray",
       "url": "https://open.spotify.com/track/1hTjFQkvcfUfPN2vPDDn5J"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "M*A*D (Miss American Dream)",
+        "url": "https://open.spotify.com/album/6yrOPZonbgXTeb4TbJ7odD"
+      },
+      "artists": [
+        {
+          "name": "Izzy Spears",
+          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0r3cq4kZ3cXhYvmkywATG2"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -2079,6 +2079,26 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "maybe i won't get high",
+        "url": "https://open.spotify.com/album/05DzxjpzuuxTBDUO3DR3OR"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        },
+        {
+          "name": "mykel online",
+          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "maybe i won't get high",
+      "url": "https://open.spotify.com/track/0JR0sxHccA1Arbq5lc65ak"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "industry standard",
         "url": "https://open.spotify.com/album/050G23X8h3mqMxb0TyKbiD"
       },
@@ -2131,26 +2151,6 @@
       "duration_ms": 164571,
       "name": "parasite",
       "url": "https://open.spotify.com/track/7rEUz26ACXZ6LOdBiWu9zH"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "maybe i won't get high",
-        "url": "https://open.spotify.com/album/05DzxjpzuuxTBDUO3DR3OR"
-      },
-      "artists": [
-        {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
-        },
-        {
-          "name": "mykel online",
-          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
-        }
-      ],
-      "duration_ms": 142660,
-      "name": "maybe i won't get high",
-      "url": "https://open.spotify.com/track/0JR0sxHccA1Arbq5lc65ak"
     },
     {
       "added_at": "2024-02-13 14:25:05",

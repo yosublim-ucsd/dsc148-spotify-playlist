@@ -1,12 +1,12 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60117,
+  "num_followers": 60135,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2YwZWYwOGFhZWI1ZWU3YWMyODU3ODdhMGVkMDUwODI1OWYyYjZi",
+  "snapshot_id": "MCw4Y2JmNGYyNTM3MzA4OGUyZDk2MTRlY2VlODE5NDI1MTE1ZDZhMmM5",
   "tracks": [
     {
       "added_at": "2023-12-19 09:07:27",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Mama's Boy",
+        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 155721,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 169472,
       "name": "I've Been In Love",
       "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Mama's Boy",
-        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 155721,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -351,6 +351,26 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 222839,
+      "name": "Think Fast (feat. Weezer)",
+      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 232625,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 222839,
-      "name": "Think Fast (feat. Weezer)",
-      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "DRUMMER",
-        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 182516,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/4ip14QnIGPERqjdiDqU6a0"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "All We Ever Do Is Talk",
         "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "DRUMMER",
+        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 182516,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/4ip14QnIGPERqjdiDqU6a0"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Speedracer",
+        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Speedracer",
+      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Asthma (Billy Lemos Remix)",
         "url": "https://open.spotify.com/album/6B6rU9XSET1u4U3pzeEXnn"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 216018,
       "name": "Oh Laura",
       "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Speedracer",
-        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Speedracer",
-      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1107,22 +1107,6 @@
       "duration_ms": 230074,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Highlands",
-        "url": "https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 211855,
-      "name": "Highlands",
-      "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Mosquito Love",
-        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 195610,
-      "name": "Sour Berry",
-      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Don't Really Care",
         "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
       },
@@ -1315,6 +1283,42 @@
       "duration_ms": 223908,
       "name": "Coup De Gr\u00e2ce",
       "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Mosquito Love",
+        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 195610,
+      "name": "Sour Berry",
+      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 291050,
+      "name": "Endit",
+      "url": "https://open.spotify.com/track/5ZJFobJ62N2HlpgyCjjVtm"
     }
   ],
   "unique_name": "Pool Party (2)",

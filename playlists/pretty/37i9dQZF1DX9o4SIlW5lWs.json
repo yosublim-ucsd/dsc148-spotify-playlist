@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Daniel Agostini.",
-  "num_followers": 211701,
+  "num_followers": 211748,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWNjMDIwNDI4YTRlMWI3ZGI2M2MwNGNjZmFiMTRhMDQ3NjNjMjRj",
+  "snapshot_id": "MCxiMDhkYjZjYzM5YjIzNzgzNjc2NjZhMGRiOGQ3YmNiZjhhYWZjMTQ3",
   "tracks": [
     {
       "added_at": "2024-02-16 03:00:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 284214,
-      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+      "duration_ms": 284214,
+      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Que Lloro / Mientes",
-        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 228494,
-      "name": "Que Lloro / Mientes",
-      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "25 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Que Lloro / Mientes",
+        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 228494,
+      "name": "Que Lloro / Mientes",
+      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Los M\u00e1s Grandes Exitos",
+        "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Se Me Ha Perdido un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Por Dios Que No",
         "url": "https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Los M\u00e1s Grandes Exitos",
-        "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Se Me Ha Perdido un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Es Tan Grande Este Amor",
         "url": "https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 226783,
       "name": "Fue Dif\u00edcil",
       "url": "https://open.spotify.com/track/6949gWWMFg0NWjam6SkCDA"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "No Podre Olvidarme",
+      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Volver a Vernos",
         "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
       "artists": [
         {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 195586,
-      "name": "No Podre Olvidarme",
-      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Los M\u00e1s Grandes Exitos",
         "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 184845,
       "name": "No Es Mi Despedida",
       "url": "https://open.spotify.com/track/5D5gQ5AB4Ih09bOstMMmKQ"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Tambo Tambo",
         "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
       "artists": [
         {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 164949,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1439,6 +1423,22 @@
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 164949,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalo",
+          "url": "https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i"
+        }
+      ],
+      "duration_ms": 206629,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 213506,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/4AwjZri8DDFBQQnZZKeVBF"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A"
-      },
-      "artists": [
-        {
-          "name": "Sonora Skandalo",
-          "url": "https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i"
-        }
-      ],
-      "duration_ms": 206629,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib"
     },
     {
       "added_at": "2024-02-16 03:00:00",

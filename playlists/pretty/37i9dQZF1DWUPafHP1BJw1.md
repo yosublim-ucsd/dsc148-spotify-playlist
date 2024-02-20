@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,368 likes - 109 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,499 likes - 109 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 108 | [Such Great Heights](https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/6obah2tloYKurr25coxtTm) | 4:38 |
 | 109 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `MCw0NWIxMzE1ZWNmZDc5NjMwOGE1ZDFhNWViMDE3ZDU3ZTc4NzFlMjdk`
+Snapshot ID: `MCxjOTdiMTNhZjlmZDg2YjY5YmQ1MmU0MzNjZTgzMmNhNGU1YTBhYzNj`

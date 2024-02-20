@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 10300,
+  "2024-02-20": 10303,
   "date_first_scraped": "2022-01-02",
   "description": "Blusher is our new RADAR artist to watch!",
   "name": "RADAR AU & NZ",
@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160786,
+      "name": "Adored",
+      "url": "https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe"
+    },
+    {
+      "album": {
         "name": "Adored",
         "url": "https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW"
       },
@@ -93,7 +111,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 160786,
       "name": "Adored",
       "url": "https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui"

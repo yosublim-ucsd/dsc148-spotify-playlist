@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 286991,
+  "num_followers": 287017,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTk1MDVjNDJjODFiZDc5YzM0ZjgyZGQ0M2VmZjRmMWMyZDlhYzMw",
+  "snapshot_id": "MCxiODZkZDgxNWJhYzk0OTA2MDZiZjFkNmY4NzU4YzZiZjhjNDc0N2Uy",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 123373,
+      "name": "Saddle Tramp",
+      "url": "https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
         "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
@@ -299,38 +315,6 @@
       "duration_ms": 142906,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 123373,
-      "name": "Saddle Tramp",
-      "url": "https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "For LP Fans Only",
-        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 115280,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -399,6 +383,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 115280,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "This Is Jean Shepard",
         "url": "https://open.spotify.com/album/5PsuJ2gGyTHhnWFrxbOrtV"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "The Best Of Duane Eddy",
+        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
         }
       ],
-      "duration_ms": 127560,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
+      "duration_ms": 153533,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Best Of Duane Eddy",
-        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
-      },
-      "artists": [
-        {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Jimmie Rodgers",
         "url": "https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl"
       },
@@ -527,22 +511,6 @@
       "duration_ms": 142333,
       "name": "Kisses Sweeter Than Wine",
       "url": "https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "They're Hanging Me Tonight",
-      "url": "https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -592,9 +560,25 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 122893,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+      "duration_ms": 127560,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "They're Hanging Me Tonight",
+      "url": "https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Kitty Wells\u2019 Country Hit Parade",
         "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
       },
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
+      "duration_ms": 122893,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "16 All Time Favorite Songs",
-        "url": "https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi"
+        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
+        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
       },
       "artists": [
         {
-          "name": "The Delmore Brothers",
-          "url": "https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ"
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        },
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Blues, Stay Away From Me",
-      "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
+      "duration_ms": 157000,
+      "name": "A Dear John Letter",
+      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
-        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
+        "name": "16 All Time Favorite Songs",
+        "url": "https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi"
       },
       "artists": [
         {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
-        },
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+          "name": "The Delmore Brothers",
+          "url": "https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ"
         }
       ],
-      "duration_ms": 157000,
-      "name": "A Dear John Letter",
-      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
+      "duration_ms": 174693,
+      "name": "Blues, Stay Away From Me",
+      "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Retrospective (Volume 2)",
         "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 172000,
       "name": "Too Old To Cut The Mustard",
       "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Dance To The Bop",
+        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Gotta Travel On: The Very Best Of Billy Grammar",
+        "url": "https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY"
+      },
+      "artists": [
+        {
+          "name": "Billy Grammer",
+          "url": "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
+        }
+      ],
+      "duration_ms": 150493,
+      "name": "Gotta Travel On",
+      "url": "https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "The Essential Don Gibson",
         "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 168640,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Gotta Travel On: The Very Best Of Billy Grammar",
-        "url": "https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY"
-      },
-      "artists": [
-        {
-          "name": "Billy Grammer",
-          "url": "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
-        }
-      ],
-      "duration_ms": 150493,
-      "name": "Gotta Travel On",
-      "url": "https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu"
     },
     {
       "added_at": "2023-01-02 21:32:07",

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 395187,
+  "num_followers": 395215,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTRiNzA0YzNkYzc3YmFhMjcwN2ZhOGIzNzA3YjcwOTFmMWI2NzY1",
+  "snapshot_id": "MCxmODYwMGRkNzVmMzEyZjFkYzJlOWJhZmRmYTg3YmJjMTkzNDIzYTgy",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Ultimate Big Band Collection: Glenn Miller",
-        "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Ultimate Big Band Collection: Glenn Miller",
+        "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Big Band Classics",
         "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
       },
@@ -223,22 +223,6 @@
       "duration_ms": 149986,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -279,6 +263,22 @@
       "duration_ms": 183000,
       "name": "Pistol Packin' Mama - Single Version",
       "url": "https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Ultimate Big Band Collection: Glenn Miller",
-        "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Chattanooga Choo Choo",
-      "url": "https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
         "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 187453,
       "name": "Rusty Dusty Blues",
       "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Ultimate Big Band Collection: Glenn Miller",
+        "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Chattanooga Choo Choo",
+      "url": "https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
     },
     {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
-    },
-    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Rumble Jam - Big Band and Jazz Themes",
@@ -767,6 +751,22 @@
       "duration_ms": 148166,
       "name": "The Night Is Ours",
       "url": "https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2020-03-06 16:28:56",

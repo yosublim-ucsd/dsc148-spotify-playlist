@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,017 songs - 2 day 5 hr 25 min
+1,018 songs - 2 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-21 | 2023-10-06 |
 | [Dirt](https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dirt](https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB) | 3:38 | 2023-11-09 | 2024-02-09 |
 | [Dirty Words](https://open.spotify.com/track/3EPkZ3xV2ZmqkZ04m7GVp2) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Being the girl](https://open.spotify.com/album/5pe9tPuqHpPnThwNfVCPpf) | 3:13 | 2021-12-16 | 2022-03-11 |
-| [Do I Make Sense](https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf) | [Helly](https://open.spotify.com/artist/3QGI6lFDEJq5o2yxhEtT16) | [Side Effects](https://open.spotify.com/album/0APh33IURQVK8qhsKVxq7g) | 3:24 | 2024-01-25 |  |
+| [Do I Make Sense](https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf) | [Helly](https://open.spotify.com/artist/3QGI6lFDEJq5o2yxhEtT16) | [Side Effects](https://open.spotify.com/album/0APh33IURQVK8qhsKVxq7g) | 3:24 | 2024-01-25 | 2024-02-20 |
 | [Do Yourself A Favor](https://open.spotify.com/track/3z6JKCqhbQn3ugsudRGYvj) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Do Yourself A Favor](https://open.spotify.com/album/2600bCiDKk5STWQQAjiU5Y) | 2:35 | 2021-12-16 | 2021-12-22 |
 | [Dom Kallar Mig För…](https://open.spotify.com/track/6RCOwKoJ4FFnPTT4cAoHWl) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Dom Kallar Mig För…](https://open.spotify.com/album/5E2K65cY1XssPNMQjPQrwZ) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [DOM SKA VETA](https://open.spotify.com/track/1pmGoAvlHYVrJHM5TJwshR) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 1:55 | 2021-12-16 | 2022-03-10 |
@@ -478,6 +478,7 @@
 | [Julia](https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Julia](https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg) | 3:09 | 2023-03-16 | 2023-10-06 |
 | [June/July](https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [June/July](https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl) | 3:25 | 2023-06-01 | 2023-08-05 |
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-12-16 | 2022-03-11 |
+| [JUSSI](https://open.spotify.com/track/5z7Zc81YRQHchQJXXIj6RE) | [ALVA](https://open.spotify.com/artist/5cutSKNdUWOwGrP7KsdNLU) | [JUSSI](https://open.spotify.com/album/6z5UZcjnwzfKYeXjKprt1i) | 3:23 | 2024-02-15 |  |
 | [Just A Girl](https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Just A Girl](https://open.spotify.com/album/7uW7dVCInNpUeXtLfk2JZz) | 3:43 | 2022-01-13 | 2022-09-16 |
 | [Kan nått fint få hända sen](https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Kan nått fint få hända sen](https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN) | 3:06 | 2023-10-06 | 2024-01-26 |
 | [Kanske borde dra](https://open.spotify.com/track/1346kMKphlGAWfvdDd0fk6) | [Solpolen](https://open.spotify.com/artist/6ac9VI7Y7cMncuAgzjJYaB) | [Kanske borde dra](https://open.spotify.com/album/4aCNpVLQ5Jk4I43Vp8ErC3) | 2:56 | 2024-02-08 | 2024-02-18 |

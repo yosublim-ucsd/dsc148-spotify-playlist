@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-396 songs - 1 day 0 hr 56 min
+397 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,8 +240,9 @@
 | [ウタカタララバイ](https://open.spotify.com/track/3IhHrBYZaxySuRu1zI7Vuk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 2:53 | 2022-08-11 | 2023-01-18 |
 | [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-08 | 2022-08-12 |
 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-07-04 | 2022-11-09 |
+| [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-19 |  |
 | [カナタハルカ](https://open.spotify.com/track/4Fh1CzvLHIUn26tjbZZ1mR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 5:55 | 2022-11-13 | 2023-02-16 |
-| [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2022-03-01 |  |
+| [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2022-03-01 | 2024-02-20 |
 | [キンモクセイ](https://open.spotify.com/track/7p8JJm7CT2F4k11f1DtNUa) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [イラつくときはいつだって](https://open.spotify.com/album/0KmXPL9gMri4vKUST5ohiY) | 3:51 | 2021-03-27\* | 2021-04-03 |
 | [キンモクセイ](https://open.spotify.com/track/2yXTuH22VMVjFME060zJRv) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [イラつくときはいつだって](https://open.spotify.com/album/3OlWxxWdp7T8Q6wHC34evE) | 3:51 | 2021-04-03 | 2021-04-07 |
 | [ギラギラ](https://open.spotify.com/track/7D7GCO3CtDT1WDcj2W5VDV) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ギラギラ](https://open.spotify.com/album/6PWrAq4x3xn2Y2HahVhiQF) | 4:36 | 2021-04-07 | 2021-12-26 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,747 songs - 4 day 0 hr 2 min
+1,748 songs - 4 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [DJAMMIÐ KALLAR](https://open.spotify.com/track/3sk0an74u9Mwr8syvmFCpl) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg), [Áslaug Helga](https://open.spotify.com/artist/0fxgP6SrjpTzEgiTbzlEta), [Nappi](https://open.spotify.com/artist/05NYmJduTDP7AxdCZei9kT) | [VÆB TÉKK](https://open.spotify.com/album/6rUaaCGu5UsPQsZOMeJTk0) | 2:08 | 2022-09-09 | 2022-09-11 |
 | [Djúp Sár Gróa Hægt](https://open.spotify.com/track/1aPtR7RxPkPBL385B9FYEl) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Kveðja, Bríet](https://open.spotify.com/album/3LSoEqFvR1Z4ichisNDAJT) | 4:11 | 2021-03-27\* | 2021-04-26 |
 | [DO IT](https://open.spotify.com/track/4YSa8VQxjzsski1DOsvkHH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:45 | 2024-02-12 | 2024-02-16 |
-| [DO IT](https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:45 | 2024-02-15 |  |
+| [DO IT](https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:45 | 2024-02-15 | 2024-02-20 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-19 | 2022-04-16 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-11 | 2021-12-27 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2022-12-10 | 2023-12-26 |
@@ -1395,6 +1395,7 @@
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2022-02-15 | 2022-03-08 |
 | [Stingið henni í steininn](https://open.spotify.com/track/4FO7upk8MhVmHTs4GQ4Wdg) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Stingið henni í steininn](https://open.spotify.com/album/3OqkmInmQMPZKHsvV0jNE2) | 3:11 | 2023-09-30 | 2024-01-23 |
 | [Stingið Henni í Steininn \(Live @ FM95BLÖ\)](https://open.spotify.com/track/1nJRvBcKtZvjWVGcaD6EFG) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Þessi Týpísku Jól](https://open.spotify.com/album/6ParLmmTIwyPsVlDRITR39) | 3:11 | 2023-11-11 | 2023-12-19 |
+| [Stingum af](https://open.spotify.com/track/0ms9fbjzBb27eS18maly1x) | [ANITA](https://open.spotify.com/artist/6gRZCPQeaEMD0bMJ4BaAkI) | [Söngvakeppnin 2024](https://open.spotify.com/album/1w0HnWILxap6N63DZpcsiJ) | 3:01 | 2024-02-19 |  |
 | [Stingum af](https://open.spotify.com/track/5mRekPJH49mEmpgryogt5K) | [ANITA](https://open.spotify.com/artist/6gRZCPQeaEMD0bMJ4BaAkI) | [Söngvakeppnin 2024](https://open.spotify.com/album/2CpsVSq2J9fxB2drEiBSco) | 3:01 | 2024-01-29 | 2024-01-31 |
 | [Stjörnulífið Intro](https://open.spotify.com/track/5sOcNP2uMSGYFt4iqF2hE3) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [Stjörnulífið](https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE) | 0:54 | 2023-01-07 | 2023-01-09 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-15 | 2024-02-06 |

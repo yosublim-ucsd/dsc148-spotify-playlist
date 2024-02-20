@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,134 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,155 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -486,7 +486,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 476 | [Teddy Boy Calypso Bring Back the Old Cat O' Nine](https://open.spotify.com/track/7yEgI7afrdTMLpFlVVD9l4) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Yankee Dollar](https://open.spotify.com/album/6YaaGMoJyo5pACsoYJSnan) | 2:40 |
 | 477 | [La Niña de Fuego](https://open.spotify.com/track/08IDshmxLocyRlWQybyrGl) | [Lolita Torres](https://open.spotify.com/artist/0fhBxe30C0J8XkxJyTFGsY) | [Cantando Soy Española](https://open.spotify.com/album/3FjRFp7Xa9UJtUIxVIVM2k) | 2:25 |
 | 478 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
-| 479 | [Bim Bom](https://open.spotify.com/track/3seuCZizOQmfyUwhbT2KXc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Remastered Edition\)](https://open.spotify.com/album/7zBrALWkq4ccTLQzFD1zfE) | 1:17 |
+| 479 | [Bim Bom](https://open.spotify.com/track/1xBNJg2dvZsmUM4yoBag9N) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:17 |
 | 480 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
 | 481 | [Ambasel](https://open.spotify.com/track/0rXts5trZGYIIXO9sKbHBy) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Hailu Mergia & His Classical Instrument: Shemonmuanaye](https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ) | 3:49 |
 | 482 | [Budi Setahun Segunung Intan](https://open.spotify.com/track/0nOdB3pUYURDusotlSsMuN) | [Datuk Ahmad Jais](https://open.spotify.com/artist/5DR3x1kevrEtZGk2FSSsB7), [Kartina Dahari](https://open.spotify.com/artist/1fOzHIScKPXsUOugUL3KQ5) | [Memori Hit](https://open.spotify.com/album/3vFf8DTJaYSf40I1PtyJTb) | 2:34 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`
+Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`

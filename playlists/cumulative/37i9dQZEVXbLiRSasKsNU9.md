@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,329 songs - 5 day 3 hr 39 min
+2,330 songs - 5 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1104,7 +1104,7 @@
 | [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 | 2023-03-27 | 2023-05-10 |
 | [La Melodía de Dios](https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C) | 4:45 | 2022-11-06 | 2022-11-13 |
 | [La Muerte](https://open.spotify.com/track/69YqoxUzLcdsXBRpZcqlsn) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:35 | 2023-11-20 | 2023-11-23 |
-| [La rondine](https://open.spotify.com/track/55leNp6KroYHp1x7FZueiq) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Disincanto](https://open.spotify.com/album/62kBhNGk90hBqoTmcHizXk) | 4:25 | 2024-02-13 |  |
+| [La rondine](https://open.spotify.com/track/55leNp6KroYHp1x7FZueiq) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Disincanto](https://open.spotify.com/album/62kBhNGk90hBqoTmcHizXk) | 4:25 | 2024-02-13 | 2024-02-20 |
 | [La Sonrisa Obligatoria](https://open.spotify.com/track/1nBOAbDuCryfokrS40T6w2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:40 | 2022-06-23 | 2022-07-06 |
 | [LA STREGA DEL FRUTTETO \(feat\. chiello & Madame\)](https://open.spotify.com/track/4g0OWz92tgdNlBgc80qF6y) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:05 | 2022-01-09 | 2022-01-17 |
 | [La Triple M](https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL) | [Mawell](https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN) | [La Triple M](https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA) | 3:21 | 2023-09-23 | 2023-10-15 |
@@ -2153,6 +2153,7 @@
 | [Varaha Roopam Daiva Va Rishtam](https://open.spotify.com/track/10XG8WGYgiQRBmbEaffnfi) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kantara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ANhkyLkujmP1HbDrMCvfM) | 4:36 | 2022-10-28 | 2022-11-13 |
 | [Varaha Roopam Daiva Va Rishtam](https://open.spotify.com/track/1EsgJ0sDCvdtWEho9Br0WT) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kantara \(Original Motion Picture Soundtrack\) \- Hindi](https://open.spotify.com/album/3i7pX6eDw9trPAXjGuGfg8) | 4:36 | 2022-11-12 | 2022-11-18 |
 | [Ve Haaniyaan](https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5) | [Ve Haaniyaan](https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5) | 4:00 | 2024-02-08 |  |
+| [Veda Türküsü](https://open.spotify.com/track/0LbHLvawTrjNv9wRKRjTrS) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [VEDA TÜRKÜSÜ](https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2) | 3:21 | 2024-02-19 |  |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-05-02 | 2022-05-25 |
 | [Vem Morenin](https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Pivete do Arrocha Funk](https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9) | 2:39 | 2023-07-31 | 2023-08-23 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-14 | 2022-08-10 |

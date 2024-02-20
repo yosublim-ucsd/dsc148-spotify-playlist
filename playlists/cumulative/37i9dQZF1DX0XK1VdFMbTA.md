@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-899 songs - 2 day 14 hr 29 min
+900 songs - 2 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2022-01-05 |  |
 | [Barbed Wire Love](https://open.spotify.com/track/5vWYEFE5oC9mFrpufdNqb8) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 3:32 | 2022-01-05 |  |
 | [Bargain](https://open.spotify.com/track/4Vtl42qX97JBj68TKifBHR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:33 | 2022-01-05 |  |
-| [Barrytown](https://open.spotify.com/track/7jkk1MrXJptKicctJKkXjC) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:20 | 2022-11-17 | 2024-02-19 |
+| [Barrytown](https://open.spotify.com/track/7jkk1MrXJptKicctJKkXjC) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:20 | 2022-11-17 |  |
 | [Barrytown](https://open.spotify.com/track/53GpNOI1Qe1tx0p6CROgwx) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 3:20 | 2022-01-05 | 2023-08-02 |
 | [Beautiful Girls \- 2015 Remaster](https://open.spotify.com/track/7Ly4DzymgujObKg7wWVHZV) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen II \(Remastered\)](https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI) | 3:56 | 2022-01-05 |  |
 | [Been down so Long](https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:39 | 2022-01-05 |  |
@@ -509,7 +509,7 @@
 | [Might Just Take Your Life \- Remastered 2004](https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:40 | 2022-01-05 | 2022-07-29 |
 | [Miss America](https://open.spotify.com/track/2UpMxlf6h57UsAU77G172s) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 5:02 | 2022-01-05 |  |
 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 | 2022-01-05 |  |
-| [Mississippi Kid](https://open.spotify.com/track/3xdwGhgjAVDJqkJhsVe91z) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 3:56 | 2022-01-05 |  |
+| [Mississippi Kid](https://open.spotify.com/track/3xdwGhgjAVDJqkJhsVe91z) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 3:56 | 2022-01-05 | 2024-02-20 |
 | [Mississippi Water](https://open.spotify.com/track/2StkxB942K8edpXLPM0vjU) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb) | [People's People](https://open.spotify.com/album/2BM11NM5bFa2lYqhhJxIab) | 3:33 | 2022-01-05 | 2022-07-27 |
 | [Mississippi Water](https://open.spotify.com/track/2VErcrm4ZMT0D5ThoKmsTH) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb), [Andwellas Dream](https://open.spotify.com/artist/4DV83JtR2UWtGzIyvEyGA8) | [People's People](https://open.spotify.com/album/2ZCpSljywkjNwL4FpLNQtJ) | 3:33 | 2022-01-05 |  |
 | [Mistreated \- Remastered 2004](https://open.spotify.com/track/34RISamoO5iubsOanSlpQo) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 7:28 | 2022-01-05 | 2022-07-29 |
@@ -567,7 +567,8 @@
 | [Oh Darling \- 2010 Remastered](https://open.spotify.com/track/089NMLhXz421ohFN55A3yo) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:02 | 2022-01-05 |  |
 | [Oliver's Army](https://open.spotify.com/track/1GIV1YzfuFzYAoUjwx3r7W) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces](https://open.spotify.com/album/3ZAHIjLdPoEmHGMCHtoMpq) | 2:59 | 2022-01-05 | 2022-07-29 |
 | [Oliver's Army](https://open.spotify.com/track/0a8yYDHKlOf2wlnVyeuf9o) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Seventies Music](https://open.spotify.com/album/4QEpeM1YQoaAxHFacTx79a) | 2:59 | 2022-01-05 | 2022-11-13 |
-| [Oliver's Army](https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:00 | 2022-01-05 |  |
+| [Oliver's Army](https://open.spotify.com/track/1fK4o91ATUTpvBCOZ2GKDh) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Super Deluxe Edition\)](https://open.spotify.com/album/1fIpP2UR5bKQbhhDoH6GyK) | 3:00 | 2022-11-17 |  |
+| [Oliver's Army](https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:00 | 2022-01-05 | 2024-02-20 |
 | [On Any Other Day](https://open.spotify.com/track/6rN4PWNTD8AY1mfLslqrQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 2:56 | 2022-01-05 | 2022-11-14 |
 | [On The Hunt](https://open.spotify.com/track/2e6qroe20tHfu8aTQSTglt) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 5:28 | 2022-01-05 |  |
 | [One After 909 \- Remastered 2009](https://open.spotify.com/track/50qHmeex1nPTyQTwBXjSE4) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 2:53 | 2022-01-05 |  |

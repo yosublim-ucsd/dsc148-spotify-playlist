@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Stand Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,316 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,385 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [No Thank You For The Music](https://open.spotify.com/track/02KgdbM5JkhtBUBIkjFaaA) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [No Thank You For The Music](https://open.spotify.com/album/5BtpS9O9Z6wGYb8RKMime5) | 3:49 |
 | 100 | [Late Start](https://open.spotify.com/track/2XKJdTyC04s10z8jberHmj) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Greatest Hangs](https://open.spotify.com/album/4v4tvpx7fkXA9sqHrKNSy1) | 2:28 |
 
-Snapshot ID: `MCxiMWZlNzU2NGZhYjcxNWEyMTVjYzI0NzA5YmFhMjA2ZjZhNjQ2OTJm`
+Snapshot ID: `MCxjODM3YTUxNDM5Y2I3OWExNDk2NGEyYjJjOWU3OTQ2NGM2Zjk3MDM5`

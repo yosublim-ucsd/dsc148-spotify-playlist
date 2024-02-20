@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,503 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,698 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 79 | [Delusional](https://open.spotify.com/track/1ZuT3WXc8VkSxGTGY9Pm4g) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Delusional](https://open.spotify.com/album/2WhyFL6JiegvEYGUasRomx) | 4:10 |
 | 80 | [White Water](https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V) | 3:53 |
 
-Snapshot ID: `MCwyN2ZmMGQzNjlmZWFmOGExOWUyYjI3YjljNmE0OWQ3MTAxN2JjYmNl`
+Snapshot ID: `MCw4NTRjYzc0MjEyZjJlNzE5NjVhOWIwNGE2ZTY0ZjI0MGJlMTIyNTEz`

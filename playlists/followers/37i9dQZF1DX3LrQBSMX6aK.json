@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 47073,
+  "2024-02-20": 47089,
   "date_first_scraped": "2021-12-28",
   "description": "Classical compositions from Ravi Shankar and more.",
   "name": "Indian Classical",
@@ -743,10 +743,28 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 351514,
       "name": "Jhuki Aayi Badariya",
       "url": "https://open.spotify.com/track/5SXpSPaHd8y64hMBSQKRnw"
+    },
+    {
+      "album": {
+        "name": "Jhuki Aayi Badariya",
+        "url": "https://open.spotify.com/album/0WBU61Fd1qBsaFWzo8n5w7"
+      },
+      "artists": [
+        {
+          "name": "Pamela Jain",
+          "url": "https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351514,
+      "name": "Jhuki Aayi Badariya",
+      "url": "https://open.spotify.com/track/6J14UQWmV5WPTwMv2SPOag"
     },
     {
       "album": {
@@ -2526,6 +2544,48 @@
     },
     {
       "album": {
+        "name": "Manoyatri",
+        "url": "https://open.spotify.com/album/6QC3xaw8QKzqhBe6FUFcQm"
+      },
+      "artists": [
+        {
+          "name": "Avra Banerjee",
+          "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
+        },
+        {
+          "name": "Ambi Subramaniam",
+          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
+        },
+        {
+          "name": "Mainak Nag Chowdhury",
+          "url": "https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH"
+        },
+        {
+          "name": "Raghab Chatterjee",
+          "url": "https://open.spotify.com/artist/6de3NMC8U7wqL5nW4rLvVA"
+        },
+        {
+          "name": "Tamal Kanti Halder",
+          "url": "https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW"
+        },
+        {
+          "name": "Swapan Chaudhuri",
+          "url": "https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT"
+        },
+        {
+          "name": "Taufiq Qureshi",
+          "url": "https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534514,
+      "name": "When Kailasha muses",
+      "url": "https://open.spotify.com/track/0GdI7rL0gxcmrOo9wE1whk"
+    },
+    {
+      "album": {
         "name": "When Kailasha muses (From the Album \"Manoyatri\")",
         "url": "https://open.spotify.com/album/3VdeDvnTdasqNTpI6HqjJV"
       },
@@ -2561,7 +2621,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 534514,
       "name": "When Kailasha muses",
       "url": "https://open.spotify.com/track/6bBEd2hBTjDWEw22v4At5i"

@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-316 songs - 19 hr 46 min
+317 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [delay](https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Tiny Things](https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT) | 3:37 | 2023-04-21 | 2023-05-23 |
 | [Delicate Dark](https://open.spotify.com/track/66PueoWfYEelSTykaRJLSU) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Delicate Dark](https://open.spotify.com/album/3EmqLGDhIIH6LMnx2A5q6R) | 3:02 | 2023-06-16 | 2023-09-16 |
 | [Detour](https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG) | 3:33 | 2022-10-07 | 2024-02-09 |
+| [Detour](https://open.spotify.com/track/6qn7IWtDaT6bLeecinhOsO) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/0OPDYF1cEKOYbuY9w9RwXc) | 3:33 | 2024-01-03 |  |
 | [Detour](https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT) | 3:33 | 2021-10-29 | 2022-10-13 |
 | [Didn't Know You Then](https://open.spotify.com/track/6oyDy1XJfGKBjvwdQMWpOX) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 4:13 | 2023-08-25 | 2023-10-16 |
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2021-10-29 | 2022-07-29 |
@@ -306,7 +307,7 @@
 | [We Don't Know](https://open.spotify.com/track/3eL5l4NdFBIc9J7rAFhDZL) | [Beeches](https://open.spotify.com/artist/1E0QKf8pdbq9zoiwZoHAGh) | [We Don't Know](https://open.spotify.com/album/1pClZAFP2hH0X5qCSXMCcz) | 3:30 | 2022-04-15 | 2022-04-19 |
 | [We Know the Way Back Home](https://open.spotify.com/track/7pOqf0QrSk5bkRT4lj7vIM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Featherbrained Wealth Motel](https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo) | 2:15 | 2023-12-08 | 2024-01-04 |
 | [Weather2020](https://open.spotify.com/track/726E9Bz9YOJUD65r155ZXQ) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Charlie Whitten](https://open.spotify.com/artist/2s49L4iq7P9PdxKOAXgcLg) | [290520](https://open.spotify.com/album/4dlBHjqNQvkOTnKTOVsUta) | 4:49 | 2021-10-29 | 2022-01-29 |
-| [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 | 2021-10-29 |  |
+| [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 | 2021-10-29 | 2024-02-20 |
 | [Weeds](https://open.spotify.com/track/71iWjFGvH1mnBZiMziR6cu) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Weeds](https://open.spotify.com/album/6BD4Jo940ZvwYNp01Ex34n) | 4:15 | 2021-10-29 | 2022-07-19 |
 | [What Have We Got to Lose](https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [What Have We Got to Lose](https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf) | 2:49 | 2022-10-07 | 2022-11-29 |
 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/1E0vSW2F5dlVF2gP14pqKs) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Heron](https://open.spotify.com/album/7csQzflMm21S2om4y9HpGX) | 4:39 | 2022-04-15 | 2023-04-16 |

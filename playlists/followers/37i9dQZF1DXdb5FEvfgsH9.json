@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 24189,
+  "2024-02-20": 24204,
   "date_first_scraped": "2022-08-06",
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
   "name": "Crisp",
@@ -25,6 +25,24 @@
       "duration_ms": 223177,
       "name": "(Baby I) Need Your Love",
       "url": "https://open.spotify.com/track/7wV4rDX1iaPLB388EGYl0y"
+    },
+    {
+      "album": {
+        "name": "Adult Contemporary",
+        "url": "https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273080,
+      "name": "(I Don't Need A) New Girl",
+      "url": "https://open.spotify.com/track/1uYMePrdjwPmpvaEJAy1bX"
     },
     {
       "album": {
@@ -57,7 +75,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 273080,
       "name": "(I Don't Need A) New Girl",
       "url": "https://open.spotify.com/track/62j1wP9DisLMkvglJKLJx7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,661 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,695 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 2 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 3 | [Midnight](https://open.spotify.com/track/7psutBuseT6JzAqmwtEw2k) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [Midnight](https://open.spotify.com/album/0bkhNIe24XoYr1lDrbxGYT) | 3:04 |
 | 4 | [Bad Nature](https://open.spotify.com/track/3dQ1TvJ7I1SrtyyMKvmAaL) | [Sasha Assad](https://open.spotify.com/artist/206QVzYQsLZxNjrUaROEyQ) | [Bad Nature](https://open.spotify.com/album/1Mvbde4pOE4EuTF5SwMJ3B) | 3:10 |
-| 5 | [Where We've Been](https://open.spotify.com/track/1roZVHlL8RR4s6cdrHl2qZ) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where We've Been](https://open.spotify.com/album/6ZADkFBIE0TDXapyOthWL0) | 5:15 |
+| 5 | [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 |
 | 6 | [Weak Blood](https://open.spotify.com/track/3TZBWDjAStSMDSLKNxEdq2) | [Raue](https://open.spotify.com/artist/0N3GaGdqGJYLZTa6L04tuI) | [Weak Blood](https://open.spotify.com/album/2W6j6rTLJzlEfx1GuVfBGk) | 3:52 |
 | 7 | [Me and You](https://open.spotify.com/track/4nR1g8s1xK4JZ8FHcWuN5v) | [Vortxz](https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8), [Eucalyption](https://open.spotify.com/artist/52FqH2vaHDWjFwshT3jkjr) | [Me and You](https://open.spotify.com/album/0D8rqlxZRMoblUWXwjy11A) | 3:31 |
 | 8 | [So Long](https://open.spotify.com/track/1mQYvjPXigBBxEyM6VfPPp) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Stupid and Famous](https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0) | 1:54 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 100 | [Half Tank](https://open.spotify.com/track/6eeTmM6NgqFKxEyvbN8e5d) | [Wet Nights](https://open.spotify.com/artist/6KfM7n9lgcfBmiz9vrhqF3) | [Half Tank](https://open.spotify.com/album/2cNScKizCqLxWx4REOJ7BF) | 4:06 |
 | 101 | [Plateau](https://open.spotify.com/track/3VBNyssoLrTaLW1NAbibss) | [Hexmaze](https://open.spotify.com/artist/2RaLhh25Ct5KABbL3J332E) | [Plateau](https://open.spotify.com/album/1lVO4AstvS0S7tR1y8t9ko) | 4:42 |
 
-Snapshot ID: `MCw1MjY1N2JmMTY0MWJkYWY0ZTQ0MDUzYTJkOTIzMWJiZjQyYTU2NGJm`
+Snapshot ID: `MCxiNGEyYjQ3MGRiMjY0M2UxZDBmNTg5MzY0MTRmODM1YzkwODk2NDEx`

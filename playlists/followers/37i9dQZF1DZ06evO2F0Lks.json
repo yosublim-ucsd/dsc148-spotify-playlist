@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 140439,
+  "2024-02-20": 140460,
   "date_first_scraped": "2022-09-09",
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
   "name": "This Is Carrie Underwood",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 237600,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 168280,
       "name": "Denim & Rhinestones",
       "url": "https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 257893,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 66093,
       "name": "Jesus Loves Me - instrumental",
       "url": "https://open.spotify.com/track/2HFuzPcb8cCYE2qEuT2dHu"

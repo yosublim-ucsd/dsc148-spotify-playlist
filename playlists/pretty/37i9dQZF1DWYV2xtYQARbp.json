@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14788,
+  "num_followers": 14794,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQyZjc0YjM1YWU1ZjYyNzY5Zjk2Y2NkOWMyOTZmZTllMTBkZTNm",
+  "snapshot_id": "MCwwNjQzYjZjOGUzZDE4NGZjZWIyMDVkOTY3NjRiYTZhNmMzY2U4OWY3",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Acme",
-        "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 182840,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA"
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -171,18 +171,50 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+        "name": "Two Headed Cow",
+        "url": "https://open.spotify.com/album/6Rb1b126QqVXTwmxCwbBmY"
       },
       "artists": [
         {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+          "name": "Flat Duo Jets",
+          "url": "https://open.spotify.com/artist/2IkKf7MxjvDA8HWGy5xOyC"
         }
       ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+      "duration_ms": 138413,
+      "name": "Frog Went a Courtin'",
+      "url": "https://open.spotify.com/track/5mTijfc5CMHsXVwHWkVuTl"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Acme",
+        "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Horndog Fest",
+        "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
+      },
+      "artists": [
+        {
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "I Can't Stop Thinking About It",
+      "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -219,38 +251,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Ditch",
-      "url": "https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Horndog Fest",
-        "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
-      },
-      "artists": [
-        {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "I Can't Stop Thinking About It",
-      "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "All You Can Eat!!",
         "url": "https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 237173,
       "name": "Crackalacka",
       "url": "https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "The Way I Walk",
+      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -283,18 +299,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Two Headed Cow",
-        "url": "https://open.spotify.com/album/6Rb1b126QqVXTwmxCwbBmY"
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
       },
       "artists": [
         {
-          "name": "Flat Duo Jets",
-          "url": "https://open.spotify.com/artist/2IkKf7MxjvDA8HWGy5xOyC"
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
         }
       ],
-      "duration_ms": 138413,
-      "name": "Frog Went a Courtin'",
-      "url": "https://open.spotify.com/track/5mTijfc5CMHsXVwHWkVuTl"
+      "duration_ms": 154933,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -311,22 +327,6 @@
       "duration_ms": 119026,
       "name": "Christina",
       "url": "https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "The Way I Walk",
-      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Fire of Love (Remastered 2020)",
         "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 138240,
       "name": "Thunderbird ESQ",
       "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Ultraglide In Black",
         "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 188546,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "You, The Night\u2026 and The Music",
-        "url": "https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP"
-      },
-      "artists": [
-        {
-          "name": "Gallon Drunk",
-          "url": "https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Just One More",
-      "url": "https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The Kids Are All Square - This Is Hip & Girlsville",
         "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "You, The Night\u2026 and The Music",
+        "url": "https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP"
+      },
+      "artists": [
+        {
+          "name": "Gallon Drunk",
+          "url": "https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Just One More",
+      "url": "https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "14 Frenzied Shakers",
         "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Nothing Can Stop These Men",
-        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
-      },
-      "artists": [
-        {
-          "name": "The Milkshakes",
-          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Ida Honey (Tell Me You'll Be Mine)",
-      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Whatcha Doin'",
         "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 217040,
       "name": "Summer Sun Blues",
       "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Nothing Can Stop These Men",
+        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
+      },
+      "artists": [
+        {
+          "name": "The Milkshakes",
+          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Ida Honey (Tell Me You'll Be Mine)",
+      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
     },
     {
       "added_at": "2022-03-28 20:14:58",

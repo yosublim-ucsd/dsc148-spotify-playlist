@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,680 songs - 3 day 2 hr 37 min
+1,681 songs - 3 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [A Promise](https://open.spotify.com/track/12mPhV7uZAyDaR2oXMTu6Z) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [A Promise](https://open.spotify.com/album/55oB3A73oj2Vwoghk6ovQc) | 2:32 | 2022-06-03 | 2022-10-25 |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2020-10-13 | 2022-05-27 |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-09-01 | 2022-12-06 |
+| [A Safe Space](https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [A Safe Space](https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU) | 2:28 | 2024-02-19 |  |
 | [A Secret Within](https://open.spotify.com/track/0xIdhwtIiUcA9IJXJjiWYS) | [Alina Yanovna](https://open.spotify.com/artist/1bcouKXyjgMXRI4zCQXo3Y) | [A Secret Within](https://open.spotify.com/album/2ZC5VlvFDg6ePLkPkGzicH) | 2:43 | 2020-06-24 | 2021-02-09 |
 | [A Simple Little Lullaby](https://open.spotify.com/track/0If3zfg7N68SAaDgPAQa9l) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [A Simple Little Lullaby](https://open.spotify.com/album/5ro6Pk3RdEAVaf3HywFSOe) | 2:40 | 2019-08-02 | 2020-04-21 |
 | [A Simpler Time](https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A Simpler Time](https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4) | 2:27 | 2022-11-21 |  |
@@ -671,7 +672,7 @@
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-10-13 | 2022-12-06 |
 | [Je t'ai vu](https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Je t'ai vu](https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X) | 3:00 | 2022-10-03 | 2023-12-06 |
 | [Je vous ai trouvé](https://open.spotify.com/track/4PLaetqDYcJK1e6VFb361C) | [Verney Pépin](https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ) | [Je vous ai trouvé](https://open.spotify.com/album/2u9QYGFP25RUHD19s0rd4e) | 2:20 | 2022-10-03 | 2023-12-06 |
-| [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-09-11 |  |
+| [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-09-11 | 2024-02-20 |
 | [Jeremy and Maureen](https://open.spotify.com/track/7ISwUxOAvFJhIM7Q9c1mcu) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Jeremy and Maureen](https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf) | 3:24 | 2019-08-08 | 2020-01-14 |
 | [Judith](https://open.spotify.com/track/2HZvqPIKMNyKyP53u9JZ5O) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Omkuld](https://open.spotify.com/album/6akvgxd9939Fa5T9ftV0YY) | 2:55 | 2019-07-25 | 2020-04-21 |
 | [Julia](https://open.spotify.com/track/3q5Z6pJSHH8s2ClI7WS45p) | [Jenna Elizabeth](https://open.spotify.com/artist/5If5kZtYCXDNwUSgVqu5Fr) | [Julia](https://open.spotify.com/album/5h0ryO3dNKBJ8gywTezvD2) | 2:36 | 2021-08-05 | 2022-10-04 |
@@ -883,7 +884,7 @@
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-06-10 | 2022-09-13 |
 | [Modena](https://open.spotify.com/track/3iEbunxqmwNPKpuleXc3GD) | [Francesco Tulman](https://open.spotify.com/artist/4EdOyuppNt5Sa85jGs4dC4) | [Forgiveness](https://open.spotify.com/album/1Znd2KJt1kbfwFqBjur2bU) | 2:19 | 2020-08-04 | 2021-11-11 |
 | [Moment of Silence](https://open.spotify.com/track/5bAeFY9aWmcu0PKqDfUNgc) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Moment of Silence](https://open.spotify.com/album/1dNQqeC8YWcWicqTOd7ngE) | 3:33 | 2020-09-15 | 2022-04-15 |
-| [Moment of Solace](https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Moment of Solace](https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1) | 2:18 | 2023-12-11 |  |
+| [Moment of Solace](https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Moment of Solace](https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1) | 2:18 | 2023-12-11 | 2024-02-20 |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-01-04 | 2023-11-29 |
 | [Momentum](https://open.spotify.com/track/3dTGRSCi9Zw7fT5lA2mDnV) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Momentum](https://open.spotify.com/album/2unepZAwGZ41hI7ZRHxH8f) | 2:27 | 2021-12-21 | 2022-09-24 |
 | [Mon Ami](https://open.spotify.com/track/5uq2R1bTmJaqRrY8uwstVS) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Mon Ami](https://open.spotify.com/album/6O7GyDT1FY6Yi1mZ7wd3vs) | 2:26 | 2022-02-02 | 2022-07-29 |
@@ -1612,7 +1613,7 @@
 | [Waves](https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:04 | 2020-12-08 | 2022-03-18 |
 | [Waves](https://open.spotify.com/track/6jFdydFW7HvS77aiiRR9XL) | [Oscar Basza](https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ) | [Waves](https://open.spotify.com/album/1othuB5lIGVpjNe7OUvzln) | 2:07 | 2021-03-24 | 2022-07-29 |
 | [We Contain Multitudes \(from home\)](https://open.spotify.com/track/13MOQ6oQqkrZEDkZOHukCw) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes \(from home\)](https://open.spotify.com/album/6s61oZwe1dZuqBFi1pPo09) | 3:10 | 2020-09-01 | 2021-08-05 |
-| [We were the hook](https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [We were the hook](https://open.spotify.com/album/5qtASuu0vG7fEmdjnb9ytb) | 2:07 | 2022-07-06 |  |
+| [We were the hook](https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [We were the hook](https://open.spotify.com/album/5qtASuu0vG7fEmdjnb9ytb) | 2:07 | 2022-07-06 | 2024-02-20 |
 | [We Won't Waltz Together](https://open.spotify.com/track/3tFwWjy78LQ2NOWANzWMdS) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [We Won't Waltz Together](https://open.spotify.com/album/5QMCSEHMqFmqOQhSWFQGWD) | 2:06 | 2020-04-28 | 2021-09-24 |
 | [Weaving](https://open.spotify.com/track/2HZqH4rqLWKZDZheQK0EUz) | [Moy Finneas](https://open.spotify.com/artist/1SlY8qPtaWfHek8pWieEkw) | [Weaving](https://open.spotify.com/album/389iBNdZJJo5xUYdDWjW3i) | 2:13 | 2020-03-11 | 2021-05-22 |
 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 | 2021-12-21 | 2022-04-29 |

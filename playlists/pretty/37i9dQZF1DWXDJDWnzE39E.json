@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Courtney LaPlante of Spiritbox",
-  "num_followers": 651498,
+  "num_followers": 651795,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmJjYzJmNjNmYjdlMjNlNDBiODRkMzRjNjI1ZGRhN2RjMjc3MWVj",
+  "snapshot_id": "MCxiZmZmZTk0YjhhODFjMGYyM2VjNTdhNmEzNzVjZmM4MWRlMjBmODMx",
   "tracks": [
     {
       "added_at": "2024-02-16 12:14:47",
@@ -223,70 +223,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "Atonement",
-      "url": "https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "The Phantom Agony (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Sensorium",
-      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Rotoscope",
         "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
       },
@@ -299,6 +235,38 @@
       "duration_ms": 215362,
       "name": "Rotoscope",
       "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 254811,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -335,74 +303,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
         }
       ],
-      "duration_ms": 254811,
-      "name": "The In-Between",
-      "url": "https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        },
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 139728,
-      "name": "Clique",
-      "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Manifest",
-        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        },
-        {
-          "name": "Noora Louhimo",
-          "url": "https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl"
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -427,6 +339,90 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 139728,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Sensorium",
+      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -439,6 +435,26 @@
       "duration_ms": 302179,
       "name": "How's the Heart?",
       "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        },
+        {
+          "name": "Noora Louhimo",
+          "url": "https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 233472,
       "name": "Lay All Your Love on Me",
       "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "welcome2paradise",
-        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "MY MASOCHISTIC MIND",
         "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "welcome2paradise",
+        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Amorphous",
-        "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
-      },
-      "artists": [
-        {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Brittle",
-      "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 300647,
       "name": "Flux",
       "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Amorphous",
+        "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Brittle",
+      "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
     },
     {
       "added_at": "2024-02-16 12:14:47",

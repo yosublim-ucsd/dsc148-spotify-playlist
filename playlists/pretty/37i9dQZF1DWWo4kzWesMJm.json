@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 146935,
+  "num_followers": 146988,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzA4MmIwNjkwM2Y2ZDk3NjkwZWI1NDgzNzRhNTlmODYzMDRiODYw",
+  "snapshot_id": "MCxjM2U5ODAwYzRiNjczZjc3NjVlZjc0ZjNkZWQ3Y2FhOGE1YmFkYTQ3",
   "tracks": [
     {
       "added_at": "2024-01-05 14:21:14",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
+        "name": "L'attrape-r\u00eaves",
+        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Il est o\u00f9 le bonheur",
+      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
         "name": "Petite Amie (Edition D\u00e9lice)",
         "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 159173,
       "name": "Poup\u00e9e Russe",
       "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
-        "name": "L'attrape-r\u00eaves",
-        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Il est o\u00f9 le bonheur",
-      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 233813,
       "name": "\u00c0 nos h\u00e9ros du quotidien",
       "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Libert\u00e9 ch\u00e9rie",
         "url": "https://open.spotify.com/album/7lxtIDOmhph5iuna24OZHC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 226386,
       "name": "1987",
       "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
+        "name": "Les feux d'artifice",
+        "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 294173,
+      "name": "Un jour au mauvais endroit",
+      "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 211106,
       "name": "Que Dieu me pardonne",
       "url": "https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
-        "name": "Les feux d'artifice",
-        "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 294173,
-      "name": "Un jour au mauvais endroit",
-      "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 225640,
       "name": "Coco C\u00e2line",
       "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
         "name": "Week End \u00c0 Rome",
         "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
@@ -1143,38 +1159,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "L'instant d'apr\u00e8s",
         "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Tout savoir",
-        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e9",
-          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Tout savoir",
-      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Je Dis Aime",
         "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 236600,
       "name": "Je dis aime",
       "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     }
   ],
   "unique_name": "Bleu Blanc Route",

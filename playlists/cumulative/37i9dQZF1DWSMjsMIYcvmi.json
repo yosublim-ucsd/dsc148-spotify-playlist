@@ -954,7 +954,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 200838,
       "name": "I\u2019m Ready (with Demi Lovato)",
       "url": "https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY"
@@ -2052,6 +2052,32 @@
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "album": {
+        "name": "God Decides",
+        "url": "https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A"
+      },
+      "artists": [
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197445,
+      "name": "Whipped",
+      "url": "https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-375 songs - 23 hr 19 min
+376 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Take Me Home, Country Roads](https://open.spotify.com/track/2UJ9eh4cex6ulccBrskJXd) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings John Denver](https://open.spotify.com/album/5TK7Ou3CpOkmxPGyRWvtwU) | 3:32 | 2021-12-10 |  |
 | [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-06-08 | 2022-09-05 |
 | [Terms of Surrender](https://open.spotify.com/track/4bHIsdXLSWWONWKv15L5YT) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:11 | 2021-12-10 | 2022-07-29 |
-| [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 | 2023-04-14 |  |
+| [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 | 2023-04-14 | 2024-02-20 |
 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 | 2022-06-08 |  |
 | [The Barrel \- Edit](https://open.spotify.com/track/5ptT7iorqwpxAtZzVuIei0) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 3:39 | 2021-12-10 | 2022-07-29 |
 | [The Bear \(Trio\)](https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [The Doubles](https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V) | 4:24 | 2021-12-10 | 2022-07-28 |
@@ -312,6 +312,7 @@
 | [The Solitude](https://open.spotify.com/track/3zUBTeyqDS1GF1rFWZ8kvj) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Solitude](https://open.spotify.com/album/7Je0ebJ8Ipmf03Kxv2e63q) | 3:46 | 2021-12-10 | 2022-07-29 |
 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 | 2022-06-08 |  |
 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 | 2022-06-08 |  |
+| [THE SUN & THE SEA](https://open.spotify.com/track/5cU8WxF8Z0YAM20DP2ojX9) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [DANCING IN THE DARK](https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p) | 3:00 | 2023-09-29 |  |
 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-06-08 | 2024-02-03 |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-12-10 | 2022-07-29 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2022-06-08 |  |

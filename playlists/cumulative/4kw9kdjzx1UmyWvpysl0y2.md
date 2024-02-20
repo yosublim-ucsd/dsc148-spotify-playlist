@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-661 songs - 1 day 14 hr 15 min
+662 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [No Rules](https://open.spotify.com/track/1npTTol6bjMu5d92nSSAzQ) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Rules](https://open.spotify.com/album/33U85hMhMP9VCxoB2psDpm) | 2:22 | 2023-09-06 | 2024-01-11 |
 | [No Rules](https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [No Rules](https://open.spotify.com/album/4u1rgicxUL8QDXsz6kandx) | 9:07 | 2023-06-21 | 2023-09-26 |
 | [No Service](https://open.spotify.com/track/1R2g5R7ckiCczur5kd3BfI) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp) | [No Service](https://open.spotify.com/album/5XvkGrC973JZubUWp20vYD) | 3:00 | 2023-02-16 | 2023-05-05 |
+| [No Tomorrow](https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [No Tomorrow](https://open.spotify.com/album/1swqPWfvWrpOON97OKZ6Bx) | 3:31 | 2024-02-19 |  |
 | [Nobody Knows](https://open.spotify.com/track/3Rf0QthnKw45CyaZmyAK4N) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Nobody Knows](https://open.spotify.com/album/1QspXe5CfdcrFQOBW1ystX) | 2:57 | 2022-11-11 | 2022-11-20 |
 | [Nobody Knows](https://open.spotify.com/track/7GH3qhh9oHGQA6hje5r9DR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 2:57 | 2022-11-19 | 2022-11-22 |
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-04-28 | 2022-07-09 |

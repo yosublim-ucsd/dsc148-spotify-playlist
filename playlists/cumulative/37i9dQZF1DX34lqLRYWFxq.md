@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: Royel Otis
 
-866 songs - 2 day 0 hr 6 min
+867 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,7 +726,8 @@
 | [Tear Me To Pieces](https://open.spotify.com/track/5zJiFmoADZPlvXPO1PuI0d) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Tear Me To Pieces](https://open.spotify.com/album/6VkLYHpgk4saImc0fFOZYi) | 3:07 | 2023-03-17 | 2023-05-20 |
 | [Temporary Dopamine](https://open.spotify.com/track/4J8Rge65ytAofdJUfUaqiJ) | [Jesse Merineau](https://open.spotify.com/artist/6ZZFdCU3kmBaCtZnHLeHE4) | [Temporary Dopamine](https://open.spotify.com/album/0lDKRECy0dM2E00xHjufiP) | 3:05 | 2023-04-28 | 2023-07-29 |
 | [Tender Villain](https://open.spotify.com/track/03sl7CxshsxF4gh4pOB7c1) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI) | [Tender Villain](https://open.spotify.com/album/6liVpV2XCjdexlaYMaDmEV) | 2:47 | 2023-02-24 | 2023-04-29 |
-| [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 | 2024-01-12 |  |
+| [Terrible News](https://open.spotify.com/track/1Fq62so6JYiEizTz8o1aVW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:52 | 2024-02-16 |  |
+| [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 | 2024-01-12 | 2024-02-20 |
 | [Terrible Perfect Timing](https://open.spotify.com/track/1wcI2ZMaH00isnVDqBuLzI) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Terrible Perfect Timing](https://open.spotify.com/album/66xIkINmnzMyiIk0N0nSJV) | 2:32 | 2023-10-20 | 2023-12-09 |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2023-10-13 | 2023-12-02 |
 | [The Absent Sea](https://open.spotify.com/track/6hQCfppZa3B4gs5TwytSDF) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [The Absent Sea](https://open.spotify.com/album/3PsHxIsmHKdXak2kT4ufYd) | 5:06 | 2023-08-11 | 2023-09-23 |

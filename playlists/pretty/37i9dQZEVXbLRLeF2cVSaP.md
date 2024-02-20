@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,966 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,981 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Контракт](https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Контракт](https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq) | 3:24 |
 | 50 | [Остров](https://open.spotify.com/track/0uhI1APF1D4scWNrOUCMIw) | [My](https://open.spotify.com/artist/3WGL5CRtgYd8Tm5elcbsdV) | [Ближе Part2](https://open.spotify.com/album/01uAUykKCf6D42apWGMxhk) | 2:26 |
 
-Snapshot ID: `NzYxNjIwODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYxNzA3MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

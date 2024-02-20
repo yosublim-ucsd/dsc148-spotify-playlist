@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Omar Courtz",
-  "num_followers": 508669,
+  "num_followers": 508700,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmNkZWNiMGJhN2EzMDQ2YzM4YjY4ZTM4Nzg4MDViOTgwYTE2Y2E4",
+  "snapshot_id": "MCxhYzA3NGU4YWIxZGZjOGE3N2E5ZDgzNmVkNDAyMGQ5MWMwZWM0NTNk",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Tacos Gucci",
+        "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tacos Gucci",
+      "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 176800,
       "name": "TEN",
       "url": "https://open.spotify.com/track/4t5WkxLy4kh02Ycl5W6WOT"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Tacos Gucci",
-        "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tacos Gucci",
-      "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -847,6 +847,30 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Lollipop (Remix)",
+        "url": "https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 266616,
+      "name": "Lollipop - Remix",
+      "url": "https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ"
       },
@@ -927,30 +951,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Lollipop (Remix)",
-        "url": "https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 266616,
-      "name": "Lollipop - Remix",
-      "url": "https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Oye BB",
         "url": "https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Carrusel",
+        "url": "https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Carrusel",
+      "url": "https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Maria (Remix)",
         "url": "https://open.spotify.com/album/2fucowTAaCNo2uMALeEO83"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 182123,
       "name": "Maria - Remix",
       "url": "https://open.spotify.com/track/79RznOnBinLenZ5UVBiVuk"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Carrusel",
-        "url": "https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Carrusel",
-      "url": "https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "BBY BOO",
+        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "BBY BOO",
+      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "+ Paca M\u00e1s El\u00e1stico",
         "url": "https://open.spotify.com/album/5AxZHvhaqY1zMszup4tDIU"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "BBY BOO",
-        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "BBY BOO",
-      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "BAD INTENCIONES",
         "url": "https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 169285,
       "name": "BAD INTENCIONES",
       "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "NO HAY 14F",
+        "url": "https://open.spotify.com/album/3rolYL8OssuXAYSQ6sAyYA"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "NO HAY 14F",
+      "url": "https://open.spotify.com/track/5KCyauWkzy7fF9KU3hKE1H"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "NO HAY 14F",
-        "url": "https://open.spotify.com/album/3rolYL8OssuXAYSQ6sAyYA"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "NO HAY 14F",
-      "url": "https://open.spotify.com/track/5KCyauWkzy7fF9KU3hKE1H"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "PLEBITA",
         "url": "https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW"
       },
@@ -1243,6 +1243,26 @@
       "duration_ms": 147228,
       "name": "PLEBITA",
       "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "KE LA CASTIGUEN",
+        "url": "https://open.spotify.com/album/2ECnJhv0Aq8MDClUNcLDsM"
+      },
+      "artists": [
+        {
+          "name": "LOUKI",
+          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "KE LA CASTIGUEN",
+      "url": "https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1267,26 +1287,6 @@
       "duration_ms": 165000,
       "name": "Fraternidad",
       "url": "https://open.spotify.com/track/1csXmch0iAC6INGXOrblsy"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "KE LA CASTIGUEN",
-        "url": "https://open.spotify.com/album/2ECnJhv0Aq8MDClUNcLDsM"
-      },
-      "artists": [
-        {
-          "name": "LOUKI",
-          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "KE LA CASTIGUEN",
-      "url": "https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Ke onda mami",
+        "url": "https://open.spotify.com/album/3JSPMTpwovsOLxE42j86fd"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Ke onda mami",
+      "url": "https://open.spotify.com/track/3YAaX53OAo2FUCUANHXge4"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "EL HUBIERA NO EXISTE",
         "url": "https://open.spotify.com/album/6WfpAc4WWaI3cDui7TznGx"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 215000,
       "name": "EL HUBIERA NO EXISTE",
       "url": "https://open.spotify.com/track/5xb2KC2nksF2fbcjscN3zH"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Ke onda mami",
-        "url": "https://open.spotify.com/album/3JSPMTpwovsOLxE42j86fd"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Ke onda mami",
-      "url": "https://open.spotify.com/track/3YAaX53OAo2FUCUANHXge4"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "MULTIVERSO",
+        "url": "https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "MULTIVERSO",
+      "url": "https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Que no salga",
         "url": "https://open.spotify.com/album/49VYtRUxWgwfDIiIyaR4It"
       },
@@ -1539,6 +1555,30 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/7qEVfrwtDrbD6vsOJ2i4LD"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Bdp Music",
+          "url": "https://open.spotify.com/artist/4b7i6N8x84rGKrdzlPbNyt"
+        }
+      ],
+      "duration_ms": 157421,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6uYHB5nFdvHQs2gBC6ERJ8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "3ple X (Radio Edit)",
         "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
       },
@@ -1555,22 +1595,6 @@
       "duration_ms": 211084,
       "name": "3ple X - Radio Edit",
       "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "MULTIVERSO",
-        "url": "https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "MULTIVERSO",
-      "url": "https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1607,18 +1631,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "estrella$ en el techo",
-        "url": "https://open.spotify.com/album/77BE6SvUOdy6ICjDpBKGqK"
+        "name": "DE CAMINO A HERMES (Deluxe)",
+        "url": "https://open.spotify.com/album/4EwN5HXrC6QXxgDqLgdS1m"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
         }
       ],
-      "duration_ms": 140916,
-      "name": "estrella$ en el techo",
-      "url": "https://open.spotify.com/track/09RdJb9LlrVyNDyaSr2yF8"
+      "duration_ms": 234782,
+      "name": "MARGIELA",
+      "url": "https://open.spotify.com/track/0jEUr21c8Z8HeNGqGutIsV"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1647,6 +1679,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "estrella$ en el techo",
+        "url": "https://open.spotify.com/album/77BE6SvUOdy6ICjDpBKGqK"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 140916,
+      "name": "estrella$ en el techo",
+      "url": "https://open.spotify.com/track/09RdJb9LlrVyNDyaSr2yF8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Me Perjudique",
         "url": "https://open.spotify.com/album/4qOZcYBrc1N7WbxyBRo77C"
       },
@@ -1663,30 +1711,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/7qEVfrwtDrbD6vsOJ2i4LD"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        },
-        {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
-        },
-        {
-          "name": "Bdp Music",
-          "url": "https://open.spotify.com/artist/4b7i6N8x84rGKrdzlPbNyt"
-        }
-      ],
-      "duration_ms": 157421,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/6uYHB5nFdvHQs2gBC6ERJ8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Nos Entendemos",
         "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
@@ -1699,30 +1723,6 @@
       "duration_ms": 176016,
       "name": "Nos Entendemos",
       "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "DE CAMINO A HERMES (Deluxe)",
-        "url": "https://open.spotify.com/album/4EwN5HXrC6QXxgDqLgdS1m"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "MARGIELA",
-      "url": "https://open.spotify.com/track/0jEUr21c8Z8HeNGqGutIsV"
     },
     {
       "added_at": "2024-02-16 05:00:00",

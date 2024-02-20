@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 301081,
+  "num_followers": 301108,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjdhOGJiN2Y3NzkyYjc3NWI4YjNhNDA2YjU5YzI2ZmQ1ODFkNjc5",
+  "snapshot_id": "MCw0YzU3OTJlOGMxODM1MDA3YWQyMDA5YTU1ODMyOTMzYWVmN2Q1ODZh",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Collision Course (Deluxe Version)",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 231173,
       "name": "Let It Rock",
       "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "The Hunting Party",
-        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 355120,
-      "name": "Guilty All the Same (feat. Rakim)",
-      "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "The Moment (Digital Deluxe)",
         "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
       },
@@ -643,42 +623,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         },
         {
-          "name": "Rahzel",
-          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
         }
       ],
-      "duration_ms": 240586,
-      "name": "heavy metal (feat. Rahzel)",
-      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Children of the Korn (feat. Ice Cube)",
-      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
+      "duration_ms": 355120,
+      "name": "Guilty All the Same (feat. Rakim)",
+      "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -743,6 +703,46 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Children of the Korn (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Rahzel",
+          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "heavy metal (feat. Rahzel)",
+      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Radioactive (Explicit Version)",
         "url": "https://open.spotify.com/album/3AGMorE666prvzWaHGddKo"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 241908,
       "name": "Diamonds And Guns",
       "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "War & Peace Vol. 1 (The War Disc)",
-        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Fuck Dying",
-      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 212466,
       "name": "The Mighty Fall",
       "url": "https://open.spotify.com/track/4rNOFJdwQq0ulVDKOF447L"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "War & Peace Vol. 1 (The War Disc)",
+        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Fuck Dying",
+      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
     },
     {
       "added_at": "2023-10-01 21:11:39",

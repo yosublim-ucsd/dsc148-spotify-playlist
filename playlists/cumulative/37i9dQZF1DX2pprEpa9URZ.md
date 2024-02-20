@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-388 songs - 1 day 18 hr 28 min
+389 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Sapphire Penumbra](https://open.spotify.com/track/6j1cxtEsXudS5ffVoJPvVo) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Sant \(IR\)](https://open.spotify.com/artist/4LBZoQSlbFTNDDKfS5kZ8o) | [Tu Sombra](https://open.spotify.com/album/6miODbynyMIfUnmqZfnWb0) | 6:35 | 2021-11-04 | 2022-07-11 |
 | [Sativa](https://open.spotify.com/track/3tnppKnzDuzZexokxVaah7) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1) | [Sativa](https://open.spotify.com/album/7F0zp2IiCSt99exJiQJd2n) | 5:29 | 2022-04-04 | 2022-07-25 |
 | [Satya](https://open.spotify.com/track/6C8PiPV56gJZ2sPswvtMSS) | [Troja](https://open.spotify.com/artist/3eXBAw9CaMqTXW8dsFkhyG) | [Satya](https://open.spotify.com/album/2fqSxNtPfzKCORVDqu7Egp) | 7:53 | 2019-08-02\* | 2022-04-21 |
-| [Savage](https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Savage](https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny) | 7:58 | 2022-11-25 |  |
+| [Savage](https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Savage](https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny) | 7:58 | 2022-11-25 | 2024-02-20 |
 | [Scena](https://open.spotify.com/track/3JARIWKhqDUQ0LDxCD75U5) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Scena EP](https://open.spotify.com/album/1XaQkW4nR9nUNJSG6L8A6M) | 5:41 | 2020-06-12 | 2020-08-20 |
 | [Se Va, Se Va](https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Se Va, Se Va](https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba) | 7:29 | 2023-01-30 |  |
 | [Secreto](https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Secreto](https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT) | 5:21 | 2022-09-09 |  |
@@ -356,6 +356,7 @@
 | [Trance is Psy](https://open.spotify.com/track/2lndMeBFLAfg6cn0etfMjx) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K), [AVEM](https://open.spotify.com/artist/7xu4DQ5wfoGi4koqPFfXAe) | [Utopia II](https://open.spotify.com/album/5kN88SXHV4Mhuc2lKCRjwH) | 6:52 | 2019-08-02\* | 2021-05-26 |
 | [Traversata](https://open.spotify.com/track/3u1R9e4rYOAD6aVqsT6QrJ) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Caravaca](https://open.spotify.com/artist/1OWiZw4DbyqYtwl4klKOlJ) | [Traversata](https://open.spotify.com/album/4y6ahpvUrkdVbMXdpKYCIh) | 7:20 | 2019-08-02\* | 2020-02-19 |
 | [Traversata \- Elfenberg Remix](https://open.spotify.com/track/7rJnQve19Vxe7QgGzPfeDz) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Caravaca](https://open.spotify.com/artist/1OWiZw4DbyqYtwl4klKOlJ), [Elfenberg](https://open.spotify.com/artist/3rVvL036o05Y34SPRsW63P) | [Traversata](https://open.spotify.com/album/4y6ahpvUrkdVbMXdpKYCIh) | 8:19 | 2019-12-05 | 2020-03-14 |
+| [Tribal Rhythms](https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS) | [MÖW](https://open.spotify.com/artist/0ntJM1ZVyO8oyZGkhTEaTo), [Gaia Ekho](https://open.spotify.com/artist/3IGkmJjeqJE1ZNmV9NQtsO) | [Silhouette](https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae) | 6:40 | 2023-11-14 |  |
 | [Trinidad Dreams \- Djuma Soundsystem Remix](https://open.spotify.com/track/4Skyun4EGNZ8Arqd1hmXJF) | [Analog Sol](https://open.spotify.com/artist/0bYiRfjvg9c9wt6fuxoUVc), [Djuma Soundsystem](https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF) | [Trinidad Dreams \(Djuma Soundsystem Remix\)](https://open.spotify.com/album/14vYQ8hsmscusyoQ0VhL6O) | 7:59 | 2020-06-12 | 2021-12-21 |
 | [Trip To Durban \- Day Mix](https://open.spotify.com/track/01cMorofzeizTU0EeurNr3) | [Mr Raoul K](https://open.spotify.com/artist/2ErWVVcMH1io3Au40dTKnG), [XtetiQsoul](https://open.spotify.com/artist/0YSFNVQUUXBnrMeYosZOum) | [Trip To Durban](https://open.spotify.com/album/0CREBSHIBlQOqLGVoTghfN) | 7:33 | 2020-03-19 | 2021-01-15 |
 | [Tutan Jamon \- Chaim & Ozart Remix](https://open.spotify.com/track/2wXf4D7LOsvqNe66HrlqHv) | [Franz Matthews](https://open.spotify.com/artist/0BIEy45aaKCjwertpSGy4K), [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0), [Chaim](https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V), [Ozart](https://open.spotify.com/artist/54lyluwxuUUIez6hNH6po2) | [Meditation / Tutan Jamon Remixes](https://open.spotify.com/album/7cBF103MAiNBFtNE9yn4bu) | 6:14 | 2019-11-13 | 2021-05-28 |

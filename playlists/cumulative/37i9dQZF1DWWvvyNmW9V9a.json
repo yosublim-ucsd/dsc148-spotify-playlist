@@ -2720,6 +2720,24 @@
     {
       "album": {
         "name": "Better People To Leave On Read",
+        "url": "https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131344,
+      "name": "Better People To Leave On Read",
+      "url": "https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn"
+    },
+    {
+      "album": {
+        "name": "Better People To Leave On Read",
         "url": "https://open.spotify.com/album/0NgH4voVLGCHFkQSJ12sNO"
       },
       "artists": [

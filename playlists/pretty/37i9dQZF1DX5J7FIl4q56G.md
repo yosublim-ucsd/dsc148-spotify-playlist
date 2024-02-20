@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Kittie
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,361 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,373 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 32 | [Oren: The Ogre](https://open.spotify.com/track/1QWooGuXqmQvhrOLcoEret) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa), [Adam Mercer](https://open.spotify.com/artist/754SibCWLnBzQ7Nd1uFRDi) | [Oren: The Ogre](https://open.spotify.com/album/0GjOkn1vLvK0zPfipytMD9) | 4:32 |
 | 33 | [Clip Your Wings](https://open.spotify.com/track/2ZKIpDOt31WEZ7qBqKOCa3) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Clip Your Wings](https://open.spotify.com/album/77MzQRedEFUdEXzndw6QZV) | 2:54 |
 | 34 | [Bradford Death Squadron \(feat\. Aaron Beam\)](https://open.spotify.com/track/23LIbeT9Au8HZpLVI9eAa5) | [Bokassa](https://open.spotify.com/artist/3QgBKy7myJIAIMe1A1y7uq), [Aaron Beam](https://open.spotify.com/artist/3jD4LaXdTKzJJuarvH62mj) | [All Out of Dreams](https://open.spotify.com/album/5bDHT5I6EmoXMVXHm63zbL) | 3:23 |
-| 35 | [ENEMY](https://open.spotify.com/track/3zSrxUy8j7OTiBc59CZjDr) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [ENEMY](https://open.spotify.com/album/550l42RCUvhCXMndHUgaUF) | 4:55 |
+| 35 | [ENEMY](https://open.spotify.com/track/7tjoRTnKnu1CSjVxulgdmJ) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [Another Side of You](https://open.spotify.com/album/2IrIrLHck9HLd2spHinqgb) | 4:53 |
 | 36 | [Liebe](https://open.spotify.com/track/62kGcRNFCLxLRJpkjfOlNy) | [For I Am King](https://open.spotify.com/artist/2etNWORcmPZZBKxcyt6dF4) | [Liebe](https://open.spotify.com/album/50MYv32D8TDVCIfSaZ2STk) | 3:24 |
 | 37 | [Zero](https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [A Digital Nowhere](https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev) | 3:29 |
 | 38 | [UNGØD](https://open.spotify.com/track/42a6jv8vPZSdldRDalkGfT) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [UNGØD](https://open.spotify.com/album/350e8e4wldgOMcThEOffvj) | 3:47 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 50 | [Curse of the Wyrd Syster](https://open.spotify.com/track/0M1UTcEVcLoM9pyUkSbXze) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2) | [Curse Of The Wyrd Syster](https://open.spotify.com/album/1sXSKqbP92ZMj2zzYoZ6Gc) | 15:34 |
 | 51 | [Shattered Reflection](https://open.spotify.com/track/3HUQlxtEZYT9X3JZU0R5Dr) | [FHORCE](https://open.spotify.com/artist/1LN7EN8sPFrm2tMtRtdYTr) | [NEEDLES](https://open.spotify.com/album/2bm9Z7tuTaghlsDVS2rocC) | 3:28 |
 
-Snapshot ID: `MCw4ZmFjMWQxMDY3ZWU4NThlODFmMDkyNjBmZWI3MTYzYzI3NmY5YjIy`
+Snapshot ID: `MCwzYjEyZGI4NTQ3OGY5NWQyZjY2NGNjNTdkNTA5OGNiNzJhZGIyZmJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,263 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,283 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [spotkaranigete](https://open.spotify.com/track/6YhHCFF7wJvCT0V2PP1Kzn) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [HEROINE](https://open.spotify.com/album/7yedhW1TyJzp5aRjNBP1qj) | 3:09 |
 | 100 | [LOVELY](https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [LOVELY](https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL) | 3:38 |
 
-Snapshot ID: `MCxhZDQyZWFlOTIxYjQ1YjI2YzVhZTQ0NTFhZjc2NjllOWI1ZTBhMDcx`
+Snapshot ID: `MCwwMTg4MzEzYTQ1ZjNlMjEzNGFiNjIxMWJhM2RiMDI1MDc4ZGVhZjQ0`

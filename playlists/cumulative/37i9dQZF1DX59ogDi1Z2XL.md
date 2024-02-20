@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: <a href="spotify:artist:332mFY6yBda91AsIOSKirG">Planet Giza</a>
 
-1,366 songs - 2 day 15 hr 13 min
+1,367 songs - 2 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,6 +892,7 @@
 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 | 2022-09-09 | 2023-02-11 |
 | [ONLY JESUS CAN SAVE ME](https://open.spotify.com/track/1Sn2E6JfwiydxK48NF9tBE) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [ONLY JESUS CAN SAVE ME](https://open.spotify.com/album/4oRcK6QGJRrFMZmmlfLYQJ) | 1:37 | 2023-10-13 | 2023-11-11 |
 | [Only Real](https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 2:35 | 2024-01-12 |  |
+| [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 | 2024-02-19 |  |
 | [Opening Statement](https://open.spotify.com/track/186vbYulXFdxpQvJ6bs0Ni) | [Boy Wonder](https://open.spotify.com/artist/1qeGaN6I0QJO9G25tHUTVP), ['STRO](https://open.spotify.com/artist/4RF0WLINtZcwmlphcH9zdt) | [Opening Statement](https://open.spotify.com/album/5slkROTuIFdyNSRtLIc1xu) | 4:00 | 2023-05-12 | 2023-05-27 |
 | [OPTIONS](https://open.spotify.com/track/10O2c7a36DBzcWdEkv1gL9) | [7DAY$](https://open.spotify.com/artist/09LatwmxtbYoiUomtGf3LV) | [OPTIONS](https://open.spotify.com/album/3LyNXmCMnxp3tSIN1qZ0rQ) | 3:01 | 2022-06-24 | 2022-08-06 |
 | [Organize](https://open.spotify.com/track/7hfo7qeQZqTFwBUOmczMod) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H) | [Organize](https://open.spotify.com/album/0D2PEmYzGoOPCfmm8c7ibe) | 3:42 | 2022-02-11 | 2022-03-18 |

@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13371,
+  "num_followers": 13378,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGVhZTg5MDQ4MGU2ZTJlNWUxNDI5Mzg2YTc4ZDIyYjE0MzJmNWFl",
+  "snapshot_id": "MCw0NmFkNjdhY2YzOTU5NTRhNmMxMDVkMTk4OGI4ZWI5NDJkNzVmODY3",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -151,18 +151,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Master`s sun OST Part 4",
-        "url": "https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7"
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
       "artists": [
         {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 244166,
-      "name": "Touch love",
-      "url": "https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4"
+      "duration_ms": 194596,
+      "name": "NO ONE",
+      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -187,22 +191,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+        "name": "Master`s sun OST Part 4",
+        "url": "https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 194596,
-      "name": "NO ONE",
-      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
+      "duration_ms": 244166,
+      "name": "Touch love",
+      "url": "https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Eat",
-        "url": "https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Eat",
-      "url": "https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 233003,
       "name": "Maybe It\u2019s Not Our Fault",
       "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Eat",
+        "url": "https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Eat",
+      "url": "https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -335,6 +335,42 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "1,2,3,4",
+        "url": "https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 214273,
+      "name": "1, 2, 3, 4",
+      "url": "https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 191278,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Yanghwa BRDG",
         "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
       },
@@ -383,42 +419,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "1,2,3,4",
-        "url": "https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 214273,
-      "name": "1, 2, 3, 4",
-      "url": "https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 211520,
       "name": "\uc810\uc810",
       "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Across The Romantic Bridge",
-        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "\uadf8\ub7f0\uc77c\uc740",
-      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -467,18 +451,82 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+        "name": "Across The Romantic Bridge",
+        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
         }
       ],
-      "duration_ms": 191793,
-      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
-      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
+      "duration_ms": 264306,
+      "name": "\uadf8\ub7f0\uc77c\uc740",
+      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 210258,
+      "name": "IF I WERE YOU",
+      "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
+        "url": "https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 261276,
+      "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
+      "url": "https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 263644,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -503,18 +551,34 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
       "artists": [
         {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 210258,
-      "name": "IF I WERE YOU",
-      "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
+      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -535,54 +599,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 263644,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
-        "url": "https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 261276,
-      "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
-      "url": "https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Miss Ripley OST",
         "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
       },
@@ -595,38 +611,6 @@
       "duration_ms": 241690,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
-      },
-      "artists": [
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -715,6 +699,42 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 218886,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
@@ -763,6 +783,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "Browneyed Soul",
+        "url": "https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "Love Ballad",
+      "url": "https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "t 3 YOONMIRAE",
         "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
@@ -775,42 +811,6 @@
       "duration_ms": 278778,
       "name": "Good Bye Sadness, Hello Happiness",
       "url": "https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 218886,
-      "name": "Whatever You Do",
-      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Soul Saver",
-        "url": "https://open.spotify.com/album/6V7Zn81u8khI9AuIOPl6Ea"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 291212,
-      "name": "\ub2f9\uc2e0\uacfc\uc758 \ud0a4\uc2a4\ub97c \uc138\uc5b4\ubcf4\uc544\uc694",
-      "url": "https://open.spotify.com/track/0viqY0AIdDs4N8KxU4wDs2"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Browneyed Soul",
-        "url": "https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j"
+        "name": "Parallax",
+        "url": "https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR"
       },
       "artists": [
         {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
         }
       ],
-      "duration_ms": 301026,
-      "name": "Love Ballad",
-      "url": "https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9"
+      "duration_ms": 221753,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

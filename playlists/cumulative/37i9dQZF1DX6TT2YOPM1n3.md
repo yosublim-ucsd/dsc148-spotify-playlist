@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: AUR
+> Current Pakistani hits under one roof\. Cover: Hasan Raheem
 
 127 songs - 8 hr 10 min
 
@@ -17,7 +17,7 @@
 | [Agency](https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Agency](https://open.spotify.com/album/6EqgIQxjWv71HrjuBLmMBU) | 4:31 | 2023-05-04 |  |
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2023-05-04 |  |
 | [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2023-05-04 |  |
-| [Ap Se Mil Ke Hum](https://open.spotify.com/track/2Db2KrPmGAMHuxWRUDusBw) | [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Ap Se Mil Ke Hum](https://open.spotify.com/album/6zSih1hDqwitiWJ38tbmtZ) | 3:51 | 2024-01-25 |  |
+| [Ap Se Mil Ke Hum](https://open.spotify.com/track/2Db2KrPmGAMHuxWRUDusBw) | [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Ap Se Mil Ke Hum](https://open.spotify.com/album/6zSih1hDqwitiWJ38tbmtZ) | 3:51 | 2024-01-25 | 2024-02-20 |
 | [Baari](https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Baari](https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu) | 3:55 | 2023-05-04 | 2023-11-30 |
 | [Beby](https://open.spotify.com/track/5XfpEc8bp8UTHdMQt2ayE5) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Azaan](https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN) | 3:03 | 2023-11-13 | 2023-11-30 |
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2023-05-04 |  |

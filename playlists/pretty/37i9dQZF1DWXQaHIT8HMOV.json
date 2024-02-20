@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWIxNDIxOWZiNGJlMzRmMzQ3ZTY3NjdlNGQwZjkwZDRhOTBlM2Rj",
+  "snapshot_id": "MCw0ZGQ5MWQ0NGNlMDU2NDkxOTRlNDcxYzgwZmI3ODEzODIyNzFlYWI2",
   "tracks": [
     {
       "added_at": "2024-02-16 11:43:52",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Nkujjukira",
+        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Nkujjukira",
+      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
         "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 199190,
       "name": "NANA - Remix",
       "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Nkujjukira",
-        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Nkujjukira",
-      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -267,42 +267,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "No Lie",
-        "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "No Lie",
-      "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Masavu",
-        "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Masavu",
-      "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "SHE WAAN",
         "url": "https://open.spotify.com/album/3bA2DgGpky4EeSr6VnOPhh"
       },
@@ -355,30 +319,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Baby Don't Go",
-        "url": "https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA"
-      },
-      "artists": [
-        {
-          "name": "Bright-D",
-          "url": "https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK"
-        },
-        {
-          "name": "Livforit",
-          "url": "https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd"
-        },
-        {
-          "name": "MUVUNYI",
-          "url": "https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "Baby Don't Go",
-      "url": "https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "Thursday",
         "url": "https://open.spotify.com/album/5hPcbB7WQJyICsr7CJxeGQ"
       },
@@ -403,8 +343,8 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Omwenge",
-        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+        "name": "Masavu",
+        "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
       },
       "artists": [
         {
@@ -412,9 +352,53 @@
           "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 225985,
-      "name": "Omwenge",
-      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+      "duration_ms": 176170,
+      "name": "Masavu",
+      "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Baby Don't Go",
+        "url": "https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA"
+      },
+      "artists": [
+        {
+          "name": "Bright-D",
+          "url": "https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK"
+        },
+        {
+          "name": "Livforit",
+          "url": "https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd"
+        },
+        {
+          "name": "MUVUNYI",
+          "url": "https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x"
+        }
+      ],
+      "duration_ms": 184117,
+      "name": "Baby Don't Go",
+      "url": "https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "No Lie",
+        "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -463,22 +447,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "Gukuba",
         "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
       },
@@ -499,6 +467,38 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Namulabako",
+        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        }
+      ],
+      "duration_ms": 167816,
+      "name": "Namulabako",
+      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Omwenge",
+        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Omwenge",
+      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "Nwanilaako",
         "url": "https://open.spotify.com/album/37hfU05WeAHrchmEGW5O40"
       },
@@ -515,34 +515,18 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Bwereere",
-        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
       },
       "artists": [
         {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 185939,
-      "name": "Bwereere",
-      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
+      "duration_ms": 186382,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -559,22 +543,6 @@
       "duration_ms": 175072,
       "name": "Tutamire",
       "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Binkolele",
-        "url": "https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w"
-      },
-      "artists": [
-        {
-          "name": "Kataleya & Kandle",
-          "url": "https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4"
-        }
-      ],
-      "duration_ms": 191211,
-      "name": "Binkolele",
-      "url": "https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -603,18 +571,34 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Namulabako",
-        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
+        "name": "Bwereere",
+        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
       },
       "artists": [
         {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
         }
       ],
-      "duration_ms": 167816,
-      "name": "Namulabako",
-      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
+      "duration_ms": 185939,
+      "name": "Bwereere",
+      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Binkolele",
+        "url": "https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w"
+      },
+      "artists": [
+        {
+          "name": "Kataleya & Kandle",
+          "url": "https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4"
+        }
+      ],
+      "duration_ms": 191211,
+      "name": "Binkolele",
+      "url": "https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -651,6 +635,22 @@
       "duration_ms": 183673,
       "name": "Omukwano (Love)",
       "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -731,46 +731,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "On my Mind",
-      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Love Ganja",
-        "url": "https://open.spotify.com/album/6oYTwznr45f7cUSgMT5iCK"
-      },
-      "artists": [
-        {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
-        },
-        {
-          "name": "Song Boss",
-          "url": "https://open.spotify.com/artist/4RSS0a9hCcQaAADJ67MxtG"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Love Ganja",
-      "url": "https://open.spotify.com/track/2openNGxPDRNjXFH1gA2Y1"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "Q'lalea",
         "url": "https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu"
       },
@@ -791,6 +751,62 @@
       "duration_ms": 204261,
       "name": "Q'lalea",
       "url": "https://open.spotify.com/track/0VLklpLJUem9Vt80EFQi5M"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Leega",
+        "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 216398,
+      "name": "Leega",
+      "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Love Ganja",
+        "url": "https://open.spotify.com/album/6oYTwznr45f7cUSgMT5iCK"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Song Boss",
+          "url": "https://open.spotify.com/artist/4RSS0a9hCcQaAADJ67MxtG"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Love Ganja",
+      "url": "https://open.spotify.com/track/2openNGxPDRNjXFH1gA2Y1"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -847,18 +863,22 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Leega",
-        "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
+        "name": "Not Safe in the West",
+        "url": "https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "kalibwani",
+          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
+        },
+        {
+          "name": "Nafets",
+          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
         }
       ],
-      "duration_ms": 216398,
-      "name": "Leega",
-      "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
+      "duration_ms": 178750,
+      "name": "Not Safe in the West",
+      "url": "https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -899,6 +919,22 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Muntu Wange",
+        "url": "https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Muntu Wange",
+      "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "FAYA",
         "url": "https://open.spotify.com/album/1gTXLyRPmEysl9i5CwQt0u"
       },
@@ -915,42 +951,6 @@
       "duration_ms": 182352,
       "name": "FAYA",
       "url": "https://open.spotify.com/track/2XfbFeYxN961nxtxUoepoM"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Not Safe in the West",
-        "url": "https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic"
-      },
-      "artists": [
-        {
-          "name": "kalibwani",
-          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
-        },
-        {
-          "name": "Nafets",
-          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Not Safe in the West",
-      "url": "https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Muntu Wange",
-        "url": "https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P"
-      },
-      "artists": [
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Muntu Wange",
-      "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
     },
     {
       "added_at": "2024-02-16 11:43:52",

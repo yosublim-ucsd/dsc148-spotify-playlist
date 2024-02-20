@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-544 songs - 1 day 17 hr 54 min
+545 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2022-11-12 | 2023-08-26 |
 | [Day by Day](https://open.spotify.com/track/7yzy0GOrPGBY75ztmpXNtu) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Here Now](https://open.spotify.com/album/4zoSsjGlKk9Ny6BrdSNNPY) | 3:55 | 2023-11-17 |  |
 | [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-02-10 | 2022-05-18 |
+| [Days of Hope](https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Days of Hope](https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk) | 2:34 | 2024-02-16 |  |
 | [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2022-02-10 | 2022-11-21 |
 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 | 2022-02-25 |  |
 | [Denmark](https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Denmark](https://open.spotify.com/album/0RBjVKwdTopRmzaSUWE1la) | 3:47 | 2022-02-25 | 2024-01-01 |
@@ -207,7 +208,7 @@
 | [Impressions Of Summer](https://open.spotify.com/track/369R3C5q22a3XcoYuIJZsK) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [Don Braden](https://open.spotify.com/artist/6qppe86GWNyVd8KeAbvg1o), [Renato Chicco](https://open.spotify.com/artist/0jpB64coHDh0pDsAuT78E5), [Steve Altenberg](https://open.spotify.com/artist/1GQRap9mRLsoeo3Ocf4Sx8) | [Firm Roots](https://open.spotify.com/album/6KbGY7IKWPxqYj9gGrPnci) | 4:07 | 2022-07-07 | 2023-11-22 |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-11-12 |  |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-11-12 |  |
-| [In Retrospect](https://open.spotify.com/track/6UHuxAIKGI29WwdX7fRYDn) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [In Retrospect](https://open.spotify.com/album/5UUVMdOGXoVuTaNgO9DdOC) | 6:14 | 2023-03-10 |  |
+| [In Retrospect](https://open.spotify.com/track/6UHuxAIKGI29WwdX7fRYDn) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [In Retrospect](https://open.spotify.com/album/5UUVMdOGXoVuTaNgO9DdOC) | 6:14 | 2023-03-10 | 2024-02-20 |
 | [In the Days of Our Love](https://open.spotify.com/track/3UXWECtFUy4QyQzXeuxAK0) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Twilight World](https://open.spotify.com/album/1QHM1aC690lBTWkBmsYSgC) | 5:38 | 2022-02-10 |  |
 | [In the Middle of a Kiss](https://open.spotify.com/track/2Qvcc7fhKGxRpDZh8w5AlX) | [Red Mitchell](https://open.spotify.com/artist/37qczsM1eZwCtxy0U5n0fk), [Jimmy Rowles](https://open.spotify.com/artist/5uN9BmZWzjh2YGQVni3m8D) | [Red'N Me](https://open.spotify.com/album/4mQIf5gXkLunkuvWg0B7ip) | 4:43 | 2023-12-14 |  |
 | [In the Middle of a Kiss](https://open.spotify.com/track/507DfGB7ecKtGSi3IQArgx) | [Red Mitchell](https://open.spotify.com/artist/37qczsM1eZwCtxy0U5n0fk), [Jimmy Rowles](https://open.spotify.com/artist/5uN9BmZWzjh2YGQVni3m8D) | [Red'n Me](https://open.spotify.com/album/36gevqEUEwhKjIxmpNzojF) | 4:43 | 2022-02-10 | 2023-11-04 |

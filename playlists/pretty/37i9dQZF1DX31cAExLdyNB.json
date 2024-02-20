@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 65652,
+  "num_followers": 65654,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjM5N2E4ZDE3YWIzOGJlMTY4M2UxOTg0ZDkzODFhODUzYjQ4YmRi",
+  "snapshot_id": "MCxhNjVhZGE0Y2YwYzRjNzFlNjQzMGQzNTdhNDAxOGJlYTgzMTBjZGU3",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 187348,
-      "name": "FIXXI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 223437,
       "name": "El Muro",
       "url": "https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 187348,
+      "name": "FIXXI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "LLUVIA",
-        "url": "https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 218171,
-      "name": "LLUVIA",
-      "url": "https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Dime Algo (bonito)",
         "url": "https://open.spotify.com/album/1ptQkJGdf3wGa331GlN8Nc"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Los Caymanes (Para Olvidar)",
-        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+        "name": "LLUVIA",
+        "url": "https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd"
       },
       "artists": [
         {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Los Caymanes (Para Olvidar)",
-      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
+      "duration_ms": 218171,
+      "name": "LLUVIA",
+      "url": "https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Los Caymanes (Para Olvidar)",
+        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Los Caymanes (Para Olvidar)",
+      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Viento",
         "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 240853,
       "name": "Moving Men - Metronomy Remix",
       "url": "https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 202177,
-      "name": "Tears At Bae",
-      "url": "https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 263926,
       "name": "Eleuthera - Catching Flies Remix",
       "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 202177,
+      "name": "Tears At Bae",
+      "url": "https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Vine Hasta Marte",
-        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
-      },
-      "artists": [
-        {
-          "name": "Cohetes",
-          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Vine Hasta Marte",
-      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Nunca Nunca",
         "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 171133,
       "name": "Nunca Nunca",
       "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Vine Hasta Marte",
+        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
+      },
+      "artists": [
+        {
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Vine Hasta Marte",
+      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

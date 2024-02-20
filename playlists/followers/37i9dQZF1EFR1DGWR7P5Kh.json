@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 722,
+  "2024-02-20": 722,
   "date_first_scraped": "2021-12-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv\">Kaydence</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Kaydence",
@@ -248,6 +248,24 @@
     },
     {
       "album": {
+        "name": "This Is Me...Now",
+        "url": "https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Greatest Love Story Never Told",
+      "url": "https://open.spotify.com/track/4FAs3OblD5UR4gKdpwcprV"
+    },
+    {
+      "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
       },
@@ -267,6 +285,24 @@
       "duration_ms": 158280,
       "name": "High Heels",
       "url": "https://open.spotify.com/track/2NwS0Ki7W63Ls4GEMxPP8T"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Now",
+        "url": "https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165154,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1L5YOGPAhIoSoj93pEYnXF"
     },
     {
       "album": {

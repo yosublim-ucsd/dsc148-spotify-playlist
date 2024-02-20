@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Gwangil Jo\(조광일\)\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Leellamarz, YANGHONGWON\(릴러말즈 & 양홍원\)\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,097 songs - 2 day 12 hr 12 min
+1,098 songs - 2 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Leave Me Alone \(???\)](https://open.spotify.com/track/5pZbWZyrprBrg5xYtSO1gK) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Leave Me Alone \(???\)](https://open.spotify.com/album/066c1K3HBglKKm2Hve3sFr) | 1:25 | 2022-06-09 | 2022-06-30 |
 | [Legacy](https://open.spotify.com/track/4emIEej0tph5aZGzUfNWEP) | [Raphael](https://open.spotify.com/artist/5ZmB3eXx6oDmzicmFdcqmr), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [EPTEND](https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez) | [THE:RISE 5 with Baund](https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB) | 3:08 | 2023-03-06 | 2023-09-08 |
 | [Let me know, God \(Feat\. C JAMM, Jvcki Wai\)](https://open.spotify.com/track/35QdNOzsIMw1ZXElaGH8Ec) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [NEO CHRISTIAN](https://open.spotify.com/album/53L4UEcxgbL0XE1XXN6B3h) | 4:38 | 2021-12-18 | 2022-06-10 |
+| [Let off steam](https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 3:39 | 2024-02-19 |  |
 | [Lia Kim & Harimu\_KrOWN](https://open.spotify.com/track/0R0fJ3XEpJjDeFAuKEwJu7) | [Lia Kim & Harimu](https://open.spotify.com/artist/2dbGILye8Ibh7HH9YG2utg) | [KrOWN audio liner](https://open.spotify.com/album/2CK8cbiX3HwXY4K2qzmxJv) | 0:03 | 2023-12-15 |  |
 | [LIBERATION](https://open.spotify.com/track/2mOJ1t5pfeZFfUeUbrNhf9) | [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [LIBERATION](https://open.spotify.com/album/5U3i7JRnUKtJqylZfFpTXh) | 3:32 | 2023-10-03 |  |
 | [LIE \(feat\. 24hrs\)](https://open.spotify.com/track/0ZcCW6QGwo0fkE1sBtKfJs) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [LIE \(feat\. 24hrs\)](https://open.spotify.com/album/3jMOeq7cZkOT1xqEtADEYX) | 2:53 | 2021-12-21 | 2022-07-01 |

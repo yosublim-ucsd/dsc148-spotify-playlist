@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Luciano and Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,403 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,463 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Foreigner \- Remix](https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Foreigner \(Remix\)](https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR) | 3:53 |
 | 80 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Push \(feat\. Omah Lay\)](https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6) | 2:42 |
 
-Snapshot ID: `MCxlOGNiYmQ1NjI3ZDQwYjgwM2JmMGZiMmIyNWZmOWMzZTBlZjJhN2Zm`
+Snapshot ID: `MCw2Y2FkYzJmN2IzNDQxMjRiM2UzNThjZTI4M2VjZDJjOTUyNDg4NjNj`

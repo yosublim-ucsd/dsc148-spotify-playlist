@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "Farben",
         "url": "https://open.spotify.com/album/3QP6zanVZWz5Sqz8DDeBvE"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 380240,
       "name": "IYDKMIGTHTKY (Gimme That)",
       "url": "https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 193235,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/64bs8pCgpueh0mFEKZWGXS"
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 223386,
       "name": "\u0417\u0438\u043c\u0430",
       "url": "https://open.spotify.com/track/2OOCmfWdZxELGk5ilKb5al"
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 120108,
       "name": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a-\u0431\u0435\u043d\u0437\u043e\u043f\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/4Y8GwOe2pxoHMVG6KPMFIF"
@@ -2546,6 +2564,24 @@
       "duration_ms": 165600,
       "name": "\u042f \u0438\u0434\u0443 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
       "url": "https://open.spotify.com/track/41QD3JUCrI1H3SRolaBtln"
+    },
+    {
+      "album": {
+        "name": "\u52dd\u8a34\u30b9\u30c8\u30ea\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/0QWI6wd3QBiQscVpBu6kUE"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332680,
+      "name": "\u7f6a\u3068\u7f70",
+      "url": "https://open.spotify.com/track/5z4fiEjLBLPGXF3Zk2PF3g"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbK2SUzp56yYx"

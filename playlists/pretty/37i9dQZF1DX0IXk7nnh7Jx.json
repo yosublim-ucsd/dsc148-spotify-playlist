@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
-  "num_followers": 79781,
+  "num_followers": 79813,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjdmZjBhZWQ1NzQ3MDU0NWJkZTBmY2MzMTRlMDhlYmFjMDcyN2I3",
+  "snapshot_id": "MCxmZjVlNjg2MzUwNWI0M2RhZTFlOWFlMDJjMGI2NTExOWFmNzFjMWE2",
   "tracks": [
     {
       "added_at": "2024-01-26 11:01:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 144568,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/7k72tV30lur2P6kbgNRKKX"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 133408,
       "name": "GOD DON'T LIE",
       "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 144568,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Small Things",
+        "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "duration_ms": 176851,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "RICH",
         "url": "https://open.spotify.com/album/5P1RmCAG4yB80keglreodA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 162427,
       "name": "RICH",
       "url": "https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Small Things",
-        "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
-      },
-      "artists": [
-        {
-          "name": "Bella Taylor Smith",
-          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
-        }
-      ],
-      "duration_ms": 176851,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1139,34 +1139,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+        "name": "WAIT ON HIM (Funk Remix)",
+        "url": "https://open.spotify.com/album/23hKNPQ1U4AoZ15wDmoc43"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
-      },
-      "artists": [
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        },
         {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+          "name": "JKO",
+          "url": "https://open.spotify.com/artist/3XOHfOgFSMuvOxOfzNOuIQ"
         }
       ],
-      "duration_ms": 224606,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
+      "duration_ms": 96000,
+      "name": "WAIT ON HIM - Funk Remix",
+      "url": "https://open.spotify.com/track/5RJqdswyhkQRDxXuIqhOLC"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1191,22 +1179,34 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "WAIT ON HIM (Funk Remix)",
-        "url": "https://open.spotify.com/album/23hKNPQ1U4AoZ15wDmoc43"
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
       },
       "artists": [
         {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        },
-        {
-          "name": "JKO",
-          "url": "https://open.spotify.com/artist/3XOHfOgFSMuvOxOfzNOuIQ"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 96000,
-      "name": "WAIT ON HIM - Funk Remix",
-      "url": "https://open.spotify.com/track/5RJqdswyhkQRDxXuIqhOLC"
+      "duration_ms": 224606,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Clouds II",
+        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Clouds II",
+      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Captured (with Trulah)",
         "url": "https://open.spotify.com/album/4tk3i1oLFGMjC9shHslFTp"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 312307,
       "name": "Captured - with Trulah",
       "url": "https://open.spotify.com/track/2E0HUOrgjtVfMYCeKw9ZoQ"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Clouds II",
-        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Clouds II",
-      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/2dDVGQ5jxvRFPIl6f8slUD"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 203513,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/7LO1oz9S57cbaygtuqMsJv"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5uB8oBoq451f7qp5e2bUei"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 242886,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/7LcJx95sWXpqCMLxQJfhMM"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/2dDVGQ5jxvRFPIl6f8slUD"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 203513,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/7LO1oz9S57cbaygtuqMsJv"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Taxi",
-        "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 160444,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "How To Love (Acoustic)",
         "url": "https://open.spotify.com/album/69qVCmyY6GWDUFZwjfelAb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 113125,
       "name": "How To Love - Acoustic",
       "url": "https://open.spotify.com/track/1RVAsTegFVrlbGM82SnBkT"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 160444,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/6zYdQqHTnmwVfE2boMvzV7"
-      },
-      "artists": [
-        {
-          "name": "Leslie Perez",
-          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3yXTQs2iGnCLMPPLE8XJE9"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "One Common",
         "url": "https://open.spotify.com/album/278YubPwMAWUmwQK2AIUDd"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 192190,
       "name": "Behind The Scenes",
       "url": "https://open.spotify.com/track/1p3jR91C9jx4jSRIYSrYjB"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/6zYdQqHTnmwVfE2boMvzV7"
+      },
+      "artists": [
+        {
+          "name": "Leslie Perez",
+          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3yXTQs2iGnCLMPPLE8XJE9"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1655,6 +1655,46 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Hope You Find Love",
+        "url": "https://open.spotify.com/album/3qSrq3G0Ib01gaX0iznu1y"
+      },
+      "artists": [
+        {
+          "name": "Haddon",
+          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+        },
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        },
+        {
+          "name": "Will Clifton",
+          "url": "https://open.spotify.com/artist/5La2nqMXX5f4QHLp8VNFCy"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Hope You Find Love",
+      "url": "https://open.spotify.com/track/5BVQIDplvK9yVH6e4V20aw"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "You Loved Me To You",
         "url": "https://open.spotify.com/album/08GGX1RK46V6vmEyk1GNMn"
       },
@@ -1691,46 +1731,6 @@
       "duration_ms": 335250,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/1Q8bkOacaiYLs4xWME4uAe"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Hope You Find Love",
-        "url": "https://open.spotify.com/album/3qSrq3G0Ib01gaX0iznu1y"
-      },
-      "artists": [
-        {
-          "name": "Haddon",
-          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
-        },
-        {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
-        },
-        {
-          "name": "Will Clifton",
-          "url": "https://open.spotify.com/artist/5La2nqMXX5f4QHLp8VNFCy"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Hope You Find Love",
-      "url": "https://open.spotify.com/track/5BVQIDplvK9yVH6e4V20aw"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "JUST BE US",
-        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 142889,
-      "name": "JUST BE US",
-      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
       },
@@ -1855,6 +1839,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "JUST BE US",
+        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 142889,
+      "name": "JUST BE US",
+      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Narrow Road",
         "url": "https://open.spotify.com/album/3gJsn1gdzltI2GDXkuLb0s"
       },
@@ -1867,22 +1867,6 @@
       "duration_ms": 244390,
       "name": "Narrow Road",
       "url": "https://open.spotify.com/track/3XnfmwxGymQEgSf1LwTtOL"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "SUNSHINE",
-        "url": "https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR"
-      },
-      "artists": [
-        {
-          "name": "Jacob Stanifer",
-          "url": "https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl"
-        }
-      ],
-      "duration_ms": 187073,
-      "name": "SUNSHINE",
-      "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1903,6 +1887,22 @@
       "duration_ms": 187687,
       "name": "How Could It Be",
       "url": "https://open.spotify.com/track/1NCmHKsOVm8j9toNyCzEfH"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "SUNSHINE",
+        "url": "https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR"
+      },
+      "artists": [
+        {
+          "name": "Jacob Stanifer",
+          "url": "https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl"
+        }
+      ],
+      "duration_ms": 187073,
+      "name": "SUNSHINE",
+      "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 195034,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 226248,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 195034,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Person of Peace",
+        "url": "https://open.spotify.com/album/3VU42y35AYl32o2WhpzVVC"
+      },
+      "artists": [
+        {
+          "name": "PKYB",
+          "url": "https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ"
+        }
+      ],
+      "duration_ms": 179714,
+      "name": "Person of Peace",
+      "url": "https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/5aQbjjlXcxmMDB4NAaQLms"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 194556,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/2Ly7OiDe6Xc6ET3Mw987mx"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Person of Peace",
-        "url": "https://open.spotify.com/album/3VU42y35AYl32o2WhpzVVC"
-      },
-      "artists": [
-        {
-          "name": "PKYB",
-          "url": "https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ"
-        }
-      ],
-      "duration_ms": 179714,
-      "name": "Person of Peace",
-      "url": "https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/2X1JUJkZbB7up0IanA7uDm"
+      },
+      "artists": [
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        }
+      ],
+      "duration_ms": 231676,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/4hGS6gPDtD3mdlxtJ0CDSw"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Shadow of Your Wings",
         "url": "https://open.spotify.com/album/2Vf1XlTguvYdL63PgLSo5y"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 157108,
       "name": "Shadow of Your Wings",
       "url": "https://open.spotify.com/track/7y8LVSztDWNpT8TPImzy3A"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/2X1JUJkZbB7up0IanA7uDm"
-      },
-      "artists": [
-        {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        }
-      ],
-      "duration_ms": 231676,
-      "name": "Mansion",
-      "url": "https://open.spotify.com/track/4hGS6gPDtD3mdlxtJ0CDSw"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/3E7uS9oOL92bNvYTYge5m7"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 196207,
-      "name": "Brightside",
-      "url": "https://open.spotify.com/track/05hlmQgTPYuzJyxeDZxm8n"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
       },
@@ -2251,18 +2235,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Holy Ghost (Fill This Room)",
-        "url": "https://open.spotify.com/album/3NUMws3RWvLkimq7rXTOZQ"
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/3E7uS9oOL92bNvYTYge5m7"
       },
       "artists": [
         {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
         }
       ],
-      "duration_ms": 190051,
-      "name": "Holy Ghost (Fill this Room)",
-      "url": "https://open.spotify.com/track/46PXwYrUp1N4tD4wHpc6Z9"
+      "duration_ms": 196207,
+      "name": "Brightside",
+      "url": "https://open.spotify.com/track/05hlmQgTPYuzJyxeDZxm8n"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2299,6 +2283,22 @@
       "duration_ms": 218494,
       "name": "You Always Find Me",
       "url": "https://open.spotify.com/track/3KH90A4Qy70yZX4syWt8yF"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Holy Ghost (Fill This Room)",
+        "url": "https://open.spotify.com/album/3NUMws3RWvLkimq7rXTOZQ"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 190051,
+      "name": "Holy Ghost (Fill this Room)",
+      "url": "https://open.spotify.com/track/46PXwYrUp1N4tD4wHpc6Z9"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Holy Spirit (Do A Work In Me)",
-        "url": "https://open.spotify.com/album/20iz4kRVmenkUmcbfnAOog"
-      },
-      "artists": [
-        {
-          "name": "iAmSon",
-          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
-        },
-        {
-          "name": "Hanna Watson",
-          "url": "https://open.spotify.com/artist/7MCyWyNMoU55UA8C6elcap"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Holy Spirit (Do A Work In Me)",
-      "url": "https://open.spotify.com/track/6Od7lmGKfLnNC9hSPUjgyK"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "God's Chosen",
         "url": "https://open.spotify.com/album/0e52Ku1wajjrMXozW3f847"
       },
@@ -2415,6 +2395,26 @@
       "duration_ms": 181583,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/1D6A1gOwZaf5rZmV3XtmUL"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Holy Spirit (Do A Work In Me)",
+        "url": "https://open.spotify.com/album/20iz4kRVmenkUmcbfnAOog"
+      },
+      "artists": [
+        {
+          "name": "iAmSon",
+          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
+        },
+        {
+          "name": "Hanna Watson",
+          "url": "https://open.spotify.com/artist/7MCyWyNMoU55UA8C6elcap"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Holy Spirit (Do A Work In Me)",
+      "url": "https://open.spotify.com/track/6Od7lmGKfLnNC9hSPUjgyK"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "In Control",
-        "url": "https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 120990,
-      "name": "In Control",
-      "url": "https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "No More Wasted Years",
         "url": "https://open.spotify.com/album/1qpgxwVd0GemgTLsBDKRBx"
       },
@@ -2603,6 +2587,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 120990,
+      "name": "In Control",
+      "url": "https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Everything Else But Rain (with Lucius)",
         "url": "https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S"
       },
@@ -2619,26 +2619,6 @@
       "duration_ms": 196866,
       "name": "Everything Else But Rain (with Lucius)",
       "url": "https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "above a caf\u00e9 in brighton",
-        "url": "https://open.spotify.com/album/4YizAMl3P1FJco1A3irHFw"
-      },
-      "artists": [
-        {
-          "name": "the quiet hours",
-          "url": "https://open.spotify.com/artist/3yQPMxOkCUCB78X2Gcj7aT"
-        },
-        {
-          "name": "Andrew Osenga",
-          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
-        }
-      ],
-      "duration_ms": 306925,
-      "name": "what a friend we have in jesus",
-      "url": "https://open.spotify.com/track/77TPg4X6dQ5hXCXhhFTnLa"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2663,22 +2643,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "fruit",
-        "url": "https://open.spotify.com/album/6T88kyf9kjV5QUdTyuK5y4"
+        "name": "above a caf\u00e9 in brighton",
+        "url": "https://open.spotify.com/album/4YizAMl3P1FJco1A3irHFw"
       },
       "artists": [
         {
-          "name": "Gaetan Judd",
-          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
+          "name": "the quiet hours",
+          "url": "https://open.spotify.com/artist/3yQPMxOkCUCB78X2Gcj7aT"
         },
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Andrew Osenga",
+          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
         }
       ],
-      "duration_ms": 168448,
-      "name": "fruit",
-      "url": "https://open.spotify.com/track/6FxNF5hpiYSA40odAuCQ65"
+      "duration_ms": 306925,
+      "name": "what a friend we have in jesus",
+      "url": "https://open.spotify.com/track/77TPg4X6dQ5hXCXhhFTnLa"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2695,6 +2675,26 @@
       "duration_ms": 189941,
       "name": "Restless",
       "url": "https://open.spotify.com/track/7hjnTV6828YbUjZJ3TGfUS"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "fruit",
+        "url": "https://open.spotify.com/album/6T88kyf9kjV5QUdTyuK5y4"
+      },
+      "artists": [
+        {
+          "name": "Gaetan Judd",
+          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "fruit",
+      "url": "https://open.spotify.com/track/6FxNF5hpiYSA40odAuCQ65"
     },
     {
       "added_at": "2024-01-26 11:01:00",

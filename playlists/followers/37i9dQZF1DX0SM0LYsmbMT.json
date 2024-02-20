@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 2193892,
+  "2024-02-20": 2194032,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -8243,7 +8243,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 151203,
       "name": "Blush Noisette",
       "url": "https://open.spotify.com/track/0H4ItesdG3rjQvzplgixh4"
@@ -10550,6 +10550,28 @@
     },
     {
       "album": {
+        "name": "Calm Your Mind",
+        "url": "https://open.spotify.com/album/0NiPn5lJ7jmoFIRmmSqQXU"
+      },
+      "artists": [
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
+        },
+        {
+          "name": "Kid Tar\u00f4",
+          "url": "https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106157,
+      "name": "Calm Your Mind",
+      "url": "https://open.spotify.com/track/5Y5INI47aDC5838KKFO07y"
+    },
+    {
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/0qBC58gF84pkwtuS1NFQf0"
       },
@@ -12297,7 +12319,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 236656,
       "name": "Ch\u00e8 Ja Vu",
       "url": "https://open.spotify.com/track/39koMKbq0FLzUpGtyjA8FE"
@@ -15369,6 +15391,24 @@
       "duration_ms": 126000,
       "name": "Currents",
       "url": "https://open.spotify.com/track/1GSIehO11qXUnvCveqrwMX"
+    },
+    {
+      "album": {
+        "name": "Curtis",
+        "url": "https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme"
+      },
+      "artists": [
+        {
+          "name": "Hike Willis",
+          "url": "https://open.spotify.com/artist/1PWLabHIW3qul5FYx9TG9I"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67833,
+      "name": "Curtis",
+      "url": "https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B"
     },
     {
       "album": {

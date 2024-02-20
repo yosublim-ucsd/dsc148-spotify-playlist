@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21701,
+  "num_followers": 21710,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDJkZWU4NjIxOWUxOWMyNTQxMGY0ZGNmYjQ2MWIwN2EwZWM5OTFj",
+  "snapshot_id": "MCxkZGE1ZjgxYTdkZGIzNGNjMTliNDRhODc1MjNkYWIwMzcyNTQ4Y2Qw",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Las Flores Sangran",
+        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 198405,
+      "name": "Las Flores Sangran",
+      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Vamos a Destruir",
         "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 171294,
       "name": "Pagando de M\u00e1s",
       "url": "https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Las Flores Sangran",
-        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 198405,
-      "name": "Las Flores Sangran",
-      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Caldero",
+        "url": "https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 251128,
+      "name": "Semillas de Luz",
+      "url": "https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Arariyo",
         "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Caldero",
-        "url": "https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 251128,
-      "name": "Semillas de Luz",
-      "url": "https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Puedo Con Esto (Fuera de Foco)",
         "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Lago Eterno",
-        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 128802,
-      "name": "Lago Eterno",
-      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 191583,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Lago Eterno",
+        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 128802,
+      "name": "Lago Eterno",
+      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Habla Sola / Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "duration_ms": 234562,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Los Halcones",
         "url": "https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 326973,
       "name": "Los Halcones",
       "url": "https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Habla Sola / Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
-      },
-      "artists": [
-        {
-          "name": "Sakatumba",
-          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
-        }
-      ],
-      "duration_ms": 234562,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+        "name": "Tiembla",
+        "url": "https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
         }
       ],
-      "duration_ms": 145530,
-      "name": "Junto Boludeces",
-      "url": "https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec"
+      "duration_ms": 216830,
+      "name": "Tiembla",
+      "url": "https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Tiembla",
-        "url": "https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB"
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
       "artists": [
         {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 216830,
-      "name": "Tiembla",
-      "url": "https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT"
+      "duration_ms": 145530,
+      "name": "Junto Boludeces",
+      "url": "https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Vamos a destruir",
+        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Vamos a destruir",
+      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 179658,
       "name": "Raz\u00f3n",
       "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Vamos a destruir",
-        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Vamos a destruir",
-      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 224737,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 192464,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Si No Hubiera Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
-      },
-      "artists": [
-        {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Conf\u00edn Dorado",
-      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Mi Generaci\u00f3n",
         "url": "https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj"
       },
@@ -1251,18 +1231,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
+        "name": "Si No Hubiera Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
       "artists": [
         {
-          "name": "Alem",
-          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
         }
       ],
-      "duration_ms": 178000,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
+      "duration_ms": 228506,
+      "name": "Conf\u00edn Dorado",
+      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 174871,
       "name": "El Secreto",
       "url": "https://open.spotify.com/track/5cc6jp1oBj9mbAlMPz0pnt"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
+      },
+      "artists": [
+        {
+          "name": "Alem",
+          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
     },
     {
       "added_at": "2024-02-09 03:00:00",

@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Shubh
 
-309 songs - 16 hr 0 min
+310 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bakamaal](https://open.spotify.com/track/0dcwP39qbjJu3eBKb0pTcm) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Jadugarriya](https://open.spotify.com/album/5b09lfsnRBglWbzFFHVwuO) | 2:27 | 2024-02-06 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-09-16 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-05-29 | 2022-08-20 |
-| [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2022-12-10 |  |
+| [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2022-12-10 | 2024-02-20 |
 | [Bhalwani Gedi](https://open.spotify.com/track/6v1eVFNX8VmZQHY4woM9R6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:27 | 2022-05-29 | 2023-08-01 |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-05-29 | 2023-03-18 |
 | [Bijlee Bijlee](https://open.spotify.com/track/6rypIt9X1x9Okl0mgCdoVV) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Happy Chocolate Day 2022](https://open.spotify.com/album/64MPIq8mztoup1uwycI8dw) | 2:48 | 2022-07-28 | 2022-07-30 |
@@ -181,6 +181,7 @@
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2022-08-22 |  |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2022-05-29 | 2022-12-18 |
 | [Move On](https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Inder](https://open.spotify.com/artist/4BTiv9wnMrhxZNxaTb3rwT) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:57 | 2022-12-17 | 2023-02-14 |
+| [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 | 2024-02-19 |  |
 | [Mutiyaare Ni](https://open.spotify.com/track/10R2yIPmE42bWWbF7yucp8) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Mutiyaare Ni](https://open.spotify.com/album/3FqQgUOumCqcxYRynXLRo1) | 3:12 | 2022-05-29 | 2022-08-20 |
 | [My Prime](https://open.spotify.com/track/37fGKxktN2ZOEDWJ7RLABh) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:10 | 2023-08-22 | 2023-09-22 |
 | [My Prime](https://open.spotify.com/track/3iNn2VvRJMpz5VLbEAH2r1) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Naveezy](https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT) | 4:10 | 2023-09-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,321 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,419 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 49 | [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 |
 | 50 | [Sacanagenzinha \- Ao Vivo](https://open.spotify.com/track/4ZjyyujX7GqzGqWO8bLUKY) | [XANDDY HARMONIA](https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Harmonia \#AMSM \(Ao Vivo\)](https://open.spotify.com/album/4xagqZnst5qSrmIQ0WS0IT) | 2:16 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBkMTM5ZWNmZDY0ZjUwMDRjMjU2YTNiNDdlNjJjNGI4MQ==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDA5NzMxZDkyZGUyYTI2MjNkYmI3NzhhY2RjOWY5OWIxOQ==`

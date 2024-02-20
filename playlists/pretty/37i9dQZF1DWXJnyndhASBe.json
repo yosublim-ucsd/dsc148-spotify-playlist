@@ -1,73 +1,13 @@
 {
   "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kukon",
-  "num_followers": 496756,
+  "num_followers": 496910,
   "original_name": "RAP GENERACJA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzdmY2U2ZjA2M2U3NTA3MzU2ZDU3M2NiMzcxY2ExNWNkOWU4MGE1",
+  "snapshot_id": "MCw4MGNlYjc1OWIxOTlmZTlmOTAxMjNlNTI1M2Q0ZWVlOTg3N2I4NGM5",
   "tracks": [
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Organic Human",
-        "url": "https://open.spotify.com/album/0nrlRRu8hYLnfIqilFDOZ2"
-      },
-      "artists": [
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        }
-      ],
-      "duration_ms": 117647,
-      "name": "cracow shit",
-      "url": "https://open.spotify.com/track/5JWnJWnBpBJbrilDwY8Wn1"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "CERBER EP",
-        "url": "https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU"
-      },
-      "artists": [
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 155056,
-      "name": "Plaster",
-      "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "New York Freestyle",
-        "url": "https://open.spotify.com/album/4ZpDOqonkjeH4angMDZJFm"
-      },
-      "artists": [
-        {
-          "name": "Otsochodzi",
-          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
-        },
-        {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
-        }
-      ],
-      "duration_ms": 135300,
-      "name": "New York Freestyle",
-      "url": "https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6"
-    },
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
@@ -99,22 +39,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Vanitas",
-        "url": "https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9"
-      },
-      "artists": [
-        {
-          "name": "Aleshen",
-          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
-        }
-      ],
-      "duration_ms": 216923,
-      "name": "Vanitas",
-      "url": "https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "NAPALONE FANKI",
         "url": "https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92"
       },
@@ -135,6 +59,90 @@
       "duration_ms": 187415,
       "name": "NAPALONE FANKI",
       "url": "https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "CERBER EP",
+        "url": "https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 155056,
+      "name": "Plaster",
+      "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Vanitas",
+        "url": "https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "duration_ms": 216923,
+      "name": "Vanitas",
+      "url": "https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "New York Freestyle",
+        "url": "https://open.spotify.com/album/4ZpDOqonkjeH4angMDZJFm"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "duration_ms": 135300,
+      "name": "New York Freestyle",
+      "url": "https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -175,30 +183,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "SAFE",
-        "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
+        "name": "Organic Human",
+        "url": "https://open.spotify.com/album/0nrlRRu8hYLnfIqilFDOZ2"
       },
       "artists": [
         {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
         },
         {
-          "name": "Opa\u0142",
-          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
-        },
-        {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
-        },
-        {
-          "name": "4Money",
-          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
         }
       ],
-      "duration_ms": 202758,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
+      "duration_ms": 117647,
+      "name": "cracow shit",
+      "url": "https://open.spotify.com/track/5JWnJWnBpBJbrilDwY8Wn1"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -271,6 +271,26 @@
       "duration_ms": 186692,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/3ZRG2gQfGWaKGY3Ay8w5Kh"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "duration_ms": 164895,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -407,26 +427,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "HERO",
-        "url": "https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        },
-        {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
-        }
-      ],
-      "duration_ms": 164895,
-      "name": "HERO",
-      "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Zawsze chcia\u0142em",
         "url": "https://open.spotify.com/album/5d3qRgHcgMg3VIsK6WsW8r"
       },
@@ -519,30 +519,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Tokyo (wsp\u00f3\u0142czesny)",
-        "url": "https://open.spotify.com/album/4xFeOFO03URRQdrsqYEzBK"
-      },
-      "artists": [
-        {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        },
-        {
-          "name": "Szamz",
-          "url": "https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE"
-        },
-        {
-          "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
-        }
-      ],
-      "duration_ms": 203835,
-      "name": "Tokyo (wsp\u00f3\u0142czesny)",
-      "url": "https://open.spotify.com/track/4wHLny6TgycJSuZ2bKWB11"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "CEO",
         "url": "https://open.spotify.com/album/3qlVzxQDjvapwFS3IJ9YE4"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 142769,
       "name": "Life After Live",
       "url": "https://open.spotify.com/track/0EdRzc8tnZl7aJ4UbYcAiT"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Tokyo (wsp\u00f3\u0142czesny)",
+        "url": "https://open.spotify.com/album/4xFeOFO03URRQdrsqYEzBK"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Szamz",
+          "url": "https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        }
+      ],
+      "duration_ms": 203835,
+      "name": "Tokyo (wsp\u00f3\u0142czesny)",
+      "url": "https://open.spotify.com/track/4wHLny6TgycJSuZ2bKWB11"
     },
     {
       "added_at": "2024-02-15 23:00:00",

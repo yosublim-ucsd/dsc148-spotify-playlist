@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 18973,
+  "num_followers": 18996,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjJmZmI4ZDQ3ZDdhN2VmZjRiYWE1OTRiMWZmYWYzYTJiN2Q2ZGQ0",
+  "snapshot_id": "MCxkMjQxZGE3NjJjM2EyY2Y5NDUwMjgzZDE2YTQ2ZjU3MTlhZGM3ZmE3",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 167746,
       "name": "On and On",
       "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -415,22 +415,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
-        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 201347,
-      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
-      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
+      "duration_ms": 156213,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 156213,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk"
+      "duration_ms": 201347,
+      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 199825,
       "name": "Make It Easy (with Coco Jones)",
       "url": "https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "TEARS OF THE SUN",
-        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "YBGFA",
-      "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Cincinnati Pumpin!!",
         "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 158064,
       "name": "4ever",
       "url": "https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "TEARS OF THE SUN",
+        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "YBGFA",
+      "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "GROOVE WITH ME - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 165330,
-      "name": "GROOVE WITH ME - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "GROOVE WITH ME - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 165330,
+      "name": "GROOVE WITH ME - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Decide",
         "url": "https://open.spotify.com/album/28qJotgVoss0htjx54Z33G"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 168680,
       "name": "Decide",
       "url": "https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "JJC",
+        "url": "https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "JJC",
+      "url": "https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1431,18 +1447,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "JJC",
-        "url": "https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28"
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
       "artists": [
         {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 154000,
-      "name": "JJC",
-      "url": "https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu"
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1487,26 +1507,6 @@
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
       "added_at": "2024-02-16 00:01:00",

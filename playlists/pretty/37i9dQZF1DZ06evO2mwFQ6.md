@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,300 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,301 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 8 | [Cigarettes & Whiskey](https://open.spotify.com/track/2QWEe3dQkKiGoTmptw3js1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ) | 3:38 |
 | 9 | [Spirit of the Bush \- Remastered 2017](https://open.spotify.com/track/2h1nMiUCpMA3kLrtjIUe8h) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Spirit of the Bush](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:33 |
 | 10 | [Our Church](https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Our Church](https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX) | 3:39 |
-| 11 | [Grandpa's Piano](https://open.spotify.com/track/6NWWyD73Tb728WqsWQz9eg) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:23 |
-| 12 | [I Did What?](https://open.spotify.com/track/0e6xQNN0qADdQSG56L7a4z) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 2:52 |
+| 11 | [I Did What?](https://open.spotify.com/track/0e6xQNN0qADdQSG56L7a4z) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 2:52 |
+| 12 | [Grandpa's Piano](https://open.spotify.com/track/6NWWyD73Tb728WqsWQz9eg) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:23 |
 | 13 | [Hell Of A Ride](https://open.spotify.com/track/73LVeeNwkY1C0qAkV6H99y) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:56 |
 | 14 | [Six Days On The Road](https://open.spotify.com/track/0IMbo0eRqkIkAKO131Wusr) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 2:48 |
 | 15 | [The Anzac](https://open.spotify.com/track/2mOCf3tD0R4ZcWEI7wRv9G) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc) | 4:51 |
@@ -46,18 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 36 | [If Heaven Has A Soundtrack](https://open.spotify.com/track/08N3K0Mhn9AbobnOqZMfmJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 4:08 |
 | 37 | [Hearts I Leave Behind](https://open.spotify.com/track/0lkAvMfm03vdKGNLe3Bvas) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side Of The Street](https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF) | 3:14 |
 | 38 | [You Are To Me](https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:12 |
-| 39 | [Comin' From / Khe Sanh \- Medley](https://open.spotify.com/track/1aaVmTR7WXYDoSUpnGAknS) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:14 |
-| 40 | [Good Year For The Outlaw](https://open.spotify.com/track/1p2pxUmCzV868AUHfw7Cei) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:34 |
+| 39 | [Good Year For The Outlaw](https://open.spotify.com/track/1p2pxUmCzV868AUHfw7Cei) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:34 |
+| 40 | [Comin' From / Khe Sanh \- Medley](https://open.spotify.com/track/1aaVmTR7WXYDoSUpnGAknS) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:14 |
 | 41 | [Little Less Lonely](https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:15 |
 | 42 | [Beating Around The Bush](https://open.spotify.com/track/0Ul76B6hmCMTEAgjblo1Am) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:19 |
 | 43 | [Now We're Talking](https://open.spotify.com/track/3y94TeBQxO7z59PZLLLQH9) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Now We're Talking](https://open.spotify.com/album/1bhWVaM0AdYQxAd6eO38Id) | 3:00 |
-| 44 | [Fly](https://open.spotify.com/track/0Ek6Gfmi9BTINJJEzogS5q) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:14 |
-| 45 | [Feelin' Single Seein' Double](https://open.spotify.com/track/30BAraUYTBkeE7tVfaQ2Xz) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:27 |
-| 46 | [You're A Revhead](https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:00 |
-| 47 | [Thump](https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 2:53 |
+| 44 | [Thump](https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 2:53 |
+| 45 | [Fly](https://open.spotify.com/track/0Ek6Gfmi9BTINJJEzogS5q) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:14 |
+| 46 | [Feelin' Single Seein' Double](https://open.spotify.com/track/30BAraUYTBkeE7tVfaQ2Xz) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:27 |
+| 47 | [You're A Revhead](https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:00 |
 | 48 | [Someday](https://open.spotify.com/track/12qLBrLCpHD5ggV1HPJQbn) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Dust Will Settle](https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo) | 2:28 |
 | 49 | [I Was Here](https://open.spotify.com/track/1vvu0yPPYvHl7vUMnhGkGM) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [There Will Be Love](https://open.spotify.com/album/6jXEYlmvahy2vkjPPYwbPi) | 3:21 |
 | 50 | [Love Away The Night \- with Adam Brand](https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv) | 3:38 |
 | 51 | [Time Of Our Lives](https://open.spotify.com/track/795tyoi1WIxGSMRwRe8PzH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Jordan Brooker](https://open.spotify.com/artist/7MhkhYdulwE1sjZ8K3bucH) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:18 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA0NjFlMTM0ZjZhMDk1MzdhNmU1ZWU5MTE5MGUxZjMyYQ==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDBhYzg2NDE0OTlkNzhhZDM2YWI0ODQ4ODVlNTM1ZGExMw==`

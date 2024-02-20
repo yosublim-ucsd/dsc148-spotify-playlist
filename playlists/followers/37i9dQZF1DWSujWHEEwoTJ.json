@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 63909,
+  "2024-02-20": 63969,
   "date_first_scraped": "2022-05-01",
   "description": "Desde Culiac\u00e1n, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile. ",
   "name": "La Marisquer\u00eda con Ozz",
@@ -1107,6 +1107,28 @@
     {
       "album": {
         "name": "Malas Rachas (En Vivo)",
+        "url": "https://open.spotify.com/album/0xlaInOYofb0OkPiW9zDuJ"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256754,
+      "name": "Malas Rachas (En Vivo)",
+      "url": "https://open.spotify.com/track/0js27m6Zy7oJDWfJ4f2hJ5"
+    },
+    {
+      "album": {
+        "name": "Malas Rachas (En Vivo)",
         "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
       },
       "artists": [
@@ -1121,7 +1143,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 256754,
       "name": "Malas Rachas (En Vivo)",
       "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"

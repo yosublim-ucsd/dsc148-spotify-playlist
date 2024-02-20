@@ -17589,6 +17589,24 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142667,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx"
+    },
+    {
+      "album": {
         "name": "Opening Statement",
         "url": "https://open.spotify.com/album/5slkROTuIFdyNSRtLIc1xu"
       },

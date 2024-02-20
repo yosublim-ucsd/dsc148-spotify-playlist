@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-533 songs - 1 day 14 hr 35 min
+534 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Exhuming McCarthy](https://open.spotify.com/track/7MkDvEslqFKLL0NubyaPNj) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 3:21 | 2020-12-08 | 2022-06-03 |
 | [Fallen Angel \- Remastered 2006](https://open.spotify.com/track/27kMqdX3aoN3gBndVKlTfR) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:58 | 2020-12-08 |  |
 | [Falling to Pieces](https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 5:13 | 2020-12-08 |  |
-| [Far From Over](https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:15 | 2020-12-08 |  |
+| [Far From Over](https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:15 | 2020-12-08 | 2024-02-20 |
 | [Fascination Street \- 2010 Remaster](https://open.spotify.com/track/23j7dlNIalftynH6fNllR9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 5:16 | 2020-12-08 |  |
 | [Fascination Street \- Remastered](https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:15 | 2020-12-08 | 2022-07-23 |
 | [Finest Worksong](https://open.spotify.com/track/0O7f4jLccME6ZfYfJ1twsX) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 3:50 | 2020-12-08 | 2022-07-27 |
@@ -151,6 +151,7 @@
 | [Glittering Prize \- Remastered 2002](https://open.spotify.com/track/6XtaeKqhusAvxJWAqZsnKN) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/1m8ybrw0umxg8FbBC3pH7K) | 4:33 | 2020-12-08 | 2022-07-27 |
 | [Gods Of War \- Remastered 2017](https://open.spotify.com/track/3YlVgIv15RabJD7s5tjL63) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 6:37 | 2020-12-08 | 2022-07-26 |
 | [Good Time Boys \- Remastered](https://open.spotify.com/track/4vlP4c41JzB5P8OxDF1PIf) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 5:01 | 2021-12-22 | 2022-07-29 |
+| [Got Me Under Pressure \(2008 Remaster\)](https://open.spotify.com/track/7lz578ML4nWrDL3uOLyQoR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:03 | 2022-11-17 |  |
 | [Got Me Under Pressure \- 2008 Remaster](https://open.spotify.com/track/1jzZZsfzxsebFa6KpWXaAr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:03 | 2020-12-08 | 2024-02-11 |
 | [Gotta Gettaway](https://open.spotify.com/track/5547Pj9VfbPFpcsBUtgzLI) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Nobody's Heroes](https://open.spotify.com/album/38hxzIenDKSNzjfUObeYwC) | 3:35 | 2022-01-05 | 2022-07-28 |
 | [Gouge Away](https://open.spotify.com/track/7oDDV1cal0M0RIjr4HuuJ9) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:42 | 2020-12-08 |  |

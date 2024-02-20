@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 91506,
+  "2024-02-20": 91544,
   "date_first_scraped": "2022-03-22",
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
   "name": "Ambient Post-Rock",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 171958,
       "name": "10",
       "url": "https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po"
@@ -1989,7 +1989,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"

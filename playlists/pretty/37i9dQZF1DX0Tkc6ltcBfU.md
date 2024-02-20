@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,253 likes - 89 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,305 likes - 89 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 88 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 |
 | 89 | [God Slippers](https://open.spotify.com/track/7s12Ox0mKH81QDymKsC09N) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [God Slippers](https://open.spotify.com/album/6RM0E6BN5d1Kv9ajMMlJ8q) | 3:22 |
 
-Snapshot ID: `MCwzYTBjNTIzMmQ1YWE5MjQyZWY4Zjk5NGU0N2YxOGM3ZmEyY2Q3YmJl`
+Snapshot ID: `MCxmNDZmOTM0OTljMDAwMDc1OWZiNmVlYjkzZWMxZWJiYThjNDNjOGQx`

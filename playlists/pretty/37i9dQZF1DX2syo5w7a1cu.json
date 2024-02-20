@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 724435,
+  "num_followers": 725011,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGIzYTA1N2MxNGQ0NjA4YmI5M2JiZjc3YWVhYjcwNWU4M2FmMzc1",
+  "snapshot_id": "MCxiMWZjZmJkNDZhNTAzMTg1Zjk1YzliNzUzNmQ5YTA2OTFiOTY0ZDRm",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Ten Summoner's Tales",
         "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
-      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 456866,
       "name": "It's All Coming Back to Me Now",
       "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "All-4-One",
         "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Picture This (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 228932,
       "name": "Candle In The Wind - Remastered 2014",
       "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "To Be With You - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 271333,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "To Be With You - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Great Expectations",
-        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
-      },
-      "artists": [
-        {
-          "name": "Tasmin Archer",
-          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Sleeping Satellite",
-      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 346813,
       "name": "Don't Let the Sun Go Down on Me",
       "url": "https://open.spotify.com/track/7xGOvQukPKKQVLiJOPSmt0"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Great Expectations",
+        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
+      },
+      "artists": [
+        {
+          "name": "Tasmin Archer",
+          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Sleeping Satellite",
+      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "I'll Make Love To You",
-      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Westlife",
         "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 216266,
       "name": "Flying Without Wings",
       "url": "https://open.spotify.com/track/1pDylAt4nUPy2r72KRQDYX"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "As Long as You Love Me",
-      "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Patty Smyth",
         "url": "https://open.spotify.com/album/1coATVsX722fGEulaiLMZM"
       },
@@ -1959,18 +1943,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 310666,
-      "name": "Viva Forever",
-      "url": "https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9"
+      "duration_ms": 214333,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1987,6 +1971,22 @@
       "duration_ms": 323866,
       "name": "Se bastasse una canzone",
       "url": "https://open.spotify.com/track/7dp45uA0Ws4TadWaMwdIRw"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 310666,
+      "name": "Viva Forever",
+      "url": "https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Colours (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Sleeping Child - 2014 Remaster",
-      "url": "https://open.spotify.com/track/27s15aCXPBi7RWlATpuLz6"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Fanmail",
         "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 387573,
       "name": "Never Ever",
       "url": "https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Colours (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Sleeping Child - 2014 Remaster",
+      "url": "https://open.spotify.com/track/27s15aCXPBi7RWlATpuLz6"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 273706,
-      "name": "I Turn to You",
-      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 292933,
       "name": "Rush Rush",
       "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 273706,
+      "name": "I Turn to You",
+      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2175,6 +2175,22 @@
       "duration_ms": 302040,
       "name": "It's Probably Me",
       "url": "https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 411146,
+      "name": "Jesus to a Child",
+      "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2231,22 +2247,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 411146,
-      "name": "Jesus to a Child",
-      "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Colours (2014 Remaster)",
         "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
       },
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Steam",
-        "url": "https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd"
-      },
-      "artists": [
-        {
-          "name": "East 17",
-          "url": "https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "Stay Another Day",
-      "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Back At One",
         "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 247466,
       "name": "6, 8, 12",
       "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Steam",
+        "url": "https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd"
+      },
+      "artists": [
+        {
+          "name": "East 17",
+          "url": "https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Stay Another Day",
+      "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2355,6 +2355,22 @@
       "duration_ms": 223466,
       "name": "Show Me Heaven - Acoustic Demo Version",
       "url": "https://open.spotify.com/track/6kVyOOkIYOmOtPQrTLAawt"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "One Last Cry",
+      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2439,22 +2455,6 @@
       "duration_ms": 316760,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/11Mkoen07pKwyDqHiFnVU9"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "One Last Cry",
-      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
     },
     {
       "added_at": "2022-03-21 23:00:00",

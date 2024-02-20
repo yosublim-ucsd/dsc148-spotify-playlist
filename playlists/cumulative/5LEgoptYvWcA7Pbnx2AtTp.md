@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-85 songs - 5 hr 4 min
+86 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Booty Swing](https://open.spotify.com/track/64yyY22zIihs01OpURdsh8) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Paris Swing Box](https://open.spotify.com/album/2djW68ErXMloNYhZaqDZdx) | 3:16 | 2023-11-15 |  |
 | [Burnin' for You](https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Fire of Unknown Origin](https://open.spotify.com/album/7v4kEpVtppoMm80m43lGzt) | 4:31 | 2023-11-20 |  |
 | [Business Man](https://open.spotify.com/track/0Ugvi8H89YmbBkSOx9VgUj) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:02 | 2022-05-06 |  |
+| [C'est la vie](https://open.spotify.com/track/0UhWFmdlrBSmZ7A6bFD8L9) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:14 | 2024-02-19 |  |
 | [Cabinet Man](https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:22 | 2022-08-01 |  |
 | [Come Along](https://open.spotify.com/track/17q1nFo1UQvXiQ8TD7aI8H) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Come Along](https://open.spotify.com/album/5vxcQ2itLPBAhiPSRMN4ls) | 3:39 | 2022-05-06 |  |
 | [Comics](https://open.spotify.com/track/6mW6lEKUw4or42IEwBCXJe) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:32 | 2023-06-03 |  |

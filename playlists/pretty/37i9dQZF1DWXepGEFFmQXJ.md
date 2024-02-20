@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Chayce Beckham
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,798 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,873 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [WORTH ITS WEIGHT IN GOLD](https://open.spotify.com/track/2cOZ6OUPWIlM0Iu5XfLE8i) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WORTH ITS WEIGHT IN GOLD](https://open.spotify.com/album/0gHoE5r8YIQJ4Bz2LExtjN) | 3:48 |
 | 85 | [Never Give Up On A Good Time](https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Never Give Up On A Good Time](https://open.spotify.com/album/7n8ypK3KRGbAVtH2NcXZBA) | 3:17 |
 
-Snapshot ID: `MCwyOThkMGZjN2M0MjEwMzE2NDgxOGFkMGI1ODJlOWZmNzRmNjNhMzZl`
+Snapshot ID: `MCwxY2VlYjJkYWFkOWFjNDczNGRlMzE2OWEzOGIzZWI4MjFlNWQ2Zjc1`

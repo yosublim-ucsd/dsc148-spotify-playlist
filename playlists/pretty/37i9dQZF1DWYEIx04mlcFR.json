@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con Nicole Horts en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 67660,
+  "num_followers": 79216,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODhmMDE0MDEzOTMxNDQ3Y2E4YTcyNDJiNDdmZTgzN2JkZGQwMDI5",
+  "snapshot_id": "MCw1NzNjOTgxOGQ3ZWFhNmVlMjYwM2Q0YzY3YjkxZWQ3Njg2ZmZiYTZl",
   "tracks": [
     {
       "added_at": "2024-01-26 16:23:21",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
         "name": "Dueles Tan Bien",
         "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
         "name": "ESENCIA",
         "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "EME",
-        "url": "https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "EME",
-      "url": "https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
         "name": "Se fue la luz",
         "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 212000,
       "name": "Se fue la luz",
       "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
+        "name": "EME",
+        "url": "https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "EME",
+      "url": "https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
+        "name": "M\u00e1s Que Amigas",
+        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "M\u00e1s Que Amigas",
+      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
         "name": "oggy",
         "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 186945,
       "name": "rangerover",
       "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
-        "name": "M\u00e1s Que Amigas",
-        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "M\u00e1s Que Amigas",
-      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -1003,6 +1003,38 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
+        "name": "todo pasa",
+        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 214790,
+      "name": "todo pasa",
+      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
         "name": "La Lista",
         "url": "https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP"
       },
@@ -1035,34 +1067,18 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "todo pasa",
-        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 214790,
-      "name": "todo pasa",
-      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -1079,22 +1095,6 @@
       "duration_ms": 190000,
       "name": "odiarte",
       "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "A TI",
-        "url": "https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 138509,
-      "name": "A TI",
-      "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
         "name": "Llamadas Vac\u00edas",
         "url": "https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "Tele",
-        "url": "https://open.spotify.com/album/1WGSsdUHw9DETdCD9VDqzZ"
+        "name": "A TI",
+        "url": "https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza"
       },
       "artists": [
         {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 126136,
-      "name": "Tele",
-      "url": "https://open.spotify.com/track/5eagnWmjBiNdLovonN1gI4"
+      "duration_ms": 138509,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -1295,6 +1279,22 @@
       "duration_ms": 244235,
       "name": "lalalala",
       "url": "https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
+        "name": "Tele",
+        "url": "https://open.spotify.com/album/1WGSsdUHw9DETdCD9VDqzZ"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 126136,
+      "name": "Tele",
+      "url": "https://open.spotify.com/track/5eagnWmjBiNdLovonN1gI4"
     }
   ],
   "unique_name": "la pop~wave",

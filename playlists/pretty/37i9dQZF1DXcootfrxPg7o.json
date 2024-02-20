@@ -1,12 +1,12 @@
 {
   "description": "Music from and inspired by Neflix's Malcolm & Marie.",
-  "num_followers": 39761,
+  "num_followers": 39794,
   "original_name": "Malcolm & Marie Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDBkZTUxZDg2ZjFkMTEzYjVmOGRmNzUzM2ExMWFlM2VlMWY3ZGUw",
+  "snapshot_id": "MCw4NmE0MDA1ZmVlOTc0OTlkODM3ZmNmZWQ4NTI1NmJmYWUzYzkyNzQ5",
   "tracks": [
     {
       "added_at": "2021-01-22 15:34:30",
@@ -275,18 +275,22 @@
     {
       "added_at": "2021-01-22 15:34:30",
       "album": {
-        "name": "Brasil",
-        "url": "https://open.spotify.com/album/75fbhUok6AALC0oNZ4Qz0Z"
+        "name": "Getz Au Go Go",
+        "url": "https://open.spotify.com/album/6QRnSOOnQtoETsFxtj43Qu"
       },
       "artists": [
+        {
+          "name": "The New Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1KPXBL5bib3e0ejBIqHC6c"
+        },
         {
           "name": "Astrud Gilberto",
           "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
-      "duration_ms": 267346,
-      "name": "Only Trust Your Heart",
-      "url": "https://open.spotify.com/track/11ZdsvOq4eWKiZkgg4TS5x"
+      "duration_ms": 274466,
+      "name": "Only Trust Your Heart - Live At Caf\u00e9 Au Go-Go,1964",
+      "url": "https://open.spotify.com/track/175CBVqMDwIV0b2AvC00Jy"
     },
     {
       "added_at": "2021-01-22 15:34:30",

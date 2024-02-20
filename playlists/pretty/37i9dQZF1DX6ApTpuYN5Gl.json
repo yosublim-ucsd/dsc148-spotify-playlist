@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 69362,
+  "num_followers": 69419,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGNlNjRmZWY2MmQ3ZjI3ODdhMDVjY2RmOGE2YTJjNDgyOTViNTQy",
+  "snapshot_id": "MCw4MjZlYTYxZDI0ZGIwMGUzNGI4NzExMTcwZTZjMzM3Y2IzOTM3NjFl",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 250000,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -627,6 +627,30 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "duration_ms": 168398,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
       },
@@ -675,26 +699,22 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
       },
       "artists": [
         {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Dinia",
-          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 168398,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -715,26 +735,6 @@
       "duration_ms": 197000,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Confused 133",
         "url": "https://open.spotify.com/album/318k5epPI1tchtYBglX5kM"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 257500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
     },
     {
       "added_at": "2023-12-22 16:30:00",

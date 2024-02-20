@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1851248,
+  "num_followers": 1851717,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmQ3NGMyZGRlNTM1ZmY2ZGIwYWE3N2YyODY4MWZmNzVkNDQwYzk0",
+  "snapshot_id": "MCwxYTA3OWIzNTViY2M2NWM0ZTVlMzkzYWRmNGEwYzE5OTVmOGIyNGYx",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 252613,
-      "name": "Duality",
-      "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
+      "duration_ms": 185586,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -475,18 +491,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 185586,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -523,22 +539,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
-      },
-      "artists": [
-        {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
-        }
-      ],
-      "duration_ms": 285569,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -555,18 +555,34 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
         }
       ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+      "duration_ms": 285569,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "What I've Done",
-      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Every Six Seconds",
         "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 252400,
       "name": "Click Click Boom",
       "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -651,18 +667,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 258266,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
         }
       ],
-      "duration_ms": 221000,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
+      "duration_ms": 186066,
+      "name": "Die MF Die",
+      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Die MF Die",
-      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 241466,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -855,22 +855,6 @@
       "duration_ms": 162293,
       "name": "Dig",
       "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -935,6 +919,22 @@
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Sevendust (Definitive Edition)",
-        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Spit",
         "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 142866,
       "name": "Spit",
       "url": "https://open.spotify.com/track/6zd772F94reUnGHulNeEFm"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Sevendust (Definitive Edition)",
+        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1175,6 +1175,22 @@
       "duration_ms": 191360,
       "name": "A Certain Shade of Green",
       "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Greatest Hits: You Never Saw Coming",
+        "url": "https://open.spotify.com/album/4ni1I8eIqUlfokkN2FE0hv"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Bawitdaba - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0T3odPQ4qqKOqvQEtMcPWM"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1227,38 +1243,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Greatest Hits: You Never Saw Coming",
-        "url": "https://open.spotify.com/album/4ni1I8eIqUlfokkN2FE0hv"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Bawitdaba - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0T3odPQ4qqKOqvQEtMcPWM"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Animosity",
-        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "The Height of Callousness",
         "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
       },
@@ -1275,18 +1259,34 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+        "name": "Coal Chamber",
+        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Vitamin",
-      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
+      "duration_ms": 215133,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Animosity",
+        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
     }
   ],
   "unique_name": "Nu Metal Era",

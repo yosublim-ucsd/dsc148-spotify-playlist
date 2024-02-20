@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=QwED8IQZTL2o\-QLXb2I5LA">Dua Lipa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,010 likes - 65 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,050 likes - 65 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 64 | [Seek My Heart Out](https://open.spotify.com/track/1VeaPnStdgi6SQwRVrVYix) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [Seek My Heart Out](https://open.spotify.com/album/4nF2hNts6esqTvqBXzorOg) | 3:30 |
 | 65 | [Untitled](https://open.spotify.com/track/3SDuxybGXAPeLV4vvR2uwF) | [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV) | [Interludes](https://open.spotify.com/album/2yrT3MXQ26xeb7KjVcSTTn) | 2:28 |
 
-Snapshot ID: `MCxjOTdhZjJkMmQ5OGNhOTM2ODg0OGZkNzE3YzYxMTk0ODI2YjZhN2Y4`
+Snapshot ID: `MCw5NzhiYTAyYzk2MjU0ZThjODcwNzAzYmJkNWIwYzU2ZGUzNzMyNTFm`

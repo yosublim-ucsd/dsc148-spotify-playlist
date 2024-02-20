@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 329,855 likes - 70 songs - 4 hr 50 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 329,860 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7HNPhibn8yKB79sGa05EKr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [20th Century Masters: The Millennium Collection: Best Of Tears For Fears](https://open.spotify.com/album/6BH7SAEYr8X1kr3ZsFfkAO) | 4:10 |
-| 2 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
+| 1 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
+| 2 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7HNPhibn8yKB79sGa05EKr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [20th Century Masters: The Millennium Collection: Best Of Tears For Fears](https://open.spotify.com/album/6BH7SAEYr8X1kr3ZsFfkAO) | 4:10 |
 | 3 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 4 | [Into The Night](https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc) | [Benny Mardones](https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw) | [Never Run Never Hide](https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m) | 4:31 |
 | 5 | [Luka](https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 3:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 69 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 |
 | 70 | [The Stroke](https://open.spotify.com/track/2H5BRl8I6IveJ6BgC7FpqQ) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No](https://open.spotify.com/album/5FATFw46kqvlhayx9QCxLd) | 3:38 |
 
-Snapshot ID: `OTQ0LDNlY2MzN2IyNDZiMmEzNmVhYWI0MzE3ZmNlNWRkZTFmNTdiMzQ1YTA=`
+Snapshot ID: `OTQ3LDg1NTU1MGVlNjVkZDY0OWQ3YjAyMDZlZjQ0Y2MwNjhjY2QwZWIwZjc=`

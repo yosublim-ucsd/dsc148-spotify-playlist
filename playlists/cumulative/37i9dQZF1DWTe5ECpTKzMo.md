@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> la tierra del Rap de oro puro\. Lefty SM, tus rimas ya son eternas, Descansa en paz.
+> La tierra del Rap de oro puro\. Cartel de Santa en portada
 
 127 songs - 8 hr 6 min
 

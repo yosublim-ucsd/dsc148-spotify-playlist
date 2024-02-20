@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Death Lens
 
-1,305 songs - 2 day 23 hr 26 min
+1,306 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1266,7 +1266,8 @@
 | [When I Come Home, I'll Find A Hill To Die On](https://open.spotify.com/track/56ihLqoToNzatvYkAN14fA) | [Platonic Sex](https://open.spotify.com/artist/61hTjDPDLNpg6CPMtmLqHX) | [When I Come Home, I'll Find A Hill To Die On](https://open.spotify.com/album/4HpsxmodFESzknOqj2Xioy) | 3:56 | 2023-11-08 | 2024-01-25 |
 | [When Is It Ever That Easy?](https://open.spotify.com/track/6JPPUe0eDzVMiJ0iFh5pTa) | [Social Cinema](https://open.spotify.com/artist/3JpSDDwQPy4uViTMdUe4du) | [It's Nice to Meet You: Singles Collection](https://open.spotify.com/album/0yJCM4GqY5D1CeV2MziDIH) | 3:24 | 2023-10-18 | 2024-02-15 |
 | [When You Go Home I Withdrawal](https://open.spotify.com/track/74Dqqy2wHjLluhgOwJVrn5) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Suffer Summer](https://open.spotify.com/album/0bQNLzwiW9RBH77MkGNp6k) | 3:22 | 2022-01-19 | 2024-01-11 |
-| [Where We've Been](https://open.spotify.com/track/1roZVHlL8RR4s6cdrHl2qZ) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where We've Been](https://open.spotify.com/album/6ZADkFBIE0TDXapyOthWL0) | 5:15 | 2024-01-17 |  |
+| [Where We've Been](https://open.spotify.com/track/1roZVHlL8RR4s6cdrHl2qZ) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where We've Been](https://open.spotify.com/album/6ZADkFBIE0TDXapyOthWL0) | 5:15 | 2024-01-17 | 2024-02-20 |
+| [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 | 2024-02-14 |  |
 | [Where's My Phone \(feat\. Krist Novoselic\)](https://open.spotify.com/track/0xnusxTSoUIqBQpTz0xXgJ) | [Hector Tellez Jr.](https://open.spotify.com/artist/1IAvmklldPm238fMm3QUwA), [Krist Novoselic](https://open.spotify.com/artist/4BZKfXia2RPZnzCgQ2fG8M) | [Where's My Phone \(feat\. Krist Novoselic\)](https://open.spotify.com/album/68KbggGHmm8gvISpEtwnd5) | 3:41 | 2023-03-22 | 2023-05-18 |
 | [White Picket Fence](https://open.spotify.com/track/6siOHdRw7Y4g0NmAZ5bweV) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [White Picket Fence](https://open.spotify.com/album/0OH3zQevY0Y3eXo0qA2aH1) | 2:56 | 2021-12-01 | 2022-03-24 |
 | [Who Are You](https://open.spotify.com/track/2UBAUbHZCrKTWjmUVq0bDm) | [Baits](https://open.spotify.com/artist/4HUALyDksgCev2Td6iP7WB) | [Who Are You](https://open.spotify.com/album/5gI9t6L4TGxZzYJmHG2Cz5) | 2:01 | 2022-08-10 | 2022-10-20 |

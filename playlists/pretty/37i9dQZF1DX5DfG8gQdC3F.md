@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Beyoncé, Mother Mother, Dua Lipa, Josh Ross and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,552 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,588 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 14 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 |
 | 15 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 |
 | 16 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 |
-| 17 | [Yaad](https://open.spotify.com/track/0GxXlmjiZNBWi44AUblZsR) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:12 |
+| 17 | [Yaad](https://open.spotify.com/track/0GxXlmjiZNBWi44AUblZsR) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:12 |
 | 18 | [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 |
 | 19 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 20 | [Down](https://open.spotify.com/track/78dsAqvPezU0xkeEJMjlj3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [time is measured](https://open.spotify.com/track/666tnbLT7ugnf5Xw7D3ecX) | [jerry](https://open.spotify.com/artist/1AZJhKobUOUAawr0AEmGE4) | [lovemesooner](https://open.spotify.com/album/398Pg5EQy3xSV3mYCBySn0) | 2:16 |
 | 100 | [Devil On My Shoulder](https://open.spotify.com/track/2CaiWCNMFAIxoyYKjMxAbf) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Devil On My Shoulder](https://open.spotify.com/album/3kl9IYI5NmJbdTWgJZNCmk) | 3:02 |
 
-Snapshot ID: `MCxiYjBlMDc3ZThhZTExZjkwMjNlOGVjYTg1Y2JhNzY3MGQ5YTI4M2Uy`
+Snapshot ID: `MCw5ZDViZjBiMGZlNzk5MzNhMTgwMmYyZTVkNTRlOTEyNzYxYWYyOTA0`

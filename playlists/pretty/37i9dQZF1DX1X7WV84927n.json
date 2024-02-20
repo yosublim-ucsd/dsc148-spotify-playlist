@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: FEVER 333",
-  "num_followers": 350595,
+  "num_followers": 350657,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGUzMDU0NzE4ODZiNWI3MjE1MmM5ZjkwODM0N2FhYjhmODdlNTc4",
+  "snapshot_id": "MCw2MzhiOTcxZTY0YmQ2ODUxNTUxODVjZjZmMThmNWM4ZDA0MDcyMzNh",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Prepare For Despair",
         "url": "https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 257798,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 187699,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Artificial",
         "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 219468,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 187699,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 240895,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/6LleMnUceskUsmszoOlODl"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Vengeance",
         "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 238534,
       "name": "Vengeance",
       "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 240895,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6LleMnUceskUsmszoOlODl"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Mammoth II",
-        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
-      },
-      "artists": [
-        {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 275739,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "I Felt It All",
         "url": "https://open.spotify.com/album/11McPmOi54GIS6J8XbZqnZ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 180266,
       "name": "I Felt It All",
       "url": "https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "duration_ms": 275739,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1527,6 +1527,38 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Container",
+        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Container",
+      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "WARZ0NE",
+        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 158175,
+      "name": "WARZ0NE",
+      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Won't Take Me Alive",
         "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
       },
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Dinosaur",
-        "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 228219,
-      "name": "Dinosaur",
-      "url": "https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Together Right",
         "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
       },
@@ -1571,6 +1587,22 @@
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 228219,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1607,22 +1639,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Container",
-        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 186098,
-      "name": "Container",
-      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 238143,
       "name": "Beguiled",
       "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "WARZ0NE",
-        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 158175,
-      "name": "WARZ0NE",
-      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1855,6 +1855,30 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Never Back Down",
+        "url": "https://open.spotify.com/album/0uNxVlXvWIWF2XoUx8QCNP"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hyles",
+          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
+        },
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Never Back Down",
+      "url": "https://open.spotify.com/track/60c68QO7eReWRNEHLLojBi"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "H8 MY SELF",
         "url": "https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx"
       },
@@ -1899,6 +1923,22 @@
       "duration_ms": 258325,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Middle Finger Motto",
+        "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 171937,
+      "name": "Middle Finger Motto",
+      "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1955,30 +1995,6 @@
       "duration_ms": 167861,
       "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
       "url": "https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Never Back Down",
-        "url": "https://open.spotify.com/album/0uNxVlXvWIWF2XoUx8QCNP"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hyles",
-          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
-        },
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Never Back Down",
-      "url": "https://open.spotify.com/track/60c68QO7eReWRNEHLLojBi"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2047,22 +2063,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Middle Finger Motto",
-        "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 171937,
-      "name": "Middle Finger Motto",
-      "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
       },
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Electric Sounds",
-        "url": "https://open.spotify.com/album/1cD91d8t0Nc5fwMevI6gkj"
+        "name": "CAST AWAY",
+        "url": "https://open.spotify.com/album/4kcaYHxdp2HqMyUUbQlFpa"
       },
       "artists": [
         {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
         }
       ],
-      "duration_ms": 210567,
-      "name": "Shake Your City",
-      "url": "https://open.spotify.com/track/5tVcVrv04rJlQxrbZ5sDzK"
+      "duration_ms": 212444,
+      "name": "CAST AWAY",
+      "url": "https://open.spotify.com/track/6o0reBUukKomzYBRL6gAr4"
     }
   ],
   "unique_name": "Hard Rock",

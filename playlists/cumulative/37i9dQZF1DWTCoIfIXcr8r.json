@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 684893,
       "name": "Raag Puriya",
       "url": "https://open.spotify.com/track/3nqZPfwkcE9NCOqUe32Aps"
@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Raga Bageshri",
+        "url": "https://open.spotify.com/album/6fFlNIRxn9PddYBHxGCOte"
+      },
+      "artists": [
+        {
+          "name": "Shaant Man",
+          "url": "https://open.spotify.com/artist/3DlcfbEsCsjEkmTOAHBNwO"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269535,
+      "name": "Raga Bhairavi",
+      "url": "https://open.spotify.com/track/4ZSFj6ZtxOfd5WTswALDVP"
+    },
+    {
+      "album": {
         "name": "Salon de Musique",
         "url": "https://open.spotify.com/album/2qGpTMsaE3KL0SsmtcbxQX"
       },
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Raga Jog",
+        "url": "https://open.spotify.com/album/1oxseQK7hwiESTjvuZM1oY"
+      },
+      "artists": [
+        {
+          "name": "Nadiyon",
+          "url": "https://open.spotify.com/artist/5qrL0zLxtiyX5IL2XvLUVQ"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299969,
+      "name": "Raga Jog",
+      "url": "https://open.spotify.com/track/65YatRfLBfj43PN64k2li2"
+    },
+    {
+      "album": {
         "name": "Dreamwaves",
         "url": "https://open.spotify.com/album/1Fli4PL8CCyZ3KuhF6GPan"
       },
@@ -816,6 +852,24 @@
       "duration_ms": 435893,
       "name": "Raga Patdeep - Alap",
       "url": "https://open.spotify.com/track/2LOwDjRTCEV72ijYjHSZlu"
+    },
+    {
+      "album": {
+        "name": "Raga Puriya",
+        "url": "https://open.spotify.com/album/2S1H6UXRGLtP86HTVrtYTO"
+      },
+      "artists": [
+        {
+          "name": "Chandr Pushp",
+          "url": "https://open.spotify.com/artist/0X91WNEF1zQ0MVBMDycjQ1"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221804,
+      "name": "Raga Puriya",
+      "url": "https://open.spotify.com/track/04foT6BVWtCeGEGCkxlc0R"
     },
     {
       "album": {

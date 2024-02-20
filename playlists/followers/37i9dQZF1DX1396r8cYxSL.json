@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 215906,
+  "2024-02-20": 215932,
   "date_first_scraped": "2023-10-25",
   "description": "2023 yaz\u0131na damga vuran \u015fark\u0131lar. Kapak: Semicenk x Do\u011fu Swag",
   "name": "Yaz Hitleri 2023",
@@ -283,7 +283,7 @@
     {
       "album": {
         "name": "Caney",
-        "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
+        "url": "https://open.spotify.com/album/46DEhRYZNFp9nBmC6j9Dru"
       },
       "artists": [
         {
@@ -298,6 +298,28 @@
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165059,
+      "name": "Caney",
+      "url": "https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt"
+    },
+    {
+      "album": {
+        "name": "Caney",
+        "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-19",
       "duration_ms": 165059,
       "name": "Caney",
       "url": "https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz"

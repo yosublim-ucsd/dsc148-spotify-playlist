@@ -4,7 +4,7 @@
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-118 songs - 5 hr 25 min
+119 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 | 2023-09-01 |  |
 | [Aisha](https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Aisha](https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv) | 3:01 | 2023-11-10 | 2023-11-18 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2023-09-01 |  |
+| [All Good Things](https://open.spotify.com/track/1sjliewWkSOKKvEVYHPqUk) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [LUCA \(DE\)](https://open.spotify.com/artist/30qKpLi7U8MxZyEy3HEW26) | [All Good Things](https://open.spotify.com/album/0Wl4Yf9g9gYZtABnPEz4KH) | 2:43 | 2024-01-26 |  |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2023-09-01 |  |
 | [All Stand Together](https://open.spotify.com/track/5Tg7ljm6nxJiBh8jl6cpPz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [All Stand Together](https://open.spotify.com/album/5eIZT2VKUxB8REoU0V1Qs2) | 3:15 | 2023-11-10 |  |
 | [All the Things She Said](https://open.spotify.com/track/5EATp50M4LxHiZWzHx4MQK) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [BassBears](https://open.spotify.com/artist/3dNqN9ggP6hqIGoVCovVb3) | [All the Things She Said](https://open.spotify.com/album/2GPBEu8Rm0TiPTQfJkzRfZ) | 2:20 | 2023-11-10 | 2023-11-18 |
@@ -67,7 +68,7 @@
 | [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 | 2023-12-01 |  |
 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 | 2023-09-01 |  |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-09-01 |  |
-| [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 | 2023-09-01 |  |
+| [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 | 2023-09-01 | 2024-02-20 |
 | [Hopeless Heart](https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Hopeless Heart](https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc) | 2:31 | 2023-09-08 |  |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-17 |  |
 | [HOV \- Remix](https://open.spotify.com/track/35kDv86L9VuUoj29YTHmE6) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [HOV \(Remix\)](https://open.spotify.com/album/0Jum44gDjXoH6BHixA5azg) | 2:46 | 2023-09-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 201370,
+  "num_followers": 201415,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGY0OTQ3Y2MwMzc2MTgwN2RmZmQwODE4YWU2YTNjMTAzZGZiYWI1",
+  "snapshot_id": "MCw5YjdjZmQ4MTE1NGJhYWMyMjk4OTEzZTY5MjAzZGY1MmU0MTljZDZj",
   "tracks": [
     {
       "added_at": "2024-02-05 17:58:02",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "What Are We Waiting For? +",
-        "url": "https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 189142,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 118503,
       "name": "When It Hurts",
       "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "What Are We Waiting For? +",
+        "url": "https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 189142,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "What We Want, What We Get",
-        "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "God Gave Me You",
-      "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "L O V E",
         "url": "https://open.spotify.com/album/3ZjaMgxjNrGZITppbnZnHK"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 184175,
       "name": "L O V E",
       "url": "https://open.spotify.com/track/5d12KzbM8Kwogo2Bx4sdDH"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "What We Want, What We Get",
+        "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "God Gave Me You",
+      "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "Look At Love",
-      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "Look At Love",
+      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Enough Already",
-        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Another Song About Love",
-      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Let Me Be There",
-        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 185095,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Love Will Never Fail",
         "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 199826,
       "name": "Love Will Never Fail (I Corinthians 13)",
       "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Let Me Be There",
+        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 185095,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "What A Heart Is Beating For",
-        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/7mtDmT2RFhPb8DP9qNUiNU"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 181500,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6a8G6scqUjGIrRCArFRNYP"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "What A Heart Is Beating For",
+        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/73pb2Yd4cSW414yXVNm69l"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 237019,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1gk8quablImWHaeusiM3BX"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Te Quiero Cerca",
         "url": "https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 177968,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5wAh9qbpzlRrdgVtIeNObM"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/73pb2Yd4cSW414yXVNm69l"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 237019,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/1gk8quablImWHaeusiM3BX"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD"
       },
@@ -2031,22 +2047,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
       },
@@ -2059,22 +2059,6 @@
       "duration_ms": 246240,
       "name": "I'm in Love With You",
       "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "BEBECITA SHAWTY",
-        "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
-      },
-      "artists": [
-        {
-          "name": "Don Ryvcko",
-          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "BEBECITA SHAWTY",
-      "url": "https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2095,22 +2079,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+        "name": "BEBECITA SHAWTY",
+        "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
       },
       "artists": [
         {
-          "name": "Becca Bradley",
-          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
-        },
-        {
-          "name": "The Psalm Room",
-          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
         }
       ],
-      "duration_ms": 206999,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
+      "duration_ms": 150769,
+      "name": "BEBECITA SHAWTY",
+      "url": "https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2131,6 +2111,26 @@
       "duration_ms": 199298,
       "name": "Remind You",
       "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+      },
+      "artists": [
+        {
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        },
+        {
+          "name": "The Psalm Room",
+          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2207,26 +2207,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
-        "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
-      },
-      "artists": [
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "The One Out The Friendzone - Kevin Aleksander Remix",
-      "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "a thousand shores (acoustic)",
         "url": "https://open.spotify.com/album/1OxvweA208aeNJ1lN51Gmg"
       },
@@ -2259,6 +2239,26 @@
       "duration_ms": 198000,
       "name": "Only Time Will Tell",
       "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
+        "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "The One Out The Friendzone - Kevin Aleksander Remix",
+      "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "A Beautiful Day in the Neighborhood",
+        "url": "https://open.spotify.com/album/3K4F0mndWLXEE06UsedN5I"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7fB1Amw3clfbFAxksiowUg"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/3j0qFagoLanhV9upwHLv93"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 173861,
       "name": "Better",
       "url": "https://open.spotify.com/track/2N61h8fv13gVHvDf4EcZuT"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "A Beautiful Day in the Neighborhood",
-        "url": "https://open.spotify.com/album/3K4F0mndWLXEE06UsedN5I"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/7fB1Amw3clfbFAxksiowUg"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Floodplain",
-        "url": "https://open.spotify.com/album/2i9oC2QiFAXVk6wJpJXr2V"
-      },
-      "artists": [
-        {
-          "name": "Sara Groves",
-          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "I Feel the Love Between Us",
-      "url": "https://open.spotify.com/track/78UHDGBTtSRTVU9v8XYYlv"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Far Kingdom // Summer Sessions",
         "url": "https://open.spotify.com/album/3iKuyGRbczWDnigOalSaq7"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 208493,
       "name": "Band of Gold // Summer Sessions",
       "url": "https://open.spotify.com/track/4kwsg89ymfCXPPt4VdjsmJ"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Floodplain",
+        "url": "https://open.spotify.com/album/2i9oC2QiFAXVk6wJpJXr2V"
+      },
+      "artists": [
+        {
+          "name": "Sara Groves",
+          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "I Feel the Love Between Us",
+      "url": "https://open.spotify.com/track/78UHDGBTtSRTVU9v8XYYlv"
     },
     {
       "added_at": "2024-02-05 17:58:02",

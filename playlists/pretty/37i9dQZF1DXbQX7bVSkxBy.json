@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=ufvviwyFRdmPwgIEioNVWA>Neon Adejo</a> ",
-  "num_followers": 22162,
+  "num_followers": 22212,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGY4NTEyYmE0ZGQ5YTc2NWVlZWU2ZDIyOWVlM2U1MTE4NjI0NmI2",
+  "snapshot_id": "MCxkYjk5YWJhZWVmMjdkOWM5OTQwNzM0NTFiYWZmNGVjMzE3OTY4ZWEy",
   "tracks": [
     {
       "added_at": "2023-12-29 00:01:00",
@@ -425,46 +425,6 @@
       "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "For the Love of God",
-        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 228134,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "You Are Great",
@@ -503,6 +463,22 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
+        "name": "For the Love of God",
+        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228134,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
         "name": "Grave Robber",
         "url": "https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 279066,
       "name": "You are Yahweh",
       "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "What Are We Waiting For? (The Single)",
-        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 194580,
-      "name": "What Are We Waiting For? (The Single)",
-      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Way Maker",
@@ -707,6 +691,22 @@
       "duration_ms": 306780,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "What Are We Waiting For? (The Single)",
+        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 194580,
+      "name": "What Are We Waiting For? (The Single)",
+      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -785,6 +785,26 @@
       "url": "https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "HALLELUJAH LIVE",
+        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "VICTORIA ORENZE",
+          "url": "https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w"
+        }
+      ],
+      "duration_ms": 511197,
+      "name": "Ebenezer - Live",
+      "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Put It On God",
@@ -823,26 +843,6 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "HALLELUJAH LIVE",
-        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "VICTORIA ORENZE",
-          "url": "https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w"
-        }
-      ],
-      "duration_ms": 511197,
-      "name": "Ebenezer - Live",
-      "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 252013,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Pain To Praise",
-        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
-      },
-      "artists": [
-        {
-          "name": "Nsikan Louis",
-          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Pain To Praise",
-      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -891,6 +875,22 @@
       "duration_ms": 965565,
       "name": "Emperor of the Universe",
       "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Pain To Praise",
+        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
+      },
+      "artists": [
+        {
+          "name": "Nsikan Louis",
+          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Pain To Praise",
+      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
     },
     {
       "added_at": "2024-01-12 08:30:18",

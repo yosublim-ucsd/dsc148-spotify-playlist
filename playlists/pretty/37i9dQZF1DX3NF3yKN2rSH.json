@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDU3YTA2MTVmMjg3MmFjNGRkNWU4NjRjYzkwOWZmNmE0ODFlODk4",
+  "snapshot_id": "MCw4NDA4MWM0ZGUwZWUwNjgxYzE4MjQ4OTE3N2Y1ZmVmNDIwMmY0MWFl",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 369160,
       "name": "Nobody Greater",
       "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Gracefully Broken",
+      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "The Life Project",
         "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 446666,
       "name": "You're Bigger",
       "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Free To Worship",
-        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "This Is The Day",
-      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -519,6 +503,42 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Free To Worship",
+        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 471573,
+      "name": "Your Spirit",
+      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 603749,
       "name": "Blood is Still the Blood (feat. Chandler Moore, Nicole Binion, Ryan Ofei)",
       "url": "https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 471573,
-      "name": "Your Spirit",
-      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Already Won - Live",
-      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Trin-i-tee 5:7",
         "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 308000,
       "name": "Mary Don't You Weep",
       "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6SxG3aGDLEYapq8THOTFHu"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/7HUJbPhx5spapf39VT3jXw"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Vickie Winans - Gospel Legacy",
         "url": "https://open.spotify.com/album/5gsoX7WHEah2Z33h3g5wKG"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 421946,
       "name": "Oh What Love",
       "url": "https://open.spotify.com/track/3ZHvUDfMVPADlGtKc7Bc39"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6SxG3aGDLEYapq8THOTFHu"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/7HUJbPhx5spapf39VT3jXw"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Nothing Like Your Presence",
-        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 467186,
-      "name": "Finished Work - Live From Chattanooga, TN",
-      "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Risen Powerful Gospel Resurrection Songs",
         "url": "https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 417160,
       "name": "Now Behold the Lamb - Live",
       "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Nothing Like Your Presence",
+        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 467186,
+      "name": "Finished Work - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Healing - Live In Detroit (with Vision)",
-        "url": "https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        },
-        {
-          "name": "Vision",
-          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
-        }
-      ],
-      "duration_ms": 357226,
-      "name": "You Did It All (with Vision)",
-      "url": "https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 356209,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Healing - Live In Detroit (with Vision)",
+        "url": "https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
+        }
+      ],
+      "duration_ms": 357226,
+      "name": "You Did It All (with Vision)",
+      "url": "https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Classic Gold: We're Waiting",
+        "url": "https://open.spotify.com/album/3NTA5iKL3O6gCkxyKRWEVC"
+      },
+      "artists": [
+        {
+          "name": "Sandra Crouch",
+          "url": "https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Nothing But the Blood v1.1",
+      "url": "https://open.spotify.com/track/4ipBtVQxxQSlx8rYHMXG0V"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Wanda Nero Butler & Yolanda Adams",
         "url": "https://open.spotify.com/album/2Cl4KsxZsmtURyKzXBDSL4"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 220493,
       "name": "Just As I Am",
       "url": "https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Classic Gold: We're Waiting",
-        "url": "https://open.spotify.com/album/3NTA5iKL3O6gCkxyKRWEVC"
-      },
-      "artists": [
-        {
-          "name": "Sandra Crouch",
-          "url": "https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Nothing But the Blood v1.1",
-      "url": "https://open.spotify.com/track/4ipBtVQxxQSlx8rYHMXG0V"
     },
     {
       "added_at": "2023-04-09 08:49:39",

@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Rascal Flatts",
-  "num_followers": 783459,
+  "num_followers": 783772,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDk3MWY2OWI3YTBjMmZjNzM3ZDFiMmI5Y2YxMDYzNmFkNjQzNTMx",
+  "snapshot_id": "MCw4ZjM1ZDQ3YTI5YmRmZmZlNzgyNmMxZTdhNTRhMDJiZWMyNmEzYTEz",
   "tracks": [
     {
       "added_at": "2024-02-01 22:20:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Courtesy Of The Red, White And Blue (The Angry American)",
-      "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 276320,
       "name": "Life is a Highway",
       "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+      "duration_ms": 195533,
+      "name": "Courtesy Of The Red, White And Blue (The Angry American)",
+      "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 204000,
       "name": "Beer For My Horses",
       "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "I Love This Bar",
-      "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+      "duration_ms": 335333,
+      "name": "I Love This Bar",
+      "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+        "name": "III",
+        "url": "https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
         }
       ],
-      "duration_ms": 183960,
-      "name": "I Wanna Talk About Me",
-      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
+      "duration_ms": 187053,
+      "name": "Tequila Makes Her Clothes Fall Off",
+      "url": "https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl"
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
       },
       "artists": [
         {
-          "name": "Joe Nichols",
-          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 187053,
-      "name": "Tequila Makes Her Clothes Fall Off",
-      "url": "https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu"
+      "duration_ms": 183960,
+      "name": "I Wanna Talk About Me",
+      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/1iAJGY7TFt1imCjD0npYaC"
       },
@@ -727,22 +711,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "You Belong With Me",
-      "url": "https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -755,6 +723,22 @@
       "duration_ms": 235426,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "You Belong With Me",
+      "url": "https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -791,22 +775,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 269586,
-      "name": "Must Be Doin' Somethin' Right",
-      "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -819,6 +787,22 @@
       "duration_ms": 248066,
       "name": "She Thinks My Tractor's Sexy",
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 269586,
+      "name": "Must Be Doin' Somethin' Right",
+      "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -839,22 +823,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "All-American Girl",
-      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -871,8 +839,24 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "All-American Girl",
+      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
       },
       "artists": [
         {
@@ -880,9 +864,29 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 290560,
+      "name": "When the Sun Goes Down",
+      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -967,22 +971,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 290560,
-      "name": "When the Sun Goes Down",
-      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Long Black Train",
-        "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
       "artists": [
         {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 250626,
-      "name": "Long Black Train",
-      "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
+      "duration_ms": 213653,
+      "name": "These Are My People",
+      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+        "name": "Long Black Train",
+        "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 213653,
-      "name": "These Are My People",
-      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+      "duration_ms": 250626,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Sunset Man (Standard Version)",
-        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
-      },
-      "artists": [
-        {
-          "name": "James Otto",
-          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "Just Got Started Lovin' You",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "My Life's Been A Country Song",
         "url": "https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
+        "name": "Sunset Man (Standard Version)",
+        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
+      },
+      "artists": [
+        {
+          "name": "James Otto",
+          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "Just Got Started Lovin' You",
+      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
         "name": "Let's Be Us Again",
         "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 208693,
       "name": "Mr. Mom",
       "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "I'm Gonna Getcha Good",
+      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1547,22 +1563,6 @@
       "duration_ms": 199413,
       "name": "Ain't Nothing 'Bout You",
       "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "I'm Gonna Getcha Good",
-      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 293600,
-      "name": "You\u2019ll Think Of Me",
-      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 241053,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 293600,
+      "name": "You\u2019ll Think Of Me",
+      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Jason Aldean",
-        "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/0RUcBtQ6QBo5ocacmwdHHo"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Hits Alive",
         "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 206720,
       "name": "Mud On the Tires",
       "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Jason Aldean",
+        "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/0RUcBtQ6QBo5ocacmwdHHo"
     },
     {
       "added_at": "2024-02-01 22:20:44",

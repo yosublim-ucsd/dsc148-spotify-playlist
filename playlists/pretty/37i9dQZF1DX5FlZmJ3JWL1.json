@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 745159,
+  "num_followers": 745391,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2I2MWJlODVjMTA3ZTE0NzA3M2E5Yzc4NGNiY2M4YTI5ZGJkNGJi",
+  "snapshot_id": "MCxlNjQ0MjMzMjQ3MjA2M2ZiNjlhODVhY2IwY2JhOTk4NjQzNDZlZmVk",
   "tracks": [
     {
       "added_at": "2024-02-08 14:10:22",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-02-08 14:10:22",
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
+    },
+    {
+      "added_at": "2024-02-08 14:10:22",
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2024-02-08 14:10:22",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 137595,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
     },
     {
       "added_at": "2024-02-08 14:10:22",
@@ -759,26 +775,6 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
-    },
-    {
-      "added_at": "2024-02-08 14:10:22",
-      "album": {
-        "name": "Sunglasses At Night",
-        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
     },
     {
       "added_at": "2024-02-08 14:10:22",
@@ -879,18 +875,22 @@
     {
       "added_at": "2024-02-08 14:10:22",
       "album": {
-        "name": "Crusade",
-        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
+        "name": "Sunglasses At Night",
+        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
       },
       "artists": [
         {
           "name": "Gabry Ponte",
           "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 179400,
-      "name": "Crusade - Club Edit",
-      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
+      "duration_ms": 170000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
     },
     {
       "added_at": "2024-02-08 14:10:22",

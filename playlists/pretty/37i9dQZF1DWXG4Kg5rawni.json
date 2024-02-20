@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 97922,
+  "num_followers": 97970,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjljYzM2ODMyNWMwZDU3ZDUyNzJiMWY3MmI2NDBjZjNmYThmZDg3",
+  "snapshot_id": "MCwxYTM0M2JiYmQxN2EwMjJlNjBlZGQ3ZjQxZGM3YTRkOWM1NDZjYWY4",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Lugar Mais Alto",
+        "url": "https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 276456,
+      "name": "Era Voc\u00ea",
+      "url": "https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
       },
@@ -311,22 +327,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Lugar Mais Alto",
-        "url": "https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 276456,
-      "name": "Era Voc\u00ea",
-      "url": "https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Pamela Falando de Amor",
         "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "\u00c0 Moda Antiga",
-        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
-      },
-      "artists": [
-        {
-          "name": "Lu Alone",
-          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
-        }
-      ],
-      "duration_ms": 182081,
-      "name": "\u00c0 Moda Antiga",
-      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
         "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 267772,
       "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "\u00c0 Moda Antiga",
+        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
+      },
+      "artists": [
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        }
+      ],
+      "duration_ms": 182081,
+      "name": "\u00c0 Moda Antiga",
+      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -407,6 +407,22 @@
       "duration_ms": 282308,
       "name": "Meu Eterno Namorado",
       "url": "https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Wilian Nascimento Falando de Amor",
+        "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 207818,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/1y3SxHr9aDEcy69mabuDBE"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -463,18 +479,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Wilian Nascimento Falando de Amor",
-        "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
+        "name": "Cantando o Amor Vol. 2",
+        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
       "artists": [
         {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 207818,
-      "name": "Don Juan",
-      "url": "https://open.spotify.com/track/1y3SxHr9aDEcy69mabuDBE"
+      "duration_ms": 303020,
+      "name": "A Perfei\u00e7\u00e3o de Deus",
+      "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Cantando o Amor Vol. 2",
-        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 303020,
-      "name": "A Perfei\u00e7\u00e3o de Deus",
-      "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -531,22 +547,6 @@
       "duration_ms": 198067,
       "name": "O Jeito Que Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        }
-      ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 127093,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        }
-      ],
-      "duration_ms": 263997,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 249763,
       "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
       "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        }
+      ],
+      "duration_ms": 263997,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Rom\u00e2nticos",
-        "url": "https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8"
+        "name": "Nosso Castelo",
+        "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
       },
       "artists": [
         {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
         }
       ],
-      "duration_ms": 228813,
-      "name": "Can\u00e7\u00e3o pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF"
+      "duration_ms": 252215,
+      "name": "Nosso Castelo",
+      "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Nosso Castelo",
-        "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
+        "name": "Rom\u00e2nticos",
+        "url": "https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8"
       },
       "artists": [
         {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
         }
       ],
-      "duration_ms": 252215,
-      "name": "Nosso Castelo",
-      "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
+      "duration_ms": 228813,
+      "name": "Can\u00e7\u00e3o pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF"
     },
     {
       "added_at": "2023-07-14 16:56:11",

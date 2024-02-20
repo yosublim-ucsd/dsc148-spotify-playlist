@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 260214,
+  "num_followers": 260217,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTViMzBiMGNiNmU0NmFjOGU5NmQzNzRjYjg5NTkyYmU1ZDdkNTMx",
+  "snapshot_id": "MCxkM2U5NmIwZjVmNThmNDVlODAwMzE4MjE1NGQyZGYxOTg0MGRmNGEy",
   "tracks": [
     {
       "added_at": "2023-10-13 19:48:40",
@@ -143,54 +143,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 144631,
-      "name": "Means Something",
-      "url": "https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 215795,
-      "name": "Too In Love To Die",
-      "url": "https://open.spotify.com/track/1Yk97MXlFwbEGkXhGzeLbE"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -215,6 +167,54 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 215795,
+      "name": "Too In Love To Die",
+      "url": "https://open.spotify.com/track/1Yk97MXlFwbEGkXhGzeLbE"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 144631,
+      "name": "Means Something",
+      "url": "https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 435080,
-      "name": "yellow is the color of her eyes",
-      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+      "duration_ms": 435080,
+      "name": "yellow is the color of her eyes",
+      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 292658,
-      "name": "Orange Juice - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MYm41WIh9hIRNDc20LPpb"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 292658,
+      "name": "Orange Juice - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MYm41WIh9hIRNDc20LPpb"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 173303,
       "name": "Just to Hear You (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Bullseye",
-        "url": "https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA"
-      },
-      "artists": [
-        {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Kill Her Freak Out",
-        "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Kill Her Freak Out",
-      "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 237328,
       "name": "To Me",
       "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Kill Her Freak Out",
+        "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Kill Her Freak Out",
+      "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "In the Magic Hour",
-        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "The King of All Birds",
-      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "The King of All Birds",
+      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Shower Song",
-        "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 167505,
-      "name": "Shower Song",
-      "url": "https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Flora Fauna",
         "url": "https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 199480,
       "name": "Garden of Eden",
       "url": "https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Shower Song",
+        "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "duration_ms": 167505,
+      "name": "Shower Song",
+      "url": "https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "We Slept at Last",
-        "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 231670,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Wild Parts",
         "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 239979,
       "name": "Wild Parts",
       "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "We Slept at Last",
+        "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 231670,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Planet (i)",
-        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 236610,
-      "name": "I\u2019ll Go Running",
-      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 220060,
       "name": "More Than You Know - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Planet (i)",
+        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 236610,
+      "name": "I\u2019ll Go Running",
+      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Infinite Worlds",
-        "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 213607,
-      "name": "Fear & Force",
-      "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "one hand on the steering wheel the other sewing a garden",
-        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+        "name": "Infinite Worlds",
+        "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
       },
       "artists": [
         {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 211522,
-      "name": "hurt",
-      "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
+      "duration_ms": 213607,
+      "name": "Fear & Force",
+      "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1519,22 +1503,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Montibello Memories",
-        "url": "https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3"
-      },
-      "artists": [
-        {
-          "name": "Matrimony",
-          "url": "https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q"
-        }
-      ],
-      "duration_ms": 231413,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Eastwick / Cold Caller",
         "url": "https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD"
       },
@@ -1547,6 +1515,38 @@
       "duration_ms": 237015,
       "name": "Cold Caller",
       "url": "https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "one hand on the steering wheel the other sewing a garden",
+        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 211522,
+      "name": "hurt",
+      "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Montibello Memories",
+        "url": "https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3"
+      },
+      "artists": [
+        {
+          "name": "Matrimony",
+          "url": "https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q"
+        }
+      ],
+      "duration_ms": 231413,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm"
     },
     {
       "added_at": "2023-10-13 19:48:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,232 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,282 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 42 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
 | 43 | [Disco Ibiza](https://open.spotify.com/track/4BWQmlez4Ggvi3tAeTnYv0) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Disco Ibiza](https://open.spotify.com/album/5ddfp6JhTWKDV9wuxpDbpB) | 2:59 |
 | 44 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
-| 45 | [Pearls](https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:03 |
-| 46 | [Electric Energy](https://open.spotify.com/track/50S5bDjtiggv3qjGRhjOjF) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Electric Energy](https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9) | 3:16 |
+| 45 | [Electric Energy](https://open.spotify.com/track/50S5bDjtiggv3qjGRhjOjF) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Electric Energy](https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9) | 3:16 |
+| 46 | [Pearls](https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:03 |
 | 47 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 48 | [Let Me Love U](https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/62nvVdhCk001EdiodfzunA) | 3:09 |
 | 49 | [ITALODISCO \- English Version](https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO \(English Version\)](https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 74 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 |
 | 75 | [I’m Just Ken \- Purple Disco Machine Remix](https://open.spotify.com/track/5bIELpyrphj886yjo2Rdjg) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I’m Just Ken \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XaVlDEMaatZMwYjatvPpy) | 2:55 |
 
-Snapshot ID: `MCxiZjY1ZjY0YzRhZWFhZDJkY2E5NDkxNGMwNThjY2YyNTdjNTIwZDUx`
+Snapshot ID: `MCxkOGMzYWMwMTM3ZTMyMzgwZmNhZjI2NzE5NWNhNDE3OGY3NGEyNjYw`

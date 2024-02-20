@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,073 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,136 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Love & Guns](https://open.spotify.com/track/4BOx8wKMG0MNpuIzlk0aXn) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Love & Guns](https://open.spotify.com/album/7lc7bfjXIVNUZ2BvsuyL2C) | 2:48 |
 | 100 | [FIRST PICK](https://open.spotify.com/track/0VLAg7TZY2v6Y8GlJx1gdq) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [FIRST PICK](https://open.spotify.com/album/3iD7enLyHRPGOXEl9ljJv6) | 2:01 |
 
-Snapshot ID: `MCw4MzcxMzk0N2M2MDUzNDJjMTI5MzZiYzY5ZmFlNjM4NWFjYzU1MDc5`
+Snapshot ID: `MCxmN2I1ZTYzM2IzNmQzZDIzNzU1ZTBmZmNhYmRiY2IwMzgxOTFlNDVi`

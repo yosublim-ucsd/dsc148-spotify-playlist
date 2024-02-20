@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2030086,
+  "num_followers": 2030296,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQ1MDksOGNiZDIzY2M3N2MzMGY1ZmJhNjdkNWUyZTE2MTBlMDQ1YzIzNTMwNg==",
+  "snapshot_id": "MTQ1MTMsODc0ZmQzODQwN2Q3ZWQ2N2U5ZjkyMDc3OTg3MTMzNTEyM2FhMjdmMA==",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js"
     },
     {
+      "added_at": "2024-02-02 19:44:53",
+      "album": {
+        "name": "Sexy Back",
+        "url": "https://open.spotify.com/album/7wKZ6MbC1akIUv08gEm57Q"
+      },
+      "artists": [
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Sexy Back",
+      "url": "https://open.spotify.com/track/7fqNZnJ5s8TVEPnESyvegl"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Without Me",
@@ -1367,6 +1383,26 @@
       "duration_ms": 180000,
       "name": "Beautiful Strangers",
       "url": "https://open.spotify.com/track/0pSWd4x9Nc2JfyofJnjVg7"
+    },
+    {
+      "added_at": "2024-02-19 18:02:40",
+      "album": {
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -2623,22 +2659,6 @@
       "duration_ms": 254896,
       "name": "Limelight (NGHTMRE Remix)",
       "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
-    },
-    {
-      "added_at": "2024-02-02 19:44:53",
-      "album": {
-        "name": "Sexy Back",
-        "url": "https://open.spotify.com/album/7wKZ6MbC1akIUv08gEm57Q"
-      },
-      "artists": [
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Sexy Back",
-      "url": "https://open.spotify.com/track/7fqNZnJ5s8TVEPnESyvegl"
     },
     {
       "added_at": "2024-02-02 22:32:23",

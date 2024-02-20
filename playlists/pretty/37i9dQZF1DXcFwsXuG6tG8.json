@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 10313,
+  "num_followers": 10323,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODM5MjZlNzM5N2VhOGI1NDA0M2IxNGQ0ZjYyY2Q3ZGQyZGJmZTA4",
+  "snapshot_id": "MCw1ZDIzMDc3NDUyMzAwM2U0YjU0MmRjMzk4ZWMxNjM3ZjM3NjU2MTAy",
   "tracks": [
     {
       "added_at": "2024-02-16 19:21:57",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-02-16 19:21:57",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/4JDKIJuDXFfi95NSQ0K7Dl"
+        "name": "M\u00e1s humano",
+        "url": "https://open.spotify.com/album/5K2EDr2gJWAwfk4fNMmFYO"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 194626,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1HM9uVbB4DVQh0QlwY7W6v"
+      "duration_ms": 187200,
+      "name": "M\u00e1s humano",
+      "url": "https://open.spotify.com/track/4A5ikwMNsH1LujHkVzo693"
     },
     {
       "added_at": "2024-02-16 19:21:57",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-02-16 19:21:57",
       "album": {
-        "name": "M\u00e1s humano",
-        "url": "https://open.spotify.com/album/5K2EDr2gJWAwfk4fNMmFYO"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/4JDKIJuDXFfi95NSQ0K7Dl"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 187200,
-      "name": "M\u00e1s humano",
-      "url": "https://open.spotify.com/track/4A5ikwMNsH1LujHkVzo693"
+      "duration_ms": 194626,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1HM9uVbB4DVQh0QlwY7W6v"
     },
     {
       "added_at": "2024-02-16 19:21:57",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-16 19:21:57",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 180003,
-      "name": "No Te Sientes Igual",
-      "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
-    },
-    {
-      "added_at": "2024-02-16 19:21:57",
-      "album": {
         "name": "quise quererte",
         "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
       },
@@ -807,6 +791,42 @@
       "duration_ms": 219786,
       "name": "quise quererte",
       "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+    },
+    {
+      "added_at": "2024-02-16 19:21:57",
+      "album": {
+        "name": "Pececitos",
+        "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 205842,
+      "name": "Pececitos",
+      "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
+    },
+    {
+      "added_at": "2024-02-16 19:21:57",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 180003,
+      "name": "No Te Sientes Igual",
+      "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
     },
     {
       "added_at": "2024-02-16 19:21:57",
@@ -843,26 +863,6 @@
     {
       "added_at": "2024-02-16 19:21:57",
       "album": {
-        "name": "Pececitos",
-        "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 205842,
-      "name": "Pececitos",
-      "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
-    },
-    {
-      "added_at": "2024-02-16 19:21:57",
-      "album": {
         "name": "no quiero olvidarte",
         "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 230049,
       "name": "no quiero olvidarte",
       "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
+    },
+    {
+      "added_at": "2024-02-16 19:21:57",
+      "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2024-02-16 19:21:57",
@@ -907,22 +923,6 @@
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
-    },
-    {
-      "added_at": "2024-02-16 19:21:57",
-      "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2024-02-16 19:21:57",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-16 19:21:57",
       "album": {
-        "name": "de mi cabeza no te vas",
-        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "de mi cabeza no te vas",
-      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
-    },
-    {
-      "added_at": "2024-02-16 19:21:57",
-      "album": {
         "name": "Mal Hecha (Deluxe)",
         "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-02-16 19:21:57",
       "album": {
+        "name": "de mi cabeza no te vas",
+        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "de mi cabeza no te vas",
+      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
+    },
+    {
+      "added_at": "2024-02-16 19:21:57",
+      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2024-02-16 19:21:57",
-      "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 93106,
-      "name": "superman",
-      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
     },
     {
       "added_at": "2024-02-16 19:21:57",
@@ -1095,18 +1079,34 @@
     {
       "added_at": "2024-02-16 19:21:57",
       "album": {
-        "name": "Vida Cotidiana",
-        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Mayo",
-      "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
+      "duration_ms": 231604,
+      "name": "Un ratito m\u00e1s",
+      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+    },
+    {
+      "added_at": "2024-02-16 19:21:57",
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 93106,
+      "name": "superman",
+      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
     }
   ],
   "unique_name": "mi vida es una peli",

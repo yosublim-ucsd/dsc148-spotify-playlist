@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-294 songs - 19 hr 24 min
+295 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [El Platanal](https://open.spotify.com/track/1mxZqUgZsaBbt4R6hmova4) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [La 22](https://open.spotify.com/album/3kv7qONi9RFW5RngcBN6Zj) | 3:15 | 2021-09-24 | 2022-07-29 |
 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 | 2021-09-24 |  |
 | [El Wall](https://open.spotify.com/track/00MXsjYKxtLgohKqsXAAHA) | [Jarana Beat](https://open.spotify.com/artist/34y5NnlN2zQYqZZWwYSy60), [Ana Tijuox](https://open.spotify.com/artist/2TEJXR9asamFJ7EMuuFpKE), [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [El Wall](https://open.spotify.com/album/4L1giQreKUcrCX2gJo8O6A) | 2:54 | 2021-09-24 | 2022-07-28 |
-| [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 | 2021-09-24 |  |
+| [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 | 2021-09-24 | 2024-02-20 |
 | [En la Lucha](https://open.spotify.com/track/1kLszuJWePIjSPW6r9f7il) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [En la Lucha](https://open.spotify.com/album/05jjkEykkTgTt59mYV6ZUg) | 3:39 | 2021-09-24 | 2022-07-29 |
 | [En Paro](https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 4:32 | 2021-09-24 |  |
 | [Escribo Rap Con R De Revolución](https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:17 | 2021-09-24 |  |
@@ -277,6 +277,7 @@
 | [Somos Más Americanos](https://open.spotify.com/track/7ruHDQSfqJygovzRn7nzaN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/6eaHfflY8fJzRoUFkIA9Bj) | 4:10 | 2021-09-24 | 2022-07-29 |
 | [Somos Sur](https://open.spotify.com/track/6Zt4nMBWfHfZE979gZQKJM) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/5QKDGyeoMiEfh4hH21ae1J) | 3:46 | 2021-09-24 | 2022-07-23 |
 | [Somos Sur](https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:46 | 2021-09-24 |  |
+| [Sororidad](https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestion y Resistencia](https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR) | 3:40 | 2023-10-13 |  |
 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 | 2021-09-24 | 2023-04-28 |
 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 | 2021-09-24 |  |
 | [Sr\. Cobranza \(Dr\. Shenka Version\)](https://open.spotify.com/track/6ZugiNVCWNctwx0M8svAwE) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [De la Cabeza 2](https://open.spotify.com/album/7ofIhbq2LpIqNbhqTlSL54) | 4:44 | 2021-09-24 | 2022-07-29 |

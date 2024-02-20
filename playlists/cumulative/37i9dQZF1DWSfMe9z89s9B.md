@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: serpentwithfeet
 
-1,090 songs - 2 day 9 hr 58 min
+1,091 songs - 2 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Bend, Don't Break](https://open.spotify.com/track/1aOMBiw2qKg5uyQ8CQdeDr) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Bend, Don't Break / Shoestring](https://open.spotify.com/album/4EwEKepDwjaCPJhNvXk4O5) | 3:51 | 2023-06-30 | 2023-10-28 |
 | [best](https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:16 | 2022-10-21 | 2023-12-09 |
 | [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 | 2022-10-21 | 2022-11-03 |
-| [best thing for me](https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:26 | 2024-01-12 |  |
+| [best thing for me](https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:26 | 2024-01-12 | 2024-02-20 |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/3TWE0jIXNuI2DVa5Y1fKRf) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/0dIY9BClkUUgfe7zthyBVv) | 2:35 | 2023-04-28 | 2023-10-25 |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/4fey3LtV0RwTPv8WOu94SL) | 2:35 | 2023-04-28 |  |
 | [BILL$ \(SPED UP\)](https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 2:00 | 2022-09-09 | 2023-02-18 |
@@ -158,6 +158,7 @@
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-08-10 | 2022-12-10 |
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-04-01 | 2022-10-08 |
 | [Bruises](https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:15 | 2023-02-17 |  |
+| [Bubblehouse Bounce \(move as one\)](https://open.spotify.com/track/0u4sSY6ERnQszMWx7k3NbC) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Bubblehouse Bounce \(move as one\)](https://open.spotify.com/album/0pwEW8znvZOKfVcL26k6o8) | 3:43 | 2024-01-26 |  |
 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 | 2022-12-16 |  |
 | [BULLSEYE](https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [BULLSEYE](https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57) | 3:36 | 2024-02-02 |  |
 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2022-10-08 |
@@ -364,7 +365,7 @@
 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 | 2022-04-01 | 2022-04-14 |
 | [FWB](https://open.spotify.com/track/5dE1yfno7uUJW5cCylWmUE) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [FWB](https://open.spotify.com/album/18vjT0utRs7VsrTHoBtJuK) | 3:22 | 2021-03-19 | 2022-07-13 |
 | [FWM](https://open.spotify.com/track/7aJwamBFV2pjHTXUnlDgZb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/19yDmZ6XifuMc31QkkmRVl) | 3:16 | 2021-03-19 | 2022-04-16 |
-| [FWT](https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [FWT](https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1) | 2:57 | 2023-11-03 | 2024-01-09 |
+| [FWT](https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [FWT](https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1) | 2:57 | 2023-11-03 |  |
 | [Garage Rooftop](https://open.spotify.com/track/1dekstoglmqX3fq3K42sux) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 4:24 | 2021-03-19 | 2022-07-20 |
 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 | 2022-09-23 | 2022-10-22 |
 | [Garden](https://open.spotify.com/track/4nCQ22BkCrnLwNlJUUneTc) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:55 | 2022-09-23 | 2023-07-29 |
@@ -554,7 +555,7 @@
 | [Let's Get It On](https://open.spotify.com/track/77AvnzAZtM0nXY1kYhQmiu) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Let's Get It On](https://open.spotify.com/album/0SIOOlb2yxgd3pQW1vYVhf) | 3:21 | 2023-10-20 | 2024-01-24 |
 | [LET'S GET MARRIED](https://open.spotify.com/track/0XkQ23l4GT8sFHgeNRGAO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/2Uyia7M6Hv8XmhMSEbpfgm) | 3:44 | 2022-04-01 | 2022-04-13 |
 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 | 2022-04-01 | 2022-04-16 |
-| [Like a Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like a Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 | 2023-08-11 |  |
+| [Like a Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like a Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 | 2023-08-11 | 2024-02-20 |
 | [Like That](https://open.spotify.com/track/5zDo9mZyUdCZ1tVj515SZS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Like That](https://open.spotify.com/album/5ZL7YD2z03z5DGj1Z132ua) | 2:46 | 2022-04-01 | 2022-04-11 |
 | [Like Water](https://open.spotify.com/track/4WXjY5WXtsrC9okLc7dLGl) | [Garçons](https://open.spotify.com/artist/0HAiMAa8lwFrKnEq55SLWe) | [Like Water](https://open.spotify.com/album/3nuKDj3p6LkwHosNTKr1e9) | 2:55 | 2021-11-05 | 2022-01-19 |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-09-10 | 2022-07-10 |

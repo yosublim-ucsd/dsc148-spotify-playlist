@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
+    },
+    {
+      "album": {
         "name": "Acr\u00f3stico",
         "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
       },
@@ -6806,7 +6824,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -14270,6 +14288,28 @@
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/05kVyNUR9uibHta4jcGTTv"
+    },
+    {
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
+      },
+      "artists": [
+        {
+          "name": "Black Gryph0n",
+          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
+        },
+        {
+          "name": "Baasik",
+          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159714,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
     },
     {
       "album": {
@@ -23086,7 +23126,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 145946,
       "name": "Peonia",
       "url": "https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif"
@@ -28080,7 +28120,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 220920,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/3rLIv187BhjyweFe89SgLn"
@@ -32474,7 +32514,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 276986,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/3SIRBp4RRQ2AO5H4NO7xfq"

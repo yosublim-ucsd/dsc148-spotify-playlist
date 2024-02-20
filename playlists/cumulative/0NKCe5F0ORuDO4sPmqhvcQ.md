@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-570 songs - 1 day 8 hr 3 min
+571 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Take My Hand](https://open.spotify.com/track/6OXYxf6aGStPAF33xfbX4y) | [Zidakara](https://open.spotify.com/artist/1hTBatOhJ4f8nwdpny243e), [B\-Dos](https://open.spotify.com/artist/78XmtRqWV7RVWeYacvLJVx) | [Take My Hand](https://open.spotify.com/album/0wtipOu4OobwJj0jJpIDZV) | 2:27 | 2023-09-18 | 2023-10-06 |
 | [Take You High](https://open.spotify.com/track/32hY9dJwqBNMiwhgJ0SDhq) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Take You High](https://open.spotify.com/album/5AratY1dSsx99KK11yyNjH) | 4:04 | 2023-01-29 | 2023-10-06 |
 | [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/0DnA3UhB37Iaq1XwnZwbIZ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/54meck8D5fOrFRuPTGmXG9) | 3:12 | 2022-06-24 | 2023-01-30 |
+| [Talk To Me](https://open.spotify.com/track/35Us9HQPF88aiWQkR3sG3G) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Talk To Me](https://open.spotify.com/album/57ikyQgMgUUyDQde2uz861) | 3:32 | 2024-02-20 |  |
 | [Tear It to Pieces](https://open.spotify.com/track/1YTuRRXO1J0u2CLngDnlP9) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [Tear It to Pieces](https://open.spotify.com/album/2GkG5QTPZJYNWc2wNVhE8w) | 2:55 | 2023-06-20 |  |
 | [TEAR ME UP](https://open.spotify.com/track/5Jsc4Z9MkLB6tfjpByhQzR) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [TEAR ME UP](https://open.spotify.com/album/5uhWQVC6tunHHBBrZD93Xa) | 2:57 | 2022-10-10 |  |
 | [Tears '06](https://open.spotify.com/track/363StpInH8eU79r1ZEmn2F) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Tears '06](https://open.spotify.com/album/3iT6LycWhaHIsb9dslPOtK) | 4:38 | 2022-02-28 | 2022-03-31 |

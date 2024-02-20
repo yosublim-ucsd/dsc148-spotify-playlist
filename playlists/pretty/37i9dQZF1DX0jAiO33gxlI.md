@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: NOG
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,243 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,252 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
 | 75 | [Vila Tolstoi](https://open.spotify.com/track/3vcjqCMm3VKukmuGgskXnb) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Drill De Lobos](https://open.spotify.com/artist/7JUwduKCtopPBNkw7cizw6), [Bobeats](https://open.spotify.com/artist/6qkzVCiWzl67l9TWXd11JF) | [Vila Tolstoi](https://open.spotify.com/album/4gJLCryDQTU2obp81TS97g) | 3:03 |
 
-Snapshot ID: `MCwxZTliMzQ3YzU0NmE5OTc1YWMwMDI5MjBmNDVlODBlYmFmMDZlZjQx`
+Snapshot ID: `MCwyMWRhOWY3NGRjNjNlOWM0YjBhNmE4Nzc4N2VlNzNlMWI4M2MwOGI2`

@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 60042,
+  "2024-02-20": 60061,
   "date_first_scraped": "2023-03-20",
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Camilo & Evaluna Montaner",
   "name": "Frecuencia Pop",
@@ -206,7 +206,7 @@
     },
     {
       "album": {
-        "name": "Acr\u00f3stico",
+        "name": "Acr\u00f3stico (Milan y Sasha)",
         "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
       },
       "artists": [
@@ -219,7 +219,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170785,
-      "name": "Acr\u00f3stico",
+      "name": "Acr\u00f3stico - Milan y Sasha",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
@@ -2728,7 +2728,7 @@
         },
         {
           "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "url": "https://open.spotify.com/artist/0Kz96xXGxiyZIEJ2pOpUxe"
         }
       ],
       "date_added": "2023-05-19",

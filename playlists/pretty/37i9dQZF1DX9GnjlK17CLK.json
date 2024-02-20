@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 129468,
+  "num_followers": 129554,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2ZhZDA1OTc4MWMzZGMwNmVmNDkwYTlhNzdiZTRhZjBiZWY0YmFl",
+  "snapshot_id": "MCxkY2Q1ZTZhYzVmN2IyOTZhYjNhMTcwNmIzZTc4OGU2ZWNmYjI3MTkx",
   "tracks": [
     {
       "added_at": "2023-08-10 16:46:04",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "Aloha From Hawaii Via Satellite (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5X3C75j0EXwudyUS6UiEVD"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 144426,
       "name": "Baby What You Want Me To Do",
       "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -419,8 +403,8 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+      "duration_ms": 179760,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 223906,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -507,6 +491,38 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "East West",
         "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 199960,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 400760,
+      "name": "I Can't Quit You, Baby",
+      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 400760,
-      "name": "I Can't Quit You, Baby",
-      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
-      },
-      "artists": [
-        {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "A Long Time Comin'",
         "url": "https://open.spotify.com/album/5816bqBdozCXD95olZoLHk"
       },
@@ -855,50 +839,18 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
       "artists": [
         {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
         }
       ],
-      "duration_ms": 150693,
-      "name": "Jelly Bread",
-      "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "Ain't Superstitious",
-      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Glamour Girl - Remastered 2022",
-      "url": "https://open.spotify.com/track/26NeJqqTN4obwlAHAep7jJ"
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -919,6 +871,38 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "Jelly Bread",
+      "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Glamour Girl - Remastered 2022",
+      "url": "https://open.spotify.com/track/26NeJqqTN4obwlAHAep7jJ"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "Wound Up Tight",
         "url": "https://open.spotify.com/album/3dvXGTbdS5eesvKcBTOkXM"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 318040,
       "name": "Wound Up Tight",
       "url": "https://open.spotify.com/track/3a4PKaIVUkFTl2k9PV93yh"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "Ain't Superstitious",
+      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
     },
     {
       "added_at": "2023-08-10 16:46:04",

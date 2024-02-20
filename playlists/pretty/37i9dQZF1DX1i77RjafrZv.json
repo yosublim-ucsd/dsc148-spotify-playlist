@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 317035,
+  "num_followers": 317092,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDNjMWIzMzRlZTY0ZjNiNGViYzhkYjlmYzBmMzc5ZDhiYTM5ZjNj",
+  "snapshot_id": "MCxjZGE3MTU2ZTFkOWQ0NmZmMDllY2JjZjk0YTU4ZWI1YzYzNzk3MmIy",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
-        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
       },
       "artists": [
         {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
         }
       ],
-      "duration_ms": 148506,
-      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
-      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+      "duration_ms": 275906,
+      "name": "Je te promets",
+      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -211,18 +211,34 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Gang",
-        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
+        "name": "A Fleur De Toi",
+        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
       },
       "artists": [
         {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
         }
       ],
-      "duration_ms": 275906,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
+      "duration_ms": 261093,
+      "name": "A fleur de toi",
+      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
+        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
+      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "A Fleur De Toi",
-        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "A fleur de toi",
-      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Addictions (Ultimate Version)",
         "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 219000,
       "name": "Longtemps",
       "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "\u00c9toile flippante (Version deluxe)",
+        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
+      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -303,22 +319,6 @@
       "duration_ms": 206866,
       "name": "Ma pr\u00e9f\u00e9rence",
       "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "\u00c9toile flippante (Version deluxe)",
-        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
-      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "S'il Suffisait D'aimer",
-        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "S'il suffisait d'aimer",
-      "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "La Valse A Mille Temps (Vol.4)",
         "url": "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 229400,
       "name": "Ne me quitte pas",
       "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "S'il Suffisait D'aimer",
+        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "S'il suffisait d'aimer",
+      "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -435,6 +435,22 @@
       "duration_ms": 186706,
       "name": "L'encre de tes yeux - Remastered",
       "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
+      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -503,22 +519,6 @@
       "duration_ms": 176160,
       "name": "Aimer \u00e0 mort",
       "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
-      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Le lac",
+      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Idiote je t'aime... (Remastered 2014)",
         "url": "https://open.spotify.com/album/0aC0z924mxVR3moQWpy0u1"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 273133,
       "name": "Je sais pas",
       "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Le lac",
-      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Toujours moi",
-        "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "Parce que c'est toi",
-      "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 226800,
       "name": "L'amour \u00e0 la machine",
       "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Toujours moi",
+        "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "Parce que c'est toi",
+      "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "La montagne 1964",
+        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Que serais-je sans toi",
+      "url": "https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Best Of - Morceaux d\u2019amour",
         "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 220386,
       "name": "Toi mon amour",
       "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "La montagne 1964",
-        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Que serais-je sans toi",
-      "url": "https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ"
     }
   ],
   "unique_name": "French Kiss",

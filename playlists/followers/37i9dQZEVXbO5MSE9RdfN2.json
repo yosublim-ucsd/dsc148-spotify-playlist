@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 68693,
+  "2024-02-20": 68697,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -93,6 +93,24 @@
       "duration_ms": 227840,
       "name": "As Good As I Once Was",
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
+    },
+    {
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
       "album": {
@@ -520,6 +538,24 @@
     },
     {
       "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249586,
+      "name": "Gift Horse",
+      "url": "https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1"
+    },
+    {
+      "album": {
         "name": "GOOD DAY",
         "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
       },
@@ -895,7 +931,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 235885,
       "name": "I'd Rather Overdose",
       "url": "https://open.spotify.com/track/792RoRzlyIP29zz03556Ja"
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 235885,
       "name": "I\u2019d Rather Overdose",
       "url": "https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK"
@@ -2073,7 +2109,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 154376,
       "name": "Spicy Margarita",
       "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"
@@ -2549,7 +2585,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 276986,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/3SIRBp4RRQ2AO5H4NO7xfq"

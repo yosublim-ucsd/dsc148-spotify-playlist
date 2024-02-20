@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 12784,
+  "2024-02-20": 12784,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
@@ -21,6 +21,24 @@
       "duration_ms": 220946,
       "name": "A Bailar el Brincao",
       "url": "https://open.spotify.com/track/7f6bCcdovKIgKCkrV86dd3"
+    },
+    {
+      "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
     },
     {
       "album": {
@@ -387,7 +405,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -431,6 +449,28 @@
       "duration_ms": 202644,
       "name": "Daqui pra Sempre",
       "url": "https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm"
+    },
+    {
+      "album": {
+        "name": "LEveL",
+        "url": "https://open.spotify.com/album/4GW8o02gQfeJKEXNivXz9M"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "XAI",
+          "url": "https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "DARK ARIA <LV2>",
+      "url": "https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0"
     },
     {
       "album": {
@@ -539,6 +579,24 @@
       "duration_ms": 226103,
       "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
       "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {
@@ -1002,6 +1060,28 @@
     },
     {
       "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
+      },
+      "artists": [
+        {
+          "name": "Black Gryph0n",
+          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
+        },
+        {
+          "name": "Baasik",
+          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159714,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
+    },
+    {
+      "album": {
         "name": "Insane (From \"Hazbin Hotel\") [Spanish Cover]",
         "url": "https://open.spotify.com/album/4JwAjnW8Fo3OA2xxN5tIny"
       },
@@ -1013,7 +1093,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 163132,
       "name": "Insane (From \"Hazbin Hotel\") - Spanish Cover",
       "url": "https://open.spotify.com/track/2dPthZapwoS6nfawFf4WX5"
@@ -1519,7 +1599,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 181685,
       "name": "Mi Palabra Contra la de Ellos - En Vivo",
       "url": "https://open.spotify.com/track/0sBVn4NN8VlR9WMmyZ1Cek"
@@ -1711,7 +1791,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
@@ -2103,7 +2183,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
@@ -2355,7 +2435,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
@@ -2469,7 +2549,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 276986,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/3SIRBp4RRQ2AO5H4NO7xfq"
@@ -2551,7 +2631,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 168178,
       "name": "VVS Switch",
       "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"

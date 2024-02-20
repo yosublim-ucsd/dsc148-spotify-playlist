@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover:Whee In \(휘인\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover:LE SSERAFIM\)
 
-424 songs - 22 hr 30 min
+425 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [DUBI DUBI](https://open.spotify.com/track/6SG8OjKKMAW47MJtJLSnNM) | [ARTBEAT v](https://open.spotify.com/artist/3gk4e5MsuqJYjKdakIN8Dk) | [DUBI DUBI](https://open.spotify.com/album/78mK53Clr4hZQ1Gt02zQDY) | 3:01 | 2023-08-10 | 2023-08-19 |
 | [Dumb](https://open.spotify.com/track/1PNb8pRsZGa8XN1m5nJe70) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [BE!](https://open.spotify.com/album/6DX33GTGhfTLpQWzmHHgHA) | 3:10 | 2021-01-17 | 2022-06-13 |
 | [DUN DUN](https://open.spotify.com/track/3CyCjgTHFzqucmECajq8QA) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [reminiscence](https://open.spotify.com/album/5ByQ39IHGxrddAwQcnxvoj) | 3:12 | 2020-10-20 | 2022-04-20 |
+| [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-19 |  |
 | [Easy](https://open.spotify.com/track/3KLkc1h39HhbuXIYB5xgAq) | [WJSN THE BLACK](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) | [My attitude](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) | 3:08 | 2021-10-12 | 2022-04-03 |
 | [EASY \(feat\. Sik\-K\)](https://open.spotify.com/track/35Bon0pO4syTi6Hfsr2Kk8) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [magnolia](https://open.spotify.com/album/6RKopanQbo5q7FjwpbhfKM) | 3:08 | 2020-10-13\* | 2021-03-16 |
 | [Eclipse](https://open.spotify.com/track/07H4GUtSu2IWIgrpC99zJf) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Dark Side of the Moon](https://open.spotify.com/album/3t6eDNGmTJIHdU9PF0GJx2) | 3:28 | 2021-02-27 | 2021-02-28 |
@@ -209,7 +210,7 @@
 | [LALALILALA](https://open.spotify.com/track/5zMSAi7u8ltE97q4jZ1jqW) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 7th Mini Album 'Da Capo'](https://open.spotify.com/album/1WUBGDsypBmRLKR0mmTDIO) | 3:14 | 2020-10-13\* | 2021-02-19 |
 | [LALARY](https://open.spotify.com/track/7MAYPBHfAqUnwTr9QLKTbs) | [LALARY](https://open.spotify.com/artist/4OFciVHRZd7kgfJfEMeY7q) | [LALARY](https://open.spotify.com/album/0vJwb8ZXolMJHrkfGxvIG6) | 2:59 | 2021-01-18 | 2022-04-10 |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-09-12 | 2022-07-29 |
-| [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2022-07-25 | 2024-01-30 |
+| [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2022-07-25 |  |
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-05 | 2022-07-09 |
 | [LAST WALTZ](https://open.spotify.com/track/39kH6C2twlYjyssIW02sbr) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:50 | 2021-11-19 | 2022-04-20 |
 | [LATATA](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:22 | 2021-02-27 | 2022-07-14 |
@@ -355,7 +356,7 @@
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-14 | 2023-06-23 |
 | [The Boots](https://open.spotify.com/track/73BjKZxwy47mJuTfIlcXfI) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.4 Cait Sith](https://open.spotify.com/album/5CkOZ5vgacWk5rMr620rsW) | 3:21 | 2021-03-07 | 2021-03-08 |
 | [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 | 2023-08-02 | 2023-08-19 |
-| [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-25 | 2024-02-16 |
+| [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-25 |  |
 | [This love \(feat\. Paul Blanco\)](https://open.spotify.com/track/7vgvV8dD2L0l7pMSOBPD26) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [This love \(feat\. Paul Blanco\)](https://open.spotify.com/album/2XYKNORkUW6lPluYIZodpf) | 2:54 | 2023-07-19 | 2023-07-26 |
 | [Thumbs Up](https://open.spotify.com/track/1TDvkATTyjLCh8Teuqa7Dc) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Thumbs Up](https://open.spotify.com/album/3PG4dq1ZweU7obfiKRQCtw) | 3:18 | 2021-02-26 | 2021-03-18 |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-26 | 2022-11-21 |
@@ -370,7 +371,7 @@
 | [Truth or Dare](https://open.spotify.com/track/1KE1eG1NQ5uPRcvthP6eEZ) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [The Voice](https://open.spotify.com/album/2hRXn9IPc6ZdTRck0ODI0N) | 3:11 | 2023-10-25 | 2023-11-01 |
 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 | 2020-10-20 | 2021-03-17 |
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-01-15 | 2022-07-29 |
-| [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-15 |  |
+| [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-15 | 2024-02-20 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-08 |  |
 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2021-02-28 | 2022-04-13 |
@@ -397,7 +398,7 @@
 | [What Type of X](https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [What Type of X](https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX) | 3:18 | 2021-03-18 | 2022-04-23 |
 | [What You Waiting For](https://open.spotify.com/track/1Gw2MVjOeA29OIwt4k7PZ4) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/1JN6jZ6tFqVojR27UZc9QB) | 2:55 | 2020-10-13\* | 2022-07-25 |
 | [Whatta Man \(Good man\)](https://open.spotify.com/track/754PhkDUWZUkHbM7zfiLKm) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Whatta Man \(Good Man\)](https://open.spotify.com/album/7auH2HGIx0QeFEVoxCPmHm) | 3:13 | 2021-03-01 | 2022-04-17 |
-| [Wheee \(Prod\. Young K, Sanghyun Nah\)](https://open.spotify.com/track/6SN7iLZdFMGQvI1t7bQKlM) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Wheee \(Prod\. Young K, Sanghyun Nah\)](https://open.spotify.com/album/0ZALZSUmLfGRPriHLcL4PE) | 2:59 | 2024-02-15 |  |
+| [Wheee \(Prod\. Young K, Sanghyun Nah\)](https://open.spotify.com/track/6SN7iLZdFMGQvI1t7bQKlM) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Wheee \(Prod\. Young K, Sanghyun Nah\)](https://open.spotify.com/album/0ZALZSUmLfGRPriHLcL4PE) | 2:59 | 2024-02-15 | 2024-02-20 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 | 2023-01-11 |
 | [Who Dat B](https://open.spotify.com/track/46V9JhCtDffP2AQB09zK5L) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Who Dat B](https://open.spotify.com/album/6Ns70xWE643K2d4uVASXYc) | 3:17 | 2021-02-26 | 2021-03-18 |
 | [Who Dis?](https://open.spotify.com/track/6loyhEAW2QFgQnvorXzsXn) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Who Dis?](https://open.spotify.com/album/38QTDwD7IM2EZuiUMII6uA) | 3:14 | 2020-10-13\* | 2021-03-15 |
@@ -420,7 +421,7 @@
 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 | 2021-08-10 | 2022-07-27 |
 | [You, jam](https://open.spotify.com/track/5TQc5UXJqciohmOLbHDyEF) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Light a Wish](https://open.spotify.com/album/4rweatsYVwajSONjLE5Qi9) | 3:19 | 2021-10-23 | 2022-04-17 |
 | [youknowbetter 니가 더 잘 알잖아](https://open.spotify.com/track/1ej66Z3M6DfmoZeJCSrOxN) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [youknowbetter 니가 더 잘 알잖아](https://open.spotify.com/album/3uMVRM9uNZS8T26PhWwRwr) | 3:38 | 2021-02-26 | 2022-04-18 |
-| [YOUNG POSSE UP \(feat.Verbal Jint, NSW yoon, Token\)](https://open.spotify.com/track/19rwdftkfTj3oqqhRevov7) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [YOUNG POSSE UP \(feat.Verbal Jint, NSW yoon, Token\)](https://open.spotify.com/album/4bROg1lfsWUDyNtzmsMywC) | 3:20 | 2024-02-06 |  |
+| [YOUNG POSSE UP \(feat.Verbal Jint, NSW yoon, Token\)](https://open.spotify.com/track/19rwdftkfTj3oqqhRevov7) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [YOUNG POSSE UP \(feat.Verbal Jint, NSW yoon, Token\)](https://open.spotify.com/album/4bROg1lfsWUDyNtzmsMywC) | 3:20 | 2024-02-06 | 2024-02-20 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
 | [Your memory](https://open.spotify.com/track/6jqz1HJPADpLqqWFFRV7ZB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Your memory](https://open.spotify.com/album/023x6Q8VNA88dJdu6kALW4) | 3:37 | 2021-02-27 | 2021-02-28 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-07-26 |

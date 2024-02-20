@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-132 songs - 8 hr 45 min
+133 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Chain Gang](https://open.spotify.com/track/0SaLWXbmp0B4fooqcvdcoT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 3:47 | 2022-10-20 | 2023-03-10 |
 | [Chain Gang \(feat\. Lou Rawls\)](https://open.spotify.com/track/5qdqlHz8qxgi86txQbXp3x) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 3:51 | 2021-12-28 | 2022-10-13 |
 | [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/44SAkadYZkexOZgNiVtJr3) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 5:46 | 2022-01-28 | 2022-02-13 |
+| [Diamonds On The Soles Of Her Shoes](https://open.spotify.com/track/4w2pIHYNnRBCHVMTJ1AFE0) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 5:41 | 2024-02-19 |  |
 | [Diamonds on the Soles of Her Shoes \(Abridged Version\) \[Bonus Track\]](https://open.spotify.com/track/21uQrdwqR2AdN9gNP9b4dL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 1:38 | 2022-06-04 |  |
-| [Diamonds on the Soles of Her Shoes \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 6:29 | 2022-01-24 |  |
+| [Diamonds on the Soles of Her Shoes \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 6:29 | 2022-01-24 | 2024-02-20 |
 | [Different Colors Mean Nothing to Me \(Unkulunkulu Wethu\)](https://open.spotify.com/track/16SpALi3uf6RfumCDoiTKK) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 6:37 | 2022-03-09 | 2022-03-11 |
 | [Eden's House](https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Mind The Moon](https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ) | 3:51 | 2021-12-28 |  |
 | [Eden's House \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/020ljSU54GRVxKX0A9yKc0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:51 | 2023-08-02 | 2023-10-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 28578,
+  "num_followers": 5795,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGZjZDRmZjA3YzEyOTU2ZTAwOWY1MjJkYmZmNzdiZTI0OTk5YjVk",
+  "snapshot_id": "MCwzZGM3MzI4MjY2ZDg0NmNkZjc1MzkxMTg4MTgwYzQxODMwZWFhZDAz",
   "tracks": [
     {
       "added_at": "2024-02-01 09:52:32",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 383560,
-      "name": "Seven Steps to Heaven",
-      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "The Genius Of Charlie Parker",
         "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
       },
@@ -303,6 +287,38 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 383560,
+      "name": "Seven Steps to Heaven",
+      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Horace - Scope",
+        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 408346,
+      "name": "Nica's Dream - Remastered 2005",
+      "url": "https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 314573,
       "name": "Strode Rode - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/5xoQDcAjk0AaOU8QBZ4w4w"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
-        "name": "Horace - Scope",
-        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 408346,
-      "name": "Nica's Dream - Remastered 2005",
-      "url": "https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
+        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
-        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 434240,
+      "name": "Locomotion - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/43qTHtzIXt8ehFgcncwglq"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 428373,
       "name": "Salt Peanuts",
       "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 434240,
-      "name": "Locomotion - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/43qTHtzIXt8ehFgcncwglq"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "The Best Of Horace Silver",
         "url": "https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 402546,
       "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 830000,
-      "name": "Steps-What Was - Digitally Remastered",
-      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Song For My Father",
         "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 370626,
       "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 830000,
+      "name": "Steps-What Was - Digitally Remastered",
+      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 341473,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
         "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 853266,
       "name": "The Eternal Triangle",
       "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 341473,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 633826,
-      "name": "Roll Call - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Mode For Joe (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 311193,
       "name": "The Surrey With The Fringe On Top - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 633826,
+      "name": "Roll Call - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI"
     },
     {
       "added_at": "2024-02-01 09:52:32",

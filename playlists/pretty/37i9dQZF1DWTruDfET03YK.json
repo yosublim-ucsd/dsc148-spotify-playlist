@@ -1,12 +1,12 @@
 {
   "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
-  "num_followers": 22035,
+  "num_followers": 22080,
   "original_name": "Los Animalitos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzVlNzZkN2M1NzBmNzdjYzcwMzAyNDk4NzAwZjc0OWQyMjQzYzYx",
+  "snapshot_id": "MCxjNTA4Mjk0Y2Q5NzQxZDg1OTY4Y2IwOGE1MzZmM2ZmNzUzMTI3MWU4",
   "tracks": [
     {
       "added_at": "2022-07-11 22:47:32",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "A cantar",
-        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 67243,
-      "name": "La lechuza",
-      "url": "https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Gallina Pintadita, Vol. 1",
         "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 107674,
       "name": "Pollito Amarillito",
       "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 67243,
+      "name": "La lechuza",
+      "url": "https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -255,22 +255,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Canciones del Zoo Vol. 3",
-        "url": "https://open.spotify.com/album/3COabJotsgeogBvNsNpcok"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 174954,
-      "name": "El Baile de los Animales",
-      "url": "https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Rondas Infantiles",
         "url": "https://open.spotify.com/album/40U4IxZZ5vPTZ3L9piyH38"
       },
@@ -283,6 +267,38 @@
       "duration_ms": 146546,
       "name": "Yo Tenia Diez Perritos",
       "url": "https://open.spotify.com/track/3VzVFDEJ3cvOCDB08X5WIk"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 64876,
+      "name": "Pom pom gallinita",
+      "url": "https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Canciones del Zoo Vol. 3",
+        "url": "https://open.spotify.com/album/3COabJotsgeogBvNsNpcok"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 174954,
+      "name": "El Baile de los Animales",
+      "url": "https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -319,58 +335,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "A cantar",
-        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 64876,
-      "name": "Pom pom gallinita",
-      "url": "https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "Canciones del Zoo Vol. 4",
-        "url": "https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 134285,
-      "name": "El Cocodrilo Dante",
-      "url": "https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Bichos",
-      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
         "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
@@ -399,6 +363,26 @@
       "duration_ms": 208000,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/0ZdnI2t7hdmu2znvokiGbp"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Bichos",
+      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -435,6 +419,22 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
+        "name": "Canciones del Zoo Vol. 4",
+        "url": "https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 134285,
+      "name": "El Cocodrilo Dante",
+      "url": "https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
         "name": "\u00bfDonde Est\u00e1 el Sr. Sapo?",
         "url": "https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 126026,
       "name": "El Cocodrilo",
       "url": "https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "Super \u00c9xitos",
-        "url": "https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l"
-      },
-      "artists": [
-        {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
-        }
-      ],
-      "duration_ms": 162175,
-      "name": "El Baile del Gorila (Versi\u00f3n 2019)",
-      "url": "https://open.spotify.com/track/4M9MCJF2Nk9H9lYkwxQS9C"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -483,18 +467,18 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "La Granja de Zen\u00f3n Vol. 2",
-        "url": "https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI"
+        "name": "Super \u00c9xitos",
+        "url": "https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l"
       },
       "artists": [
         {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
         }
       ],
-      "duration_ms": 98280,
-      "name": "La Gata",
-      "url": "https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz"
+      "duration_ms": 162175,
+      "name": "El Baile del Gorila (Versi\u00f3n 2019)",
+      "url": "https://open.spotify.com/track/4M9MCJF2Nk9H9lYkwxQS9C"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -531,6 +515,22 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
+        "name": "Zootopia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 128626,
+      "name": "Foxy Fakeout",
+      "url": "https://open.spotify.com/track/6FPbEp2Q9QUh5SWTws5F9Y"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
         "name": "Xuxa Em Espanhol",
         "url": "https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Zootopia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
+        "name": "La Granja de Zen\u00f3n Vol. 2",
+        "url": "https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI"
       },
       "artists": [
         {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
         }
       ],
-      "duration_ms": 128626,
-      "name": "Foxy Fakeout",
-      "url": "https://open.spotify.com/track/6FPbEp2Q9QUh5SWTws5F9Y"
+      "duration_ms": 98280,
+      "name": "La Gata",
+      "url": "https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Ronda Musical Infantil",
-        "url": "https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj"
-      },
-      "artists": [
-        {
-          "name": "Felix Canales",
-          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
-        }
-      ],
-      "duration_ms": 190976,
-      "name": "El T\u00edo McDonald Ten\u00eda una Granja",
-      "url": "https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Canciones Infantiles Y Musica Infantil",
         "url": "https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm"
       },
@@ -607,6 +591,38 @@
       "duration_ms": 109500,
       "name": "Patitos Cuacuacua",
       "url": "https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "CD5: Panam Y Circo 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/1ysyF0m2WSZfWZ5gxR2p6v"
+      },
+      "artists": [
+        {
+          "name": "Panam y Circo",
+          "url": "https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW"
+        }
+      ],
+      "duration_ms": 144346,
+      "name": "Que Titungui Titungui",
+      "url": "https://open.spotify.com/track/3Or7JwHqkmDck8IGAtOlYj"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Ronda Musical Infantil",
+        "url": "https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj"
+      },
+      "artists": [
+        {
+          "name": "Felix Canales",
+          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
+        }
+      ],
+      "duration_ms": 190976,
+      "name": "El T\u00edo McDonald Ten\u00eda una Granja",
+      "url": "https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -627,6 +643,22 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
+        "name": "En Vivo - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 337923,
+      "name": "Popurr\u00ed de animales (El se\u00f1or don Gato - La cucaracha - Pollito chicken) - Remasterizado 2016",
+      "url": "https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
         "name": "Canta Baila Juega",
         "url": "https://open.spotify.com/album/2pE7DwjBDzEiugaQ7iIKDv"
       },
@@ -639,22 +671,6 @@
       "duration_ms": 111124,
       "name": "El Caballo Comisario",
       "url": "https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "CD5: Panam Y Circo 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/1ysyF0m2WSZfWZ5gxR2p6v"
-      },
-      "artists": [
-        {
-          "name": "Panam y Circo",
-          "url": "https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW"
-        }
-      ],
-      "duration_ms": 144346,
-      "name": "Que Titungui Titungui",
-      "url": "https://open.spotify.com/track/3Or7JwHqkmDck8IGAtOlYj"
     },
     {
       "added_at": "2021-07-23 14:47:10",
@@ -695,22 +711,6 @@
       "duration_ms": 160384,
       "name": "Como las Vacas",
       "url": "https://open.spotify.com/track/6Qg8LyemcbXVnDWXnCcuQJ"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "En Vivo - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 337923,
-      "name": "Popurr\u00ed de animales (El se\u00f1or don Gato - La cucaracha - Pollito chicken) - Remasterizado 2016",
-      "url": "https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy"
     },
     {
       "added_at": "2020-04-23 19:03:50",

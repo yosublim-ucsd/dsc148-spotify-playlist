@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dzzKV3SZR0.md) - [plain]
 
 > the songs behind all your crushes\. Guest Curated by: Nelly & Ashanti
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,820 likes - 52 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,087 likes - 52 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dzzKV3SZR0.md) - [plain]
 | 51 | [Red Light Special](https://open.spotify.com/track/6dW75XbJ1WAMljOXWjTK46) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 5:03 |
 | 52 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
 
-Snapshot ID: `MCxkZTRjNzliM2RiYTMwYjBmZjcxMDA0YjhmNDdjZDQ0MWM2N2MwOTIx`
+Snapshot ID: `MCxhMTZjNzE3MDNjZjI0ZDAxYTM0MGMwNGNlZjk3MzAyNDFkZmNhMDU1`

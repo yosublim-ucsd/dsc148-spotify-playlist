@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Gwangil Jo(\uc870\uad11\uc77c)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Leellamarz, YANGHONGWON(\ub9b4\ub7ec\ub9d0\uc988 & \uc591\ud64d\uc6d0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -12488,6 +12488,28 @@
       "duration_ms": 278181,
       "name": "Let me know, God (Feat. C JAMM, Jvcki Wai)",
       "url": "https://open.spotify.com/track/35QdNOzsIMw1ZXElaGH8Ec"
+    },
+    {
+      "album": {
+        "name": "L&B",
+        "url": "https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Let off steam",
+      "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
     },
     {
       "album": {

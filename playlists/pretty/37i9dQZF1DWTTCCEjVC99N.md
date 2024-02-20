@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,612 likes - 104 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,836 likes - 104 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 19 | [خدنى ليك](https://open.spotify.com/track/3LsZBEdrulcolaWO9U4Oqf) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [قرب ليي](https://open.spotify.com/album/3S0M4p3Nklpm9nglRQjZ7U) | 4:42 |
 | 20 | [حبيبي يا](https://open.spotify.com/track/3JtQZRGn1GWraaMI8hJWVk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [حبيبي يا](https://open.spotify.com/album/0kD0fdr5woasIliscmO9eM) | 3:36 |
 | 21 | [Ya Tabtab Wa Dallaa](https://open.spotify.com/track/5l4Lla3ntoJIkCud07XlYn) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ya Tabtab](https://open.spotify.com/album/1EUOmPNn2Fw6dwsjxKLFmC) | 4:22 |
-| 22 | [Ana Wala 'Aaref](https://open.spotify.com/track/4cH7FzKmEoqI5HgV97ou7L) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 4:51 |
+| 22 | [Ana Wala 3aref](https://open.spotify.com/track/4cH7FzKmEoqI5HgV97ou7L) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 4:51 |
 | 23 | [Ana Wel Shog](https://open.spotify.com/track/0kskiFzt4hU3iq6wVcsL2X) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/2z9WhkrtupFOPrYiUOPNtL) | 4:35 |
 | 24 | [Shik Shak Shok \- Remastered](https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [Shik Shak Shok \(Remastered\)](https://open.spotify.com/album/0HExOi4eGlOnV36kY0aqJq) | 5:33 |
 | 25 | [ليلى نهارى](https://open.spotify.com/track/1F4llVlAB6yfumGxPXBOxc) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:06 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 54 | [ماس ولولي](https://open.spotify.com/track/68gcupCXitbNQZGhXoBaMT) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ديانا 2006](https://open.spotify.com/album/3XqhAngtsMWkr4ffCDy8Vd) | 3:30 |
 | 55 | [Mandam A'leyk \- 2000 Digital Remaster](https://open.spotify.com/track/0zhjCI84FEpzxhVt7DcZ6H) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Mandam A'Leuk](https://open.spotify.com/album/0xtqgojulqbkDENkt7vYjB) | 5:12 |
 | 56 | [أنا نسيتك](https://open.spotify.com/track/5AHO10WkLdj5FDpjUZR0Cj) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 4:01 |
-| 57 | [Ya Bent El Eih](https://open.spotify.com/track/0sWYFm96d3AHiNn949l61O) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 4:10 |
+| 57 | [Ya Bent El Eh](https://open.spotify.com/track/0sWYFm96d3AHiNn949l61O) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 4:10 |
 | 58 | [Akhasmak Ah](https://open.spotify.com/track/2Dl6xEOmTWxi633TuZITw5) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 4:58 |
 | 59 | [El Hantoor](https://open.spotify.com/track/4I2RAr4wKPPUOEQW58vjvM) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Bel Balady](https://open.spotify.com/album/5RF7CQDam2yu6UIazT2mQ9) | 3:52 |
 | 60 | [Habeb Hayaty](https://open.spotify.com/track/4q8JLWV2F4a59csHoT99f9) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Hayaty](https://open.spotify.com/album/4qQIQlbIiyWWIiu8Jr6cVX) | 3:58 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 103 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
 | 104 | [El Hawa Sultan](https://open.spotify.com/track/0Jna6e4quht8fha1hIZbzL) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [انجح أغاني لجورج وسوف](https://open.spotify.com/album/3TI5sobwgaWYZboNlAFnkw) | 7:02 |
 
-Snapshot ID: `MCwwNTdkOGI4OWJjMWFhNDYxODllZDk4NWJiYTcxYzM5ODFlMjkxMjY4`
+Snapshot ID: `MCwzZDczNDEyZmI0NGUzZTAxNDI0YWRlYzdmYmUxZTgwNzY5ZjRkMzg5`

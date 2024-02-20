@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 12656,
+  "2024-02-20": 12659,
   "date_first_scraped": "2021-12-29",
   "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
   "name": "This Is Miriam Makeba",
@@ -115,7 +115,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 346800,
       "name": "African Sunset",
       "url": "https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 116640,
       "name": "Amampondo",
       "url": "https://open.spotify.com/track/1Z3lTQYt14dfcZAl7AckQP"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 153800,
       "name": "Down on the Corner - Remastered",
       "url": "https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 188573,
       "name": "For What It's Worth - Remastered",
       "url": "https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 158826,
       "name": "Kulala - Remastered",
       "url": "https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54"
@@ -2107,7 +2107,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 240600,
       "name": "Quit It",
       "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 256680,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 133253,
       "name": "Tululu - Remastered",
       "url": "https://open.spotify.com/track/1sicVeN7FJZcW8h9nNDAy0"

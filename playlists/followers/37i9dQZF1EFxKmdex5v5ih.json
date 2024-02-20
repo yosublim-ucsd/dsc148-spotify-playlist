@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 1994,
+  "2024-02-20": 1992,
   "date_first_scraped": "2021-12-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ\">Michael Pollack</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Michael Pollack",
@@ -877,6 +877,24 @@
       "duration_ms": 171961,
       "name": "Break",
       "url": "https://open.spotify.com/track/3OGMwLZ5ZbPTgTZT22XjTd"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Now",
+        "url": "https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196044,
+      "name": "Broken Like Me",
+      "url": "https://open.spotify.com/track/00HNVblyBbbKCzJZhxofeW"
     },
     {
       "album": {

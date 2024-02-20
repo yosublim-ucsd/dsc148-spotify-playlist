@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Tiësto, Karol G
 
-395 songs - 19 hr 49 min
+396 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Tarde](https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Tarde](https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu) | 3:25 | 2023-11-28 | 2023-12-19 |
 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 | 2023-12-18 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-07-10 | 2023-08-22 |
+| [Te conozco desde siempre](https://open.spotify.com/track/0mPFXn6ZBitDfpb6X1JiWF) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ), [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Te conozco desde siempre](https://open.spotify.com/album/0VVKagAo5uNYBZP68lVHbW) | 2:52 | 2024-02-19 |  |
 | [Te echo de \-](https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Te echo de \-](https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN) | 2:56 | 2023-12-18 |  |
 | [Te Miro A La Cara](https://open.spotify.com/track/7hlPoVZ1uz7FiQagPTVbQG) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Te Miro A La Cara](https://open.spotify.com/album/6LCwDsFIPU8BPk3f0jdzr3) | 2:22 | 2023-03-13 | 2023-09-01 |
 | [TE QUIERO](https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [TE QUIERO](https://open.spotify.com/album/241E4UnDjEnTS7KUGvPxCT) | 2:59 | 2023-03-13 | 2023-09-29 |
@@ -390,7 +391,7 @@
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-16 | 2023-09-19 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-10 | 2023-08-15 |
 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 | 2023-03-28 | 2023-04-11 |
-| [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 | 2024-02-12 |  |
+| [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 | 2024-02-12 | 2024-02-20 |
 | [Vivo En Un Mundo \(El Ladrón De Mi Sueño\)](https://open.spotify.com/track/4hwq7PosX7h6qNCXJTPyJz) | [Beatriz Sanchez](https://open.spotify.com/artist/7IoJwev1Iea2sTIB7nBcDg), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Vivo En Un Mundo \(El Ladrón De Mi Sueño\)](https://open.spotify.com/album/7zaMAAwjlrwyVyhcaLMfBe) | 2:35 | 2023-06-12 | 2023-06-27 |
 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2023-11-21 |  |
 | [volverás??](https://open.spotify.com/track/7z0gvrbNudxiGUJ3mga5XL) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF), [Paula Becker](https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz) | [volverás??](https://open.spotify.com/album/5qEWzce6jaRVuEnobRAAOg) | 3:14 | 2023-11-13 | 2023-11-29 |

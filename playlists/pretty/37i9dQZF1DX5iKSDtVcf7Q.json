@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 259998,
+  "num_followers": 260095,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjZjNzAxZTc4NTM0NWVkYTRmZjI1YTA1NzExYjA3NDUwMDhmZWVl",
+  "snapshot_id": "MCxmZWUyZWY1OGJmZDQ5OGM4YTg2YjZmZjFjMTFlMjk5YTJiZDJjZGU3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
       "artists": [
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Pure Country",
         "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
       },
@@ -1303,34 +1319,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "Caught Up In The Country",
+        "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 198121,
-      "name": "The Outskirts",
-      "url": "https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
-      },
-      "artists": [
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        },
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
         }
       ],
-      "duration_ms": 230586,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
+      "duration_ms": 160991,
+      "name": "Caught Up In The Country",
+      "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Caught Up In The Country",
-        "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        },
-        {
-          "name": "The Fisk Jubilee Singers",
-          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 160991,
-      "name": "Caught Up In The Country",
-      "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
+      "duration_ms": 198121,
+      "name": "The Outskirts",
+      "url": "https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Halfway To Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Country Must Be Country Wide",
-      "url": "https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 273000,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2ZXsvL9DO2MPv43Ay1IxgR"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Halfway To Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Country Must Be Country Wide",
+      "url": "https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Peso in My Pocket",
-        "url": "https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ"
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 211609,
-      "name": "Oklahoma Breakdown",
-      "url": "https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk"
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Country On",
-        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+        "name": "Peso in My Pocket",
+        "url": "https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 236455,
-      "name": "Country On",
-      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
+      "duration_ms": 211609,
+      "name": "Oklahoma Breakdown",
+      "url": "https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "One Hell Of An Amen",
+      "url": "https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "American Nights",
         "url": "https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 202266,
       "name": "American Nights",
       "url": "https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
     }
   ],
   "unique_name": "Heartland Country",

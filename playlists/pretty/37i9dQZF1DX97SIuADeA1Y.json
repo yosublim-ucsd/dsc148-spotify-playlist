@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 333152,
+  "num_followers": 333185,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzE4NmJlMWIzZmMwYmM3YWQxZDQwZDI1ODNlOGI2YmM0ODIzZmY3",
+  "snapshot_id": "MCxhNGE2MzQ0MDhjYjNkYzBkYTkwNGFiMmNjNTk3Y2YxMzhkZmY2MjNj",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "duration_ms": 143906,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 157446,
       "name": "Skippin",
       "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "ISAAK",
-          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
-        }
-      ],
-      "duration_ms": 143906,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Dance For Me (1, 2, 3)",
+        "url": "https://open.spotify.com/album/2HCPnrbyyfvZwhrbJcVaYs"
+      },
+      "artists": [
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Dance For Me (1, 2, 3)",
+      "url": "https://open.spotify.com/track/5INT7DVOEKXo0uyVhPtg9n"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "She Wolf (Falling to Pieces)",
         "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
       },
@@ -1119,30 +1143,6 @@
       "duration_ms": 149788,
       "name": "It's A Hard Knock Life - Prezioso Remix",
       "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Dance For Me (1, 2, 3)",
-        "url": "https://open.spotify.com/album/2HCPnrbyyfvZwhrbJcVaYs"
-      },
-      "artists": [
-        {
-          "name": "Lyente",
-          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        },
-        {
-          "name": "Quinten Circle",
-          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Dance For Me (1, 2, 3)",
-      "url": "https://open.spotify.com/track/5INT7DVOEKXo0uyVhPtg9n"
     },
     {
       "added_at": "2023-12-01 11:00:00",

@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Royel Otis
 
-1,267 songs - 2 day 23 hr 51 min
+1,268 songs - 2 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,7 +1099,8 @@
 | [Temperature of Love](https://open.spotify.com/track/7uQELO7mEcO0u5i8lirWbT) | [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm), [Oscar Key Sung](https://open.spotify.com/artist/2D7YyEYEeZY7W6rpuN6WoB) | [Temperature of Love](https://open.spotify.com/album/5vZ6aGQuUeqU1pB5fdCJ1Z) | 4:44 | 2024-01-25 | 2024-02-09 |
 | [tend the garden](https://open.spotify.com/track/5drrhaJL9w46bQpwGfeuBV) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [tend the garden](https://open.spotify.com/album/7bzO92EHw4j5BXcvAcMacl) | 4:27 | 2021-12-28 | 2022-01-14 |
 | [Tequila Shotgun](https://open.spotify.com/track/5wKcLjjSF81QCTAiTni588) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Tequila Shotgun](https://open.spotify.com/album/3Dw1uk3uehvWx7O7Bth5J8) | 3:24 | 2022-09-15 | 2023-01-20 |
-| [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 | 2024-01-12 |  |
+| [Terrible News](https://open.spotify.com/track/1Fq62so6JYiEizTz8o1aVW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:52 | 2024-02-09 |  |
+| [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 | 2024-01-12 | 2024-02-20 |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-12 | 2023-03-03 |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-01-19 | 2024-02-16 |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2023-11-02 | 2024-01-26 |

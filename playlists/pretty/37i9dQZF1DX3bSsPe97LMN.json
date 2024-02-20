@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Vena De Rey y Joss Favela en portada.",
-  "num_followers": 60168,
+  "num_followers": 60179,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmU5NWVjZjM0MTRjMzZhMWFiYjc4YWI2YmIzNTczZWM2MmYwYTEx",
+  "snapshot_id": "MCw0ZDhlMDYyYTAwMDZjYWZiMzcxNWZjN2EyYjEyNWI5NDIzNzNlZjQ4",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/4OhiUN9Lk1D3BOMSAcZokx"
+      },
+      "artists": [
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "PROJECT X",
+      "url": "https://open.spotify.com/track/1IjK9iuvWzcPZpXUTDZDSk"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "C\u00e1psulas",
         "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "PROJECT X",
-        "url": "https://open.spotify.com/album/4OhiUN9Lk1D3BOMSAcZokx"
-      },
-      "artists": [
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "PROJECT X",
-      "url": "https://open.spotify.com/track/1IjK9iuvWzcPZpXUTDZDSk"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Mi Abuelo Vino a Visitarme",
         "url": "https://open.spotify.com/album/2ctFEp47JqxhPamkk9a41N"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 239040,
       "name": "Mi Abuelo Vino a Visitarme",
       "url": "https://open.spotify.com/track/37lamRWmPnjNgkHxne4QqE"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "El Cartel",
+        "url": "https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "El Cartel",
+      "url": "https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -467,22 +483,6 @@
       "duration_ms": 206000,
       "name": "Morrito",
       "url": "https://open.spotify.com/track/0JMyyVXZs7DdsMGkNWhBNA"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "El Cartel",
-        "url": "https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "El Cartel",
-      "url": "https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Aqu\u00ed Andamos",
         "url": "https://open.spotify.com/album/1OATR6NJtd5JsJm94eFH0M"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 98253,
       "name": "Aqu\u00ed Andamos",
       "url": "https://open.spotify.com/track/0HbCHoZoSADtxnpyRJ7KiA"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -643,22 +643,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "NQV",
-        "url": "https://open.spotify.com/album/5rvVnAWlroQLKscszGaLRv"
+        "name": "Todas Son Iguales",
+        "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
       },
       "artists": [
         {
-          "name": "Sult\u00e1n",
-          "url": "https://open.spotify.com/artist/6Pj5swwZDsvdcMLXI6s7ui"
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
         },
         {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 166682,
-      "name": "NQV",
-      "url": "https://open.spotify.com/track/52VIMek35Gv2ChbWxRHBTv"
+      "duration_ms": 155125,
+      "name": "Todas Son Iguales",
+      "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -679,22 +679,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Todas Son Iguales",
-        "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
+        "name": "NQV",
+        "url": "https://open.spotify.com/album/5rvVnAWlroQLKscszGaLRv"
       },
       "artists": [
         {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+          "name": "Sult\u00e1n",
+          "url": "https://open.spotify.com/artist/6Pj5swwZDsvdcMLXI6s7ui"
         },
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
         }
       ],
-      "duration_ms": 155125,
-      "name": "Todas Son Iguales",
-      "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
+      "duration_ms": 166682,
+      "name": "NQV",
+      "url": "https://open.spotify.com/track/52VIMek35Gv2ChbWxRHBTv"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 194766,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Bolsita Rosita",
         "url": "https://open.spotify.com/album/3unMmtTDq5aauuwk3cfUvK"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
+        "name": "Yo Ni Te Topo",
+        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
       },
       "artists": [
         {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
         }
       ],
-      "duration_ms": 194766,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
+      "duration_ms": 158210,
+      "name": "Yo Ni Te Topo",
+      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -923,22 +939,6 @@
       "duration_ms": 148849,
       "name": "A La Mala",
       "url": "https://open.spotify.com/track/7KkZViB3klEwqv8vebzZCh"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Yo Ni Te Topo",
-        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "Yo Ni Te Topo",
-      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "El Emblema",
-        "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
-      },
-      "artists": [
-        {
-          "name": "Jocsan Duran",
-          "url": "https://open.spotify.com/artist/5CiOcJEt3lIJneEcQt7wkv"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "El Emblema",
-      "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Respaldo y Apoyo",
         "url": "https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Lo Obvio",
-        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+        "name": "El Emblema",
+        "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
       },
       "artists": [
         {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+          "name": "Jocsan Duran",
+          "url": "https://open.spotify.com/artist/5CiOcJEt3lIJneEcQt7wkv"
         }
       ],
-      "duration_ms": 140453,
-      "name": "Lo Obvio",
-      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
+      "duration_ms": 150500,
+      "name": "El Emblema",
+      "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 146634,
       "name": "Truena La Radio",
       "url": "https://open.spotify.com/track/789lqu9CSLfu5JlqrUAbxm"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Lo Obvio",
+        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Lo Obvio",
+      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Dir\u00e9",
-        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Dir\u00e9",
-      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "A Tu Modo",
         "url": "https://open.spotify.com/album/0pC8mV4IYPVzHZtIcWs8qS"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 134253,
       "name": "A Tu Modo",
       "url": "https://open.spotify.com/track/32NbxVw3vD1qQep7JrXYTh"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Dir\u00e9",
+        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "El Ortiz",
+        "url": "https://open.spotify.com/album/7dg7B2yu1Jcjud2n4yreQr"
+      },
+      "artists": [
+        {
+          "name": "Victor Guillen",
+          "url": "https://open.spotify.com/artist/5NU7epV5Jr2D4r0YY7DEd0"
+        }
+      ],
+      "duration_ms": 180729,
+      "name": "El Ortiz",
+      "url": "https://open.spotify.com/track/0pvTgKuMvdVzSK9dk3seFD"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "x el 215",
         "url": "https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 154033,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/39DEc4b2WcKd9aNAM37Xa0"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "El Ortiz",
-        "url": "https://open.spotify.com/album/7dg7B2yu1Jcjud2n4yreQr"
-      },
-      "artists": [
-        {
-          "name": "Victor Guillen",
-          "url": "https://open.spotify.com/artist/5NU7epV5Jr2D4r0YY7DEd0"
-        }
-      ],
-      "duration_ms": 180729,
-      "name": "El Ortiz",
-      "url": "https://open.spotify.com/track/0pvTgKuMvdVzSK9dk3seFD"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "NO HAY NADA M\u00c1S",
-        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
-      },
-      "artists": [
-        {
-          "name": "ARRIOLA",
-          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
-        }
-      ],
-      "duration_ms": 150891,
-      "name": "EL CHAPUL\u00cdN",
-      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Rafa Caro",
         "url": "https://open.spotify.com/album/7hYCOUcMvjDeDwIaMS0vIZ"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 194253,
       "name": "Rafa Caro",
       "url": "https://open.spotify.com/track/2wyYfvmdPUgClntrbbTUFB"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "NO HAY NADA M\u00c1S",
+        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
+      },
+      "artists": [
+        {
+          "name": "ARRIOLA",
+          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
+        }
+      ],
+      "duration_ms": 150891,
+      "name": "EL CHAPUL\u00cdN",
+      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "37 Semanas",
-        "url": "https://open.spotify.com/album/6f6iYgZ5C0PyQinaWejWEZ"
-      },
-      "artists": [
-        {
-          "name": "Andres Razo \"El Consentido\"",
-          "url": "https://open.spotify.com/artist/7anTwU0OE6cD6epatkeG09"
-        },
-        {
-          "name": "Nueva Presencia",
-          "url": "https://open.spotify.com/artist/6IS38bTU3t5UHlfze0uAMt"
-        }
-      ],
-      "duration_ms": 146655,
-      "name": "37 Semanas",
-      "url": "https://open.spotify.com/track/10WGG1u0FhseCMDsLWG7zf"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/4G0lFiDJo1OkGQaaydGOqJ"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 182720,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5KKOilUrX3rLQJD6j0O22w"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "37 Semanas",
+        "url": "https://open.spotify.com/album/6f6iYgZ5C0PyQinaWejWEZ"
+      },
+      "artists": [
+        {
+          "name": "Andres Razo \"El Consentido\"",
+          "url": "https://open.spotify.com/artist/7anTwU0OE6cD6epatkeG09"
+        },
+        {
+          "name": "Nueva Presencia",
+          "url": "https://open.spotify.com/artist/6IS38bTU3t5UHlfze0uAMt"
+        }
+      ],
+      "duration_ms": 146655,
+      "name": "37 Semanas",
+      "url": "https://open.spotify.com/track/10WGG1u0FhseCMDsLWG7zf"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Tu Amigo",
-        "url": "https://open.spotify.com/album/2dgiPNqSW4dN3zNFkyMcVl"
-      },
-      "artists": [
-        {
-          "name": "Paquito Herrera",
-          "url": "https://open.spotify.com/artist/5fgcvuTTUJYY4qaG3fNyMO"
-        }
-      ],
-      "duration_ms": 224647,
-      "name": "Tu Amigo",
-      "url": "https://open.spotify.com/track/3JbJJFUWHkwpbIuvGWe3R0"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/5MTyxg9SFeamEQLIfeuZzn"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 194435,
       "name": "Todo Cambio",
       "url": "https://open.spotify.com/track/6dSIHQKngqF8T1XQ9rMZHh"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Tu Amigo",
+        "url": "https://open.spotify.com/album/2dgiPNqSW4dN3zNFkyMcVl"
+      },
+      "artists": [
+        {
+          "name": "Paquito Herrera",
+          "url": "https://open.spotify.com/artist/5fgcvuTTUJYY4qaG3fNyMO"
+        }
+      ],
+      "duration_ms": 224647,
+      "name": "Tu Amigo",
+      "url": "https://open.spotify.com/track/3JbJJFUWHkwpbIuvGWe3R0"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Preg\u00fantale al Diablo",
-        "url": "https://open.spotify.com/album/4hdLVZh2WslvvQ3upe1zt5"
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/7CEW68gntBaN1wXmCWxHFY"
       },
       "artists": [
         {
-          "name": "Hendry El Mero Mero",
-          "url": "https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP"
+          "name": "Orly Castillo",
+          "url": "https://open.spotify.com/artist/6LEh0Uch5xXHqmULioh8h7"
         }
       ],
-      "duration_ms": 222178,
-      "name": "Preg\u00fantale al Diablo",
-      "url": "https://open.spotify.com/track/34dr8fWOjiYQlI2mGXeBVH"
+      "duration_ms": 176335,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/1bwTu0isGV2ur3imK34JQW"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/7CEW68gntBaN1wXmCWxHFY"
+        "name": "Preg\u00fantale al Diablo",
+        "url": "https://open.spotify.com/album/4hdLVZh2WslvvQ3upe1zt5"
       },
       "artists": [
         {
-          "name": "Orly Castillo",
-          "url": "https://open.spotify.com/artist/6LEh0Uch5xXHqmULioh8h7"
+          "name": "Hendry El Mero Mero",
+          "url": "https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP"
         }
       ],
-      "duration_ms": 176335,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/1bwTu0isGV2ur3imK34JQW"
+      "duration_ms": 222178,
+      "name": "Preg\u00fantale al Diablo",
+      "url": "https://open.spotify.com/track/34dr8fWOjiYQlI2mGXeBVH"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

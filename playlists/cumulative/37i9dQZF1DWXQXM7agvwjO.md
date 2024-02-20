@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS + SIRUP \(TH/JP\)
 
-1,170 songs - 2 day 22 hr 21 min
+1,171 songs - 2 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Giấc Mơ Của Loài Người](https://open.spotify.com/track/5YIUwtuaP3UXrYP8igpgKI) | [Dấu Vân Tay](https://open.spotify.com/artist/5kaUXaq4b8Zx541TKeNSIR) | [Giấc Mơ Của Loài Người](https://open.spotify.com/album/30Le3CdtrAkUfqGV0H5zhB) | 4:21 | 2024-02-15 |  |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-08 |  |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-03-24 | 2022-05-12 |
-| [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 | 2023-11-09 |  |
+| [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 | 2023-11-09 | 2024-02-20 |
 | [Gold](https://open.spotify.com/track/0zsn4Z49Wsm3wsnjDptxNc) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Fly, Avoid, Love the Future](https://open.spotify.com/album/0YKYd2JbR8EC0CfxCbcBoX) | 4:01 | 2022-07-28 | 2022-08-26 |
 | [Gone](https://open.spotify.com/track/6bBAyLgLyvJJcW663wGWmK) | [Dead Bachelors](https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6) | [Gone](https://open.spotify.com/album/7n4d3u8z8UzjbvoENy7n6J) | 3:26 | 2022-06-16 | 2022-08-05 |
 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-01-26 | 2023-04-01 |
@@ -635,6 +635,7 @@
 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 | 2023-10-05 | 2023-10-13 |
 | [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 | 2023-02-16 | 2023-03-25 |
 | [MOSHIMO](https://open.spotify.com/track/6h8f6bUxH2RaxuUElQ0164) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [GOTA](https://open.spotify.com/artist/1t3344DpBqbezUv3QIR1DH) | [MOSHIMO](https://open.spotify.com/album/5N2frg9gZ0hfTMPVMpztN2) | 4:46 | 2023-03-16 | 2023-04-14 |
+| [Movie Scenes](https://open.spotify.com/track/6pkvHlxFsRuAmE0eSCd2BI) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [Movie Scenes](https://open.spotify.com/album/1LfkYj4wbQoXrAmmeGE1Jm) | 3:23 | 2024-02-15 |  |
 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 | 2023-10-19 | 2023-12-16 |
 | [Mr\. Daydream](https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [Mr\. Daydream](https://open.spotify.com/album/0FpWw1iUM4JHq4eovT85z1) | 3:17 | 2023-02-09 | 2023-03-25 |
 | [Mr\. Streetboy](https://open.spotify.com/track/63TccNreszvD0ySqpH6N6C) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Mr\. Streetboy](https://open.spotify.com/album/3KhbDtI5OTPm6eVXRIS1gT) | 3:06 | 2023-11-23 | 2023-12-15 |

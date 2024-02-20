@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,216 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,147 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Let Go](https://open.spotify.com/track/20ZHGiItqZgOHhZGbTEtj9) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Let Go](https://open.spotify.com/album/5xB8GG0H8xMQO7hOqsjudz) | 3:37 |
 | 50 | [Bathroom Floor](https://open.spotify.com/track/5EKDvADWw9Nqz3hTcORq2y) | [KC Rae](https://open.spotify.com/artist/2l6GzV9FZipY3F45P3JErw) | [Think I'm Gonna Die](https://open.spotify.com/album/7FHCXvrXoDLfYZMn1LP9BG) | 3:28 |
 
-Snapshot ID: `MCxjODg3OWIyMmJlMTQxMzRmYjgxNzVkYTIyNTczOTAwNTk3NjRhNDU2`
+Snapshot ID: `MCwyOWY3NWQ4ZjA2NzI3YTg3OTdmYTdhMDFiMDE1NzQ2N2UzYmJiYTcz`

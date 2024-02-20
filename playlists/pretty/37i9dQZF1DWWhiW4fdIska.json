@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 25968,
+  "num_followers": 25983,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODg5ZjM1MWVjZmQxMWFkZWY5MzFiNDM4ZjE3NzZlMTA4ZGI0NmRk",
+  "snapshot_id": "MCxkNGQ4YWQzNWYyZDE0MzEzZGY5ODhmZWZkYjRiNjdhYjhhZGY3YzIw",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Born Under A Bad Sign",
         "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 166560,
       "name": "Born Under A Bad Sign",
       "url": "https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -571,18 +571,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 150667,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
+      "duration_ms": 440946,
+      "name": "Sure Got Cold After the Rain Fell",
+      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -607,38 +607,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 373000,
-      "name": "Ventilator Blues",
-      "url": "https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 440946,
-      "name": "Sure Got Cold After the Rain Fell",
-      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 150667,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Ain't Enough Comin' In",
-        "url": "https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "It's My Own Fault",
-      "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The Very Best Of Albert King",
         "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 192493,
       "name": "Blues Power",
       "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Ain't Enough Comin' In",
+        "url": "https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "It's My Own Fault",
+      "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
     }
   ],
   "unique_name": "Classic Blues Guitar",

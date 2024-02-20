@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,087 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,089 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 91 | [Evolution](https://open.spotify.com/track/3khZfJxwsaXAPM4riEPHZB) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution](https://open.spotify.com/album/4Duw84CjAvQ1DVfoEJR4tG) | 4:26 |
 | 92 | [Missy](https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm), [tormentatropica](https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc) | [Missy](https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj) | 2:02 |
 | 93 | [Give Me A Reason Why](https://open.spotify.com/track/4GcSIWC2iSRG8IjRYR393G) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Give Me A Reason Why](https://open.spotify.com/album/0a8FY5YkU3CNShk1wy7a5Z) | 3:10 |
-| 94 | [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 |
+| 94 | [Terrible News](https://open.spotify.com/track/1Fq62so6JYiEizTz8o1aVW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:52 |
 | 95 | [Static On The Radio](https://open.spotify.com/track/4acv26AvU3NmZLZDu9Q4uz) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS), [GAGNE](https://open.spotify.com/artist/2DxTjfUxpOfKs1uWCRzIMu) | [Static On The Radio](https://open.spotify.com/album/7Lf8JVgsnvE36Q4rgrHbKJ) | 2:54 |
 | 96 | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
 | 97 | [blame \(feat\. Valley\)](https://open.spotify.com/track/3oaUVz98IlIICzuxLyUvyG) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Maine \(deluxe\)](https://open.spotify.com/album/2U5AQJj6WHdMYMuLWDun6q) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 |
 | 100 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
 
-Snapshot ID: `MCw5NTJiNTQ4ZTc0NGU2MmEzYWQzYTlhNDk2ZmFhMzFkN2ZiYzA3MmI5`
+Snapshot ID: `MCw4ZWI3ZTNkM2Q0OTkyZDJlNjI5MjRlYmQ1ODgwMTVhNzcxZTliNjVl`

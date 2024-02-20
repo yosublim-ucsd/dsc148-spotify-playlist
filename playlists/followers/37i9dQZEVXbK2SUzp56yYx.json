@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 1333,
+  "2024-02-20": 1333,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 183000,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/3FQl2WACbSQBE8hJJV0pvE"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 104423,
       "name": "ee nado x)",
       "url": "https://open.spotify.com/track/10bkbTXJZpOP5r9ZNeRwDw"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 98621,
       "name": "i was only temporary",
       "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
@@ -569,6 +569,28 @@
       "duration_ms": 169541,
       "name": "I Wouldn't Mind - Sped Up",
       "url": "https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2"
+    },
+    {
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
+      },
+      "artists": [
+        {
+          "name": "Black Gryph0n",
+          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
+        },
+        {
+          "name": "Baasik",
+          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159714,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
     },
     {
       "album": {
@@ -1085,6 +1107,24 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
       "album": {
@@ -2467,7 +2507,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 128764,
       "name": "\u042e\u0440\u0430, \u042e\u0440\u0430",
       "url": "https://open.spotify.com/track/1VdZa83wmycr1fi86O8vh7"

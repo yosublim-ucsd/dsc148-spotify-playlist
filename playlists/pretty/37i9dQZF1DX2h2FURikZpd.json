@@ -1,12 +1,12 @@
 {
   "description": "Latin gems you absolutely need to hear. Save them before they're gone!",
-  "num_followers": 1533,
+  "num_followers": 1551,
   "original_name": "Songs You Need To Save",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDVmZWZiYmFkZmUxNzE5NDA4M2ZkOWVlZTFlOTRhN2ZmM2IyOTc0",
+  "snapshot_id": "MCxhNTI4Mzg3NWRiMGNkMGZmMmY1NjkyMDI4ZTkyNGFlY2UxOTQ0ZDYy",
   "tracks": [
     {
       "added_at": "2024-02-16 19:28:05",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-02-16 19:28:05",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2024-02-16 19:28:05",
+      "album": {
         "name": "Salitre",
         "url": "https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2024-02-16 19:28:05",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2024-02-16 19:28:05",
-      "album": {
         "name": "VITALICIO",
         "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-16 19:28:05",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 220830,
-      "name": "Gordo",
-      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
-    },
-    {
-      "added_at": "2024-02-16 19:28:05",
-      "album": {
         "name": "Qu\u00e9date Beb\u00e9",
         "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 193258,
       "name": "Qu\u00e9date Beb\u00e9",
       "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
+    },
+    {
+      "added_at": "2024-02-16 19:28:05",
+      "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 220830,
+      "name": "Gordo",
+      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
     },
     {
       "added_at": "2024-02-16 19:28:05",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-02-16 19:28:05",
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE"
-    },
-    {
-      "added_at": "2024-02-16 19:28:05",
-      "album": {
         "name": "LUCES DE COLORES",
         "url": "https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2024-02-16 19:28:05",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         }
       ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+      "duration_ms": 141866,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE"
     },
     {
       "added_at": "2024-02-16 19:28:05",
@@ -467,18 +451,18 @@
     {
       "added_at": "2024-02-16 19:28:05",
       "album": {
-        "name": "Un D\u00eda Entender\u00e1s",
-        "url": "https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB"
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 206089,
-      "name": "Un D\u00eda Entender\u00e1s",
-      "url": "https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx"
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
     },
     {
       "added_at": "2024-02-16 19:28:05",
@@ -515,6 +499,22 @@
       "duration_ms": 218000,
       "name": "Qui\u00e9n Lo Dir\u00eda?",
       "url": "https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z"
+    },
+    {
+      "added_at": "2024-02-16 19:28:05",
+      "album": {
+        "name": "Un D\u00eda Entender\u00e1s",
+        "url": "https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 206089,
+      "name": "Un D\u00eda Entender\u00e1s",
+      "url": "https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx"
     },
     {
       "added_at": "2024-02-16 19:28:05",

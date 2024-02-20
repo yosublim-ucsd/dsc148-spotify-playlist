@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 146728,
+  "num_followers": 146787,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzRkNGE5YmI4NjU4NWQ2MTZkZDQ4MGU5YmUzMjg3MzM4N2VlOTQ5",
+  "snapshot_id": "MCxjNjQzZDNkZDhkNTQ3Mzg5MGE2OGNmMWI1MThjM2JhNGEzNzIxOGZj",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Fall In Love (Acoustic)",
-        "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 238676,
-      "name": "Fall In Love - Acoustic",
-      "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "You (Acoustic)",
         "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 191615,
       "name": "Pack My Hometown",
       "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Fall In Love (Acoustic)",
+        "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 238676,
+      "name": "Fall In Love - Acoustic",
+      "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "World on Fire (Bonfire Version)",
+        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "World on Fire - Bonfire Version",
+      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Burn It Down (Live Acoustic)",
         "url": "https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 226600,
       "name": "Burn It Down - Live Acoustic",
       "url": "https://open.spotify.com/track/1zOFqMnCN7DUpwJmuc7GV1"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 198026,
       "name": "Here Tonight - The Acoustic Sessions",
       "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "World on Fire (Bonfire Version)",
-        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "World on Fire - Bonfire Version",
-      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Best Shot (Acoustic)",
-        "url": "https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Best Shot (Acoustic)",
-      "url": "https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Cowboy Forever (Acoustic Version)",
         "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Hope It's Hot Out (Acoustic)",
-        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
+        "name": "Best Shot (Acoustic)",
+        "url": "https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2"
       },
       "artists": [
         {
-          "name": "Kyle Clark",
-          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 167833,
-      "name": "Hope It's Hot Out (Acoustic)",
-      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
+      "duration_ms": 193293,
+      "name": "Best Shot (Acoustic)",
+      "url": "https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 187487,
       "name": "Wanna Be Saved (Acoustic)",
       "url": "https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Hope It's Hot Out (Acoustic)",
+        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Hope It's Hot Out (Acoustic)",
+      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me (Piano)",
-        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Something's Gonna Kill Me - Piano",
-      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "St. Louis",
         "url": "https://open.spotify.com/album/11jsnuDKgMn6IjelspL30z"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 274964,
       "name": "St. Louis",
       "url": "https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Something's Gonna Kill Me (Piano)",
+        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Something's Gonna Kill Me - Piano",
+      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Love You Again (Hey World Sessions)",
-        "url": "https://open.spotify.com/album/5nWaaNIGhziGIB8T73Rkgx"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "Love You Again - Hey World Sessions",
-      "url": "https://open.spotify.com/track/6s9H533OuVIPhQ4dMeZ0Zd"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 161052,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Love You Again (Hey World Sessions)",
+        "url": "https://open.spotify.com/album/5nWaaNIGhziGIB8T73Rkgx"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Love You Again - Hey World Sessions",
+      "url": "https://open.spotify.com/track/6s9H533OuVIPhQ4dMeZ0Zd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Humble Quest: In Rare Form",
-        "url": "https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 188651,
-      "name": "I Can't Love You Anymore - In Rare Form",
-      "url": "https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Made (Wedding Version)",
         "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 215227,
       "name": "Made (Wedding Version)",
       "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Humble Quest: In Rare Form",
+        "url": "https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 188651,
+      "name": "I Can't Love You Anymore - In Rare Form",
+      "url": "https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Creek Will Rise (Acoustic)",
-        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
-      },
-      "artists": [
-        {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Creek Will Rise - Acoustic",
-      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Weekends Look A Little Acoustic These Days",
         "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 254989,
       "name": "You Didn\u2019t - Acoustic",
       "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Creek Will Rise (Acoustic)",
+        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Creek Will Rise - Acoustic",
+      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
     },
     {
       "added_at": "2024-02-16 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: pablopablo",
-  "num_followers": 25710,
+  "num_followers": 25720,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDljNzM5OThhZThkNzhmMzYxNzM4OTcxY2NiODNkNWNiNTRjMjA3",
+  "snapshot_id": "MCxlYjljYTJmMzYxNDAyNDJjMjQ0YTdiNmU0ZmZkYTQ0MzYxMmExNDk3",
   "tracks": [
     {
       "added_at": "2024-02-08 23:01:00",
@@ -119,6 +119,50 @@
     {
       "added_at": "2024-02-08 23:01:00",
       "album": {
+        "name": "En Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        },
+        {
+          "name": "Zaira",
+          "url": "https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5"
+        }
+      ],
+      "duration_ms": 192244,
+      "name": "En Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL"
+    },
+    {
+      "added_at": "2024-02-08 23:01:00",
+      "album": {
+        "name": "No m'estima +",
+        "url": "https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No m'estima +",
+      "url": "https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc"
+    },
+    {
+      "added_at": "2024-02-08 23:01:00",
+      "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
       },
@@ -151,42 +195,6 @@
     {
       "added_at": "2024-02-08 23:01:00",
       "album": {
-        "name": "En Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        },
-        {
-          "name": "Zaira",
-          "url": "https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5"
-        }
-      ],
-      "duration_ms": 192244,
-      "name": "En Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL"
-    },
-    {
-      "added_at": "2024-02-08 23:01:00",
-      "album": {
-        "name": "Me da igual",
-        "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 171871,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
-    },
-    {
-      "added_at": "2024-02-08 23:01:00",
-      "album": {
         "name": "Mala Vida",
         "url": "https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7"
       },
@@ -203,58 +211,18 @@
     {
       "added_at": "2024-02-08 23:01:00",
       "album": {
-        "name": "No m'estima +",
-        "url": "https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1"
+        "name": "Me da igual",
+        "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
       },
       "artists": [
         {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "Julieta",
-          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
         }
       ],
-      "duration_ms": 192000,
-      "name": "No m'estima +",
-      "url": "https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc"
-    },
-    {
-      "added_at": "2024-02-08 23:01:00",
-      "album": {
-        "name": "oh boi",
-        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 160333,
-      "name": "oh boi",
-      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
-    },
-    {
-      "added_at": "2024-02-08 23:01:00",
-      "album": {
-        "name": "pablopablo",
-        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 97422,
-      "name": "Azul Zafiro",
-      "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
+      "duration_ms": 171871,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
     },
     {
       "added_at": "2024-02-08 23:01:00",
@@ -279,22 +247,6 @@
     {
       "added_at": "2024-02-08 23:01:00",
       "album": {
-        "name": "Esa Morena",
-        "url": "https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "Esa Morena",
-      "url": "https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ"
-    },
-    {
-      "added_at": "2024-02-08 23:01:00",
-      "album": {
         "name": "SexySensible",
         "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
       },
@@ -315,6 +267,54 @@
       "duration_ms": 154549,
       "name": "Xarnega",
       "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
+    },
+    {
+      "added_at": "2024-02-08 23:01:00",
+      "album": {
+        "name": "oh boi",
+        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "oh boi",
+      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+    },
+    {
+      "added_at": "2024-02-08 23:01:00",
+      "album": {
+        "name": "Esa Morena",
+        "url": "https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "Esa Morena",
+      "url": "https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ"
+    },
+    {
+      "added_at": "2024-02-08 23:01:00",
+      "album": {
+        "name": "pablopablo",
+        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 97422,
+      "name": "Azul Zafiro",
+      "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
     },
     {
       "added_at": "2024-02-08 23:01:00",
@@ -367,38 +367,6 @@
       "duration_ms": 160695,
       "name": "habibi",
       "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
-    },
-    {
-      "added_at": "2024-02-08 23:01:00",
-      "album": {
-        "name": "Vicente Amor",
-        "url": "https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 112551,
-      "name": "Vicente Amor",
-      "url": "https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ"
-    },
-    {
-      "added_at": "2024-02-08 23:01:00",
-      "album": {
-        "name": "pablopablo",
-        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 69641,
-      "name": "Lamento",
-      "url": "https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk"
     },
     {
       "added_at": "2024-02-08 23:01:00",
@@ -459,6 +427,38 @@
     {
       "added_at": "2024-02-08 23:01:00",
       "album": {
+        "name": "Vicente Amor",
+        "url": "https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 112551,
+      "name": "Vicente Amor",
+      "url": "https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ"
+    },
+    {
+      "added_at": "2024-02-08 23:01:00",
+      "album": {
+        "name": "pablopablo",
+        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 69641,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk"
+    },
+    {
+      "added_at": "2024-02-08 23:01:00",
+      "album": {
         "name": "Flamenco Flamenquito",
         "url": "https://open.spotify.com/album/51xUtTgInOpm7fhGin9JqW"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-02-08 23:01:00",
       "album": {
-        "name": "Fuego - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 199402,
-      "name": "Fuego - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB"
-    },
-    {
-      "added_at": "2024-02-08 23:01:00",
-      "album": {
         "name": "fumas?",
         "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 185066,
       "name": "qu\u00e9 voy a hacer",
       "url": "https://open.spotify.com/track/30DkvLu9N0LFqnW30cSSgi"
+    },
+    {
+      "added_at": "2024-02-08 23:01:00",
+      "album": {
+        "name": "Fuego - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 199402,
+      "name": "Fuego - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB"
     },
     {
       "added_at": "2024-02-08 23:01:00",

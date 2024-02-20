@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,851 likes - 22 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,853 likes - 22 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 21 | [Calorsitos Del Desierto](https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 3:29 |
 | 22 | [Sea Donde Sea](https://open.spotify.com/track/1a55CiM5pSJir39PNVPv2a) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:40 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDBhMDlmY2VkZjBmZjExYjdkMDQ5MzAzZmUwZmNiMjQ2Nw==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDBjNzc4MzZmZDU0ZDgwOWQzZGI0MTI2YjUyNDlhODkxYQ==`

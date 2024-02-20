@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 138506,
       "name": "First Time I Met The Blues - Single Version",
       "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
@@ -629,6 +629,28 @@
     },
     {
       "album": {
+        "name": "Live In Montreux",
+        "url": "https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290306,
+      "name": "Help Me - Live In Montreux 1978",
+      "url": "https://open.spotify.com/track/71U89dSLUwtECWijBsNhX0"
+    },
+    {
+      "album": {
         "name": "70s Blues",
         "url": "https://open.spotify.com/album/6glPjbgakqems9vEZFqlVJ"
       },
@@ -716,7 +738,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 139626,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
@@ -1148,7 +1170,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 384280,
       "name": "Miss Ida B",
       "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
@@ -1572,7 +1594,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 431853,
       "name": "Stone Crazy",
       "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
@@ -1848,7 +1870,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 188893,
       "name": "Trouble Blues",
       "url": "https://open.spotify.com/track/7ghDNqcZZmFNbVq9j14WGO"

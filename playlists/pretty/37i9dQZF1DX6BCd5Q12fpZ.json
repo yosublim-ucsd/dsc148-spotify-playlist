@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65430,
+  "num_followers": 65432,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTU5OGFmODFkNmYwMTUxN2YyNzI4MTViM2JmNDMzYmQxNTU1ODYz",
+  "snapshot_id": "MCxlZDc3ZDU4YjkwMDIxNTg0ZDllNThhNmZmMmE2NWYzODllMWE5ODRh",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Cliche Love Song",
+        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
+      },
+      "artists": [
+        {
+          "name": "Basim",
+          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Cliche Love Song - Another Version",
+      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "J'ai cherch\u00e9",
         "url": "https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 166893,
       "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
       "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Cliche Love Song",
-        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
-      },
-      "artists": [
-        {
-          "name": "Basim",
-          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Cliche Love Song - Another Version",
-      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "OKTA",
+        "url": "https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT"
+      },
+      "artists": [
+        {
+          "name": "KEiiNO",
+          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
+        }
+      ],
+      "duration_ms": 185157,
+      "name": "Spirit In The Sky",
+      "url": "https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "It's Been a While",
         "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
       },
@@ -1215,26 +1231,6 @@
       "duration_ms": 183093,
       "name": "Waterline",
       "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/2oEUzpZoU88zdrioGuiAGR"
-      },
-      "artists": [
-        {
-          "name": "Freaky Fortune",
-          "url": "https://open.spotify.com/artist/5cRocmkAjNUol2bK9v2Ce0"
-        },
-        {
-          "name": "Riskykidd",
-          "url": "https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Rise Up - Eurovision Version",
-      "url": "https://open.spotify.com/track/0HmQrQ3whzQgMTshgDR2F5"
     }
   ],
   "unique_name": "Eurovision Party",

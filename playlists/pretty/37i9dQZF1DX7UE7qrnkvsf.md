@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,061 likes - 394 songs - 23 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,043 likes - 394 songs - 23 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 41 | [Midnight Mood](https://open.spotify.com/track/21DBgFgwnYGspw2b2gfqZE) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Midnight Mood](https://open.spotify.com/album/00JwIcg9QId8yv41j8hsiF) | 2:58 |
 | 42 | [Shadows of You](https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Shadows of You](https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5) | 3:22 |
 | 43 | [Hidden Harmonies](https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Hidden Harmonies](https://open.spotify.com/album/2jIBxZzaQt8mlP9QVZQosN) | 3:19 |
-| 44 | [Elegy](https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY) | [Buss Quartet](https://open.spotify.com/artist/1OfER2aiowHuG93YnU0w7I) | [Elegy](https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj) | 3:51 |
+| 44 | [Elegy](https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Elegy](https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj) | 3:51 |
 | 45 | [Wind Dancer](https://open.spotify.com/track/32wWxPaGYRbkHHLI3bqoYz) | [Dreamland](https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj) | [Wind Dancer](https://open.spotify.com/album/32FSarmIZSQXG34jvKX324) | 3:01 |
 | 46 | [Imogene](https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Imogene](https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr) | 3:58 |
 | 47 | [Yellow Leaves](https://open.spotify.com/track/1hFSmCBEIQDDT61MASBKJU) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Yellow Leaves](https://open.spotify.com/album/4zGEufTsfC4N20XqkdmeeV) | 4:05 |
@@ -403,4 +403,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 393 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 |
 | 394 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 |
 
-Snapshot ID: `MCxlNjEzZTNmMWJiNDU2NmM1MzNmYWMxOGVjZWIzODNmNGFhMDIxOGU5`
+Snapshot ID: `MCwxZmMxNjIzNDRiZWU5NmI5MjVjN2ExYjFkN2VmYTNmOWVhZjY1ZWQ4`

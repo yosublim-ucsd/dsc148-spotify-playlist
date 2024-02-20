@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: PIcaretas de Fachada
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,023 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,031 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [algo me diz](https://open.spotify.com/track/7wxw2QHHLozLBrJlX01FBK) | [Marabu](https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc) | [DIMALOKA, Vol.1: Denso](https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC) | 2:42 |
 | 75 | [Sem Indícios](https://open.spotify.com/track/7gTXqvvcKYz4Gqmn358AjF) | [Redd AllFavela](https://open.spotify.com/artist/7dBIQV6aOgRUGFzvC3gTkt), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [RiverST](https://open.spotify.com/artist/5Qa5X4DyStWx7TS3wWkun8), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy), [AllFavela](https://open.spotify.com/artist/4DqW9Yj3JdScO6gSUlVyqS) | [Sem Indícios](https://open.spotify.com/album/2qdVlvKiOxwsMKwBxxokoT) | 2:28 |
 
-Snapshot ID: `MCw0NWZhNzExMDJmM2Y3NGYzYWFmNTY1NDgzOTBjMTJmYzU1YTE2Njhj`
+Snapshot ID: `MCwxNDA5YjQyOWI3MDkyMWU2ZGI1OTg0ZDIzMDk2MmZkODUyZTdlYzFm`

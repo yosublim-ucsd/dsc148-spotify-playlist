@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Assala.
 
-146 songs - 8 hr 35 min
+147 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Rfi2it Albi](https://open.spotify.com/track/1Z5JztzNkHe0OEm5Hyr9BJ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Rfi2it Albi](https://open.spotify.com/album/31IqjAVtCZOUsxGs4jR7YS) | 3:46 | 2022-07-16 |  |
 | [Sa Ahlomu](https://open.spotify.com/track/1HSnooSIVUi7P2x9qWIQm0) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Golden Album](https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D) | 3:16 | 2023-03-13 | 2023-04-02 |
 | [Sa Assiru Yawman](https://open.spotify.com/track/0iIQDfnA9g58xIQiaDtPg2) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Golden Album](https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D) | 5:07 | 2023-03-13 | 2023-04-11 |
+| [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 | 2024-02-19 |  |
 | [Saet Ramel](https://open.spotify.com/track/1w7gIItudYNNhP6Aq07oPA) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Saet Ramel](https://open.spotify.com/album/4SNrpzI2euaUL34MKkkohJ) | 3:39 | 2022-06-20 | 2023-07-28 |
 | [Salamat](https://open.spotify.com/track/0A4fwNrMiQpY7rIWrdmjaz) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:00 | 2022-05-04 | 2022-07-17 |
 | [Sandooq](https://open.spotify.com/track/4ttOChaYzhFiqncZzARrgg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Sandooq](https://open.spotify.com/album/64jn4SURcFj7jaySPuN7cm) | 5:44 | 2024-02-09 |  |

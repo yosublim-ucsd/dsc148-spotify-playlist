@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 0,
+  "2024-02-20": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -8040,6 +8040,24 @@
     },
     {
       "album": {
+        "name": "Live At The Print Shop",
+        "url": "https://open.spotify.com/album/78vpk67a7qWeo1hqcLjRSN"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178079,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/3yK0UZGl9XxNgl0OkMHBBr"
+    },
+    {
+      "album": {
         "name": "Heidrun",
         "url": "https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a"
       },
@@ -8421,7 +8439,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 385106,
       "name": "Holy War (Live at HMV Forum, London, UK, 14 December 2010)",
       "url": "https://open.spotify.com/track/06W0y2v7x5lQOnq4Gy8ZIe"
@@ -14400,6 +14418,24 @@
     },
     {
       "album": {
+        "name": "Live at HMV Forum, London, UK, 14 December 2010",
+        "url": "https://open.spotify.com/album/06rI2jgE1FJ47te1GiFCBo"
+      },
+      "artists": [
+        {
+          "name": "Asia",
+          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296440,
+      "name": "Only Time Will Tell (Live at HMV Forum, London, UK, 14 December 2010)",
+      "url": "https://open.spotify.com/track/7s0HpdwTsw7WRS5D0yZOgu"
+    },
+    {
+      "album": {
         "name": "Hot N' Ready In Texas - Live 1979",
         "url": "https://open.spotify.com/album/1Q9I57V80yF9uxIr5xeTIy"
       },
@@ -17493,7 +17529,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 406584,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0HdPN94TMhUWe1bbfyNg76"

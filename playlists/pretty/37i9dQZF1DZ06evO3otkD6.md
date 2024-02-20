@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,871 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,895 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 34 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 |
 | 35 | [Amigas Cheetahs](https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 4:06 |
 | 36 | [Be Free](https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:33 |
-| 37 | [Meu Menino \(Minha Menina\) \- Ao Vivo](https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Ao Vivo No Rio](https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6) | 4:10 |
-| 38 | [Amigos por Siempre](https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS) | [Martin](https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:14 |
+| 37 | [Eden](https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Eden](https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0) | 2:40 |
+| 38 | [Meu Menino \(Minha Menina\) \- Ao Vivo](https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Ao Vivo No Rio](https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6) | 4:10 |
 | 39 | [Dance With Me](https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL) | [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:12 |
-| 40 | [Eden](https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Eden](https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0) | 2:40 |
+| 40 | [Amigos por Siempre](https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS) | [Martin](https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:14 |
 | 41 | [Colorblind](https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Colorblind](https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw) | 3:25 |
 | 42 | [Alguien Mas](https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:13 |
 | 43 | [No Entiendo \- I Don't Understand You](https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 4:04 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 47 | [Te Quiero \(feat\. Belinda\) \- Spanglish](https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Te Quiero Maxi Single](https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H) | 3:25 |
 | 48 | [Aventuras En El Tiempo](https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [Aventuras En El Tiempo](https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq) | 2:40 |
 | 49 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 |
-| 50 | [Dame Más](https://open.spotify.com/track/2MOgE3TH2c9CapYnBvnlkp) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:09 |
-| 51 | [Culpable](https://open.spotify.com/track/5KgaJoG1aeBAz2zNFJKofQ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:55 |
+| 50 | [Culpable](https://open.spotify.com/track/5KgaJoG1aeBAz2zNFJKofQ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:55 |
+| 51 | [Dame Más](https://open.spotify.com/track/2MOgE3TH2c9CapYnBvnlkp) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:09 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA3NDc1YWJiMzkxMjlkZTFkYzIyZDdlYmQyMGEyNDk5MQ==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDBjZDg5NDFlN2ZmMjYzNGRlOTI0ZWYyMDk0ODAxNDU5OQ==`

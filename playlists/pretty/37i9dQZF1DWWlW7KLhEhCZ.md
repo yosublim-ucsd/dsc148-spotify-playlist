@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,799 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,805 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sem Sentimento](https://open.spotify.com/track/3oEkGJOJBH52fLFfiW59b8) | [Canalha](https://open.spotify.com/artist/6egerencVd9waJcHzuQA77), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Sem Sentimento](https://open.spotify.com/album/42kqhb5NxzcW2ZjK2m8QDM) | 2:27 |
 | 75 | [Barril](https://open.spotify.com/track/0CqjUcx94dcpnuSgubbOiL) | [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Os Piratas do Haxixe: Barril de Goblins \(Merla Extra\)](https://open.spotify.com/album/6m4lPNRFOr9YBktxknbcah) | 2:26 |
 
-Snapshot ID: `MCxhYmYzYzYyNTQ4YmI0NDg0NGVlOGM5MDJhM2YyYWEzYjVkOTBhZGRk`
+Snapshot ID: `MCwyYjdiNjc2OTBiYzYzY2NlMjkwNThjMTY2MDAxYjg0MmExYmY4MDhk`

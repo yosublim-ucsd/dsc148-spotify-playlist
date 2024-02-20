@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,131 likes - 47 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,165 likes - 47 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 46 | [Cantar de Tu Amor](https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:36 |
 | 47 | [Luz del Mundo](https://open.spotify.com/track/0qrFSjXsn1lecSDNQepSnc) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Luz del Mundo](https://open.spotify.com/album/6iLsSwfhvcF8WPu0pfSJeL) | 4:45 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA2NTlmMTM5NWQwYWE4MTRkZjMxNDczNDhmY2FkMTA4MQ==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDA3MGFlNzBhOGUxNDQ5YjdjYjJkMTc3NDY0N2U3ODdkYQ==`

@@ -1,12 +1,12 @@
 {
   "description": "The good ole days!!!!!!!! cover: Grimes ",
-  "num_followers": 134484,
+  "num_followers": 134606,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWFjMTQ4NzBiYzM0MjJjYTM0ZDBhMjI4NWIxMWRmYWQxZjMwOGNi",
+  "snapshot_id": "MCxlY2Q1MzA5NTU5NzllNTNmNDQwMGZkMmY2YWVlZjlmNzQ3M2I5YTA0",
   "tracks": [
     {
       "added_at": "2024-01-02 23:46:27",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 373626,
       "name": "Pursuit Of Happiness - Extended Steve Aoki Remix",
       "url": "https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
     },
     {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
       "added_at": "2023-09-05 20:03:48",
       "album": {
         "name": "(III)",
@@ -715,6 +699,22 @@
       "duration_ms": 192000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1087,6 +1087,38 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "The Warning",
+        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 347880,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
@@ -1103,18 +1135,34 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "The Warning",
-        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 347880,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "Little Secrets",
+      "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1151,38 +1199,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "Little Secrets",
-      "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "D.A.N.C.E",
         "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 211880,
       "name": "D.A.N.C.E - Radio Edit",
       "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "A Certain Trigger",
-        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
-      },
-      "artists": [
-        {
-          "name": "Maximo Park",
-          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Apply Some Pressure",
-      "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Give Up",
         "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 266346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "A Certain Trigger",
+        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Apply Some Pressure",
+      "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2"
-      },
-      "artists": [
-        {
-          "name": "Fischerspooner",
-          "url": "https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3"
-        }
-      ],
-      "duration_ms": 288306,
-      "name": "Emerge",
-      "url": "https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "The Con",
         "url": "https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 180533,
       "name": "Back in Your Head",
       "url": "https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2"
+      },
+      "artists": [
+        {
+          "name": "Fischerspooner",
+          "url": "https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3"
+        }
+      ],
+      "duration_ms": 288306,
+      "name": "Emerge",
+      "url": "https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o"
     },
     {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
-    },
-    {
       "added_at": "2023-09-05 20:03:48",
       "album": {
         "name": "Contra",
@@ -1631,6 +1615,22 @@
       "duration_ms": 145266,
       "name": "Cousins",
       "url": "https://open.spotify.com/track/0vxGpG3QTbioUTAToBAuBl"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     },
     {
       "added_at": "2023-09-05 19:58:53",

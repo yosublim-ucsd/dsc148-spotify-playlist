@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 81 songs - 4 hr 59 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 82 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 79 | [Don't Bring Me Down \- 2012 Version](https://open.spotify.com/track/4lVHGdYDG7TLNNZ5GMQjyj) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 1](https://open.spotify.com/album/4gGfNhFLBu74zGkNhJlQ0I) | 4:02 |
 | 80 | [Secret Messages](https://open.spotify.com/track/5wrSGPw1dbKsmZCM6gpqcS) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:43 |
 | 81 | [Four Little Diamonds](https://open.spotify.com/track/6dEGo0qXo7dyFtPh0UjTNG) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:05 |
+| 82 | [C'est la vie](https://open.spotify.com/track/0UhWFmdlrBSmZ7A6bFD8L9) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:14 |
 
-Snapshot ID: `MTEzLGQ3N2M5NDM3MTYxYzZkYTA0ODM4YzFkNjk1ZjA4N2RiZjk3YWUzYzg=`
+Snapshot ID: `MTE0LGIyOWRmM2IxYmRkZWQxMDFmZjA4MWRmYjk4NGNlODE0NzBlMGI0NjU=`

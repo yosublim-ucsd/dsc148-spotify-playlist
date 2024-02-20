@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55201,
+  "num_followers": 55254,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmJlYWE1NTZmYTE0YTJiOWIzN2ZhMjU4MjZiYmNjNTczZjFiOWFm",
+  "snapshot_id": "MCwwZDg5Y2MyMjJiMjA2YTY4ZGRhMjExNjAzOGU1YTc3MDA1OTVjMjgx",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Efeito Moral",
         "url": "https://open.spotify.com/album/5bWoFCqvQwN8Q93tbhNHCq"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Vestido Vermelho",
         "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Carinho",
+        "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Carinho",
+      "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Hip Hop Machine #13",
         "url": "https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 330901,
       "name": "Licor",
       "url": "https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Carinho",
-        "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Carinho",
-      "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -431,30 +431,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Hip Hop Machine #18",
-        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 357248,
-      "name": "Se Foi",
-      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "P\u00e2nico",
         "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
       },
@@ -495,22 +471,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Correria",
         "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
@@ -527,6 +487,46 @@
       "duration_ms": 146769,
       "name": "Noite em Febre",
       "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Hip Hop Machine #18",
+        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 357248,
+      "name": "Se Foi",
+      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
         "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
       },
@@ -627,6 +643,30 @@
       "duration_ms": 180000,
       "name": "Tempo Pra Pensar",
       "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "\u00cdn.ti.mo",
+        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
+      },
+      "artists": [
+        {
+          "name": "Aysha Lima",
+          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        },
+        {
+          "name": "DG Prod",
+          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
+        }
+      ],
+      "duration_ms": 187954,
+      "name": "PFP (para fazer pretinhos)",
+      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -671,42 +711,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+        "name": "Candeia",
+        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
         }
       ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "\u00cdn.ti.mo",
-        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
-      },
-      "artists": [
-        {
-          "name": "Aysha Lima",
-          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        },
-        {
-          "name": "DG Prod",
-          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
-        }
-      ],
-      "duration_ms": 187954,
-      "name": "PFP (para fazer pretinhos)",
-      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
+      "duration_ms": 199186,
+      "name": "Candeia",
+      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -723,22 +739,6 @@
       "duration_ms": 171500,
       "name": "DESLIGA O TELEFONE",
       "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Candeia",
-        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Candeia",
-      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
     },
     {
       "added_at": "2024-02-02 03:01:00",

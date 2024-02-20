@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,884 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,907 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [No Way to Heal](https://open.spotify.com/track/3gPaGEKEKPjWqxEwF1ILyf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:05 |
 | 50 | [Tread the Floods](https://open.spotify.com/track/59bz5j1ayQKehovzBFyCFj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade](https://open.spotify.com/album/42MixogSAsobX5po649Y0j) | 3:33 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA1ZDRmNjA1ZjIwZTI2ODJlNTVlMjkzMmEzY2UwNDQzMQ==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDA0YTI2ZmY3ZTg3MjMzN2RhZGFkOGIzYzdhMzBhYTUzNw==`

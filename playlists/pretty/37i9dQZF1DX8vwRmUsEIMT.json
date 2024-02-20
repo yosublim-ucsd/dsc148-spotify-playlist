@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Vampire Weekend ",
-  "num_followers": 542645,
+  "num_followers": 542652,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTM0MjRmNTY2YmQ0YWFiYTgzNWNjYjZmZWJmNmZmZmNlMGQwMGJk",
+  "snapshot_id": "MCw5ZjYzZTJhZTA4NDUxMjU0NzdmNDY3MjcxMmJlYjU4YzE1NTVmYWU2",
   "tracks": [
     {
       "added_at": "2024-02-16 00:00:00",
@@ -39,26 +39,6 @@
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and? (with Mariah Carey)",
-      "url": "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -99,18 +79,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "IDK",
-        "url": "https://open.spotify.com/album/6hpyQ2dUVBY8f2g4GumI9w"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8"
       },
       "artists": [
         {
-          "name": "Clavish",
-          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 198429,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/6KCYee1OzhVGlxwcUEyEiw"
+      "duration_ms": 214994,
+      "name": "yes, and? (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -161,6 +145,26 @@
       "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
     },
     {
+      "added_at": "2024-02-19 10:00:00",
+      "album": {
+        "name": "LAST OF US (feat. Rita Ora)",
+        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "LAST OF US (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
+    },
+    {
       "added_at": "2024-02-16 00:00:00",
       "album": {
         "name": "Silence Is Loud",
@@ -175,6 +179,22 @@
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/6hpyQ2dUVBY8f2g4GumI9w"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "duration_ms": 198429,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/6KCYee1OzhVGlxwcUEyEiw"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -239,6 +259,26 @@
       "duration_ms": 232239,
       "name": "system",
       "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
+    },
+    {
+      "added_at": "2024-02-19 10:00:00",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/2hnJIZC616Hzbp3d053wPC"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 129796,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/7K5RRMqYyFJsAEplmYLSBE"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -341,6 +381,34 @@
       "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
+      "added_at": "2024-02-19 10:00:00",
+      "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 215905,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
+    },
+    {
       "added_at": "2024-02-16 00:00:00",
       "album": {
         "name": "Too Much",
@@ -355,6 +423,22 @@
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "added_at": "2024-02-19 10:00:00",
+      "album": {
+        "name": "Sorrys & Ferraris",
+        "url": "https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "Sorrys & Ferraris",
+      "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1327,78 +1411,6 @@
       "duration_ms": 131900,
       "name": "Wanna Come Thru",
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/5wvfwEFmnrUsbmVi9mRT9N"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 173686,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "let them know they're on your mind",
-        "url": "https://open.spotify.com/album/7zqhZ5kzXNdsMCATAn99zp"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "let them know they're on your mind",
-      "url": "https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/0WkQauwdoWdnTyHE53ZBbm"
-      },
-      "artists": [
-        {
-          "name": "SwitchOTR",
-          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
-        },
-        {
-          "name": "Aisa",
-          "url": "https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ"
-        },
-        {
-          "name": "K1NG",
-          "url": "https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/1QBMPnuR6v9OB1VVxgJB5G"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "my mind (now)",
-        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 176418,
-      "name": "my mind (now)",
-      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
     }
   ],
   "unique_name": "All New All Now",

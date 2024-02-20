@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Rae Khalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,347,576 likes - 156 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,347,711 likes - 156 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 155 | [I Don't Mind](https://open.spotify.com/track/0BKP9mcDJOnIz3GHm07wP5) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 2:57 |
 | 156 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 |
 
-Snapshot ID: `MCw1YTIwYjBiNTcwZmI3ZWQwZTVlMDkwZTg1ZTQ4OWQ0Zjg4ZTc0OTdk`
+Snapshot ID: `MCwyOWYyMzk5NDI0ZTY0Njk5MDBiYWM3MmZmZDJhNDM4NjhiYjk1NWZm`

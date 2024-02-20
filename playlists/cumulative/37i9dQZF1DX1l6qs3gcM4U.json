@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Ansiedade",
+        "url": "https://open.spotify.com/album/61Mb2cWHMPmDQVIQj771R8"
+      },
+      "artists": [
+        {
+          "name": "Tony Fika",
+          "url": "https://open.spotify.com/artist/2eOz5uQonlXVK464N4pVUt"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210060,
+      "name": "Ansiedade",
+      "url": "https://open.spotify.com/track/4syuRr00gJt48uBY3XKJMz"
+    },
+    {
+      "album": {
         "name": "Vis\u00e3o",
         "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
@@ -4538,7 +4556,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 245800,
       "name": "Pele Negra",
       "url": "https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN"

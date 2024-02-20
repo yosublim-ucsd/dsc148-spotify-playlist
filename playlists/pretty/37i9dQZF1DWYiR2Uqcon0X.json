@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 723238,
+  "num_followers": 723256,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWVmMmJhMTk4OTUyOTM4NmE4MzhmZGVjODgzZWY4YmMwOTIyZTUx",
+  "snapshot_id": "MCw5OTk4NGJjMzU0ZTRkNTQyNTNiOTk3ZDg1NzU1Yjg4MzRkN2U1ODUy",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "Weed Garden",
+        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Whiskey And You",
-      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
+      "duration_ms": 195200,
+      "name": "Autumn Town Leaves",
+      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -171,34 +171,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Weed Garden",
-        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Autumn Town Leaves",
-      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+      "duration_ms": 236333,
+      "name": "Whiskey And You",
+      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -247,6 +231,22 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Dark Holler Pop",
+        "url": "https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 264173,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Numbered Doors",
         "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 207066,
       "name": "Girl Goin' Nowhere",
       "url": "https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Dark Holler Pop",
-        "url": "https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "hookup scene",
-      "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Far from Home",
         "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 187253,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "hookup scene",
+      "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Coming Down the Mountain",
-        "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
         }
       ],
-      "duration_ms": 273958,
-      "name": "Coming Down the Mountain",
-      "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+        "name": "Coming Down the Mountain",
+        "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
       },
       "artists": [
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+      "duration_ms": 273958,
+      "name": "Coming Down the Mountain",
+      "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 220275,
-      "name": "Swimming Alone",
-      "url": "https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 158960,
       "name": "Cheap Suit",
       "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "duration_ms": 220275,
+      "name": "Swimming Alone",
+      "url": "https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Sunday Best (Acoustic)",
-        "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
-      },
-      "artists": [
-        {
-          "name": "Smithfield",
-          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
-        }
-      ],
-      "duration_ms": 167535,
-      "name": "Sunday Best - Acoustic",
-      "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Wild Honey",
         "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 213826,
       "name": "Wild Honey",
       "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Sunday Best (Acoustic)",
+        "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
+      },
+      "artists": [
+        {
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "duration_ms": 167535,
+      "name": "Sunday Best - Acoustic",
+      "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
     },
     {
       "added_at": "2023-12-01 05:00:00",

@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 168265,
       "name": "Run For Your Life",
       "url": "https://open.spotify.com/track/6sNRcWEnMgaaB5SJz43Ikx"
@@ -650,6 +650,24 @@
       "duration_ms": 164706,
       "name": "Start a War",
       "url": "https://open.spotify.com/track/7GB8ZyFJsOZ6YXD5Qlr5Cx"
+    },
+    {
+      "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226734,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
     },
     {
       "album": {

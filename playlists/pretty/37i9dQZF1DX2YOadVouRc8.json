@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 22033,
+  "num_followers": 22075,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWM5MzUwMTM3ZTg4YjNjYmMxMTVjNWQ0ZjQyN2M3YjhmNWEzYzA3",
+  "snapshot_id": "MCxlMjRhMjdhOWU1NmMxODM3M2FhNDM1ZTc4ODA4M2NmOWFhMTA3ZmMy",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -599,26 +599,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+        "name": "What's Poppin",
+        "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
       "artists": [
         {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         },
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 211873,
-      "name": "TONIGHT (feat. Libianca & Jae5)",
-      "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
+      "duration_ms": 195426,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -643,22 +639,26 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "What's Poppin",
-        "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
       "artists": [
         {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 195426,
-      "name": "What's Poppin",
-      "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+      "duration_ms": 211873,
+      "name": "TONIGHT (feat. Libianca & Jae5)",
+      "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -907,6 +907,26 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Vawulence (Remix)",
         "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 174315,
       "name": "Vawulence (Remix)",
       "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Rora",
-        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 143762,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
-      },
-      "artists": [
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
+      },
+      "artists": [
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "L.I.T (Lost In Translation)",
-        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "40 Days",
-      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "No Shame",
         "url": "https://open.spotify.com/album/6nj9nvIsSYSezQPksr0cdj"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 165550,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/3y9iCvODKvCNhJxOurBKMK"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "L.I.T (Lost In Translation)",
+        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "40 Days",
+      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1403,6 +1403,42 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Jowo",
+        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 163130,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Sundress",
         "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
       },
@@ -1443,22 +1479,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1483,22 +1519,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Jowo",
-        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 163130,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Cincinnati Pumpin!!",
         "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 158064,
       "name": "4ever",
       "url": "https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
     },
     {
       "added_at": "2024-02-16 00:01:00",

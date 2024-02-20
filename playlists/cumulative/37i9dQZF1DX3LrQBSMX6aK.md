@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-117 songs - 1 day 2 hr 14 min
+118 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 | 2021-12-07 |  |
 | [Naina more tarase](https://open.spotify.com/track/2OP3zcIHsQmhr7FLNS7VyS) | [Piu Mukherjee](https://open.spotify.com/artist/1ccT0TPFhQ22JCgIH7hDar), [Emon Sarkar](https://open.spotify.com/artist/1kp7agAUErQy0sSd9uAq51), [Sudhendu Adhikary](https://open.spotify.com/artist/3pwwUYBpeVuWM5smc4rqI1), [Jyotirmoy Banerjee](https://open.spotify.com/artist/6Qm4nD6Y4CSNuAJRb4rEyn) | [Colors of Varanasi](https://open.spotify.com/album/6Qz9i0Ky8Hqzcsg4LoA6Xo) | 7:10 | 2023-11-24 |  |
 | [Naina more tarase](https://open.spotify.com/track/4pXhB61nwfUxUNjQIFT4S7) | [Piu Mukherjee](https://open.spotify.com/artist/1ccT0TPFhQ22JCgIH7hDar), [Emon Sarkar](https://open.spotify.com/artist/1kp7agAUErQy0sSd9uAq51), [Sudhendu Adhikary](https://open.spotify.com/artist/3pwwUYBpeVuWM5smc4rqI1), [Jyotirmoy Banerjee](https://open.spotify.com/artist/6Qm4nD6Y4CSNuAJRb4rEyn) | [Colors of Varanasi](https://open.spotify.com/album/0oqXnl3WDIAu51tgTeL1KK) | 7:10 | 2023-07-25 | 2024-01-05 |
+| [Najariya LoFi Cake Mix](https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 2:36 | 2024-02-19 |  |
 | [Nazariya Lag Jayegi](https://open.spotify.com/track/0iHfz3tCIDU323Z6oER2eF) | [Marina Ahmad](https://open.spotify.com/artist/2pGXU7y3nnjxjK2nvq7Bae) | [Nazariya Lag Jayegi](https://open.spotify.com/album/1FCH4k508ltzrqzS76BRkU) | 11:52 | 2023-06-16 | 2024-02-18 |
 | [Nazariya Lag Jayegi](https://open.spotify.com/track/47DPEg8w7WQ9Jm8H0LPscS) | [Marina Ahmad](https://open.spotify.com/artist/2pGXU7y3nnjxjK2nvq7Bae) | [Nazariya Lag Jayegi](https://open.spotify.com/album/6Jxxo9ji74zWHmp9Kiuaej) | 11:52 | 2023-11-24 |  |
 | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 | 2023-07-21 |  |

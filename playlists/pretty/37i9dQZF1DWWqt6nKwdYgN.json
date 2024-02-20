@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Gera MX y EMJAY en portada. ",
-  "num_followers": 13062,
+  "num_followers": 13073,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTFiNzc5YWRmNWFhNThkZTMxZjdiMDk4ODU0N2U4MDZhYTlkYmFm",
+  "snapshot_id": "MCxmMWExMDcxNDljNGZjYWJhOGMxYzA3MmUxMmYzZmFkMWExNDVjZWY2",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -871,6 +871,38 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Una Carta para Ti",
+        "url": "https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Una Carta para Ti",
+      "url": "https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "From Cavernas",
+        "url": "https://open.spotify.com/album/64LAL4F1Jr5xC7esPgqDEF"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "From Cavernas",
+      "url": "https://open.spotify.com/track/2HvbmNespiZlOgsIJd6ETu"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Agua Bendita",
         "url": "https://open.spotify.com/album/5E43YpkRr0eDPgiNwXzU6N"
       },
@@ -895,22 +927,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Una Carta para Ti",
-        "url": "https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Una Carta para Ti",
-      "url": "https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Una Leyenda Nunca Muere",
         "url": "https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg"
       },
@@ -923,38 +939,6 @@
       "duration_ms": 166500,
       "name": "Una Leyenda Nunca Muere",
       "url": "https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "From Cavernas",
-        "url": "https://open.spotify.com/album/64LAL4F1Jr5xC7esPgqDEF"
-      },
-      "artists": [
-        {
-          "name": "Chystemc",
-          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "From Cavernas",
-      "url": "https://open.spotify.com/track/2HvbmNespiZlOgsIJd6ETu"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 216134,
-      "name": "Millonaria",
-      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 189397,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/0t1aa9a3LsT9dsRZIJEL8J"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 216134,
+      "name": "Millonaria",
+      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Van a Hablar de Mi",
+        "url": "https://open.spotify.com/album/7hjlmGFCb7K1Pzvd9Fmu29"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 156750,
+      "name": "Van a Hablar de Mi",
+      "url": "https://open.spotify.com/track/4ZyoyD3J3wC9LKUHFr4w6s"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0vKEA8tVlS3ZAba9CWuRiJ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 223361,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/1TcbvR0qvhA07FZvMShKjb"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Van a Hablar de Mi",
-        "url": "https://open.spotify.com/album/7hjlmGFCb7K1Pzvd9Fmu29"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "Van a Hablar de Mi",
-      "url": "https://open.spotify.com/track/4ZyoyD3J3wC9LKUHFr4w6s"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Cuando Ya Est\u00e9 Muerto",
-        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Cuando Ya Est\u00e9 Muerto",
-      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Camino Firme",
         "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
       },
@@ -1335,6 +1319,38 @@
       "duration_ms": 142417,
       "name": "Camino Firme",
       "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Cuando Ya Est\u00e9 Muerto",
+        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Cuando Ya Est\u00e9 Muerto",
+      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 169875,
       "name": "La Pelicula",
       "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1871,18 +1871,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Imaginando Voy",
-        "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
+        "name": "Intento Tras Intento",
+        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
       },
       "artists": [
         {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         }
       ],
-      "duration_ms": 162866,
-      "name": "Imaginando Voy",
-      "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
+      "duration_ms": 184000,
+      "name": "Intento Tras Intento",
+      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1931,22 +1935,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Intento Tras Intento",
-        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
+        "name": "Imaginando Voy",
+        "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
       },
       "artists": [
         {
-          "name": "El Muisca",
-          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Intento Tras Intento",
-      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+      "duration_ms": 162866,
+      "name": "Imaginando Voy",
+      "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -2043,26 +2043,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Japan Trip",
-        "url": "https://open.spotify.com/album/4jNcsKzxjFtjFqTPCKXGcH"
+        "name": "Bendici\u00f3n o Desgracia",
+        "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
         },
         {
-          "name": "AKLO",
-          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
-        },
-        {
-          "name": "MIYACHI",
-          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
         }
       ],
-      "duration_ms": 237439,
-      "name": "Vida Callejera",
-      "url": "https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04"
+      "duration_ms": 163723,
+      "name": "Bendici\u00f3n o Desgracia",
+      "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -2099,46 +2095,42 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Bendici\u00f3n o Desgracia",
-        "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
+        "name": "Japan Trip",
+        "url": "https://open.spotify.com/album/4jNcsKzxjFtjFqTPCKXGcH"
       },
       "artists": [
         {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
         },
         {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
         }
       ],
-      "duration_ms": 163723,
-      "name": "Bendici\u00f3n o Desgracia",
-      "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
+      "duration_ms": 237439,
+      "name": "Vida Callejera",
+      "url": "https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04"
     },
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Escorpi\u00f3n",
-        "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
+        "name": "El Poder y la Traici\u00f3n",
+        "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
       },
       "artists": [
         {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "Rodesens",
-          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
-        },
-        {
-          "name": "InVnerable",
-          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 172925,
-      "name": "Escorpi\u00f3n",
-      "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
+      "duration_ms": 244904,
+      "name": "El Poder y la Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
     }
   ],
   "unique_name": "Rimas Frescas ",

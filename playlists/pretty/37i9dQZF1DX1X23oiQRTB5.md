@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Werenoi au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,480,709 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,070 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [HRTBRK \#7](https://open.spotify.com/track/3opEx8XXOQ9nv1tLdKhLdc) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#7](https://open.spotify.com/album/13de85MorIzPbSp7cE2642) | 3:04 |
 | 40 | [LOYAL](https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LOYAL](https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf) | 3:48 |
 
-Snapshot ID: `MCwwMjJiNzdhZDgzZjRkZDJmMzhiYjE1NTY4YjFhMGQxZmRiMDAyZjk1`
+Snapshot ID: `MCwxZTI3OWFlNjc2ZjgxN2E3YTM4ZDRkNTI0MTMxYmQ4OGVlYTE5MDI4`

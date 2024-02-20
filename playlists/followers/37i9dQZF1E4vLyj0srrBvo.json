@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 24211,
+  "2024-02-20": 24230,
   "date_first_scraped": "2020-10-16",
   "description": "With FKA twigs, Crystal Castles, Purity Ring and more",
   "name": "Grimes Radio",
@@ -329,7 +329,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 270982,
       "name": "4\u00c6M",
       "url": "https://open.spotify.com/track/4keclC0eBhQm8lFtYmX01K"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 172473,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m"
@@ -1409,6 +1409,24 @@
       "duration_ms": 244056,
       "name": "Angels of Sweat",
       "url": "https://open.spotify.com/track/1bbxH38nE64r6iuiJsZUv7"
+    },
+    {
+      "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160518,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2RZWiishrE4Tygv9R7zuZe"
     },
     {
       "album": {
@@ -3917,7 +3935,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 147441,
       "name": "Bloom For Me",
       "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
@@ -4171,7 +4189,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 237800,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
@@ -4427,7 +4445,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 225000,
       "name": "Brian is the Most Beautiful",
       "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
@@ -7791,7 +7809,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 258186,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA"
@@ -8069,7 +8087,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
@@ -8235,7 +8253,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "Duvet",
       "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
@@ -8437,7 +8455,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 107853,
       "name": "Eight",
       "url": "https://open.spotify.com/track/0z469se40CjMQBHosv73sz"
@@ -9495,7 +9513,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 192080,
       "name": "Feel It All Around",
       "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
@@ -9859,7 +9877,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 177093,
       "name": "Flim",
       "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
@@ -10225,7 +10243,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 126315,
       "name": "Frenesi - Machine Girl GabberTrap Mix",
       "url": "https://open.spotify.com/track/3wt5rmyeDO4ScM5fsKI33Y"
@@ -10611,7 +10629,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 185454,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4JG8MhCVmEM458N4Xl7VMT"
@@ -11181,7 +11199,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 283053,
       "name": "Golden Light",
       "url": "https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe"
@@ -11221,7 +11239,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
@@ -13491,7 +13509,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 161462,
       "name": "i was all over her",
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
@@ -14707,7 +14725,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
@@ -14765,7 +14783,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 155565,
       "name": "Johanna",
       "url": "https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z"
@@ -14783,7 +14801,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 225306,
       "name": "Journal of Ardency",
       "url": "https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE"
@@ -15551,7 +15569,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 244946,
       "name": "Lemon Glow",
       "url": "https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy"
@@ -16723,7 +16741,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 140526,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6uQlgKdPaBpSRRLyCFEQj8"
@@ -17409,7 +17427,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 199413,
       "name": "Master of None",
       "url": "https://open.spotify.com/track/3stWWPN41byqp8loPdy92u"
@@ -18053,7 +18071,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 147355,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/4H97Ldkl4dvkGbcfqZxUhJ"
@@ -19459,7 +19477,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 167864,
       "name": "Not Allowed",
       "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
@@ -20885,7 +20903,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 115053,
       "name": "Petals",
       "url": "https://open.spotify.com/track/3G7hlx1gFFE7oNnTbqb2fy"
@@ -23295,7 +23313,7 @@
       ],
       "date_added": "2020-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 140140,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/0i7AGJG9DX0vI1w798IVKZ"
@@ -23683,7 +23701,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 139840,
       "name": "sex money feelings die",
       "url": "https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf"
@@ -25073,7 +25091,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 233106,
       "name": "Soft Shock",
       "url": "https://open.spotify.com/track/4Ku70eDzBKu5EP3oH7Ki9v"
@@ -25397,7 +25415,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -25419,6 +25437,24 @@
       "duration_ms": 253093,
       "name": "SPARK",
       "url": "https://open.spotify.com/track/2KaEuSRVOTIGmIuZOZRi7N"
+    },
+    {
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "album": {
@@ -25763,7 +25799,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 149090,
       "name": "Stay Ugly",
       "url": "https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3"
@@ -27159,7 +27195,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
@@ -27289,7 +27325,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
@@ -28155,7 +28191,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
@@ -29059,7 +29095,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 220616,
       "name": "Violence - Original Mix",
       "url": "https://open.spotify.com/track/3KeOFns3LGJuh1lapMm9eA"
@@ -29593,7 +29629,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
@@ -31159,7 +31195,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 189003,
       "name": "\u0422\u043e\u0441\u043a\u0430",
       "url": "https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,621 likes - 100 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,687 likes - 100 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
 | 100 | [Sunsets in Marrakech](https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk) | 6:18 |
 
-Snapshot ID: `MCwzMjVkOTg0Njg0NzU5YmQ0ODY1OTU3ODcwZGEzOTZlMDI3MGQ2NDhm`
+Snapshot ID: `MCw1MTIxOWIxOGE4Mjk1MmZkMzg4Mjc0MjcwYzQ1MGFkZjVlMmY4ODg5`

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 623192,
+  "num_followers": 623242,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNThjZTVlYWJiZDk0M2UyYWQzMGJjMjA2ZWY3MDc0ZThiMmVlNTk1",
+  "snapshot_id": "MCwzYTgzNDcyMDA1YjM1ZmFhOTBhMjA5NDEzY2JjYjY3YmQxYjQyMzJh",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Ich & meine Maske (Premium Version)",
+        "url": "https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Augen auf",
+      "url": "https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "Casia Deluxe",
         "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
       },
@@ -171,38 +187,6 @@
       "duration_ms": 218106,
       "name": "Alles wird gut",
       "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Ich & meine Maske (Premium Version)",
-        "url": "https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Augen auf",
-      "url": "https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "0,9 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
-      },
-      "artists": [
-        {
-          "name": "SSIO",
-          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
-        }
-      ],
-      "duration_ms": 232434,
-      "name": "Nullkommaneun",
-      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -243,6 +227,22 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "0,9 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "duration_ms": 232434,
+      "name": "Nullkommaneun",
+      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "Am Wasser gebaut",
         "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
       },
@@ -275,6 +275,26 @@
       "duration_ms": 196946,
       "name": "Rhythmus meines Lebens",
       "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Heavy Metal Payback",
+        "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "F\u00fcr immer jung",
+      "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -335,26 +355,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Heavy Metal Payback",
-        "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "F\u00fcr immer jung",
-      "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+        "name": "Samy Deluxe",
+        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+      "duration_ms": 343226,
+      "name": "Weck mich auf",
+      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Samy Deluxe",
-        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 343226,
-      "name": "Weck mich auf",
-      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Kompass ohne Norden (Premium Edition)",
+        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
+      },
+      "artists": [
+        {
+          "name": "Prinz Pi",
+          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Kompass ohne Norden",
+      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "Hinterland",
         "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 301173,
       "name": "Walpurgisnacht",
       "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Kompass ohne Norden (Premium Edition)",
-        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
-      },
-      "artists": [
-        {
-          "name": "Prinz Pi",
-          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Kompass ohne Norden",
-      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Zeiten \u00e4ndern dich",
+        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Zeiten \u00e4ndern dich",
+      "url": "https://open.spotify.com/track/4YZxwEHbmwwgdvhAUDwFXz"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "Hahnenkampf",
         "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Zeiten \u00e4ndern dich",
-        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Zeiten \u00e4ndern dich",
-      "url": "https://open.spotify.com/track/4YZxwEHbmwwgdvhAUDwFXz"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 274640,
-      "name": "F\u00fcchse",
-      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "Bossaura",
         "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 213813,
       "name": "All 4 One",
       "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Freiheit",
+        "url": "https://open.spotify.com/album/2WlEcoKtbsgH5Vtu9l11d1"
+      },
+      "artists": [
+        {
+          "name": "Curse",
+          "url": "https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi"
+        },
+        {
+          "name": "Silbermond",
+          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Bis zum Schluss (feat. Silbermond)",
+      "url": "https://open.spotify.com/track/1UW6Rf2rDz3XkHqnVZuHUu"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

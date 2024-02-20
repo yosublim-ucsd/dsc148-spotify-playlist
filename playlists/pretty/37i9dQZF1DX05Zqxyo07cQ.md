@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,577 likes - 206 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,640 likes - 206 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 205 | [Unveiled](https://open.spotify.com/track/4INn3PNrEaJ46wiMnjXLq6) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Face Of The Earth](https://open.spotify.com/album/0KgvZMkUou2JzuClwR2iOg) | 2:11 |
 | 206 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 |
 
-Snapshot ID: `MCxjYmVlZDlmNzc1MjRmZTgzODQ4YjFjMmY5MTJkMWE2MzdiOTQ5ZGVk`
+Snapshot ID: `MCxlYTcxNzIxZGYzN2FlZjkxZmVkMzg2YmIzYWQ5MjdiYWY5ZGU1ZTkz`

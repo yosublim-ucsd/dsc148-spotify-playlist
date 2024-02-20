@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Anuv Jain
 
-237 songs - 13 hr 27 min
+238 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aao Chalein](https://open.spotify.com/track/0wNf3Yk11625KJ6mDkEjzu) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj) | 3:05 | 2022-07-25 | 2023-01-18 |
 | [Aao Chalein](https://open.spotify.com/track/4LX8OArGCZ3hS0imHepe83) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/4mMnTBM6r70UINlb5Ag6jA) | 3:05 | 2022-01-05 | 2022-07-29 |
 | [Aarzoo](https://open.spotify.com/track/26buvjxi64EHjKs2vfdZkf) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Aarzoo](https://open.spotify.com/album/4fpwyrMEdb0e9EDoSvSgqW) | 3:25 | 2021-12-06 | 2022-06-15 |
+| [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2024-02-19 |  |
 | [Absolute](https://open.spotify.com/track/362kqwSxB52iW2t6LcPveG) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Absolute](https://open.spotify.com/album/4UeiOPQE3Qxe8bo5U3jJZb) | 3:23 | 2021-12-06 | 2022-01-06 |
 | [Absolute](https://open.spotify.com/track/6q023Qd7l69MSdZRG7Gy2W) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 3:23 | 2022-01-05 | 2022-03-22 |
 | [Ae Re Sakhi](https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Ae Re Sakhi](https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI) | 3:42 | 2022-01-10 | 2023-08-22 |
@@ -121,7 +122,7 @@
 | [Khaali Si Rooh](https://open.spotify.com/track/6VoAyZQ3LDhrySUdI1XHzP) | [Athul Prabhu](https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6) | [Khaali Si Rooh](https://open.spotify.com/album/724wbbB0GTCGXVQAOW5yYQ) | 3:02 | 2022-07-25 | 2022-08-23 |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2022-01-05 | 2023-11-07 |
 | [Khaare Raste](https://open.spotify.com/track/5gQJZ484gEcVHD2OCuquik) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/5QQ7MFhhD8E4AhcynAFsfY) | 4:06 | 2023-11-06 |  |
-| [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-21 |  |
+| [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-21 | 2024-02-20 |
 | [Khamoshi](https://open.spotify.com/track/3t07ms95QIBxBzcdF3P4CA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Khamoshi](https://open.spotify.com/album/7lWycnEMRXAuuNs7t9dQxy) | 3:09 | 2022-01-05 | 2022-08-31 |
 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 | 2022-11-28 |  |
 | [Kho Gaye](https://open.spotify.com/track/5iaKalECn9aYPfh9w07yOX) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 3:17 | 2022-11-02 | 2022-11-17 |

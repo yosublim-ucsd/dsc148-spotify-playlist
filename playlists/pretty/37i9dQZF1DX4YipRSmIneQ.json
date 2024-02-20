@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 78827,
+  "num_followers": 78856,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjUzNmI4NzI5Y2NjYTM0YTUxNThiNDg0NGQ5MWMzYjI5ZjY1YmI5",
+  "snapshot_id": "MCw0MGU2MmI0NjRiNDQ4ZmFmYmMyNTgxYmQzOGE0MWIxMzA1YTMxZjBh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -495,6 +495,26 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw"
+      },
+      "artists": [
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        },
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "BUBBLEGUM",
         "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
       },
@@ -571,26 +591,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Yoga",
-        "url": "https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw"
-      },
-      "artists": [
-        {
-          "name": "Only Fire",
-          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
-        },
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Yoga",
-      "url": "https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "Box of Chocolates",
         "url": "https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5"
       },
@@ -603,26 +603,6 @@
       "duration_ms": 257959,
       "name": "Cunty - Wave Edit",
       "url": "https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Dance Trax, Vol. 36",
-        "url": "https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT"
-      },
-      "artists": [
-        {
-          "name": "Jensen Interceptor",
-          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
-        },
-        {
-          "name": "DJ Fuckoff",
-          "url": "https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm"
-        }
-      ],
-      "duration_ms": 332051,
-      "name": "Boy U Nasty",
-      "url": "https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -643,6 +623,26 @@
       "duration_ms": 137206,
       "name": "Horsey",
       "url": "https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "Dance Trax, Vol. 36",
+        "url": "https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT"
+      },
+      "artists": [
+        {
+          "name": "Jensen Interceptor",
+          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
+        },
+        {
+          "name": "DJ Fuckoff",
+          "url": "https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm"
+        }
+      ],
+      "duration_ms": 332051,
+      "name": "Boy U Nasty",
+      "url": "https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Flip Phone",
+        "url": "https://open.spotify.com/album/5aDvo88fakKfXfZ42frgX4"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "duration_ms": 195621,
+      "name": "Flip Phone",
+      "url": "https://open.spotify.com/track/6OXN9vB93VDyD4TYAkbH1U"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Vibrate EP",
         "url": "https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe"
       },
@@ -899,30 +915,6 @@
       "duration_ms": 237109,
       "name": "Bunny Is A Rider - Doss Remix",
       "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "ELASTIC",
-        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
-      },
-      "artists": [
-        {
-          "name": "ZDBT",
-          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
-        },
-        {
-          "name": "Prado Monroe",
-          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
-        },
-        {
-          "name": "Slim Media Player",
-          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "ELASTIC",
-      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
     }
   ],
   "unique_name": "Sweat.",

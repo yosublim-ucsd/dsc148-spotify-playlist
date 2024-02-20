@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,556 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,574 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 59 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 |
 | 60 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 |
 
-Snapshot ID: `MCxkMzhmMDcwZDAwMjliMmI3NDUyZDc3Nzk1YTk0NTQ5ZDhhZjM4NWRh`
+Snapshot ID: `MCw4NjQ5N2MwYTUxMTUwMTI5MzE0NmNjMTAxNGFmMDdiMDIzZjYzNjc2`

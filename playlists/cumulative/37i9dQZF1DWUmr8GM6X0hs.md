@@ -4,7 +4,7 @@
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-137 songs - 7 hr 18 min
+138 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Busco Tu Recuerdo](https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [Sonora Malecon Club](https://open.spotify.com/artist/0KumvinlqqxSHrL1gNjPza) | [Mis Mejores Éxitos](https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 | 2021-12-17 |  |
 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 | 2021-12-17 |  |
-| [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 | 2021-12-17 |  |
+| [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 | 2021-12-17 | 2024-02-20 |
 | [Cien Años](https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6) | [Infante](https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj) | [30 Grandes De Infante](https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc) | 3:23 | 2021-12-17 |  |
 | [Cien Años](https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 3:42 | 2021-12-17 |  |
 | [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 | 2021-12-17 | 2022-09-03 |
@@ -122,6 +122,7 @@
 | [Sabor a Mí](https://open.spotify.com/track/6KdZx53HkoPOgQAvhLq56A) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/3hO8uhdSJfkTLwGaMSKmxP) | 2:41 | 2021-12-17 | 2022-07-29 |
 | [Se Rompio la Cadena](https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643) | [El Super Trio](https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo) | [Musica...Recuerdo Inolvidable](https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl) | 2:39 | 2021-12-17 | 2024-02-08 |
 | [Se Rompió la Cadena](https://open.spotify.com/track/6JCFs0N5bnHXH2RPg3Uvfp) | [El Super Trio](https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo) | [Boleros Cantineros](https://open.spotify.com/album/5bPGJyg1OoOEVdjm30pMO8) | 2:36 | 2021-12-17 | 2022-07-29 |
+| [Se Rompió la Cadena](https://open.spotify.com/track/22djihsFEnRFJ42k64Sj8w) | [El Super Trio](https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo) | [15 Tesoros Musicales](https://open.spotify.com/album/54k9wS0XdU5p0bQOOgVkjn) | 2:36 | 2023-12-20 |  |
 | [Sendas Distintas](https://open.spotify.com/track/2SFlZm3IwkX5qiYhDaEzvK) | [Trío Los Brillantes](https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S) | [Los Grandes del Pasillo](https://open.spotify.com/album/7Iqm7uKjtd2fZ8XvwBE9hu) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [Sendas Distintas](https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv) | [Trío Los Brillantes](https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S) | [Época de Oro](https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx) | 3:14 | 2021-12-17 | 2023-10-31 |
 | [Sentencia](https://open.spotify.com/track/2DuisbY7oSf7cTZHuhDDIb) | [Arturo "Zambo" Cavero](https://open.spotify.com/artist/57r5TRhcLSOAxl2zntsPMM) | [Boleros! \(Hoy Se Casa Mi Amor / Sentencia\) \- Single](https://open.spotify.com/album/3p1kn1SxlDH3LjBPBfMA0d) | 3:13 | 2021-12-17 | 2022-07-25 |

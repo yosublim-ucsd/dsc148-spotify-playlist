@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 262073,
+  "num_followers": 262254,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTYzNzViYjIzOTQxYmQ0ZmJiNTllMGJhNzViNjUzYmU1ZDI5MDdj",
+  "snapshot_id": "MCwzNDc0NzJmMDYyMjhjZmJjNTQzMDY0ZDI4MzhkZWFmYjJhZmNjMTIx",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 209098,
-      "name": "Just Give Me Jesus",
-      "url": "https://open.spotify.com/track/16v6WFYCpJXa8XP13hI8Pd"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Jesus You're Beautiful",
         "url": "https://open.spotify.com/album/35APoYSnxEKFA3qXt84Rba"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 222000,
       "name": "Jesus You're Beautiful",
       "url": "https://open.spotify.com/track/0w0y2IcrltLTDt0yzEsgS9"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 209098,
+      "name": "Just Give Me Jesus",
+      "url": "https://open.spotify.com/track/16v6WFYCpJXa8XP13hI8Pd"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Love Unending",
-        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
-      },
-      "artists": [
-        {
-          "name": "Ry Cox",
-          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
-        }
-      ],
-      "duration_ms": 270467,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Call on Your Name",
         "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 309173,
       "name": "Call on Your Name",
       "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Love Unending",
+        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
+      },
+      "artists": [
+        {
+          "name": "Ry Cox",
+          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
+        }
+      ],
+      "duration_ms": 270467,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Different Story",
-        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
-      },
-      "artists": [
-        {
-          "name": "Jon Thurlow",
-          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Closer Than a Brother",
         "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Different Story",
+        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
+      },
+      "artists": [
+        {
+          "name": "Jon Thurlow",
+          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
-      },
-      "artists": [
-        {
-          "name": "Finding Favour",
-          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
-        }
-      ],
-      "duration_ms": 221684,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Magnified (Acoustic)",
-        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
       },
       "artists": [
         {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
         }
       ],
-      "duration_ms": 211800,
-      "name": "Magnified (Acoustic)",
-      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Magnified (Acoustic)",
+        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Magnified (Acoustic)",
+      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 317000,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 316946,
       "name": "Just As I Am (Nothing to Prove)",
       "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 216436,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1711,22 +1727,6 @@
       "duration_ms": 243653,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Bridges",
-        "url": "https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 216436,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
     },
     {
       "added_at": "2023-07-28 04:01:00",

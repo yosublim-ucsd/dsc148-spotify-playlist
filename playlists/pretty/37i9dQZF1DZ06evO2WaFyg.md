@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,430 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,485 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 50 | [Climax \(feat\. 6lack\)](https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [On the Run](https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO) | 3:09 |
 | 51 | [Wyclef Jean](https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 3:56 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDAzOWFmZWY4MzJlNWIzM2FiODBmMTgwZTU1Y2JiZTFjZA==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDA4N2M3NDM0YzA4OTIwZjIwMDQ0ZTNlYTAyMTM3YmIyNw==`

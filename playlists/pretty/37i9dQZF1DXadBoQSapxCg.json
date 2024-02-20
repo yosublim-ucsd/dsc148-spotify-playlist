@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308434,
+  "num_followers": 308563,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY4NjZlZTE4MDg5MTUyZmIyOGM2MjI2MmEzNzdmMDFkM2U0ZGQ1",
+  "snapshot_id": "MCxkYTIyMGUwMGM4M2EwOGM1MjU0NDM2YTJjMTE5MWEyN2IyNzRlODI3",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -191,30 +191,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm"
-      },
-      "artists": [
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        },
-        {
-          "name": "Konai",
-          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
-        },
-        {
-          "name": "Mazili",
-          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Bluesman",
         "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
       },
@@ -235,30 +211,26 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm"
       },
       "artists": [
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
         },
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
         },
         {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "Mazili",
+          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
         }
       ],
-      "duration_ms": 193697,
-      "name": "S\u00f3 me ligar",
-      "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
+      "duration_ms": 184841,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -343,6 +315,34 @@
       "duration_ms": 154374,
       "name": "Aladdin",
       "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 193697,
+      "name": "S\u00f3 me ligar",
+      "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "DISK",
-        "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "DISK",
-      "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 140596,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "DISK",
+        "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "DISK",
+      "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -1135,6 +1135,30 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
+        "name": "Apela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Chibatinha",
+          "url": "https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Apela\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
-        "name": "Apela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Chibatinha",
-          "url": "https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Apela\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
     },
     {
       "added_at": "2023-11-24 17:02:27",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-772 songs - 1 day 21 hr 10 min
+773 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Extraordinary](https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG) | 4:01 | 2021-03-27\* | 2021-12-11 |
 | [Face\-off](https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:49 | 2023-03-25 | 2023-03-28 |
 | [Fact Check](https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 | 2023-10-07 | 2023-12-15 |
-| [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-08-29 | 2024-02-19 |
+| [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-08-29 |  |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-07-05 | 2023-09-20 |
 | [Far](https://open.spotify.com/track/3HxtdKRmw0BNUs4VM7uYvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:36 | 2021-09-19 | 2021-09-20 |
 | [far away](https://open.spotify.com/track/7bJ6jD8vlKDU2lmur1lMjp) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [the other side](https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N) | 3:13 | 2022-08-27 | 2023-08-28 |
@@ -453,7 +453,7 @@
 | [Style](https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-10-30 | 2023-11-04 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-02 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-28 | 2023-02-05 |
-| [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2022-09-12 |  |
+| [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2022-09-12 | 2024-02-20 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 | 2023-06-07 | 2024-01-10 |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2021-05-11 | 2022-07-03 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-08 | 2023-10-30 |
@@ -591,6 +591,7 @@
 | [ดอกไม้ไฟ \- Firework](https://open.spotify.com/track/5SolgEp0EAXjruwQdszykB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [ดอกไม้ไฟ \(Firework\)](https://open.spotify.com/album/6FFl3LEYxCdUFKJibcgveE) | 3:19 | 2021-03-27\* | 2022-03-26 |
 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 | 2023-09-06 |  |
 | [ดีอะ](https://open.spotify.com/track/51dQjsWks0m45F8ILYYVuY) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [ดีอะ](https://open.spotify.com/album/0MqgHeODgUF5nxOZGNvMOo) | 3:27 | 2021-05-25 | 2021-05-27 |
+| [ดีใจรึเปล่า](https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ดีใจรึเปล่า](https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE) | 4:08 | 2024-02-19 |  |
 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 | 2021-11-28 | 2022-02-17 |
 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 | 2024-01-05 | 2024-01-13 |
 | [ตัวเลือก ตัวรอ \(Can't Have It All\)](https://open.spotify.com/track/0rVOPDyrWtAH6Bmxu3FSJh) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ตัวเลือก ตัวรอ \(Can't Have It All\)](https://open.spotify.com/album/3EiC1jM8fMEbEayQrlb0Og) | 3:40 | 2022-10-29 | 2022-11-11 |
@@ -714,7 +715,7 @@
 | [เดินมาส่ง \- BYE](https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เดินมาส่ง \(BYE\)](https://open.spotify.com/album/0gHWs2N0DKlZHGcJpvpeCA) | 3:25 | 2023-05-19 |  |
 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 | 2023-03-06 | 2023-04-06 |
 | [เด็กเกินไป \(Too Young\)](https://open.spotify.com/track/48qHdp4mhFenZIBhejBqGU) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เด็กเกินไป \(Too Young\)](https://open.spotify.com/album/67cqHFhyafs48bApZD1xZW) | 3:46 | 2023-05-05 | 2023-05-23 |
-| [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/4Yg2lUUPVk9oqbR4ubQ6BU) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 4:12 | 2023-09-17 |  |
+| [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/4Yg2lUUPVk9oqbR4ubQ6BU) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 4:12 | 2023-09-17 | 2024-02-20 |
 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 | 2023-09-11 | 2023-09-18 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 | 2023-04-29 | 2023-12-13 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/6DDPLoOXlHq44YrJGbhLYF) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/24cbTGdqDMQqIuhHqg39Dj) | 4:37 | 2023-03-13 | 2023-04-30 |

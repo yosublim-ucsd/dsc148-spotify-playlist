@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 3595,
+  "2024-02-20": 3697,
   "date_first_scraped": "2024-01-13",
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
   "name": "exams 2024",
@@ -5399,7 +5399,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 112000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/3lYQ3kdb5YVZ038kG3BMkf"
@@ -8251,6 +8251,24 @@
       "duration_ms": 122142,
       "name": "The Day Before Yesterday",
       "url": "https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J"
+    },
+    {
+      "album": {
+        "name": "the deep sea",
+        "url": "https://open.spotify.com/album/60BoudET7QMDno2pcRrsH5"
+      },
+      "artists": [
+        {
+          "name": "Boba Ti",
+          "url": "https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131611,
+      "name": "the deep sea",
+      "url": "https://open.spotify.com/track/1wGGlZgpgyXK3f3VvC4pmY"
     },
     {
       "album": {

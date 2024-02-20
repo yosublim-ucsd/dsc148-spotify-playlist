@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 12340,
+  "num_followers": 12346,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGI4OWVmNDRlZjA2YWEyZGE2MzhjNDA3OTljNzg1Njk2MDY0ZmEx",
+  "snapshot_id": "MCw3MWQ4NGJlYTlhYTgyZDJhNzUzZmY1ODliZGYzMjRiZTY1NDhjM2Ix",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -183,6 +183,26 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Chant Down Babylon",
+        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 328826,
       "name": "The Blacker The Berry",
       "url": "https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Chant Down Babylon",
-        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Turn Your Lights Down Low",
-      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Thursday (Original)",
-        "url": "https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 350583,
-      "name": "The Birds Pt. 2",
-      "url": "https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "4:44",
         "url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 174426,
       "name": "Marcy Me",
       "url": "https://open.spotify.com/track/5oynsOy80DnodTslgaj3cr"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Thursday (Original)",
+        "url": "https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 350583,
+      "name": "The Birds Pt. 2",
+      "url": "https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 329133,
-      "name": "Jezebel",
-      "url": "https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Care Package",
         "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 240217,
       "name": "4pm in Calabasas",
       "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 329133,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K"
     },
     {
       "added_at": "2022-10-01 16:57:49",

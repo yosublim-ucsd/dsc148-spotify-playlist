@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 
 > Music from and inspired by Neflix's Malcolm & Marie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,761 likes - 36 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,794 likes - 36 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 14 | [Mixed Up Moods and Attitudes](https://open.spotify.com/track/7kDE6spnyw98C7KHHnvbRP) | [The Fantastic Four](https://open.spotify.com/artist/17kU4eEW33U7UfY8JIOsBi) | [Got to Have Your Love / B.Y.O.F \(Bring Your Own Funk\)](https://open.spotify.com/album/1R9VomvhFkcQTlCsRNoEmJ) | 5:35 |
 | 15 | [The Odd Couple](https://open.spotify.com/track/09mhTDBTeHQIR7K305ciC6) | [Billy May & His Orchestra](https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw) | [Ultra\-Lounge: TV Town](https://open.spotify.com/album/0Eghpe2sSG7lMEHyHwahfZ) | 2:17 |
 | 16 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
-| 17 | [Only Trust Your Heart](https://open.spotify.com/track/11ZdsvOq4eWKiZkgg4TS5x) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Brasil](https://open.spotify.com/album/75fbhUok6AALC0oNZ4Qz0Z) | 4:27 |
+| 17 | [Only Trust Your Heart \- Live At Café Au Go\-Go,1964](https://open.spotify.com/track/175CBVqMDwIV0b2AvC00Jy) | [The New Stan Getz Quartet](https://open.spotify.com/artist/1KPXBL5bib3e0ejBIqHC6c), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz Au Go Go](https://open.spotify.com/album/6QRnSOOnQtoETsFxtj43Qu) | 4:34 |
 | 18 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 19 | [We're Still Friends \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/6gb4OcL7ILY32IE68rNpQN) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 5:11 |
 | 20 | [You're All I Need To Get By](https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd) | 2:53 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 35 | [Yum Yum \(Gimme Some\)](https://open.spotify.com/track/3cxfUgWIrj0is6kZBED65i) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Yum Yum](https://open.spotify.com/album/4Oe5MlkhpHuFmE98mPOKGD) | 3:18 |
 | 36 | [Wasted](https://open.spotify.com/track/5RP8iEkPFR3GyjaAdswIiH) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [BRAT](https://open.spotify.com/album/5yi3uqaTijrp5KVbvk6BIA) | 4:24 |
 
-Snapshot ID: `MCw3NDBkZTUxZDg2ZjFkMTEzYjVmOGRmNzUzM2ExMWFlM2VlMWY3ZGUw`
+Snapshot ID: `MCw4NmE0MDA1ZmVlOTc0OTlkODM3ZmNmZWQ4NTI1NmJmYWUzYzkyNzQ5`

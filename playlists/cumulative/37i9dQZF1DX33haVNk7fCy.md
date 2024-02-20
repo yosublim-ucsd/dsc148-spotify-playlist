@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-96 songs - 6 hr 21 min
+97 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 | 2023-05-15 |  |
 | [Dhaaga](https://open.spotify.com/track/4yrsSQgfXaHuPQ4prMPvzV) | [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6), [Big Scratch](https://open.spotify.com/artist/5YlvUMiPPR0aT4pfeGlq6u) | [Khaali Panne](https://open.spotify.com/album/6rq6XwTPgShV3wlGkVciqy) | 3:41 | 2023-11-06 |  |
 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 | 2023-08-09 |  |
-| [Duur Hai Wo](https://open.spotify.com/track/2xdKGuM3SMXYxZIytizcVP) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/21ZHoICkVEBGFnoNiSPhBz) | 4:42 | 2023-09-12 |  |
+| [Duur Hai Wo](https://open.spotify.com/track/2xdKGuM3SMXYxZIytizcVP) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/21ZHoICkVEBGFnoNiSPhBz) | 4:42 | 2023-09-12 | 2024-02-20 |
+| [Duur Hai Wo](https://open.spotify.com/track/3olwUushs40IlG40wbBsvr) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/3Jrd8GXryjIK39nm5BIlUj) | 4:42 | 2024-02-13 |  |
 | [Duur Hai Wo](https://open.spotify.com/track/2yR3f7t0N1pp48mChKq9Kt) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/5zSrIDdqyNIVdGJiT9d46P) | 4:45 | 2023-05-15 | 2023-09-15 |
 | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/track/50Emj7dvfU5NTCQsS7ECJ7) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/album/0qHOnEEAja3oeBJQDp7zGY) | 5:25 | 2023-05-15 |  |
 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2023-05-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: BAER
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,104 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,108 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [Terracotta](https://open.spotify.com/track/3yycg2Wzo2Rv3t4nTdQiq8) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Terracotta](https://open.spotify.com/album/5SkfmA6JHn14iV0vxtOtpb) | 2:03 |
 | 50 | [Feel It](https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feel It](https://open.spotify.com/album/5kGOAASVomzriytdsAT08e) | 2:53 |
 
-Snapshot ID: `MCw5YjY2NzU3M2QzYmNlNmJmN2FlZmVkZTlmNTQ3MjcxMWZiZjI5ZGUy`
+Snapshot ID: `MCw0ZWZiZTQwM2Y4YzdlNzY4NzJmNDRhMjk5NGI2YzZjNDE2ZmY1OGFm`

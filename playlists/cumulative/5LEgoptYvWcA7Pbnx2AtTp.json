@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Pillows & Therapy",
+        "url": "https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194024,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/0UhWFmdlrBSmZ7A6bFD8L9"
+    },
+    {
+      "album": {
         "name": "Spirit Phone",
         "url": "https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI"
       },

@@ -4,7 +4,7 @@
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-256 songs - 11 hr 13 min
+257 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [El Boogie De La Guitarra](https://open.spotify.com/track/48cEguH7oiubCgVL6T3YK3) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 3:03 | 2020-04-17 | 2022-07-29 |
 | [El Boogie de la Guitarra](https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 3:04 | 2020-04-17 |  |
 | [El caramelero](https://open.spotify.com/track/6H7jjJ2WPXdM56DkYams4s) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Idolos del Rock & Roll \- Alberto Vazquez](https://open.spotify.com/album/1k4042gbahCtD4v3viiQ8L) | 3:05 | 2020-04-17 | 2022-07-14 |
-| [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 | 2020-04-17 |  |
+| [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 | 2020-04-17 | 2024-02-20 |
 | [El Juego de Simon](https://open.spotify.com/track/2U02m7NXtYdD4WVMGD6U9i) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/0yk0LbkAcV5SaOJMOsDWJO) | 2:24 | 2020-04-17 | 2022-07-29 |
 | [El Juego de Simon](https://open.spotify.com/track/6zviEOLUAWV9fRxPJBPWfu) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:25 | 2020-04-17 |  |
 | [El Martillito](https://open.spotify.com/track/02VHQTO2yHdTvO0USliMky) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Idolos del Rock](https://open.spotify.com/album/3noLqOqUNBHAklGVJBfivo) | 2:14 | 2020-04-17 | 2022-05-26 |
@@ -100,7 +100,7 @@
 | [El Pecador](https://open.spotify.com/track/5k6fOcv3B7sE6V1uZ5kwb6) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Exitos Baladas \- Alberto Vazquez](https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX) | 3:20 | 2020-04-17 | 2022-07-29 |
 | [El Primer Beso](https://open.spotify.com/track/7zU8MbMRmSUs5opM9z5Kdh) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 2:41 | 2020-04-17 | 2022-07-21 |
 | [El Primer Beso](https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 2:42 | 2020-04-17 |  |
-| [El Tigre](https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 1](https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp) | 2:12 | 2020-04-17 | 2024-02-11 |
+| [El Tigre](https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 1](https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp) | 2:12 | 2020-04-17 |  |
 | [El Tigre](https://open.spotify.com/track/4bIUG6hvKOsVzbuBprHXuH) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Idolos del Rock](https://open.spotify.com/album/3noLqOqUNBHAklGVJBfivo) | 2:12 | 2020-04-17 | 2022-06-08 |
 | [Ella No Está Ahí](https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:32 | 2020-04-17 | 2022-11-13 |
 | [Es Lupe \(Hang on Sloopy\)](https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:18 | 2020-04-17 |  |
@@ -111,6 +111,7 @@
 | [Fue en un Cafe](https://open.spotify.com/track/1hZnDaUq0F8VLn800aAbJK) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 3:11 | 2020-04-17 | 2023-01-27 |
 | [Fue en un Cafe](https://open.spotify.com/track/0kPv89kbdck3kuZnsJ4t32) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/5YIaqX4l18vFQ0fcYSq0kU) | 3:03 | 2020-04-17 | 2022-07-29 |
 | [Fue en un Cafe](https://open.spotify.com/track/2HQTezBLYHy67n3JCMb49m) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:03 | 2020-04-17 |  |
+| [Fue en un café](https://open.spotify.com/track/36MXZ6wttRMN0wJ0ZewucH) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Nostalgia pop en español](https://open.spotify.com/album/1qvzz0OVAUajh3lLPOuP5H) | 3:10 | 2020-04-17 |  |
 | [Fue en un café \- Under the Boardwalk](https://open.spotify.com/track/6xzsOx1wiwlzFMbBSHPndb) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 2](https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO) | 3:10 | 2020-04-17 | 2022-07-29 |
 | [Gracias por el Recuerdo](https://open.spotify.com/track/31KJnspiQtvxwob0cMjxxc) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Idolos del Rock de los 60's: Enrique Guzman](https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA) | 2:34 | 2020-04-17 | 2022-07-20 |
 | [Haciendote el Amor](https://open.spotify.com/track/2YJLNtaV9ELglBVHymlKHk) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Polvora](https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq) | 1:59 | 2020-04-17 | 2022-07-29 |
@@ -148,7 +149,7 @@
 | [La Plaga](https://open.spotify.com/track/0bnx1Uil9gj7G1J6DIN0pN) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Los Grandes Idolos \- Teen Tops](https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5) | 2:22 | 2020-04-17 | 2022-07-29 |
 | [La Plaga](https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 2:23 | 2020-04-17 |  |
 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/7yPAsPa7EOp1w3PT6ng0l8) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:14 | 2020-04-17 | 2022-07-29 |
-| [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 | 2020-04-17 |  |
+| [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 | 2020-04-17 | 2024-02-20 |
 | [La Última Vez](https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:44 | 2020-04-17 |  |
 | [Lagrimas de Cristal](https://open.spotify.com/track/1yBSWdmQqj9c6wG8s9UmRw) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrión Vol 1](https://open.spotify.com/album/0fk66YEv4fDJXhJ2UHdy1n) | 2:26 | 2020-04-17 | 2022-07-29 |
 | [Lagrimas de Cristal](https://open.spotify.com/track/239DMvPN5JBfsPW2Xm5KZS) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrión, Vol 1](https://open.spotify.com/album/7yyuDFKQipWrq5IR7AudTx) | 2:27 | 2020-04-17 | 2022-09-28 |

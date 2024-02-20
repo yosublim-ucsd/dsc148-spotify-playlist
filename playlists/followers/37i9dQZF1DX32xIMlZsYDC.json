@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 18583,
+  "2024-02-20": 18585,
   "date_first_scraped": "2023-10-15",
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
   "name": "Piano para Despertar",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 160086,
       "name": "Asilah",
       "url": "https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts"
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o"

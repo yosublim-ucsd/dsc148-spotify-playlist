@@ -4,7 +4,7 @@
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 洪佩瑜 \(Pei\-Yu Hung\)
 
-475 songs - 1 day 8 hr 24 min
+476 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [你是說謊的人](https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:52 | 2022-11-02 | 2023-04-05 |
 | [你的愛比我重要 \(W劇場《因為你如此耀眼》片尾曲\)](https://open.spotify.com/track/3SQliXBU61AQOg5ZM8WMyR) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [你的愛比我重要](https://open.spotify.com/album/3dKTJoKUyGq0yLfRoNnHKg) | 4:00 | 2023-07-04 | 2023-09-06 |
 | [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 | 2024-02-06 |  |
-| [你說](https://open.spotify.com/track/2HKExvYvJMad0dvNIQzjAV) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [小太空](https://open.spotify.com/album/7HOLLUFkSB7xjy4UYdwiAX) | 4:34 | 2023-08-01 |  |
+| [你說](https://open.spotify.com/track/2HKExvYvJMad0dvNIQzjAV) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [小太空](https://open.spotify.com/album/7HOLLUFkSB7xjy4UYdwiAX) | 4:34 | 2023-08-01 | 2024-02-20 |
+| [你說](https://open.spotify.com/track/48nPKi9fSR38Q0TMOwdAxf) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [小太空](https://open.spotify.com/album/2TpMMUlG9HgMZudmMpCndd) | 4:34 | 2024-02-06 |  |
 | [你說了算](https://open.spotify.com/track/4J319m0DG9yuiVWYuTDS0c) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 4:06 | 2022-10-04 | 2023-03-02 |
 | [來不及](https://open.spotify.com/track/0ZN05GKriP1kNvRQGViOGq) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [我從來不是幽默的女生](https://open.spotify.com/album/7IqhJQ1shsgk1rMbZfjIeG) | 5:16 | 2022-05-31 | 2022-07-06 |
 | [信任的樣子](https://open.spotify.com/track/5HB7YNphVVj7SFqErOaZYM) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [My Life Will...](https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu) | 4:21 | 2022-03-07 | 2022-04-07 |

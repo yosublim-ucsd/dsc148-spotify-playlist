@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 131344,
       "name": "Better People To Leave On Read",
       "url": "https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 160693,
       "name": "Bible Belt",
       "url": "https://open.spotify.com/track/5AON00DcAqzMBIxGl0IHm3"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 216314,
       "name": "Big Dumb Heart",
       "url": "https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 202246,
       "name": "Bruno is Orange",
       "url": "https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v"
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 136500,
       "name": "Fictional Men",
       "url": "https://open.spotify.com/track/71TpZr9DjZqTMNMMSBYh8d"
@@ -2070,6 +2070,36 @@
       "duration_ms": 170774,
       "name": "Fuck The Supreme Court (Rant Song)",
       "url": "https://open.spotify.com/track/4V2cyPgdRKrK2MxMsk5m5U"
+    },
+    {
+      "album": {
+        "name": "EPIC: The Troy Saga (Original Concept Album)",
+        "url": "https://open.spotify.com/album/2j94jmFiOvCwS8Oj6br91A"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Armando Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/6bVYQ4OCT9GIoQF5W6mVTj"
+        },
+        {
+          "name": "Steven Dookie",
+          "url": "https://open.spotify.com/artist/6rLqxfVk0nnbaIgAbuQRHa"
+        },
+        {
+          "name": "EPIC Ensemble",
+          "url": "https://open.spotify.com/artist/35Xs1OZ4WgpeqUTkjkX7lf"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Full Speed Ahead",
+      "url": "https://open.spotify.com/track/27otPRH67DpOsyNtSiM54v"
     },
     {
       "album": {
@@ -6058,6 +6088,36 @@
       "duration_ms": 244880,
       "name": "What If",
       "url": "https://open.spotify.com/track/1ENH0YTu0OiRykq00M9Z0c"
+    },
+    {
+      "album": {
+        "name": "Descendants 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Thomas Doherty",
+          "url": "https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg"
+        },
+        {
+          "name": "Dylan Playfair",
+          "url": "https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190720,
+      "name": "What's My Name",
+      "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
     },
     {
       "album": {

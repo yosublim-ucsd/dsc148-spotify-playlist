@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Are We Having Fun?",
+        "url": "https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191599,
+      "name": "Where Do I Sign?",
+      "url": "https://open.spotify.com/track/5Myf2whTzO5haXrfeisXG8"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },

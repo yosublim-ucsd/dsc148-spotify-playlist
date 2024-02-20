@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9759,
+  "num_followers": 9756,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTgyNjY0YzU5ODIyNDJmZWJiNmUwNTZlZWU3MDc2M2ViNTE2N2Zh",
+  "snapshot_id": "MCw2MjEyYTZkOTFiMWM3ZGNlNWIzMWRlYmJhYzkzZDJkMDRlMDFjMWMz",
   "tracks": [
     {
       "added_at": "2024-01-08 09:00:08",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2024-01-08 09:00:08",
+      "album": {
         "name": "The Hyena on the Keyboard, Pt. 4",
         "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 231654,
       "name": "Don\u2019t",
       "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
-    },
-    {
-      "added_at": "2024-01-08 09:00:08",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2024-01-08 09:00:08",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
-    },
-    {
-      "added_at": "2024-01-08 09:00:08",
-      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
+    },
+    {
+      "added_at": "2024-01-08 09:00:08",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
     },
     {
       "added_at": "2024-01-08 09:00:08",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
+        "name": "CEO-dol Mart (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 181625,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
+    },
+    {
+      "added_at": "2024-01-08 09:00:08",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
-    },
-    {
-      "added_at": "2024-01-08 09:00:08",
-      "album": {
-        "name": "CEO-dol Mart (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO"
-      },
-      "artists": [
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 181625,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
     },
     {
       "added_at": "2024-01-08 09:00:08",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+    },
+    {
+      "added_at": "2024-01-08 09:00:08",
+      "album": {
         "name": "My First June",
         "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 196920,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+      "duration_ms": 225125,
+      "name": "busy guy",
+      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     },
     {
       "added_at": "2024-01-08 09:00:08",
@@ -859,22 +875,6 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2024-01-08 09:00:08",
-      "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
-      },
-      "artists": [
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "busy guy",
-      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     }
   ],
   "unique_name": "\uc378 (Something)",

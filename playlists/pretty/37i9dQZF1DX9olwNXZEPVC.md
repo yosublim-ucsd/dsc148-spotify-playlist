@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > NSWER! Change up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,650 likes - 45 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,739 likes - 45 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 | 44 | [Thank you for waiting us!](https://open.spotify.com/track/66Nedi5HluuBBCKMC5ykWe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 |
 | 45 | [Coming SOON!](https://open.spotify.com/track/2hUDKmh08dMdMMTBRt8ic9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 |
 
-Snapshot ID: `MCwzZDJiNzI4MTFkYTgxNDdhNjExMWQwOGNjMTliOTFhMDUwOTQzOGI3`
+Snapshot ID: `MCw0ZWFlYmM0ZjZiZDI2ZTU5YWNiMmI5NmQyN2IyOGFmNzA5M2JjNWE2`

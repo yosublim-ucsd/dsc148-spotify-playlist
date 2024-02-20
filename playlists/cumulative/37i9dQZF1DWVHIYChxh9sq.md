@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-414 songs - 22 hr 59 min
+415 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [El Benny \- EN VIVO](https://open.spotify.com/track/38qQbHiywt2aYRxchpWWgG) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Grupo Nuevo Equipo En Vivo \(EN VIVO\)](https://open.spotify.com/album/79q5VNMJBRIT2DBJOg6X6c) | 3:03 | 2022-05-12 | 2022-12-09 |
 | [El Bolas \- En Vivo](https://open.spotify.com/track/4lhldlzpzmMeKGNpqCywp3) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servandozl](https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR) | 2:52 | 2022-12-08 | 2023-03-18 |
 | [El Borrachito](https://open.spotify.com/track/4j3qQV7fFl0NjRlTKOH8QB) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Borrachito](https://open.spotify.com/album/7svTDK5fDSivVyXNvxwTvO) | 3:24 | 2022-05-12 | 2022-12-09 |
+| [El Buho](https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL) | 2:56 | 2023-09-26 |  |
 | [El Buho](https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb) | 2:56 | 2022-05-12 | 2024-02-18 |
 | [El Búho \- En vivo](https://open.spotify.com/track/2ca33MiWXy5JR0ELVH6SXj) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 3 \(En vivo\)](https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn) | 2:55 | 2022-05-12 | 2022-12-09 |
 | [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 | 2022-12-08 |  |
@@ -303,7 +304,7 @@
 | [Me Gusta Tu Vieja \- En Vivo](https://open.spotify.com/track/3wka8qC0K5TYW4hrFY040p) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 5:45 | 2022-05-12 | 2022-12-09 |
 | [Me Llamas](https://open.spotify.com/track/72mSN0UGqyPgoFuj1CmqZm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [\(EN VIVO\) con Banda Sinaloense La Tuyia de Culiacán, Sinaloa](https://open.spotify.com/album/7fH3B249lIrp6YapI1HHEy) | 4:42 | 2022-05-12 | 2022-07-29 |
 | [Me Llamas \- En Vivo](https://open.spotify.com/track/4pAHKSc9AbM5JUKlTFBiAD) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 4:42 | 2022-05-12 | 2022-12-09 |
-| [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2) | 2:54 | 2022-05-12 |  |
+| [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2) | 2:54 | 2022-05-12 | 2024-02-20 |
 | [Me Vale Madre](https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragedias de Mi Pueblo \(Con Banda\)](https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg) | 4:13 | 2022-05-12 |  |
 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/4Bi9dcIokRS8KP5dSSQfL5) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo CDMX](https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT) | 3:24 | 2022-05-12 | 2022-12-09 |
 | [Medley: Cuanto Me Gusta Este Rancho / Besos Y Cerezas \- En Vivo](https://open.spotify.com/track/3TPl1naewrD2S74fmdi3nu) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Parranda De Los Amigos \(Vol\. 2 / En Vivo\)](https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX) | 4:33 | 2022-05-12 | 2022-12-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Teto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,841 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,032 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 |
 | 50 | [THE BOX MEDLEY 6](https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q) | [THE BOX MEDLEY 6](https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ) | 4:01 |
 
-Snapshot ID: `MCw1ZWEyOWZlYjI3MGE0YTVhZDNhNWZjYThiYWJlMzY2NGU1NzQ2YjM4`
+Snapshot ID: `MCw1M2Q1YzUyM2Y1MjY0NjY4NjdkMGNlYTg5MTYwZTg3ZjllM2I1OTBm`

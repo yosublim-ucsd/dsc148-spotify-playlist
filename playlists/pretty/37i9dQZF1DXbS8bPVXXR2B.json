@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 227517,
+  "num_followers": 227543,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy",
+  "snapshot_id": "MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The 12\" Collection And More (Funk Essentials)",
-        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "Outstanding - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The 12\" Collection And More (Funk Essentials)",
+        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Leon Ware",
-        "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
-      },
-      "artists": [
-        {
-          "name": "Leon Ware",
-          "url": "https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Why I Came to California",
-      "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Leon Ware",
+        "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
+      },
+      "artists": [
+        {
+          "name": "Leon Ware",
+          "url": "https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Why I Came to California",
+      "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "World",
+        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 327560,
+      "name": "Exotica Dance Club",
+      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Straight From The Heart",
         "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 540986,
       "name": "Disco Hi - Life",
       "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "World",
-        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 327560,
-      "name": "Exotica Dance Club",
-      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 320851,
       "name": "Today Is the Day - Linkwood Chop",
       "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Jackson Sisters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FEznXemFQRRv1lf0aH8OZ"
+      },
+      "artists": [
+        {
+          "name": "Jackson Sisters",
+          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "I Believe In Miracles - 7\" Version",
+      "url": "https://open.spotify.com/track/7cnurYkLGrwfZyoQDmo0e1"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Dancing in Outer Space",
         "url": "https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 284985,
       "name": "Lypso Illusion",
       "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Ashewo Ara",
-        "url": "https://open.spotify.com/album/16zlOZC4ck0f6p2NHsZFmN"
-      },
-      "artists": [
-        {
-          "name": "Kabbala",
-          "url": "https://open.spotify.com/artist/4BwyiOrl6JLvblu0RhIWee"
-        }
-      ],
-      "duration_ms": 361983,
-      "name": "Ashewo Ara",
-      "url": "https://open.spotify.com/track/0xnN6Hy5feKHIKdAbH7F7F"
     }
   ],
   "unique_name": "Disco Hi-Life",

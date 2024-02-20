@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 156097,
       "name": "CITYCAR (Abbronzatissima) [feat. Edoardo Vianello]",
       "url": "https://open.spotify.com/track/00H5jLi7wHrDLyHDpZKvtY"
@@ -1326,6 +1326,32 @@
       "duration_ms": 153808,
       "name": "Male",
       "url": "https://open.spotify.com/track/0BrwoWkbdxvvFnJohaw2pp"
+    },
+    {
+      "album": {
+        "name": "MALEDETTO TI AMO",
+        "url": "https://open.spotify.com/album/35g3bYMHoEfG5VWXfSXjcj"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Mameli",
+          "url": "https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168288,
+      "name": "MALEDETTO TI AMO",
+      "url": "https://open.spotify.com/track/6uIelKqZn0fR7AUL7ixNIt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,390,947 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,391,318 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [La Luna](https://open.spotify.com/track/5eKKGdnKtWcLA2oq4MChrH) | [Diego Infanzon](https://open.spotify.com/artist/0FftQDGCw3QAW32UH6z4TA) | [Oscuridad Lunar EP](https://open.spotify.com/album/2QqgEk0W1LeTUaxX5tMqGe) | 5:36 |
 | 60 | [Paulus](https://open.spotify.com/track/4LNMpGnLPMy44Ojm1ME9I9) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/3hxZY3I3EEj1IriFow919T) | 6:15 |
 
-Snapshot ID: `MCw5ODIzYzdlMWQxMzMxNGEyNWMxMDdlZDFiYzAwODgwZjhiOGRlZTE4`
+Snapshot ID: `MCxkZTdiMzEzNWUxYzNkMmUxOGI4NDg4ZjVlMzdlZGY5OTVmMGFmZDcw`

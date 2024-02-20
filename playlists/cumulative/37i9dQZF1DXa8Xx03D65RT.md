@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1.6.18](https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [1.6.18](https://open.spotify.com/album/5BmneWRR8U5ATZzJhXgCB4) | 2:29 | 2022-05-27 | 2023-09-24 |
+| [1.6.18](https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [1.6.18](https://open.spotify.com/album/5BmneWRR8U5ATZzJhXgCB4) | 2:29 | 2022-05-27 |  |
 | [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 | 2022-05-27 | 2023-08-28 |
 | [A French Film](https://open.spotify.com/track/72eFRpAOIUP4W5LF9pBydT) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [A French Film](https://open.spotify.com/album/2JmiWAL0pcAGTBatnbPcp4) | 2:19 | 2023-12-18 |  |
 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 | 2023-08-21 |  |
@@ -519,7 +519,7 @@
 | [Potomac](https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq) | [Fiona Astier](https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4) | [Potomac](https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE) | 2:10 | 2022-05-27 | 2023-03-13 |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2022-05-27 | 2023-08-15 |
 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-25 |  |
-| [Precious Amber](https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Precious Amber](https://open.spotify.com/album/6nWS9DqVLr3NG8MXg17VYv) | 2:13 | 2022-05-27 |  |
+| [Precious Amber](https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Precious Amber](https://open.spotify.com/album/6nWS9DqVLr3NG8MXg17VYv) | 2:13 | 2022-05-27 | 2024-02-20 |
 | [Prelude](https://open.spotify.com/track/7oQaKrNNFpzgGprrD8oirn) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Silent season](https://open.spotify.com/album/223FCnAQ89tkeqnNHMqF4G) | 3:23 | 2023-01-20 |  |
 | [Prelude In A\-Flat](https://open.spotify.com/track/26ufMVgpojM835miVaoTZG) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Prelude In A\-Flat](https://open.spotify.com/album/1cAx6BheD7zUvHlhr0S4Ph) | 2:40 | 2022-05-27 | 2022-09-24 |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2022-05-27 | 2022-09-24 |

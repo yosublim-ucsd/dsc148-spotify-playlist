@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 74 | [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 |
 | 75 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 
-Snapshot ID: `MCwzZTI5OTE0NGYxNzc4M2IwNzAxYWU2M2JkNmFhZDMyNmI5NWZjMDdh`
+Snapshot ID: `MCxjOGEzZWEyM2UwNDlmOWI2ZTllNjFiMjYwNTI4ZDZmNzAxY2VjOWJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 
 > Enjoy the world of “COWBOY BEBOP”! アニメ「カウボーイビバップ」の世界を1つのプレイリストで！©SUNRISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,437 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,466 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 | 49 | [Power Of Kung Food Remix](https://open.spotify.com/track/24iinTSs3SnvI4JtdmtmWF) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 2 \- No Disc\)](https://open.spotify.com/album/4GeRMwOn7610GFgQ49Y9qd) | 5:28 |
 | 50 | [Black Coffee](https://open.spotify.com/track/3vZpQuIGEFQrMApF9yJReA) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Vitaminless](https://open.spotify.com/album/0J2DObt0HybwYP91obpHRy) | 3:14 |
 
-Snapshot ID: `MCxkYzQ0ZTg4MjY0YTBlODAxODdhNDA0OGZjODU4NmMyZmE1ZmQ0ODFk`
+Snapshot ID: `MCxjNzg1NTkwZmVjMDc4NzYwYzQwZTA4NjFmYmE1ZmM5MGRlZTBjMTIx`

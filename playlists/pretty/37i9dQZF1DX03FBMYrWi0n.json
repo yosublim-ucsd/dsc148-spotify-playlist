@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Corridor",
-  "num_followers": 4117,
+  "num_followers": 4121,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjdhNzliMmIxOTlhYzgzMGJmODYxZmVkMDAwYjhjYmZkOWE3Mzgz",
+  "snapshot_id": "MCxjMWI2MTNlYTkzNmJjZDRkMzBjYjdmODA5ZjFhNTE0YzAyM2QzYWYz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Grafignes",
+        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Trou d'eau",
+      "url": "https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Baloney suicide",
         "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Grafignes",
-        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
       "artists": [
         {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
         }
       ],
-      "duration_ms": 197666,
-      "name": "Trou d'eau",
-      "url": "https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5"
+      "duration_ms": 108066,
+      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
+      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -403,18 +419,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
       "artists": [
         {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 108066,
-      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
-      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
+      "duration_ms": 211920,
+      "name": "Cantalou",
+      "url": "https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -431,22 +447,6 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Cantalou",
-      "url": "https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
-        "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
-      },
-      "artists": [
-        {
-          "name": "Backxwash",
-          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
-        },
-        {
-          "name": "Ada Rook",
-          "url": "https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY"
-        }
-      ],
-      "duration_ms": 298336,
-      "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
-      "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
+        "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
+      },
+      "artists": [
+        {
+          "name": "Backxwash",
+          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
+        },
+        {
+          "name": "Ada Rook",
+          "url": "https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY"
+        }
+      ],
+      "duration_ms": 298336,
+      "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
+      "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Gants blancs",
+        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 214792,
+      "name": "Gants blancs",
+      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Darl\u00e8ne",
         "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 190284,
       "name": "veux veux pas",
       "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Gants blancs",
-        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 214792,
-      "name": "Gants blancs",
-      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "blood pareil",
-        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "blood pareil",
-      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Temp\u00eate",
         "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 242800,
       "name": "Le grand \u00e9cart",
       "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "blood pareil",
+        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "sadguitar_V777.wav",
-        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
-      },
-      "artists": [
-        {
-          "name": "Emma Beko",
-          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
-        }
-      ],
-      "duration_ms": 237022,
-      "name": "sadguitar_V777.wav",
-      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 220607,
       "name": "Feu de for\u00eat",
       "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "sadguitar_V777.wav",
+        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "duration_ms": 237022,
+      "name": "sadguitar_V777.wav",
+      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Dehd
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,368 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,405 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Cows](https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu) | [Silicone Prairie](https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0) | [Cows](https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio) | 3:41 |
 | 125 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 
-Snapshot ID: `MCw5NzRhZTM5OGFmOGVmMjEzMDc0YjhmMTc3ODgyM2E1YzY4MzY3OTc2`
+Snapshot ID: `MCxiOWQzYzViMWQyOWUzODdiZDQ4OTRjMjY1NTVmMDA4MDM5MjM4ZjNh`

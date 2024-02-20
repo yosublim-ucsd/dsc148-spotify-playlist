@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 413823,
+  "num_followers": 413804,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmNjZjg3ZjkwNDU2MTQ0MWI2YjM5OWFhZjUxNjk3ODhkYmU3ZmM2",
+  "snapshot_id": "MCw1NWE5ZGNhOTY4MWZlYzFmYWZkNTE0OTIwZTA1ZjExNjAxZDU4MjM0",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -251,6 +251,30 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Quebra Cabe\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Quebra Cabe\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Aulas e Cursos",
         "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
       },
@@ -323,8 +347,24 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Quebra Cabe\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
+        "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
       },
       "artists": [
         {
@@ -340,25 +380,9 @@
           "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Quebra Cabe\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Malvatrem",
-        "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Oompa Loompa",
-      "url": "https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7"
+      "duration_ms": 208941,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -427,30 +451,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Eu Fiquei Com a Puta",
         "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
       },
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        }
-      ],
-      "duration_ms": 190722,
-      "name": "Homens Como Voc\u00ea",
-      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 200173,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "duration_ms": 190722,
+      "name": "Homens Como Voc\u00ea",
+      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1147,34 +1147,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Face ID",
-        "url": "https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "Reid",
-          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Face ID",
-      "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "24K o Spotify Que Paga",
         "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
       },
@@ -1199,18 +1171,30 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
+        "name": "Face ID",
+        "url": "https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI"
       },
       "artists": [
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
+      "duration_ms": 152062,
+      "name": "Face ID",
+      "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "alice (s\u00f3 que sem as maravilhas)",
         "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
       },
@@ -1411,38 +1411,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "convoca (Prod. Maikinho)",
-      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "JORGE",
         "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
       },
@@ -1463,6 +1431,38 @@
       "duration_ms": 160909,
       "name": "JORGE",
       "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "convoca (Prod. Maikinho)",
+      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Vai Com Calma",
-        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
-      },
-      "artists": [
-        {
-          "name": "SH1FT",
-          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
-        },
-        {
-          "name": "Bruxo 021",
-          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
-        }
-      ],
-      "duration_ms": 136289,
-      "name": "Vai Com Calma",
-      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Santana Amarelo",
         "url": "https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 183673,
       "name": "Santana Amarelo",
       "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Vai Com Calma",
+        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
+      },
+      "artists": [
+        {
+          "name": "SH1FT",
+          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
+        },
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        }
+      ],
+      "duration_ms": 136289,
+      "name": "Vai Com Calma",
+      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
     },
     {
       "added_at": "2023-10-05 08:00:00",

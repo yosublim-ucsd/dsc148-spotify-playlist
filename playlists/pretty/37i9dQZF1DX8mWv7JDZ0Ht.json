@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Nairo",
-  "num_followers": 433776,
+  "num_followers": 433779,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTMzODkzYTljZDJjYmU5NzMxN2EzZmFjNWU1OWQ5ZWU3ZTIxZDU4",
+  "snapshot_id": "MCw1NGRlYmViNTZjMWM2YTRhNjAzYmNmM2UzNzc3NzRkMjBlYzM5OGYz",
   "tracks": [
     {
       "added_at": "2024-02-16 03:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "N\u00d3S NUS",
         "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
       },
@@ -503,26 +503,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Meu Tom",
-        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
       },
       "artists": [
         {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 203896,
-      "name": "Massagem",
-      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -543,18 +535,26 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+        "name": "Meu Tom",
+        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
+      "duration_ms": 203896,
+      "name": "Massagem",
+      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "N\u00e3o Me Chame Mais De Ex",
         "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 141452,
       "name": "Planeta Para",
       "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Todo Azul",
         "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 152952,
       "name": "Todo Azul",
       "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "TIME ERRADO",
-        "url": "https://open.spotify.com/album/1SlbBUg4xtZ4Ap34iP84eE"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        }
-      ],
-      "duration_ms": 133071,
-      "name": "TIME ERRADO",
-      "url": "https://open.spotify.com/track/5DDy00scIwk3X0U8GW0ELF"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 138688,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "TIME ERRADO",
+        "url": "https://open.spotify.com/album/1SlbBUg4xtZ4Ap34iP84eE"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        }
+      ],
+      "duration_ms": 133071,
+      "name": "TIME ERRADO",
+      "url": "https://open.spotify.com/track/5DDy00scIwk3X0U8GW0ELF"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Meu Lugar Preferido",
-        "url": "https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 142956,
-      "name": "Meu Lugar Preferido",
-      "url": "https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "mentalmente",
         "url": "https://open.spotify.com/album/5YiQ8dQ3MFu9MNg9sOQjDO"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 175471,
       "name": "mentalmente",
       "url": "https://open.spotify.com/track/1hQa4ceXHdS41cYqHCv5M9"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Meu Lugar Preferido",
+        "url": "https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Meu Lugar Preferido",
+      "url": "https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Brincando De Amor",
         "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 174339,
       "name": "Tudo Vai Ser Como Deve Ser",
       "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     }
   ],
   "unique_name": "Pop Leve",

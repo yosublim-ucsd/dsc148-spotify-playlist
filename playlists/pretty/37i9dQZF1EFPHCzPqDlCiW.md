@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 42 | [Anywhere's Home](https://open.spotify.com/track/5XZZE1pniUcNCFHgDIdFnZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Anywhere's Home](https://open.spotify.com/album/7s8g5nvFg2wa6a5wFWW0N3) | 2:57 |
 | 43 | [Only Ticket Home](https://open.spotify.com/track/3xBFofaAqfwaaSu4RHzcuu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:14 |
 | 44 | [Hideaway](https://open.spotify.com/track/6J7trSlbpRHY2JbvxnYiCN) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:16 |
-| 45 | [Signals \- Live At St Pancras Old Church](https://open.spotify.com/track/5WTWrbK15e3zJa61LjYH0i) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/3QwlRqRlEvJnEcKNWTuuN1) | 3:57 |
-| 46 | [Friend Of Mine](https://open.spotify.com/track/6amr2Sdv9yw7Y917GZToj9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Friend Of Mine](https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9) | 3:14 |
+| 45 | [Friend Of Mine](https://open.spotify.com/track/6amr2Sdv9yw7Y917GZToj9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Friend Of Mine](https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9) | 3:14 |
+| 46 | [Signals \- Live At St Pancras Old Church](https://open.spotify.com/track/5WTWrbK15e3zJa61LjYH0i) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/3QwlRqRlEvJnEcKNWTuuN1) | 3:57 |
 | 47 | [Beautiful](https://open.spotify.com/track/0HnbZP4HYWkf1tk1HzDhk8) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/79GSUDh5hTzNF61UNETYdG) | 4:22 |
 | 48 | [Out My Mind \(Radio Edit\)](https://open.spotify.com/track/70p6I136qdvKKQExxwfuHO) | [Kayper](https://open.spotify.com/artist/7eX82EeZz6qIASWIsheMlv) | [Out My Mind \(Radio Edit\)](https://open.spotify.com/album/5fp53L7e6svWWHj6Mqxi1z) | 3:36 |
 | 49 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 119 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 120 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDA2NzY4OGQxMTIzMWYzYzYwNmNiYjU0ODU5NTk3NDUwYQ==`
+Snapshot ID: `Mjg0NzMyNTAsMDAwMDAwMDAxM2VmYzNjNTBkNzM2ZTY3YjViODRlYzExYWNjMjAxYQ==`

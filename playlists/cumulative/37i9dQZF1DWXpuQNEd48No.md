@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-185 songs - 9 hr 50 min
+186 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dil](https://open.spotify.com/track/3CH2lqnViWcW8mZsSzHXtQ) | [Raju Punjabi](https://open.spotify.com/artist/5RnjdaS0Pqb4KgWvCoohs8), [Ishu Kaswan](https://open.spotify.com/artist/6rZtEdypx0YSD2uXa3v2ib) | [Dil](https://open.spotify.com/album/3XMFgKKrzGdhiJRn8RyjD3) | 2:46 | 2024-01-13 |  |
 | [Dilli Aali Chori](https://open.spotify.com/track/2ezJ9LjQZEYoXPhV6MWRXx) | [Semicolon](https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh), [Amanraj Gill](https://open.spotify.com/artist/602myqwhnirVde3b2nouW9) | [Dilli Aali Chori](https://open.spotify.com/album/1koKPq6PckzgTpeBJVXWWq) | 3:14 | 2024-02-06 |  |
 | [DJ Baajan De](https://open.spotify.com/track/3owDxCaFzjXl3blZQ6EonS) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [DJ Sheizwood](https://open.spotify.com/artist/11PdcXwGoRPtYOXNETRC0x), [Simaran Kaur](https://open.spotify.com/artist/2dTGtc9FpbXHMuAw95F6sy) | [DJ Baajan De](https://open.spotify.com/album/4UQGppLaW1FDAYnPSW7d5n) | 3:05 | 2023-03-28 | 2023-04-19 |
+| [Donali](https://open.spotify.com/track/2xeUqz1HUlow574wVq31VK) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/134hUe3TzaKTnB2rlSIqMC) | 3:24 | 2024-02-16 |  |
 | [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 | 2023-04-22 | 2024-02-13 |
 | [Dream Girl](https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 1](https://open.spotify.com/album/3Tlu6jzZC14qM7ywCYA1Hq) | 3:18 | 2023-11-22 |  |
 | [Eicher Messi \- Mafioso Chapter 1](https://open.spotify.com/track/3XgviOJM1jRGtuL8i9sl0c) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [Yeh Proof](https://open.spotify.com/artist/0xuzAcmzyzVoKqRgA9oF4D) | [Eicher Messi \(Mafioso Chapter 1\)](https://open.spotify.com/album/4sLu1nx66FK0T2VQrHEvVF) | 3:10 | 2023-06-16 | 2023-07-12 |
@@ -143,7 +144,7 @@
 | [No Tension](https://open.spotify.com/track/4F3ksXYJZm3ul80riHyKsR) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Tension \- Single](https://open.spotify.com/album/1N7yR1QOcwioXADCzjGL5L) | 3:45 | 2023-12-14 | 2024-02-11 |
 | [No Worries](https://open.spotify.com/track/6r1TU60kDywJuu3EPrwHLe) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ) | [No Worries](https://open.spotify.com/album/5McT7ublWKojSCLew2Eh2C) | 2:52 | 2023-04-18 | 2023-06-11 |
 | [Not Afraid](https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Not Afraid](https://open.spotify.com/album/3suDToPPHBihogvFsRuTcR) | 3:02 | 2023-12-14 |  |
-| [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-03-28 |  |
+| [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-03-28 | 2024-02-20 |
 | [Paggal](https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc) | [Amit Bhadana](https://open.spotify.com/artist/7xyFz6QIHP6Sq0YbT2GZoO), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Crush Wala Yaar](https://open.spotify.com/artist/4nl5k2Rt7OavkBdi1fXVjS) | [Paggal](https://open.spotify.com/album/6Pd2su33BbrkX31z0bUUEa) | 2:36 | 2024-02-06 |  |
 | [Pataka](https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Pataka](https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P) | 3:24 | 2023-09-27 |  |
 | [Pinball \- Mafioso Chapter 1](https://open.spotify.com/track/05JB6RkfwfQcS9zUqCJ28V) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [Yeh Proof](https://open.spotify.com/artist/0xuzAcmzyzVoKqRgA9oF4D) | [Pinball \(Mafioso Chapter 1\)](https://open.spotify.com/album/6vXXmSq4bxzyfu4g2HJulg) | 3:02 | 2023-06-16 | 2023-07-07 |

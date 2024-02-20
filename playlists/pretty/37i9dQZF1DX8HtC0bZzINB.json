@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 86254,
+  "num_followers": 86263,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDY4YjZlY2UwZjQyZTcyNWRlNzlmZTIxODMyNDUyNWQ3N2YxYzZk",
+  "snapshot_id": "MCxiODA5YTJiNjA0ODQ5ZmU4ZjIxMWQ2YjBlYmVjZjY3ZDVkMjIyNTJk",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "D\u00fcnya'm 20:24",
-        "url": "https://open.spotify.com/album/5gCQa39xnnalOJhO6kFv0t"
+        "name": "A\u015fk Olsun",
+        "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
       },
       "artists": [
         {
-          "name": "Ozbi",
-          "url": "https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau"
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
         }
       ],
-      "duration_ms": 197700,
-      "name": "O Bi Karamel",
-      "url": "https://open.spotify.com/track/1IIInPteMS5PPK9E1EdWA2"
+      "duration_ms": 141305,
+      "name": "A\u015fk Olsun",
+      "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "A\u015fk Olsun",
-        "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
+        "name": "D\u00fcnya'm 20:24",
+        "url": "https://open.spotify.com/album/5gCQa39xnnalOJhO6kFv0t"
       },
       "artists": [
         {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+          "name": "Ozbi",
+          "url": "https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau"
         }
       ],
-      "duration_ms": 141305,
-      "name": "A\u015fk Olsun",
-      "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
+      "duration_ms": 197700,
+      "name": "O Bi Karamel",
+      "url": "https://open.spotify.com/track/1IIInPteMS5PPK9E1EdWA2"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -239,22 +239,6 @@
       "duration_ms": 171880,
       "name": "Krvn",
       "url": "https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Veda Saati",
-        "url": "https://open.spotify.com/album/5ChVdKYddqHDsgUtwzlxln"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        }
-      ],
-      "duration_ms": 147760,
-      "name": "Veda Saati",
-      "url": "https://open.spotify.com/track/5W8XrqcmPo6DtyDdPNahkn"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -311,22 +295,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "D\u00fcnya'm 20:24",
-        "url": "https://open.spotify.com/album/5gCQa39xnnalOJhO6kFv0t"
-      },
-      "artists": [
-        {
-          "name": "Ozbi",
-          "url": "https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau"
-        }
-      ],
-      "duration_ms": 179528,
-      "name": "D\u00fcnya'm",
-      "url": "https://open.spotify.com/track/7104DHFH8m0Kmd8FqdPx1h"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "Melek",
         "url": "https://open.spotify.com/album/2ARaqMe0AxH8vfYSNMCxJF"
       },
@@ -343,22 +311,34 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "k\u00f6rd\u00fc\u011f\u00fcm",
-        "url": "https://open.spotify.com/album/2khti4BtrnPoDh4zHxD8Ez"
+        "name": "D\u00fcnya'm 20:24",
+        "url": "https://open.spotify.com/album/5gCQa39xnnalOJhO6kFv0t"
+      },
+      "artists": [
+        {
+          "name": "Ozbi",
+          "url": "https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "D\u00fcnya'm",
+      "url": "https://open.spotify.com/track/7104DHFH8m0Kmd8FqdPx1h"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "Veda Saati",
+        "url": "https://open.spotify.com/album/5ChVdKYddqHDsgUtwzlxln"
       },
       "artists": [
         {
           "name": "Sefo",
           "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        },
-        {
-          "name": "Jako",
-          "url": "https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4"
         }
       ],
-      "duration_ms": 166053,
-      "name": "k\u00f6rd\u00fc\u011f\u00fcm",
-      "url": "https://open.spotify.com/track/6mYGCOpWCq1qtrlOr68u5p"
+      "duration_ms": 147760,
+      "name": "Veda Saati",
+      "url": "https://open.spotify.com/track/5W8XrqcmPo6DtyDdPNahkn"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -379,22 +359,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
       },
@@ -407,6 +371,22 @@
       "duration_ms": 197696,
       "name": "O'NU",
       "url": "https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -447,22 +427,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "S\u00d6YLENEYD\u0130BU?",
-        "url": "https://open.spotify.com/album/1w4ty6XQiTnVXVddrLhOtD"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "S\u00d6YLENEYD\u0130BU?",
-      "url": "https://open.spotify.com/track/5QucJT1HhY3MD6Qw2qBCUl"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/0ufgmq1tXqQ5W3wG6oioNl"
       },
@@ -495,6 +459,26 @@
       "duration_ms": 253754,
       "name": "\u015eampanya",
       "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "k\u00f6rd\u00fc\u011f\u00fcm",
+        "url": "https://open.spotify.com/album/2khti4BtrnPoDh4zHxD8Ez"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Jako",
+          "url": "https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "k\u00f6rd\u00fc\u011f\u00fcm",
+      "url": "https://open.spotify.com/track/6mYGCOpWCq1qtrlOr68u5p"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "S\u00d6YLENEYD\u0130BU?",
+        "url": "https://open.spotify.com/album/1w4ty6XQiTnVXVddrLhOtD"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "S\u00d6YLENEYD\u0130BU?",
+      "url": "https://open.spotify.com/track/5QucJT1HhY3MD6Qw2qBCUl"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Kayboldum",
         "url": "https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM"
       },
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Made In Turkey",
+        "url": "https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 196583,
+      "name": "AYA",
+      "url": "https://open.spotify.com/track/4ywdchqXzNiX5S8YqKzGtA"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "hat\u0131rla",
         "url": "https://open.spotify.com/album/1M2HlETIjJxogCYUFF7aZP"
       },
@@ -739,22 +759,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Made In Turkey",
-        "url": "https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM"
+        "name": "Yast\u0131k \u0130zi",
+        "url": "https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6"
       },
       "artists": [
         {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+          "name": "Kum",
+          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
         }
       ],
-      "duration_ms": 196583,
-      "name": "AYA",
-      "url": "https://open.spotify.com/track/4ywdchqXzNiX5S8YqKzGtA"
+      "duration_ms": 103269,
+      "name": "Yast\u0131k \u0130zi",
+      "url": "https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -775,6 +791,22 @@
       "duration_ms": 128776,
       "name": "PARAMPAR\u00c7A",
       "url": "https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "madem",
+        "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
+      },
+      "artists": [
+        {
+          "name": "Revart",
+          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "madem",
+      "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -815,38 +847,6 @@
       "duration_ms": 167280,
       "name": "Baby (feat. Murda)",
       "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Yast\u0131k \u0130zi",
-        "url": "https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6"
-      },
-      "artists": [
-        {
-          "name": "Kum",
-          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
-        }
-      ],
-      "duration_ms": 103269,
-      "name": "Yast\u0131k \u0130zi",
-      "url": "https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "madem",
-        "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
-      },
-      "artists": [
-        {
-          "name": "Revart",
-          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "madem",
-      "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
     },
     {
       "added_at": "2023-08-31 21:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,723 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,764 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Vrai visage](https://open.spotify.com/track/4hmupxfWB67RZ95TFyqvOs) | [NTH](https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s) | [Vrai visage](https://open.spotify.com/album/5khBhQxdPVowT9kyGvPaPb) | 1:57 |
 | 40 | [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 |
 
-Snapshot ID: `MCw3YTZhMmQyMzQ4M2NjOGVhYjFhNTEzODE2NjM5OGFjMThiYjViNDhh`
+Snapshot ID: `MCwxMGYzNzQ3MzdmMDUwN2Q3Y2QwYzlmYTlkMzE5NzJiYTg1ZTY0MzIw`

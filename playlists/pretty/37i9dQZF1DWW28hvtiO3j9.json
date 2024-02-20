@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 143192,
+  "num_followers": 143217,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWU2MTVhNTkwZGU4OWIxZGEyNDc5ZDg5NWRlMWRhMTVjZTY3YTE4",
+  "snapshot_id": "MCxiOWRiMzQ1YTBkY2IxNzY0ZGZhZmFjNzEyOTMwOGFiZTRlMDA2ZmU5",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Bi\u30fbKi\u30fbNi",
-        "url": "https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT"
+        "name": "REQUEST (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5"
       },
       "artists": [
         {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
         }
       ],
-      "duration_ms": 272093,
-      "name": "Good Bye Boogie Dance",
-      "url": "https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq"
+      "duration_ms": 318306,
+      "name": "OH NO,OH YES!",
+      "url": "https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -343,6 +343,38 @@
       "duration_ms": 216680,
       "name": "\u6307\u5207\u308a",
       "url": "https://open.spotify.com/track/4cqT8OWWECOOKV4VZELuPs"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "Cologne",
+        "url": "https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Akimoto",
+          "url": "https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72"
+        }
+      ],
+      "duration_ms": 303426,
+      "name": "\u6211\u304c\u307e\u307e\u306a\u30cf\u30a4\u30d2\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "Bi\u30fbKi\u30fbNi",
+        "url": "https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT"
+      },
+      "artists": [
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Good Bye Boogie Dance",
+      "url": "https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -367,38 +399,6 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "REQUEST (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 318306,
-      "name": "OH NO,OH YES!",
-      "url": "https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Cologne",
-        "url": "https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164"
-      },
-      "artists": [
-        {
-          "name": "Kaoru Akimoto",
-          "url": "https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72"
-        }
-      ],
-      "duration_ms": 303426,
-      "name": "\u6211\u304c\u307e\u307e\u306a\u30cf\u30a4\u30d2\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
         "name": "Who Are You?",
         "url": "https://open.spotify.com/album/64RtMrgkknSMaWhA8J2mDD"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 231760,
       "name": "Jazzy Night",
       "url": "https://open.spotify.com/track/2CzYHourfYD0fQBaBHgCNS"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "A LONG VACATION",
-        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6edd\u8a60\u4e00",
-          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
-        }
-      ],
-      "duration_ms": 306946,
-      "name": "\u541b\u306f\u5929\u7136\u8272",
-      "url": "https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -495,22 +479,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Another Summer",
-        "url": "https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB"
+        "name": "A LONG VACATION",
+        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
       },
       "artists": [
         {
-          "name": "S. Kiyotaka & Omega Tribe",
-          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
-        },
-        {
-          "name": "Kiyotaka Sugiyama",
-          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
         }
       ],
-      "duration_ms": 241360,
-      "name": "Dear Breeze",
-      "url": "https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX"
+      "duration_ms": 306946,
+      "name": "\u541b\u306f\u5929\u7136\u8272",
+      "url": "https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -551,22 +531,6 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "FIRST LIGHT (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
-      },
-      "artists": [
-        {
-          "name": "Makoto Matsushita",
-          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
-        }
-      ],
-      "duration_ms": 269260,
-      "name": "September Rain - 2018 Remaster",
-      "url": "https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
         "name": "DOWN TOWN",
         "url": "https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc"
       },
@@ -579,6 +543,42 @@
       "duration_ms": 254213,
       "name": "DOWN TOWN",
       "url": "https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "Another Summer",
+        "url": "https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB"
+      },
+      "artists": [
+        {
+          "name": "S. Kiyotaka & Omega Tribe",
+          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
+        },
+        {
+          "name": "Kiyotaka Sugiyama",
+          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Dear Breeze",
+      "url": "https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "FIRST LIGHT (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
+      },
+      "artists": [
+        {
+          "name": "Makoto Matsushita",
+          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
+        }
+      ],
+      "duration_ms": 269260,
+      "name": "September Rain - 2018 Remaster",
+      "url": "https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Air Kiss",
-        "url": "https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78"
+        "name": "A LONG VACATION",
+        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
       },
       "artists": [
         {
-          "name": "Ami Ozaki",
-          "url": "https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj"
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
         }
       ],
-      "duration_ms": 211720,
-      "name": "Junjou",
-      "url": "https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q"
+      "duration_ms": 266480,
+      "name": "\u96e8\u306e\u30a6\u30a7\u30f3\u30ba\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x"
     }
   ],
   "unique_name": "City Pop '80s",

@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 119654,
+  "2024-02-20": 119659,
   "date_first_scraped": "2023-08-09",
   "description": "Un parque de diversiones para gustos inconformes y sofisticados. Idles en portada.",
   "name": "Indielandia",
@@ -465,7 +465,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 175116,
       "name": "Nobody Escapes",
       "url": "https://open.spotify.com/track/1IqRZsXV47xow1ZSdihWDK"

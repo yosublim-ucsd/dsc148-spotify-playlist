@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 44287,
+  "2024-02-20": 44329,
   "date_first_scraped": "2023-09-19",
   "description": "This is BK. The essential tracks, all in one playlist.",
   "name": "This Is BK",
@@ -561,7 +561,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 155577,
       "name": "DO NECTAR FREESTYLE - REMIX",
       "url": "https://open.spotify.com/track/4GkVbPpyx0aBoHPKe04oEZ"
@@ -759,6 +759,36 @@
       "duration_ms": 232096,
       "name": "Gigantes",
       "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
+    },
+    {
+      "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240055,
+      "name": "HOTEL ZONA SUL",
+      "url": "https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs"
     },
     {
       "album": {
@@ -1427,7 +1457,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 230831,
       "name": "Regras da Loja",
       "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
@@ -1457,6 +1487,32 @@
       "duration_ms": 230831,
       "name": "Regras da Loja",
       "url": "https://open.spotify.com/track/73W3MxxTA0XatZjoETfenP"
+    },
+    {
+      "album": {
+        "name": "L\u00f3gos",
+        "url": "https://open.spotify.com/album/1QvljVqiAvLz66o28XM3wc"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "CrimeNow",
+          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230855,
+      "name": "Regras da Loja",
+      "url": "https://open.spotify.com/track/71LdNaFuOJBjHVFa7mKHat"
     },
     {
       "album": {

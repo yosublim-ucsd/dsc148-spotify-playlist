@@ -1,12 +1,12 @@
 {
   "description": "Find your flow with a classical Indian soundtrack.",
-  "num_followers": 49133,
+  "num_followers": 49159,
   "original_name": "Focus Ragas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODZhOWNmMmJjMDcyNTUxNDViOTYyZjAzZmEyMmM1YWRlNjAwYWFi",
+  "snapshot_id": "MCwzMTljYWVhNDViNjYwYWRlZjlmMDkzZWRmZTk2YWRkMjBiMTVjNGRi",
   "tracks": [
     {
       "added_at": "2024-02-05 06:37:28",
@@ -47,22 +47,6 @@
       "duration_ms": 217706,
       "name": "Raag Bhairavi - Alap",
       "url": "https://open.spotify.com/track/5OwdGNpfx8D74GtHK3aaiH"
-    },
-    {
-      "added_at": "2024-02-05 06:37:28",
-      "album": {
-        "name": "The Raga Guide",
-        "url": "https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy"
-      },
-      "artists": [
-        {
-          "name": "Hariprasad Chaurasia",
-          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
-        }
-      ],
-      "duration_ms": 239493,
-      "name": "Jogiya",
-      "url": "https://open.spotify.com/track/7oDCqI6qYIc2ebiduj7RkM"
     },
     {
       "added_at": "2024-02-05 06:37:28",
@@ -117,6 +101,38 @@
       "url": "https://open.spotify.com/track/2gS21zZ0qr9HuzMM29WLt7"
     },
     {
+      "added_at": "2024-02-19 06:20:40",
+      "album": {
+        "name": "Raga Jog",
+        "url": "https://open.spotify.com/album/1oxseQK7hwiESTjvuZM1oY"
+      },
+      "artists": [
+        {
+          "name": "Nadiyon",
+          "url": "https://open.spotify.com/artist/5qrL0zLxtiyX5IL2XvLUVQ"
+        }
+      ],
+      "duration_ms": 299969,
+      "name": "Raga Jog",
+      "url": "https://open.spotify.com/track/65YatRfLBfj43PN64k2li2"
+    },
+    {
+      "added_at": "2024-02-05 06:37:28",
+      "album": {
+        "name": "The Raga Guide",
+        "url": "https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy"
+      },
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
+        }
+      ],
+      "duration_ms": 239493,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/7oDCqI6qYIc2ebiduj7RkM"
+    },
+    {
       "added_at": "2024-02-05 06:37:28",
       "album": {
         "name": "Relaxing Ragas, Vol. 5",
@@ -131,6 +147,22 @@
       "duration_ms": 133674,
       "name": "Flute Bhairavi",
       "url": "https://open.spotify.com/track/3y2qoG04eGcwXrpTzQSkzY"
+    },
+    {
+      "added_at": "2024-02-19 06:20:40",
+      "album": {
+        "name": "Raga Bageshri",
+        "url": "https://open.spotify.com/album/6fFlNIRxn9PddYBHxGCOte"
+      },
+      "artists": [
+        {
+          "name": "Shaant Man",
+          "url": "https://open.spotify.com/artist/3DlcfbEsCsjEkmTOAHBNwO"
+        }
+      ],
+      "duration_ms": 269535,
+      "name": "Raga Bhairavi",
+      "url": "https://open.spotify.com/track/4ZSFj6ZtxOfd5WTswALDVP"
     },
     {
       "added_at": "2024-02-05 06:37:28",
@@ -643,22 +675,6 @@
     {
       "added_at": "2024-02-05 06:37:28",
       "album": {
-        "name": "The Music Of YOG",
-        "url": "https://open.spotify.com/album/0ak4eeLnwDMHIVUtXLWmAc"
-      },
-      "artists": [
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        }
-      ],
-      "duration_ms": 684893,
-      "name": "Raag Puriya",
-      "url": "https://open.spotify.com/track/3nqZPfwkcE9NCOqUe32Aps"
-    },
-    {
-      "added_at": "2024-02-05 06:37:28",
-      "album": {
         "name": "Traditional Indian Ragas for Yoga, Deep Meditation, And Relaxation",
         "url": "https://open.spotify.com/album/2OgurzMcXr4zLdFCjhflQx"
       },
@@ -671,6 +687,22 @@
       "duration_ms": 499773,
       "name": "Dhun in Misra Anandi",
       "url": "https://open.spotify.com/track/3p7Z5jTeZLjDk7bruuPVs6"
+    },
+    {
+      "added_at": "2024-02-19 06:20:40",
+      "album": {
+        "name": "Raga Puriya",
+        "url": "https://open.spotify.com/album/2S1H6UXRGLtP86HTVrtYTO"
+      },
+      "artists": [
+        {
+          "name": "Chandr Pushp",
+          "url": "https://open.spotify.com/artist/0X91WNEF1zQ0MVBMDycjQ1"
+        }
+      ],
+      "duration_ms": 221804,
+      "name": "Raga Puriya",
+      "url": "https://open.spotify.com/track/04foT6BVWtCeGEGCkxlc0R"
     },
     {
       "added_at": "2024-02-05 06:37:28",

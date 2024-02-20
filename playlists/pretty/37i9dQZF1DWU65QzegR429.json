@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Junior Zamora",
-  "num_followers": 11408,
+  "num_followers": 11415,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmRmNzQ5YjcwZTQ2YTJjNDYzOGRlYWVmZmE2ODA2NmYwNWQwMDAw",
+  "snapshot_id": "MCwyMmUwMmIyNjNhMTBmZjQ3ODU4MTZlOTk4NTY2MWJkNGE0MmE4ZThm",
   "tracks": [
     {
       "added_at": "2024-02-16 16:25:40",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-02-16 16:25:40",
       "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
+    },
+    {
+      "added_at": "2024-02-16 16:25:40",
+      "album": {
         "name": "Daddy (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 193041,
       "name": "Daddy (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
-    },
-    {
-      "added_at": "2024-02-16 16:25:40",
-      "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
     },
     {
       "added_at": "2024-02-16 16:25:40",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-02-16 16:25:40",
       "album": {
-        "name": "El Bloke Hills",
-        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 162713,
-      "name": "Gafas Pal Sol",
-      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
-    },
-    {
-      "added_at": "2024-02-16 16:25:40",
-      "album": {
         "name": "Adentro de la Disco (feat. Myke Towers)",
         "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 192720,
       "name": "Adentro de la Disco (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
+    },
+    {
+      "added_at": "2024-02-16 16:25:40",
+      "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 162713,
+      "name": "Gafas Pal Sol",
+      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
     },
     {
       "added_at": "2024-02-16 16:25:40",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-02-16 16:25:40",
       "album": {
+        "name": "Herrera",
+        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Herrera",
+      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
+    },
+    {
+      "added_at": "2024-02-16 16:25:40",
+      "album": {
         "name": "Rosa Melo",
         "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 159590,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
-    },
-    {
-      "added_at": "2024-02-16 16:25:40",
-      "album": {
-        "name": "Herrera",
-        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Herrera",
-      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
     },
     {
       "added_at": "2024-02-16 16:25:40",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-02-16 16:25:40",
       "album": {
-        "name": "para mi (Freestyle)",
-        "url": "https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C"
-      },
-      "artists": [
-        {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
-        }
-      ],
-      "duration_ms": 170441,
-      "name": "Para Mi (Freestyle)",
-      "url": "https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25"
-    },
-    {
-      "added_at": "2024-02-16 16:25:40",
-      "album": {
         "name": "NI\u00d1XS ROTXS",
         "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-02-16 16:25:40",
       "album": {
-        "name": "Anormales",
-        "url": "https://open.spotify.com/album/2daADHTTdKChlNqaIQ9cMD"
+        "name": "para mi (Freestyle)",
+        "url": "https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C"
       },
       "artists": [
         {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Anormales",
-      "url": "https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY"
+      "duration_ms": 170441,
+      "name": "Para Mi (Freestyle)",
+      "url": "https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25"
     },
     {
       "added_at": "2024-02-16 16:25:40",
@@ -903,6 +887,22 @@
       "duration_ms": 185811,
       "name": "Ghetto Love (feat. Modblack)",
       "url": "https://open.spotify.com/track/6tKf1yECBWM1YOuld7sU4B"
+    },
+    {
+      "added_at": "2024-02-16 16:25:40",
+      "album": {
+        "name": "Deja Que Te Lleve",
+        "url": "https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "duration_ms": 203202,
+      "name": "Deja Que Te Lleve",
+      "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
     }
   ],
   "unique_name": "Latin Frequency",

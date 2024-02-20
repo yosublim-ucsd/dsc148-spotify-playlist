@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-211 songs - 11 hr 7 min
+212 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Dynamite \- Acoustic](https://open.spotify.com/track/7pgxSWFaZqPukb2oes8M5W) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Dynamite \(Acoustic\)](https://open.spotify.com/album/3LkWkVr25xk7njvmrYHuML) | 2:35 | 2023-02-27 |  |
 | [Easy \- Acoustic](https://open.spotify.com/track/3p2HCeGDR7XmSp2yl7UOI4) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Easy \(Acoustic\)](https://open.spotify.com/album/2sjrCsghv6PcqrHG8gcksc) | 3:03 | 2022-04-22 |  |
 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 | 2019-10-13 |  |
-| [End of the Road \- Acoustic](https://open.spotify.com/track/40no7SYDmHdlOvqRpYvq9O) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [End of the Road \(Acoustic\)](https://open.spotify.com/album/4HLvwBXDjhDR6ckKFEB92r) | 3:44 | 2022-10-14 |  |
+| [End of the Road \- Acoustic](https://open.spotify.com/track/40no7SYDmHdlOvqRpYvq9O) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [End of the Road \(Acoustic\)](https://open.spotify.com/album/4HLvwBXDjhDR6ckKFEB92r) | 3:44 | 2022-10-14 | 2024-02-20 |
 | [Everglow \- Acoustic](https://open.spotify.com/track/6chXbAbcedFH4juOKqdwjk) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Everglow \(Acoustic\)](https://open.spotify.com/album/22vtmrjL6peFVcjtDyBsWo) | 3:48 | 2021-09-24 | 2022-06-13 |
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2019-10-13 |  |
 | [Everybody Wants to Rule the World \- Acoustic](https://open.spotify.com/track/3wy5ytqKxQxUYFgx5NAFav) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Everybody Wants to Rule the World \(Acoustic\)](https://open.spotify.com/album/42v30LBLeJfQDdedtZCD4a) | 2:24 | 2023-03-24 |  |
@@ -94,6 +94,7 @@
 | [I Want You Back \- Acoustic](https://open.spotify.com/track/1k26xiw242De5t5AgWjC5o) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Want You Back \(Acoustic\)](https://open.spotify.com/album/5c7gMpATd9TRWI9SRzslXD) | 2:25 | 2021-05-21 | 2022-07-16 |
 | [I'd Do Anything for Love \(But I Won't Do That\) \- Acoustic](https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [I'd Do Anything for Love \(But I Won't Do That\) \[Acoustic\]](https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY) | 2:58 | 2024-02-09 |  |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
+| [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 | 2024-02-19 |  |
 | [I'm Like a Bird \- Acoustic](https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I'm Like a Bird \(Acoustic\)](https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c) | 2:41 | 2023-01-03 | 2023-01-19 |
 | [I'm Still Standing \- Acoustic](https://open.spotify.com/track/58qyn3EztQitvZIOhE8u66) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I'm Still Standing \(Acoustic\)](https://open.spotify.com/album/42X06RmupweTB9QHr0coFa) | 2:28 | 2024-01-12 | 2024-02-10 |
 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 | 2020-11-04 | 2023-01-28 |

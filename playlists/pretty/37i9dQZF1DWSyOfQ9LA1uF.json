@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 70190,
+  "num_followers": 70213,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTNkZjI0ZTQwMDBmZjdlOTg4ZDJjZDdlNzg4ZWQxZGZhMGNlZGE1",
+  "snapshot_id": "MCxhODhhODBlNGM4YTA2NjFmNmM0Yjg0MzU2NzI2ZTY4MmUwNDkxZTll",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Crimewave",
-      "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Fix Your Accent",
         "url": "https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
+      "duration_ms": 258453,
+      "name": "Crimewave",
+      "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -367,6 +351,22 @@
       "duration_ms": 215786,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Analog Worms Attack",
-        "url": "https://open.spotify.com/album/7kAKGbrd7MHykmOzRlNPee"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 316973,
-      "name": "Flat Beat - Radio Edit",
-      "url": "https://open.spotify.com/track/5jaVyz2GDdesyu01cBbOSc"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Turn On The Bright Lights",
         "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 261920,
       "name": "Je veux te voir",
       "url": "https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Analog Worms Attack",
+        "url": "https://open.spotify.com/album/7kAKGbrd7MHykmOzRlNPee"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 316973,
+      "name": "Flat Beat - Radio Edit",
+      "url": "https://open.spotify.com/track/5jaVyz2GDdesyu01cBbOSc"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Cansei De Ser Sexy",
-        "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
-      },
-      "artists": [
-        {
-          "name": "CSS",
-          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Music Is My Hot, Hot Sex",
-      "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Fancy Footwork",
         "url": "https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 198093,
       "name": "Fancy Footwork",
       "url": "https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Cansei De Ser Sexy",
+        "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
+      },
+      "artists": [
+        {
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Music Is My Hot, Hot Sex",
+      "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -675,26 +675,6 @@
       "duration_ms": 219813,
       "name": "Nightcall - Breakbot Remix",
       "url": "https://open.spotify.com/track/199fvGLqoH23blptlIIz86"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Lucky Boy At Night",
-        "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
-      },
-      "artists": [
-        {
-          "name": "DJ Mehdi",
-          "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
-        },
-        {
-          "name": "Outlines",
-          "url": "https://open.spotify.com/artist/1zY9BPeVBgaSJCBHlpG96b"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "Lucky Boy - Outlines Remix",
-      "url": "https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -751,22 +731,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "1986 - EP",
-        "url": "https://open.spotify.com/album/3wke2l2r3BQ9YJ75x5A1DK"
+        "name": "Lucky Boy At Night",
+        "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
       },
       "artists": [
         {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+          "name": "DJ Mehdi",
+          "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
         },
         {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+          "name": "Outlines",
+          "url": "https://open.spotify.com/artist/1zY9BPeVBgaSJCBHlpG96b"
         }
       ],
-      "duration_ms": 298080,
-      "name": "Testarossa (SebastiAn Remix)",
-      "url": "https://open.spotify.com/track/1J5Z0AVsxRejfrtZGGAcWO"
+      "duration_ms": 266480,
+      "name": "Lucky Boy - Outlines Remix",
+      "url": "https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -803,6 +783,26 @@
       "duration_ms": 304413,
       "name": "Lisztomania - Classixx Version",
       "url": "https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "1986 - EP",
+        "url": "https://open.spotify.com/album/3wke2l2r3BQ9YJ75x5A1DK"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "duration_ms": 298080,
+      "name": "Testarossa (SebastiAn Remix)",
+      "url": "https://open.spotify.com/track/1J5Z0AVsxRejfrtZGGAcWO"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B"
+      },
+      "artists": [
+        {
+          "name": "Fake Blood",
+          "url": "https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z"
+        }
+      ],
+      "duration_ms": 261009,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Bad Girls (The Remixes)",
         "url": "https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Mars",
-        "url": "https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B"
+        "name": "ROMBORAMA",
+        "url": "https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe"
       },
       "artists": [
         {
-          "name": "Fake Blood",
-          "url": "https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z"
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
         }
       ],
-      "duration_ms": 261009,
-      "name": "Mars",
-      "url": "https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp"
+      "duration_ms": 253000,
+      "name": "Cornelius",
+      "url": "https://open.spotify.com/track/6YJCmoVtQMYcCmHOsdlWor"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1043,22 +1059,6 @@
       "duration_ms": 223866,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "ROMBORAMA",
-        "url": "https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe"
-      },
-      "artists": [
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Cornelius",
-      "url": "https://open.spotify.com/track/6YJCmoVtQMYcCmHOsdlWor"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "From Then Until Now",
-        "url": "https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF"
-      },
-      "artists": [
-        {
-          "name": "Don Rimini",
-          "url": "https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 351094,
-      "name": "Let Me Back Up - Crookers Tetsujin Remix",
-      "url": "https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Kitsun\u00e9 Maison Compilation 4",
         "url": "https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 355520,
       "name": "I Get Around - Midnight Juggernauts Remix",
       "url": "https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "From Then Until Now",
+        "url": "https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF"
+      },
+      "artists": [
+        {
+          "name": "Don Rimini",
+          "url": "https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 351094,
+      "name": "Let Me Back Up - Crookers Tetsujin Remix",
+      "url": "https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF"
     },
     {
       "added_at": "2022-08-24 22:29:13",

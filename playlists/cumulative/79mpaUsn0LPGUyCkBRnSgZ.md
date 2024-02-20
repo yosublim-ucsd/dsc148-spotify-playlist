@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-573 songs - 1 day 13 hr 22 min
+574 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [As Good As New](https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:24 | 2023-01-18 |  |
 | [Astral Weeks \- 1999 Remaster](https://open.spotify.com/track/0vz4iTEfsp2lunsRJeMzjj) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 7:06 | 2022-07-31 | 2023-04-10 |
 | [Auctioneers](https://open.spotify.com/track/38OamTicvJLe8yYnO9E8uy) | [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU) | [RAMU](https://open.spotify.com/album/7IR0Hl68yWwXDJzTIQnwbn) | 2:41 | 2023-03-23 | 2023-07-09 |
+| [avOcadO SHakE૮꒰ ˶• ༝ •˶꒱ა \\̅\_̅/̷̚ʾ](https://open.spotify.com/track/3sDkuBJVMkMOQ70MK8y7yN) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:33 | 2024-02-19 |  |
 | [Awake on foreign shores](https://open.spotify.com/track/04jsvZ48NlfZPVGXks5kiV) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [New History Warfare Vol\. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI) | 1:30 | 2023-12-16 |  |
 | [Baby Teeth](https://open.spotify.com/track/0rMUVKJNVdtvfv7X8fmyJQ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Call Of The Wild](https://open.spotify.com/album/04lnbWH0D5eo1RaC2s4uXj) | 8:02 | 2023-12-23 |  |
 | [Back Together](https://open.spotify.com/track/49Y3ZGN5WVjEpKxLO3aywt) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The A&R EP](https://open.spotify.com/album/06hK29dL8feB8al6oMkaa2) | 3:37 | 2024-02-15 |  |

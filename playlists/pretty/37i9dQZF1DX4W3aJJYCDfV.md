@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dua Lipa, Calvin Harris, IDLES and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,962 likes - 135 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,011 likes - 135 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 22 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
 | 23 | [Get To Me](https://open.spotify.com/track/5VvldWzela6drTGzTKIXK8) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Get To Me](https://open.spotify.com/album/5BiAjFDptuMrNIfLCTfCWO) | 4:05 |
 | 24 | [Head Head Honcho](https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 3:01 |
-| 25 | [IT'S ONLY YOU](https://open.spotify.com/track/066JufxuaAPBsT6raHbMEc) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Eben\-Ezer](https://open.spotify.com/artist/5BztywuaE9glEItjlAuNfJ) | [Ticket To The Moon](https://open.spotify.com/album/0l28wIuO28UHBjHH4JSOdk) | 2:28 |
+| 25 | [IT'S ONLY YOU](https://open.spotify.com/track/066JufxuaAPBsT6raHbMEc) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Ebenezer](https://open.spotify.com/artist/2vik8lyw8WiALKMJK7C3hn) | [Ticket To The Moon](https://open.spotify.com/album/0l28wIuO28UHBjHH4JSOdk) | 2:28 |
 | 26 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 27 | [Middle Of The Night](https://open.spotify.com/track/7dE6CFpsyBMHnC9OgEwDN2) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Middle Of The Night](https://open.spotify.com/album/01rdnuF8355WShHCdipdtG) | 2:41 |
 | 28 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 134 | [a little love for myself](https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [a little love for myself](https://open.spotify.com/album/1x8VAK3gdCGOrSY1tNCKUN) | 3:29 |
 | 135 | [Powerful Women](https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Trackhouse \(Daytona 500 Edition\)](https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q) | 2:45 |
 
-Snapshot ID: `MCw0Y2UxZjI4NWU2ODRiODFmNDhiNTc1YTQwOGM3MTZjNzY5MjlkMzJl`
+Snapshot ID: `MCw2ZjExNzkwNDJmZWFiZjA1OWZkZTU4MzFkYWFiZTc0YTFlZjQyZTU2`

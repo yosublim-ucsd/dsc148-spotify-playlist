@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 67102,
+  "num_followers": 67113,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDhlMzEzNjQ1ZjRmODE4NjE2YjE5MzhkZDZjN2U0ZGQyYzViODY1",
+  "snapshot_id": "MCxiOGQxZjYzN2I0Nzk0NWY0ZWZiYTBmOWI0MDM0MTU0Nzk3MTg1MDI0",
   "tracks": [
     {
       "added_at": "2024-02-14 00:39:43",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
+        "name": "Gran Blanco",
+        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
+    },
+    {
+      "added_at": "2024-02-14 00:39:43",
+      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
-        "name": "Masappan",
-        "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
-      },
-      "artists": [
-        {
-          "name": "Masappan",
-          "url": "https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
-    },
-    {
-      "added_at": "2024-02-14 00:39:43",
-      "album": {
         "name": "Bes\u00e9 a un Wey",
         "url": "https://open.spotify.com/album/18UySn67VXr6hlPPwSxEUh"
       },
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
-        "name": "Gran Blanco",
-        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+        "name": "Masappan",
+        "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
       },
       "artists": [
         {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+          "name": "Masappan",
+          "url": "https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC"
         }
       ],
-      "duration_ms": 203213,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
+      "duration_ms": 164933,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
     },
     {
       "added_at": "2024-02-14 00:39:43",
@@ -295,26 +295,6 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
-        "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
-        "url": "https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot"
-      },
-      "artists": [
-        {
-          "name": "Chingadazo de Kung Fu",
-          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
-        },
-        {
-          "name": "Barney Gombo",
-          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
-      "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
-    },
-    {
-      "added_at": "2024-02-14 00:39:43",
-      "album": {
         "name": "Mientras quede aliento",
         "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
       },
@@ -327,6 +307,22 @@
       "duration_ms": 193086,
       "name": "Mientras quede aliento",
       "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
+    },
+    {
+      "added_at": "2024-02-14 00:39:43",
+      "album": {
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2024-02-14 00:39:43",
@@ -351,18 +347,22 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
+        "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
+        "url": "https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot"
       },
       "artists": [
         {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        },
+        {
+          "name": "Barney Gombo",
+          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
         }
       ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
+      "duration_ms": 213306,
+      "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
+      "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
     },
     {
       "added_at": "2024-02-14 00:39:43",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
-      },
-      "artists": [
-        {
-          "name": "Hey B\u00e9sala",
-          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Desamorados",
-      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
-    },
-    {
-      "added_at": "2024-02-14 00:39:43",
-      "album": {
         "name": "UNODOCE",
         "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 73533,
       "name": "UNODOCE",
       "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
+    },
+    {
+      "added_at": "2024-02-14 00:39:43",
+      "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
+      },
+      "artists": [
+        {
+          "name": "Hey B\u00e9sala",
+          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Desamorados",
+      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
     },
     {
       "added_at": "2024-02-14 00:39:43",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
-        "name": "Un X100To (Cover)",
-        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "Un X100To - Cover",
-      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
-    },
-    {
-      "added_at": "2024-02-14 00:39:43",
-      "album": {
         "name": "Nunca Me Voy a Ir",
         "url": "https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 151829,
       "name": "Nunca Me Voy a Ir",
       "url": "https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG"
+    },
+    {
+      "added_at": "2024-02-14 00:39:43",
+      "album": {
+        "name": "Un X100To (Cover)",
+        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "Un X100To - Cover",
+      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
     },
     {
       "added_at": "2024-02-14 00:39:43",

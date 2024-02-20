@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "MjYsN2JiYjU2ZTM4ODBkNzM1OTE4NWViN2QyM2Q5MTEyMGFhZWFjNzJlMA==",
+  "snapshot_id": "MzEsMTBmOWQzMzM5MTEyMzkwZWRlMzJhYTJmMjFiZWRlY2U5MmY2MDA1NQ==",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -375,6 +375,86 @@
       "duration_ms": 183992,
       "name": "Cigarette Ahegao",
       "url": "https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7"
+    },
+    {
+      "added_at": "2024-02-19 07:39:31",
+      "album": {
+        "name": "Happy Pills",
+        "url": "https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "duration_ms": 203080,
+      "name": "Happy Pills",
+      "url": "https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH"
+    },
+    {
+      "added_at": "2024-02-19 07:48:42",
+      "album": {
+        "name": "Kids In The Night",
+        "url": "https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "I'm Not Ok",
+      "url": "https://open.spotify.com/track/17weS3aO2oaGYJ9Q9yM56X"
+    },
+    {
+      "added_at": "2024-02-19 08:20:39",
+      "album": {
+        "name": "Always Tired",
+        "url": "https://open.spotify.com/album/1uwuVHWQtLlheh6WxKnjDP"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Always Tired",
+      "url": "https://open.spotify.com/track/5gRJEKibCgEHT0EyTzCCNN"
+    },
+    {
+      "added_at": "2024-02-19 08:26:40",
+      "album": {
+        "name": "Are We Having Fun?",
+        "url": "https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "duration_ms": 191599,
+      "name": "Where Do I Sign?",
+      "url": "https://open.spotify.com/track/5Myf2whTzO5haXrfeisXG8"
+    },
+    {
+      "added_at": "2024-02-19 08:30:41",
+      "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/4lBNSreUSPpeHYRti8gjee"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2GxzBF4jpZRYDzJO6A32d6"
     }
   ],
   "unique_name": "Diseased",

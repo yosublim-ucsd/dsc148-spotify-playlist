@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Fatou Liyam",
+        "url": "https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324048,
+      "name": "Fatou Liyam",
+      "url": "https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c"
+    },
+    {
+      "album": {
         "name": "Fi Lamane",
         "url": "https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi"
       },
@@ -2775,6 +2793,28 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
+    },
+    {
+      "album": {
         "name": "Manetfergou",
         "url": "https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8"
       },
@@ -3958,7 +3998,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
@@ -4146,7 +4186,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 211230,
       "name": "Talet Lghiba",
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"

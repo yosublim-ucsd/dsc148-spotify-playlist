@@ -794,7 +794,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 134638,
       "name": "Bellaqueo",
       "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 139800,
       "name": "Chokalo",
       "url": "https://open.spotify.com/track/0kB3My7vy5P05AGpa69aim"
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 142812,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1va5EUQEKHCMXl9OHaD2lL"
@@ -2768,6 +2768,28 @@
       "duration_ms": 192253,
       "name": "Karol G",
       "url": "https://open.spotify.com/track/5wuLG283T9YyQeNwDJfXm0"
+    },
+    {
+      "album": {
+        "name": "KE LA CASTIGUEN",
+        "url": "https://open.spotify.com/album/2ECnJhv0Aq8MDClUNcLDsM"
+      },
+      "artists": [
+        {
+          "name": "LOUKI",
+          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "KE LA CASTIGUEN",
+      "url": "https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa"
     },
     {
       "album": {
@@ -3344,7 +3366,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 156706,
       "name": "Llama M\u00e1s Temprano",
       "url": "https://open.spotify.com/track/2KamizLc3cZPDoHedfUVIG"
@@ -3702,7 +3724,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 145529,
       "name": "Medio Metro \"Puro Cabeceo\" Cumbiaton Parte 2",
       "url": "https://open.spotify.com/track/1Lo6I3N6SKOfw3cj66y6RB"
@@ -3966,7 +3988,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 213066,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/542zBbKjNNZk5saWO6u3VU"
@@ -4118,6 +4140,40 @@
       "duration_ms": 138209,
       "name": "Nebuleo (feat. DJ Blass)",
       "url": "https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z"
+    },
+    {
+      "album": {
+        "name": "Nena Goga",
+        "url": "https://open.spotify.com/album/7mnLvVwKvJb1j3M2rhh2KC"
+      },
+      "artists": [
+        {
+          "name": "Young Gang",
+          "url": "https://open.spotify.com/artist/4bhocj59UpsFMCoJXehnk0"
+        },
+        {
+          "name": "Vida Robot",
+          "url": "https://open.spotify.com/artist/7q02Ro5duhKaT270E27czj"
+        },
+        {
+          "name": "The Creathor",
+          "url": "https://open.spotify.com/artist/5iVZq5tdAHGiJIrEcb9WLB"
+        },
+        {
+          "name": "Afro \u00d1ery",
+          "url": "https://open.spotify.com/artist/4OduSW5ROxy0t8hIQrjaPm"
+        },
+        {
+          "name": "Auleen",
+          "url": "https://open.spotify.com/artist/1RlWkpHANLC2tEkjBAxjfE"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Nena Goga",
+      "url": "https://open.spotify.com/track/7rQxmMmDB68cqX9fAE4WxI"
     },
     {
       "album": {
@@ -4798,6 +4854,32 @@
       "duration_ms": 170666,
       "name": "Perreo Post Apocaliptico (Doble Tempo Remix)",
       "url": "https://open.spotify.com/track/28yy80xJe8QkgbGuVH5iQd"
+    },
+    {
+      "album": {
+        "name": "Perreo Sayayin",
+        "url": "https://open.spotify.com/album/1qrH5OQu539WRe9dRVTyeX"
+      },
+      "artists": [
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110412,
+      "name": "Perreo Sayayin",
+      "url": "https://open.spotify.com/track/70UWCayDDTHobS9NbRrvMA"
     },
     {
       "album": {
@@ -6537,6 +6619,32 @@
     },
     {
       "album": {
+        "name": "Uff Que Rica",
+        "url": "https://open.spotify.com/album/2W06KBgPQZg9AKNgnd21p1"
+      },
+      "artists": [
+        {
+          "name": "Lexxx Torres",
+          "url": "https://open.spotify.com/artist/5JUJKO2egZMEcwR3fB3u0w"
+        },
+        {
+          "name": "Alexis Rostro",
+          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
+        },
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Uff Que Rica",
+      "url": "https://open.spotify.com/track/260D1LeYVPcZv0L4rBULJW"
+    },
+    {
+      "album": {
         "name": "Un Cigarrillo",
         "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
       },
@@ -6842,7 +6950,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 183012,
       "name": "\u00d1ero Session 7",
       "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
@@ -6886,7 +6994,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 151200,
       "name": "\u00d1ero Session 9",
       "url": "https://open.spotify.com/track/25436Um1IRszqdgUJhbeEp"

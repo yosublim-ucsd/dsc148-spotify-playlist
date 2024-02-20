@@ -39784,7 +39784,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 134000,
       "name": "Look",
       "url": "https://open.spotify.com/track/3w9mpFDp9vFUSCzQzmUnrm"
@@ -43954,6 +43954,28 @@
       "duration_ms": 134600,
       "name": "Mochileando",
       "url": "https://open.spotify.com/track/6lQdb1LHdogiblo5UQy66G"
+    },
+    {
+      "album": {
+        "name": "Modern 90's",
+        "url": "https://open.spotify.com/album/4osACQSLdQCgzzq5ifvfGe"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139518,
+      "name": "Modern 90's",
+      "url": "https://open.spotify.com/track/3mx9E5AUAnEUm359bvZWwR"
     },
     {
       "album": {

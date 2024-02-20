@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 205089,
+  "num_followers": 205346,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2E3ZTNlNzkxYzEyZmFjMmIxNTk2NTg5MGM3NjliMmJkMzA3MjUw",
+  "snapshot_id": "MCxjMTVlYmZmY2Y0YzFmOTA5ZTViNGQ1NjZlMDZhYmVlYzRlOWM1ZDM1",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 201186,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "Fell On Black Days",
-      "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 351626,
       "name": "Common People - Full Length Version",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "Fell On Black Days",
+      "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 471560,
       "name": "Protection",
       "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Ladies and gentlemen we are floating in space",
-        "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Ladies and gentlemen we are floating in space",
-      "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Pleased to Meet Me (Expanded)",
         "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 188146,
       "name": "Can't Hardly Wait - 2008 Remaster",
       "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Ladies and gentlemen we are floating in space",
+        "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Ladies and gentlemen we are floating in space",
+      "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "Music When The Lights Go Out",
-      "url": "https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 309106,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "Music When The Lights Go Out",
+      "url": "https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Sparkle And Fade",
-        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Heroin Girl",
-      "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Rites Of Passage (Expanded Edition)",
         "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 252960,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Sparkle And Fade",
+        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Heroin Girl",
+      "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
     },
     {
       "added_at": "2024-02-07 18:19:28",

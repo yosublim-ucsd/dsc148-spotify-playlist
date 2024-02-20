@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: tg.blk
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,724 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,770 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 |
 | 75 | [Trimmer](https://open.spotify.com/track/3T4OrIZRLpeL4krav8XM8z) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer](https://open.spotify.com/album/4eQc50f3xZYKoO2QXZwZvK) | 2:30 |
 
-Snapshot ID: `MCw4YTNkZDJiOGE3MWE4ZmQ4MmQ3MTliODc1MzM2Yjc0ZWJiZjAzYzkz`
+Snapshot ID: `MCxjMmEyOTY2M2VlNmY5OTA4MDIzYjZkNGEzZGJlNzViYTAzODkyMjAx`

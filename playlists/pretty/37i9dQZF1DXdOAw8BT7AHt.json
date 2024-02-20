@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Lambrini Girls",
-  "num_followers": 451899,
+  "num_followers": 451850,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGMwNzRmY2YyN2Q4ZDA4YzBmNGNmY2RmMTFhOWNiZWE2NTUzZjky",
+  "snapshot_id": "MCxlMWE1ZGZlY2E5YmY2YmY2YzgzNWUwNTkyYTc4ZWYzYjJjNGFmYzc5",
   "tracks": [
     {
       "added_at": "2024-02-16 00:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 226385,
-      "name": "Up and Comer",
-      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Honda Civic",
         "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 170520,
       "name": "Honda Civic",
       "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "The Four Before",
-        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
-      },
-      "artists": [
-        {
-          "name": "Jetski",
-          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
-        },
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 227309,
-      "name": "Toneblerone",
-      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "feel something (feat. Izzy Spears)",
         "url": "https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 202992,
       "name": "Resolution/Revolution",
       "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "The Four Before",
+        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
+      },
+      "artists": [
+        {
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
+        },
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 227309,
+      "name": "Toneblerone",
+      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "3 Days Sober",
         "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 177209,
       "name": "3 Days Sober",
       "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Bloodsucker",
-        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 136682,
-      "name": "Bloodsucker",
-      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Kids Wanna Dance",
         "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 204480,
       "name": "Kids Wanna Dance",
       "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Bloodsucker",
+        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 136682,
+      "name": "Bloodsucker",
+      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "I Gotta Feeling",
         "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "DBSAC",
-        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
+        "name": "Formal Growth In The Desert",
+        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
       },
       "artists": [
         {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
         }
       ],
-      "duration_ms": 147764,
-      "name": "DBSAC",
-      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 216618,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Cave World (Deluxe)",
         "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
       },
@@ -851,18 +851,34 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Formal Growth In The Desert",
-        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
+        "name": "What A Fucking Nightmare",
+        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
       },
       "artists": [
         {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
         }
       ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
+      "duration_ms": 216618,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "DBSAC",
+        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 147764,
+      "name": "DBSAC",
+      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -963,22 +979,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "You're My Medicine",
-        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 192682,
-      "name": "You're My Medicine",
-      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Nah, That Ain't It / Phone Lines Down",
         "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "No Guilt",
-        "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
-      },
-      "artists": [
-        {
-          "name": "PROJECTOR",
-          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
-        }
-      ],
-      "duration_ms": 124120,
-      "name": "No Guilt",
-      "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "The Heart",
         "url": "https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 155415,
       "name": "The Heart",
       "url": "https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "No Guilt",
+        "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "duration_ms": 124120,
+      "name": "No Guilt",
+      "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Boys In Blue / H.A.N.G",
-        "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
-      },
-      "artists": [
-        {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
-        }
-      ],
-      "duration_ms": 148466,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 162133,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Boys In Blue / H.A.N.G",
+        "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "duration_ms": 148466,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
+        "name": "Des Goblin",
+        "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
       },
       "artists": [
         {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
         }
       ],
-      "duration_ms": 192080,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+      "duration_ms": 256543,
+      "name": "Des Goblin",
+      "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Des Goblin",
-        "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 256543,
-      "name": "Des Goblin",
-      "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "MK Nothing",
         "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
       },
@@ -1207,6 +1191,38 @@
       "duration_ms": 204143,
       "name": "MK Nothing",
       "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 213402,
       "name": "Under The Rules",
       "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2024-02-16 00:00:00",

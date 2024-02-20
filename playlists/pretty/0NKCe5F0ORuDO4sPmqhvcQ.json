@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1ODIsNTJlODkzMGQ2ZmQ3MWM2ZTE4MDY2ZDQxY2ExZmE4M2M2NzBkZDhjMA==",
+  "snapshot_id": "MTA1ODMsYmQ0YTlmNmNjYTllYmU1ZDJjZmVhYTBiYjFlYWE5MTNiZTRmYzU0Mw==",
   "tracks": [
     {
       "added_at": "2024-02-01 17:47:45",
@@ -2907,6 +2907,22 @@
       "duration_ms": 150937,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j"
+    },
+    {
+      "added_at": "2024-02-20 00:49:48",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/57ikyQgMgUUyDQde2uz861"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/35Us9HQPF88aiWQkR3sG3G"
     }
   ],
   "unique_name": "Moving Castle Monthly",

@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 6853,
+  "num_followers": 6935,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzIwNDE5NzVhM2QzNjMyNzZmMTI5MjQxYWE2MjQwZGNiMzlmZjE2",
+  "snapshot_id": "MCw1NTA2ZDZmM2UwZjRmMDg0NDc3YzdlMGIyZGE1ZGJmZTc2YjRjMjFj",
   "tracks": [
     {
       "added_at": "2024-01-29 08:33:10",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "The 2nd Law",
         "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 253840,
       "name": "Doin' Time",
       "url": "https://open.spotify.com/track/4eamJr2k9YDH8j58RSTmSc"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Floored",
         "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 244640,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Spit Of You",
-      "url": "https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Ultraviolet Disguise (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 230000,
       "name": "Tonight You Are Mine",
       "url": "https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
+      "duration_ms": 273026,
+      "name": "Spit Of You",
+      "url": "https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Notes On A Conditional Form",
         "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 264006,
       "name": "Jesus Christ 2005 God Bless America",
       "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
     },
     {
       "added_at": "2024-01-29 08:33:10",

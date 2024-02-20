@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-536 songs - 1 day 21 hr 22 min
+537 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Crossing](https://open.spotify.com/track/1gUbrl9Lqoli4idhv7KVMW) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [Crossing](https://open.spotify.com/album/5VMS7rKdSS0uauKgcLK8It) | 5:20 | 2021-12-16 | 2022-07-27 |
 | [Croydon Koma](https://open.spotify.com/track/2HETImeZGs0gFG1yPwW4c5) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Sofia Jernberg](https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F) | [Koma West](https://open.spotify.com/album/49jGCFjyTcGjEzkbwLZVEq) | 2:31 | 2022-02-10 |  |
 | [Croydon Koma](https://open.spotify.com/track/3ETSl39IjoLVTSzrOFj68M) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Sofia Jernberg](https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F) | [Croydon Koma](https://open.spotify.com/album/3fsLGV6WtkAQXvsEiTIoyL) | 2:31 | 2022-01-13 | 2022-07-28 |
+| [Cuentro](https://open.spotify.com/track/3Fbec3laCqC6hepdISgArd) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Plex](https://open.spotify.com/album/3uXvql4fD31uz7mfaMlXPt) | 6:13 | 2022-02-10 |  |
 | [Cuentro](https://open.spotify.com/track/4qi0GjXwJHxxOXBLwpQtE5) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Cuentro](https://open.spotify.com/album/4Eyo0iY2Q94GFEZB43nGPx) | 6:13 | 2021-12-16 | 2022-07-29 |
 | [Cyrus](https://open.spotify.com/track/1HSpCqvsyUd7URKsnzOTVs) | [Barra Brown](https://open.spotify.com/artist/4rw6zh0NRR8sLOKCXFSsDe), [Cyrus Nabipoor](https://open.spotify.com/artist/0jmBXGiYaxSDOewYhEhgbQ) | [LFT:RT](https://open.spotify.com/album/6wMTUEpIhoy9ckYs0PUJ8C) | 3:39 | 2021-12-21 | 2022-07-29 |
 | [Dagdikt](https://open.spotify.com/track/7nKPNvHglxykdArk6jcIBA) | [Karl Seglem](https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS), [Odd Einar Nordheim](https://open.spotify.com/artist/6ZtgWmUro9BMk4pjD7Zmxk), [Andreas Ulvo](https://open.spotify.com/artist/16RiMHKbHZAG0gI9CSEMb1) | [Dagdikt](https://open.spotify.com/album/1sfheonLEr2x7M5VGXsJJj) | 4:55 | 2021-12-16 | 2023-04-12 |
@@ -389,7 +390,7 @@
 | [Sensing Not Seeing](https://open.spotify.com/track/16xsLdlJZ3xV3CUqKfBNEA) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sensing Not Seeing](https://open.spotify.com/album/6XD0QYboelPBgBP9TRcCxd) | 5:33 | 2021-12-16 | 2022-07-29 |
 | [Sensing Not Seeing](https://open.spotify.com/track/7JvzDglhFgutMbQvXLOoxE) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Septet](https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ) | 5:33 | 2022-02-10 |  |
 | [Seti Khola](https://open.spotify.com/track/5yiRaHOOhz3AnZpzCHDsAI) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Still Flute](https://open.spotify.com/album/4HdUt3tnsTqAskRHLYqPg4) | 5:39 | 2021-12-21 | 2022-07-29 |
-| [Seti Khola](https://open.spotify.com/track/6JOQnzP9uxrYBEPN6Ex6kv) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Still Flute](https://open.spotify.com/album/5YzXAdttew3nRAc1YPzP9t) | 5:39 | 2022-02-10 |  |
+| [Seti Khola](https://open.spotify.com/track/6JOQnzP9uxrYBEPN6Ex6kv) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Still Flute](https://open.spotify.com/album/5YzXAdttew3nRAc1YPzP9t) | 5:39 | 2022-02-10 | 2024-02-20 |
 | [Shift](https://open.spotify.com/track/68W9cfR6DfxQMiZIYfdOoF) | [Philippe Saisse](https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [Shift](https://open.spotify.com/album/1U1QWW5cr5tXERAibHziGc) | 4:13 | 2021-12-16 |  |
 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 | 2022-04-01 |  |
 | [Ships Come In \(A Lullaby\)](https://open.spotify.com/track/0Jc7cfNj1ppZfC2WzUJymn) | [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu), [Magatte Sow](https://open.spotify.com/artist/0WDGKBSxLNMOQgdqt2XldB) | [Ships Come In \(A Lullaby\)](https://open.spotify.com/album/49rbDsItFkTibPGFBX4HRg) | 7:00 | 2021-12-16 | 2022-10-20 |

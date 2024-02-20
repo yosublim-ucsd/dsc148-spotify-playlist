@@ -1118,10 +1118,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 158139,
       "name": "Quero Te Levar",
       "url": "https://open.spotify.com/track/5lY1N9XJ90Yhm54urHitVB"
+    },
+    {
+      "album": {
+        "name": "Quero Te Levar",
+        "url": "https://open.spotify.com/album/6uhyTCcHmC8UeSBW5rMMxK"
+      },
+      "artists": [
+        {
+          "name": "MC Marcinho",
+          "url": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158139,
+      "name": "Quero Te Levar",
+      "url": "https://open.spotify.com/track/7oewKPBSYM9qNbGLm7Y3LO"
     },
     {
       "album": {

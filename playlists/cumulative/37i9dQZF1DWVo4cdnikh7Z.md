@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Lal Salaam
 
-1,136 songs - 2 day 21 hr 30 min
+1,137 songs - 2 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Kanney Kanmaniye \- From "Pizza 3"](https://open.spotify.com/track/6ut1eHbCyyJB5fdgQqeBvC) | [Arun Raj](https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Lalitha Sudha](https://open.spotify.com/artist/7zz7YQYYCQnZ7cnzHke7uc) | [Kanney Kanmaniye \(From "Pizza 3"\)](https://open.spotify.com/album/0ILsLJNTreHSVfO9FMB0mP) | 3:07 | 2023-02-08 | 2023-02-21 |
 | [Kannile \(From "Andhagan"\)](https://open.spotify.com/track/3J1sBhSdSuKWBmxmGz82M4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Kannile \(From "Andhagan"\)](https://open.spotify.com/album/2pHTaaNW8GG7OZhl8r9zWx) | 3:02 | 2023-02-23 | 2023-04-01 |
 | [Kannoram](https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kannoram](https://open.spotify.com/album/0OX03EF2d7QRRzx8YtANXQ) | 5:21 | 2023-02-06 | 2023-07-15 |
+| [Kannu Kazharudhe](https://open.spotify.com/track/7LOAmhLcmzYer3Wf8P54jg) | [Pavan](https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Madhurakavi](https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh) | [Babu \(No.1 Bullshit Guy\) \- Tamil](https://open.spotify.com/album/5jCaAsJtl2UrNnxQamgCdc) | 4:22 | 2024-02-19 |  |
 | [Kannukkulle](https://open.spotify.com/track/2neYlVaQCfZfhbMPSmJjp1) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Sita Ramam \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9) | 3:52 | 2022-08-08 | 2023-01-25 |
 | [Kannukkulle \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/4WDya8Mau5wuqLnaNr2Ct0) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kannukkulle \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/1037FVZhNjSNArYGGcRIxU) | 3:52 | 2022-07-19 | 2022-08-05 |
 | [Kannum Kannum](https://open.spotify.com/track/2MVK021s78vXqWXTucOvHV) | [K.S\. Manoj](https://open.spotify.com/artist/5EOm6XJbeCNNY41VuD3lxB), [Ken](https://open.spotify.com/artist/6uYgB2FmDEimp0hJJouph1) | [Thookudurai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74cpYQbbAvuyXNW0iLsiRF) | 3:25 | 2023-03-17 | 2023-04-14 |

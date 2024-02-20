@@ -311,6 +311,40 @@
     },
     {
       "album": {
+        "name": "BAD HOP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r"
+      },
+      "artists": [
+        {
+          "name": "BAD HOP",
+          "url": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2"
+        },
+        {
+          "name": "Bark",
+          "url": "https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        },
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        },
+        {
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322133,
+      "name": "4L (feat. Bark, Benjazzy, C.O.S.A. & IO)",
+      "url": "https://open.spotify.com/track/3vlpUpYXJygq10pUUrtX1Y"
+    },
+    {
+      "album": {
         "name": "6 Years In The Game (feat. Awich)",
         "url": "https://open.spotify.com/album/1KvJrTQgijVXODRXF59v6K"
       },
@@ -2188,6 +2222,36 @@
       "duration_ms": 178285,
       "name": "DASU",
       "url": "https://open.spotify.com/track/3Z50sUroGIqtbaMQfGqOoc"
+    },
+    {
+      "album": {
+        "name": "BAD HOP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r"
+      },
+      "artists": [
+        {
+          "name": "BAD HOP",
+          "url": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2"
+        },
+        {
+          "name": "G-k.i.d",
+          "url": "https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v"
+        },
+        {
+          "name": "guca owl",
+          "url": "https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211370,
+      "name": "Day N Night (feat. G-k.i.d, guca owl & KEIJU)",
+      "url": "https://open.spotify.com/track/2QwyWJbZSu8oTB7kbSwhK2"
     },
     {
       "album": {
@@ -4210,6 +4274,36 @@
       "duration_ms": 148968,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/1pBeYVoKOTXOotNJ1MjHrk"
+    },
+    {
+      "album": {
+        "name": "BAD HOP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r"
+      },
+      "artists": [
+        {
+          "name": "BAD HOP",
+          "url": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211477,
+      "name": "Hell Yeah (feat. Vingo, MaRI & Candee)",
+      "url": "https://open.spotify.com/track/6MZyUG578VFhukodZYG8ni"
     },
     {
       "album": {
@@ -9044,7 +9138,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 234521,
       "name": "TOKYO DOME CYPHER",
       "url": "https://open.spotify.com/track/7x2zWQr89lUM17gvy3IxTH"

@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:1CFCsEqKrCyvAFKOATQHiW\">Lecrae</a>",
-  "num_followers": 148882,
+  "num_followers": 148942,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTEyYTJiNjJiYzI4ZmJkZmE2YmY2OTM4OWE4Zjk5MDAzNTc1Yzk3",
+  "snapshot_id": "MCw4ZGMwOTIxNGIxMDg4ZDQ0OTVmMGQ3NTEwM2VmNzU5ZmViMjg4OGE2",
   "tracks": [
     {
       "added_at": "2024-02-09 07:39:09",
@@ -639,6 +639,30 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Good, Pt. 2",
+        "url": "https://open.spotify.com/album/3objons9Rsft3fOjdyq5G0"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 217750,
+      "name": "Good, Pt. 2",
+      "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Favorite Trapper",
         "url": "https://open.spotify.com/album/0OOX0GDbvpMpAYZEyqM1RJ"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 146255,
       "name": "Favorite Trapper",
       "url": "https://open.spotify.com/track/6ELsXVHVwBNS81g4CXiXle"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Good, Pt. 2",
-        "url": "https://open.spotify.com/album/3objons9Rsft3fOjdyq5G0"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 217750,
-      "name": "Good, Pt. 2",
-      "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "We Know",
         "url": "https://open.spotify.com/album/3uf57UIYtHoATjGCrL35h9"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 126666,
       "name": "We Know",
       "url": "https://open.spotify.com/track/6XDfILr6lkW93PtaapDj0x"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 142826,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "IN MY ROOM",
+        "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "McKenna Johns",
+          "url": "https://open.spotify.com/artist/0KgwsewGeCsWjp7TFMfCWU"
+        }
+      ],
+      "duration_ms": 173788,
+      "name": "IN MY ROOM",
+      "url": "https://open.spotify.com/track/6NiEYy97bODtt7ntvUmlvp"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/4d7wBapxvrLYS1OzPQ7WL4"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 234320,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "IN MY ROOM",
-        "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
-      },
-      "artists": [
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        },
-        {
-          "name": "McKenna Johns",
-          "url": "https://open.spotify.com/artist/0KgwsewGeCsWjp7TFMfCWU"
-        }
-      ],
-      "duration_ms": 173788,
-      "name": "IN MY ROOM",
-      "url": "https://open.spotify.com/track/6NiEYy97bODtt7ntvUmlvp"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "HE BACK!",
-        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 115434,
-      "name": "HE BACK!",
-      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 193596,
       "name": "REASON",
       "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "HE BACK!",
+        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 115434,
+      "name": "HE BACK!",
+      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "WHATEVER HAPPENED TO KJ-52?",
-        "url": "https://open.spotify.com/album/6D1B9GHaZ4pYWpUnc5KARH"
-      },
-      "artists": [
-        {
-          "name": "KJ-52",
-          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "BETTER THAN YOU",
-      "url": "https://open.spotify.com/track/2STMnpnc6UFhRYE0vmxBxN"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "That Ain't It",
         "url": "https://open.spotify.com/album/4hqUjrpp4zDaZU5CNdAnBV"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 219375,
       "name": "That Ain't It",
       "url": "https://open.spotify.com/track/7rFQRFe1bOVQweyZUBKkqe"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "WHATEVER HAPPENED TO KJ-52?",
+        "url": "https://open.spotify.com/album/6D1B9GHaZ4pYWpUnc5KARH"
+      },
+      "artists": [
+        {
+          "name": "KJ-52",
+          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "BETTER THAN YOU",
+      "url": "https://open.spotify.com/track/2STMnpnc6UFhRYE0vmxBxN"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1527,18 +1527,26 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Troops",
-        "url": "https://open.spotify.com/album/3LFBsOLIfbqRlWlG4UzL7A"
+        "name": "Never Leave Me",
+        "url": "https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0"
       },
       "artists": [
         {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Troops",
-      "url": "https://open.spotify.com/track/1ubC4rypxA8o5M2hRj5mg4"
+      "duration_ms": 198461,
+      "name": "Never Leave Me",
+      "url": "https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1563,6 +1571,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Troops",
+        "url": "https://open.spotify.com/album/3LFBsOLIfbqRlWlG4UzL7A"
+      },
+      "artists": [
+        {
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Troops",
+      "url": "https://open.spotify.com/track/1ubC4rypxA8o5M2hRj5mg4"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/21soIvrslEuZD3oHrlKmVU"
       },
@@ -1583,30 +1607,6 @@
       "duration_ms": 168539,
       "name": "Church",
       "url": "https://open.spotify.com/track/5BDfG3jEUMcKplrlZ9dkQc"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Never Leave Me",
-        "url": "https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        },
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "Never Leave Me",
-      "url": "https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/7xeuHzljVGvqSa5cSzIq9q"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 182831,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/41odVDieeX0RhIimwLjgGk"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM"
       },
@@ -1671,18 +1687,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/7xeuHzljVGvqSa5cSzIq9q"
+        "name": "WE MISSED YOU",
+        "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Coop",
+          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
+        },
+        {
+          "name": "Swaizy",
+          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
         }
       ],
-      "duration_ms": 182831,
-      "name": "Worship",
-      "url": "https://open.spotify.com/track/41odVDieeX0RhIimwLjgGk"
+      "duration_ms": 135831,
+      "name": "Poetic Pain",
+      "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1703,26 +1723,6 @@
       "duration_ms": 161684,
       "name": "Against The Cosmic Powers",
       "url": "https://open.spotify.com/track/1vIfI3Oy2OvXG3KWkSWBHy"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "WE MISSED YOU",
-        "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
-      },
-      "artists": [
-        {
-          "name": "Coop",
-          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
-        },
-        {
-          "name": "Swaizy",
-          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
-        }
-      ],
-      "duration_ms": 135831,
-      "name": "Poetic Pain",
-      "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Dreams Don't Have Deadlines",
+        "url": "https://open.spotify.com/album/7qiaDWqCWiYjCSwJEcjW45"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 159469,
+      "name": "MOUNTAINS",
+      "url": "https://open.spotify.com/track/17OacgPhzAMKNLAkjaCxRD"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "9 to 5",
         "url": "https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 170322,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Dreams Don't Have Deadlines",
-        "url": "https://open.spotify.com/album/7qiaDWqCWiYjCSwJEcjW45"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 159469,
-      "name": "MOUNTAINS",
-      "url": "https://open.spotify.com/track/17OacgPhzAMKNLAkjaCxRD"
     },
     {
       "added_at": "2024-02-09 07:39:09",

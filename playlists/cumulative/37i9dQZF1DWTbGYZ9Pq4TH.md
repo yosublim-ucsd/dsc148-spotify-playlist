@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [22 settembre](https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [22 settembre](https://open.spotify.com/album/2XXtM3qexPIlNtotrYZjRp) | 3:50 | 2021-09-26 |  |
+| [22 settembre](https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [22 settembre](https://open.spotify.com/album/2XXtM3qexPIlNtotrYZjRp) | 3:50 | 2021-09-26 | 2024-02-20 |
 | [A DOMANI PER SEMPRE](https://open.spotify.com/track/31cYqUNrUQ0oCarV0Gqis9) | [Sofia Tornambene](https://open.spotify.com/artist/3MfKwufKrDvUxdvsbFWcwk) | [X Factor 13 \- INEDITI](https://open.spotify.com/album/2lJ6XshhJmGP5s7ue6EXzn) | 3:37 | 2021-09-26 | 2022-07-18 |
 | [A modo tuo](https://open.spotify.com/track/26BnLngCCgaDTtbnOe155S) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [L'anima vola \(Deluxe Edition\)](https://open.spotify.com/album/1kJojaiy2j8ICZIdsKGehb) | 5:20 | 2021-09-26 | 2022-07-28 |
 | [A Modo Tuo](https://open.spotify.com/track/3s98WLWw6xgBfibJexdImp) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [L'Anima Vola \(Deluxe Edition\)](https://open.spotify.com/album/6IWcTSqWt2Xd712WckzTp1) | 5:20 | 2024-02-13 | 2024-02-16 |
@@ -164,7 +164,7 @@
 | [Quel sorriso in volto](https://open.spotify.com/track/6oDAlwyZAHxi47aAJ6Kvw7) | [Modà](https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu) | [Quel sorriso in volto](https://open.spotify.com/album/0QCJbFcLkD9QgyNfivDkQX) | 4:01 | 2021-09-26 | 2022-07-27 |
 | [Questa nostra stupida canzone d'amore](https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [LOVE](https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN) | 4:09 | 2021-09-26 |  |
 | [Questo piccolo grande amore](https://open.spotify.com/track/5dfhwsPg90wDcNqY4H8FFC) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Baglioni](https://open.spotify.com/album/5OV7JvsELBeRKrLbirZt5X) | 5:36 | 2021-09-26 | 2022-07-05 |
-| [Rapide](https://open.spotify.com/track/2cf1g08CvDuhwXFqxjetQi) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Rapide](https://open.spotify.com/album/40tgSHlPNeumzdzLxaN9xC) | 4:03 | 2021-09-26 | 2022-07-29 |
+| [Rapide](https://open.spotify.com/track/2cf1g08CvDuhwXFqxjetQi) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Rapide](https://open.spotify.com/album/40tgSHlPNeumzdzLxaN9xC) | 4:03 | 2021-09-26 |  |
 | [Ricordami](https://open.spotify.com/track/6Vw7SyOg1BcWvGpyPzWgEa) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Ricordami](https://open.spotify.com/album/1Yrtp2iWOkmUiYU3SZrp0Y) | 3:25 | 2021-09-26 | 2022-07-31 |
 | [Ricordati di me](https://open.spotify.com/track/4zb0g3sxejRXrx3SPVcOHU) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [TuttoVenditti](https://open.spotify.com/album/5MHO15wZxm98p6BF4uAO5V) | 5:15 | 2021-09-26 | 2022-07-29 |
 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 | 2021-09-26 |  |

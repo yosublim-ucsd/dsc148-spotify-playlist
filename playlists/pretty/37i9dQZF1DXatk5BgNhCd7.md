@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Prince Royce y Paloma Mami
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,225 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,260 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Confundido](https://open.spotify.com/track/56DvXyI2IcAM8cU6uWM0Ei) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Confundido](https://open.spotify.com/album/3nAOYBaxxla88WMihoA5Ig) | 3:13 |
 | 50 | [Pídeme la Luna \- Remastered 2024](https://open.spotify.com/track/1kXHPMr5AueorhgIyLn1ta) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Pídeme la Luna \(Remastered 2024\)](https://open.spotify.com/album/6p6V5NqFpvzL9sQBDjQu0o) | 3:15 |
 
-Snapshot ID: `MCxkMGEyZmM3ZmQyYzQyMWMwMDM0M2VlOWJhZTAxOTI2OTU0MDBlOTUz`
+Snapshot ID: `MCxkNGVmYTk0YjE1NzZmMTY0NDJmZjcyOTc3NjE2ZDlmZWVhYmFiZmIx`

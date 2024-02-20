@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,129 likes - 77 songs - 3 hr 56 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,130 likes - 82 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,10 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 75 | [Powder In The Nose](https://open.spotify.com/track/0RLaA1MuzM6d73TOvxD5vz) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Arthur Baker](https://open.spotify.com/artist/5YzGCkGA6XEGKs2C9KRVKA) | [Powder In The Nose](https://open.spotify.com/album/4a2QlwPpWppKAX07PuNX0F) | 2:31 |
 | 76 | [Tiki](https://open.spotify.com/track/2oTajs7LpMaVkhjtJUpGwR) | [Krexxton](https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir) | [Tiki](https://open.spotify.com/album/7G2LP3rpO2vngMfwx105VK) | 2:22 |
 | 77 | [Electric](https://open.spotify.com/track/7FGj2A4yT1wUIj3xf9EUhA) | [Toni Costanzi](https://open.spotify.com/artist/4aBVngE7ykpEkvJaHJbywT) | [Electric](https://open.spotify.com/album/6FHFmz9IWO8hQRR8evWWVb) | 2:39 |
+| 78 | [Vibrate](https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Vibrate / On The Ground](https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI) | 2:14 |
+| 79 | [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 |
+| 80 | [Pick Ya Poison](https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pick Ya Poison](https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW) | 2:58 |
+| 81 | [Who Said \(ft\. EMMA LX\)](https://open.spotify.com/track/6D5dUvVqQg7my6kcUOz66F) | [Guest Who](https://open.spotify.com/artist/1KNQdt0U3TqZUUPvAAwyk3), [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0), [EMMA LX](https://open.spotify.com/artist/234RuCfsiahEnp6JER6r5f) | [Who Said \(ft\. EMMA LX\)](https://open.spotify.com/album/3kgf0hZ1ban42XGYl7PqsH) | 2:52 |
+| 82 | [Rudeboi](https://open.spotify.com/track/5i7jWlHBKsPlTA6jscQ0y1) | [Luxo](https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9), [SADYOUTH](https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx) | [Rudeboi](https://open.spotify.com/album/0bAG0Ve2AUxU77sDPGtNdw) | 3:06 |
 
-Snapshot ID: `NjI1MSw1M2ViNGRjM2MyZjEzNWI2NTM5ZmViOWM2Y2VlYmRkMTkwODEwZjgz`
+Snapshot ID: `NjI1NixkYmM1NDNlM2E3OTY1NTc3MjM3NWQ3YzZiNjY1YWYyZGI0ZmM5NTVi`

@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Lyna Mahyem, Numidia Lezoul
 
-191 songs - 11 hr 38 min
+192 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Entourage](https://open.spotify.com/track/1B3Ol7QWDUh2H9E12QLFXD) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Entourage](https://open.spotify.com/album/5nGn5Cpeaci7vkEJ6U4L5m) | 3:16 | 2021-12-09 | 2023-02-07 |
 | [Euro Dollar](https://open.spotify.com/track/4r65eqldcucQIhBMEa9tWr) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Euro Dollar](https://open.spotify.com/album/3CIdgA4Zs9gGeUTPdSe7CY) | 3:50 | 2023-07-05 |  |
 | [Faillite](https://open.spotify.com/track/19uf48N6aaHgupOuQgJEhT) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Faillite](https://open.spotify.com/album/7cEuBiqJ9MUWNg5FUGWqpv) | 3:22 | 2021-12-09 | 2022-07-28 |
+| [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 | 2024-02-19 |  |
 | [Fi Hwak](https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Fi Hwak](https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa) | 3:35 | 2021-12-09 | 2022-06-24 |
 | [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 | 2023-02-07 | 2024-02-17 |
 | [Fi Lamane](https://open.spotify.com/track/3VWh76TR16ddPnNbBZdhxZ) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MQV1zsMd4ulsMPTA6iiOY) | 3:00 | 2024-02-12 |  |
@@ -154,7 +155,7 @@
 | [Oublie\-moi](https://open.spotify.com/track/19EZ9PFgJM0xh2Ruld9z2F) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Oublie\-moi](https://open.spotify.com/album/4hS1lDUpq5UXLapDgD9MFY) | 3:01 | 2022-09-28 | 2023-08-15 |
 | [Peace N Love](https://open.spotify.com/track/7ohwke3nvqtXepKH6ujm5J) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 3:09 | 2021-12-09 | 2022-03-11 |
 | [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2021-12-09 | 2022-08-06 |
-| [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-01-30 |  |
+| [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-01-30 | 2024-02-20 |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 | 2022-11-25 |
 | [SAH](https://open.spotify.com/track/1G3OTUGfbYcA5r2FgkBMZp) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [SAH](https://open.spotify.com/album/3oKii6T1E3bnh5ijB4ewqb) | 3:00 | 2023-02-06 | 2023-03-31 |
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2023-08-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,407 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,408 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Xany](https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Xany](https://open.spotify.com/album/76YpBmmt5imdfMH7d6ITCn) | 2:08 |
 | 50 | [Won't Come Back](https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Won't Come Back](https://open.spotify.com/album/3B6aCf22aZ9nwJWIIBVhjX) | 3:54 |
 
-Snapshot ID: `MCw3ZmQ1MGZkMDNjYWNlNzY2NTQ4MTYzZWFjYjM1MDQwYzc4MjM0OWU3`
+Snapshot ID: `MCwyZGU1NjE3MzlhYmJmMWNkMWMxMTI0MzE3ZmQ1NDQzNDA1NGYzYTM3`

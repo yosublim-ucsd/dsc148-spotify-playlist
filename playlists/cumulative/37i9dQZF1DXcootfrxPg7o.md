@@ -4,7 +4,7 @@
 
 > Music from and inspired by Neflix's Malcolm & Marie.
 
-37 songs - 2 hr 37 min
+38 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [One Day](https://open.spotify.com/track/2GHp47AE8HTBF9xpG7FIoz) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Ridin' Dirty](https://open.spotify.com/album/4jTPQq9PSlKMOm1yLx2ATN) | 5:24 | 2021-01-22 |  |
 | [One Mo'Gin](https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:13 | 2021-01-22 |  |
 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 | 2021-01-22 |  |
-| [Only Trust Your Heart](https://open.spotify.com/track/11ZdsvOq4eWKiZkgg4TS5x) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Brasil](https://open.spotify.com/album/75fbhUok6AALC0oNZ4Qz0Z) | 4:27 | 2021-01-22 |  |
+| [Only Trust Your Heart](https://open.spotify.com/track/11ZdsvOq4eWKiZkgg4TS5x) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Brasil](https://open.spotify.com/album/75fbhUok6AALC0oNZ4Qz0Z) | 4:27 | 2021-01-22 | 2024-02-20 |
+| [Only Trust Your Heart \- Live At Café Au Go\-Go,1964](https://open.spotify.com/track/175CBVqMDwIV0b2AvC00Jy) | [The New Stan Getz Quartet](https://open.spotify.com/artist/1KPXBL5bib3e0ejBIqHC6c), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz Au Go Go](https://open.spotify.com/album/6QRnSOOnQtoETsFxtj43Qu) | 4:34 | 2021-01-22 |  |
 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 | 2021-01-22 |  |
 | [That Loving Feeling](https://open.spotify.com/track/3fd4eP1FWI8dsknVlMqqEg) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Chocolate Chip](https://open.spotify.com/album/7mIrSFMheCqMYOVVKcQWk4) | 6:35 | 2021-01-22 |  |
 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 | 2021-01-22 |  |

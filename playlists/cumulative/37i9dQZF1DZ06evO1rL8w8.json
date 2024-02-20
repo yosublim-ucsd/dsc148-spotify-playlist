@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148874,
+      "name": "Detras Del Miedo",
+      "url": "https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm"
+    },
+    {
+      "album": {
         "name": "El cantador (En vivo)",
         "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 156908,
       "name": "Malditas Ganas",
       "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"

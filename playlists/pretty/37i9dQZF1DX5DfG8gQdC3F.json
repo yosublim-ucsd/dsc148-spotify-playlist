@@ -1,12 +1,12 @@
 {
   "description": "New music from Beyonc\u00e9, Mother Mother, Dua Lipa, Josh Ross and more. ",
-  "num_followers": 352552,
+  "num_followers": 352588,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjBlMDc3ZThhZTExZjkwMjNlOGVjYTg1Y2JhNzY3MGQ5YTI4M2Uy",
+  "snapshot_id": "MCw5ZDViZjBiMGZlNzk5MzNhMTgwMmYyZTVkNTRlOTEyNzYxYWYyOTA0",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -292,12 +292,12 @@
       },
       "artists": [
         {
-          "name": "DIVINE",
-          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
-        },
-        {
           "name": "Karan Aujla",
           "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
         },
         {
           "name": "Jonita Gandhi",

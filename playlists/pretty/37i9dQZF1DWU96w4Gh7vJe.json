@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 582387,
+  "num_followers": 582408,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzJiYjNkYmQ3NjZmYmVjNDc5MjE4MzE1YzZhYWM4MmJmMzgxMWVh",
+  "snapshot_id": "MCxlNzEwZjRhNGNmOGFmZTA4NmE5NzNiYmE5OThiNjlhMWZkOTMzNTk4",
   "tracks": [
     {
       "added_at": "2024-02-07 07:48:59",
@@ -155,6 +155,26 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
+        "name": "Pakundangan (feat. Hev Abi)",
+        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Pakundangan (feat. Hev Abi)",
+      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
         "name": "Gusto With Ya",
         "url": "https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 242813,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
-        "name": "Pakundangan (feat. Hev Abi)",
-        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
-      },
-      "artists": [
-        {
-          "name": "DEMI",
-          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
-        },
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Pakundangan (feat. Hev Abi)",
-      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
     },
     {
       "added_at": "2024-02-07 07:48:59",
@@ -270,11 +270,15 @@
         {
           "name": "December Avenue",
           "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        },
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
         }
       ],
-      "duration_ms": 270233,
-      "name": "Bulong",
-      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
+      "duration_ms": 267759,
+      "name": "Kung 'Di Rin Lang Ikaw",
+      "url": "https://open.spotify.com/track/2KjZEVkRS7wStfRygdRnso"
     },
     {
       "added_at": "2024-02-07 07:48:59",
@@ -343,6 +347,22 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 270233,
+      "name": "Bulong",
+      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
       },
@@ -375,42 +395,6 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
-        "name": "Versions & Beyond",
-        "url": "https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx"
-      },
-      "artists": [
-        {
-          "name": "MYMP",
-          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Especially For You",
-      "url": "https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        },
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 267759,
-      "name": "Kung 'Di Rin Lang Ikaw",
-      "url": "https://open.spotify.com/track/2KjZEVkRS7wStfRygdRnso"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
         "name": "Monodramatic",
         "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
+        "name": "Versions & Beyond",
+        "url": "https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx"
+      },
+      "artists": [
+        {
+          "name": "MYMP",
+          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Especially For You",
+      "url": "https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR"
     },
     {
       "added_at": "2024-02-07 07:48:59",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
+        "name": "Oks Lang",
+        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "duration_ms": 336369,
+      "name": "Oks Lang",
+      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
         "name": "Pity Ya",
         "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
       },
@@ -643,38 +659,6 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
-        "name": "Oks Lang",
-        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        }
-      ],
-      "duration_ms": 336369,
-      "name": "Oks Lang",
-      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
-      },
-      "artists": [
-        {
-          "name": "Khel Pangilinan",
-          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
         "name": "Mikasa",
         "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 253333,
       "name": "Mikasa",
       "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
     },
     {
       "added_at": "2024-02-07 07:48:59",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
-        "name": "Cafe Bossa",
-        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
+        "name": "Closer You and I",
+        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
       },
       "artists": [
         {
-          "name": "Sitti",
-          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Para Sa Akin",
-      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
+      "duration_ms": 240000,
+      "name": "Closer You and I",
+      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
     }
   ],
   "unique_name": "Relax Tayo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Douwe Bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,985 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,987 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 11 | [Tainted](https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5) | 3:01 |
 | 12 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 13 | [Tequila](https://open.spotify.com/track/6uqpNQYnxhPEjiCxDGJPPi) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Tequila](https://open.spotify.com/album/4JpqHaDLwKHq8N6xhM2H5M) | 2:39 |
-| 14 | [No Tenía](https://open.spotify.com/track/5sU8VO1S2SIbbA9vcFmG0u) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [No Tenía](https://open.spotify.com/album/3HDnq1J4fonyWE2FLq1juf) | 3:43 |
+| 14 | [No Tenía](https://open.spotify.com/track/5sU8VO1S2SIbbA9vcFmG0u) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No Tenía](https://open.spotify.com/album/3HDnq1J4fonyWE2FLq1juf) | 3:43 |
 | 15 | [Later Komt De Kater](https://open.spotify.com/track/5Kz9vP12cfJq8ljKyuwumL) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Later Komt De Kater](https://open.spotify.com/album/7vtOjoItpfMoxCtSjiGHbx) | 2:56 |
 | 16 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 |
 | 17 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Matter Of Time](https://open.spotify.com/track/4P5POsIpc0LColFSr7cHFO) | [Classic Water](https://open.spotify.com/artist/6168i8zD9r91n3VtWSr6ju) | [Matter Of Time](https://open.spotify.com/album/2Em5gQaLi1Y3019p7PJZeF) | 5:56 |
 | 100 | [LALALA Ik Luister Niet](https://open.spotify.com/track/2sO7p28bfJjvcT8ls1HHR6) | [Nachtcassie](https://open.spotify.com/artist/1CDw8i54G5IEfOMzQtFsix) | [LALALA Ik Luister Niet](https://open.spotify.com/album/71tWrtJKq1kdEDvoDj8xo4) | 2:57 |
 
-Snapshot ID: `MCxiNmQyMzc0OGU2NTZkODY0ZDQ5ZTJmY2QyZTgxODkxYzkzOWVhZGRh`
+Snapshot ID: `MCxhNmY0NGI1YTA5NmZhYWFlOGY1Y2U3MjMzNjA5MDQ0ZGQzMzk3YWRj`

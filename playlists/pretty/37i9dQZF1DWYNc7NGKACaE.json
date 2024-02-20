@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 77297,
+  "num_followers": 77356,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy",
+  "snapshot_id": "MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -47,30 +47,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Mas Existe um Lugar (speed)",
-        "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 141615,
-      "name": "Mas Existe um Lugar - speed",
-      "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Imprevisto \u2013 Speed",
         "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
       },
@@ -91,6 +67,30 @@
       "duration_ms": 118666,
       "name": "Imprevisto \u2013 Speed",
       "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Mas Existe um Lugar (speed)",
+        "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 141615,
+      "name": "Mas Existe um Lugar - speed",
+      "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Posturado e Calmo (Speedplug)",
+        "url": "https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi"
+      },
+      "artists": [
+        {
+          "name": "Eusoares085",
+          "url": "https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg"
+        }
+      ],
+      "duration_ms": 103894,
+      "name": "Posturado e Calmo (Speedplug)",
+      "url": "https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 115714,
       "name": "SUV - Remix",
       "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Posturado e Calmo (Speedplug)",
-        "url": "https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi"
-      },
-      "artists": [
-        {
-          "name": "Eusoares085",
-          "url": "https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg"
-        }
-      ],
-      "duration_ms": 103894,
-      "name": "Posturado e Calmo (Speedplug)",
-      "url": "https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Luxo & Crime Speed",
         "url": "https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 140628,
       "name": "Luxo & Crime Speed",
       "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1071,22 +1071,38 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
+        "name": "Sou Eu (Speed)",
+        "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
       },
       "artists": [
         {
-          "name": "PL JUNIOR",
-          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
         },
         {
-          "name": "ANNY SUCESSADA",
-          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
         }
       ],
-      "duration_ms": 106631,
-      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
+      "duration_ms": 125270,
+      "name": "Sou Eu - Speed",
+      "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1111,38 +1127,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
       },
       "artists": [
         {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Sou Eu (Speed)",
-        "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
-      },
-      "artists": [
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+          "name": "PL JUNIOR",
+          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
         },
         {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+          "name": "ANNY SUCESSADA",
+          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
         }
       ],
-      "duration_ms": 125270,
-      "name": "Sou Eu - Speed",
-      "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
+      "duration_ms": 106631,
+      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
     },
     {
       "added_at": "2023-12-27 14:18:14",

@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: ReoNa",
-  "num_followers": 153280,
+  "num_followers": 153345,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2FhZWM0NmExOWU5MDVmMDY1ZjRlZTY0NDQwYzExNzkwYmRhZjg5",
+  "snapshot_id": "MCwyY2U3MDQwN2ViOWNlMWU4M2JiZmFhMmRlYzZmNDkyMWI4YzdlNjJi",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30e6\u30a4",
-          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "Ado \"Ready For My Show Playlist\"",
         "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 191105,
       "name": "\u30af\u30e9\u30af\u30e9",
       "url": "https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30e6\u30a4",
+          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh"
-      },
-      "artists": [
-        {
-          "name": "DAZBEE",
-          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Scarlet",
-      "url": "https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "\u3089\u3076\u3058\u3085\u3066\u30fc\u3080",
         "url": "https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa"
       },
@@ -463,6 +447,46 @@
       "duration_ms": 195449,
       "name": "\u3089\u3076\u3058\u3085\u3066\u30fc\u3080",
       "url": "https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        },
+        {
+          "name": "\u5de1\u5de1",
+          "url": "https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl"
+        }
+      ],
+      "duration_ms": 167966,
+      "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh"
+      },
+      "artists": [
+        {
+          "name": "DAZBEE",
+          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Scarlet",
+      "url": "https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -495,30 +519,6 @@
       "duration_ms": 231833,
       "name": "\u671b\u90f7",
       "url": "https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "\u306f\u3057\u30e1\u30ed",
-          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
-        },
-        {
-          "name": "\u5de1\u5de1",
-          "url": "https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl"
-        }
-      ],
-      "duration_ms": 167966,
-      "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75"
     },
     {
       "added_at": "2024-02-13 15:00:00",

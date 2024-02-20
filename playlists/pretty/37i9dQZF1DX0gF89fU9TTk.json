@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 128849,
+  "num_followers": 128889,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGJmYWY4ZjQ4MjBiNDRmY2I0YjM3MGQyNzkwNzRjMDY5ZGU0YmZm",
+  "snapshot_id": "MCw3NWVmMTZlOGU4NjU3YmQ4MDk0MWMxODYwZjZmYzY3MTY5NjQzMTU4",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "NEVER WALK AWAY",
+        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200017,
+      "name": "NEVER WALK AWAY",
+      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 185573,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "NEVER WALK AWAY",
-        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200017,
-      "name": "NEVER WALK AWAY",
-      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+        "name": "All I See (feat. CASS)",
+        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+      "duration_ms": 183341,
+      "name": "All I See (feat. CASS)",
+      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -527,22 +531,34 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All I See (feat. CASS)",
-        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
       },
       "artists": [
         {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 183341,
-      "name": "All I See (feat. CASS)",
-      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
+      "duration_ms": 234443,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -567,22 +583,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 234443,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "BETTER WITH YOU",
         "url": "https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 166405,
       "name": "BETTER WITH YOU",
       "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Motion Worship",
+        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
+      },
+      "artists": [
+        {
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+        }
+      ],
+      "duration_ms": 226568,
+      "name": "Freedom Wild",
+      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -615,22 +631,6 @@
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/0ku3fg1KCU9wZBiSOHZ3Xb"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Motion Worship",
-        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
-      },
-      "artists": [
-        {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
-        }
-      ],
-      "duration_ms": 226568,
-      "name": "Freedom Wild",
-      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "III (Reimagined)",
-        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -703,22 +699,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Eyes On You (Live)",
-        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
+        "name": "III (Reimagined)",
+        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         },
         {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 233947,
-      "name": "Eyes On You - Live",
-      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+      "duration_ms": 202960,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+        "name": "Eyes On You (Live)",
+        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+      "duration_ms": 233947,
+      "name": "Eyes On You - Live",
+      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Love Running Wild",
         "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 184264,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Fear Not",
         "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 184264,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
       },
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Worship: The Remix Project, Vol. 3",
-        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Skye Reedy",
-          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
-        }
-      ],
-      "duration_ms": 236025,
-      "name": "The Blessing - Reyer Remix",
-      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Love Goes On",
         "url": "https://open.spotify.com/album/1DUATtHXOoaHIaj2yojBTy"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 222597,
       "name": "Love Goes On - Remix",
       "url": "https://open.spotify.com/track/1tGTlycaTuNIIbqziQGcOR"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Worship: The Remix Project, Vol. 3",
+        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Skye Reedy",
+          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
+        }
+      ],
+      "duration_ms": 236025,
+      "name": "The Blessing - Reyer Remix",
+      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
     }
   ],
   "unique_name": "Hits UP",

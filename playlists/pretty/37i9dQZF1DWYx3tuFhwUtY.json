@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGY0OWQ2MjM2ZDc0ODI0YjQ4ZTc4M2ZkZDk3MjFiYzFiMTU5YzUz",
+  "snapshot_id": "MCwyZmM5MDM3OWUyMTE2YWI1MmQ1MjkwMTUyYjIxNTA1ODg4MzFmZDBj",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Allah-Las",
-        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 212986,
-      "name": "Catamaran",
-      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
+        "name": "Allah-Las",
+        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
       "artists": [
         {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
         }
       ],
-      "duration_ms": 261153,
-      "name": "Jeannie Becomes A Mom",
-      "url": "https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh"
+      "duration_ms": 212986,
+      "name": "Catamaran",
+      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -559,6 +543,22 @@
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Jeannie Becomes A Mom",
+      "url": "https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Beat the Devil's Tattoo",
-      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Ciclo",
         "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 199124,
       "name": "Ag\u00fcitaecoco",
       "url": "https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Beat the Devil's Tattoo",
+      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Creep in a T-Shirt",
+      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 220106,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "Creep in a T-Shirt",
-      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
       "added_at": "2023-10-23 19:19:23",

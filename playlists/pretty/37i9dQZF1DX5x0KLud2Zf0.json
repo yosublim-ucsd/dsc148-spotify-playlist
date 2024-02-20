@@ -1,12 +1,12 @@
 {
   "description": "La pluma sensible detr\u00e1s de tus favoritas de regional mexicano.",
-  "num_followers": 102320,
+  "num_followers": 102352,
   "original_name": "Cancionero Horacio Palencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTU2MWY2OWY0OTNhNDgyODRmZmM3OGE4OTM1MTA2ZDg3M2NjYTQz",
+  "snapshot_id": "MCxjYWRiMjEwOWQ1YTQxMjhiYzE5MDI3NjM2MDRiNjI0ODlhNjUzODQy",
   "tracks": [
     {
       "added_at": "2021-11-11 19:24:28",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Enhorabuena",
-      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "No Me Pidas Perd\u00f3n",
         "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 190773,
       "name": "Ha\u0301blame De Ti",
       "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "Al Fin Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Me Cambiaste la Vida",
+      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Gracias Por Creer",
         "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
       },
@@ -227,34 +243,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Sinaloense Hasta Las Cachas",
-        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
+        "name": "10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
       },
       "artists": [
         {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 174213,
-      "name": "T\u00fa Ya Eres Cosa Del Pasado",
-      "url": "https://open.spotify.com/track/781lqqMzOTUPNl21JdgaLS"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Al Fin Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Me Cambiaste la Vida",
-      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
+      "duration_ms": 153493,
+      "name": "Hermosa Experiencia",
+      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -307,34 +307,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
+        "name": "Sinaloense Hasta Las Cachas",
+        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
         }
       ],
-      "duration_ms": 153493,
-      "name": "Hermosa Experiencia",
-      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "El Antes Y El Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
-      },
-      "artists": [
-        {
-          "name": "La Poderosa Banda San Juan",
-          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "El Antes Y El Despu\u00e9s",
-      "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
+      "duration_ms": 174213,
+      "name": "T\u00fa Ya Eres Cosa Del Pasado",
+      "url": "https://open.spotify.com/track/781lqqMzOTUPNl21JdgaLS"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -355,6 +339,22 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "El Antes Y El Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
+      },
+      "artists": [
+        {
+          "name": "La Poderosa Banda San Juan",
+          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "El Antes Y El Despu\u00e9s",
+      "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Mi Complemento",
         "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Sinaloense Hasta Las Cachas",
-        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "No Me Pidas Perd\u00f3n",
         "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
@@ -399,22 +383,6 @@
       "duration_ms": 223453,
       "name": "No Me Pidas Perdo\u0301n",
       "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Mi Raz\u00f3n De Ser",
-      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -463,6 +431,38 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Sinaloense Hasta Las Cachas",
+        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/6IQ9Tk73kwPmKbdnMQ7nlo"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 184173,
       "name": "Me Gusta Todo De Ti",
       "url": "https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Una Poes\u00eda",
-        "url": "https://open.spotify.com/album/2YJNuXQxw3KHCxLUPb7PXg"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Otro de Esos Cuentos",
-      "url": "https://open.spotify.com/track/2LWBwqpIaFDiWnPNTZNS8b"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -511,18 +495,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Todo Gracias A Ti",
-        "url": "https://open.spotify.com/album/14LLEBlGGSHP240DyKZ7hk"
+        "name": "Una Poes\u00eda",
+        "url": "https://open.spotify.com/album/2YJNuXQxw3KHCxLUPb7PXg"
       },
       "artists": [
         {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 182880,
-      "name": "No S\u00e9 C\u00f3mo Pagarte",
-      "url": "https://open.spotify.com/track/3yi3RIdQCniaU5TrIqwV3i"
+      "duration_ms": 195706,
+      "name": "Otro de Esos Cuentos",
+      "url": "https://open.spotify.com/track/2LWBwqpIaFDiWnPNTZNS8b"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -559,22 +543,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "El Amor De Mi Vida",
-        "url": "https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 228440,
       "name": "Consecuencia De Mis Actos",
       "url": "https://open.spotify.com/track/6b2KNJfIFpFg8ygNI7j1lT"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "El Amor De Mi Vida",
+        "url": "https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -623,22 +607,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Olvidarte No Ser\u00e1 Sencillo",
-      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Todo Depende De Ti",
         "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
       },
@@ -655,6 +623,38 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "Todo Gracias A Ti",
+        "url": "https://open.spotify.com/album/14LLEBlGGSHP240DyKZ7hk"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "No S\u00e9 C\u00f3mo Pagarte",
+      "url": "https://open.spotify.com/track/3yi3RIdQCniaU5TrIqwV3i"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Olvidarte No Ser\u00e1 Sencillo",
+      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Luces, C\u00e1mara Y Acci\u00f3n",
         "url": "https://open.spotify.com/album/3NgO1pIxZR6jIR1pQSp6Yo"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 183440,
       "name": "Se Me Olvid\u00f3 Quererte",
       "url": "https://open.spotify.com/track/14YbqW6XJO7w1T07tEL2RF"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "Eres Dif\u00edcil",
+      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -703,22 +719,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Lo Que Pienso De Ti",
-        "url": "https://open.spotify.com/album/3UD2WQnpKZMUPYBqy7ae9G"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Lo Que Pienso De Ti",
-      "url": "https://open.spotify.com/track/2KWZ8Az5GyIDMrSVtdGmzm"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 180244,
       "name": "Tu Decides",
       "url": "https://open.spotify.com/track/5tPAWUWH0HaMtAu0beheuX"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 150786,
-      "name": "Eres Dif\u00edcil",
-      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -807,22 +791,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Nada Iguales",
-        "url": "https://open.spotify.com/album/2oCf0ogw4OlZ6dQWVCiJhK"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Nada Iguales",
-      "url": "https://open.spotify.com/track/6wJWuNuuCiqkOF3tJSjElT"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "La Arrolladora Banda el Limon vs Banda San Jose de Mesillas",
         "url": "https://open.spotify.com/album/4DAfsg5bYdzEZqKP2YnYiJ"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 204146,
       "name": "Como la Palma de Mi Mano",
       "url": "https://open.spotify.com/track/29Lzwd3TKWi5Amhg8FKJJL"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Lo Que Pienso De Ti",
+        "url": "https://open.spotify.com/album/3UD2WQnpKZMUPYBqy7ae9G"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Lo Que Pienso De Ti",
+      "url": "https://open.spotify.com/track/2KWZ8Az5GyIDMrSVtdGmzm"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Elegiste Un Error",
+      "url": "https://open.spotify.com/track/7kmrbuDn7yI4t0VoHIV9PR"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "As\u00ed Te Necesito",
-      "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "De Fiesta Con La Sonora Dinamita",
         "url": "https://open.spotify.com/album/3lFZeCRwiWkvCz4vUh9DgR"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 180682,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/0W0SWGtoy0TZngx6p9LSNK"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Nada Iguales",
+        "url": "https://open.spotify.com/album/2oCf0ogw4OlZ6dQWVCiJhK"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Nada Iguales",
+      "url": "https://open.spotify.com/track/6wJWuNuuCiqkOF3tJSjElT"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Elegiste Un Error",
-      "url": "https://open.spotify.com/track/7kmrbuDn7yI4t0VoHIV9PR"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Mi Error Favorito",
         "url": "https://open.spotify.com/album/423FL3yZS8QzgWCVHhQnQk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 245586,
       "name": "Como La Palma de Mi Mano",
       "url": "https://open.spotify.com/track/5hcvgFFPMohgecJkH8Nx2z"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "As\u00ed Te Necesito",
+      "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Muchas Gracias",
-        "url": "https://open.spotify.com/album/0B6dRIWp77dVdmpX9UOaVR"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Plato De Segunda Mesa",
-      "url": "https://open.spotify.com/track/2qY49wDYVIAMdRkLgrlrqp"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Fue Bueno Mientras Fue",
         "url": "https://open.spotify.com/album/5L5yfF1NmzDcQuTdoUunLp"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 207826,
       "name": "Fue Bueno Mientras Fue",
       "url": "https://open.spotify.com/track/1m32Mg4b7P9TyDrMthKb3D"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Muchas Gracias",
+        "url": "https://open.spotify.com/album/0B6dRIWp77dVdmpX9UOaVR"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Plato De Segunda Mesa",
+      "url": "https://open.spotify.com/track/2qY49wDYVIAMdRkLgrlrqp"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Aqu\u00ed Estamos",
-        "url": "https://open.spotify.com/album/6y5Wo2mwF1U5BmmXXONRGh"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Como Aquel Primer Amor",
-      "url": "https://open.spotify.com/track/6a0AcpN30bqF320WdD5NyE"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Durmiendo en el Lugar Equivocado",
         "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 159880,
       "name": "Bienvenida",
       "url": "https://open.spotify.com/track/2UaiGUbNHC0Yyez98swzkS"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Aqu\u00ed Estamos",
+        "url": "https://open.spotify.com/album/6y5Wo2mwF1U5BmmXXONRGh"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Como Aquel Primer Amor",
+      "url": "https://open.spotify.com/track/6a0AcpN30bqF320WdD5NyE"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/3XiBZ63yqMHNklPLIiIAMx"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "De Ti Exclusivo",
-      "url": "https://open.spotify.com/track/5jTONxXzG2oRzc6gveGELN"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Irreversible... 2012",
         "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 222786,
       "name": "Te Prometo",
       "url": "https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/3XiBZ63yqMHNklPLIiIAMx"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/5jTONxXzG2oRzc6gveGELN"
     }
   ],
   "unique_name": "Cancionero Horacio Palencia",

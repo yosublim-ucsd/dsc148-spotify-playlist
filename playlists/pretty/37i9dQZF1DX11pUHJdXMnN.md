@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,293 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,304 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 8 | [Brain Machine](https://open.spotify.com/track/01CKAEZULi2Ddw4Xg4rDr7) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Brain Machine](https://open.spotify.com/album/2hZCIw0C4L89eTpCkwdkkA) | 5:48 |
 | 9 | [You And I \- Late Nite Tuff Guy Dub Remix](https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl) | 6:24 |
 | 10 | [Love Divide](https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n) | [PADDY](https://open.spotify.com/artist/0Dcbqd0bkwytdhGS8Zvuky) | [Love Divide](https://open.spotify.com/album/362ceaJQRuOKtYw8xsGIa3) | 3:52 |
-| 11 | [Floppy \- Marlon Hoffstadt's Energy Bells Mix](https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9) | [Peak & Swift](https://open.spotify.com/artist/699xHTQaLrfHyQ66Jr4DOv), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Floppy Drive EP](https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0) | 5:42 |
-| 12 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/4czjZSQpYx1eXjACRi5mhF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans Remixes](https://open.spotify.com/album/35eR9Mc46LYOTNan8SS2VS) | 3:59 |
+| 11 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/4czjZSQpYx1eXjACRi5mhF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans Remixes](https://open.spotify.com/album/35eR9Mc46LYOTNan8SS2VS) | 3:59 |
+| 12 | [Floppy \- Marlon Hoffstadt's Energy Bells Mix](https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9) | [Peak & Swift](https://open.spotify.com/artist/699xHTQaLrfHyQ66Jr4DOv), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Floppy Drive EP](https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0) | 5:42 |
 | 13 | [Life Is A Song Worth Singing \- Jamie Jones Remix](https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Mixmag Presents Teddy Pendergrass: The Remixes \- EP](https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho) | 8:47 |
 | 14 | [The Rollercoaster](https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Rollercoaster](https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF) | 3:39 |
 | 15 | [Silver Machine](https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [ANIITIME003](https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ) | 7:24 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MCxiYjA5NjBjYTcxYThjYjUzNjIwNGE5NTQyNDViNjI3ZjU1NmEyYWRl`
+Snapshot ID: `MCxmODAzYmY3ZDczMGQ3NDZkZjQwYmZkM2FkMjlmMzhlODNhZDk3MWU0`

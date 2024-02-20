@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 35466,
+  "num_followers": 35523,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmMxZDQ2MWVkOTk5NTcyODgxNjBiYWU1ZGJjMjhhNGI1MGU5YWJl",
+  "snapshot_id": "MCxiNjY2ZmNiYjA5NTVlMWYwOTI1ZmVjNjdkMDhlMWY1OTU5YjhiNGU2",
   "tracks": [
     {
       "added_at": "2023-12-08 21:38:00",
@@ -179,8 +179,8 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
+        "name": "Eyelid Movies",
+        "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 227160,
-      "name": "Black Out Days",
-      "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
+      "duration_ms": 249066,
+      "name": "When I'm Small",
+      "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -315,8 +315,8 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Eyelid Movies",
-        "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 249066,
-      "name": "When I'm Small",
-      "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
+      "duration_ms": 227160,
+      "name": "Black Out Days",
+      "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
       },
       "artists": [
         {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
       "artists": [
         {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
         }
       ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Weval",
-        "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 324173,
       "name": "Flip Ya Lid",
       "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Weval",
+        "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 308741,
-      "name": "Gimme Some",
-      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 284800,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 308741,
+      "name": "Gimme Some",
+      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Seconds",
         "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 253080,
       "name": "Jasmine - Demo",
       "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Helios",
-        "url": "https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S"
-      },
-      "artists": [
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        },
-        {
-          "name": "WAYNE SNOW",
-          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Helios",
-      "url": "https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 300266,
       "name": "Body Language - Interpretation",
       "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Helios",
+        "url": "https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S"
+      },
+      "artists": [
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Helios",
+      "url": "https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Escapism",
-        "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 219474,
-      "name": "LONG DISTANCE",
-      "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Meditations on Afrocentrism",
         "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 254698,
       "name": "Down the Line - It Takes a Number",
       "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 219474,
+      "name": "LONG DISTANCE",
+      "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "H\u00e9misph\u00e8re / Je m'ennuie",
-        "url": "https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0"
-      },
-      "artists": [
-        {
-          "name": "Paradis",
-          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
-        }
-      ],
-      "duration_ms": 433388,
-      "name": "H\u00e9misph\u00e8re",
-      "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Why Make Sense? (Definitive Version)",
         "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 285565,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "H\u00e9misph\u00e8re / Je m'ennuie",
+        "url": "https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0"
+      },
+      "artists": [
+        {
+          "name": "Paradis",
+          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
+        }
+      ],
+      "duration_ms": 433388,
+      "name": "H\u00e9misph\u00e8re",
+      "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Archangel",
-      "url": "https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Glass Animals",
         "url": "https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 211194,
       "name": "Psylla",
       "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM"
     }
   ],
   "unique_name": "voltage",

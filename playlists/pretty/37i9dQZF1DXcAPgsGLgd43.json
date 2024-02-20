@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3922,
+  "num_followers": 3924,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmE4OTdkYTJmMmJhZWQ5ODZlYjVjMWFiN2JhODBkMDVkMzc0ZTUx",
+  "snapshot_id": "MCw0ZjdhMmM2OWJkZWY1Njc2NTNmMTMzZmYzMWEzOTJlNTUyNjk0MWU1",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -735,6 +735,34 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Chakachaka",
+        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Damien N-Drix",
+          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Chakachaka",
+      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
@@ -771,34 +799,6 @@
       "duration_ms": 187200,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Chakachaka",
-        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Damien N-Drix",
-          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Chakachaka",
-      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Senta Relaxa",
         "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
       },
@@ -1107,22 +1091,38 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
       },
       "artists": [
         {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Que Pasa",
+        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Que Pasa",
+      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Que Pasa",
-        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Que Pasa",
-      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Balan\u00e7a",
         "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
       },
@@ -1195,22 +1175,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 225116,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "La Gente",
         "url": "https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ"
       },
@@ -1227,6 +1191,42 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
       },
@@ -1239,6 +1239,26 @@
       "duration_ms": 176250,
       "name": "La La La",
       "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "No Pares",
+        "url": "https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Alexander Som",
+          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1263,26 +1283,6 @@
       "duration_ms": 148560,
       "name": "Levanta",
       "url": "https://open.spotify.com/track/2uitOFTk6M7eI8TB5I3J2B"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "No Pares",
-        "url": "https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Alexander Som",
-          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "No Pares",
-      "url": "https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1343,6 +1343,46 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
       },
@@ -1355,26 +1395,6 @@
       "duration_ms": 228214,
       "name": "Ecua",
       "url": "https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "La Bulla",
-        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Many Malon",
-          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Bulla",
-      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1403,6 +1423,26 @@
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "La Bulla",
+        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Many Malon",
+          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "La Bulla",
+      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1439,26 +1479,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Te Recorde",
-        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Te Recorde",
-      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Dimini",
         "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
       },
@@ -1479,22 +1499,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "\u00a1Date Prisa!",
-        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+        "name": "Bandolera (feat. Buza)",
+        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
       },
       "artists": [
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
         },
         {
-          "name": "STO CULTR",
-          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+          "name": "Buza",
+          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
         }
       ],
-      "duration_ms": 199687,
-      "name": "\u00a1Date Prisa!",
-      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
+      "duration_ms": 175040,
+      "name": "Bandolera (feat. Buza)",
+      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1515,26 +1535,6 @@
       "duration_ms": 166620,
       "name": "Everybody Salsa - Andruss Remix",
       "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Bandolera (feat. Buza)",
-        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        },
-        {
-          "name": "Buza",
-          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Bandolera (feat. Buza)",
-      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Q' Pario",
-        "url": "https://open.spotify.com/album/2r5Q18MMpuhbEariH5zTJx"
-      },
-      "artists": [
-        {
-          "name": "Sunday Noise",
-          "url": "https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY"
-        },
-        {
-          "name": "Cris Ocana",
-          "url": "https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI"
-        }
-      ],
-      "duration_ms": 231562,
-      "name": "Q' Pario",
-      "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Se Acaba (Sinego Remix)",
         "url": "https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT"
       },
@@ -1807,18 +1787,42 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Mueve Los Dos Pies",
-        "url": "https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU"
+        "name": "Q' Pario",
+        "url": "https://open.spotify.com/album/2r5Q18MMpuhbEariH5zTJx"
       },
       "artists": [
         {
-          "name": "Teddy Wong",
-          "url": "https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31"
+          "name": "Sunday Noise",
+          "url": "https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY"
+        },
+        {
+          "name": "Cris Ocana",
+          "url": "https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI"
         }
       ],
-      "duration_ms": 212307,
-      "name": "Mueve Los Dos Pies",
-      "url": "https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ"
+      "duration_ms": 231562,
+      "name": "Q' Pario",
+      "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb"
+      },
+      "artists": [
+        {
+          "name": "Jack Bailey",
+          "url": "https://open.spotify.com/artist/0nvtleWgvZzWCF1xQ8mdwc"
+        },
+        {
+          "name": "Nick Proof",
+          "url": "https://open.spotify.com/artist/1cFOVkSIXej2ndDMhKholO"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1847,6 +1851,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Mueve Los Dos Pies",
+        "url": "https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wong",
+          "url": "https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Mueve Los Dos Pies",
+      "url": "https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Sandia",
         "url": "https://open.spotify.com/album/7csNLiVDk128lLGoJgd3Bp"
       },
@@ -1863,26 +1883,6 @@
       "duration_ms": 152362,
       "name": "Sandia",
       "url": "https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb"
-      },
-      "artists": [
-        {
-          "name": "Jack Bailey",
-          "url": "https://open.spotify.com/artist/0nvtleWgvZzWCF1xQ8mdwc"
-        },
-        {
-          "name": "Nick Proof",
-          "url": "https://open.spotify.com/artist/1cFOVkSIXej2ndDMhKholO"
-        }
-      ],
-      "duration_ms": 171785,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7"
     },
     {
       "added_at": "2024-02-16 05:00:00",

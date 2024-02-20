@@ -1897,6 +1897,28 @@
     },
     {
       "album": {
+        "name": "Days of Hope",
+        "url": "https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154765,
+      "name": "Days of Hope",
+      "url": "https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH"
+    },
+    {
+      "album": {
         "name": "Changing Places",
         "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
       },
@@ -3906,7 +3928,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 374482,
       "name": "In Retrospect",
       "url": "https://open.spotify.com/track/6UHuxAIKGI29WwdX7fRYDn"

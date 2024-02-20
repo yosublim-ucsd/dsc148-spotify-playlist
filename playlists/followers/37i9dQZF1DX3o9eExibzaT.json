@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 112413,
+  "2024-02-20": 112445,
   "date_first_scraped": "2024-01-30",
   "description": "It's a wonderful lie. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max. ",
   "name": "Big Little Lies Official Playlist",
@@ -1354,24 +1354,6 @@
     },
     {
       "album": {
-        "name": "Big Little Lies (Music From The HBO Limited Series)",
-        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "date_added": "2022-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168386,
-      "name": "The Wonder Of You",
-      "url": "https://open.spotify.com/track/78tuHzwhY28c7ikM10hFYL"
-    },
-    {
-      "album": {
         "name": "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou"
       },
@@ -1389,8 +1371,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151013,
-      "name": "The Wonder of You - with The Royal Philharmonic Orchestra",
+      "name": "The Wonder of You",
       "url": "https://open.spotify.com/track/3Cs2cP4ucvaO22LCNljzJY"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168386,
+      "name": "The Wonder Of You",
+      "url": "https://open.spotify.com/track/78tuHzwhY28c7ikM10hFYL"
     },
     {
       "album": {

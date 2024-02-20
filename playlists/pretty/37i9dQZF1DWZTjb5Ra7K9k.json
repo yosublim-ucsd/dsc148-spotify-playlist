@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2NkNmNmMzhlYjg3ZmY0NmZiNzllNDU1ODhjOGU2ZTRmY2VlZjVi",
+  "snapshot_id": "MCwzNGEyMDAzMjkzZDQ4M2ExZjYxNzQ1MDQ1ZTU3ZTI2ZDQ3NDU1ZWUz",
   "tracks": [
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
-    },
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 237000,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Imunidade Musical",
         "url": "https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 214613,
       "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Runtastic - Power Workout (Vol. 1)",
-        "url": "https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 253813,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Sawdust",
         "url": "https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 327866,
       "name": "Romeo And Juliet",
       "url": "https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Runtastic - Power Workout (Vol. 1)",
+        "url": "https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 253813,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Welcome To The Cruel World",
+        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Soup",
         "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 246933,
       "name": "Young and Able",
       "url": "https://open.spotify.com/track/5zFsvJDJ48m45J82CipNpD"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Welcome To The Cruel World",
-        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Pass It Around",
+        "url": "https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Life, Love & Laughter",
+      "url": "https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Piloto Autom\u00e1tico",
         "url": "https://open.spotify.com/album/5w5bBSJCBvUUy2VeOgPnzu"
       },
@@ -1115,6 +1131,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Brother the Cloud",
+        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Brother the Cloud",
+      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Joker Smoker",
         "url": "https://open.spotify.com/album/364SqWnW8GVEn3EQAHjuZR"
       },
@@ -1131,34 +1163,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Pass It Around",
-        "url": "https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL"
+        "name": "Fight For Your Mind",
+        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
       },
       "artists": [
         {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Life, Love & Laughter",
-      "url": "https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Brother the Cloud",
-        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Brother the Cloud",
-      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
+      "duration_ms": 293960,
+      "name": "Ground On Down",
+      "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 202080,
       "name": "Living Single",
       "url": "https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Fight For Your Mind",
-        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Ground On Down",
-      "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
     }
   ],
   "unique_name": "Free Surf",

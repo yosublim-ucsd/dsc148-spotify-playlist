@@ -4,7 +4,7 @@
 
 > umuulan nanaman?
 
-126 songs - 8 hr 1 min
+130 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ang Pag\-ibig](https://open.spotify.com/track/639Wg7NFfgbwjSwDphqgvz) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ang Pag\-ibig](https://open.spotify.com/album/7lheyrZDUh2R6N2mBWXnqP) | 4:47 | 2023-10-18 |  |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-10-18 | 2023-11-11 |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-18 |  |
+| [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-19 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-07 |  |
 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 | 2023-10-18 |  |
 | [Bihag](https://open.spotify.com/track/3L2wQUnfb3A9dBBx063Jzc) | [Berto](https://open.spotify.com/artist/0HhyOgjAujCFwk95NJgIqK) | [Bihag](https://open.spotify.com/album/5UATSahFtb06gHRvxH0kvH) | 4:15 | 2023-10-18 |  |
@@ -38,10 +39,11 @@
 | [Empty Room](https://open.spotify.com/track/3rhWu9LLv0LleWbO9LuQrO) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:04 | 2023-10-18 | 2023-11-18 |
 | [Empty Room](https://open.spotify.com/track/56s9OQ9s0YX3U0JncipqLU) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44) | 3:04 | 2023-11-10 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2023-10-18 | 2024-02-08 |
+| [Enough](https://open.spotify.com/track/4DbMD2jP3U2WgbFUXsPJfI) | [CRIMASON](https://open.spotify.com/artist/2omAS3u3ZQaxiWXA9OmiWj) | [Enough](https://open.spotify.com/album/4eQzghocpwFS9NJRvDidu5) | 4:46 | 2024-02-19 |  |
 | [Entablado](https://open.spotify.com/track/4LlcehDkplP0BIimgnUBHY) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Entablado](https://open.spotify.com/album/7G31hhcREMlt0NW3Tt4Uhb) | 3:23 | 2023-10-18 |  |
 | [favorite lesson](https://open.spotify.com/track/4sclvawl5PVjt5oXRcPbF2) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [favorite lesson](https://open.spotify.com/album/4c6mzbbKDCZWc4WUbTHqKG) | 3:25 | 2023-10-18 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-10-18 |  |
-| [gabay](https://open.spotify.com/track/7JiQIPsBtzU8MjWw0g9isG) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [gabay](https://open.spotify.com/album/7D6n1U40yTbKpbBNN1zuKb) | 3:30 | 2023-10-18 |  |
+| [gabay](https://open.spotify.com/track/7JiQIPsBtzU8MjWw0g9isG) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [gabay](https://open.spotify.com/album/7D6n1U40yTbKpbBNN1zuKb) | 3:30 | 2023-10-18 | 2024-02-20 |
 | [Ginanun Lang](https://open.spotify.com/track/7mZ6itQWKDWZ6q9eP9YkH8) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Ginanun Lang](https://open.spotify.com/album/5L247ssRY8wCZRYIrrSCAe) | 2:59 | 2023-10-18 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-10-18 |  |
 | [Guilty](https://open.spotify.com/track/4hrhbBDsHsyPRlRmAhr0B7) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Guilty](https://open.spotify.com/album/7rQjX2ZepaAedLLcl4Fah6) | 3:13 | 2023-10-18 | 2024-02-08 |
@@ -53,7 +55,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-10-18 |  |
 | [Hilom \(from "Unbreak My Heart"\)](https://open.spotify.com/track/6eOxuWzhQy41tq3SsySKfw) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Hilom \(from "Unbreak My Heart"\)](https://open.spotify.com/album/56thWKxUYXQaC9r0to6KKn) | 4:33 | 2023-10-18 |  |
 | [HINAHANAP\-HANAP](https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [HINAHANAP\-HANAP](https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47) | 2:55 | 2023-11-10 |  |
-| [Hindi Ikaw](https://open.spotify.com/track/4stLOefA68fsJ9fE6Xx9RN) | [LTNM](https://open.spotify.com/artist/081ibuzgI42pUawKfisL7G) | [Hindi Ikaw](https://open.spotify.com/album/6ZLY1zlqZMK98NEzYdx9z0) | 3:04 | 2023-10-18 |  |
+| [Hindi Ikaw](https://open.spotify.com/track/4stLOefA68fsJ9fE6Xx9RN) | [LTNM](https://open.spotify.com/artist/081ibuzgI42pUawKfisL7G) | [Hindi Ikaw](https://open.spotify.com/album/6ZLY1zlqZMK98NEzYdx9z0) | 3:04 | 2023-10-18 | 2024-02-20 |
 | [hindi ko alam](https://open.spotify.com/track/6cXBwW4mDlxrjpXVNqeSAv) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [hindi ko alam](https://open.spotify.com/album/6hjmSdam936JPRPNM76pkF) | 3:31 | 2024-02-07 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-07 |  |
 | [Hulaan](https://open.spotify.com/track/2i75Hz2OpChywxnUguC3Kw) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Hulaan](https://open.spotify.com/album/2jvtYVPReKC4CCQVNEYQOS) | 3:38 | 2024-02-07 |  |
@@ -75,7 +77,7 @@
 | [Ligaw](https://open.spotify.com/track/6Jtx63cJDsRG0V4e2C4mIZ) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1) | [Subset](https://open.spotify.com/album/6pIzG9sq6QRBqfCBY0deTB) | 4:04 | 2023-11-10 |  |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2023-10-18 | 2023-11-11 |
 | [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2023-10-18 |  |
-| [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-10-18 |  |
+| [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-10-18 | 2024-02-20 |
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2024-02-07 |  |
 | [Medisina](https://open.spotify.com/track/0pFWRoaSuxR0GmkF9NxxV0) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Medisina](https://open.spotify.com/album/7sAp0E6Q4dqnrwWkpytEaN) | 5:12 | 2023-10-18 |  |
 | [Melody of Memories](https://open.spotify.com/track/1TprOS6FVP62BcP1c62eRC) | [Joelmusicbox](https://open.spotify.com/artist/0Aia8R6uvFjqwoc9KkHKJI) | [Melody of Memories](https://open.spotify.com/album/4CYQ28ISGyGs8xsgEf8G0E) | 4:14 | 2023-10-18 |  |
@@ -88,6 +90,7 @@
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2023-11-10 |  |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-10-18 |  |
 | [Ni Yao De Ai](https://open.spotify.com/track/0GiRQNwTZvDFXojuuJaSFg) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [Ni Yao De Ai](https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj) | 4:10 | 2024-02-07 |  |
+| [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 | 2024-02-19 |  |
 | [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 | 2023-10-18 | 2024-02-08 |
 | [O Luna](https://open.spotify.com/track/788LOVoDxwsB0OkdbQvTHd) | [JMKO](https://open.spotify.com/artist/1onz2fxn4zwyarm9FPVuyp) | [O Luna](https://open.spotify.com/album/0gkuV2JkdAnUUeipnd4BkC) | 3:42 | 2023-10-18 |  |
 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-10-18 |  |
@@ -121,10 +124,11 @@
 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 | 2023-11-10 |  |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2023-10-18 | 2024-02-08 |
 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2023-10-18 |  |
-| [too much](https://open.spotify.com/track/0VQG0zuOXJd4JSTGJOUmJC) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [too much](https://open.spotify.com/album/5JciRe7QXL2zK8fMrwHtVk) | 2:11 | 2023-10-18 |  |
+| [too much](https://open.spotify.com/track/0VQG0zuOXJd4JSTGJOUmJC) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [too much](https://open.spotify.com/album/5JciRe7QXL2zK8fMrwHtVk) | 2:11 | 2023-10-18 | 2024-02-20 |
 | [Ulap](https://open.spotify.com/track/0yBycfuTYOoDrvfP5wY2Ux) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/0LfDCKJ0MSBuR9CxJcS8tf) | 6:45 | 2023-10-18 | 2023-11-11 |
 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 | 2023-10-18 | 2024-02-08 |
 | [Urn](https://open.spotify.com/track/0SsOMCjOCpit4EfFpwjcFW) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [Urn](https://open.spotify.com/album/5DI4qtknotYzeB65hKJPVG) | 3:22 | 2023-10-18 |  |
+| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2024-02-19 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-10-18 |  |
 | [Wala Nang Iba](https://open.spotify.com/track/6wJWjSeyr2usaQBTcvRR0R) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Wala Nang Iba](https://open.spotify.com/album/7g9dG9c9BodUL5Ubns2XgH) | 4:09 | 2023-10-18 |  |
 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2023-10-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,034 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,046 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 49 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 |
 | 50 | [Tu Estás Aqui](https://open.spotify.com/track/2J8BKv8H29tNQ8cR9XBnJ9) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Tu Estás Aqui](https://open.spotify.com/album/1ZlRA8N9XFIhokgUS2dWOs) | 5:05 |
 
-Snapshot ID: `Mjg0NzA5MjksMDAwMDAwMDA3ZDVhZTY0NmMzNmJiZmFjYzNkN2ZhNTNkYjc4MDYwMg==`
+Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDA3OWU3ZDliZjRmZGI4MzIzZTZhNjkxZjUxMWJmNGJlOA==`

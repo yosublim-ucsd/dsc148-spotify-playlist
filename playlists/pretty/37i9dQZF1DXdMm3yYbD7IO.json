@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 311596,
+  "num_followers": 311901,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWY0ZmY0YzBhN2U2ZWRhMDE0YmRmZmFkODU2YjMwOGFhNjllYTEz",
+  "snapshot_id": "MCw5ZjdjZDE3YjdlYjQ3YTE2NDE3MTc1YzcyYmFmMTliZjdkNjgyM2E3",
   "tracks": [
     {
       "added_at": "2023-03-10 23:34:06",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
         "name": "We See The Same Sun",
         "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Naughty By Nature",
-        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 271066,
-      "name": "O.P.P",
-      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/02RKBqDzmc2uSo3L1CZM04"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 227030,
       "name": "The Power (7\" Version)",
       "url": "https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Naughty By Nature",
+        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "O.P.P",
+      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "This Is Your Night",
-        "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
-      },
-      "artists": [
-        {
-          "name": "Amber",
-          "url": "https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "This Is Your Night",
-      "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 299426,
       "name": "I'm Your Baby Tonight",
       "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "This Is Your Night",
+        "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
+      },
+      "artists": [
+        {
+          "name": "Amber",
+          "url": "https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "This Is Your Night",
+      "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Vogue - Edit",
-      "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
+      "duration_ms": 280466,
+      "name": "100% Pure Love",
+      "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
     }
   ],
   "unique_name": "90's Workout",

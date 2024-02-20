@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Oaks x Third Party x Declan J Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,458 likes - 93 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,474 likes - 93 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 92 | [Moving Up](https://open.spotify.com/track/6Ylvcc2BJUPWwHJah0enmC) | [Grimix](https://open.spotify.com/artist/29NIvby6mXbv2rirvtYr6a), [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1) | [Moving Up](https://open.spotify.com/album/0ftQDgwETeCrZrUWtmum5E) | 2:22 |
 | 93 | [Get Up \- Radio Edit](https://open.spotify.com/track/2v79qSIDtGycjfqaWiwYep) | [Stevie Krash](https://open.spotify.com/artist/2zOpxf21yQ0GBN2yOXbjry), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS) | [Get Up \(Radio Edit\)](https://open.spotify.com/album/1uTWPsNgB7oebim4Z5YQxc) | 3:09 |
 
-Snapshot ID: `MCw3YzU2NWI2NTU3YjFkMzY1MzNkNjlhZjdiNmQ3Y2U3MGI1NzBlOTU1`
+Snapshot ID: `MCw3YWM0NmJmNWVlNDFlMDViMGQwMjRiMWMzMDlkZDcwNjBmYjk3MDEw`

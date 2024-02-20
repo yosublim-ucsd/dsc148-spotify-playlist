@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 59169,
+  "2024-02-20": 59179,
   "date_first_scraped": "2022-09-09",
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
   "name": "Jazz en M\u00e9xico",
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Chorinho Blanco",
       "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 384415,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 403946,
       "name": "Temporary Insanity",
       "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 157586,
       "name": "Tipitipit\u00edn",
       "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"

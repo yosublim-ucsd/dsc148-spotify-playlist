@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Gonzy is bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,521 likes - 20 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,885,462 likes - 20 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [RITMO DE MEDALLO](https://open.spotify.com/track/30ZwYmaZ9rrmjlEHLhF8qR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 1:58 |
 | 20 | [Te Perdió](https://open.spotify.com/track/3kJcccOmysUkWWyOQvxKIw) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Te Perdió](https://open.spotify.com/album/3pU19EqyURDFDKwX37XC6R) | 3:17 |
 
-Snapshot ID: `MCxjNTQ3ZmUyMzUwNjg0ZGJiODM1NTQ4YTFhY2E3ODA5MjY4MzdlMGUw`
+Snapshot ID: `MCwwYjkwN2Y2MGMwY2NiMGUwZjRhNDQ0OTUwNTQ0YzFlZjk1YWZiOTcy`

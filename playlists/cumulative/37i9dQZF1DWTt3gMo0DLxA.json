@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Gumma (From \"Ambajipeta Marriage Band\")",
+        "url": "https://open.spotify.com/album/3UtsdAsNLgSakD8UYYXf4o"
+      },
+      "artists": [
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Gumma (From \"Ambajipeta Marriage Band\")",
+      "url": "https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e"
+    },
+    {
+      "album": {
         "name": "Gundellonaa (From \"Ori Devuda\") - Single",
         "url": "https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO"
       },
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 202401,
       "name": "Suttamla Soosi",
       "url": "https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO"

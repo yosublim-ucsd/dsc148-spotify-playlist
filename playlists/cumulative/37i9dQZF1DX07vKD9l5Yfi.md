@@ -4,7 +4,7 @@
 
 > The perfect noughties blend.
 
-372 songs - 1 day 0 hr 30 min
+373 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Come Clean](https://open.spotify.com/track/0zN16vHWt77RW2wF7bW0ZA) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [MTV Presents Laguna Beach \- Summer Can Last Forever](https://open.spotify.com/album/02V00UyIQSL46MYyhTC5gy) | 3:33 | 2019-06-22 | 2019-06-23 |
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2019-05-26\* | 2022-07-29 |
 | [Confessions Part II](https://open.spotify.com/track/2lqYAYg5evMIApxYkkIMcU) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions](https://open.spotify.com/album/07tyTIFyH9Z9Jnj4LBEWfx) | 3:31 | 2019-06-21 | 2019-06-27 |
+| [Confessions Part II](https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:31 | 2020-06-18 |  |
 | [Cool](https://open.spotify.com/track/7AA0HJeE0ZvjK9QMxcL55v) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/7jKNCNsBkH7jV61ap865nF) | 3:09 | 2020-06-18 | 2022-04-20 |
 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 | 2019-06-23 | 2023-08-05 |
 | [CREEPIN' UP SLOWLY](https://open.spotify.com/track/0r4IWIanmyhOueD888Ztwf) | [Taxiride](https://open.spotify.com/artist/1nCht41FuMcmG1FIoyjWCH) | [Garage Mahal](https://open.spotify.com/album/76hqEMQKrJpYntZVub1wlG) | 3:55 | 2019-05-26\* | 2021-10-16 |
@@ -374,7 +375,7 @@
 | [Wrong Impression](https://open.spotify.com/track/2BEc6gpSbEjw1U25OKT0ba) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [White Lilies Island](https://open.spotify.com/album/1OYzqHxJjSrH0I4yktz57l) | 4:15 | 2020-06-18 | 2022-04-20 |
 | [Wrong Impression](https://open.spotify.com/track/2ALGjrjPZlCKwOCh6bzXaI) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [White Lilies Island](https://open.spotify.com/album/1XAbHdKbNGjFMvPYoVMwAy) | 4:16 | 2020-06-18 | 2022-04-21 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2019-06-24 |  |
-| [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2020-06-18 |  |
+| [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2020-06-18 | 2024-02-20 |
 | [You And Me](https://open.spotify.com/track/7L605WhF5EGf34ggj87yK6) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/3wJfFDP79V0vuGaAasTIz6) | 3:15 | 2019-05-26\* | 2022-07-29 |
 | [You Are The Best Thing](https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip in the Grain](https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj) | 3:51 | 2019-06-22 | 2022-07-28 |
 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 | 2019-06-24 | 2022-11-14 |

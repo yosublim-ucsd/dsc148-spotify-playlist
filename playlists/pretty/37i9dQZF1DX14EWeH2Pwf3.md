@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,158 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,577 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [I GOT IT](https://open.spotify.com/track/1Dvl9M7pTzjsceCqAzChx2) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [I GOT IT](https://open.spotify.com/album/2YuhsuBSpgWQoulletw3U7) | 2:22 |
 | 50 | [Mafia Del Boom Bap](https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 
-Snapshot ID: `MCw5YzM4NzdiNDdkMDVmODU1ZGJhNDU3MDNmZjYyMzJiZTBlOWM0YzY0`
+Snapshot ID: `MCxlYTQ2YjAzMWU2NzQ1Njk5YWNlZjgyZjJiMmM2YTk2YmVlYzA5MGUw`

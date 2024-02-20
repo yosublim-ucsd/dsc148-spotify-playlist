@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-123 songs - 8 hr 26 min
+124 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bilder im Kopf](https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 3:58 | 2022-03-17 | 2023-02-03 |
 | [Bis die Sonne rauskommt](https://open.spotify.com/track/3su7Zc3YwzJuzRRRlxXQYE) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Dis Wo Ich Herkomm](https://open.spotify.com/album/22rhzumalcslUugg4P8oBT) | 3:31 | 2022-03-17 | 2022-07-23 |
 | [Bis zum Schluss \(feat\. Silbermond\)](https://open.spotify.com/track/1MOnXaLoxHq0LESJkrwOFw) | [Curse](https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi), [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Freiheit](https://open.spotify.com/album/7MnOCaNSPVUuTq4Nykn4Pq) | 3:44 | 2022-09-21 | 2022-11-27 |
+| [Bis zum Schluss \(feat\. Silbermond\)](https://open.spotify.com/track/1UW6Rf2rDz3XkHqnVZuHUu) | [Curse](https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi), [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Freiheit](https://open.spotify.com/album/2WlEcoKtbsgH5Vtu9l11d1) | 3:44 | 2023-12-07 |  |
 | [Bon Voyage \(feat\. Nina\)](https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte ziehen sie durch](https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW) | 3:24 | 2022-03-17 | 2023-11-05 |
 | [Bon voyage \(feat\. Nina\)](https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte Ziehen Sie Durch](https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn) | 3:27 | 2023-10-11 |  |
 | [Bossaura](https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossaura](https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM) | 6:04 | 2022-07-21 |  |
@@ -51,7 +52,7 @@
 | [Fremd im eigenen Land](https://open.spotify.com/track/4NUg69AakDv124Kc0RKLsv) | [Advanced Chemistry](https://open.spotify.com/artist/1qE4nqPMyz1QWaeW7iO40f) | [Fremd im eigenen Land](https://open.spotify.com/album/1j3XedrfGcI0b6hzClxU6f) | 4:48 | 2022-03-17 | 2022-07-29 |
 | [Fuffies Im Club](https://open.spotify.com/track/1A0b0yR0quuBByKQzASAvf) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Maske X](https://open.spotify.com/album/4TbgjGDL2TAlflFfktyrNP) | 3:47 | 2022-07-21 | 2022-11-12 |
 | [Fuffies im Club](https://open.spotify.com/track/65trjE7JXGj7NpjROLS6A0) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \- Trilogy](https://open.spotify.com/album/0JefPAUJSKQyTTs67mtm4q) | 3:47 | 2022-06-13 | 2022-07-23 |
-| [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 | 2022-03-17 |  |
+| [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 | 2022-03-17 | 2024-02-20 |
 | [Für immer jung](https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Heavy Metal Payback](https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz) | 4:30 | 2022-07-21 |  |
 | [Für immer jung \(feat\. Karel Gott\)](https://open.spotify.com/track/7e0D5XIvClwyPYy0tsQ6fs) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Heavy Metal Payback](https://open.spotify.com/album/2mzjtrV8hcm6UF9wwWSpN7) | 4:29 | 2022-03-17 | 2022-07-29 |
 | [Geld essen \(Ausgestopfte Rapper\)](https://open.spotify.com/track/3XF0cYK2BONGGrPEYpE17B) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 4:20 | 2022-03-17 | 2022-07-15 |

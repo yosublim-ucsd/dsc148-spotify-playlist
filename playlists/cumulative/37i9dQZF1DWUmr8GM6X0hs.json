@@ -406,7 +406,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 165840,
       "name": "Canta Canta",
       "url": "https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr"
@@ -2126,6 +2126,24 @@
       "duration_ms": 156426,
       "name": "Se Rompi\u00f3 la Cadena",
       "url": "https://open.spotify.com/track/6JCFs0N5bnHXH2RPg3Uvfp"
+    },
+    {
+      "album": {
+        "name": "15 Tesoros Musicales",
+        "url": "https://open.spotify.com/album/54k9wS0XdU5p0bQOOgVkjn"
+      },
+      "artists": [
+        {
+          "name": "El Super Trio",
+          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156453,
+      "name": "Se Rompi\u00f3 la Cadena",
+      "url": "https://open.spotify.com/track/22djihsFEnRFJ42k64Sj8w"
     },
     {
       "album": {

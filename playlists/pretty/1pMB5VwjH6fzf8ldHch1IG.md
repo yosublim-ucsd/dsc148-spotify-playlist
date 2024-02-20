@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,188 likes - 60 songs - 3 hr 0 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,181 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 24 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 |
 | 25 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 26 | [Better Off](https://open.spotify.com/track/4YYtt5CTZRsp3LwBG1RQzU) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Better Off](https://open.spotify.com/album/36LdeXN55wsufXqgb6w678) | 2:24 |
-| 27 | [Yaad](https://open.spotify.com/track/0GxXlmjiZNBWi44AUblZsR) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:12 |
+| 27 | [Yaad](https://open.spotify.com/track/0GxXlmjiZNBWi44AUblZsR) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:12 |
 | 28 | [Get Get Get Down](https://open.spotify.com/track/1Z6F3N7RbvhzTH1qd9df8m) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Get Get Get Down](https://open.spotify.com/album/4SKS4Jk1Z9snk2SKoZeUqT) | 2:32 |
 | 29 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 |
 | 30 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |

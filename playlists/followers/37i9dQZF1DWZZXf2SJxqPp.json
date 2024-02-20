@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 132999,
+  "2024-02-20": 133011,
   "date_first_scraped": "2023-05-16",
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
   "name": "\u00a1A la Alberca!",
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 195999,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI"
@@ -2557,6 +2557,24 @@
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201331,
+      "name": "Supersonics",
+      "url": "https://open.spotify.com/track/2Y808U6qanXAMnN8jovGC1"
     },
     {
       "album": {

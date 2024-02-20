@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 395666,
+  "num_followers": 395740,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDY4N2VmZmFjOGQyYThmN2I2OTEzYjZmZjAyZDY5MTUxOWFkNzlk",
+  "snapshot_id": "MCwwOWY2ZWY4YjZjMzVkYWQ3NjQ1ZmYxYTkyN2ZmODFhOTQ4MmNjNmVk",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
+      },
+      "artists": [
+        {
+          "name": "DJ Redblack",
+          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 122585,
+      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
+      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
-      },
-      "artists": [
-        {
-          "name": "DJ Redblack",
-          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 122585,
-      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
-      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Nummer Eins",
-        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        }
-      ],
-      "duration_ms": 208877,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6l38mlHmXSlVmDFO6YZgQH"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 156120,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Nummer Eins",
+        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "duration_ms": 208877,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6l38mlHmXSlVmDFO6YZgQH"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Mitten in die Scheibe",
         "url": "https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 167280,
       "name": "Can You English Please",
       "url": "https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -727,38 +727,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Johnny D\u00e4pp (Ich Will Mallorca Zur\u00fcck)",
-        "url": "https://open.spotify.com/album/6TEyDsyMfoXrcLCHJl7HOw"
-      },
-      "artists": [
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-      "url": "https://open.spotify.com/track/014Jl3WPQF9AT3kQRWVmku"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "MDMA",
         "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
       },
@@ -771,26 +739,6 @@
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Wir eskalieren",
-        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "Wir eskalieren",
-      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -811,6 +759,58 @@
       "duration_ms": 194173,
       "name": "Strobo Pop",
       "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Johnny D\u00e4pp (Ich Will Mallorca Zur\u00fcck)",
+        "url": "https://open.spotify.com/album/6TEyDsyMfoXrcLCHJl7HOw"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 223671,
+      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+      "url": "https://open.spotify.com/track/014Jl3WPQF9AT3kQRWVmku"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Wir eskalieren",
+        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Wir eskalieren",
+      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Lass uns nicht geh'n (Stereoact Remix)",
         "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
       },
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
-        "url": "https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr"
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 168696,
-      "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
-      "url": "https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0"
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1051,58 +1055,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Mallelelele",
-        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+        "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
+        "url": "https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr"
       },
       "artists": [
         {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 133898,
-      "name": "Mallelelele",
-      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Klempner Klaus",
-        "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
-      },
-      "artists": [
-        {
-          "name": "GABBY",
-          "url": "https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        }
-      ],
-      "duration_ms": 155820,
-      "name": "Klempner Klaus",
-      "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+      "duration_ms": 168696,
+      "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
+      "url": "https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1123,6 +1087,26 @@
       "duration_ms": 198160,
       "name": "PECH & SCHWEFEL",
       "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Klempner Klaus",
+        "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
+      },
+      "artists": [
+        {
+          "name": "GABBY",
+          "url": "https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "duration_ms": 155820,
+      "name": "Klempner Klaus",
+      "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         }
       ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Bierkapit\u00e4n",
-        "url": "https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC"
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
       },
       "artists": [
         {
-          "name": "Bierkapit\u00e4n",
-          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Bierkapit\u00e4n",
-      "url": "https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv"
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 191163,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Bierkapit\u00e4n",
+        "url": "https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC"
+      },
+      "artists": [
+        {
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Bierkapit\u00e4n",
+      "url": "https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Auf zum Apr\u00e8s Ski",
+        "url": "https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto"
+      },
+      "artists": [
+        {
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "Auf zum Apr\u00e8s Ski",
+      "url": "https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Saufen aufm Spielplatz",
         "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
       },
@@ -1255,6 +1271,58 @@
       "duration_ms": 240000,
       "name": "Saufen aufm Spielplatz",
       "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Expresso & Tschianti",
+        "url": "https://open.spotify.com/album/0I1uCG4t0ehOyQBBC4W44K"
+      },
+      "artists": [
+        {
+          "name": "Mountain Crew",
+          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
+        }
+      ],
+      "duration_ms": 174346,
+      "name": "Expresso & Tschianti",
+      "url": "https://open.spotify.com/track/3BEaiI6RmDI0dDshMhC3NN"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Ich bleib hier",
+        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 162947,
+      "name": "Ich bleib hier",
+      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Knicklicht",
+        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Knicklicht",
+      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1279,54 +1347,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Auf zum Apr\u00e8s Ski",
-        "url": "https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto"
-      },
-      "artists": [
-        {
-          "name": "Der Partycrasher",
-          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "Auf zum Apr\u00e8s Ski",
-      "url": "https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Expresso & Tschianti",
-        "url": "https://open.spotify.com/album/0I1uCG4t0ehOyQBBC4W44K"
-      },
-      "artists": [
-        {
-          "name": "Mountain Crew",
-          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
-        }
-      ],
-      "duration_ms": 174346,
-      "name": "Expresso & Tschianti",
-      "url": "https://open.spotify.com/track/3BEaiI6RmDI0dDshMhC3NN"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Knicklicht",
-        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Knicklicht",
-      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Marie",
         "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 200314,
       "name": "Marie",
       "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Ich bleib hier",
-        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 162947,
-      "name": "Ich bleib hier",
-      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
     },
     {
       "added_at": "2024-02-15 23:00:00",

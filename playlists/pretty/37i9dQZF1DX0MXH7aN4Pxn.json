@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 675604,
+  "num_followers": 675609,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGNlN2MxNzcxN2MxNmI2YTg1MTA3M2NlMTM5MDg5NGUxYThiZDE0",
+  "snapshot_id": "MCwzZTU2NzZmNmM4MGUwNTM5N2QyNmY0Y2ViZDM1ZGU2MmJjNGRkOGMw",
   "tracks": [
     {
       "added_at": "2024-02-14 11:37:11",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
         "name": "No More Idols",
         "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 233666,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 161658,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
         "name": "Good Luck",
         "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 161658,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1011,26 +1011,6 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1091,6 +1071,26 @@
       "duration_ms": 153600,
       "name": "Sextacy",
       "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 163957,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
         "name": "Look Right Through (MK Vocal Edit)",
         "url": "https://open.spotify.com/album/2FJ9DFtrwULvEZJzq1xfUQ"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 148400,
       "name": "Look Right Through - MK Vocal Edit",
       "url": "https://open.spotify.com/track/1rjqA5A929xIcko5FCgOyN"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 163957,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
     },
     {
       "added_at": "2024-02-14 11:37:11",

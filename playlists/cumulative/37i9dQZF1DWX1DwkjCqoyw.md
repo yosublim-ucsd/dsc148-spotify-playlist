@@ -4,7 +4,7 @@
 
 > The biggest crossover songs from the islands all in one place\. Cover: Shaggy
 
-139 songs - 7 hr 0 min
+140 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Greatness](https://open.spotify.com/track/759V9wdnLBFrxayyEiyq0E) | [Deejay Theory](https://open.spotify.com/artist/5iW9p5ZAmVwIGLRpQNoYrb), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Greatness](https://open.spotify.com/album/0sceG2XFboHTR3k25Pbh0H) | 3:20 | 2021-12-20 | 2022-02-25 |
 | [Green Brain \(with Lee "Scratch" Perry & Yaadcore\)](https://open.spotify.com/track/17tiS25zAjVNjvodAh8usi) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Yaadcore](https://open.spotify.com/artist/1hevfhry04udTTR3OPJIv4) | [Green Brain \(with Lee "Scratch" Perry & Yaadcore\)](https://open.spotify.com/album/17LnYn1f4Hv5L04r8o9SpL) | 3:47 | 2021-12-20 | 2022-02-25 |
 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 | 2021-12-20 |  |
-| [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 | 2021-12-20 |  |
+| [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 | 2021-12-20 | 2024-02-20 |
 | [Happiness](https://open.spotify.com/track/3RPxsGHRBxjpLyqbjVVnsh) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Happiness](https://open.spotify.com/album/27JZOu7tCqtrRWhhmVl88Y) | 2:32 | 2022-08-18 | 2023-05-16 |
 | [Happy Papi](https://open.spotify.com/track/39YdhPUMInQJYoUN10pXV6) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happy Papi](https://open.spotify.com/album/2toHXbny2GgQQtVcj7kEud) | 3:00 | 2021-12-20 | 2022-08-19 |
 | [History](https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [History](https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO) | 3:05 | 2022-08-18 | 2023-05-16 |
@@ -133,6 +133,7 @@
 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 | 2021-12-20 | 2022-08-19 |
 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 | 2023-05-16 |  |
 | [Verified Choppa 2](https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm) | 2:19 | 2022-08-18 | 2024-01-20 |
+| [Verified Choppa 2](https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE) | 2:19 | 2023-05-16 |  |
 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 | 2021-12-20 | 2022-08-19 |
 | [Vibes](https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Vibes](https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN) | 2:28 | 2022-08-18 | 2023-06-04 |
 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 | 2023-05-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 85053,
+  "num_followers": 85069,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2RjZTAzYjc4NmQ2ZTMzMTc2NDBjYTRhNjg3MDI4NGI4M2M4YjIz",
+  "snapshot_id": "MCxkOGVhNjljYzQ1NWM2NmIxNzg1MDA1ZjA2ZWQ2Yzk5MGFhYzQyYWQz",
   "tracks": [
     {
       "added_at": "2024-01-02 19:51:49",
@@ -427,6 +427,26 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "$payforhaiti (feat. Mach-Hommy)",
+      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Sak Pase (with Saint Levant & Lolo Zoua\u00ef)",
         "url": "https://open.spotify.com/album/0iV9zepYN2Ky5Rok36pbjp"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 138891,
       "name": "Sak Pase (with Saint Levant & Lolo Zoua\u00ef)",
       "url": "https://open.spotify.com/track/69d6auSK5QCTd70YrkYKMb"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "$payforhaiti (feat. Mach-Hommy)",
-      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
       },
@@ -667,38 +647,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Cashapp Cashapp Zelle",
-        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
       },
       "artists": [
         {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 61368,
-      "name": "Cashapp Cashapp Zelle",
-      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "F\u00f2s",
-        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 234248,
-      "name": "Crush la",
-      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -727,6 +691,42 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "F\u00f2s",
+        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 234248,
+      "name": "Crush la",
+      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Cashapp Cashapp Zelle",
+        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
+      },
+      "artists": [
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 61368,
+      "name": "Cashapp Cashapp Zelle",
+      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "TRANSITIONS EP",
         "url": "https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 170550,
       "name": "Guava",
       "url": "https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -787,22 +767,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
       },
@@ -819,6 +783,22 @@
       "duration_ms": 231840,
       "name": "Welcome To Dinna",
       "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -867,6 +847,26 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Ti Kabrit",
+        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 161717,
+      "name": "Ti Kabrit",
+      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Vodoo Adjae",
         "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 270315,
       "name": "Sal Vle",
       "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Ti Kabrit",
-        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 161717,
-      "name": "Ti Kabrit",
-      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Anthology, Vol. IV",
         "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
@@ -1271,6 +1287,22 @@
       "duration_ms": 188035,
       "name": "Mennaj Moun Yo",
       "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 286840,
+      "name": "Flanm",
+      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1319,8 +1351,8 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
       },
       "artists": [
         {
@@ -1328,25 +1360,9 @@
           "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 286840,
-      "name": "Flanm",
-      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1455,18 +1455,26 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "White Flower",
-        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
+        "name": "Fanm d'Ayiti",
+        "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
       },
       "artists": [
         {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        },
+        {
+          "name": "Spektral Quartet",
+          "url": "https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb"
         }
       ],
-      "duration_ms": 144118,
-      "name": "White Flower",
-      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
+      "duration_ms": 400666,
+      "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
+      "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1491,22 +1499,18 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+        "name": "White Flower",
+        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
       },
       "artists": [
         {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
-        },
-        {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
         }
       ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
+      "duration_ms": 144118,
+      "name": "White Flower",
+      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1543,26 +1547,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Fanm d'Ayiti",
-        "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
       },
       "artists": [
         {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
         },
         {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        },
-        {
-          "name": "Spektral Quartet",
-          "url": "https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb"
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
         }
       ],
-      "duration_ms": 400666,
-      "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
-      "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+      },
+      "artists": [
+        {
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 252000,
       "name": "Na Va W\u00e8 Yo",
       "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
-      },
-      "artists": [
-        {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Regr\u00e8",
-        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
-      },
-      "artists": [
-        {
-          "name": "Wood Terrib",
-          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
-        }
-      ],
-      "duration_ms": 229998,
-      "name": "Regr\u00e8",
-      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 148000,
       "name": "Sote",
       "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Regr\u00e8",
+        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
+      },
+      "artists": [
+        {
+          "name": "Wood Terrib",
+          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
+        }
+      ],
+      "duration_ms": 229998,
+      "name": "Regr\u00e8",
+      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Foli",
-        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
       },
       "artists": [
         {
-          "name": "Daniel Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Foli",
-      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+        "name": "Foli",
+        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
       },
       "artists": [
         {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+          "name": "Daniel Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
         }
       ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+      "duration_ms": 177600,
+      "name": "Foli",
+      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
     }
   ],
   "unique_name": "Haitian Heat",

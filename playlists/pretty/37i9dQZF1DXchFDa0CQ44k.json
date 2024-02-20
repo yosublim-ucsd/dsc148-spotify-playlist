@@ -1,12 +1,12 @@
 {
   "description": "Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.",
-  "num_followers": 70023,
+  "num_followers": 70052,
   "original_name": "\u062f\u0628\u0643\u0629 \u200e Dabke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjhkY2QxYzMwNTlkZDcxN2U0MGE3NjAyODYxNzA5MWVjYzQ3Zjlm",
+  "snapshot_id": "MCwzNjc2YTFiM2E0ZDgyZWQ5OTgyMTg0Y2YyMjkwZTA4ZTBjNWE4YmJh",
   "tracks": [
     {
       "added_at": "2022-02-10 11:13:22",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "El Waed Waed",
-        "url": "https://open.spotify.com/album/5F558VJH1yO3t4v7uTrwsb"
-      },
-      "artists": [
-        {
-          "name": "Hussein Al Deek",
-          "url": "https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs"
-        }
-      ],
-      "duration_ms": 229801,
-      "name": "El Waed Waed",
-      "url": "https://open.spotify.com/track/3lyUu87OVylHytDeD1Frj8"
-    },
-    {
-      "added_at": "2022-02-10 11:13:22",
-      "album": {
         "name": "Melody Hits Vol. 7",
         "url": "https://open.spotify.com/album/4GHKFNuSbVVcdwGtZ6AlCt"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 306285,
       "name": "Ya Zghiri",
       "url": "https://open.spotify.com/track/6LyvwfbjUvD3oKM1vkAId8"
+    },
+    {
+      "added_at": "2022-02-10 11:13:22",
+      "album": {
+        "name": "El Waed Waed",
+        "url": "https://open.spotify.com/album/5F558VJH1yO3t4v7uTrwsb"
+      },
+      "artists": [
+        {
+          "name": "Hussein Al Deek",
+          "url": "https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs"
+        }
+      ],
+      "duration_ms": 229801,
+      "name": "El Waed Waed",
+      "url": "https://open.spotify.com/track/3lyUu87OVylHytDeD1Frj8"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "Khallini Bi Balik",
-        "url": "https://open.spotify.com/album/6qy2Ujd8ZKsZkHsNjBEaZI"
-      },
-      "artists": [
-        {
-          "name": "Hussein Al Deek",
-          "url": "https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs"
-        }
-      ],
-      "duration_ms": 241316,
-      "name": "Khallini Bi Balik",
-      "url": "https://open.spotify.com/track/6FZxkV3OK9NmlPfjMvJdTb"
-    },
-    {
-      "added_at": "2022-02-10 11:13:22",
-      "album": {
         "name": "Betwale3 Nar",
         "url": "https://open.spotify.com/album/44LB0qfLlTRqRbXLtsKoWD"
       },
@@ -299,22 +283,6 @@
       "duration_ms": 191268,
       "name": "Larmik b Balach",
       "url": "https://open.spotify.com/track/09vuGGGoOmI7M4dqlaAJFp"
-    },
-    {
-      "added_at": "2022-02-10 11:13:22",
-      "album": {
-        "name": "\u0627\u0644\u062c\u0631\u062d \u0627\u0644\u0644\u064a \u0628\u0639\u062f\u0648",
-        "url": "https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI"
-      },
-      "artists": [
-        {
-          "name": "Melhem Zein",
-          "url": "https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "\u062f\u0644\u0639\u0648\u0646\u0627",
-      "url": "https://open.spotify.com/track/7sKRep0Z6sZnQjqc6qOvSH"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -351,34 +319,34 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "Ya Miyit Hala",
-        "url": "https://open.spotify.com/album/2WhngcT5KklbQYUv88Jo6J"
+        "name": "Khallini Bi Balik",
+        "url": "https://open.spotify.com/album/6qy2Ujd8ZKsZkHsNjBEaZI"
       },
       "artists": [
         {
-          "name": "Merhi Serhan",
-          "url": "https://open.spotify.com/artist/1plKSh9bv4wNad4n5GkoJE"
+          "name": "Hussein Al Deek",
+          "url": "https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs"
         }
       ],
-      "duration_ms": 220389,
-      "name": "Ya Miyit Hala",
-      "url": "https://open.spotify.com/track/3P3WoRuZqF63iciXBvyUoa"
+      "duration_ms": 241316,
+      "name": "Khallini Bi Balik",
+      "url": "https://open.spotify.com/track/6FZxkV3OK9NmlPfjMvJdTb"
     },
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "Wateeni",
-        "url": "https://open.spotify.com/album/5x0Un1ohxzt2DnKXNqE7Oe"
+        "name": "\u0627\u0644\u062c\u0631\u062d \u0627\u0644\u0644\u064a \u0628\u0639\u062f\u0648",
+        "url": "https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI"
       },
       "artists": [
         {
-          "name": "Amjad Jomaa",
-          "url": "https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU"
+          "name": "Melhem Zein",
+          "url": "https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0"
         }
       ],
-      "duration_ms": 222538,
-      "name": "Wateeni",
-      "url": "https://open.spotify.com/track/2Rfc5rGytAEfFXwVgFxs2A"
+      "duration_ms": 234640,
+      "name": "\u062f\u0644\u0639\u0648\u0646\u0627",
+      "url": "https://open.spotify.com/track/7sKRep0Z6sZnQjqc6qOvSH"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -407,6 +375,38 @@
       "duration_ms": 348560,
       "name": "Dak Almani Terashrash (feat. Hussam Jned, Dominique Hourani & Wael Jassar)",
       "url": "https://open.spotify.com/track/61ij76waZnKpjgwPuvZ554"
+    },
+    {
+      "added_at": "2022-02-10 11:13:22",
+      "album": {
+        "name": "Ya Miyit Hala",
+        "url": "https://open.spotify.com/album/2WhngcT5KklbQYUv88Jo6J"
+      },
+      "artists": [
+        {
+          "name": "Merhi Serhan",
+          "url": "https://open.spotify.com/artist/1plKSh9bv4wNad4n5GkoJE"
+        }
+      ],
+      "duration_ms": 220389,
+      "name": "Ya Miyit Hala",
+      "url": "https://open.spotify.com/track/3P3WoRuZqF63iciXBvyUoa"
+    },
+    {
+      "added_at": "2022-02-10 11:13:22",
+      "album": {
+        "name": "Wateeni",
+        "url": "https://open.spotify.com/album/5x0Un1ohxzt2DnKXNqE7Oe"
+      },
+      "artists": [
+        {
+          "name": "Amjad Jomaa",
+          "url": "https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU"
+        }
+      ],
+      "duration_ms": 222538,
+      "name": "Wateeni",
+      "url": "https://open.spotify.com/track/2Rfc5rGytAEfFXwVgFxs2A"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "Eid El Arz",
-        "url": "https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X"
-      },
-      "artists": [
-        {
-          "name": "Walid Sarkiss",
-          "url": "https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS"
-        }
-      ],
-      "duration_ms": 568853,
-      "name": "Dabke Wdalouna",
-      "url": "https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv"
-    },
-    {
-      "added_at": "2022-02-10 11:13:22",
-      "album": {
         "name": "Malyoun Bhebik Malyoun",
         "url": "https://open.spotify.com/album/2OKOEoTkaYc1i2y5SUPXlI"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 258560,
       "name": "Malyoun Bhebik Malyoun",
       "url": "https://open.spotify.com/track/1vBGLgXsG7jd7niTMSmdw9"
+    },
+    {
+      "added_at": "2022-02-10 11:13:22",
+      "album": {
+        "name": "Eid El Arz",
+        "url": "https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X"
+      },
+      "artists": [
+        {
+          "name": "Walid Sarkiss",
+          "url": "https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS"
+        }
+      ],
+      "duration_ms": 568853,
+      "name": "Dabke Wdalouna",
+      "url": "https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "Wahad Tnean",
-        "url": "https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt"
+        "name": "Ya Wallo",
+        "url": "https://open.spotify.com/album/0zgYVQ0iSDSCrknQn65skX"
       },
       "artists": [
         {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+          "name": "Roro Harb",
+          "url": "https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Wahad Tnean",
-      "url": "https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl"
+      "duration_ms": 171240,
+      "name": "Ya Wallo",
+      "url": "https://open.spotify.com/track/3nDciOoTFeDd1wWfSh1hx0"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
+        "name": "Wahad Tnean",
+        "url": "https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Wahad Tnean",
+      "url": "https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl"
+    },
+    {
+      "added_at": "2022-02-10 11:13:22",
+      "album": {
         "name": "Shabiaat",
         "url": "https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 492173,
       "name": "Zareef Al Tool",
       "url": "https://open.spotify.com/track/4vhtERQbfYJHIe86HGH1W8"
-    },
-    {
-      "added_at": "2022-02-10 11:13:22",
-      "album": {
-        "name": "Ya Wallo",
-        "url": "https://open.spotify.com/album/0zgYVQ0iSDSCrknQn65skX"
-      },
-      "artists": [
-        {
-          "name": "Roro Harb",
-          "url": "https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "Ya Wallo",
-      "url": "https://open.spotify.com/track/3nDciOoTFeDd1wWfSh1hx0"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
+        "name": "La Aashkan",
+        "url": "https://open.spotify.com/album/5SaE2UlcKdpUCrOlh3lZde"
+      },
+      "artists": [
+        {
+          "name": "Naeim Al Sheikh",
+          "url": "https://open.spotify.com/artist/0iSa5DviqQDtan4rfuFSAM"
+        }
+      ],
+      "duration_ms": 206020,
+      "name": "La Aashkan",
+      "url": "https://open.spotify.com/track/7bOEaL0GW2AAakyEc50kxN"
+    },
+    {
+      "added_at": "2022-02-10 11:13:22",
+      "album": {
         "name": "Ya Aasal",
         "url": "https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3"
       },
@@ -807,34 +823,18 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "Shabiaat",
-        "url": "https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ"
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/5RjAy45kTmJuYJMYBmnjvE"
       },
       "artists": [
         {
-          "name": "Shafeq Kabaha",
-          "url": "https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL"
+          "name": "Roro Harb",
+          "url": "https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb"
         }
       ],
-      "duration_ms": 608786,
-      "name": "Nezlat Al Dabka",
-      "url": "https://open.spotify.com/track/4w8qgtRYJ24A9zfxlNTDff"
-    },
-    {
-      "added_at": "2022-02-10 11:13:22",
-      "album": {
-        "name": "La Aashkan",
-        "url": "https://open.spotify.com/album/5SaE2UlcKdpUCrOlh3lZde"
-      },
-      "artists": [
-        {
-          "name": "Naeim Al Sheikh",
-          "url": "https://open.spotify.com/artist/0iSa5DviqQDtan4rfuFSAM"
-        }
-      ],
-      "duration_ms": 206020,
-      "name": "La Aashkan",
-      "url": "https://open.spotify.com/track/7bOEaL0GW2AAakyEc50kxN"
+      "duration_ms": 202391,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/2nRDYg5oPbvLtrDD2oEnRq"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -871,34 +871,18 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/5RjAy45kTmJuYJMYBmnjvE"
+        "name": "Shabiaat",
+        "url": "https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ"
       },
       "artists": [
         {
-          "name": "Roro Harb",
-          "url": "https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb"
+          "name": "Shafeq Kabaha",
+          "url": "https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL"
         }
       ],
-      "duration_ms": 202391,
-      "name": "Number One",
-      "url": "https://open.spotify.com/track/2nRDYg5oPbvLtrDD2oEnRq"
-    },
-    {
-      "added_at": "2022-02-10 11:13:22",
-      "album": {
-        "name": "\u0645\u0646 \u0627\u0644\u0622\u062e\u0631",
-        "url": "https://open.spotify.com/album/7MdUlmnd8kVsiWdzVPxr9r"
-      },
-      "artists": [
-        {
-          "name": "Wafeek Habib",
-          "url": "https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY"
-        }
-      ],
-      "duration_ms": 237270,
-      "name": "\u0645\u0646 \u0627\u0644\u0622\u062e\u0631",
-      "url": "https://open.spotify.com/track/5Izw7BxDnTesneXx34MPs0"
+      "duration_ms": 608786,
+      "name": "Nezlat Al Dabka",
+      "url": "https://open.spotify.com/track/4w8qgtRYJ24A9zfxlNTDff"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -935,38 +919,18 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
-        "name": "Sarya Al Sawas 2014",
-        "url": "https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V"
+        "name": "\u0645\u0646 \u0627\u0644\u0622\u062e\u0631",
+        "url": "https://open.spotify.com/album/7MdUlmnd8kVsiWdzVPxr9r"
       },
       "artists": [
         {
-          "name": "Saria Al Sawas",
-          "url": "https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ"
+          "name": "Wafeek Habib",
+          "url": "https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY"
         }
       ],
-      "duration_ms": 252734,
-      "name": "Ma Mallet",
-      "url": "https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi"
-    },
-    {
-      "added_at": "2022-02-10 11:13:22",
-      "album": {
-        "name": "Afrah",
-        "url": "https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh"
-      },
-      "artists": [
-        {
-          "name": "Shafeq Kabaha",
-          "url": "https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL"
-        },
-        {
-          "name": "Tamim Asadi",
-          "url": "https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG"
-        }
-      ],
-      "duration_ms": 415533,
-      "name": "Halali Ya Mali - original",
-      "url": "https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw"
+      "duration_ms": 237270,
+      "name": "\u0645\u0646 \u0627\u0644\u0622\u062e\u0631",
+      "url": "https://open.spotify.com/track/5Izw7BxDnTesneXx34MPs0"
     },
     {
       "added_at": "2022-02-10 11:13:22",
@@ -987,6 +951,22 @@
     {
       "added_at": "2022-02-10 11:13:22",
       "album": {
+        "name": "Sarya Al Sawas 2014",
+        "url": "https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V"
+      },
+      "artists": [
+        {
+          "name": "Saria Al Sawas",
+          "url": "https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ"
+        }
+      ],
+      "duration_ms": 252734,
+      "name": "Ma Mallet",
+      "url": "https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi"
+    },
+    {
+      "added_at": "2022-02-10 11:13:22",
+      "album": {
         "name": "Muntasib Alqamah Amshi",
         "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 240195,
       "name": "Dammi Falastini",
       "url": "https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K"
+    },
+    {
+      "added_at": "2022-02-10 11:13:22",
+      "album": {
+        "name": "Afrah",
+        "url": "https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh"
+      },
+      "artists": [
+        {
+          "name": "Shafeq Kabaha",
+          "url": "https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL"
+        },
+        {
+          "name": "Tamim Asadi",
+          "url": "https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG"
+        }
+      ],
+      "duration_ms": 415533,
+      "name": "Halali Ya Mali - original",
+      "url": "https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw"
     }
   ],
   "unique_name": "\u062f\u0628\u0643\u0629 \u200e Dabke",

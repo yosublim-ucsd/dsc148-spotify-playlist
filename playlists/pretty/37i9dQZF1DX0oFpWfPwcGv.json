@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 59628,
+  "num_followers": 59659,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWUyY2NhMzg3Y2Y3ZGMwYTM2ZmFkYWI5NjkyNzY2MjM4YzEzNzUw",
+  "snapshot_id": "MCxjMzQ5MzZjNWNhMjNmZTY0NzYwMTRjYzUwOWEwOWE5MWYxYTRmMTNh",
   "tracks": [
     {
       "added_at": "2024-02-12 15:00:21",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Love is Back",
-        "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "I'm So Glad That I'm a Woman",
-      "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 241333,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Love is Back",
+        "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "I'm So Glad That I'm a Woman",
+      "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Stand on the Word",
         "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 303692,
       "name": "Stand on the Word (Studio Version)",
       "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295125,
+      "name": "Bad Girls - 12\" Version",
+      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
         "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 366160,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295125,
-      "name": "Bad Girls - 12\" Version",
-      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 377405,
       "name": "Dance A Little Bit Closer (12'' Mix)",
       "url": "https://open.spotify.com/track/2y4EEO7Y2X5wC9sQGqOKkQ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2024-02-12 15:00:21",

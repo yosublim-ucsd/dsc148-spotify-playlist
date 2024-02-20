@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 11183,
+  "num_followers": 11188,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDY3MjA5NWUzMTg1ZjJiMDJiN2U0NjExYTM4ZjhlYTBhYTc2NzE5",
+  "snapshot_id": "MCw2NzhkMWNkNzcxM2NhNDhlYzY2MTA3ZjRlM2M0ZmZlNDVkNzJlNTA2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Times Have Changed",
-        "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Baker Brooks",
-          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
-        },
-        {
-          "name": "Felix Cavaliere",
-          "url": "https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ"
-        },
-        {
-          "name": "Lee Roy Parnell",
-          "url": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Come On Up",
-      "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Son Of A Bluesman",
         "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 360146,
       "name": "Little Juke Joint",
       "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Times Have Changed",
+        "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        },
+        {
+          "name": "Felix Cavaliere",
+          "url": "https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ"
+        },
+        {
+          "name": "Lee Roy Parnell",
+          "url": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Come On Up",
+      "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
     },
     {
       "added_at": "2020-12-01 05:01:00",

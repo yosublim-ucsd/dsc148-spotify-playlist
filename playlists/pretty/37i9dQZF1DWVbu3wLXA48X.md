@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,220 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,223 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [Follow Through \- Live](https://open.spotify.com/track/4UZ99247TMJabvsyAFRIHN) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Live In London](https://open.spotify.com/album/51CY8OpXGch76u6R5xlGHy) | 4:10 |
 | 85 | [linger on](https://open.spotify.com/track/2lhsjZvatWKISlxvOTXQiz) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [linger on](https://open.spotify.com/album/30vksPo2RNA1yAco5kitiA) | 3:24 |
 
-Snapshot ID: `MCwwNDZkNWU0OGNmNGM3NzY0ZmRhMmVhZTQzODhmN2YyMzNjNzQyOWRk`
+Snapshot ID: `MCw4MjAxNzc3N2Y0Y2M1Y2JjY2Q4ZGJiYzJkYWRlM2QyZDc3YmUzMDJl`

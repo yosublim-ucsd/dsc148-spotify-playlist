@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 23357,
+  "2024-02-20": 23371,
   "date_first_scraped": "2023-03-18",
   "description": "This is KB. The essential tracks, all in one playlist.",
   "name": "This Is KB",
@@ -415,6 +415,28 @@
       "duration_ms": 181163,
       "name": "EZ",
       "url": "https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH"
     },
     {
       "album": {

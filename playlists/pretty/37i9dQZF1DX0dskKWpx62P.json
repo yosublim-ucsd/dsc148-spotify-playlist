@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 41376,
+  "num_followers": 41385,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmU4NmRkNzAyNDY4NjJiYmYxMjc2OWIwODUwNDgxZGFjMGEyMjg4",
+  "snapshot_id": "MCw5Mzg0ZDc5ZGNlZjVkMzJlMmI5Y2FkMDBiODQ2ODA5NTA1YmVjNDBh",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "La Orquesta",
-      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 287800,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "La Orquesta",
+      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -335,6 +335,38 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Otra vez me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
+      },
+      "artists": [
+        {
+          "name": "Max Castro",
+          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
+        }
+      ],
+      "duration_ms": 361573,
+      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
+      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Tusuyninchiq",
         "url": "https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU"
       },
@@ -363,22 +395,6 @@
       "duration_ms": 274506,
       "name": "Cerveza, Cerveza",
       "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Otra vez me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -415,18 +431,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
+        "name": "Los Errantes",
+        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
       },
       "artists": [
         {
-          "name": "Max Castro",
-          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
+          "name": "Los Errantes",
+          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
         }
       ],
-      "duration_ms": 361573,
-      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
-      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
+      "duration_ms": 192973,
+      "name": "Chuquibambinita",
+      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -443,22 +459,6 @@
       "duration_ms": 254506,
       "name": "Challwaschallay",
       "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Los Errantes",
-        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
-      },
-      "artists": [
-        {
-          "name": "Los Errantes",
-          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Chuquibambinita",
-      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
-      },
-      "artists": [
-        {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
-        }
-      ],
-      "duration_ms": 316586,
-      "name": "Juntito a Ti",
-      "url": "https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huaylash Pio Pio",
-        "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
       },
       "artists": [
         {
-          "name": "Eusebio \"Chato\" Grados",
-          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
         }
       ],
-      "duration_ms": 219653,
-      "name": "El Pio, Pio",
-      "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
+      "duration_ms": 316586,
+      "name": "Juntito a Ti",
+      "url": "https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -587,6 +571,22 @@
       "duration_ms": 171866,
       "name": "Profesorita",
       "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huaylash Pio Pio",
+        "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "El Pio, Pio",
+      "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Bodas de Plata: Concierto en Vivo",
-        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Arqu\u00ednigo",
-          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
-      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "El Jilguero de Huascar\u00e1n",
         "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 181186,
       "name": "Benditas las Madres",
       "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Bodas de Plata: Concierto en Vivo",
+        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Arqu\u00ednigo",
+          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
+      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
     },
     {
       "added_at": "2022-02-04 14:45:56",

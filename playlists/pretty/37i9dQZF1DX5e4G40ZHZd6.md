@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 
 > The very best Blues out of the heart of Northern Mississippi\. Cover: R.L\. Burnside
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,014 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,024 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 | 48 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 |
 | 49 | [Crawlin' King Snake](https://open.spotify.com/track/1trdHaOi0ORDVgJ59hFQ7I) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:02 |
 
-Snapshot ID: `MCxmZmM0N2I2M2YxOGUxNGYzOTkxMDdjYzc5ZDdkY2VlYTdjOGI5NTQ3`
+Snapshot ID: `MCw4MjE2NjhlZjZiNGEzNzAxYTUzYjlkZjJiYjU3NDc3YWEyMDlmZGVm`

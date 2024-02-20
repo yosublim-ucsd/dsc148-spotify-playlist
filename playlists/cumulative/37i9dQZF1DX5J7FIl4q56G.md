@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Kittie
 
-5,704 songs - 16 day 2 hr 47 min
+5,705 songs - 16 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1625,7 +1625,8 @@
 | [ENEMY](https://open.spotify.com/track/4JrhCrAebUMio5LYgBB7kN) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [Enemy](https://open.spotify.com/album/6luG1OgTztTd63QusNzF8L) | 4:54 | 2023-03-10 | 2023-03-18 |
 | [Enemy](https://open.spotify.com/track/3vNMcZxRcx0jmX4GJe4vhZ) | [Diego Teksuo](https://open.spotify.com/artist/5DsbNI5ZIDIWjmsAdaYvZ2) | [Enemy](https://open.spotify.com/album/3vFQ4vBKtZRkk9QpLlRv04) | 2:02 | 2022-04-15 | 2022-04-22 |
 | [Enemy](https://open.spotify.com/track/1oLm0X68scQziiNTMtGmry) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Enemy](https://open.spotify.com/album/74J3xs28ZJrm0WM3OGlrF7) | 4:43 | 2022-12-09 | 2022-12-17 |
-| [ENEMY](https://open.spotify.com/track/3zSrxUy8j7OTiBc59CZjDr) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [ENEMY](https://open.spotify.com/album/550l42RCUvhCXMndHUgaUF) | 4:55 | 2023-07-21 |  |
+| [ENEMY](https://open.spotify.com/track/7tjoRTnKnu1CSjVxulgdmJ) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [Another Side of You](https://open.spotify.com/album/2IrIrLHck9HLd2spHinqgb) | 4:53 | 2024-02-16 |  |
+| [ENEMY](https://open.spotify.com/track/3zSrxUy8j7OTiBc59CZjDr) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [ENEMY](https://open.spotify.com/album/550l42RCUvhCXMndHUgaUF) | 4:55 | 2023-07-21 | 2024-02-20 |
 | [Enemy](https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Enemy](https://open.spotify.com/album/5kiallXslLnp6hxZRFhDkp) | 2:24 | 2023-01-27 | 2023-02-04 |
 | [Enemy](https://open.spotify.com/track/4UYixznVm01FTTBLKKPcF1) | [Traitors](https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya) | [Enemy](https://open.spotify.com/album/22I2zvLyqk0KJ5hZLjzWBF) | 3:19 | 2022-03-24 | 2022-04-01 |
 | [Enemy \(feat\. ifa\)](https://open.spotify.com/track/6Qq5QF8GoZcwpC9purOYoy) | [HOSTAGE](https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD), [ifa](https://open.spotify.com/artist/31xsosoPlzl64vdLtTYkjG) | [Enemy \(feat\. ifa\)](https://open.spotify.com/album/0zrhrHXlGiyCShwuSSi5Y2) | 3:23 | 2022-12-09 | 2022-12-17 |

@@ -25517,6 +25517,32 @@
     },
     {
       "album": {
+        "name": "Prokofiev: Romeo & Juliet",
+        "url": "https://open.spotify.com/album/2wYzIASaoQtpXa16C5HvDZ"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307826,
+      "name": "Romeo and Juliet, Op. 64 / Act 1: Dance Of The Knights",
+      "url": "https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD"
+    },
+    {
+      "album": {
         "name": "Koi No Yokan",
         "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },

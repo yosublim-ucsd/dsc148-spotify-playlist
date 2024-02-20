@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 106053,
+  "2024-02-20": 106055,
   "date_first_scraped": "2022-07-17",
   "description": "",
   "name": "Ver\u00e3o 2023",
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 159115,
       "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0iDNkj4n9xuU7SwfKSd4f2"
@@ -3511,7 +3511,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 155307,
       "name": "Pode Tentar",
       "url": "https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf"

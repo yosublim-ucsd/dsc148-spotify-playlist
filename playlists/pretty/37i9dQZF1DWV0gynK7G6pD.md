@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Pablo Ferrández
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,526 likes - 64 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,619 likes - 64 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 63 | [Mystery \(Rosary\) Sonata: No\. 9 in A Minor “The Carrying of the Cross”: I\. Sonata](https://open.spotify.com/track/4dR3raancW67XfoZWaYqzU) | [Heinrich Ignaz Franz von Biber](https://open.spotify.com/artist/2kMM5v3f7rti00gIbVc1Tk), [Alan Choo](https://open.spotify.com/artist/5OjSAzepWeHEyTOLYrCrKr), [Jeannette Sorrell](https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm) | [Biber: Mystery \(Rosary\) Sonata: No\. 9 in A Minor “The Carrying of the Cross”: I\. Sonata](https://open.spotify.com/album/2BORgTA4vutokyg5Ie2P1f) | 2:21 |
 | 64 | [6 Gesänge, Op\. 107: Abendlied \- Arr\. by Aribert Reimann](https://open.spotify.com/track/1jJ5zPvIpJ41IMH8mlRmKa) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Katharina Konradi](https://open.spotify.com/artist/5tIuwO2i3uxbO9hZfWSouE), [Cosmos Quartet](https://open.spotify.com/artist/3BWFZmGg8ZOM0ZLF7SLsbq) | [R\. Schumann: Abendlied](https://open.spotify.com/album/6Dj6tVnGjAFdYn0O6StUz0) | 2:37 |
 
-Snapshot ID: `MCxlZTJlYWZlYWRlNGZlNTE2OTE0M2M0NTEzM2EzMTQ0NDRhMWRlMWVj`
+Snapshot ID: `MCw2M2MwNTExZTUxODNkZWEwOWFiYjBjMTM1NTAyNGZhY2Y3YThkNzNj`

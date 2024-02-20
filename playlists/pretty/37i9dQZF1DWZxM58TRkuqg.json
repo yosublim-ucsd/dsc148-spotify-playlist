@@ -1,15 +1,15 @@
 {
   "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Ziva Magnolya",
-  "num_followers": 741937,
+  "num_followers": 742342,
   "original_name": "Puncak Klasemen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGUyNzc4NWZmZTQ5NWU1MjQ0OWJlYjc1NTFmNjBlNjI1ZmVlNDIz",
+  "snapshot_id": "MCxiMzlmMTRmMTY5NjBjZGJjOTExZDc5NDMyMWE1ZDlmNjRjNzQ5NTU0",
   "tracks": [
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Wanita Biasa",
         "url": "https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Kisah Yang Lain",
         "url": "https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
-      "album": {
-        "name": "Tak Dianggap",
-        "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 179841,
-      "name": "Tak Dianggap",
-      "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
-    },
-    {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Lagu Pernikahan Kita",
         "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
@@ -77,55 +61,7 @@
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
-      "album": {
-        "name": "Cukup",
-        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
-      },
-      "artists": [
-        {
-          "name": "Ziva Magnolya",
-          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
-        }
-      ],
-      "duration_ms": 220230,
-      "name": "Cukup",
-      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
-    },
-    {
-      "added_at": "2024-02-15 17:00:00",
-      "album": {
-        "name": "Buang - Buang Waktu",
-        "url": "https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv"
-      },
-      "artists": [
-        {
-          "name": "Nidji",
-          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
-        }
-      ],
-      "duration_ms": 196299,
-      "name": "Buang - Buang Waktu",
-      "url": "https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua"
-    },
-    {
-      "added_at": "2024-02-15 17:00:00",
-      "album": {
-        "name": "Menceritakanmu",
-        "url": "https://open.spotify.com/album/4eOwfpR9h2e2uSnG2GtBkI"
-      },
-      "artists": [
-        {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
-        }
-      ],
-      "duration_ms": 239612,
-      "name": "Menceritakanmu",
-      "url": "https://open.spotify.com/track/1zIXdMUZeCJ34l5ssKvyWy"
-    },
-    {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Berharap Kau Kembali",
         "url": "https://open.spotify.com/album/1PjtBnzBSScqyw9ZWaDaBV"
@@ -141,7 +77,87 @@
       "url": "https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
+      "album": {
+        "name": "Buang - Buang Waktu",
+        "url": "https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "duration_ms": 196299,
+      "name": "Buang - Buang Waktu",
+      "url": "https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua"
+    },
+    {
+      "added_at": "2024-02-19 04:49:58",
+      "album": {
+        "name": "Tak Dianggap",
+        "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 179841,
+      "name": "Tak Dianggap",
+      "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
+    },
+    {
+      "added_at": "2024-02-19 04:49:58",
+      "album": {
+        "name": "Menceritakanmu",
+        "url": "https://open.spotify.com/album/4eOwfpR9h2e2uSnG2GtBkI"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "duration_ms": 239612,
+      "name": "Menceritakanmu",
+      "url": "https://open.spotify.com/track/1zIXdMUZeCJ34l5ssKvyWy"
+    },
+    {
+      "added_at": "2024-02-19 04:49:58",
+      "album": {
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
+    },
+    {
+      "added_at": "2024-02-19 04:49:58",
+      "album": {
+        "name": "Cukup",
+        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Sabar",
         "url": "https://open.spotify.com/album/0rpLMpCFLDQJ6BIDJmS1Mp"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/4RLFIfvicLshfmI2foSPSG"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Kamu Adalah",
         "url": "https://open.spotify.com/album/4weKO0Ozr2VOybZn5zrBgo"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Dia Masa Lalumu, Aku Masa Depanmu",
         "url": "https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/2sD709AK9zRN6SKUmDhGEa"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Kata",
         "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Shallow Water",
         "url": "https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI"
@@ -225,23 +241,7 @@
       "url": "https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
-      "album": {
-        "name": "HAHAHA",
-        "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "HAHAHA",
-      "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
-    },
-    {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "40",
         "url": "https://open.spotify.com/album/2iVpnS9BgLXkiZZeV3Vn55"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/4LNwzX11AbDakv8tWwnH4t"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "tiba-tiba jumat lagi",
         "url": "https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Kata Mereka Ini Berlebihan",
         "url": "https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Bunga Hati",
         "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "I Don\u2019t Wanna Go Back Home",
         "url": "https://open.spotify.com/album/1yiw1YFdwvGrIuNjJ8uFMu"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/7zChtXZTVVkabuBCJWlD0h"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "LOVERs ATLAS",
         "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/7dYM7VucT6reu7Q0wGio85"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Sweet Hurting",
         "url": "https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Bulan Dikekang Malam (From ''Ayat Ayat Cinta 2'')",
         "url": "https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Ku Ingin Pisah",
         "url": "https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Tak Berharap Lagi",
         "url": "https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Aduh",
         "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "penjaga hati",
         "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "ASHER",
         "url": "https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/4Trhv4MBai2ay6vF5ovC7g"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Bersamamu",
         "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Karena Kamu (Love Recalls Version)",
         "url": "https://open.spotify.com/album/2Pi4XOJlOvbhNjd6Omnr2h"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/5B7qLPqBd0DxhDuK7VCPch"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Tapi Tahukah Kamu?",
         "url": "https://open.spotify.com/album/2MMTMsyPfgyDewVRuYY9TH"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/4SW9fIXaX6OxJhm9gspkDG"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Semua Aku Dirayakan",
         "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Bernafaslah Sejenak",
         "url": "https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Saat Kau Telah Mengerti",
         "url": "https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Mengapa",
         "url": "https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Muak",
         "url": "https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "MADE 4 U",
         "url": "https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/5PKuRgxDEG48qVxQbD9nL0"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/5s8W7GGcTubPJHpFOo4Sjf"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Mencintaimu",
         "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Tega",
         "url": "https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Lagipula Hidup Akan Berakhir",
         "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Kau Rumahku",
         "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Harapan",
         "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Komang",
         "url": "https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Asing",
         "url": "https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Levronka",
         "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/1vTcULJfuJ8KEpOEuJcKSV"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Rayuan Perempuan Gila",
         "url": "https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Itu Aku - Spotify Singles",
         "url": "https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Aku Memilihmu",
         "url": "https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Somebody's Pleasure",
         "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Tak Segampang Itu",
         "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Berona",
         "url": "https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Jiwa Yang Bersedih",
         "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Masa Mudaku Habis",
         "url": "https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Cinta & Doa",
         "url": "https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/62Ga6ylfUQl469DkZ3P7L7"
     },
     {
-      "added_at": "2024-02-15 17:00:00",
+      "added_at": "2024-02-19 04:49:58",
       "album": {
         "name": "Hari Yang Cerah",
         "url": "https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U"

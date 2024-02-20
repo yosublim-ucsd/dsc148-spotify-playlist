@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 204688,
+  "2024-02-20": 204741,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Malaysia.",
   "name": "Top 50 - Malaysia",
@@ -6855,7 +6855,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 160239,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
@@ -8951,7 +8951,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
@@ -9743,7 +9743,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Mungkin Aku Tak Penting? (feat. Tish Errda)",
       "url": "https://open.spotify.com/track/3SSe3pzhdtPrVN0AqzUkx0"
@@ -16757,6 +16757,24 @@
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "album": {
+        "name": "\u5468\u661f\u7fc5",
+        "url": "https://open.spotify.com/album/0uscMcaN1n2a1PMVjDiEIz"
+      },
+      "artists": [
+        {
+          "name": "Steady Gang",
+          "url": "https://open.spotify.com/artist/3CDxpVRKc54eW7fFXMprsm"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "\u5468\u661f\u7fc5",
+      "url": "https://open.spotify.com/track/36DyjD8GrSu6nlI6BBn3Ak"
     },
     {
       "album": {

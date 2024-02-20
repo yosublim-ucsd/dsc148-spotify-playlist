@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-303 songs - 1 day 8 hr 44 min
+304 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [I Overcame](https://open.spotify.com/track/4VzrPcWyOdMhNudt0SqaW0) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:22 | 2023-12-05 | 2023-12-11 |
 | [I Receive Your Light \(feat\. Magpsalms\) \- Remix](https://open.spotify.com/track/2mjArWhZYBBCrn02oS9G0c) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Magpsalms](https://open.spotify.com/artist/2qjtKb2BJ1ZJ9BQL5XNXo3) | [I Receive Your Light \(feat\. Magpsalms\) \[Remix\]](https://open.spotify.com/album/1yTUzr9tTKReKGwgvgMHQ1) | 8:59 | 2023-11-17 | 2024-01-19 |
 | [I Stand Amazed \- Live in Concert](https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 7:26 | 2023-12-05 | 2023-12-11 |
+| [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2023-12-15 |  |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-06-30 | 2024-02-19 |
 | [I will soar](https://open.spotify.com/track/1Eag9P72ROslztON6d2z15) | [Nene Olajide](https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F) | [Your Glory](https://open.spotify.com/album/0pBJZL8J11JQGc70j4IcWQ) | 5:08 | 2023-06-16 | 2023-07-12 |
 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 | 2022-06-09 | 2023-08-12 |
@@ -246,7 +247,7 @@
 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 | 2022-06-09 |  |
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-06-09 | 2023-06-16 |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 |  |
-| [Tate](https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi) | [Saint Realest](https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Ah Yami](https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy) | 3:13 | 2023-09-29 |  |
+| [Tate](https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi) | [Saint Realest](https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Ah Yami](https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy) | 3:13 | 2023-09-29 | 2024-02-20 |
 | [Thank You Jesus](https://open.spotify.com/track/0ckaJapxvZXRheLq71K2bC) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Songs of the Spirit](https://open.spotify.com/album/4VT477X1Zs9XZkevo0dVEf) | 5:11 | 2022-10-14 | 2022-11-05 |
 | [That's The Power \- Live](https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 4:34 | 2022-06-09 |  |
 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 | 2022-08-12 | 2023-11-18 |

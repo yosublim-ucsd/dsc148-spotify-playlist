@@ -1,12 +1,12 @@
 {
   "description": "i don't normally like country but now my whole life is line dancing to Dasha \ud83e\udd20\ud83d\udc62\ud83c\udf35\ud83c\udfdc\ud83d\udc34",
-  "num_followers": 1493310,
+  "num_followers": 1493442,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzljMzQyZWJlMTZiNDZhM2EwMWM3Yzc0M2UxMDgzMzFhMjFlOWU3",
+  "snapshot_id": "MCxjNTM2YmRlYWUzY2ZjNjNkMDA4OTkzNWU2ZmZiMWRlMDUyMTFkOTZj",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 151760,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD"
+    },
+    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "The Good Witch",
@@ -953,22 +969,6 @@
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lovesick",
-        "url": "https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 151760,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD"
-    },
-    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "QUARTER LIFE CRISIS",
@@ -983,22 +983,6 @@
       "duration_ms": 198436,
       "name": "QUARTER LIFE CRISIS",
       "url": "https://open.spotify.com/track/5qM8NWUsRQ1xztraiBgn0g"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "Burton St.",
-        "url": "https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ"
-      },
-      "artists": [
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Burton St.",
-      "url": "https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+        "name": "Burton St.",
+        "url": "https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
         }
       ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+      "duration_ms": 196213,
+      "name": "Burton St.",
+      "url": "https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "jesus christ in a mini skirt",
-        "url": "https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT"
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
       },
       "artists": [
         {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 180992,
-      "name": "jesus christ in a mini skirt",
-      "url": "https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd"
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1095,6 +1079,22 @@
       "duration_ms": 141147,
       "name": "Just a Friend",
       "url": "https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "jesus christ in a mini skirt",
+        "url": "https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 180992,
+      "name": "jesus christ in a mini skirt",
+      "url": "https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Late to the Party",
         "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 177176,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Dangerous Game",
-        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 158647,
-      "name": "Dangerous Game",
-      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
-    },
-    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "Girlfriend",
@@ -1327,6 +1311,22 @@
       "duration_ms": 155970,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Dangerous Game",
+        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 158647,
+      "name": "Dangerous Game",
+      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1591,26 +1591,18 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "summer after senior year",
-        "url": "https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
       },
       "artists": [
         {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
-        },
-        {
-          "name": "Patrick Hizon",
-          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 145059,
-      "name": "summer after senior year",
-      "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
+      "duration_ms": 176321,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1631,18 +1623,26 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
+        "name": "summer after senior year",
+        "url": "https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
         }
       ],
-      "duration_ms": 176321,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
+      "duration_ms": 145059,
+      "name": "summer after senior year",
+      "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "the mom song",
-        "url": "https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 152435,
-      "name": "the mom song",
-      "url": "https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 212946,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "the mom song",
+        "url": "https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 152435,
+      "name": "the mom song",
+      "url": "https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1809,22 +1809,6 @@
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
     },
     {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "The Thrill Of It",
@@ -1839,6 +1823,22 @@
       "duration_ms": 196491,
       "name": "The Thrill Of It",
       "url": "https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "liar",
+        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1905,6 +1905,22 @@
       "url": "https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "everything about her",
+        "url": "https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 171033,
+      "name": "everything about her",
+      "url": "https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu"
+    },
+    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "swimming pools",
@@ -1937,6 +1953,22 @@
       "url": "https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV"
     },
     {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 194262,
+      "name": "Really Mean It",
+      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
+    },
+    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "I Haven't Seen You Since The Summer",
@@ -1953,20 +1985,20 @@
       "url": "https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+        "name": "Tell Her",
+        "url": "https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
         }
       ],
-      "duration_ms": 194262,
-      "name": "Really Mean It",
-      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
+      "duration_ms": 192600,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1987,38 +2019,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Tell Her",
-        "url": "https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I"
-      },
-      "artists": [
-        {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "everything about her",
-        "url": "https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 171033,
-      "name": "everything about her",
-      "url": "https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "End of an Era",
         "url": "https://open.spotify.com/album/2tJiKcynuvgwJIvt6tSaRb"
       },
@@ -2031,6 +2031,26 @@
       "duration_ms": 189920,
       "name": "End of an Era",
       "url": "https://open.spotify.com/track/17XMzRKnVQeqj8119wRuEs"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Do U Love Me?",
+        "url": "https://open.spotify.com/album/0K5NsFhvnFmiG5ySWUAabh"
+      },
+      "artists": [
+        {
+          "name": "Aimee Vant",
+          "url": "https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO"
+        },
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "duration_ms": 119325,
+      "name": "Do U Love Me?",
+      "url": "https://open.spotify.com/track/0rmdt3FHIUkkcbn10xgFHt"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -2099,26 +2119,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Do U Love Me?",
-        "url": "https://open.spotify.com/album/0K5NsFhvnFmiG5ySWUAabh"
-      },
-      "artists": [
-        {
-          "name": "Aimee Vant",
-          "url": "https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO"
-        },
-        {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        }
-      ],
-      "duration_ms": 119325,
-      "name": "Do U Love Me?",
-      "url": "https://open.spotify.com/track/0rmdt3FHIUkkcbn10xgFHt"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Mouthful",
         "url": "https://open.spotify.com/album/5oepNxJyODntqzZF365JTi"
       },
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Jungle Type Love",
-        "url": "https://open.spotify.com/album/5bX5NlS3qoaLcpND4bnqis"
-      },
-      "artists": [
-        {
-          "name": "SKYLAR",
-          "url": "https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA"
-        }
-      ],
-      "duration_ms": 149021,
-      "name": "Jungle Type Love",
-      "url": "https://open.spotify.com/track/658TvwYU4VDypQz2cjAhag"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Make More Money",
         "url": "https://open.spotify.com/album/7fUJqEZknIGZwp59TsDQqK"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 199461,
       "name": "Make More Money",
       "url": "https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Jungle Type Love",
+        "url": "https://open.spotify.com/album/5bX5NlS3qoaLcpND4bnqis"
+      },
+      "artists": [
+        {
+          "name": "SKYLAR",
+          "url": "https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA"
+        }
+      ],
+      "duration_ms": 149021,
+      "name": "Jungle Type Love",
+      "url": "https://open.spotify.com/track/658TvwYU4VDypQz2cjAhag"
     }
   ],
   "unique_name": "young & free",

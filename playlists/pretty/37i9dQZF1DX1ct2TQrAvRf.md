@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover\- Karan Aujla & Divine
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,511 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,652 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 |
+| 1 | [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 |
 | 2 | [HMM](https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [HMM](https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi) | 3:04 |
 | 3 | [Maharani](https://open.spotify.com/track/7unLxuzKpxbjASww1qi4br) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [ReVo LEKHAK](https://open.spotify.com/artist/6WPI5BHCoVymuFbC2p7p4G) | [Maharani](https://open.spotify.com/album/6da96K6wuRyf61We22UBPe) | 6:29 |
 | 4 | [Hisaab](https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 49 | [Chhore Ncr Aale](https://open.spotify.com/track/4YzmUshoyqoiOx2lVM0rD9) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:20 |
 | 50 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 |
 
-Snapshot ID: `MCw5ZjEwZWMwNGRkYzg0ZTQyODE0YmIxY2QyZDRhODQ0MzljZGQ3OTBi`
+Snapshot ID: `MCxiNDczYTcxNDllNjI3NGM0NTIxYTZhYWUwZjE1ZDI1NDNlMTJlOTNj`

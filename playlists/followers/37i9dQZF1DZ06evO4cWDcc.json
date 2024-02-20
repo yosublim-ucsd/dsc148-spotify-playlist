@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 300302,
+  "2024-02-20": 300358,
   "date_first_scraped": "2022-11-05",
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
   "name": "This Is Jimi Hendrix",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 108373,
       "name": "Ain't No Telling",
       "url": "https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 219613,
       "name": "Burning of the Midnight Lamp",
       "url": "https://open.spotify.com/track/36SULeBeglappJysOY6WzQ"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 146573,
       "name": "Crosstown Traffic",
       "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 223680,
       "name": "Gypsy Eyes",
       "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "Little Miss Strange",
       "url": "https://open.spotify.com/track/1jhH7vvy8hoHuc0mGuZsLX"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 222066,
       "name": "Rainy Day, Dream Away",
       "url": "https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 182546,
       "name": "Wait Until Tomorrow",
       "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"

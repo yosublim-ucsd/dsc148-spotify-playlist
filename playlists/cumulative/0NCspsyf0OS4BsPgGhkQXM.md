@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,018 songs - 2 day 5 hr 24 min
+1,019 songs - 2 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1024,6 +1024,7 @@
 | [Your Vibe](https://open.spotify.com/track/2GHtkrbTsHndIzreO9YNg6) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Your Vibe](https://open.spotify.com/album/2XMvIwxlTm6mHIldjXpiIK) | 4:01 | 2022-07-28 | 2023-02-22 |
 | [Your Vibe](https://open.spotify.com/track/4ojKv1aSRbSAgQ8mvl0GVW) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [On The Coast!](https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g) | 4:01 | 2023-02-21 | 2023-12-19 |
 | [Zeus](https://open.spotify.com/track/3uHjfqPvS5eQFP7GXwx6Ax) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Vinsmoker](https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u) | [Zeus](https://open.spotify.com/album/1vjqn2gidi3DECbymVbKrW) | 2:14 | 2022-12-14 | 2023-01-28 |
+| [¡Date Prisa!](https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [¡Date Prisa!](https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe) | 3:19 | 2024-02-19 |  |
 | [ケアレス \(Slushii Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/0Frhp8XDDaf8S8upKYqPx2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [ケアレス \(Slushii Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/0ow5kLmDSNugPeajkl6uq5) | 2:58 | 2022-05-06 | 2022-06-18 |
 | [境界線 \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/track/3AAvbpyyti6U6lTUynTkKc) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [境界線 \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/album/0sxrl5sn0l6Y3KEWvNynfJ) | 3:23 | 2022-01-14 | 2022-03-04 |
 

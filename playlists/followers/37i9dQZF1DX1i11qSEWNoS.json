@@ -1,5 +1,5 @@
 {
-  "2024-02-19": 556106,
+  "2024-02-20": 556246,
   "date_first_scraped": "2023-07-28",
   "description": "und macht laune",
   "name": "schiebt anders",
@@ -2998,6 +2998,24 @@
     },
     {
       "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "album": {
         "name": "Secco Maracuja (feat. Themba)",
         "url": "https://open.spotify.com/album/0U9DOcHfw3mKkWbh7TCtCH"
       },
@@ -3481,7 +3499,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-19",
       "duration_ms": 123680,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/4Fh76hS27ZgzK0or8eP2qQ"

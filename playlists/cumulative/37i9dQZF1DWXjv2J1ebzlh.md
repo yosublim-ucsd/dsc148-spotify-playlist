@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,202 songs - 6 day 4 hr 15 min
+2,203 songs - 6 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,8 @@
 | [Better Change Your Mind](https://open.spotify.com/track/3QPbXJa0qz3hxAFCQO2hU0) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [Box Set](https://open.spotify.com/album/4PxvAyPKkslgDI1k2f1L1Y) | 8:22 | 2022-07-27 |  |
 | [Better Change Your Mind](https://open.spotify.com/track/6CMUvjnqpSak2Vr9hE01Rc) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/0asepq8bUj1HDuIvLO1Pjz) | 8:23 | 2022-07-12 | 2022-07-29 |
 | [Big Bamboo \- Remastered](https://open.spotify.com/track/2ZLFZXg2USaVzWTKrj5g35) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Independent Jamaica / Big Bamboo](https://open.spotify.com/album/03zXrtUH7hQtZ0h0kIiAXk) | 2:37 | 2022-06-09 |  |
-| [Bim Bom](https://open.spotify.com/track/3seuCZizOQmfyUwhbT2KXc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Remastered Edition\)](https://open.spotify.com/album/7zBrALWkq4ccTLQzFD1zfE) | 1:17 | 2022-07-12 |  |
+| [Bim Bom](https://open.spotify.com/track/1xBNJg2dvZsmUM4yoBag9N) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:17 | 2023-11-29 |  |
+| [Bim Bom](https://open.spotify.com/track/3seuCZizOQmfyUwhbT2KXc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Remastered Edition\)](https://open.spotify.com/album/7zBrALWkq4ccTLQzFD1zfE) | 1:17 | 2022-07-12 | 2024-02-20 |
 | [Bimbom](https://open.spotify.com/track/74iVBXQX5bZWq8FPVLG5nR) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Tulio Enrique León](https://open.spotify.com/artist/6jbC9Zqj2QSBt8puMpM6nS) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 2:37 | 2022-07-27 |  |
 | [Bimbom](https://open.spotify.com/track/3Tq0jy9idYQ1JM9CVKi1sy) | [Tulio Enrique León](https://open.spotify.com/artist/6jbC9Zqj2QSBt8puMpM6nS) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1ADKGt7i1rGDNPjiZscJV4) | 2:37 | 2022-06-09 | 2022-07-29 |
 | [Birds, Pt\. I](https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Big Sun](https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW) | 3:59 | 2022-06-09 |  |

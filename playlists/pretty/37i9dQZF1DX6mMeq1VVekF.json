@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: BXKS",
-  "num_followers": 164981,
+  "num_followers": 165057,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNlMDViMmM3YzRhZjYzMTMzNjIyMTYyM2ZmZWE5MjcxNmMzYmQ5",
+  "snapshot_id": "MCw2MDMwM2IxNWIwYTVjMjVkYTIxOGFiNzQ0ZjdjNThmODNlMDQwOGE4",
   "tracks": [
     {
       "added_at": "2023-11-24 12:22:37",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Hunnids",
-      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
         "name": "A N N I V E R S A R Y (Deluxe)",
         "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Hunnids",
+      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
       },
@@ -395,6 +395,26 @@
       "duration_ms": 176666,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -427,26 +447,6 @@
       "duration_ms": 198000,
       "name": "F*ck U Thought",
       "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "BLOCKBUSTA",
         "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 125468,
       "name": "ROBOSHOTTA (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Lotto",
-        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "Lotto",
+        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "Eye for an Eye",
+        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
+      },
+      "artists": [
+        {
+          "name": "Benny Banks",
+          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Eye for an Eye",
+      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Bon App\u00e9tit",
         "url": "https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 193243,
       "name": "Celine",
       "url": "https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Eye for an Eye",
-        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
-      },
-      "artists": [
-        {
-          "name": "Benny Banks",
-          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Eye for an Eye",
-      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
     }
   ],
   "unique_name": "Free Form",

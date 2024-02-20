@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 55 | [Ave Maria](https://open.spotify.com/track/5LCMAJymyKheiV27LRACD8) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 4:00 |
 | 56 | [Love Affair](https://open.spotify.com/track/0iReGfmVn96YVgK4zG3eZX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:49 |
 | 57 | [Don't Let Me Go](https://open.spotify.com/track/7Gmfbj4VEinMWqLCKdbxeD) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:28 |
-| 58 | [Billie Holiday](https://open.spotify.com/track/2AlAmmMbgPadVZt0fH5aVW) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:14 |
-| 59 | [Somebody To Love](https://open.spotify.com/track/2sgCo8gmeF3zgsYpe1F8OD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:52 |
+| 58 | [Somebody To Love](https://open.spotify.com/track/2sgCo8gmeF3zgsYpe1F8OD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:52 |
+| 59 | [Billie Holiday](https://open.spotify.com/track/2AlAmmMbgPadVZt0fH5aVW) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:14 |
 | 60 | [When You Come Around](https://open.spotify.com/track/0UX9NreXon8S0NTjbBIIaA) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:40 |
 | 61 | [Rock The Party \- Single Remix](https://open.spotify.com/track/3yyCRuWQPxENTKhGZbBFmq) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 2:48 |
 | 62 | [Light Years](https://open.spotify.com/track/23I7SxHu8fHBA6CVQ7Z0w8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/3vH4V069uawep9By3y6EP7) | 4:47 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 153 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 154 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `Mjg0NzE4MTAsMDAwMDAwMDAxOWQzOGI4YmQ1YTE0OTkxZDUxOTBhMDFmMTI1ZmFhOQ==`
+Snapshot ID: `Mjg0NzMyNTAsMDAwMDAwMDBkNGY2ZjU4N2M5Mzg1NDJlOGU3ZWQzZDg0OTNmNWZmNw==`

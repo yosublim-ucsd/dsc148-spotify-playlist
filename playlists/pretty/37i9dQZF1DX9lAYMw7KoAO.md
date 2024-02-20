@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=C9\-23PBuSF2oV6zMlS553A">Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,720 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,978 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Mo Gbona \(I'm hot\)](https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mo Gbona \(I'm hot\)](https://open.spotify.com/album/4QOsrr8w2oTsebpruGJyP9) | 5:33 |
 | 50 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 |
 
-Snapshot ID: `MCwyN2QxMWFiMjE5ZTA3ZWU4OWE2ZGZmODhhNzZmYTllMThhNmYwYzdk`
+Snapshot ID: `MCwwNDBmNDViZGUyYmUwODg5OWM0ZGEyMDczODUyYTkxMmNmNDNiNjVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,832 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,933 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 |
 | 75 | [النهايات اخلاق](https://open.spotify.com/track/1N7883qNidzmI1SVmdzfAE) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [النهايات اخلاق](https://open.spotify.com/album/2gCCgjKpxvkdWaXiDh9Kk7) | 4:08 |
 
-Snapshot ID: `MCwxNTU5ZTExNjliNTNlMWU1ZDJjYjFmMTg0ZmIxMWFlMGY5Y2RhNDAw`
+Snapshot ID: `MCw1M2NkNTZjNGE0MTFkZjBiM2RmMWM0NzQ4OGI1Y2MzM2VkNzM1NzA5`

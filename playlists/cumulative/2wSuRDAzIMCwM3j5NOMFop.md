@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-32 songs - 1 hr 38 min
+33 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Wage Wars Get Rich Die Handsome \(The Jordan Lake Sessions Volume 5\)](https://open.spotify.com/track/4AcfUWv9nT3OP8V4dAZedQ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volume 5](https://open.spotify.com/album/2qobfbPVsiuJTUDtzJsbUc) | 2:25 | 2023-01-09 |  |
 | [Weight of the World](https://open.spotify.com/track/3mBzmGcvEytNUsPHmpqtXZ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:13 | 2023-03-23 |  |
 | [Welcome to the Neighborhood!](https://open.spotify.com/track/4mqtbyIidkZQmpHveD0joq) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Welcome to the Neighborhood!](https://open.spotify.com/album/45otVgvLxy1cQ9UAWWHDJV) | 1:36 | 2023-03-28 |  |
+| [Where Do I Sign?](https://open.spotify.com/track/5Myf2whTzO5haXrfeisXG8) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Are We Having Fun?](https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g) | 3:11 | 2024-02-19 |  |
 | [Where We Belong](https://open.spotify.com/track/3bn7nqO1SDLLYNEnaW8Sjx) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:18 | 2023-03-23 |  |
 | [Why We Build the Wall](https://open.spotify.com/track/68oU2YXg4kwPpertTUFrC6) | [Patrick Page](https://open.spotify.com/artist/4Dk7zvn9NdF4TESEa8Bbbj), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 4:00 | 2023-03-31 |  |
 | [Wonderland](https://open.spotify.com/track/2tzLjiRec9KtzdhgyVYN6Z) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:10 | 2023-06-03 |  |

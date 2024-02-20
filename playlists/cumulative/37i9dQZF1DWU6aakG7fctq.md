@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Danny Schiller & Ambar Lucid
 
-560 songs - 1 day 7 hr 5 min
+561 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 | 2022-09-06 | 2023-06-24 |
 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 | 2023-11-10 |  |
 | [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 | 2024-02-16 | 2024-02-18 |
-| [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 | 2024-02-09 |  |
+| [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 | 2024-02-09 | 2024-02-20 |
 | [Aunque nunca te lo diga](https://open.spotify.com/track/3bknyaIwxNamskujz37Gom) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Aunque nunca te lo diga](https://open.spotify.com/album/0csvMcIGbbqVdB3DHCw8X4) | 2:47 | 2023-03-10 | 2023-08-19 |
 | [Automóvil](https://open.spotify.com/track/4unjiYzweEhOqxR2t7VUv0) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Automóvil](https://open.spotify.com/album/0J1njNNsv2a5PWoZaAoUnu) | 2:39 | 2024-02-09 |  |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2023-11-11 |
@@ -179,6 +179,7 @@
 | [Flores](https://open.spotify.com/track/5fi7LBIH0j7ZZlHn7Yjrmo) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/6AEvvF0EnuyBbehpsOYUi6) | 3:22 | 2022-06-29 | 2022-08-12 |
 | [Fly](https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Fly](https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby) | 3:26 | 2024-01-26 |  |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-11-18 | 2022-10-28 |
+| [Fuego](https://open.spotify.com/track/3U9y0hOHQddR8idPdaSnAo) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/2Q7Chgh9BWep2hmZh5wPaF) | 2:58 | 2024-02-16 |  |
 | [Fuego \- A COLORS SHOW](https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Fuego \- A COLORS SHOW](https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k) | 3:19 | 2023-03-24 | 2023-10-21 |
 | [Fuiste](https://open.spotify.com/track/43E9DTi6w0KDcVlMUQJZ3G) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Fuiste](https://open.spotify.com/album/1TwffFgHGraPkTQbOq2YKs) | 3:16 | 2023-10-20 | 2023-10-28 |
 | [fujifilm](https://open.spotify.com/track/31CBsIdvIq8qulxi0sbfw7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [fujifilm](https://open.spotify.com/album/1hJrQkyCwUT5K3d7zo5FAq) | 2:42 | 2023-12-08 |  |

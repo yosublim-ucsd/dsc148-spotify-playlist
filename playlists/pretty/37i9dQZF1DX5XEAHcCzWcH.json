@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 33670,
+  "num_followers": 33688,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGFmODRjNGUzZmIzNGZiOWRmMTg5MWZkMDUxNjNjYjdkZjc0MjEy",
+  "snapshot_id": "MCwzZDE1ZGM0OTNiOWY5NGMxZjc3ZGY1Y2M3NmViMmM2NmJkMTRmMmVj",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -199,22 +183,6 @@
       "duration_ms": 154840,
       "name": "Boogie In \"G\"",
       "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Milk And Water",
-      "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -235,18 +203,34 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+      "duration_ms": 190733,
+      "name": "Milk And Water",
+      "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -263,6 +247,22 @@
       "duration_ms": 190400,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Shake Rattle & Rock",
+        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 177439,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Classified (Remixed & Expanded Edition)",
         "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Lovesick Soul",
-      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Lovesick Soul",
+      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Solo Ride",
         "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 225693,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Shake Rattle & Rock",
-        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Essential Leroy Carr",
-        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
       "artists": [
         {
-          "name": "Leroy Carr",
-          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Papa's on the House Top",
-      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
+      "duration_ms": 185933,
+      "name": "Some Nerve",
+      "url": "https://open.spotify.com/track/6VD8KPBkAg3FR4tFjiuuCa"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -555,6 +555,22 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Essential Leroy Carr",
+        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
+      },
+      "artists": [
+        {
+          "name": "Leroy Carr",
+          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Papa's on the House Top",
+      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Some Nerve",
-      "url": "https://open.spotify.com/track/6VD8KPBkAg3FR4tFjiuuCa"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 240426,
       "name": "New York City Blues",
       "url": "https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -707,18 +723,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+        "name": "Blues Piano-Rama",
+        "url": "https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx"
       },
       "artists": [
         {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+          "name": "Julian Fauth",
+          "url": "https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr"
+        },
+        {
+          "name": "Curley Bridges",
+          "url": "https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus"
         }
       ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+      "duration_ms": 346786,
+      "name": "The Blues Ain't Nothing",
+      "url": "https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -751,26 +771,6 @@
       "duration_ms": 202000,
       "name": "Honky Tonk",
       "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Blues Piano-Rama",
-        "url": "https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx"
-      },
-      "artists": [
-        {
-          "name": "Julian Fauth",
-          "url": "https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr"
-        },
-        {
-          "name": "Curley Bridges",
-          "url": "https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus"
-        }
-      ],
-      "duration_ms": 346786,
-      "name": "The Blues Ain't Nothing",
-      "url": "https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
-        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Honeydripper",
         "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 152000,
       "name": "Pocketful Of Money",
       "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
+        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "The Blue Horizon Story (1965-1970)",
+        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Empty Arms",
+      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "SUN STUDIO STORY",
         "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 166253,
       "name": "My Baby's Gone",
       "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "The Blue Horizon Story (1965-1970)",
-        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Empty Arms",
-      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
     },
     {
       "added_at": "2023-09-15 11:43:10",

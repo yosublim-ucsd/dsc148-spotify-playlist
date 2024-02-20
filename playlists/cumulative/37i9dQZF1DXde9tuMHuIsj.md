@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus
 
-338 songs - 19 hr 24 min
+339 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 | 2023-03-21 | 2023-11-11 |
 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 | 2023-11-10 |  |
 | [FOLLOWS](https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [FOLLOWS](https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E) | 3:57 | 2022-08-05 | 2023-03-18 |
-| [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 | 2023-03-03 |  |
+| [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 | 2023-03-03 | 2024-02-20 |
 | [Freestyle](https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Freestyle](https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7) | 2:47 | 2022-12-20 | 2023-03-04 |
 | [Freestyle v3](https://open.spotify.com/track/4qlmoS5qlXx6wWYpeZwsrK) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [King Kong](https://open.spotify.com/album/52HFcMSiek3WJAPJYDvnT6) | 2:22 | 2022-09-16 | 2023-07-01 |
 | [Full of Diamonds](https://open.spotify.com/track/0cmJ4BzHucAJGS8BtJgxnm) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Full of Diamonds](https://open.spotify.com/album/6rWB7o6ZtJo7wXGDz3ywpx) | 4:24 | 2023-09-08 | 2023-12-16 |
@@ -160,6 +160,7 @@
 | [Hmm](https://open.spotify.com/track/7Gtx4i1zh875u3k5AmaPpS) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Hmm](https://open.spotify.com/album/6NsfFRsKueNyFFX9vTb7IQ) | 2:34 | 2022-03-18 | 2022-05-04 |
 | [HOMENAJE](https://open.spotify.com/track/02qsYZznhFSX0psInKC7st) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [HOMENAJE](https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts) | 3:35 | 2024-01-26 |  |
 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 | 2022-12-02 |  |
+| [Hoodie](https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Hoodie](https://open.spotify.com/album/7khVi5TFgnk7RkKP7e9ttP) | 2:54 | 2024-02-09 |  |
 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 | 2022-03-18 | 2023-02-11 |
 | [Hoy En Dia](https://open.spotify.com/track/7nNkcIRoXZKYFqD3nVHt0n) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Hoy En Dia](https://open.spotify.com/album/55XiOVXxv8iuG7bBzI1GU1) | 2:43 | 2023-02-17 | 2023-07-01 |
 | [Hptismo](https://open.spotify.com/track/2ws8zwC1Ax65Z53PvtXgpG) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Hptismo](https://open.spotify.com/album/43V3YFdu1wK59byU3U3nOO) | 4:10 | 2024-01-12 |  |

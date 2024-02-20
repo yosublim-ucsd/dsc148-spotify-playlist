@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Djodje.
 
-347 songs - 20 hr 42 min
+348 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alquimia](https://open.spotify.com/track/1bu6VC2sSihmP8kiHg89fl) | [Idelsa](https://open.spotify.com/artist/0mXFos6Vf02A5AReZz9i5p), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Alquimia](https://open.spotify.com/album/0HBCHTI8Ny7qWtKET7YKvY) | 3:46 | 2022-02-11 | 2022-04-07 |
 | [Always](https://open.spotify.com/track/6Fhr7jGP1IfSHynLeFNoMu) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Always](https://open.spotify.com/album/0YY6MqbJd4TWaqiH8Xsvyp) | 4:10 | 2022-04-29 | 2022-05-09 |
 | [Amo\-Te](https://open.spotify.com/track/5PCMiD1Ueel9dHB56hEkxZ) | [Jazzy Rhodes](https://open.spotify.com/artist/4Jmpc3XWrGfzMXKYlQOrFG), [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69) | [Amo\-Te](https://open.spotify.com/album/2qL8ao6taagISusBR1Z2pO) | 3:23 | 2022-02-11 | 2022-07-20 |
+| [Ansiedade](https://open.spotify.com/track/4syuRr00gJt48uBY3XKJMz) | [Tony Fika](https://open.spotify.com/artist/2eOz5uQonlXVK464N4pVUt) | [Ansiedade](https://open.spotify.com/album/61Mb2cWHMPmDQVIQj771R8) | 3:30 | 2024-02-19 |  |
 | [Apaixonado](https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:34 | 2021-12-10 |  |
 | [Apaixonado / Magico / Dam bo amor / Cada vez mais / So 1 momento \- Acoustic Session 1](https://open.spotify.com/track/6Nq3psIgjMvHfSN26gVKtK) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Apaixonado / Magico / Dam bo amor / Cada vez mais / So 1 momento \(Acoustic Session 1\)](https://open.spotify.com/album/6ZZ5iSN6iPO6PtlV6E1q1W) | 3:51 | 2022-04-29 | 2022-07-27 |
 | [Aperta](https://open.spotify.com/track/101bSnuKjwls52XChDbfvg) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mirror](https://open.spotify.com/album/77BKN39eVEPX2baKEJwqtN) | 3:59 | 2021-12-10 | 2022-04-24 |
@@ -233,7 +234,7 @@
 | [Paradise](https://open.spotify.com/track/4mLhhkXotGXUrHZyNVQ4of) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Paradise](https://open.spotify.com/album/1zcy0WbVAHrs5AacOEvXa8) | 4:08 | 2021-12-10 | 2022-07-13 |
 | [Parar O Tempo \(feat\. Mika Mendes\)](https://open.spotify.com/track/79gXTEpKycijVMspDoi3xG) | [Ravidson](https://open.spotify.com/artist/1vvyxjq4RKNF1AzsdnR5Sk), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Rising](https://open.spotify.com/album/7gS0bFas0II42WXoKoQTMC) | 4:17 | 2022-02-18 | 2022-05-23 |
 | [Parece Magia](https://open.spotify.com/track/18YNXtBfIAC8OuBENVZULb) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Parece Magia](https://open.spotify.com/album/4soPzDjJTGJCCm8i5gseoB) | 3:14 | 2022-05-13 | 2022-05-31 |
-| [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 | 2021-12-10 |  |
+| [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 | 2021-12-10 | 2024-02-20 |
 | [Pele Pele](https://open.spotify.com/track/2bSosZIgEuwI0bcYV0LsGc) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Pele Pele](https://open.spotify.com/album/78C0t64PP514Y5nsMbTkRk) | 3:08 | 2022-05-13 | 2022-05-25 |
 | [Perde Voo](https://open.spotify.com/track/0iMHeQ3WI6bHzQBkb6JpFB) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon) | [Perde Voo](https://open.spotify.com/album/2cqYflO6WXlnfzZQF9ULQj) | 3:06 | 2021-12-10 | 2022-07-15 |
 | [Perigosa \(feat\. Anselmo Ralph\)](https://open.spotify.com/track/0r2ZBAHKX36U3do2a3E0Vd) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Perigosa \(feat\. Anselmo Ralph\)](https://open.spotify.com/album/4qqYgCeX9DdyG9Seds57QX) | 3:38 | 2021-12-10 | 2023-02-17 |

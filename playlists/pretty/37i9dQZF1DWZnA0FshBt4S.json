@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 103527,
+  "num_followers": 103577,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjMxZjkwZmNlYzg0NjhkZjI4OTczMDQ4MjE2NjUzYjBmOTA1OWMy",
+  "snapshot_id": "MCw1OTVlNzVmYzVmNjY3NWZkN2VlNDYyZGVmYzMzNGRhOWE4NDNmYjUz",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "BarlowGirl",
+        "url": "https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr"
+      },
+      "artists": [
+        {
+          "name": "BarlowGirl",
+          "url": "https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi"
+        }
+      ],
+      "duration_ms": 270213,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "The Essential Kirk Franklin",
         "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "BarlowGirl",
-        "url": "https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
       },
       "artists": [
         {
-          "name": "BarlowGirl",
-          "url": "https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi"
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
         }
       ],
-      "duration_ms": 270213,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL"
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -543,22 +559,6 @@
       "duration_ms": 273093,
       "name": "I Want to Know You",
       "url": "https://open.spotify.com/track/3Vw3NlrSsQmE8W5Aqvf0vz"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Sonicpraise",
-        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
-      },
-      "artists": [
-        {
-          "name": "Sonicflood",
-          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
-        }
-      ],
-      "duration_ms": 381600,
-      "name": "Lord I Lift Your Name on High",
-      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Supertones Strike Back, The",
         "url": "https://open.spotify.com/album/4m5KGlpqUtKNT4nrH1Wq8k"
       },
@@ -659,22 +643,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 142253,
-      "name": "Get This Party Started",
-      "url": "https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Anybody Out There?",
         "url": "https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe"
       },
@@ -691,6 +659,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Get This Party Started",
+      "url": "https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "King of Fools",
         "url": "https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 260388,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Seven Day Jesus",
-        "url": "https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP"
-      },
-      "artists": [
-        {
-          "name": "Seven Day Jesus",
-          "url": "https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa"
-        }
-      ],
-      "duration_ms": 210768,
-      "name": "Butterfly - Seven Day Jesus Album Version",
-      "url": "https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 223826,
       "name": "Love Liberty Disco",
       "url": "https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Seven Day Jesus",
+        "url": "https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP"
+      },
+      "artists": [
+        {
+          "name": "Seven Day Jesus",
+          "url": "https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa"
+        }
+      ],
+      "duration_ms": 210768,
+      "name": "Butterfly - Seven Day Jesus Album Version",
+      "url": "https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Thrifty Mr. Kickstar",
-        "url": "https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ"
-      },
-      "artists": [
-        {
-          "name": "dryve",
-          "url": "https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4"
-        }
-      ],
-      "duration_ms": 406726,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "100 Million Eyeballs",
         "url": "https://open.spotify.com/album/2RRtryPMMJCXllcbpms0k5"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 180293,
       "name": "Lift My Eyes Up",
       "url": "https://open.spotify.com/track/08CSlrBEs0qAaNm4dxLPf6"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Thrifty Mr. Kickstar",
+        "url": "https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ"
+      },
+      "artists": [
+        {
+          "name": "dryve",
+          "url": "https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4"
+        }
+      ],
+      "duration_ms": 406726,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7"
     },
     {
       "added_at": "2023-02-01 04:53:20",

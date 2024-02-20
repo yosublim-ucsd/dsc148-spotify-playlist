@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,937 likes - 61 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,342 likes - 61 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wanita Biasa](https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Wanita Biasa](https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi) | 4:05 |
 | 2 | [Kisah Yang Lain](https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Yang Lain](https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss) | 4:02 |
-| 3 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
-| 4 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
-| 5 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
-| 6 | [Buang \- Buang Waktu](https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Buang \- Buang Waktu](https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv) | 3:16 |
+| 3 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
+| 4 | [Berharap Kau Kembali](https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Berharap Kau Kembali](https://open.spotify.com/album/1PjtBnzBSScqyw9ZWaDaBV) | 4:18 |
+| 5 | [Buang \- Buang Waktu](https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Buang \- Buang Waktu](https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv) | 3:16 |
+| 6 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
 | 7 | [Menceritakanmu](https://open.spotify.com/track/1zIXdMUZeCJ34l5ssKvyWy) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Menceritakanmu](https://open.spotify.com/album/4eOwfpR9h2e2uSnG2GtBkI) | 3:59 |
-| 8 | [Berharap Kau Kembali](https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Berharap Kau Kembali](https://open.spotify.com/album/1PjtBnzBSScqyw9ZWaDaBV) | 4:18 |
-| 9 | [Sabar](https://open.spotify.com/track/4RLFIfvicLshfmI2foSPSG) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Sabar](https://open.spotify.com/album/0rpLMpCFLDQJ6BIDJmS1Mp) | 3:00 |
-| 10 | [Kamu Adalah](https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb) | [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kamu Adalah](https://open.spotify.com/album/4weKO0Ozr2VOybZn5zrBgo) | 4:46 |
-| 11 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/2sD709AK9zRN6SKUmDhGEa) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl) | 4:02 |
-| 12 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
-| 13 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 |
-| 14 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 |
+| 8 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 |
+| 9 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
+| 10 | [Sabar](https://open.spotify.com/track/4RLFIfvicLshfmI2foSPSG) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Sabar](https://open.spotify.com/album/0rpLMpCFLDQJ6BIDJmS1Mp) | 3:00 |
+| 11 | [Kamu Adalah](https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb) | [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kamu Adalah](https://open.spotify.com/album/4weKO0Ozr2VOybZn5zrBgo) | 4:46 |
+| 12 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/2sD709AK9zRN6SKUmDhGEa) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl) | 4:02 |
+| 13 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
+| 14 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 |
 | 15 | [Merah Delima](https://open.spotify.com/track/4LNwzX11AbDakv8tWwnH4t) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS) | [40](https://open.spotify.com/album/2iVpnS9BgLXkiZZeV3Vn55) | 4:10 |
 | 16 | [tiba\-tiba jumat lagi](https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [tiba\-tiba jumat lagi](https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7) | 4:09 |
 | 17 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 60 | [Talalu Sakit](https://open.spotify.com/track/62Ga6ylfUQl469DkZ3P7L7) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 5:15 |
 | 61 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 |
 
-Snapshot ID: `MCwzMGUyNzc4NWZmZTQ5NWU1MjQ0OWJlYjc1NTFmNjBlNjI1ZmVlNDIz`
+Snapshot ID: `MCxiMzlmMTRmMTY5NjBjZGJjOTExZDc5NDMyMWE1ZDlmNjRjNzQ5NTU0`

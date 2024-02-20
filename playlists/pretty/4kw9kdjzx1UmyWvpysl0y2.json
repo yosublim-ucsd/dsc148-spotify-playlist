@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126463,
+  "num_followers": 126467,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU2NixhMTkyNWY2NWI4ZDc1YjY3NzNhNmNjZTYxNGE1MmZlNTE5Yjc2MzU4",
+  "snapshot_id": "NDU2Nyw2ZmVhOTQ0OWViNGE4YTM1YWE4Yjc1NzQ3MDJjOGY5MTZlNDA0NzQw",
   "tracks": [
+    {
+      "added_at": "2024-02-19 19:12:47",
+      "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/1swqPWfvWrpOON97OKZ6Bx"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Brandyn Burnette",
+          "url": "https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM"
+    },
     {
       "added_at": "2024-02-16 17:10:54",
       "album": {

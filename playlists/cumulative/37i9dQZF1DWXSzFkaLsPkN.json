@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Zindagi Jahaan Le Jaaye",
+        "url": "https://open.spotify.com/album/4CQ831WVa61uapP1b2kgK8"
+      },
+      "artists": [
+        {
+          "name": "Faisal Kapadia",
+          "url": "https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242128,
+      "name": "Dheema Dheema",
+      "url": "https://open.spotify.com/track/33RgO0FvvPTYHUF4blQnlZ"
+    },
+    {
+      "album": {
         "name": "Dil",
         "url": "https://open.spotify.com/album/0cbPgz6gaYyUp2eCn8WpS4"
       },
@@ -840,6 +858,28 @@
       "duration_ms": 178000,
       "name": "Ho Jaane Do",
       "url": "https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj"
+    },
+    {
+      "album": {
+        "name": "Zindagi Jahaan Le Jaaye",
+        "url": "https://open.spotify.com/album/4CQ831WVa61uapP1b2kgK8"
+      },
+      "artists": [
+        {
+          "name": "Faisal Kapadia",
+          "url": "https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR"
+        },
+        {
+          "name": "Zoha Zuberi",
+          "url": "https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Hum Na Rahay",
+      "url": "https://open.spotify.com/track/0p97L7pOXARsFtinkZD0qP"
     },
     {
       "album": {
@@ -1761,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "Lehrein",
+        "url": "https://open.spotify.com/album/1PalWzpE7UXkHv7Sf50ARX"
+      },
+      "artists": [
+        {
+          "name": "SidB",
+          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Lehrein",
+      "url": "https://open.spotify.com/track/5DtLtzTnFcbOuGU6tXPNFq"
+    },
+    {
+      "album": {
         "name": "Main Aur Tum - Single",
         "url": "https://open.spotify.com/album/1OWIwIqD7d8dq9oRSYczJD"
       },
@@ -2460,7 +2518,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 185157,
       "name": "Reit Ka Ghar",
       "url": "https://open.spotify.com/track/0JUNA4mVJSWSHaRTWKc0e7"
@@ -2968,7 +3026,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 186051,
       "name": "Tere Saath",
       "url": "https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e"
@@ -3402,7 +3460,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 194000,
       "name": "Yeh Jo Zindagi",
       "url": "https://open.spotify.com/track/6xysS6CPs8ERZ7uAtaEGVI"

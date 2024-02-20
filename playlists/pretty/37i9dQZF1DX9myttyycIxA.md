@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Lime Garden
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,004 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,026 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 30 | [Work Out](https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Work Out](https://open.spotify.com/album/6cyMnhRwSuq7io3XmwxhXt) | 3:43 |
 | 31 | [Drive Baby](https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Drive Baby](https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ) | 2:38 |
 | 32 | [TV on TV](https://open.spotify.com/track/1IODMOg2Un0yxLdAKof5pT) | [Pouty](https://open.spotify.com/artist/7df6s0ZqRT1OAPw4H3wSzM) | [TV on TV](https://open.spotify.com/album/5lOTLk4sQjCxpu1OjZDQ5R) | 2:45 |
-| 33 | [Where We've Been](https://open.spotify.com/track/1roZVHlL8RR4s6cdrHl2qZ) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where We've Been](https://open.spotify.com/album/6ZADkFBIE0TDXapyOthWL0) | 5:15 |
+| 33 | [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 |
 | 34 | [Her Garden](https://open.spotify.com/track/2tHxMpPtSgu7NmGZULdNaU) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Melt the Honey](https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz) | 2:43 |
 | 35 | [Lindo Lindo](https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Lindo Lindo](https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ) | 3:43 |
 | 36 | [Wake to flowers](https://open.spotify.com/track/5rA5NU8FxazgSkXNmMN3KT) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Wake to flowers](https://open.spotify.com/album/76z55NJfoHhOLNSr2kpF8M) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
 | 100 | [rainwater on the windowsill](https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [rainwater on the windowsill](https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw) | 3:08 |
 
-Snapshot ID: `MCwyNGRlYTFjNTY0YTBhMjQ0YWUwYTkyMWQxN2YxMmM4Yzg0MDZmMzk0`
+Snapshot ID: `MCxmMjkxNDc5YmM5MWU4YTEwZGY5ODU4NDlkNWRkMDJmYjQ2NmZmMGE1`

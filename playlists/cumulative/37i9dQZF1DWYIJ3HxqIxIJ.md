@@ -4,7 +4,7 @@
 
 > Blusher is our new RADAR artist to watch!
 
-280 songs - 14 hr 28 min
+281 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [Teenage Dirtbag – Spotify Singles](https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Spotify Singles](https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU) | 3:06 | 2022-08-15 | 2023-03-02 |
 | [Teenage Renegade](https://open.spotify.com/track/12UFOhdwV1STPKzAI39hUu) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Teenage Renegade](https://open.spotify.com/album/1MbxlBgw83NZbqcJuoAVnd) | 3:04 | 2022-08-15 | 2023-03-02 |
 | [Teenage Tragedy](https://open.spotify.com/track/3z0gcpUkzUUoKx4UQ5slno) | [Rory Webley](https://open.spotify.com/artist/2vlC4o7h61xlMUop6QCuvK) | [Teenage Tragedy](https://open.spotify.com/album/74gU8oZ7f2gNiOX3gi7voJ) | 2:03 | 2022-08-15 | 2022-11-11 |
-| [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 | 2024-01-18 |  |
+| [Terrible News](https://open.spotify.com/track/1Fq62so6JYiEizTz8o1aVW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:52 | 2024-01-18 |  |
+| [Terrible News](https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6) | 2:52 | 2024-01-18 | 2024-02-20 |
 | [The Brown Snake](https://open.spotify.com/track/1n9rCSKrSfoytMF2AkC1CU) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 3:15 | 2022-08-15 | 2023-06-28 |
 | [The City](https://open.spotify.com/track/1GNU5GDMAP2xTlLa7qN18k) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The City](https://open.spotify.com/album/0gsbIh3mdGUbtHZ0sXOlhO) | 3:02 | 2023-03-02 |  |
 | [The Morning](https://open.spotify.com/track/6SS1m6gUnH6LhB2eOtBDFM) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [The Morning](https://open.spotify.com/album/1Pmmu2U0fv00xXxmZeNBT5) | 2:57 | 2022-11-10 | 2023-03-02 |
