@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,655 likes - 96 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,656 likes - 96 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 95 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 |
 | 96 | [誰より好きなのに](https://open.spotify.com/track/7a7RuBVD7ZXW9bFVWLcoTr) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [THE SINGLES SONY MUSIC YEARS 1993〜2002](https://open.spotify.com/album/6L0RnoV3X2PtQoyY203VZJ) | 4:39 |
 
-Snapshot ID: `MCw0ZTE0OTJkNDVjZDY2MmQ1ZTdkYzI0MmJlYjdlMjljNTc1ZjFlMTIw`
+Snapshot ID: `MCw2OGY3OGUzZDY3MGNhMTUxMjc5N2FjMjE2NDNiZGY1YTNjZjk1ZTI2`

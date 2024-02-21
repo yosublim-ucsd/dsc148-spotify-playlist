@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,997 likes - 350 songs - 1 day 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,021 likes - 350 songs - 1 day 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 349 | [Rumbero](https://open.spotify.com/track/7lccfP8P28uLa2fgqgwCt7) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:44 |
 | 350 | [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 |
 
-Snapshot ID: `MCxhYjE5ODk3YzhjMzI2OGE3YTQxOTI5YTI2YzMzMDQ5ZTYzNDk4MTI1`
+Snapshot ID: `MCxiYzY0OWQ3NzIxOGU1MWViY2NkNjdmZDFkOTc2ZDk4Y2VjYWQ4M2Ez`

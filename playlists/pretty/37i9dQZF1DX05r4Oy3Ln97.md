@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,380 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,498 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 53 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
 | 54 | [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 |
 | 55 | [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 |
-| 56 | [In Too Deep](https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU) | [WEEKLESS](https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF), [WEDONT](https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [In Too Deep](https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z) | 2:45 |
-| 57 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
+| 56 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
+| 57 | [In Too Deep](https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU) | [WEEKLESS](https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF), [WEDONT](https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [In Too Deep](https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z) | 2:45 |
 | 58 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 |
 | 59 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 |
 | 60 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 |
 
-Snapshot ID: `MCxhYzI5OTA3Y2JjOTdiZTMwYTdlZTU4MGMzMmFmNTc1NzA0NzI0NWM5`
+Snapshot ID: `MCxhZTcwNzdlNjg5MWE2MDhmMmQ0YTFkYTFjN2U3ZTQyZmI0ZmJkZmJm`

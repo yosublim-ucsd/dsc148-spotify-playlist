@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146901,
+  "num_followers": 146895,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZThjOTIzNjE1ZWFjZDczYmYxMjZhYzAxNzY3MTE2N2U5MTQ4YWEx",
+  "snapshot_id": "MCxjNmFiNzY1OTdiNDhkZWY5MWMyZDhlY2VkNGNlZmU5ZmZmYzZhZTY2",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1107,30 +1107,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Made On McCosh Mill Road",
-        "url": "https://open.spotify.com/album/1iiEEawc2NE4vPk8brAItV"
+        "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
+        "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
       },
       "artists": [
         {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        },
-        {
-          "name": "Kyle Cook",
-          "url": "https://open.spotify.com/artist/3VbprQmATEsilJkF5SH4dL"
-        },
-        {
-          "name": "Danny Boone",
-          "url": "https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8"
-        },
-        {
-          "name": "Demun Jones",
-          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
         }
       ],
-      "duration_ms": 218786,
-      "name": "Way Down South (feat. Kyle Cook, Danny Boone, and Demun Jones)",
-      "url": "https://open.spotify.com/track/7CCLJ1kMUU4Z6sPywAU7iU"
+      "duration_ms": 208189,
+      "name": "Slow Cookin'",
+      "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1167,18 +1155,30 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
-        "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
+        "name": "Made On McCosh Mill Road",
+        "url": "https://open.spotify.com/album/1iiEEawc2NE4vPk8brAItV"
       },
       "artists": [
         {
-          "name": "Willie Jones",
-          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Kyle Cook",
+          "url": "https://open.spotify.com/artist/3VbprQmATEsilJkF5SH4dL"
+        },
+        {
+          "name": "Danny Boone",
+          "url": "https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8"
+        },
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
         }
       ],
-      "duration_ms": 208189,
-      "name": "Slow Cookin'",
-      "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
+      "duration_ms": 218786,
+      "name": "Way Down South (feat. Kyle Cook, Danny Boone, and Demun Jones)",
+      "url": "https://open.spotify.com/track/7CCLJ1kMUU4Z6sPywAU7iU"
     },
     {
       "added_at": "2023-12-22 05:00:00",

@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: El Bendito con FERXXO
 
-101 songs - 5 hr 6 min
+102 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [MALIANTEO](https://open.spotify.com/track/4HxHuTn5m8mvwstavPF8yE) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [MALIANTEO](https://open.spotify.com/album/5u0hfSKS3TjW2NqIZCDHsx) | 2:51 | 2024-01-26 |  |
 | [Marbella](https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 3:02 | 2023-09-30 |  |
 | [Maria \- Remix](https://open.spotify.com/track/79RznOnBinLenZ5UVBiVuk) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Maria \(Remix\)](https://open.spotify.com/album/2fucowTAaCNo2uMALeEO83) | 3:02 | 2023-12-08 |  |
-| [MAS RARO](https://open.spotify.com/track/5au1uA1b2hb7NdDdTQvJYW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:24 | 2024-01-26 |  |
+| [MAS RARO](https://open.spotify.com/track/5au1uA1b2hb7NdDdTQvJYW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:24 | 2024-01-26 | 2024-02-21 |
 | [Me Perjudique](https://open.spotify.com/track/70tG2LYkoL0bbBGZhCYjnt) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Me Perjudique](https://open.spotify.com/album/4qOZcYBrc1N7WbxyBRo77C) | 2:35 | 2023-11-24 |  |
 | [Medayork](https://open.spotify.com/track/0OVJRLUDVurs2KSKGV9oFE) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Dimeloking](https://open.spotify.com/artist/4LVVm4QddeluNJAUuiCqRz) | [Medayork](https://open.spotify.com/album/6RJQwbAKTyRQ8IFoXmSFhm) | 3:02 | 2023-09-30 |  |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2023-09-30 |  |
@@ -102,6 +102,7 @@
 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2023-11-10 |  |
 | [SORNERITO](https://open.spotify.com/track/2gN4tTPjZceqOy2F0OJZQk) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:19 | 2024-01-26 |  |
 | [SUDARI](https://open.spotify.com/track/16uz1SEv3PuzRNPFeW5er4) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [SUDARI](https://open.spotify.com/album/5vboeBlZfIEWrdecpWHtIq) | 2:11 | 2023-12-15 | 2024-01-20 |
+| [Sueños Perdidos](https://open.spotify.com/track/0dpZO7uwO7sPYUJ3TtxG12) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Sueños Perdidos](https://open.spotify.com/album/6JsNEh667ctg1Iznj6rdTI) | 4:16 | 2024-02-20 |  |
 | [Todos Mienten](https://open.spotify.com/track/5d5OZU83S7zk9tywpKXU7H) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Los Rogelios](https://open.spotify.com/artist/3Iq3cJnSTLqSEg7IFzsers), [ElMalaFama](https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Robin Rouse](https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg) | [Todos Mienten](https://open.spotify.com/album/3Smf95F1l0e8wO5TDfpnpV) | 6:24 | 2023-10-10 | 2024-01-27 |
 | [Trofeo](https://open.spotify.com/track/4RtEiwxATP4Vko76xcFmf6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:42 | 2023-09-30 | 2023-11-11 |
 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:25 | 2023-09-30 |  |

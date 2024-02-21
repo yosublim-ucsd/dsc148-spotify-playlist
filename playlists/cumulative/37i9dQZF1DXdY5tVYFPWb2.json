@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 223977,
       "name": "All Night (English version)",
       "url": "https://open.spotify.com/track/6LeL6MfbgTF5lqojh2IniG"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Circularity",
+        "url": "https://open.spotify.com/album/73jgPZgJBUlZV91SADu1Nk"
+      },
+      "artists": [
+        {
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243675,
+      "name": "Circularity",
+      "url": "https://open.spotify.com/track/5MXnwkHAitmmXBR0pBKtoP"
+    },
+    {
+      "album": {
         "name": "CITY BOY",
         "url": "https://open.spotify.com/album/1zxr2z8ge9WWFGYWX2rHpE"
       },
@@ -2162,6 +2180,24 @@
       "duration_ms": 219545,
       "name": "Don't look at me ... (but stare at me)",
       "url": "https://open.spotify.com/track/4HtQwv2GQxntfh5JscAgrN"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2\u30f3",
+        "url": "https://open.spotify.com/album/6hVdX5dXFyRDlKmJWtRh8E"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30ec\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168484,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/35VJDCPSfCi3JjBzZ4hr3U"
     },
     {
       "album": {
@@ -3097,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "LOVE DRIVE",
+        "url": "https://open.spotify.com/album/05UHHOq9BVELWwF5Xuqceg"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30aa\u30f3\u306b\u604b\u3057\u3066",
+          "url": "https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246538,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/77VV0IhRZikqbVz6eLMIpY"
+    },
+    {
+      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410"
       },
@@ -4014,6 +4068,28 @@
       "duration_ms": 237146,
       "name": "i\u3092you",
       "url": "https://open.spotify.com/track/0Z0SvteMXsfqncEC7QoadO"
+    },
+    {
+      "album": {
+        "name": "jet",
+        "url": "https://open.spotify.com/album/3n86S7i8Myqsb57Z84Juqz"
+      },
+      "artists": [
+        {
+          "name": "AKIRA",
+          "url": "https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv"
+        },
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219120,
+      "name": "jet",
+      "url": "https://open.spotify.com/track/1OB2FDxVSbJMWjhPj5AVa4"
     },
     {
       "album": {
@@ -7493,6 +7569,24 @@
     },
     {
       "album": {
+        "name": "Side Step",
+        "url": "https://open.spotify.com/album/6TvvtkYhB2KIFvPeXMTTE6"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "Side Step",
+      "url": "https://open.spotify.com/track/1te3NRWiAyRzowFqMrrLw0"
+    },
+    {
+      "album": {
         "name": "Balcony",
         "url": "https://open.spotify.com/album/3ClQYZUc2caqnGJWSDdn4l"
       },
@@ -7798,7 +7892,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 161495,
       "name": "Something",
       "url": "https://open.spotify.com/track/0HLWURlbFjeNsdCxUzxbEG"
@@ -9866,7 +9960,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 189290,
       "name": "Want You",
       "url": "https://open.spotify.com/track/2DPxgdqVSrVeath58SUuJN"
@@ -10038,6 +10132,28 @@
       "duration_ms": 243900,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/6l50VsBz2P3MaWBOiUUxac"
+    },
+    {
+      "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/3LctcoOYxkDtuvczmS9j12"
+      },
+      "artists": [
+        {
+          "name": "MU-FU",
+          "url": "https://open.spotify.com/artist/2n5x1QfkGTOAg8cPGYoCWL"
+        },
+        {
+          "name": "Kaco",
+          "url": "https://open.spotify.com/artist/5uWUJPAFWreFPks7f3wtMx"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181301,
+      "name": "Wind Jammer",
+      "url": "https://open.spotify.com/track/6Wm90WXPGhYncuo1NOwSJy"
     },
     {
       "album": {
@@ -11156,7 +11272,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 216730,
       "name": "\u307e\u305f\u306d",
       "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
@@ -14556,7 +14672,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 236166,
       "name": "\u7dba\u9e97",
       "url": "https://open.spotify.com/track/1VEsvrQw1j2hVBcqb13m0Y"

@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: La Joaqui, Roze Oficial & Dj Tao.
 
-480 songs - 23 hr 43 min
+481 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,8 @@
 | [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 | 2021-12-23 |  |
 | [No Te Vas a Olvidar](https://open.spotify.com/track/6RwAPBAOhvyS3BTK5JaSq2) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Jorgito Barrionuevo](https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH) | [No Te Vas a Olvidar](https://open.spotify.com/album/5HNIgxDU0zkg1VyuHGDUQB) | 2:20 | 2024-02-02 |  |
 | [No vas a cambiar](https://open.spotify.com/track/2JyR4XomCbSv543H904cME) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [No vas a cambiar](https://open.spotify.com/album/6kscFb5kafyfOzie0ZxAdz) | 2:34 | 2021-12-23 | 2022-07-29 |
-| [No Voy a Llorar Por Ti](https://open.spotify.com/track/6XamCg6wYD7B9o38SB5SH3) | [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Milthon](https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK) | [No Voy a Llorar Por Ti](https://open.spotify.com/album/0DAHo5LXe7Iflr0vfda7Tc) | 2:38 | 2023-12-08 |  |
+| [No Voy a Llorar Por Ti](https://open.spotify.com/track/6XamCg6wYD7B9o38SB5SH3) | [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Milthon](https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK) | [No Voy a Llorar Por Ti](https://open.spotify.com/album/0DAHo5LXe7Iflr0vfda7Tc) | 2:38 | 2023-12-08 | 2024-02-21 |
+| [No Voy a Llorar Por Ti](https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Milthon](https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK) | [No Voy a Llorar Por Ti](https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM) | 2:36 | 2024-02-16 |  |
 | [NO VUELVO A CAER](https://open.spotify.com/track/71mPUsIl4zcHwiJKYB24op) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [NO VUELVO A CAER](https://open.spotify.com/album/43UowDzr6bGW5PT5gMyu7Y) | 2:24 | 2023-11-24 |  |
 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 | 2021-12-23 |  |
 | [Noche Loca](https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:58 | 2021-12-23 |  |

@@ -4,7 +4,7 @@
 
 > Ye olde medieval folk to enjoy with one's squire m'lord.
 
-64 songs - 3 hr 17 min
+66 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Taunder naken](https://open.spotify.com/track/61PtRJNWSbqP6XkYDjLBla) | [The City Waites](https://open.spotify.com/artist/5VA8egIiCHGczJvaMifhAf) | [City Waites: The English Tradition \- 400 Years of Music and Song](https://open.spotify.com/album/2RMDwEhv3X9ckM5CZ3WBP7) | 2:10 | 2023-08-01 |  |
 | [The Arrival](https://open.spotify.com/track/3T9pyPL9ZaWSL0vNEIVU9c) | [Rohith](https://open.spotify.com/artist/4NkrNTKIDGbG7hqRyqO0Xq) | [The Arrival](https://open.spotify.com/album/4PlommMOBIH4NyAe7EbP35) | 2:45 | 2023-08-01 |  |
 | [The Court of Cintra](https://open.spotify.com/track/3DQP9LWZeSm6oAH62lSmBn) | [Roxane Genot](https://open.spotify.com/artist/4jO41bgpC8DyhIQKU6bL2P) | [The Court of Cintra](https://open.spotify.com/album/3xAwS5r0L9VFzyEwOieUmp) | 2:02 | 2023-08-01 |  |
-| [The Friendly Arm Inn \(From "Baldur's Gate"\)](https://open.spotify.com/track/6d5geH3RQrDB7VHDW09pHS) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Fantasy Realms](https://open.spotify.com/album/2Tm5JKQGoiGLJSRWdheM3C) | 1:05 | 2023-08-01 |  |
+| [The Friendly Arm Inn \(From "Baldur's Gate"\)](https://open.spotify.com/track/6d5geH3RQrDB7VHDW09pHS) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Fantasy Realms](https://open.spotify.com/album/2Tm5JKQGoiGLJSRWdheM3C) | 1:05 | 2023-08-01 | 2024-02-21 |
+| [The Friendly Arm Inn \- From "Baldur's Gate"](https://open.spotify.com/track/4yyfssjc5wWyVNluHbtJ2L) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Fantasy Realms](https://open.spotify.com/album/2jjRNp0pjNZ2rBs59HxNjy) | 1:05 | 2023-08-01 |  |
 | [The Lass of Patie's Mill \(Arr\. E\. Baines for Chamber Ensemble\)](https://open.spotify.com/track/4WZTvlprygW6ijp8mnHNBW) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Emily Baines](https://open.spotify.com/artist/3rEXRrXcfadUa9KfEkLx3X), [Amyas](https://open.spotify.com/artist/25mFImukQ6gsDBabrfFplV) | [The Ghost in the Machine](https://open.spotify.com/album/7GQGezFRiyMbaBCySNvPFR) | 2:06 | 2023-08-01 |  |
 | [The lone wolf](https://open.spotify.com/track/4WTd5fsmO3SOtKeGsE0oEP) | [Sagason](https://open.spotify.com/artist/1NGD3wO5QFhjMhDppAV3ji) | [The lone wolf](https://open.spotify.com/album/7orWWz1mOCuzOJTu3B5cVF) | 4:09 | 2023-08-01 |  |
 | [The White Stallion](https://open.spotify.com/track/53VKRjjkpWa3DrA4ORVPq9) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29), [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Avalon: Between Earth and Sky](https://open.spotify.com/album/5vG190cMNeWDas2rcQa3Cq) | 3:37 | 2023-08-01 |  |
@@ -68,7 +69,8 @@
 | [Troubadour](https://open.spotify.com/track/2LnqNMmpotmzwxwPggfnco) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs) | [Medieval Times](https://open.spotify.com/album/70EY2l6bxrIeDoUWb1zcY9) | 3:16 | 2023-08-01 |  |
 | [Var Det Du](https://open.spotify.com/track/5PL31Uf5jITiPCatgz4UbS) | [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From the Edge of the World](https://open.spotify.com/album/7MULUCW0CaaPCbFgMEyK2d) | 2:59 | 2023-08-01 |  |
 | [Weary Traveler](https://open.spotify.com/track/1a86BR1HbxC9CUk1ogyEcg) | [John Theodore](https://open.spotify.com/artist/3SHq8EK25NxclzXDj7DbQR) | [Weary Traveler](https://open.spotify.com/album/4dx0fr11bIrwVT5qapcO6I) | 3:39 | 2023-08-01 |  |
-| [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 | 2023-08-01 |  |
+| [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 | 2023-08-01 | 2024-02-21 |
+| [Wild Boar Inn](https://open.spotify.com/track/123dbEu64JKmhfU0fGy0gX) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7BgQqvXcARjxfj1BLC4va1) | 0:50 | 2023-08-01 |  |
 | [Winter is coming](https://open.spotify.com/track/0wwAGtWNfJgp6UlpC60yWY) | [Bahrambient](https://open.spotify.com/artist/15y9zAEE8UaiSmdmbG6gja) | [Winter is coming](https://open.spotify.com/album/4QInXujdGdS5UwDN2bC2Kn) | 3:08 | 2023-08-01 |  |
 | [Within the Grove](https://open.spotify.com/track/7HkbZduZDZwkAxhpy6nFk9) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Evocation I \- The Arcane Dominion](https://open.spotify.com/album/0oejZRECTMWgXXaVFtmQ2r) | 1:51 | 2023-08-01 |  |
 | [Yule \- Acoustic](https://open.spotify.com/track/6OvmT4ABabLnkYWMBQrHg5) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [SOL](https://open.spotify.com/album/6b3giURddQkyGt9LZZacf7) | 5:22 | 2023-08-01 |  |

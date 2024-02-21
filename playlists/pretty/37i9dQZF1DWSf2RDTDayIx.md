@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,339,974 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,340,233 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Life Is Good](https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Life Is Good](https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2) | 3:20 |
 | 150 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 |
 
-Snapshot ID: `MCxmOTM2MDk0OGRiZDY4NTg4MTYxMDBmNDM4OTEzZDhjY2U0ZWNhMzky`
+Snapshot ID: `MCw3MjMxOGQyNTFmMzRhMDI3ZWNjMWU5OTEwNWMyZDgxMTE0MTM4MzIw`

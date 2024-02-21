@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: TOMOKO IDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,469 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,471 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Formula X](https://open.spotify.com/track/0r99ktDvymD0tb6oUFyvac) | [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Between Isekai and Slice of Life \~異世界と日常の間に\~](https://open.spotify.com/album/4gzxCLUSK6zyNNOeu8pJlm) | 2:47 |
 | 50 | [Mizu\-Iro](https://open.spotify.com/track/1Gg1LzqEi4eL2AV8hlTI5x) | [TENTENKO](https://open.spotify.com/artist/0Z0T5Cm2d7m8L0qCTzI6yD) | [An Antworten EP](https://open.spotify.com/album/5xJQeowjdaLP0GKJdRUjaO) | 6:28 |
 
-Snapshot ID: `MCxhM2JmMzQyNDUyZmMzZjBlMGExYTdiNjM2NDQ5ODE0ZWM2NjQ1ZDY1`
+Snapshot ID: `MCw0ZGQ1Y2I4NDkzODE0ZDk1NDZiYThkOTUyZjk4MTVkZjczZjNkMDlh`

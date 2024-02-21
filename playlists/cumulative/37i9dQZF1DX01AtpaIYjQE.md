@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-163 songs - 11 hr 35 min
+164 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [HADASHi NO STEP](https://open.spotify.com/track/6s1WMXoUhEpgWcBYCRJq2n) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:42 | 2022-11-15 |  |
 | [HADASHi NO STEP](https://open.spotify.com/track/7fABbNU3MdFKJxj3FTZysn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:45 | 2022-05-31 | 2022-11-16 |
 | [Headphone Actor](https://open.spotify.com/track/56VTCRO6gYrpICBibMKr7R) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Mekakucity M's 1 \~Mekakucity Actors Vocal & Sound Collection\~](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 3:42 | 2022-05-31 |  |
+| [HELLO WORLD](https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HELLO WORLD](https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB) | 4:53 | 2024-02-20 |  |
 | [ID](https://open.spotify.com/track/1S2o6ACZKMJFn9X1RRCds9) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA Best \(Day\)](https://open.spotify.com/album/4ToQg7UHlnVKoESEXoMwgl) | 3:55 | 2022-05-31 | 2022-07-29 |
 | [ID](https://open.spotify.com/track/2kzzRkU42KZenQyRoZDCZi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/0Ev8ierP0m0upnX26siq1I) | 3:55 | 2022-11-07 | 2022-11-14 |
 | [ID](https://open.spotify.com/track/3x0zJwdD01pkq5LllSVhVi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ID](https://open.spotify.com/album/1Wg6kbpJN59inEM3D3vImx) | 3:57 | 2022-05-31 | 2023-06-14 |

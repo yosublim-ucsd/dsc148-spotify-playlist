@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,255 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,340 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 17 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
 | 18 | [Truth And Rights](https://open.spotify.com/track/4UDhprhFPKxJZ2ChNSJsKG) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:01 |
 | 19 | [Satisfy My Soul](https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:31 |
-| 20 | [Danger In Your Eyes](https://open.spotify.com/track/2PQeK7uGoKfc1sGRTN1cFR) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:53 |
-| 21 | [Soul Locks](https://open.spotify.com/track/49QxDYDu2N2G6vEyuOqPk9) | [St Ct and the Gladiators Band](https://open.spotify.com/artist/0dKddycMI80gcYQTkqKFQh) | [Studio One Dub Volume 2](https://open.spotify.com/album/4c5MDMjgliQuLDMq04ecp3) | 3:17 |
+| 20 | [Soul Locks](https://open.spotify.com/track/49QxDYDu2N2G6vEyuOqPk9) | [St Ct and the Gladiators Band](https://open.spotify.com/artist/0dKddycMI80gcYQTkqKFQh) | [Studio One Dub Volume 2](https://open.spotify.com/album/4c5MDMjgliQuLDMq04ecp3) | 3:17 |
+| 21 | [Danger In Your Eyes](https://open.spotify.com/track/2PQeK7uGoKfc1sGRTN1cFR) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:53 |
 | 22 | [School](https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:38 |
 | 23 | [Nanny’s Corner](https://open.spotify.com/track/5xUjLG37Qk3YR2CYpGHgKR) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:35 |
 | 24 | [Waiting In Vain](https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 4:16 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 33 | [Crabwalking](https://open.spotify.com/track/4jYXEy2Rv5V5jcf4JAiR7o) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:15 |
 | 34 | [Give Me a Little Sign](https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB) | [Owen Gray](https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:07 |
 | 35 | [Hang On Natty](https://open.spotify.com/track/1TKDhky8F2v7Dlz69mH8yq) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Soul Jazz Records presents Sugar Minott at Studio One](https://open.spotify.com/album/2S0HvAeuZShMBQpk982CGp) | 2:52 |
-| 36 | [I'm The Ruler](https://open.spotify.com/track/0naH4jtOlEiZYuuIrBdyIj) | [Anthony Rocky Ellis](https://open.spotify.com/artist/3UPeHT1ujrnMl7mOto6xTA) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 2:19 |
-| 37 | [African Challenge](https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg) | [Zoot Simms](https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:13 |
-| 38 | [Trouble Maker](https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:58 |
-| 39 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
-| 40 | [Rocking Time](https://open.spotify.com/track/2xoglIbnCpu5ZYowHJyNet) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:47 |
+| 36 | [Trouble Maker](https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:58 |
+| 37 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
+| 38 | [Rocking Time](https://open.spotify.com/track/2xoglIbnCpu5ZYowHJyNet) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:47 |
+| 39 | [I'm The Ruler](https://open.spotify.com/track/0naH4jtOlEiZYuuIrBdyIj) | [Anthony Rocky Ellis](https://open.spotify.com/artist/3UPeHT1ujrnMl7mOto6xTA) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 2:19 |
+| 40 | [African Challenge](https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg) | [Zoot Simms](https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:13 |
 | 41 | [Heavenless](https://open.spotify.com/track/2s4U4ZCLqSWMrekCakqlBl) | [Don Drummond & The Skatalites — Heavenless](https://open.spotify.com/artist/1VmIFcBGFy0M17OBzIAe2X) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 6:12 |
 | 42 | [Rougher Yet](https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 3:06 |
 | 43 | [Reggae Feet](https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG) | [Lloyd Williams](https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:34 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 48 | [Namibia](https://open.spotify.com/track/0tzz52F0Y1bPeRT31cIdCr) | [Liberation Group](https://open.spotify.com/artist/5ndZzvsrg96O78vOjnwUx4) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 3:35 |
 | 49 | [Mark My Word](https://open.spotify.com/track/1uVnn2BEEwbcSmV0YVIGL2) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:14 |
 | 50 | [Bad Treatment](https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV) | [Cannon & The Soul Vendors](https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:02 |
-| 51 | [Jericho Skank](https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu) | [Jackie Mittoo & Ernest Ranglin](https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:57 |
-| 52 | [Happy Feelings](https://open.spotify.com/track/5cERnwvQmaeAFNaJavhw1X) | [Dub Specialist](https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:42 |
-| 53 | [Real Rock](https://open.spotify.com/track/5jnA4sMHH7OiImyOHKSVdl) | [Sound Dimension](https://open.spotify.com/artist/5OUHQrNOEtdwwSo7I68lzv) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 2:31 |
+| 51 | [Real Rock](https://open.spotify.com/track/5jnA4sMHH7OiImyOHKSVdl) | [Sound Dimension](https://open.spotify.com/artist/5OUHQrNOEtdwwSo7I68lzv) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 2:31 |
+| 52 | [Jericho Skank](https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu) | [Jackie Mittoo & Ernest Ranglin](https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:57 |
+| 53 | [Happy Feelings](https://open.spotify.com/track/5cERnwvQmaeAFNaJavhw1X) | [Dub Specialist](https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:42 |
 | 54 | [Afrikaan Beat](https://open.spotify.com/track/3fFXhwkwFDhcCuEjzm4EqM) | [Lester Sterling](https://open.spotify.com/artist/0bxvspvRBbcpshzQFSqKVv) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:56 |
 | 55 | [Rub Up Push Up](https://open.spotify.com/track/12Iiv0jGt8lyAlrrdVqpPU) | [The Termites](https://open.spotify.com/artist/62Il32zMicP6h1H4VUF6jq) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 2:11 |
 | 56 | [Ringo Rock](https://open.spotify.com/track/0d98jmXYAEuh2cLAdLp8Q9) | [Soul Vendors](https://open.spotify.com/artist/2jJI2J9IXpHrUBXpsuMa5x) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 3:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Send Another Moses](https://open.spotify.com/track/4HSC43MCTRxCA6ohDU4MNB) | [The Willows](https://open.spotify.com/artist/2VKTGKX88xeP0pNOSOeXof) | [Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S](https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO) | 6:03 |
 | 60 | [Simmer Down](https://open.spotify.com/track/2qUkkHORN5objY895DYs55) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:52 |
 
-Snapshot ID: `MCw4Y2NhMzJkYjE0YmE1ZDVlYWNjNjA3NTI4MGNhMWNiNDg2MTgwOTRl`
+Snapshot ID: `MCw4NWNmZjlmYWM0ZTc0NDNlZDg3ODY5ZWViOWQzYTcwODcyZWJmOTc0`

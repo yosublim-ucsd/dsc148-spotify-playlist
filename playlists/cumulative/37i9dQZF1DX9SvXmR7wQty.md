@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz
 
-2,332 songs - 5 day 4 hr 30 min
+2,333 songs - 5 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Boum Boum](https://open.spotify.com/track/2XstsXzqwfc2jQ4E4n6uQr) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Boum Boum](https://open.spotify.com/album/1q509IKPQ6HBnzlCopgkCS) | 2:40 | 2022-08-19 | 2022-09-03 |
 | [Bouquet](https://open.spotify.com/track/1TfdEU6Y6kvBk1AcJ3dc0G) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Bouquet](https://open.spotify.com/album/4H9b5KTywUg9esadnVpY0a) | 2:51 | 2023-02-17 | 2023-03-04 |
 | [Bozo](https://open.spotify.com/track/3F3uSHkzmrFmA5HEObz5bz) | [Black Taboo](https://open.spotify.com/artist/7l3tJokhtkXbhiV0af1Q0t), [Mononcle Rock](https://open.spotify.com/artist/3zTxqwZzCVsIZm8CrmX5YD) | [Bozo](https://open.spotify.com/album/7edLDB6gyqOpMJQp8U6pXP) | 1:48 | 2022-10-14 | 2022-10-29 |
+| [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 | 2024-02-16 |  |
 | [Bref..\. \(22\)](https://open.spotify.com/track/1pA1C3qmBysEz7IVG2znzy) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [Bref..\. \(22\)](https://open.spotify.com/album/3n9lVvGITEM6DcpoYu5g2B) | 1:41 | 2022-12-02 | 2022-12-24 |
 | [Bricolo](https://open.spotify.com/track/3eZ4MmYFdX2QEDwgjXiAgj) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Bricolo](https://open.spotify.com/album/5jy3Lv93L3pqq7bnibwtuY) | 2:32 | 2023-01-20 | 2023-01-28 |
 | [BRILLES](https://open.spotify.com/track/4CAGAkTcc1jUWP7COxfzFb) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [BRILLES](https://open.spotify.com/album/0XTugJmLUDOFHGR5Aw9J6b) | 2:14 | 2023-06-16 | 2023-06-24 |
@@ -2046,7 +2047,7 @@
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 |  |
 | [Temps Mort](https://open.spotify.com/track/5SjDYaaYpyuNqYgNFrwLJv) | [RIP](https://open.spotify.com/artist/5VyEjYKwnt9lyULWcLJS9f) | [Temps Mort](https://open.spotify.com/album/4pKgXmDrEJL7kKKPftkOYt) | 2:51 | 2022-04-08 | 2022-04-16 |
 | [Temps perdu](https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:27 | 2022-03-04 | 2022-03-12 |
-| [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-02-16 |  |
+| [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-02-16 | 2024-02-21 |
 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 | 2023-10-20 | 2024-01-24 |
 | [Terre de nos aïeux](https://open.spotify.com/track/41lSwH24Xl5Pc31P3OdYzX) | [Katia Rock](https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb) | [Terre de nos aïeux](https://open.spotify.com/album/27Wzl8f2PhavvspsLTmaci) | 3:52 | 2022-01-14 | 2022-01-22 |
 | [Tes mots couverture](https://open.spotify.com/track/5raETuowQmDMYsQCjRyrbP) | [Charles Robert](https://open.spotify.com/artist/1R7v1ckHaqIzDpi1exOK9h) | [Tes mots couverture](https://open.spotify.com/album/6o93nVkzc6wEpa6QtemMDW) | 3:00 | 2022-10-14 | 2022-10-22 |

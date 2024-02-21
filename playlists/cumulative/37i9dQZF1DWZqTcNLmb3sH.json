@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 180480,
       "name": "Aadi Baa - Rhythm Of Blink (From \"Blink\")",
       "url": "https://open.spotify.com/track/2dcf16Qu3YurRrqA3F9lqp"
@@ -7838,7 +7838,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Garadi Title Track (From \"Garadi\")",
       "url": "https://open.spotify.com/track/6uaOJCLS6kZXidqfykTAgP"
@@ -8830,7 +8830,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 275241,
       "name": "Hathurina Deepa (From \"Ranga Samudra\")",
       "url": "https://open.spotify.com/track/3FTIz33oSuRWxiAdVKw9ue"
@@ -10764,7 +10764,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 226434,
       "name": "Jeevamaana (From \"Garadi\")",
       "url": "https://open.spotify.com/track/6BZRrmvDfDyaKaz8mkX1du"
@@ -15922,6 +15922,32 @@
       "duration_ms": 220144,
       "name": "Nalipu Dhamal Beat (From \"Raj Sounds and Lights\")",
       "url": "https://open.spotify.com/track/2xSkT6HQ7cig4R3Ris2q9y"
+    },
+    {
+      "album": {
+        "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
+        "url": "https://open.spotify.com/album/74KxoC4rTK2c8ELTvUoO1l"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265896,
+      "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
+      "url": "https://open.spotify.com/track/3C0xLaMFfAU28qtwi4HJ9W"
     },
     {
       "album": {
@@ -25070,7 +25096,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 233492,
       "name": "Yava Janumada Gelathi (from \"Kaatera\")",
       "url": "https://open.spotify.com/track/0Uw7FTZyC35WQtqt0kDweW"

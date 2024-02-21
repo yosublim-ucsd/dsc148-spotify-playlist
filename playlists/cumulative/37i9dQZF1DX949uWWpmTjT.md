@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-947 songs - 2 day 13 hr 35 min
+948 songs - 2 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Half to the hills](https://open.spotify.com/track/2zPWKbfRZojow5x9ljlfUC) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Half to the hills](https://open.spotify.com/album/5SP8ji4ojuWDoE99p5CDKj) | 2:36 | 2023-06-15 |  |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-04-13 |  |
 | [Hay Square Serenade](https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Hay Square Serenade](https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr) | 3:48 | 2024-02-02 |  |
+| [Hazel](https://open.spotify.com/track/31xTgQQsM0etDnwb6ziLbW) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [Hazel](https://open.spotify.com/album/0kTzgg4yQiJKfDymYvvqh9) | 3:51 | 2024-02-16 |  |
 | [He Knows I'm Sophisticated](https://open.spotify.com/track/7FoREcrEypkMF3bdA1auQF) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Knows I'm Sophisticated](https://open.spotify.com/album/4w9qBQ0YSTsrDXmXmZoNBf) | 2:47 | 2023-02-02 |  |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2023-02-02 |  |
 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 | 2023-03-23 |  |
@@ -528,7 +529,7 @@
 | [Mood Indigo](https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:45 | 2021-12-03 |  |
 | [Moody Promenade](https://open.spotify.com/track/3QDUpdIPgL1NSpCY9aPpbf) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Moody Promenade](https://open.spotify.com/album/2fHHkpZFQAjV1lCrC2AY4U) | 2:57 | 2023-03-30 |  |
 | [Moon Love](https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [The Trumpet Artistry Of Chet Baker](https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM) | 3:15 | 2022-04-08 | 2022-06-15 |
-| [Moon River](https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Moon River](https://open.spotify.com/album/2w1aFC5btuTPK2rr75Jt1N) | 6:27 | 2023-06-15 |  |
+| [Moon River](https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Moon River](https://open.spotify.com/album/2w1aFC5btuTPK2rr75Jt1N) | 6:27 | 2023-06-15 | 2024-02-21 |
 | [Moon River](https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:59 | 2022-08-17 | 2022-11-09 |
 | [Moon river](https://open.spotify.com/track/7JbFAqOtdRPwcWU06oCgcm) | [Richard Andersson](https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK), [Per Møllehøj](https://open.spotify.com/artist/7rZ5rNAh21rNPtmVKrHjuf), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Inviting](https://open.spotify.com/album/5TJAtu3tUhXPsm71zc9wRL) | 6:49 | 2022-08-17 | 2023-08-19 |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2023-01-12 |  |

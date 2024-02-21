@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 177 songs - 9 hr 19 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 176 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,11 +179,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 169 | [Long Ears](https://open.spotify.com/track/0HiMULfsVPuDSDBGn2hYll) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 3:56 |
 | 170 | [Lullaby](https://open.spotify.com/track/0EQGHDMLscIdLtgqHDfnRQ) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 2:31 |
 | 171 | [James Joint](https://open.spotify.com/track/6K4Co1NQyOnoFEJMkZHkln) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 1:12 |
-| 172 | [U Should Know](https://open.spotify.com/track/17vVm6v7GE2tP2KRVbCwqv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:06 |
-| 173 | [Nothing Changë](https://open.spotify.com/track/3rLjenWhYQNFGI1xrvTHWy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:57 |
-| 174 | [Lyfestylë \(with Lil Wayne\)](https://open.spotify.com/track/15qRV1yUqFR6ViOwxoopod) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:56 |
-| 175 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 |
-| 176 | [Blue](https://open.spotify.com/track/07pEbfPpD6FvyWr6BsQrAG) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Don't Go Tellin' Your Momma](https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm) | 2:25 |
-| 177 | [Lil O](https://open.spotify.com/track/4XQYw27IBSTWlqedgSBovL) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 2:12 |
+| 172 | [Lyfestylë \(with Lil Wayne\)](https://open.spotify.com/track/15qRV1yUqFR6ViOwxoopod) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:56 |
+| 173 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 |
+| 174 | [Blue](https://open.spotify.com/track/07pEbfPpD6FvyWr6BsQrAG) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Don't Go Tellin' Your Momma](https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm) | 2:25 |
+| 175 | [Lil O](https://open.spotify.com/track/4XQYw27IBSTWlqedgSBovL) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 2:12 |
+| 176 | [Nothing Changë](https://open.spotify.com/track/3rLjenWhYQNFGI1xrvTHWy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:57 |
 
-Snapshot ID: `NzIzMCwxNmQyZjgwZDBmNTlhNjcxYzY1ODNkMzE2MDdkZWNhNmIzMDM4MGE0`
+Snapshot ID: `NzIzMyw0NTE4OTVmOWMwZjVmOWJjMTc4ZTEyYTliNDU3OTczYTVlZTg5ZDQx`

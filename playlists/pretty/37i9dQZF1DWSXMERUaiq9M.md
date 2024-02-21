@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,123 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,381 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 74 | [Can't Forget U](https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx) | [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Can't Forget U](https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8) | 1:56 |
 | 75 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 
-Snapshot ID: `MCwyYTA3ZTJkOTE2YzFiNjM5YjA1Mzg4MWRlYjA4MDc0N2U0Yjk0NzFm`
+Snapshot ID: `MCxjODM0ZTA1MmY0MmUxMDBkODZhNjQ2ZjI0NTJkOGFjYjEzMmQ5ZGMx`

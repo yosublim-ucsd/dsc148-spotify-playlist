@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: MAX, HUH YUNJIN\)
 
-161 songs - 8 hr 36 min
+162 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/6mMaK2MTTnJR1vug1ykPig) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/4yC8CrziY3rJMkTKVM6lIG) | 2:45 | 2022-03-04 | 2022-07-29 |
 | [UNFORGIVEN \- Japanese ver.](https://open.spotify.com/track/07Kq5cRJkYNieu1rge3PZX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ナイル・ロジャース](https://open.spotify.com/artist/7sKzaEQMrAbbO3Q3cTzazQ), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UNFORGIVEN \(Japanese ver.\)](https://open.spotify.com/album/28unbkaJvfdbM5zffw9vpc) | 3:02 | 2023-08-18 |  |
 | [Valley of Lies](https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Valley of Lies](https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp) | 3:04 | 2022-07-22 |  |
+| [VOoDOo BOogie](https://open.spotify.com/track/1jQr59cbLRE73yZOjPnG8e) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:47 | 2024-02-20 |  |
 | [WANNABE \- Japanese ver.](https://open.spotify.com/track/1F6lnQwfiEzq7ikNnODitc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [WANNABE \(Japanese ver.\)](https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q) | 3:11 | 2021-12-20 | 2022-08-30 |
 | [Wasteland](https://open.spotify.com/track/4bml9BznT3E0sX4xpa0voN) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Wasteland](https://open.spotify.com/album/3gerGX9iUd6cEwLNGCrh6u) | 3:02 | 2023-06-08 |  |
 | [When Dawn Comes Again](https://open.spotify.com/track/3wrw9wHpk6Fy298p5ISgii) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again](https://open.spotify.com/album/0qUXhzokHrK2wzei5UYBuM) | 4:00 | 2021-12-20 | 2022-02-24 |

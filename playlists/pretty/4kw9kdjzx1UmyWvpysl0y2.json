@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126467,
+  "num_followers": 126478,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU2Nyw2ZmVhOTQ0OWViNGE4YTM1YWE4Yjc1NzQ3MDJjOGY5MTZlNDA0NzQw",
+  "snapshot_id": "NDU3Myw2MGI5MzIyMTNhNzAxNWEzYWRhZTZlYWY0ZTRmNWYyOTg2YTkxYzZj",
   "tracks": [
+    {
+      "added_at": "2024-02-20 18:00:59",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/55hOZrIa3iHwwEMfvWKKMe"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+        },
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        },
+        {
+          "name": "MAYLYN",
+          "url": "https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5IjHyWBWrng9EjsAKZZCp4"
+    },
     {
       "added_at": "2024-02-19 19:12:47",
       "album": {
@@ -1131,58 +1155,6 @@
       "duration_ms": 217600,
       "name": "Crashing Hard",
       "url": "https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR"
-    },
-    {
-      "added_at": "2023-11-08 16:37:39",
-      "album": {
-        "name": "ZENITH",
-        "url": "https://open.spotify.com/album/4XTcOpYVIfpHKVoHwMSF9w"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "ZENITH",
-      "url": "https://open.spotify.com/track/3OPRTlKOHH2OkSOn8gM9xQ"
-    },
-    {
-      "added_at": "2023-11-07 13:56:14",
-      "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/1HIBewAa9FHq2zZoZmmh3X"
-      },
-      "artists": [
-        {
-          "name": "Terry Da Libra",
-          "url": "https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB"
-        },
-        {
-          "name": "Elliot Vast",
-          "url": "https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA"
-        }
-      ],
-      "duration_ms": 209874,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/0WpZ2gPLOUju1uFFlJ2DIZ"
-    },
-    {
-      "added_at": "2023-11-06 16:16:16",
-      "album": {
-        "name": "Fang",
-        "url": "https://open.spotify.com/album/40qbM7Ukx5gWfZXreoYX2H"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "Fang",
-      "url": "https://open.spotify.com/track/5DqGY6XxhHePdeKNfexYvE"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

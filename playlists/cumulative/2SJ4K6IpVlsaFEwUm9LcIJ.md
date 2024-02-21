@@ -4,12 +4,13 @@
 
 > what i&\#x27;m listening to: jan\-feb 2024 \(previous playlists archived on my profile\) \(image credit: @afffirmations on IG\)
 
-50 songs - 2 hr 35 min
+52 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Summer Long Since Passed](https://open.spotify.com/track/0OPAfFVbyXiGJTHsXqrC7o) | [Virginia Astley](https://open.spotify.com/artist/0Cc6v6tsUT1FktqPQYXME3) | [80s Deep Dive](https://open.spotify.com/album/1MFWguVP2tNTVncqcZhZiK) | 4:37 | 2024-01-05 |  |
 | [AIR BY BUS](https://open.spotify.com/track/1xiVKpE9xkNLCjQS9EttM8) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 1:30 | 2024-01-31 |  |
+| [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 | 2024-02-20 |  |
 | [All I Want for Now](https://open.spotify.com/track/78xtCgOIMJxAsW2HCz5Oh3) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dizzy Strange Summer](https://open.spotify.com/album/2Zkl4c8OsEeJWEKyCeKQCv) | 2:48 | 2024-01-24 |  |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2024-01-13 |  |
 | [Anorak](https://open.spotify.com/track/4PLYD3XqOL4Wp8HtEQySFn) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:31 | 2024-01-31 |  |
@@ -52,6 +53,7 @@
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 |  |
 | [Spirits](https://open.spotify.com/track/5ypoadj8L1UdREY4rS9JbK) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [Classics](https://open.spotify.com/album/2xwtG3ZLBMMuk1gd1d6Wa3) | 1:55 | 2024-01-05 |  |
 | [Spoon](https://open.spotify.com/track/4yGEFWe0tZzYGkNtJRg9bf) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/6Seo9dju2EMVYkUVUDlkXw) | 3:04 | 2024-01-05 |  |
+| [Sua Estupidez \- Live From Teatro Tereza Raquel, Brazil/1971](https://open.spotify.com/track/3iSu4JLVjeeCMr7AIxNksR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/2cA8Oru1aDKbFaY6hBIg7X) | 3:49 | 2024-02-20 |  |
 | [Tape 27 Track 5](https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [The Electronic Tapes \(Habibi Funk 005\)](https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J) | 1:38 | 2024-01-08 |  |
 | [Towards the Light](https://open.spotify.com/track/5Hfek3OCEOxOVeywQjK1aK) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Everything's Alright Forever](https://open.spotify.com/album/6HyyVAjYEHdjSjFDAU86Gx) | 1:41 | 2024-01-09 |  |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 |  |

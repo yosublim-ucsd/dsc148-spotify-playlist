@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Ambient tracks in one place. Cover: Brian Eno",
-  "num_followers": 194865,
+  "num_followers": 194946,
   "original_name": "Ambient Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2NiMTcwY2M1OWQ3OTRkYTE3Mzk2NmIxOWVhYzg1ZDZlY2I5ZTli",
+  "snapshot_id": "MCw3MTM0YzhiZTcxYTdjYzliMzU2YzRlMjgxZjA3M2U1N2ExYmVlMWQ0",
   "tracks": [
     {
       "added_at": "2023-12-04 11:46:43",
@@ -50,6 +50,10 @@
         {
           "name": "Stars Of The Lid",
           "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        },
+        {
+          "name": "Adam Wiltzie",
+          "url": "https://open.spotify.com/artist/5v27ybSj18HYkL7jc7BSIv"
         }
       ],
       "duration_ms": 225586,

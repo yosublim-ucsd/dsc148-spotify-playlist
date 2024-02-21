@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,069 likes - 125 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,218 likes - 125 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Push Me](https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Push Me](https://open.spotify.com/album/5iPPHGZzzZJYk4rbI2MWAd) | 5:24 |
 | 125 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
 
-Snapshot ID: `MCwwYjNlOTdkMjRkZGNhNzk3NTBiMGY4OWFlNGY4ZmNhNjVkZGM0ODli`
+Snapshot ID: `MCw5ZmI0MDA0MTEwZjFjZWRhMTM4NGQxOWYxM2JmMzIwNDQ4YjYyYzNk`

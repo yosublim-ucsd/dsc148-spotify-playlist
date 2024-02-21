@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Wallows
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,689,020 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,689,076 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 |
 | 100 | [we don't move](https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [we don't move](https://open.spotify.com/album/0XDaAj0BLRxre1JAmIu1Vn) | 2:40 |
 
-Snapshot ID: `MCwyMzg1MmMwMzZhZmU4M2Q1NDQ4NGU2NTgxNWU2MmVhYjFiZDhhMjY3`
+Snapshot ID: `MCwzNTBkN2NkOWMzYjlmNmM1ZTNlMmE0YjcwOTMwNTUzZWYyMjIxMmVh`

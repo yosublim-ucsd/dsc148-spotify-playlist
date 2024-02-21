@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  <a href=\"https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=KrHy2IatS9KYXF8zHqVVFw\"> Crayon</a>  ",
-  "num_followers": 544868,
+  "num_followers": 545023,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzgwNTNhZDhlOTg2MzExYjU5Y2U2ODJkNjg2YTk0ZjlhNjg3M2I3",
+  "snapshot_id": "MCw5NmI3ODIzZGQ4ODBlZGE1YzllZDE0NmYyZWEzZDE1NTdhN2RiNDgz",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Louis Vitty",
         "url": "https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 218823,
       "name": "Louis Vitty",
       "url": "https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     },
     {
       "added_at": "2024-02-16 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,175 likes - 137 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,146 likes - 137 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 83 | [Dear Mrs\. Claus](https://open.spotify.com/track/6FNwW9pRDdT81mCTtSuGIl) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Dear Mrs\. Claus](https://open.spotify.com/album/0MkhIufxDhyHnpj29ZLwSw) | 3:49 |
 | 84 | [Song for the Angels](https://open.spotify.com/track/4MIDnbVdmaa5sIbdR5BBTN) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Bodies and Minds](https://open.spotify.com/album/2Psey6KZhbYxogDvrqFlo6) | 5:19 |
 | 85 | [Fairytale Of New York](https://open.spotify.com/track/507FDL7iurCnznhkD5YlRV) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Winter Songs](https://open.spotify.com/album/1RaBcI5wubfKYg4CFqtOyp) | 5:17 |
-| 86 | [White Christmas](https://open.spotify.com/track/1iJ43ZraxrD7MRYEQsOCGF) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A), [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7), [Alva Leigh](https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5) | [White Christmas](https://open.spotify.com/album/3OSaz8W8p6TCSw9pv8Wtgm) | 1:34 |
+| 86 | [White Christmas](https://open.spotify.com/track/3pX0dLmn1PLXlrxub9ZcYE) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A) | [White Christmas](https://open.spotify.com/album/4wHVLmJlI9nGbMWxBA4iUq) | 1:35 |
 | 87 | [O Come O Come Emmanuel](https://open.spotify.com/track/5K4NYwDJTh0WVBgc5fxyYK) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks in the Snow](https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9) | 3:38 |
 | 88 | [Winter Wonderland \(feat\. Laura Cortese\)](https://open.spotify.com/track/3ifVamCIQdxN6CY7HQRL4W) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/3b5m0W0Na4vkvStOKOe4El), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 2:42 |
 | 89 | [Listening To Otis Redding At Home During Christmas](https://open.spotify.com/track/5RjWj5pWHegnAWqdbVscar) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Don't Fall In Love With Everyone You See](https://open.spotify.com/album/6VjqgRVhLyc7hiWzSDQGEq) | 6:36 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 136 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 137 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCw4YzI3Zjg4YjQzOTlhOTQ5NGNlNjg3OWUzY2RmMWU5NGZkMTAxMjJh`
+Snapshot ID: `MCw3YmE1MjkxM2YzM2Y5ZDk2YTgzNGU0ODcwMGExNDRkYTU5OGI0ZDY2`

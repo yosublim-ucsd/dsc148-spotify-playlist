@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 96986,
+  "num_followers": 97020,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTg5MWM2OTNmMjFmYjFjYTM0YzhmNGM4N2ZmOGZhZDBhNGM2MDg4",
+  "snapshot_id": "MCwzZTk5NjkxMTExZDkyNzIwYTVlNDk1MDY4Y2ZlMDNiNzlhNGIwZmZi",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -919,8 +919,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Lohengrin (Highlights)",
-        "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
+        "name": "Wagner : Tristan und Isolde",
+        "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
       },
       "artists": [
         {
@@ -928,29 +928,21 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
         },
         {
-          "name": "Hans Sotin",
-          "url": "https://open.spotify.com/artist/39JO4J46WGBdoGuDYkBIv1"
+          "name": "Marjana Lipovsek",
+          "url": "https://open.spotify.com/artist/3VqRvmqol6junQB7O4qROM"
         },
         {
-          "name": "Wiener Staatsopernchor",
-          "url": "https://open.spotify.com/artist/6IimpgX9XQY41o0p4EuuHL"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
         }
       ],
-      "duration_ms": 394093,
-      "name": "Lohengrin, WWV 75 / Act 3: \"In fernem Land, unnahbar euren Schritten\"",
-      "url": "https://open.spotify.com/track/1HERfJC2zM3qCBvFZ7WwGw"
+      "duration_ms": 155573,
+      "name": "Wagner: Tristan und Isolde, Act 2: \"Einsam wachend in der Nacht\" (Brang\u00e4ne)",
+      "url": "https://open.spotify.com/track/7hVykp1rVnRwGrjJkURE3q"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -987,8 +979,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner : Tristan und Isolde",
-        "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
+        "name": "Wagner: Lohengrin (Highlights)",
+        "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
       "artists": [
         {
@@ -996,21 +988,29 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
         },
         {
-          "name": "Marjana Lipovsek",
-          "url": "https://open.spotify.com/artist/3VqRvmqol6junQB7O4qROM"
+          "name": "Hans Sotin",
+          "url": "https://open.spotify.com/artist/39JO4J46WGBdoGuDYkBIv1"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+          "name": "Wiener Staatsopernchor",
+          "url": "https://open.spotify.com/artist/6IimpgX9XQY41o0p4EuuHL"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
         }
       ],
-      "duration_ms": 155573,
-      "name": "Wagner: Tristan und Isolde, Act 2: \"Einsam wachend in der Nacht\" (Brang\u00e4ne)",
-      "url": "https://open.spotify.com/track/7hVykp1rVnRwGrjJkURE3q"
+      "duration_ms": 394093,
+      "name": "Lohengrin, WWV 75 / Act 3: \"In fernem Land, unnahbar euren Schritten\"",
+      "url": "https://open.spotify.com/track/1HERfJC2zM3qCBvFZ7WwGw"
     },
     {
       "added_at": "2022-06-28 08:58:25",

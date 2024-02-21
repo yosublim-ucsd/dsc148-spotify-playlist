@@ -1,7 +1,7 @@
 {
-  "2024-02-20": 330664,
+  "2024-02-21": 331116,
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Seo Ja Yeong(\uc11c\uc790\uc601)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Lim Jae Beum(\uc784\uc7ac\ubc94)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -2017,7 +2017,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 162586,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
@@ -4586,6 +4586,24 @@
     },
     {
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
         "name": "Marry Me (My love X Yang Da Il)",
         "url": "https://open.spotify.com/album/7aezS6OsSSjloT2u2xD4AN"
       },
@@ -4991,7 +5009,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 234269,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
@@ -5399,6 +5417,24 @@
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "album": {
@@ -7281,7 +7317,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 235789,
       "name": "to me",
       "url": "https://open.spotify.com/track/3KfVyCqjdX0DhTqB3dGli5"
@@ -7339,6 +7375,24 @@
       "duration_ms": 258920,
       "name": "To You My Light (2022)",
       "url": "https://open.spotify.com/track/6RbocDE51e5OkEFIagJmQs"
+    },
+    {
+      "album": {
+        "name": "FlexxCop OST Part.3 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5GWrGN3k1vnk7NItvfiH7Q"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "To. Me",
+      "url": "https://open.spotify.com/track/3iclBTy2seRGoHq71GCJ6e"
     },
     {
       "album": {

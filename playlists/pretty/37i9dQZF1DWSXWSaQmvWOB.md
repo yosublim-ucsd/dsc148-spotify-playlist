@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: BJ The Chicago Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,767 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,783 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 10 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 |
 | 11 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
 | 12 | [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 |
-| 13 | [Brothers And Sisters](https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers And Sisters](https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o) | 3:55 |
+| 13 | [Brothers And Sisters](https://open.spotify.com/track/4srsFockSV7zNZjSbvbkML) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers and Sisters](https://open.spotify.com/album/4ZJsUp5BVASSDRKoidrDRU) | 3:55 |
 | 14 | [Pain](https://open.spotify.com/track/2YeRpzh6YWTeDpYGJgS0LM) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [The Lost Tape](https://open.spotify.com/album/4Q6TO9LyXJRr872RW3jqf5) | 2:30 |
 | 15 | [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 |
 | 16 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 49 | [Naked \- Live](https://open.spotify.com/track/76ZWt6KvtIIAf4O1qCMT10) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Berenice Van Leer](https://open.spotify.com/artist/05WEW3kd5mLRHs3xtUF6t9) | [Twenty](https://open.spotify.com/album/6uAVwhjyE1eGec56ZsRoAQ) | 4:15 |
 | 50 | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0) | 3:43 |
 
-Snapshot ID: `MCxlYjg0ZWZkNDlkMjUzMTVhNjJmOWI4NmZlZmNlOTM0OWFkYTNiZDYx`
+Snapshot ID: `MCxjODFhZjA0MDY0MGJkYTdhZGE5YjNlMDRhZDhmOTM4NjMxMzU5YzMx`

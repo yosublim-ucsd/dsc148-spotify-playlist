@@ -4,14 +4,14 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-107 songs - 6 hr 3 min
+108 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1st Boom](https://open.spotify.com/track/0ZQaDaNwhVqAuCWY98mXQY) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 1:08 | 2023-12-13 |  |
 | [2nd Boom](https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 1:33 | 2023-12-14 |  |
 | [3rd Boom](https://open.spotify.com/track/2c4j5tKcZrTJdOkRfPrh2Z) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 0:47 | 2023-12-13 | 2024-02-15 |
-| [4th Boom](https://open.spotify.com/track/5yGttN7cpq88005UeU0EB0) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 1:30 | 2023-12-14 |  |
+| [4th Boom](https://open.spotify.com/track/5yGttN7cpq88005UeU0EB0) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 1:30 | 2023-12-14 | 2024-02-21 |
 | [Aching Nodes](https://open.spotify.com/track/0MJajPeMcWgAUo87zKHjRZ) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU) | 2:59 | 2023-05-02 | 2024-02-11 |
 | [Bready Soul](https://open.spotify.com/track/42hbE9hxMxRDizdr9UkzTj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 4:49 | 2023-11-10 | 2023-12-14 |
 | [Breath Strokes](https://open.spotify.com/track/2AK7aIPe5b1LtIZ7YMyUJP) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [You're Invited](https://open.spotify.com/album/25f18whwKF8gB6U8z7IlZ1) | 2:40 | 2023-05-02 | 2023-05-06 |
@@ -88,6 +88,7 @@
 | [Rouge](https://open.spotify.com/track/5mbQwiRQrca4mf0lahfYe6) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 2:13 | 2024-02-08 |  |
 | [Sa Mo Jung](https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:06 | 2024-02-10 |  |
 | [Sa Mo Jung](https://open.spotify.com/track/2xbfhyjjSQMzBooLs7ZmT8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:06 | 2023-05-02 | 2024-02-07 |
+| [Sakamoto's Spring](https://open.spotify.com/track/38Rny0AdKS82PbV6lNHQAr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 3:16 | 2024-02-20 |  |
 | [Sakamoto's Spring](https://open.spotify.com/track/5Jebi010cDghmArxUrQeBB) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:16 | 2023-05-02 | 2024-02-09 |
 | [Say Tell Me](https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Say Tell Me](https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ) | 4:01 | 2023-09-15 |  |
 | [Say Yes](https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Say Yes](https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk) | 3:53 | 2023-05-02 | 2024-01-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Joeboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,910 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,963 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [EFCC](https://open.spotify.com/track/5qFSNLIxAPu80gaunwvUpk) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Mamapiano](https://open.spotify.com/album/70HZ6HLsOmoGKYGhit4Frr) | 3:18 |
 | 50 | [Jimmy](https://open.spotify.com/track/7Bc0fvoymNjNNYRicHV4kG) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Jimmy](https://open.spotify.com/album/0AdmldzWpvYNx1oKr3gh2E) | 2:34 |
 
-Snapshot ID: `MCwwYTA4NjljMWZiMzkwNWM3ZTkyMTk3ZDBmOTU2ZTk4NjlkYTA3MjRj`
+Snapshot ID: `MCwzYjMwNzg0ZGFmYTlmYzA5ZDE4NTJkOTA0NDBiZWQxMGQyMWM5OGY1`

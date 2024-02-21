@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 59 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 |
 | 60 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 |
 | 61 | [Jacuzzi \- Jean Tonique Remix](https://open.spotify.com/track/0zk11BkmpJhaOqGtUhUpOJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 2:57 |
-| 62 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
-| 63 | [Shapeshifting](https://open.spotify.com/track/0wyrhNheLaN7wyiW1TaJ0D) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:26 |
-| 64 | [Stuck In Limbo](https://open.spotify.com/track/2sNwqldxGgDHY0dRs1bZvA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Stuck In Limbo](https://open.spotify.com/album/4cZTEbJacKZLTQJXNq1JMa) | 2:14 |
+| 62 | [Stuck In Limbo](https://open.spotify.com/track/2sNwqldxGgDHY0dRs1bZvA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Stuck In Limbo](https://open.spotify.com/album/4cZTEbJacKZLTQJXNq1JMa) | 2:14 |
+| 63 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
+| 64 | [Shapeshifting](https://open.spotify.com/track/0wyrhNheLaN7wyiW1TaJ0D) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:26 |
 | 65 | [Comfortable](https://open.spotify.com/track/4h7ZS66TqqTnQcNn9DDZkx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:56 |
 | 66 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 |
 | 67 | [Infinity](https://open.spotify.com/track/5YO9riGOJgBA10bDFdWU6T) | [Lavid](https://open.spotify.com/artist/6uWv9tuRobkbltKnvzXVoX), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Infinity](https://open.spotify.com/album/6JxiApeLVGYcw0vUdCpIrV) | 3:08 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 92 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 93 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `Mjg0NzMyNDAsMDAwMDAwMDA5YmUwZDBmODkwZmJiZTY4ZTEzZjNmMjg3NGJkODRmZA==`
+Snapshot ID: `Mjg0NzQ2ODAsMDAwMDAwMDAyYWNhNDJmYWM4M2M2YzRhYmViY2I1NjZkNjY3NmZhMw==`

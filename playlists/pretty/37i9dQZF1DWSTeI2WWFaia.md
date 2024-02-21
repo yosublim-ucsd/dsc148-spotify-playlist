@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,602,411 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602,418 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [One Foot In \(with Stove God Cooks\)](https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [One Foot In](https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg) | 2:44 |
 | 50 | [Guapanese](https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:24 |
 
-Snapshot ID: `MCxhNjkzZjY1NmRhMGQxOWZhYTYzYmU0NmUxN2VlYWZjOWJkNDFlNWQ3`
+Snapshot ID: `MCxkMjY3YzRlMzMxYjEwYWVjM2E2ZTg4ZTI4ZTdjNDc1ZGJjN2U3Yzlm`

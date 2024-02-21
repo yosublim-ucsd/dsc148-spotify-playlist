@@ -1,12 +1,12 @@
 {
   "description": "What's happening in R&B, right now \u2013 featuring <a href=\"spotify:artist:3SozjO3Lat463tQICI9LcE\">Tyla</a>.",
-  "num_followers": 366419,
+  "num_followers": 366433,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjM5N2IyYzU3Njk3YzgyOTE2MWQwZDNmNWQxMzRmNjk1YzlmZTIy",
+  "snapshot_id": "MCxjZDdlZTg3ODRlZjU5NTQ1OWNmMGQ5NDFkOTY0ZjFlMTZlZWQzZGFm",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -898,10 +898,14 @@
         {
           "name": "Diddy",
           "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
       "duration_ms": 273775,
-      "name": "Moments (feat. Justin Bieber)",
+      "name": "Moments",
       "url": "https://open.spotify.com/track/2WGdMsAZboyOiNhNx4dt82"
     },
     {

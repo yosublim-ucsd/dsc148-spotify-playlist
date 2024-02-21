@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Bonafide (LEVT Remix)",
+        "url": "https://open.spotify.com/album/1Wm3aDHPiII9CXyQxSi9mZ"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        },
+        {
+          "name": "LEVT",
+          "url": "https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249777,
+      "name": "Bonafide - LEVT Remix",
+      "url": "https://open.spotify.com/track/5FgpZHbdw8Aou4HwATvzmf"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/4dGWJQRYyJuu7ScBIMvj7B"
       },

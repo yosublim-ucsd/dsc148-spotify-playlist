@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > Celebrating the film Bob Marley: One Love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,110,960 likes - 110 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,112,299 likes - 110 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
 | 110 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
 
-Snapshot ID: `MCw0ZDhlOWJkNDU1NDg0ZmY3M2U4NTJkNGU3MDc5Y2U2ZWExMGYxNjNh`
+Snapshot ID: `MCxhZjE1YzNjNjYwMTA1OTEwNjY2MDA2YzZmNDU3NTZlZDgyMTBhMjc5`

@@ -4275,24 +4275,6 @@
     },
     {
       "album": {
-        "name": "Xu\u00e2n \u0110i L\u1ec5 Ch\u00f9a",
-        "url": "https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc"
-      },
-      "artists": [
-        {
-          "name": "Duy Khanh",
-          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
-        }
-      ],
-      "date_added": "2023-08-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 305920,
-      "name": "Xu\u00e2n N\u00e0y Con Kh\u00f4ng V\u1ec1",
-      "url": "https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS"
-    },
-    {
-      "album": {
         "name": "T\u00f4i Ch\u01b0a C\u00f3 M\u00f9a Xu\u00e2n",
         "url": "https://open.spotify.com/album/7fHOU3HrRkkIMcAnzfHI6U"
       },
@@ -4312,6 +4294,24 @@
       "duration_ms": 259884,
       "name": "Xu\u00e2n n\u00e0y con kh\u00f4ng v\u1ec1",
       "url": "https://open.spotify.com/track/6i7wRwKIDHT8UqeynMOM63"
+    },
+    {
+      "album": {
+        "name": "Xu\u00e2n \u0110i L\u1ec5 Ch\u00f9a",
+        "url": "https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc"
+      },
+      "artists": [
+        {
+          "name": "Duy Kh\u00e1nh",
+          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305920,
+      "name": "Xu\u00e2n N\u00e0y Con Kh\u00f4ng V\u1ec1",
+      "url": "https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS"
     },
     {
       "album": {

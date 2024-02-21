@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 237943,
+  "num_followers": 237931,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2YwNzhmNDU2MTQ0NWQwNTUzZjQyYzU0ODhjNTJkNWU5NzMwYzQ2",
+  "snapshot_id": "MCxlOGFkYmEyMDBhZTQ4NzU3NDAwNDE2MWQ1MGZlZDc2ZmVlMDhiYmEx",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -431,18 +431,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/7qzNc93sUMR3vHt5WADmOa"
+      "duration_ms": 185440,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -463,18 +463,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
         }
       ],
-      "duration_ms": 185440,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
+      "duration_ms": 207586,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7qzNc93sUMR3vHt5WADmOa"
     },
     {
       "added_at": "2019-10-09 15:02:50",

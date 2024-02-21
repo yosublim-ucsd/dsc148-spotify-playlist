@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,611 likes - 116 songs - 6 hr 59 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,615 likes - 116 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 34 | [All Of It](https://open.spotify.com/track/6Ii2U2fOsz6DkCYHySe0WN) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr), [Manuka Honey](https://open.spotify.com/artist/3QtmYxRatv51FbpBQJ5SDJ) | [Boundless](https://open.spotify.com/album/4atqV0ywzvZtW8Z7Get577) | 3:39 |
 | 35 | [Bad Barbie](https://open.spotify.com/track/0EldeQkAd3vWV7BEvT7oy3) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq) | [Bad Barbie](https://open.spotify.com/album/5wTo4uAaEr5SGmxNBLqIo8) | 1:50 |
 | 36 | [Student](https://open.spotify.com/track/4w0WVJWw1cm1n5FLox2Yjp) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Student](https://open.spotify.com/album/7gqXdRXMyLGGWQJFaASiog) | 3:19 |
-| 37 | [What You Know About That \(feat\. Jme and D Double E\)](https://open.spotify.com/track/58rWfNj08WrCfjd2wOW2uQ) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [What You Know About That \(feat\. Jme and D Double E\)](https://open.spotify.com/album/50fGesOJ2eEDN9KtgdJkDR) | 3:55 |
+| 37 | [What You Know About That](https://open.spotify.com/track/58rWfNj08WrCfjd2wOW2uQ) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [What You Know About That](https://open.spotify.com/album/50fGesOJ2eEDN9KtgdJkDR) | 3:55 |
 | 38 | [Last Maria On Earth](https://open.spotify.com/track/5TczQlpIm3pTgbBFeCbtrR) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Last Maria On Earth](https://open.spotify.com/album/2xWuL3q83WPPeL8QsCdahV) | 2:18 |
 | 39 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:01 |
 | 40 | [Suave \- Florentino Megamix](https://open.spotify.com/track/3bpeHxMgzBq5ybNNQDM2PC) | [Coffintexts](https://open.spotify.com/artist/4OMHnyekp6Sv6BdGxDcmK1), [Gaby G](https://open.spotify.com/artist/5lfKSWvnayeG2Q16tPM9Rh), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Suave \(Florentino Megamix\)](https://open.spotify.com/album/6Em0IACib9eRDTaGLduavB) | 5:02 |

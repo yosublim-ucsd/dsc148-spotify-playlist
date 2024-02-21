@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 45487,
+  "2024-02-21": 45564,
   "date_first_scraped": "2022-10-01",
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
   "name": "Deep House Session",
@@ -1338,6 +1338,28 @@
     },
     {
       "album": {
+        "name": "From Blak With Love",
+        "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
+      },
+      "artists": [
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        },
+        {
+          "name": "Kuthathu",
+          "url": "https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403998,
+      "name": "Never Break Me (feat. Kuthathu)",
+      "url": "https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF"
+    },
+    {
+      "album": {
         "name": "I Rise Again",
         "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
       },
@@ -2017,7 +2039,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 465288,
       "name": "Those Times",
       "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"

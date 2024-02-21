@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,966 likes - 140 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,962 likes - 140 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 | 139 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 |
 | 140 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
 
-Snapshot ID: `MCxmMTQxZWRjMTIwOTk2YjQxNWJjYThiYWExOGYyOTI2NGUzOWNiMDg2`
+Snapshot ID: `MCw1MWM1NmI3M2VjYmJhYjA0NGUwMTVmM2U1NzExMzA4YzE4ZGQyYzVk`

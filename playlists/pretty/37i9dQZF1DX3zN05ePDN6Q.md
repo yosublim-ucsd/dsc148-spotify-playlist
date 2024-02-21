@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Kamau
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,404 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,419 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 49 | [Real Underground](https://open.spotify.com/track/40zHJef3CuJyYcc6ACcI6Z) | [Lado Sujo](https://open.spotify.com/artist/7GCPBbONfiLuUo6VCFYACs), [Kamikaze do Gueto](https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo) | [Real Underground](https://open.spotify.com/album/0w8KCWycXmFr22XSTMmhwN) | 2:38 |
 | 50 | [Ebi no Tempura](https://open.spotify.com/track/3zlOvStINIxw84On4S8jlP) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Ebi no Tempura](https://open.spotify.com/album/6iLLYALFWMs1Apq9Kt1FVU) | 2:08 |
 | 51 | [Flores de Galeano \- Ao Vivo](https://open.spotify.com/track/0r8KmiBut9KRG4oxI2iLNT) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [O Florista \(Ao Vivo\)](https://open.spotify.com/album/6Je8cRaW3ftIYD4O7ZfwaC) | 5:13 |
-| 52 | [Número Desconhecido feat Cesar](https://open.spotify.com/track/2PrJEyJvfWxihR1RHVC9ou) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU) | [Ligações Estranhas](https://open.spotify.com/album/0M2JvghtMOUmJ9dV7IVALt) | 4:54 |
+| 52 | [Número Desconhecido feat Cesar](https://open.spotify.com/track/2PrJEyJvfWxihR1RHVC9ou) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS) | [Ligações Estranhas](https://open.spotify.com/album/0M2JvghtMOUmJ9dV7IVALt) | 4:54 |
 | 53 | [Bússola Quebrada 2](https://open.spotify.com/track/30PN9ARYT0vIMYkcmtlspo) | [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV), [Sa Suhett](https://open.spotify.com/artist/0eKC1ynbNpwBrSPg3GoESQ), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [GARCIA](https://open.spotify.com/album/6QWmIGUIKxpMphCOQb5s6b) | 4:05 |
 | 54 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 |
 | 55 | [Crimes e Grifes](https://open.spotify.com/track/7eOfgiWtwy0uxqE5nw5QtO) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Crimes e Grifes](https://open.spotify.com/album/5M9GN1TWB7KmnsphNtFhcH) | 2:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Sem Sono](https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:43 |
 | 75 | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg) | 2:54 |
 
-Snapshot ID: `MCw0OGI3Nzg5ODZlOWI2MGUwNDJjMjllN2U2OTMxZTcwNmJkMWY4M2Y0`
+Snapshot ID: `MCxjNjU2Y2E5MWQ2MzVhYTUxOGVmYTRhNTZhNzA3OTlhYjYxYTA0NmQ2`

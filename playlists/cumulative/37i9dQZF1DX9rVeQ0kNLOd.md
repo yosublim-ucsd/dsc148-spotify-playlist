@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-277 songs - 16 hr 56 min
+278 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [my own life](https://open.spotify.com/track/0T5YzUfgtUKXeDHE7dz4LB) | [flasstain](https://open.spotify.com/artist/2qFyNfuQKunvAjpdGAF8ds), [mots](https://open.spotify.com/artist/1R6xSi1kBIpztNy5NIxW96), [サクライエナ](https://open.spotify.com/artist/3pxcoTctphgpoj26kL5Gds) | [my own life](https://open.spotify.com/album/7lb93fcshTHAMArHyJlSZH) | 4:38 | 2022-10-20 | 2023-01-25 |
 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 | 2023-01-31 | 2023-03-25 |
 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 | 2023-03-28 | 2023-05-17 |
+| [Odorimasyoka](https://open.spotify.com/track/0YqYH7GBWkaO7xuX9Xf7QK) | [yume sato](https://open.spotify.com/artist/681tWxX2aKfbDknhaqGTsd) | [Odorimasyoka](https://open.spotify.com/album/53LzmXEE8J6Yk3OHN080cb) | 4:01 | 2024-02-20 |  |
 | [Ollie\(巡礼する季語\)](https://open.spotify.com/track/1hSlcXbPexuJh7ibsOiMA8) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [巡礼する季語](https://open.spotify.com/album/1uxl2dnJ0nJdJV2q0Oeov0) | 3:54 | 2023-01-31 | 2023-03-08 |
 | [One](https://open.spotify.com/track/7sT48E0PEPQy5cd4Nwfexs) | [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [喧騒幻想](https://open.spotify.com/album/55jIuQAwbXmjlzMiQC7yQN) | 3:01 | 2023-01-31 | 2023-03-14 |
 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:46 | 2023-09-07 | 2023-09-09 |
@@ -145,7 +146,7 @@
 | [sweet moratorium](https://open.spotify.com/track/3FSfhJGSLRu45IVkwUG4Tg) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [sweet moratorium](https://open.spotify.com/album/0z7Uxp2r3dDeOcUPZtiqJW) | 3:06 | 2023-06-27 |  |
 | [sweet moratorium](https://open.spotify.com/track/4176uZIGkBroM4czZZTtte) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [sweet moratorium](https://open.spotify.com/album/3nN4eds8EEDfJJCPBwJozs) | 3:06 | 2023-06-27 | 2023-06-29 |
 | [Tada de Futotta Jinsei](https://open.spotify.com/track/2Qb4apNFWlRnZNfTtLGL4F) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 2:42 | 2022-12-01 | 2022-12-21 |
-| [Tangerine \(feat\. Shimon Hoshino\)](https://open.spotify.com/track/4DP3TNJnaZlo6WdITqvwk4) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Tangerine \(feat\. Shimon Hoshino\)](https://open.spotify.com/album/0Kkoh2Q9eWOrVE3MnRLDxB) | 3:02 | 2024-01-30 |  |
+| [Tangerine \(feat\. Shimon Hoshino\)](https://open.spotify.com/track/4DP3TNJnaZlo6WdITqvwk4) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Tangerine \(feat\. Shimon Hoshino\)](https://open.spotify.com/album/0Kkoh2Q9eWOrVE3MnRLDxB) | 3:02 | 2024-01-30 | 2024-02-21 |
 | [that place is burning](https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [that place is burning](https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea) | 5:35 | 2023-06-27 | 2023-08-23 |
 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 | 2023-02-16 | 2023-12-30 |
 | [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2024-01-11 |  |

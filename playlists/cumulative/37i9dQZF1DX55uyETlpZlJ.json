@@ -4776,7 +4776,7 @@
     {
       "album": {
         "name": "Parashuram",
-        "url": "https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc"
+        "url": "https://open.spotify.com/album/5ZdIgrGncQ7ojJCgfZ4YiN"
       },
       "artists": [
         {
@@ -4787,6 +4787,24 @@
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 249956,
+      "name": "Parashuram",
+      "url": "https://open.spotify.com/track/3I7elSzdAYqPovLgNe5V6D"
+    },
+    {
+      "album": {
+        "name": "Parashuram",
+        "url": "https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc"
+      },
+      "artists": [
+        {
+          "name": "KALKITHENAME",
+          "url": "https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-21",
       "duration_ms": 249956,
       "name": "Parashuram",
       "url": "https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH"

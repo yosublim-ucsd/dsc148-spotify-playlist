@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 623242,
+  "2024-02-21": 623254,
   "date_first_scraped": "2022-06-09",
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
   "name": "Deutschrap: Die Klassiker",
@@ -319,6 +319,28 @@
       "duration_ms": 224426,
       "name": "Bis zum Schluss (feat. Silbermond)",
       "url": "https://open.spotify.com/track/1MOnXaLoxHq0LESJkrwOFw"
+    },
+    {
+      "album": {
+        "name": "Freiheit",
+        "url": "https://open.spotify.com/album/2WlEcoKtbsgH5Vtu9l11d1"
+      },
+      "artists": [
+        {
+          "name": "Curse",
+          "url": "https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi"
+        },
+        {
+          "name": "Silbermond",
+          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "Bis zum Schluss (feat. Silbermond)",
+      "url": "https://open.spotify.com/track/1UW6Rf2rDz3XkHqnVZuHUu"
     },
     {
       "album": {
@@ -855,7 +877,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 274640,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"

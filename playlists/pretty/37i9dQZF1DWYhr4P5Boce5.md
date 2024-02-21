@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,415 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,433 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 149 | [What Will She Say](https://open.spotify.com/track/0PHlJJa4i5f2DV1QrL65s9) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/6H7p31cAoeGC8TjZe2V6In) | 2:58 |
 | 150 | [It's You](https://open.spotify.com/track/5R38BeQeBmVPzBTrvU24po) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 3:00 |
 
-Snapshot ID: `MCw5YjdjZmQ4MTE1NGJhYWMyMjk4OTEzZTY5MjAzZGY1MmU0MTljZDZj`
+Snapshot ID: `MCw2MjA4NGU0MjIxNzA4NjRjYzUyOWI5MGIyN2Y3ZjA1N2QxN2QxODk5`

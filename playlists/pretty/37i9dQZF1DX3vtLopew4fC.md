@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Shay Lia
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,378 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,385 likes - 48 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,29 +34,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 24 | [Lose My Mind](https://open.spotify.com/track/66mvDYqPiCwwA1x1W5OGfC) | [Emily Chambers](https://open.spotify.com/artist/1C06ksRGDW6ZsByvvmlIDI) | [Lose My Mind](https://open.spotify.com/album/7rEORstk1dUXO2RVBLZMr6) | 3:18 |
 | 25 | [Off With Her Tits](https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Off With Her Tits](https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr) | 3:16 |
 | 26 | [Saturn Return \- version française](https://open.spotify.com/track/6MIkxsfCxbFSTWeHGYBJgy) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return \(version française\)](https://open.spotify.com/album/0vRzOVCDqAcr4temOQdIcn) | 3:52 |
-| 27 | [fairytales](https://open.spotify.com/track/2X1BrCQpbBlvczxml8jbEd) | [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [fairytales](https://open.spotify.com/album/5VX5yWc9NI6ytjUvx41k6c) | 3:58 |
-| 28 | [Promenade](https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 2:52 |
-| 29 | [Makeup](https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Makeup](https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR) | 3:07 |
-| 30 | [Être moi](https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Être moi](https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0) | 3:13 |
-| 31 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
-| 32 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 |
-| 33 | [Heartless](https://open.spotify.com/track/3hrJoK5fhBjCOS5fMLsYB9) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Growing Up To Do](https://open.spotify.com/album/7m8t6rJYGgGA1518THNkGt) | 3:36 |
-| 34 | [Same Old Me](https://open.spotify.com/track/5gwNVbApnuJODGSQuEC997) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Same Old Me](https://open.spotify.com/album/0Ew9EKV0vC9lHqf0RHH5Rv) | 4:22 |
-| 35 | [Self/Less](https://open.spotify.com/track/5D2YfWDJMj3wUwDkvWEBEu) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Self/Less](https://open.spotify.com/album/3Af2F5aYRW89p2G4l2Ts7s) | 3:10 |
-| 36 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 |
-| 37 | [If I'm Honest](https://open.spotify.com/track/7cvQWD2LCzm4pE765q9Nob) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [If I'm Honest](https://open.spotify.com/album/0MTbDEKUPrxuA81CwsQ9ZV) | 2:43 |
-| 38 | [Go Get Er](https://open.spotify.com/track/7h99v6wbJdjFVtP2ScgTME) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/43u2JbXX3icMNv6dd0aXn6) | 3:03 |
-| 39 | [Messages](https://open.spotify.com/track/1FSDiVFnNPWbFTrHaKTYD2) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Messages](https://open.spotify.com/album/2NTbrUHlhtJZUCcIebjth2) | 3:15 |
-| 40 | [Quand tu parles](https://open.spotify.com/track/7eUOku4llYDEuY3Jo0PnuV) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 2:48 |
-| 41 | [Fall Over Me](https://open.spotify.com/track/3S6qc4YfeUI7fLTo7Vr1HT) | [Very Very](https://open.spotify.com/artist/0javh7fJTS6ShdIos7i9Lu) | [Strange Occasion](https://open.spotify.com/album/025BBaVNHim0G4CnvZWDqB) | 2:04 |
-| 42 | [Possibly Alaska](https://open.spotify.com/track/19bsT8H336P233OI5XF4Do) | [Maddison Krebs](https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF) | [Possibly Alaska](https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B) | 4:15 |
-| 43 | [Langue](https://open.spotify.com/track/5HYVXYz5Nbe1DCMtMIaRhe) | [Maryze](https://open.spotify.com/artist/7nquZ60n4QcMV0ycQaXpEv), [Morganne](https://open.spotify.com/artist/6Au2T6xOPGJU6SsgyLWKp8) | [Langue](https://open.spotify.com/album/2e3CwbmKLSWih7pJUTSTtH) | 3:36 |
-| 44 | [Numb](https://open.spotify.com/track/16QA5YSRdPAvY9dokCh9Kk) | [SHEEZA](https://open.spotify.com/artist/2ZRILmVLOyHeGOB9eqELbN) | [Numb](https://open.spotify.com/album/2Fv8NoHelacLNoR3SZJKUs) | 1:47 |
-| 45 | [One Drink at a Time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
-| 46 | [Should We](https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Should We](https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA) | 2:33 |
-| 47 | [Mine Until the Morning](https://open.spotify.com/track/1ZcR6vliV85DUxoVIK6bXp) | [Kaleia](https://open.spotify.com/artist/2F2CiwEgXu1t8kgQKnCTMr) | [Mine Until the Morning](https://open.spotify.com/album/19aGppBSZ5dEG1yeq6xSpL) | 3:00 |
-| 48 | [Vieux\-port](https://open.spotify.com/track/2wkudQJBWks0uzciXuIJNF) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait](https://open.spotify.com/album/741zAnDJPbroIfVD2MrGvQ) | 3:34 |
-| 49 | [What if I](https://open.spotify.com/track/3QbpR65scNHVSluvLKOdS6) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [What if I](https://open.spotify.com/album/4xRmMm2gxJ5JIdEElLkoZE) | 3:05 |
-| 50 | [Fermer les yeux](https://open.spotify.com/track/0WF6GSwbev3HAGqw2xv9Lw) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [Fermer les yeux](https://open.spotify.com/album/6CO4ffZvP2KpX3MYkFOIuk) | 3:12 |
+| 27 | [Promenade](https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 2:52 |
+| 28 | [Makeup](https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Makeup](https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR) | 3:07 |
+| 29 | [Être moi](https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Être moi](https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0) | 3:13 |
+| 30 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
+| 31 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 |
+| 32 | [Heartless](https://open.spotify.com/track/3hrJoK5fhBjCOS5fMLsYB9) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Growing Up To Do](https://open.spotify.com/album/7m8t6rJYGgGA1518THNkGt) | 3:36 |
+| 33 | [Same Old Me](https://open.spotify.com/track/5gwNVbApnuJODGSQuEC997) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Same Old Me](https://open.spotify.com/album/0Ew9EKV0vC9lHqf0RHH5Rv) | 4:22 |
+| 34 | [Self/Less](https://open.spotify.com/track/5D2YfWDJMj3wUwDkvWEBEu) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Self/Less](https://open.spotify.com/album/3Af2F5aYRW89p2G4l2Ts7s) | 3:10 |
+| 35 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 |
+| 36 | [If I'm Honest](https://open.spotify.com/track/7cvQWD2LCzm4pE765q9Nob) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [If I'm Honest](https://open.spotify.com/album/0MTbDEKUPrxuA81CwsQ9ZV) | 2:43 |
+| 37 | [Go Get Er](https://open.spotify.com/track/7h99v6wbJdjFVtP2ScgTME) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/43u2JbXX3icMNv6dd0aXn6) | 3:03 |
+| 38 | [Quand tu parles](https://open.spotify.com/track/7eUOku4llYDEuY3Jo0PnuV) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 2:48 |
+| 39 | [Fall Over Me](https://open.spotify.com/track/3S6qc4YfeUI7fLTo7Vr1HT) | [Very Very](https://open.spotify.com/artist/0javh7fJTS6ShdIos7i9Lu) | [Strange Occasion](https://open.spotify.com/album/025BBaVNHim0G4CnvZWDqB) | 2:04 |
+| 40 | [Possibly Alaska](https://open.spotify.com/track/19bsT8H336P233OI5XF4Do) | [Maddison Krebs](https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF) | [Possibly Alaska](https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B) | 4:15 |
+| 41 | [Langue](https://open.spotify.com/track/5HYVXYz5Nbe1DCMtMIaRhe) | [Maryze](https://open.spotify.com/artist/7nquZ60n4QcMV0ycQaXpEv), [Morganne](https://open.spotify.com/artist/6Au2T6xOPGJU6SsgyLWKp8) | [Langue](https://open.spotify.com/album/2e3CwbmKLSWih7pJUTSTtH) | 3:36 |
+| 42 | [Numb](https://open.spotify.com/track/16QA5YSRdPAvY9dokCh9Kk) | [SHEEZA](https://open.spotify.com/artist/2ZRILmVLOyHeGOB9eqELbN) | [Numb](https://open.spotify.com/album/2Fv8NoHelacLNoR3SZJKUs) | 1:47 |
+| 43 | [One Drink at a Time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
+| 44 | [Should We](https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Should We](https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA) | 2:33 |
+| 45 | [Mine Until the Morning](https://open.spotify.com/track/1ZcR6vliV85DUxoVIK6bXp) | [Kaleia](https://open.spotify.com/artist/2F2CiwEgXu1t8kgQKnCTMr) | [Mine Until the Morning](https://open.spotify.com/album/19aGppBSZ5dEG1yeq6xSpL) | 3:00 |
+| 46 | [Vieux\-port](https://open.spotify.com/track/2wkudQJBWks0uzciXuIJNF) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait](https://open.spotify.com/album/741zAnDJPbroIfVD2MrGvQ) | 3:34 |
+| 47 | [What if I](https://open.spotify.com/track/3QbpR65scNHVSluvLKOdS6) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [What if I](https://open.spotify.com/album/4xRmMm2gxJ5JIdEElLkoZE) | 3:05 |
+| 48 | [Fermer les yeux](https://open.spotify.com/track/0WF6GSwbev3HAGqw2xv9Lw) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [Fermer les yeux](https://open.spotify.com/album/6CO4ffZvP2KpX3MYkFOIuk) | 3:12 |
 
-Snapshot ID: `MCxlN2RjNzdiZjMxN2Q4YThiMTMxM2U5N2E4ZmU2ZWM4ZWM2NWFiYzY3`
+Snapshot ID: `MCxjNmU2ZDA2N2MyY2JiNWEzMTk5MGI0M2FmNWZhMzIzM2UwNmU2YzRk`

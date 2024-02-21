@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,775 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,962 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 5 | [Nimm Thalle](https://open.spotify.com/track/1t0Kt7JeVFRgrCqwdsca8d) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Nimm Thalle](https://open.spotify.com/album/6AMmCNpdB7SrNOsOk7AATv) | 3:00 |
 | 6 | [Whenever](https://open.spotify.com/track/4pFDMbftahto1oz8SZx2qQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/4wYzAxoYguNudxzUXPTGtC) | 3:30 |
 | 7 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
-| 8 | [Ve Haaniyaan](https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5) | [Ve Haaniyaan](https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5) | 4:00 |
+| 8 | [Ve Haaniyaan](https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan](https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5) | 4:00 |
 | 9 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
 | 10 | [Mehboob Ji \(From “Shayar”\)](https://open.spotify.com/track/1dvsqSAmcfFIydNY7d8S77) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Mehboob Ji \(From "Shayar"\)](https://open.spotify.com/album/1wUaHrEIpp4nYyQu67LhFj) | 6:15 |
 | 11 | [What…? \- Unplugged](https://open.spotify.com/track/4ae8ZMgIZs4AqJiLflSVkJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Making Memories \(Unplugged\)](https://open.spotify.com/album/4Lwk1I0BCKmVwFK00PdT9p) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Naah Lofi](https://open.spotify.com/track/7B8WJgjZzzV1uS7v9z8FGX) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah Lofi](https://open.spotify.com/album/3Cz2ocxGPWWREjLucIdaO7) | 3:18 |
 | 75 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 
-Snapshot ID: `MCwxMTA2MWFmZDM4MTIzM2RkMTgzZGNhYjVmZjczNTEwODQ1NTAwY2Yw`
+Snapshot ID: `MCwzOTA5YjE0ZmMxYjA0OWE3YjgyOTMzMmRlYzM1NTE4NWU0OTFhNDk5`

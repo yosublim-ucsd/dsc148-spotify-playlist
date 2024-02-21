@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 855754,
+  "2024-02-21": 856246,
   "date_first_scraped": "2021-10-24",
   "description": "Mellow songs from the 1980s.",
   "name": "Soft 80s",
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 226266,
       "name": "Ebony And Ivory - Remixed 2015",
       "url": "https://open.spotify.com/track/3fVSMbeq8tY3G85yxcJwRU"
@@ -3545,7 +3545,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 212666,
       "name": "Nobody Does It Better",
       "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"

@@ -1178,7 +1178,7 @@
     {
       "album": {
         "name": "Sorta Surviving",
-        "url": "https://open.spotify.com/album/7yCItyB8CBd08cMTiHk0a4"
+        "url": "https://open.spotify.com/album/6sjb92IscCWwySFxIC0Ivc"
       },
       "artists": [
         {
@@ -1189,6 +1189,24 @@
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Sorta Surviving",
+      "url": "https://open.spotify.com/track/6NZaF6HX1jreJDZTbxrUOX"
+    },
+    {
+      "album": {
+        "name": "Sorta Surviving",
+        "url": "https://open.spotify.com/album/7yCItyB8CBd08cMTiHk0a4"
+      },
+      "artists": [
+        {
+          "name": "Tim Bluhm",
+          "url": "https://open.spotify.com/artist/7DvcUPMTX0XfGlO0RexUh0"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-21",
       "duration_ms": 194986,
       "name": "Sorta Surviving",
       "url": "https://open.spotify.com/track/6oVPXuvV9mfZgIhNYWvcEn"

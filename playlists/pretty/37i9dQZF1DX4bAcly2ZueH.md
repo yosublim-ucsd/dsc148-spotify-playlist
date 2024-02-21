@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,051 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,076 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 63 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 |
 | 64 | [Wind](https://open.spotify.com/track/3lcbXj3b9lMzfuGvQlznmN) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/01BChai4qQGpbKQeDXRi7K) | 2:43 |
 | 65 | [three](https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [three](https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl) | 3:07 |
-| 66 | [garden](https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Afterglow](https://open.spotify.com/album/1xgaY66wY1j5WOW8J7orN8) | 3:20 |
-| 67 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 |
-| 68 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 |
-| 69 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 |
-| 70 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 |
-| 71 | [GOOODBYE FOREVER](https://open.spotify.com/track/757t86dILxUPEpgtaEppFM) | [sakehands](https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D), [Lo](https://open.spotify.com/artist/4O02rYoPWNEnz2B8zWvZ5y) | [GOOODBYE FOREVER](https://open.spotify.com/album/1j9xpqOFvJ68usu7Yjjblx) | 2:16 |
+| 66 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 |
+| 67 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 |
+| 68 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 |
+| 69 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 |
+| 70 | [GOOODBYE FOREVER](https://open.spotify.com/track/757t86dILxUPEpgtaEppFM) | [sakehands](https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D), [Lo](https://open.spotify.com/artist/4O02rYoPWNEnz2B8zWvZ5y) | [GOOODBYE FOREVER](https://open.spotify.com/album/1j9xpqOFvJ68usu7Yjjblx) | 2:16 |
+| 71 | [SHIBUYA 246](https://open.spotify.com/track/5BGcu5bwV51odilErIUURl) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [SHIBUYA 246](https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U) | 2:51 |
 | 72 | [Love](https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5) | [Kastorbeats](https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC) | [Love](https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe) | 2:18 |
 | 73 | [ugotmyheart](https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Miyna Usui](https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk) | [Nezumi Coo](https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH) | 3:15 |
 | 74 | [No Love](https://open.spotify.com/track/4ncuzXLHYIh6KSW4UrEH0Y) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/1iF700mTP95gGLjDKnY9oR) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
 | 100 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 
-Snapshot ID: `MCw3YTdhOGE1YTM2MjE2MzNiZTAxZTdmYWMzYzYyOTc1NGVlYzlmYjFk`
+Snapshot ID: `MCw5Y2Y2NTBmZGMzZTI2YTA2MjI1YjA4ODU1OTg2ZWU0Zjc3MmQ5ZDJm`

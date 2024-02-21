@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,797 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,808 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 99 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
 | 100 | [Se Eu Te Procurar](https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Do Jeito que Nóis Gosta 2](https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM) | 2:41 |
 
-Snapshot ID: `MCwwM2JjMWRjZTlmYTMxZGZkM2NmMThjODVlNjRhMjJlMWI1MmY0MjJj`
+Snapshot ID: `MCxlYzI2YmRmZGYyYzFlY2Q4MTEwZWQ0N2FkZmU0ODExNmUwYTA1MWI1`

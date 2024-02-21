@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,299 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,410 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 109 | [Mujer Mia \(2022 \- Remaster\)](https://open.spotify.com/track/7Lzr8bmMFrUFLYsalwDN3v) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Salsoul](https://open.spotify.com/album/3UKJxuwhcy1poGhxdMNvIP) | 4:28 |
 | 110 | [I Really Love You](https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [The Best Of Dee Dee Sharp 1962\-1966](https://open.spotify.com/album/319S820SmHsr88JCQDCEYv) | 2:48 |
 | 111 | [Hello Stranger](https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE) | 2:40 |
-| 112 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
-| 113 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
+| 112 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
+| 113 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
 | 114 | [It's Gonna Take a Miracle](https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Essential Deniece Williams \(The Columbia Years\)](https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv) | 4:10 |
 | 115 | [Float On](https://open.spotify.com/track/7xg0Rbj3SVOVzQVJEqh5Zd) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The Floaters](https://open.spotify.com/album/3R4GYvXz5zKCBG7rgUeEjX) | 11:48 |
 | 116 | [The Town I Live In](https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE) | [Thee Midniters](https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23) | [Greatest Slow Jams](https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw) | 3:18 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 141 | [Maybe It's Time](https://open.spotify.com/track/4Gy2mnEllofZbpi9ITuWpV) | [The BashTones](https://open.spotify.com/artist/2HgRlGRHh6gjEvF6RCaTlo), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Maybe It's Time](https://open.spotify.com/album/4VzG7pkJyHbjnz5mTWyrKS) | 3:31 |
 | 142 | [You'll Lose a Good Thing \(Rerecorded\)](https://open.spotify.com/track/6Iqd5wxINx22rdhfBYc3vl) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [The Love Album](https://open.spotify.com/album/6OvMYEEqX0kJhUab0G591A) | 2:36 |
 | 143 | [Porque Te Quiero](https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo) | [La Mission](https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG), [Orlando Torriente](https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno) | [Songs from La Mission \(Original Motion Soundtrack\)](https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ) | 4:11 |
-| 144 | [Sad Hearted Clown](https://open.spotify.com/track/2ZsssRULtkfkbo5D2yh6gT) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Sad Hearted Clown](https://open.spotify.com/album/6Y8dPnHS85nm1OsACr26Pg) | 3:37 |
-| 145 | [I Love You for All Seasons](https://open.spotify.com/track/7tZFmAL5qNhry1hCWIUyng) | [Monica Rocha](https://open.spotify.com/artist/5hmUF4owAsrwthZ4K5k5dy), [Malik Malo](https://open.spotify.com/artist/3CvU8v4vOHDYPw6G7rPqWZ) | [I Love You for All Seasons](https://open.spotify.com/album/06difTfbdKd1uUlYeOxllX) | 3:16 |
+| 144 | [I Love You for All Seasons](https://open.spotify.com/track/7tZFmAL5qNhry1hCWIUyng) | [Monica Rocha](https://open.spotify.com/artist/5hmUF4owAsrwthZ4K5k5dy), [Malik Malo](https://open.spotify.com/artist/3CvU8v4vOHDYPw6G7rPqWZ) | [I Love You for All Seasons](https://open.spotify.com/album/06difTfbdKd1uUlYeOxllX) | 3:16 |
+| 145 | [Sad Hearted Clown](https://open.spotify.com/track/2ZsssRULtkfkbo5D2yh6gT) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Sad Hearted Clown](https://open.spotify.com/album/6Y8dPnHS85nm1OsACr26Pg) | 3:37 |
 | 146 | [Wish I Said I Love You](https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [meka maraschino](https://open.spotify.com/artist/2CF7xMG5rTOrrNotNG49Dn) | [Wish I Said I Love You](https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy) | 2:34 |
 | 147 | [Honey Dove \(OG Version\)](https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Truth & Soul presents Lee Fields \(The 45 Mixes\)](https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg) | 3:20 |
 | 148 | [Going Out of My Head \- Remastered](https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:05 |
 | 149 | [Reaper of Love](https://open.spotify.com/track/05x6NUnAj83IGdYpM9rvRM) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/0CSoQsnzqCpPFRC41k9xRR) | 3:31 |
 | 150 | [Tell Me That You Love Me](https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb) | [Jonny Benavidez](https://open.spotify.com/artist/7M7dZApoFDjFxwIfGGNvRa), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [My Echo, Shadow and Me](https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo) | 3:42 |
 
-Snapshot ID: `MCwwY2UyMzQ0NmZlOWE1MTUxNzM0MzFlODY3Yjk0ZjE0Zjc2YTVhZmFm`
+Snapshot ID: `MCxmZGQyZGFkZmY5N2RhMDJhZGIwNWMzNGExZTBlMmM2Zjk0NDcyYTY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,880 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,984 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Bender](https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Bender](https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk) | 3:09 |
 | 100 | [Pretty](https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8) | 1:40 |
 
-Snapshot ID: `MCxkZWZlNjY3MTUwOGQ0NjcxNTJmMGMwNzk5ZTgxNWMxMGQwYWQ4MDMy`
+Snapshot ID: `MCxjNTE1Y2RiNGZlYjBmNjA4OGRkNWU5ODYxOGJkZTgzNzI2M2UyNmM2`

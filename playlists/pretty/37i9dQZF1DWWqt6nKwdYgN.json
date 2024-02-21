@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Gera MX y EMJAY en portada. ",
-  "num_followers": 13073,
+  "num_followers": 13082,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWExMDcxNDljNGZjYWJhOGMxYzA3MmUxMmYzZmFkMWExNDVjZWY2",
+  "snapshot_id": "MCw0NTFiNzc5YWRmNWFhNThkZTMxZjdiMDk4ODU0N2U4MDZhYTlkYmFm",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Amor de \u00d1eros",
+        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        }
+      ],
+      "duration_ms": 131725,
+      "name": "Amor de \u00d1eros",
+      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0vKEA8tVlS3ZAba9CWuRiJ"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 223361,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/1TcbvR0qvhA07FZvMShKjb"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Amor de \u00d1eros",
-        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        }
-      ],
-      "duration_ms": 131725,
-      "name": "Amor de \u00d1eros",
-      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Avi\u00f3n",
+      "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Trinidad",
         "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 246785,
       "name": "Toma",
       "url": "https://open.spotify.com/track/1PFPCkKVJGpRO90EOznoSQ"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
-      },
-      "artists": [
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Avi\u00f3n",
-      "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Camino Firme",
-        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
-      },
-      "artists": [
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "Camino Firme",
-      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
       },
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Camino Firme",
+        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Camino Firme",
+      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Cuando Ya Est\u00e9 Muerto",
         "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
       },
@@ -1351,6 +1351,26 @@
       "duration_ms": 208810,
       "name": "Cuando Ya Est\u00e9 Muerto",
       "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Kaeve",
+          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1375,26 +1395,6 @@
       "duration_ms": 169875,
       "name": "La Pelicula",
       "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
-        },
-        {
-          "name": "Kaeve",
-          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Pasta Pesto",
-        "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 188100,
-      "name": "Pasta Pesto",
-      "url": "https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 160000,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Pasta Pesto",
+        "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 188100,
+      "name": "Pasta Pesto",
+      "url": "https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "antes que sea tarde",
+        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        }
+      ],
+      "duration_ms": 168778,
+      "name": "antes que sea tarde",
+      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Entrevisi\u00f3n",
         "url": "https://open.spotify.com/album/0WNVbIaCaqotFrCxifouGO"
       },
@@ -1819,38 +1835,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "antes que sea tarde",
-        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
-      },
-      "artists": [
-        {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
-        }
-      ],
-      "duration_ms": 168778,
-      "name": "antes que sea tarde",
-      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
-        "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 371367,
-      "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
-      "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "La Carnita Asada",
         "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 275647,
       "name": "La Carnita Asada",
       "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
+        "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 371367,
+      "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
+      "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -2095,30 +2095,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Japan Trip",
-        "url": "https://open.spotify.com/album/4jNcsKzxjFtjFqTPCKXGcH"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "AKLO",
-          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
-        },
-        {
-          "name": "MIYACHI",
-          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
-        }
-      ],
-      "duration_ms": 237439,
-      "name": "Vida Callejera",
-      "url": "https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "El Poder y la Traici\u00f3n",
         "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
       },
@@ -2131,6 +2107,22 @@
       "duration_ms": 244904,
       "name": "El Poder y la Traici\u00f3n",
       "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Furyosa",
+        "url": "https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Furyosa",
+      "url": "https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw"
     }
   ],
   "unique_name": "Rimas Frescas ",

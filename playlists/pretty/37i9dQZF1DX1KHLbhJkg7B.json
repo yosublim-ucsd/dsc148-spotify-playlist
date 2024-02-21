@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 105981,
+  "num_followers": 106034,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjJhZjZkYTY0YmM2MWVjNzJjZmQ2MzYzZTAyZjk0ZDY0OTlmNTUx",
+  "snapshot_id": "MCwxMjFmMjJkZDAwNzY4MDRkMWJlMWU5M2EwM2ExOTJiYzkyODQwMzEy",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Let's All Help the Cowboys (Sing the Blues)",
-      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 174320,
       "name": "Heartbroken",
       "url": "https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Let's All Help the Cowboys (Sing the Blues)",
+      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "I Love You Always Forever (Acoustic)",
+        "url": "https://open.spotify.com/album/71wnYe7sliuqQdXMTOPa8u"
+      },
+      "artists": [
+        {
+          "name": "Everly Fair",
+          "url": "https://open.spotify.com/artist/3x9nHuhEIv8DT7PYbyO4EE"
+        }
+      ],
+      "duration_ms": 160785,
+      "name": "I Love You Always Forever - Acoustic",
+      "url": "https://open.spotify.com/track/0tmIGE20GvacDymC1UEgbY"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 216546,
       "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
       "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "I Love You Always Forever (Acoustic)",
-        "url": "https://open.spotify.com/album/71wnYe7sliuqQdXMTOPa8u"
-      },
-      "artists": [
-        {
-          "name": "Everly Fair",
-          "url": "https://open.spotify.com/artist/3x9nHuhEIv8DT7PYbyO4EE"
-        }
-      ],
-      "duration_ms": 160785,
-      "name": "I Love You Always Forever - Acoustic",
-      "url": "https://open.spotify.com/track/0tmIGE20GvacDymC1UEgbY"
     },
     {
       "added_at": "2024-02-16 05:00:00",

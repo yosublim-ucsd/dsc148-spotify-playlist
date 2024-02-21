@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,836 likes - 104 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,056 likes - 104 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,11 +106,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 96 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 |
 | 97 | [El Alem Allah](https://open.spotify.com/track/0iHyLzEeCcu19aEC2M3o5M) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:04 |
 | 98 | [Bhibbek We Bghar](https://open.spotify.com/track/2jb5fLhckZg7xbcXU3TpQl) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [كيد عزالك](https://open.spotify.com/album/7fJTTHs0CjC00QW4D1zDQS) | 5:58 |
-| 99 | [El Wad Albo Beyewga'o](https://open.spotify.com/track/2nFgRNk02oiGaLTmE63mwv) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Kan Zaman](https://open.spotify.com/album/21rR3ItCM20ox0nJ4QqBDi) | 4:07 |
+| 99 | [El Wad Albo Beyewga3o](https://open.spotify.com/track/2nFgRNk02oiGaLTmE63mwv) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Kan Zaman](https://open.spotify.com/album/21rR3ItCM20ox0nJ4QqBDi) | 4:07 |
 | 100 | [Ghali Aliya](https://open.spotify.com/track/0ZTi4yLjvzPELisNo5nt2r) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Ana Horra](https://open.spotify.com/album/34O1UaMvw1US6F7JvtGw34) | 3:32 |
 | 101 | [Bos Alaya](https://open.spotify.com/track/4LKkqI4NhqiFVmpg0fnQKD) | [Dana Halabi](https://open.spotify.com/artist/0RolaL9Dqjs9iMMLflD1ts) | [Bos Alaya](https://open.spotify.com/album/3YINSYDHz2LuiiZgRcbHvo) | 4:11 |
 | 102 | [Kel El Ossa](https://open.spotify.com/track/5eisepAnTwRx7ZSIVegAyM) | [Darine Hadchiti](https://open.spotify.com/artist/3IkEauhflcvpap7UUoXeR2) | [Kel El Ossa](https://open.spotify.com/album/5xtab7ihPgIVWW0RfcZK1N) | 3:02 |
 | 103 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
 | 104 | [El Hawa Sultan](https://open.spotify.com/track/0Jna6e4quht8fha1hIZbzL) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [انجح أغاني لجورج وسوف](https://open.spotify.com/album/3TI5sobwgaWYZboNlAFnkw) | 7:02 |
 
-Snapshot ID: `MCwzZDczNDEyZmI0NGUzZTAxNDI0YWRlYzdmYmUxZTgwNzY5ZjRkMzg5`
+Snapshot ID: `MCwwNTdkOGI4OWJjMWFhNDYxODllZDk4NWJiYTcxYzM5ODFlMjkxMjY4`

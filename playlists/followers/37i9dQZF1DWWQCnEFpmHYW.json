@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 38911,
+  "2024-02-21": 38973,
   "date_first_scraped": "2022-12-08",
   "description": "You're warm and cozy inside, listening to the sound of the rain outside. \nGet into the flow, there's nowhere else you need to go. ",
   "name": "Raindrops on the window",
@@ -2465,7 +2465,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Wet Days",
       "url": "https://open.spotify.com/track/12nearcoa2BdHSmBynXyCD"
@@ -2537,7 +2537,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 153950,
       "name": "Wisby Way Rain",
       "url": "https://open.spotify.com/track/1Zf7zOrFr0HC0pbcAvxqbj"

@@ -14696,10 +14696,32 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 201218,
       "name": "Ellipsis",
       "url": "https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7"
+    },
+    {
+      "album": {
+        "name": "GRIP",
+        "url": "https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201218,
+      "name": "Ellipsis",
+      "url": "https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia"
     },
     {
       "album": {
@@ -58724,6 +58746,10 @@
         {
           "name": "YOU IRIE",
           "url": "https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA"
+        },
+        {
+          "name": "Mario Caldato Jr.",
+          "url": "https://open.spotify.com/artist/2zfOOSDsI5BbmpNeu6Usrr"
         }
       ],
       "date_added": "2024-02-18",

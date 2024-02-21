@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,834 likes - 250 songs - 20 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,897 likes - 250 songs - 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Cohesion](https://open.spotify.com/track/1sPAQnIOubkZPROHAWowZo) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [Khan Jamal](https://open.spotify.com/artist/3w9tUHoiNlKFQ5ksiXStQn), [William Parker](https://open.spotify.com/artist/5r65V3tfKsDc3nHfpIl7D0), [Gerald Cleaver](https://open.spotify.com/artist/4RvllXSRb8WB2CsfjalFs9) | [Equilibrium](https://open.spotify.com/album/32vv89DeqInAKuhl7f1Tq0) | 6:36 |
 | 250 | [Safe Passage](https://open.spotify.com/track/1ILS6udvIKZ7BxbpknJ8ra) | [Ben Allison](https://open.spotify.com/artist/5kLzbHcCf9EwkKmuc04zlE) | [Moments Inside](https://open.spotify.com/album/0jfKTtUd8qIIyWOQqHPSA2) | 5:03 |
 
-Snapshot ID: `MCw4ZWVjN2MwOGMxZTMwNWJhZmYzMTExZDExZWM2YmIyZGI2M2Y1MWRm`
+Snapshot ID: `MCwwMWFmYTQyNTRjZmEwMDg3MmM5MmIzNzY2MjlhOGZmOWY2MDkzODEz`

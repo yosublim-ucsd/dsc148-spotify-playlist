@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,579 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,599 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Dead and Gone](https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 4:49 |
 | 150 | [Deer Creek Canyon](https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [Deer Creek Canyon](https://open.spotify.com/album/0BwzPjT3gChyxVmQYzGvzK) | 3:18 |
 
-Snapshot ID: `MCwxY2UzZmE2ZjA0MzczY2E5NzIyYzc5NWI4NjViOGI3MGU4MTUyNDdl`
+Snapshot ID: `MCwwNjk0ZWQ5ZWFhMDk4ZjcwYTlmYzJjYTQ2ZTQ3YmY4OWUzOGJkOTU1`

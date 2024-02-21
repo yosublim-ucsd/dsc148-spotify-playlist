@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 96809,
+  "2024-02-21": 96820,
   "date_first_scraped": "2022-01-02",
   "description": "Sweat it out with your favorite country workout songs. Cover: Lainey Wilson",
   "name": "Country Workout",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 186626,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/63w0QA1wiV7QhF9jeiHETF"
@@ -2751,7 +2751,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 184160,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/19DnL1HnJiijuEfaiS0Eus"

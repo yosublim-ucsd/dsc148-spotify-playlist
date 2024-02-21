@@ -1,13 +1,133 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 24297,
+  "num_followers": 24295,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "OTQzNywzZmM4MjY3M2ZmY2NhZmY4MjA0NmE1NTZiNGY2OTQwYzk3NzBjZWRk",
+  "snapshot_id": "OTQ0Niw1NjUyODU1MDU0N2U0ZDM4NDFhOWE3YTc4ODg3NmUzNDIzZTZhM2Nj",
   "tracks": [
+    {
+      "added_at": "2024-02-20 19:11:59",
+      "album": {
+        "name": "Vertino",
+        "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 333671,
+      "name": "Vertino",
+      "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
+    },
+    {
+      "added_at": "2024-02-20 19:12:09",
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/6KTvittwCSHEOI0cG6iWl4"
+      },
+      "artists": [
+        {
+          "name": "Yatta Bandz",
+          "url": "https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK"
+        }
+      ],
+      "duration_ms": 134736,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/2P9bZvA474ic8CSqN0cZqN"
+    },
+    {
+      "added_at": "2024-02-20 19:12:24",
+      "album": {
+        "name": "BEAST OUT THE CAGE",
+        "url": "https://open.spotify.com/album/3xyUv8Z7PWHRakcSM1P0zg"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "BEAST OUT THE CAGE",
+      "url": "https://open.spotify.com/track/5wskdb31Z9aAhtuSkphkF6"
+    },
+    {
+      "added_at": "2024-02-20 19:12:54",
+      "album": {
+        "name": "Where You Been?",
+        "url": "https://open.spotify.com/album/7c0Ok1h8Z5qmFWHMwJgRMS"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        }
+      ],
+      "duration_ms": 91655,
+      "name": "Where You Been?",
+      "url": "https://open.spotify.com/track/43rNJMam5NGy4GUUMaFip7"
+    },
+    {
+      "added_at": "2024-02-20 19:13:09",
+      "album": {
+        "name": "LIE TO MY FACE",
+        "url": "https://open.spotify.com/album/0D94rxjSMYd3JHzhhyhcun"
+      },
+      "artists": [
+        {
+          "name": "Damedot",
+          "url": "https://open.spotify.com/artist/5OHfcsZ8fneKjS64QqFST0"
+        }
+      ],
+      "duration_ms": 151330,
+      "name": "LIE TO MY FACE",
+      "url": "https://open.spotify.com/track/0B4W3eGxTCLVkdqQH2lYLN"
+    },
+    {
+      "added_at": "2024-02-20 19:13:20",
+      "album": {
+        "name": "I Don't Even Rap",
+        "url": "https://open.spotify.com/album/78UGspujGdTZj9tC3MN7Xr"
+      },
+      "artists": [
+        {
+          "name": "Drego & Beno",
+          "url": "https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X"
+        }
+      ],
+      "duration_ms": 97253,
+      "name": "I Don't Even Rap",
+      "url": "https://open.spotify.com/track/1RqYzaOJovvtu39c3IY65f"
+    },
+    {
+      "added_at": "2024-02-20 19:13:46",
+      "album": {
+        "name": "DOUBLE C'S",
+        "url": "https://open.spotify.com/album/041Ob2CNpT4FRvtYLcb4bd"
+      },
+      "artists": [
+        {
+          "name": "DaeMoney",
+          "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "DOUBLE C'S",
+      "url": "https://open.spotify.com/track/1qyxY6QPNfoTEsAeWpl6Fw"
+    },
     {
       "added_at": "2024-02-12 20:24:00",
       "album": {
@@ -963,146 +1083,6 @@
       "duration_ms": 176026,
       "name": "Phil Drummond (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra"
-    },
-    {
-      "added_at": "2023-10-30 18:24:35",
-      "album": {
-        "name": "Without You (Blxst Interlude)",
-        "url": "https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Without You (Blxst Interlude)",
-      "url": "https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny"
-    },
-    {
-      "added_at": "2023-10-30 18:24:52",
-      "album": {
-        "name": "Curious (Remix) [feat. Lil' Kim & Lola Brooke]",
-        "url": "https://open.spotify.com/album/41APFFVhRDIDcOFutq7G1A"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Curious (feat. Lil' Kim & Lola Brooke) - Remix",
-      "url": "https://open.spotify.com/track/7yfN4CjlmyyWIG0eI7OqI1"
-    },
-    {
-      "added_at": "2023-10-30 18:26:53",
-      "album": {
-        "name": "Hard To Find",
-        "url": "https://open.spotify.com/album/27cW8vR5633qKUwM6DbRPF"
-      },
-      "artists": [
-        {
-          "name": "Chinese Kitty",
-          "url": "https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Hard To Find",
-      "url": "https://open.spotify.com/track/23bcfKipPSnWI4ftEteRud"
-    },
-    {
-      "added_at": "2023-10-30 18:25:06",
-      "album": {
-        "name": "Nothing Is Freestyle",
-        "url": "https://open.spotify.com/album/7mTHCe23idWe8bf34Jpcjf"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 129425,
-      "name": "Nothing Is Freestyle",
-      "url": "https://open.spotify.com/track/0yHgAwXBnMvHONwJ3c7wo4"
-    },
-    {
-      "added_at": "2023-10-30 18:25:12",
-      "album": {
-        "name": "Mr. Put That Shit On",
-        "url": "https://open.spotify.com/album/0iB4O5HImR5jopE1vf7WYr"
-      },
-      "artists": [
-        {
-          "name": "CyHi",
-          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 348040,
-      "name": "Mr. Put That Shit On",
-      "url": "https://open.spotify.com/track/4r2pxdCocBEyQ93xbsaYof"
-    },
-    {
-      "added_at": "2023-10-30 18:25:30",
-      "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/4S4B4h9FARvAzRuYnJmTAq"
-      },
-      "artists": [
-        {
-          "name": "Jimbo World",
-          "url": "https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu"
-        }
-      ],
-      "duration_ms": 159383,
-      "name": "Him",
-      "url": "https://open.spotify.com/track/27knn3RM7DiYpXdPNr4lfU"
-    },
-    {
-      "added_at": "2023-10-30 18:25:45",
-      "album": {
-        "name": "Pyrex Kids",
-        "url": "https://open.spotify.com/album/0WS1JqFCANiSjK186Rkbxo"
-      },
-      "artists": [
-        {
-          "name": "Talibando",
-          "url": "https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "Brothers Only",
-      "url": "https://open.spotify.com/track/4Rf9xUNWcZXQpwq6OHkuTY"
     }
   ],
   "unique_name": "Fresh Out",

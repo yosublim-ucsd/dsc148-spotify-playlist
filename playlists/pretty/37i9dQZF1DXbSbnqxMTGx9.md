@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,847,596 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,848,223 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 57 | [World\-A\-Reggae](https://open.spotify.com/track/70idjVtmzhvE1tXgHYEF2y) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/0RRP4qIFXHxmaMyMLzP86U) | 3:50 |
 | 58 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 | 59 | [Stop That Train](https://open.spotify.com/track/04ZaKWF8eYEsVhO8mNxvhB) | [Keith](https://open.spotify.com/artist/7hm0Ngouir56yhbzXu9yRH), [Tex](https://open.spotify.com/artist/1OFhmPA8VQArSdLb7CVClv) | [Stop That Train!](https://open.spotify.com/album/6B5wJp7kFC8s0VMilKj7ou) | 3:20 |
-| 60 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/2ACEZokhi5fKPcpGslKy4r) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 3:18 |
-| 61 | [Your House](https://open.spotify.com/track/0czsQ1YOT71kdVfyFoTy3U) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [True Democracy](https://open.spotify.com/album/6qPG09ioBMVTcgJSZpuCY8) | 3:42 |
+| 60 | [Your House](https://open.spotify.com/track/0czsQ1YOT71kdVfyFoTy3U) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [True Democracy](https://open.spotify.com/album/6qPG09ioBMVTcgJSZpuCY8) | 3:42 |
+| 61 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/2ACEZokhi5fKPcpGslKy4r) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 3:18 |
 | 62 | [Fighting Against Conviction](https://open.spotify.com/track/5MKYnizdhDDik45mEncVXu) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 5:10 |
 | 63 | [The Sun Stop Shining](https://open.spotify.com/track/6O4FoKdYi42CFjfd0MM04n) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Very Best](https://open.spotify.com/album/3thlTAxpHldeAVvftG1Aov) | 3:11 |
 | 64 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 76 | [Untold Strories](https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [5 Decades of Jamaica's Musical Heritage](https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT) | 4:32 |
 | 77 | [Love Has Found Its Way](https://open.spotify.com/track/67WC3ZMEQDCvIEVIC0u2Gv) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Love Has Found Its Way](https://open.spotify.com/album/0tnGHsEavusTKzuoiqbSFl) | 4:30 |
 | 78 | [Let Down](https://open.spotify.com/track/4aCsgwFhbZ8CmYAotK7W2B) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Radiodread](https://open.spotify.com/album/775nfRVFPVu7WSsIju6ipJ) | 4:44 |
-| 79 | [Life](https://open.spotify.com/track/0rBuEt8oLwJNGkByZLzc75) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/54xHmnlaPkXP8NWSuVB1Ft) | 3:42 |
-| 80 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 2:41 |
-| 81 | [Kingston Town](https://open.spotify.com/track/7fgWjudYcn1YXHETaz8Coh) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Kingston Town](https://open.spotify.com/album/7zGemYrW0Ef42DdKcHmAvp) | 3:12 |
-| 82 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
+| 79 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 2:41 |
+| 80 | [Life](https://open.spotify.com/track/0rBuEt8oLwJNGkByZLzc75) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/54xHmnlaPkXP8NWSuVB1Ft) | 3:42 |
+| 81 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
+| 82 | [Kingston Town](https://open.spotify.com/track/7fgWjudYcn1YXHETaz8Coh) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Kingston Town](https://open.spotify.com/album/7zGemYrW0Ef42DdKcHmAvp) | 3:12 |
 | 83 | [Double Barrel](https://open.spotify.com/track/3B59dR6lPY1FKbBwsXbcON) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Double Barrel](https://open.spotify.com/album/5OQvRjlsqGSGyhWoKlozbz) | 2:50 |
-| 84 | [Having A Party](https://open.spotify.com/track/02xOwDTstvAHXGfmYO4GPO) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Steve Marshall](https://open.spotify.com/artist/4BuxsDM4ul17kgNNwSFoDE) | [Scratch Came Scratch Saw Scratch Conquered](https://open.spotify.com/album/0iL1xFWXGlkdquy2cchdIi) | 4:40 |
-| 85 | [Legalize It](https://open.spotify.com/track/605ZHoLZx7PtQ8fXgvN10K) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [The Essential Peter Tosh \(The Columbia Years\)](https://open.spotify.com/album/5Up8MjtHf71WW4vnVqyb1g) | 4:39 |
+| 84 | [Legalize It](https://open.spotify.com/track/605ZHoLZx7PtQ8fXgvN10K) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [The Essential Peter Tosh \(The Columbia Years\)](https://open.spotify.com/album/5Up8MjtHf71WW4vnVqyb1g) | 4:39 |
+| 85 | [Having A Party](https://open.spotify.com/track/02xOwDTstvAHXGfmYO4GPO) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Steve Marshall](https://open.spotify.com/artist/4BuxsDM4ul17kgNNwSFoDE) | [Scratch Came Scratch Saw Scratch Conquered](https://open.spotify.com/album/0iL1xFWXGlkdquy2cchdIi) | 4:40 |
 | 86 | [Satisfaction](https://open.spotify.com/track/20y4i5i8JBwrlre86Om8W9) | [Carl Dawkins](https://open.spotify.com/artist/3VNBXif3AigGxlbXUTrS72) | [Mr Satisfaction \(1966\-1976\)](https://open.spotify.com/album/7Fjj7aplwBum9ytDUuVqdG) | 1:49 |
 | 87 | [Engine 54](https://open.spotify.com/track/1Miqjanq9I2rPQyR2ptZGu) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:39 |
 | 88 | [It Mek](https://open.spotify.com/track/2KLQHmIj0ncGRdnLbbqi9B) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:32 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 96 | [The Loser](https://open.spotify.com/track/6ReiEf0vRqmkrdfMtevBQq) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [Psychedelic Train](https://open.spotify.com/album/5EXlwo79cc8jcscqh2yeRn) | 3:35 |
 | 97 | [Help Me Make It Through The Night](https://open.spotify.com/track/0pINVERHACBcMBRzFoHysO) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts Of Holt](https://open.spotify.com/album/6AQcKsHGGOE2iVimVgGdE7) | 3:07 |
 | 98 | [Suzanne Beware of the Devil](https://open.spotify.com/track/71RlrObaNXUK8EbREgJHm8) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/2OyxYqLTT5HBqd3FxYsmvu) | 2:35 |
-| 99 | [Blood and Fire](https://open.spotify.com/track/5HiTmpnvgLnofi31wuG0EA) | [Niney The Observer](https://open.spotify.com/artist/1eM04Kj9DckOUmU1LOfj8j) | [Observer Station](https://open.spotify.com/album/0cMFWWPdC87MXohtuJPM8n) | 3:08 |
-| 100 | [Artibella](https://open.spotify.com/track/0vnzp4WlA4giLm9anau8VS) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Who Gets Your Love](https://open.spotify.com/album/0fSvh9zLAMyooFqcqXLdXB) | 2:20 |
+| 99 | [Artibella](https://open.spotify.com/track/0vnzp4WlA4giLm9anau8VS) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Who Gets Your Love](https://open.spotify.com/album/0fSvh9zLAMyooFqcqXLdXB) | 2:20 |
+| 100 | [Blood and Fire](https://open.spotify.com/track/5HiTmpnvgLnofi31wuG0EA) | [Niney The Observer](https://open.spotify.com/artist/1eM04Kj9DckOUmU1LOfj8j) | [Observer Station](https://open.spotify.com/album/0cMFWWPdC87MXohtuJPM8n) | 3:08 |
 
-Snapshot ID: `MCw1ZjFiY2EwYTA2NzAzMmE3M2VmYjljMmUyZjJiNzZiY2M2NDlmNjMx`
+Snapshot ID: `MCwxZmFlODA1ZGU0MDFjZDA1NzI5Yjc3NzdkNTQ0OWJiZDdhMDhhNjI0`

@@ -2,9 +2,9 @@
 
 ### [Desi Indie](https://open.spotify.com/playlist/37i9dQZF1DX9Kz7jBbxgYQ)
 
-> Home to the best of South Asian Indie scene\. Cover: AUR
+> Home to the best of South Asian Indie scene\. Cover: Chaar Diwari
 
-273 songs - 15 hr 25 min
+274 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [60's Love](https://open.spotify.com/track/3h78AziF7cEXfm50J2TNcA) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Obosheshey](https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR) | 5:23 | 2022-05-20 | 2022-07-16 |
 | [Aaftaab](https://open.spotify.com/track/0bNkrxGqyFNYuXfj9HBV4r) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/1DW7mX33rABORCELQ4KkQn) | 3:53 | 2024-01-05 |  |
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2022-07-15 | 2022-09-02 |
+| [Aaja Mahi](https://open.spotify.com/track/2VSU1fDunvm2JhVf2Z7TwZ) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Aaja Mahi](https://open.spotify.com/album/4UJyZ8rysFX44mlKl2SVFR) | 3:40 | 2024-02-20 |  |
 | [Aankh Mori](https://open.spotify.com/track/4q8H6j9fznuYQyNtHOMxS6) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR), [Amna Rai](https://open.spotify.com/artist/1wGOwap4BAlYLYEfqdAzXk), [Zohan](https://open.spotify.com/artist/2d1o03egHCNlHb8L7oEEKm) | [Zindagi Jahaan Le Jaaye](https://open.spotify.com/album/4CQ831WVa61uapP1b2kgK8) | 3:58 | 2024-02-06 | 2024-02-20 |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-05-20 |  |
 | [Aarish](https://open.spotify.com/track/5gkERI7wlS357vbRIlUjQn) | [Himasri Sarkar](https://open.spotify.com/artist/5GPWLvu5S3lXQNG7vzxu4C) | [Aarish](https://open.spotify.com/album/4EYgwPkFVFA5C7fdir7toq) | 4:21 | 2024-01-05 |  |
@@ -259,7 +260,7 @@
 | [Tu Kaun Hai](https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Tu Kaun Hai](https://open.spotify.com/album/4UgSmIR3uBY5ehDNeZszsZ) | 5:33 | 2022-09-14 | 2023-01-13 |
 | [Tu Mileya Ve](https://open.spotify.com/track/6dYVPyx5AQnOAmFOyJljIz) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Unnati Shah](https://open.spotify.com/artist/7k5V4wLBAPJAKgCbLNM1gP) | [Tu Mileya Ve](https://open.spotify.com/album/4oyY0mE03bj7LCnfL9Q6h2) | 4:03 | 2024-01-05 | 2024-01-27 |
 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 | 2024-01-05 |  |
-| [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 | 2023-11-06 |  |
+| [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 | 2023-11-06 | 2024-02-21 |
 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2022-12-28 | 2023-11-12 |
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2023-08-11 | 2023-09-09 |
 | [ur sweater](https://open.spotify.com/track/5Dm6An47nSw89nSu0KHdtg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [ur sweater](https://open.spotify.com/album/2Ai8C3NJ1DOKA0Fl9uUuRX) | 3:20 | 2022-05-20 | 2023-02-11 |

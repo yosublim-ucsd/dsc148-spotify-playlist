@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,365 likes - 82 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,358 likes - 82 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 81 | [King Size](https://open.spotify.com/track/65H0yBiqmdiXinuexEWDAs) | [Olhares](https://open.spotify.com/artist/4sZgfmE3StdCfvUDOZakzc), [Tangi](https://open.spotify.com/artist/5oFbBc3ADqWvbU3jzihIXM) | [King Size](https://open.spotify.com/album/0nsTJkAhy8AXuK95Z1jhGm) | 2:32 |
 | 82 | [Mexe Mexe](https://open.spotify.com/track/0PKOVSMvvmAvQaVgtZVt6n) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO), [EarKid](https://open.spotify.com/artist/7HgyUDF9EbhOCBc0l29PD8) | [Tipo I\-Doser](https://open.spotify.com/album/67h12hjNOZvIDtJzDijc15) | 4:20 |
 
-Snapshot ID: `MCwyYzUyMDI5MWQwMmExZWM2OWJiZjZkMWFlNjVkNDIzNjA5OGUxOWEx`
+Snapshot ID: `MCwwMDg3NTgyODJlYWU4NTg1MzgwMWQzZGRhYjdkMmRmYmE2ZGJiYjg0`

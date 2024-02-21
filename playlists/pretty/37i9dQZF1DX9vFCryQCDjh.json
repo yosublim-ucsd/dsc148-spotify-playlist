@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11670,
+  "num_followers": 11680,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTE5N2YzNGEzMGYyZjJiYmU0YzFmZWFmZWExODE2MzU3YzFkODc1",
+  "snapshot_id": "MCw4MTFhNWRmNDYzNjk1MzVlODJmOTBiODc4N2E2YmY1OWVlNWVjMzEw",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 209659,
-      "name": "\uc560\uc0c1",
-      "url": "https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\uc784\uc7ac\ubc941\uc9d1",
         "url": "https://open.spotify.com/album/5bRAb4iY8eF180lWtfsd2n"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 250279,
       "name": "\uc774\ubc24\uc774\uc9c0\ub098\uba74",
       "url": "https://open.spotify.com/track/2bAMoEukdKb0Rk4u6IcUM3"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 209659,
+      "name": "\uc560\uc0c1",
+      "url": "https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Chapter 5 Letter",
-        "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "DJ. DOC 4th Album",
         "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192888,
       "name": "Dance with DOC",
       "url": "https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Chapter 5 Letter",
+        "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "LOVE - The 3rd Album",
-        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Twilight Zone",
-      "url": "https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Tell Me One More Time",
         "url": "https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 195508,
       "name": "Tell Me One More Time",
       "url": "https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "LOVE - The 3rd Album",
+        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Twilight Zone",
+      "url": "https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 225098,
-      "name": "\uc6b4\uba85",
-      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "The Reign",
         "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 225946,
       "name": "A-Yo",
       "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 225098,
+      "name": "\uc6b4\uba85",
+      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Re-turn",
-        "url": "https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15"
-      },
-      "artists": [
-        {
-          "name": "Space A",
-          "url": "https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL"
-        }
-      ],
-      "duration_ms": 229630,
-      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
-      "url": "https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\ub3c5\ucc3d\ud68c \u2161 1981~2002 (Live)",
         "url": "https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 140253,
       "name": "\ubd89\uc740 \ub178\uc744",
       "url": "https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Re-turn",
+        "url": "https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15"
+      },
+      "artists": [
+        {
+          "name": "Space A",
+          "url": "https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL"
+        }
+      ],
+      "duration_ms": 229630,
+      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
+      "url": "https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Kim Gun Mo 3",
+        "url": "https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 258160,
+      "name": "Wrongful Meeting",
+      "url": "https://open.spotify.com/track/3tWBKBa1l96An8KFfGo0Lx"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Seotaiji and Boys",
         "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 243200,
       "name": "Shaky Friendship - Euru Remix Version",
       "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Kim Gun Mo 3",
-        "url": "https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Wrongful Meeting",
-      "url": "https://open.spotify.com/track/3tWBKBa1l96An8KFfGo0Lx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Love is gone",
+      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Click-B 3",
         "url": "https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "Love is gone",
-      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
         "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
@@ -1399,6 +1399,38 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "One Flew over the Cuckoo's Nest",
+      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
+        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
+      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -1423,22 +1455,6 @@
       "duration_ms": 212195,
       "name": "SWEETY",
       "url": "https://open.spotify.com/track/2WOcdPaRHZp20PwaGOk602"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
-        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
-      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "One Flew over the Cuckoo's Nest",
-      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "DJ. DOC 4th Album",
         "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
       },
@@ -1575,6 +1575,38 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Click-B 1st",
+        "url": "https://open.spotify.com/album/1wD0a0lKZALago4fMCkoSA"
+      },
+      "artists": [
+        {
+          "name": "Click-B",
+          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
+        }
+      ],
+      "duration_ms": 241826,
+      "name": "Fogetten Love",
+      "url": "https://open.spotify.com/track/4EpwZakcikSrgDCqcLXAok"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "#007 Another Days\u2026",
+        "url": "https://open.spotify.com/album/0QMnDxAi0gDANQrGJMuxeq"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "The woman in the rain",
+      "url": "https://open.spotify.com/track/3mha9zJ31Ya9vSMhkcYnJF"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Roo`ra Best Album",
         "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
       },
@@ -1603,38 +1635,6 @@
       "duration_ms": 265508,
       "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
       "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Jaurim 'True' Live (Live)",
-        "url": "https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW"
-      },
-      "artists": [
-        {
-          "name": "JAURIM",
-          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "Hey, Hey, Hey",
-      "url": "https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Click-B 1st",
-        "url": "https://open.spotify.com/album/1wD0a0lKZALago4fMCkoSA"
-      },
-      "artists": [
-        {
-          "name": "Click-B",
-          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
-        }
-      ],
-      "duration_ms": 241826,
-      "name": "Fogetten Love",
-      "url": "https://open.spotify.com/track/4EpwZakcikSrgDCqcLXAok"
     }
   ],
   "unique_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",

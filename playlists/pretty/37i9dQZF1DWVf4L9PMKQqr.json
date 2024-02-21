@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 20456,
+  "num_followers": 20461,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0",
+  "snapshot_id": "MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
-      },
-      "artists": [
-        {
-          "name": "Lilian De Celis",
-          "url": "https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv"
-        }
-      ],
-      "duration_ms": 130716,
-      "name": "De Riguroso Schottis",
-      "url": "https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Canciones de Agust\u00edn Lara, Vol. 1",
         "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 182804,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+      },
+      "artists": [
+        {
+          "name": "Lilian De Celis",
+          "url": "https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv"
+        }
+      ],
+      "duration_ms": 130716,
+      "name": "De Riguroso Schottis",
+      "url": "https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
-        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/4f7z1W1qP8699e4Fe0c8wi"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Agust\u00edn Lara y sus Grandes Int\u00e9rpretes",
         "url": "https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 153808,
       "name": "A Tus Pies",
       "url": "https://open.spotify.com/track/0lSXVnr6IxH7XGcRiPlHru"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
+        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/4f7z1W1qP8699e4Fe0c8wi"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -679,18 +679,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
+        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
       },
       "artists": [
         {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 134008,
-      "name": "Espanolerias",
-      "url": "https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI"
+      "duration_ms": 138000,
+      "name": "Dime Si Me Quieres",
+      "url": "https://open.spotify.com/track/5tiM3oeYGZyjmXcjF4Iqep"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -711,18 +711,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
-        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
       "artists": [
         {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Dime Si Me Quieres",
-      "url": "https://open.spotify.com/track/5tiM3oeYGZyjmXcjF4Iqep"
+      "duration_ms": 134008,
+      "name": "Espanolerias",
+      "url": "https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "COLECCION Volumen 5",
-        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
-        }
-      ],
-      "duration_ms": 211252,
-      "name": "Caballera Blanca",
-      "url": "https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Lo Mejor de La Sonora Matancera (Remastered)",
         "url": "https://open.spotify.com/album/5oPiWYPNFLc9z0h6D4l6iJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 235560,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2MEURkDAcZqGDrUO8JYOGO"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "COLECCION Volumen 5",
+        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+        }
+      ],
+      "duration_ms": 211252,
+      "name": "Caballera Blanca",
+      "url": "https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Interpreta a Agustin Lara",
-        "url": "https://open.spotify.com/album/63EUaSjZ1WBetcV6vVYd5A"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 206654,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/3C2gEY4X6APNQ9IbZnJrCK"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Tesoros de Colecci\u00f3n - Las Estrellas de la Hora Azul",
         "url": "https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 137333,
       "name": "Naufragio",
       "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Interpreta a Agustin Lara",
+        "url": "https://open.spotify.com/album/63EUaSjZ1WBetcV6vVYd5A"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "duration_ms": 206654,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/3C2gEY4X6APNQ9IbZnJrCK"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
-        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
+        "name": "Coleccion Original RCA",
+        "url": "https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn"
       },
       "artists": [
         {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+          "name": "Amparo Montes",
+          "url": "https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH"
         }
       ],
-      "duration_ms": 373440,
-      "name": "Popurr\u00ed de Mujeres Galantes",
-      "url": "https://open.spotify.com/track/0hMBb9Wf01bFqr8HF3X1Hz"
+      "duration_ms": 252880,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Coleccion Original RCA",
-        "url": "https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn"
+        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
+        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
       },
       "artists": [
         {
-          "name": "Amparo Montes",
-          "url": "https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH"
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
         }
       ],
-      "duration_ms": 252880,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH"
+      "duration_ms": 373440,
+      "name": "Popurr\u00ed de Mujeres Galantes",
+      "url": "https://open.spotify.com/track/0hMBb9Wf01bFqr8HF3X1Hz"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Se Me Hizo F\u00e1cil",
-      "url": "https://open.spotify.com/track/1FTSbw0qc0z2cmtbnL02zc"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "COLECCION Volumen 5",
         "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 181368,
       "name": "Hastio",
       "url": "https://open.spotify.com/track/5E1hhG7rRVfE2BuNdnCRkK"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 147933,
+      "name": "Se Me Hizo F\u00e1cil",
+      "url": "https://open.spotify.com/track/1FTSbw0qc0z2cmtbnL02zc"
     },
     {
       "added_at": "2021-05-07 15:30:08",

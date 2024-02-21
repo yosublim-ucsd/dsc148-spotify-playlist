@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,976 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,156 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 149 | [The Sound of Music](https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [The Sound of Music](https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL) | 4:05 |
 | 150 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 |
 
-Snapshot ID: `MCw3MWE5ZDZmMzZiM2VjYWY2ZDJmMDU5OGY4YmJkMzg4YmJmZjhiN2Ew`
+Snapshot ID: `MCw0NjUxYjMyOGZmZTVjNmY2Yzg5ZDc3OTkzMDRhMDA4YjkxMGFkZGM3`

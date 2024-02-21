@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 429886,
+  "num_followers": 429972,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzA1MGY1Zjg0NDE0MWNjMzUyY2QwMjM5ZGY1ODhjNDhhMWM0ZWU4",
+  "snapshot_id": "MCxjNjNhZTdiNDk3ZmRjYmE3NTBiYTE2YWNlNzU0OTdjZWVjOThhOWI3",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "King Of The Dancehall",
+        "url": "https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "King Of The Dancehall",
-        "url": "https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Rum Behavior",
-        "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
-      },
-      "artists": [
-        {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
-        }
-      ],
-      "duration_ms": 155919,
-      "name": "Rum Behavior",
-      "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Gvnman Shift",
         "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 204068,
       "name": "Gvnman Shift",
       "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Rum Behavior",
+        "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "duration_ms": 155919,
+      "name": "Rum Behavior",
+      "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Brik Pan Brik",
+        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 160724,
+      "name": "Brik Pan Brik",
+      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Pon Di Gaza 2.0",
         "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 213600,
       "name": "Romping Shop (feat. Spice)",
       "url": "https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Brik Pan Brik",
-        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 160724,
-      "name": "Brik Pan Brik",
-      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Collie Buddz",
         "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 221506,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Strictly The Best Vol. 51",
-        "url": "https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Gal A Bubble",
-      "url": "https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Waistline",
         "url": "https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 166070,
       "name": "Waistline",
       "url": "https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Strictly The Best Vol. 51",
+        "url": "https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Gal A Bubble",
+      "url": "https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171145,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Microphone Champion",
         "url": "https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "MOB STYLE",
-        "url": "https://open.spotify.com/album/7ru4iUaCzq9CyvVCZvj1fX"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 146138,
-      "name": "MOB STYLE",
-      "url": "https://open.spotify.com/track/0AUUF6ugbAqypdR5rHjgxZ"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Unfaithful Games",
         "url": "https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+        "name": "MOB STYLE",
+        "url": "https://open.spotify.com/album/7ru4iUaCzq9CyvVCZvj1fX"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
         }
       ],
-      "duration_ms": 171145,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
+      "duration_ms": 146138,
+      "name": "MOB STYLE",
+      "url": "https://open.spotify.com/track/0AUUF6ugbAqypdR5rHjgxZ"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Live n' Learn",
-        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Live n' Learn",
-      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Settle Down (Destiny)",
         "url": "https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf"
       },
@@ -1699,6 +1683,26 @@
       "duration_ms": 189813,
       "name": "Settle Down (Destiny)",
       "url": "https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Crawsis",
+        "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Shaneil Muir",
+          "url": "https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ"
+        }
+      ],
+      "duration_ms": 173740,
+      "name": "Crawsis",
+      "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
     },
     {
       "added_at": "2023-11-17 12:46:59",

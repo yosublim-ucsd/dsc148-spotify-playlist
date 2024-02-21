@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,686 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,691 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 47 | [Une bonne santé et grave des lards](https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Une bonne santé et grave des lards](https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f) | 2:57 |
 | 48 | [Picoler](https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Picoler](https://open.spotify.com/album/1zgN4DsdOYeUFMTGID32S3) | 3:09 |
 | 49 | [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 |
-| 50 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 |
+| 50 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
 
-Snapshot ID: `MCxkYWU0NjUwNTEwYWFiM2E4Nzk3MzU2MDE3NTViZGQxZWNiNmUwNzlj`
+Snapshot ID: `MCw5ODgzZDgxNjAwMzIwOTAyZjllMDFhYWU4ZGZmOTMxNjAyYWNmNWE2`

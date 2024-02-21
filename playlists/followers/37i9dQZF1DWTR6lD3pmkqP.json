@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 107834,
+  "2024-02-21": 107897,
   "date_first_scraped": "2021-12-21",
   "description": "The sound of the new era of Jazz. Cover: Esperanza Spalding",
   "name": "21st Century Jazz",
@@ -1847,6 +1847,24 @@
       "duration_ms": 151720,
       "name": "Croydon Koma",
       "url": "https://open.spotify.com/track/3ETSl39IjoLVTSzrOFj68M"
+    },
+    {
+      "album": {
+        "name": "Plex",
+        "url": "https://open.spotify.com/album/3uXvql4fD31uz7mfaMlXPt"
+      },
+      "artists": [
+        {
+          "name": "Fazer",
+          "url": "https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373710,
+      "name": "Cuentro",
+      "url": "https://open.spotify.com/track/3Fbec3laCqC6hepdISgArd"
     },
     {
       "album": {
@@ -8251,7 +8269,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 339773,
       "name": "Seti Khola",
       "url": "https://open.spotify.com/track/6JOQnzP9uxrYBEPN6Ex6kv"

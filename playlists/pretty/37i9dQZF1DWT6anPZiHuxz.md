@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Chasing that runner's high
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,851 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,930 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 99 | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v) | 3:13 |
 | 100 | [Gotta Be You](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be You](https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf) | 2:29 |
 
-Snapshot ID: `MCxlM2UxYThjMzM2NGNjMWVjMzJjMTkyMTliNWY1NzUzYTliYWE0NDNi`
+Snapshot ID: `MCw3MTIyNGI4OWQ3ZjBmOGY1NjVjY2Y3NTE5NGQyNTEzNjU2ODM5YjZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Maina Doe\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,072 likes - 89 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,100 likes - 89 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 12 | [Let You Go](https://open.spotify.com/track/4CFavFmugH4uNyDpnq2Xk9) | [OK Hotel](https://open.spotify.com/artist/69k6dSfpmioqxODAkHK3Ll) | [Come and Find Me](https://open.spotify.com/album/09Y5SYZwjELRNJZuixwfqe) | 3:13 |
 | 13 | [Regrets and Happiness](https://open.spotify.com/track/3KpnX4IDIix4m3ZEXKjzUw) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [New World Colour](https://open.spotify.com/album/4dEg96TsOXaeeyuPUrJGoc) | 3:15 |
 | 14 | [I Still Think About You All the Time](https://open.spotify.com/track/2di2tvETCbgymZ7kxA0wet) | [Aimés](https://open.spotify.com/artist/1NdKBpu7qZiqu5OzG83y33), [Ethan Conway](https://open.spotify.com/artist/4Rts5eVPKEuJGPD0QWacxY) | [I Still Think About You All The Time](https://open.spotify.com/album/7EnhygAwuUVUaJIC6tLmI2) | 3:47 |
-| 15 | [Microdose](https://open.spotify.com/track/52MUftJPRd3IQJ1q7DAEaY) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [microdose](https://open.spotify.com/album/4XZh11VvoX8ij09p4wN8nK) | 2:59 |
+| 15 | [microdose](https://open.spotify.com/track/52MUftJPRd3IQJ1q7DAEaY) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [microdose](https://open.spotify.com/album/4XZh11VvoX8ij09p4wN8nK) | 2:59 |
 | 16 | [The Crying Game](https://open.spotify.com/track/1G9vZiz2B20W5YLfaNT3EF) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [On The Lips](https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY) | 3:18 |
 | 17 | [What It's All About](https://open.spotify.com/track/3weULBBOa7Gk5C1eVuj5Dh) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Wing](https://open.spotify.com/album/3Qc1qeHSkWYfWg9Jt9mxMq) | 3:43 |
 | 18 | [Call Me Stupid](https://open.spotify.com/track/4fXHEdEmxMsCP4tB3LvZpi) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [Call Me Stupid](https://open.spotify.com/album/2iWoEWnknZLRDWDaLQU3T2) | 2:26 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 88 | [Rain](https://open.spotify.com/track/69DyGnogEVKDWaQ78cQI4Q) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB), [Adrian Eagle](https://open.spotify.com/artist/3GC3e3b4g7rHeLdLUsxJZV) | [Rain](https://open.spotify.com/album/0umx8QFaZl8t8e3fV47AvG) | 2:39 |
 | 89 | [\(GREAT\) DAY OUTSIDE](https://open.spotify.com/track/5tQeIFsTuEYmhihpW0NBqn) | [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4), [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [\(GREAT\) DAY OUTSIDE](https://open.spotify.com/album/2bELYJAmathf5m3OTPlVh8) | 2:50 |
 
-Snapshot ID: `MCxjODE4Njc2NDk4NjJjYjI1YTIyZWY3ZDNmNmUxN2FmZGZiODMwNGI5`
+Snapshot ID: `MCxlOWZhZDRiY2VlYzQ3MjIxOGU4OTIyODUyMzIwN2RiNzQzMmQ5N2Vh`

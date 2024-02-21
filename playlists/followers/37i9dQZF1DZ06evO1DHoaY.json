@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 1982954,
+  "2024-02-21": 1983981,
   "date_first_scraped": "2024-02-02",
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
   "name": "This Is Bob Marley & The Wailers",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 261839,
       "name": "Babylon System",
       "url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA"
@@ -303,6 +303,24 @@
     {
       "album": {
         "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
+    },
+    {
+      "album": {
+        "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
@@ -313,7 +331,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
@@ -331,7 +349,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 195733,
       "name": "Kaya",
       "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
@@ -367,7 +385,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 310426,
       "name": "Lively Up Yourself",
       "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
@@ -411,6 +429,24 @@
     {
       "album": {
         "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "Natural Mystic",
+      "url": "https://open.spotify.com/track/5uqQyRJV8qLt8zEqnvsBVK"
+    },
+    {
+      "album": {
+        "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
@@ -421,7 +457,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 207733,
       "name": "Natural Mystic",
       "url": "https://open.spotify.com/track/64xslN8DB3jG1tK2l3H1mA"
@@ -547,7 +583,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 327133,
       "name": "Rastaman Live Up",
       "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
@@ -901,6 +937,24 @@
     {
       "album": {
         "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ"
+    },
+    {
+      "album": {
+        "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
@@ -911,7 +965,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 256239,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"

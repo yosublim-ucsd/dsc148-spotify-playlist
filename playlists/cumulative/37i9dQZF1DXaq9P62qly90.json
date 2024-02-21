@@ -202,7 +202,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 349253,
       "name": "Back to the Old",
       "url": "https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut"
@@ -578,6 +578,24 @@
       "duration_ms": 256266,
       "name": "Follow The Sun",
       "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/6EN8PtrmSzYfybaZQYYaOc"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205612,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/0sIxAwobJDRyxlx6kvD2oo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 42481,
+  "num_followers": 42504,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5",
+  "snapshot_id": "MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Sin Presumir",
-        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 187960,
-      "name": "Si Se Me Pone",
-      "url": "https://open.spotify.com/track/1J4Qa0MN66tl9U7mJEsiHL"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Mi Promesa",
         "url": "https://open.spotify.com/album/0Ez3AihXSg9dVmgQcNnMmw"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 198760,
       "name": "Por Siempre Y Para Siempre",
       "url": "https://open.spotify.com/track/1tcLbRD7r6lgcKia0yPEbd"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Sin Presumir",
+        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Si Se Me Pone",
+      "url": "https://open.spotify.com/track/1J4Qa0MN66tl9U7mJEsiHL"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Me Estorbas",
+      "url": "https://open.spotify.com/track/2Lmbm4EbTHuEG7PPCwPKxN"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "A Lo Grande",
         "url": "https://open.spotify.com/album/6DvZtJ6na362jKnXdmPyyf"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Garantizados",
-        "url": "https://open.spotify.com/album/0dqQARMlzEAE0yx6E8jFOR"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Maldito Antojo",
-      "url": "https://open.spotify.com/track/3d9YYtn1o9Uwk1ACnkJqbe"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Ojos En Blanco",
         "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "La Banda Grande de la Sultana del Norte",
-        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
+        "name": "Garantizados",
+        "url": "https://open.spotify.com/album/0dqQARMlzEAE0yx6E8jFOR"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
         }
       ],
-      "duration_ms": 181386,
-      "name": "Que Caro Estoy Pagando (feat. Leandro R\u00edos)",
-      "url": "https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD"
+      "duration_ms": 205720,
+      "name": "Maldito Antojo",
+      "url": "https://open.spotify.com/track/3d9YYtn1o9Uwk1ACnkJqbe"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1199,18 +1195,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
         }
       ],
-      "duration_ms": 189280,
-      "name": "Me Estorbas",
-      "url": "https://open.spotify.com/track/2Lmbm4EbTHuEG7PPCwPKxN"
+      "duration_ms": 181386,
+      "name": "Que Caro Estoy Pagando (feat. Leandro R\u00edos)",
+      "url": "https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Dejando Huella",
-        "url": "https://open.spotify.com/album/1Z3AtcwaeDnEbeWamC9545"
-      },
-      "artists": [
-        {
-          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
-          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Dejando Huella",
-      "url": "https://open.spotify.com/track/30t4VO3UfXfmXacza0226g"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Sin Presumir",
         "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 221773,
       "name": "Sin Af\u00e1n de Ofender",
       "url": "https://open.spotify.com/track/4hNkHR6txWI3dIv9bDTYty"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Dejando Huella",
+        "url": "https://open.spotify.com/album/1Z3AtcwaeDnEbeWamC9545"
+      },
+      "artists": [
+        {
+          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
+          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Dejando Huella",
+      "url": "https://open.spotify.com/track/30t4VO3UfXfmXacza0226g"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+        "name": "Quien Diria",
+        "url": "https://open.spotify.com/album/5NWwmuIWkyidQIvUePq3By"
       },
       "artists": [
         {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+          "name": "Los Bisnietos",
+          "url": "https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7"
         }
       ],
-      "duration_ms": 194653,
-      "name": "Pa' No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
+      "duration_ms": 216786,
+      "name": "Quien Diria",
+      "url": "https://open.spotify.com/track/6475jkYbHpgq3tV2yL1jOS"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quien Diria",
-        "url": "https://open.spotify.com/album/5NWwmuIWkyidQIvUePq3By"
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
       },
       "artists": [
         {
-          "name": "Los Bisnietos",
-          "url": "https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7"
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
         }
       ],
-      "duration_ms": 216786,
-      "name": "Quien Diria",
-      "url": "https://open.spotify.com/track/6475jkYbHpgq3tV2yL1jOS"
+      "duration_ms": 194653,
+      "name": "Pa' No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1979,38 +1979,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
-      },
-      "artists": [
-        {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Me Toca Llorar",
-      "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Con la Misma Sangre",
-        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "No Quieren",
-      "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Voy A Calar Con Otra Boca",
         "url": "https://open.spotify.com/album/49WoR58Afq8N0ovC7OlJD9"
       },
@@ -2031,6 +1999,38 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Con la Misma Sangre",
+        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "No Quieren",
+      "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+      },
+      "artists": [
+        {
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Me Toca Llorar",
+      "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Homenaje a Nuestros Viejos",
         "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
       },
@@ -2043,6 +2043,38 @@
       "duration_ms": 187920,
       "name": "Chaparrita de Mi Amor",
       "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Vete Acostumbrando (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "duration_ms": 178259,
+      "name": "Si Te Animas",
+      "url": "https://open.spotify.com/track/74896FSrlV7OkdEZlT0fU6"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "No Te Quedes Con la Duda",
+        "url": "https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+        }
+      ],
+      "duration_ms": 153146,
+      "name": "No Te Quedes Con la Duda",
+      "url": "https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2079,38 +2111,6 @@
       "duration_ms": 215133,
       "name": "Te Descuidaste",
       "url": "https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "No Te Quedes Con la Duda",
-        "url": "https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
-        }
-      ],
-      "duration_ms": 153146,
-      "name": "No Te Quedes Con la Duda",
-      "url": "https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Vete Acostumbrando (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 178259,
-      "name": "Si Te Animas",
-      "url": "https://open.spotify.com/track/74896FSrlV7OkdEZlT0fU6"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Amor Brutal",
-        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Hablando De Dos",
-      "url": "https://open.spotify.com/track/1B6FjfCx9QOIlIT7XEZjpd"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Sigo de Frente",
         "url": "https://open.spotify.com/album/1QQUq5FgJwXYxKGF3UtUJl"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 182160,
       "name": "De Que Sirvio",
       "url": "https://open.spotify.com/track/3GWmH1P8ECiJAl4LsxnoPR"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Hablando De Dos",
+      "url": "https://open.spotify.com/track/1B6FjfCx9QOIlIT7XEZjpd"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Vete Acostumbrando (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 165616,
-      "name": "Amor Puro",
-      "url": "https://open.spotify.com/track/0vm73PVeE1qthY2YyjS0S0"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Sigue Al Frente",
         "url": "https://open.spotify.com/album/6tGZQPLo8mDEiVs1yD5sBr"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 159626,
       "name": "Ya Dime Que Si",
       "url": "https://open.spotify.com/track/5gzB3sL0O440Bo9D9KVLhf"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Vete Acostumbrando (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "duration_ms": 165616,
+      "name": "Amor Puro",
+      "url": "https://open.spotify.com/track/0vm73PVeE1qthY2YyjS0S0"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Y Lo Que Le Sigue",
+        "url": "https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo"
+      },
+      "artists": [
+        {
+          "name": "Norte\u00f1o 4.5",
+          "url": "https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Si T\u00fa Fueras M\u00eda",
+      "url": "https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Que la Quieran",
         "url": "https://open.spotify.com/album/7MmnatJ6aSMaZb36CY5s2Q"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 186090,
       "name": "Que la Quieran",
       "url": "https://open.spotify.com/track/0oLrcolw7yV23WL5ppnMIp"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Y Lo Que Le Sigue",
-        "url": "https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo"
-      },
-      "artists": [
-        {
-          "name": "Norte\u00f1o 4.5",
-          "url": "https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Si T\u00fa Fueras M\u00eda",
-      "url": "https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN"
     },
     {
       "added_at": "2022-01-25 18:24:05",

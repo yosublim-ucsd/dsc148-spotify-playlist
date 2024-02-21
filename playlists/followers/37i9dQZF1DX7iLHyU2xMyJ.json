@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 94960,
+  "2024-02-21": 94980,
   "date_first_scraped": "2022-05-30",
   "description": "From Annakili to Viduthalai - all the essential tracks of Isaignani!",
   "name": "Raaja Rules!",
@@ -2731,6 +2731,28 @@
       "duration_ms": 338240,
       "name": "Germanien Senthan",
       "url": "https://open.spotify.com/track/5KBcL1JLYJpndWnqQMM4jM"
+    },
+    {
+      "album": {
+        "name": "Hits Of Ilaiyaraaja Vol. 1",
+        "url": "https://open.spotify.com/album/1teDuf13uG7jAcLbcwP5MX"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338240,
+      "name": "Germanien Senthan",
+      "url": "https://open.spotify.com/track/6NQoFGii6VtDLeuboSKc0t"
     },
     {
       "album": {
@@ -8065,7 +8087,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 272248,
       "name": "Raasave Unna Nambi",
       "url": "https://open.spotify.com/track/2gjyrtgNkPtlhO3WmyRoyo"

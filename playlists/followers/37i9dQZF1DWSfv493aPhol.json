@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 23983,
+  "2024-02-21": 24014,
   "date_first_scraped": "2023-04-03",
   "description": "Las canciones m\u00e1s escuchadas por la comunidad gamer en Latinoam\u00e9rica.",
   "name": "Gaming Time!",
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
@@ -3869,6 +3869,24 @@
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "album": {
+        "name": "Think U The Shit (Fart) [Versions]",
+        "url": "https://open.spotify.com/album/6nyp8vXcrpPI4QSuG7xbDS"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/1A5MRadR3FEBVwiQY6OKNA"
     },
     {
       "album": {

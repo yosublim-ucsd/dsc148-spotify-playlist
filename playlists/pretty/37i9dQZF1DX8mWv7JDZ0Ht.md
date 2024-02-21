@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Nairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,779 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,783 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 66 | [1000 Contatinhos](https://open.spotify.com/track/5jJMRcf2rPRQufITrQ7aY9) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Erupçando](https://open.spotify.com/album/2KTq5TxqwAkFzVJoeZRwc0) | 2:33 |
 | 67 | [PLENA TERÇA FEIRA](https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Julie Ramos](https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV) | [PLENA TERÇA FEIRA](https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3) | 3:07 |
 | 68 | [Absorvendo Tudo](https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY) | [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [ABSORVENDO TUDO](https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv) | 2:35 |
-| 69 | [Camomila](https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Camomila](https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL) | 2:18 |
-| 70 | [TIME ERRADO](https://open.spotify.com/track/5DDy00scIwk3X0U8GW0ELF) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ) | [TIME ERRADO](https://open.spotify.com/album/1SlbBUg4xtZ4Ap34iP84eE) | 2:13 |
+| 69 | [TIME ERRADO](https://open.spotify.com/track/5DDy00scIwk3X0U8GW0ELF) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ) | [TIME ERRADO](https://open.spotify.com/album/1SlbBUg4xtZ4Ap34iP84eE) | 2:13 |
+| 70 | [Camomila](https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Camomila](https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL) | 2:18 |
 | 71 | [QUANDO CÊ VEM](https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [QUANDO CÊ VEM](https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu) | 2:36 |
 | 72 | [Sintomas de Saudade](https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Sintomas de Saudade](https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt) | 3:14 |
 | 73 | [eu vivo negando o amor](https://open.spotify.com/track/3dUjqZzAvcy7RQGJSDj1fi) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [eu vivo negando o amor](https://open.spotify.com/album/7tDyxAsTnW6ng3Ndh4ldGn) | 2:52 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 84 | [Brincando De Amor](https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH), [Black News](https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb) | [Brincando De Amor](https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf) | 2:35 |
 | 85 | [Tudo Vai Ser Como Deve Ser](https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Tudo Vai Ser Como Deve Ser](https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ) | 2:54 |
 
-Snapshot ID: `MCw1NGRlYmViNTZjMWM2YTRhNjAzYmNmM2UzNzc3NzRkMjBlYzM5OGYz`
+Snapshot ID: `MCw2OTMzODkzYTljZDJjYmU5NzMxN2EzZmFjNWU1OWQ5ZWU3ZTIxZDU4`

@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 973190,
+  "2024-02-21": 973199,
   "date_first_scraped": "2023-03-20",
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ti\u00ebsto, Karol G",
   "name": "Pop con \u00d1",
@@ -6926,6 +6926,28 @@
     },
     {
       "album": {
+        "name": "Te conozco desde siempre",
+        "url": "https://open.spotify.com/album/0VVKagAo5uNYBZP68lVHbW"
+      },
+      "artists": [
+        {
+          "name": "Bombai",
+          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
+        },
+        {
+          "name": "Paula Mattheus",
+          "url": "https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172737,
+      "name": "Te conozco desde siempre",
+      "url": "https://open.spotify.com/track/0mPFXn6ZBitDfpb6X1JiWF"
+    },
+    {
+      "album": {
         "name": "Te echo de -",
         "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
       },
@@ -7697,7 +7719,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 120000,
       "name": "VITALICIO",
       "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"

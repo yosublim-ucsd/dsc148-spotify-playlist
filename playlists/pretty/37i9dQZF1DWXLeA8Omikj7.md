@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,653,451 likes - 150 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,653,595 likes - 150 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 149 | [CTG](https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Iúri Oliveira](https://open.spotify.com/artist/6OUoXZid4ik4nXQ4FuYLPg) | [CTG](https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0) | 3:18 |
 | 150 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
 
-Snapshot ID: `MCw0Y2U3MzcwYmFlZmEzMzhmOGI4YzNlZTE5NzBmNGRlYWNhODlhNTU4`
+Snapshot ID: `MCxhMzQ4ODhjYTMxOTk1MGRjNDZmYTkwZjllM2IzNjhmMTViNjY0NTlj`

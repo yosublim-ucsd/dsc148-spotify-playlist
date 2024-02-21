@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,183 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,582 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Midnight Schemes](https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro) | [K\. Sparks](https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Palm Trees](https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM) | 2:16 |
 | 100 | [Heart Shaped Kisses](https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [Heart Shaped Kisses](https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY) | 2:48 |
 
-Snapshot ID: `MCw1ZTMzY2EwYjM1MDNhNWJjYTQ3NjBmNjM0ZGNhMjk1ZDZlMzAzZDEy`
+Snapshot ID: `MCw5YmE2N2JjNTkyNzNjYTMxOGYyOGFjMzY1ZjcwYmVkYjgyM2QxOGI0`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,388 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,397 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sầu Tím Thiệp Hồng](https://open.spotify.com/track/71ellkgNTMLTxPhIoTplQD) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Sầu Tím Thiệp Hồng](https://open.spotify.com/album/38QhJtxGadPTfPOBxVNPwU) | 4:46 |
 | 2 | [Thành Phố Buồn](https://open.spotify.com/track/61Lqq5mQRyDhaaqs0Rz0Km) | [Lan Anh](https://open.spotify.com/artist/5VhQoey05lkMjriwWxJe0b) | [Thành Phố Buồn](https://open.spotify.com/album/2ZN48rHtm9j3ISWDMgWioy) | 6:05 |
 | 3 | [Mùa xuân đó có em](https://open.spotify.com/track/6Nv1ftXQQxQrgwTgUioXg8) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Mùa Xuân Đó Có Em](https://open.spotify.com/album/11Zy14Xv73QRBRFMykcFz5) | 4:35 |
-| 4 | [Xuân Này Con Không Về](https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuân Đi Lễ Chùa](https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc) | 5:05 |
+| 4 | [Xuân Này Con Không Về](https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS) | [Duy Khánh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuân Đi Lễ Chùa](https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc) | 5:05 |
 | 5 | [Qua cơn mê](https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Phận tơ tằm](https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig) | 4:11 |
 | 6 | [Câu Chuyện Đầu Năm](https://open.spotify.com/track/4GuZ4SLagYyqoAD9jdpWjS) | [Trúc Anh](https://open.spotify.com/artist/2dcasicpv6Bx12Vd2IfqnH) | [Nhạc Xuân Bolero Trữ Tình](https://open.spotify.com/album/2PKdm4KxE5Ajr6HUkdBVZd) | 5:28 |
 | 7 | [Cánh Thiệp Đầu Xuân](https://open.spotify.com/track/3beFADyq1haT57xOWdJ7cp) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Cánh Thiệp Đầu Xuân](https://open.spotify.com/album/67n4hM18Uq3U44IF2hAgk5) | 7:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Đồi Thông Hai Mộ](https://open.spotify.com/track/3LoljxIq6GmMQ4hx2VDz0Q) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Nhà Anh Nhà Em](https://open.spotify.com/album/0FoAmSrGZkXWsAfrBnka5c) | 6:11 |
 | 50 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 |
 
-Snapshot ID: `MCxmY2E5ZDY2YjYxZmM1MDA5MTU2NzY1ZGNkZjU3M2MyZGE3YWY2ZTBj`
+Snapshot ID: `MCxlMDljNGQ5MjM5YzYwMjFkYmZiNjVhMmJkMWQyOTNkYjMzODM1NzJj`

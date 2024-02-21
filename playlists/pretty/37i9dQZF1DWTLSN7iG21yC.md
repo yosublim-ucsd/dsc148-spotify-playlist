@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,306 likes - 150 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,271 likes - 150 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 149 | [Let Me Know](https://open.spotify.com/track/33SgocvhjtPtuXkb3at5Id) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB) | 2:17 |
 | 150 | [Dark Skies](https://open.spotify.com/track/1LdldZb0pYsiAF88CHOSk3) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:14 |
 
-Snapshot ID: `MCw3YjJkNDI3NmZmOGM2NDMxNTMwMDQ0MGVmMTA5NDJiNmVhZTYyNWQz`
+Snapshot ID: `MCxjYzQxYTBkOTgzNTdkYTFhNGRkMDEyNjQxN2FjMTZlNjIwMmViYWEz`

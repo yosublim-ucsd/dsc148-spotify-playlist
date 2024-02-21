@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,031 likes - 80 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,069 likes - 80 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [Sunset on Vallarta](https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Sunset on Vallarta](https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh) | 2:25 |
 | 80 | [lucky monkey](https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [lucky monkey](https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I) | 2:13 |
 
-Snapshot ID: `MCxjMjlmNTVkNzE5Mjg3ODFhYzI4MWQ2MWYwMTczNjA1MTg0YWM3Y2I3`
+Snapshot ID: `MCw0YTRhMDMwM2IxZDE4ZGUyNmQwMjU0M2Y5NmQ2OTZjMmE1OTg1YjA1`

@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Lambrini Girls
 
-239 songs - 11 hr 57 min
+240 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 | 2024-02-16 |  |
 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 | 2022-12-02 | 2023-11-18 |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-12-02 | 2023-11-18 |
-| [Daydrinker](https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Daydrinker](https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY) | 2:45 | 2023-06-20 |  |
+| [Daydrinker](https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Daydrinker](https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY) | 2:45 | 2023-06-20 | 2024-02-21 |
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-20 | 2024-02-15 |
 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 | 2023-03-27 |  |
 | [Deadzone](https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Deadzone](https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0) | 2:50 | 2022-12-02 | 2023-02-03 |
@@ -101,6 +101,7 @@
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-12-02 | 2023-11-18 |
 | [Golden](https://open.spotify.com/track/5tpN5V4gDUc3LQg5xE3m57) | [FRND CRCL](https://open.spotify.com/artist/5y4MciXJL9xyGtvnig6zAB) | [Suburban Dictionary](https://open.spotify.com/album/20iZSpMGZgLQaH2qgSprzE) | 3:17 | 2023-07-05 | 2023-08-24 |
 | [Gonna Get Better](https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Gonna Get Better](https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN) | 3:15 | 2023-11-13 |  |
+| [Got Sold](https://open.spotify.com/track/4wv3g8OBf23VKjKlO0OWsb) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Effigy](https://open.spotify.com/album/3ITJHZF40YUacjdJS01ppt) | 2:28 | 2024-02-16 |  |
 | [Grey Place](https://open.spotify.com/track/7AhZSxZKeut2oxvF5Gqb5X) | [XL LIFE](https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV) | [The Boogie Down South](https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT) | 4:00 | 2023-02-06 | 2023-03-21 |
 | [Groundhog Day](https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Groundhog Day](https://open.spotify.com/album/415iY0uDENvjox5USnF9uC) | 3:37 | 2022-12-02 | 2023-11-18 |
 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 | 2022-12-02 | 2023-11-18 |

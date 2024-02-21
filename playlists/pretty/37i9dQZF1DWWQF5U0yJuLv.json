@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 11884,
+  "num_followers": 11890,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDlmN2EzNmQzMDUxYmQyZGE0MTFlYzhhYmM4N2EyYWVlNmUwYTI3",
+  "snapshot_id": "MCw5MjNmOTVkMTYyY2Y2NGYxODMyNmQ5ZGQ4NzdmNjgzMmU3ZDMxOWY2",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1021,26 +1021,6 @@
       "url": "https://open.spotify.com/track/2owNgQt1ScFjfm7rjFUEuX"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Double Figure",
-        "url": "https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        },
-        {
-          "name": "Benet Walsh",
-          "url": "https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY"
-        }
-      ],
-      "duration_ms": 260972,
-      "name": "Eyen",
-      "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
@@ -1059,6 +1039,26 @@
       "duration_ms": 269987,
       "name": "Treat Em Right - Boards of Canada Remix Instrumental",
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Double Figure",
+        "url": "https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        },
+        {
+          "name": "Benet Walsh",
+          "url": "https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Eyen",
+      "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1199,6 +1183,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1235,6 +1235,22 @@
       "duration_ms": 266526,
       "name": "Good Places",
       "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Continuous Portrait",
+        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
+      },
+      "artists": [
+        {
+          "name": "Inventions",
+          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
+        }
+      ],
+      "duration_ms": 210670,
+      "name": "Outlook for the Future",
+      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1289,6 +1305,38 @@
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Maracuy\u00e1",
+        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
+      },
+      "artists": [
+        {
+          "name": "Hermanito",
+          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Maracuy\u00e1",
+      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
+    },
+    {
+      "added_at": "2023-03-03 04:01:23",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "The Space Lady's Greatest Hits",
@@ -1319,54 +1367,6 @@
       "duration_ms": 237133,
       "name": "Plock",
       "url": "https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Continuous Portrait",
-        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
-      },
-      "artists": [
-        {
-          "name": "Inventions",
-          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
-        }
-      ],
-      "duration_ms": 210670,
-      "name": "Outlook for the Future",
-      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
-    },
-    {
-      "added_at": "2023-03-03 04:01:23",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Maracuy\u00e1",
-        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
-      },
-      "artists": [
-        {
-          "name": "Hermanito",
-          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Maracuy\u00e1",
-      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Drunken Clouds",
+        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 253701,
+      "name": "Drunken Clouds",
+      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Strawberry Moon",
@@ -1473,22 +1489,6 @@
       "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Drunken Clouds",
-        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 253701,
-      "name": "Drunken Clouds",
-      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Green (SFX Version)",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
+      },
+      "artists": [
+        {
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
+        }
+      ],
+      "duration_ms": 263630,
+      "name": "Star City",
+      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Feast / Beast",
         "url": "https://open.spotify.com/album/2bZqfthFHCXrKjoL1jpEE2"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 264573,
       "name": "Ted - Bibio Remix",
       "url": "https://open.spotify.com/track/1LJKALrTelI9M6aic3xtly"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
-      },
-      "artists": [
-        {
-          "name": "Solomon Fesshaye",
-          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
-        }
-      ],
-      "duration_ms": 263630,
-      "name": "Star City",
-      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1605,6 +1605,22 @@
       "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Homescreen Glow",
@@ -1621,20 +1637,20 @@
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+        "name": "Body Riddle",
+        "url": "https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg"
       },
       "artists": [
         {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
         }
       ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+      "duration_ms": 234400,
+      "name": "Herr Bar",
+      "url": "https://open.spotify.com/track/1t86Aqm7uk30h9vVOl5c9h"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1667,22 +1683,6 @@
       "duration_ms": 336000,
       "name": "Amaat One",
       "url": "https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Body Riddle",
-        "url": "https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Herr Bar",
-      "url": "https://open.spotify.com/track/1t86Aqm7uk30h9vVOl5c9h"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1805,22 +1805,6 @@
       "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Cambio Wechsel",
-        "url": "https://open.spotify.com/album/2a5VqPCZr3SFu2aUdQseP2"
-      },
-      "artists": [
-        {
-          "name": "Kelpe",
-          "url": "https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl"
-        }
-      ],
-      "duration_ms": 390986,
-      "name": "After Gold",
-      "url": "https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Put Your Head Above The Parakeets",
@@ -1835,6 +1819,22 @@
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Cambio Wechsel",
+        "url": "https://open.spotify.com/album/2a5VqPCZr3SFu2aUdQseP2"
+      },
+      "artists": [
+        {
+          "name": "Kelpe",
+          "url": "https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl"
+        }
+      ],
+      "duration_ms": 390986,
+      "name": "After Gold",
+      "url": "https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1885,22 +1885,6 @@
       "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Onism",
-        "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
-      },
-      "artists": [
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 276318,
-      "name": "Off-Piste",
-      "url": "https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Naturally Gushing vol.2",
@@ -1915,6 +1899,22 @@
       "duration_ms": 361000,
       "name": "Fine Life",
       "url": "https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Onism",
+        "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
+      },
+      "artists": [
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 276318,
+      "name": "Off-Piste",
+      "url": "https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2053,6 +2053,22 @@
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+    },
+    {
       "added_at": "2023-07-28 21:27:55",
       "album": {
         "name": "Zero to Sixty",
@@ -2073,22 +2089,6 @@
       "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Sculpturegardening",
@@ -2103,6 +2103,26 @@
       "duration_ms": 257862,
       "name": "From The Seams",
       "url": "https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        },
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 164570,
+      "name": "Walter's Jam",
+      "url": "https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2127,26 +2147,6 @@
       "duration_ms": 311533,
       "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        },
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 164570,
-      "name": "Walter's Jam",
-      "url": "https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4"
     },
     {
       "added_at": "2023-02-17 01:10:22",

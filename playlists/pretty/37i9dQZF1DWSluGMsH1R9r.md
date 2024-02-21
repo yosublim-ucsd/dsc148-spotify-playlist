@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,728 likes - 300 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,952 likes - 300 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 299 | [s'effondrer](https://open.spotify.com/track/3e8h3zJiIpod0eksz4QXZ4) | [Liliane Lucy](https://open.spotify.com/artist/1ICOz8tPrLAs5l5hYq12om) | [s'effondrer](https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY) | 3:03 |
 | 300 | [Them](https://open.spotify.com/track/1cXTuVkGdqa3anVZWWDGm0) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 2:02 |
 
-Snapshot ID: `MCw1OTQxYWM0MjQ3YjI0ZDk5NWQ2YjFhN2JjMGZiMDY0NzRmMzY3NGJm`
+Snapshot ID: `MCwwNGViZmE0MDViNzgwYTM2OGIyODIzZWQ1NmVlZGU2MDVhMjc2NDQx`

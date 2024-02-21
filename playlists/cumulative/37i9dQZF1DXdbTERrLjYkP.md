@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Rachel Levin
 
-625 songs - 1 day 9 hr 13 min
+626 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 | 2022-07-23 |
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-04 | 2022-03-12 |
 | [i heart the internet](https://open.spotify.com/track/5NzIkBzG0MFVjpzSsgUhY0) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [i heart the internet](https://open.spotify.com/album/3Bg7PLOLItNpz7OajqkVDk) | 3:15 | 2023-04-28 | 2023-06-17 |
-| [I Know What It Isn't](https://open.spotify.com/track/0AHmkzxAC070F548NHKAM0) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [I Know What It Isn't](https://open.spotify.com/album/0nv0PvvCZ2OrvlUWUxGaj8) | 3:03 | 2023-11-17 |  |
+| [I Know What It Isn't](https://open.spotify.com/track/0AHmkzxAC070F548NHKAM0) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [I Know What It Isn't](https://open.spotify.com/album/0nv0PvvCZ2OrvlUWUxGaj8) | 3:03 | 2023-11-17 | 2024-02-21 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 | 2022-09-10 |
 | [I Love My Birthday](https://open.spotify.com/track/7n7hPWER2dtJovBznJHa8W) | [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [I Love My Birthday](https://open.spotify.com/album/4FT9kjBjX9zpfxtqPCVUxB) | 3:07 | 2022-01-14 | 2022-08-20 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-14 | 2022-04-09 |
@@ -371,6 +371,7 @@
 | [Love of My Life](https://open.spotify.com/track/3swoC2pDa2pQsGFJIvyd4g) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Love of My Life](https://open.spotify.com/album/0coJ1KcqSFSsC1OJM5gQ7C) | 3:52 | 2022-09-09 | 2022-11-13 |
 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 | 2022-01-14 | 2022-02-26 |
 | [Love You More](https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You More](https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac) | 2:49 | 2022-02-25 | 2022-07-02 |
+| [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 | 2024-02-20 |  |
 | [Love's The Worst](https://open.spotify.com/track/6ETjGrxmdsUESckxPGCpKN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Love's The Worst EP](https://open.spotify.com/album/5eeijGABYrckBfojHf6zio) | 2:56 | 2023-10-06 |  |
 | [Lovely Enough](https://open.spotify.com/track/60wz1rhDNtKo8RjNB6GxbR) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Lovely Enough](https://open.spotify.com/album/5PAfZ5O815kDOBwpnkuNJE) | 3:28 | 2023-03-31 | 2023-06-13 |
 | [Lows & Highs](https://open.spotify.com/track/10s2OqqwGxHcSXKX8vmJUD) | [Mads Paige](https://open.spotify.com/artist/6P0cx3UK8CnP3No3YgEld3) | [Lows & Highs](https://open.spotify.com/album/7k6ffTtKIlWAJYxYhC54p4) | 4:13 | 2022-12-23 | 2023-04-09 |

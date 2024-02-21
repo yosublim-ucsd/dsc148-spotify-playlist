@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/6lLbk4fLDbI5WYf4dLLKQt"
@@ -4385,6 +4385,28 @@
     },
     {
       "album": {
+        "name": "Softer Than You Know",
+        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
+      },
+      "artists": [
+        {
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
+        },
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208013,
+      "name": "Softer Than You Know",
+      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
+    },
+    {
+      "album": {
         "name": "Some Day",
         "url": "https://open.spotify.com/album/6Vx5ZUPBLPwmTTTNum05Uh"
       },
@@ -4414,7 +4436,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 229965,
       "name": "Some Day",
       "url": "https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9"
@@ -4752,7 +4774,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 240009,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"

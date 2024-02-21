@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Maddix
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,990 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,270 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [Let Me Be Your Fantasy](https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Let Me Be Your Fantasy](https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV) | 2:56 |
 | 80 | [Cannonball \- Will Sparks Remix](https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Cannonball \(Will Sparks Remix\)](https://open.spotify.com/album/5zaayiAD6wljfJTYmS33A8) | 4:03 |
 
-Snapshot ID: `MCxjOTFmZGVmYzRlYWE1MDlkZTAyYTYxMTNkZGFiN2JkODhhZDBlNTdi`
+Snapshot ID: `MCw0ZGM5ODc3ZWY0MzRlYzg0YmM2YjAzNTQ0MzllOWM1YWE1ZTIwYzgz`

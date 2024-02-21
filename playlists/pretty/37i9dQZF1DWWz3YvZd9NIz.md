@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,376 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,572 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp) | 2:56 |
 | 70 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
 
-Snapshot ID: `MCxhNmJhM2E1ZWE1NWI3Y2VkYTRmMDBmYzhjMDdkOGMyNjhhOTMzY2Rk`
+Snapshot ID: `MCwyYTNiZDcwMDdkMzkxMjIzYjE3ZjNkMTM4YzRlNWMzM2I0Zjg4OWYz`

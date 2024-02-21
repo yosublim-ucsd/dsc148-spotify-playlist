@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,130 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,131 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 47 | [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 |
 | 48 | [Nanna Ee Manasali](https://open.spotify.com/track/7FKBFLE1z4vmRt3hboeNVo) | [Shravan Acharya](https://open.spotify.com/artist/6aQfYQu6gpW8wggY7ycFWi) | [Nanna Ee Manasali](https://open.spotify.com/album/21ZjwUTDjh9XlbOZUWH73R) | 3:59 |
 | 49 | [Bad](https://open.spotify.com/track/2eQtJWV3pQac41v6L6PQo2) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Bad](https://open.spotify.com/album/2x1naxHI21CUc4UhacSO88) | 2:51 |
-| 50 | [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 |
+| 50 | [Parashuram](https://open.spotify.com/track/3I7elSzdAYqPovLgNe5V6D) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/5ZdIgrGncQ7ojJCgfZ4YiN) | 4:09 |
 | 51 | [Nee Nanna Kavithe](https://open.spotify.com/track/5F8gPMjRT1zjpaIlyjSBNw) | [Kiran Manjunath](https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz), [Shreesh Gombi](https://open.spotify.com/artist/4hhkVfPFH7QhsFj1PpMypP) | [Nee Nanna Kavithe](https://open.spotify.com/album/3Jml0aCC8w631pREfwGKe5) | 3:30 |
 | 52 | [Kannada Balso](https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG) | [Vibe Guru](https://open.spotify.com/artist/7bd8H4hvMWUY8v6I54DCvi) | [Kannada Balso](https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO) | 2:46 |
 | 53 | [Meghave](https://open.spotify.com/track/2ht1eT798Q3WvZqkanpdEN) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Aditi Prahalad](https://open.spotify.com/artist/2WQSmxEh1TrVQA9RXSgp6a), [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Mitra Hegde](https://open.spotify.com/artist/3boqeGhnLs24Kw3k7wybcN) | [Meghave](https://open.spotify.com/album/7m9qZKWRJ8SiwtSQg6R33E) | 3:29 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 73 | [FLYHIGH](https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl) | 3:55 |
 | 74 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 |
 
-Snapshot ID: `MCw3Njg3YWFjZmZhN2E0ZmEyYjFjNDJmZDk5ZDlkMDlhZDZlODdmZmU4`
+Snapshot ID: `MCw3NGUxMWUxNWFjODQyZDJhNjNiOTgyMzAyYjAwNDdjZTk1ZGZiZjky`

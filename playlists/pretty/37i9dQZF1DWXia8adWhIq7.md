@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,842 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,903 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 56 | [Não É Só um Rolê](https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo) | [Gabriel Vilhena](https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc), [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Não É Só um Rolê](https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc) | 4:09 |
 | 57 | [Tudo Novo \- Acústico](https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Tudo Novo \(Acústico\)](https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk) | 2:59 |
 | 58 | [Além do Que Se Vê](https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ) | [Além do Que Se Vê](https://open.spotify.com/album/7eBr2Gk1ELbv9nBX1qNaU2) | 3:54 |
-| 59 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
-| 60 | [A Melhor História](https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr) | [Coral Teen Cap](https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [A Melhor História](https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b) | 3:50 |
+| 59 | [A Melhor História](https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr) | [Coral Teen Cap](https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [A Melhor História](https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b) | 3:50 |
+| 60 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
 | 61 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
 | 62 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
 | 63 | [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [A Casa Caiu](https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Ele e Nóiz](https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv) | 2:52 |
 | 85 | [Mostra\-Me Tua Glória](https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Mostra\-Me Tua Glória](https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK) | 3:50 |
 
-Snapshot ID: `MCxmZDBmYTY5Yzc4NGU1NjAxYWM3MzEwZWU0ZTAxMmIyNTllZTAzMzY4`
+Snapshot ID: `MCwzNWVlM2E0NWIyYjc5ZDRiMDExNGI2MTExNTBlMmU2YzYxZjJmOGUw`

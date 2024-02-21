@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-122 songs - 7 hr 9 min
+124 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,12 +45,14 @@
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-03-24 | 2023-11-09 |
 | [Erotica](https://open.spotify.com/track/7tVRemm7dzzf2m1AfWqiKZ) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Erotica](https://open.spotify.com/album/7HDr5VKcImOdCCENS9WatP) | 2:55 | 2023-11-08 |  |
 | [Excalibur](https://open.spotify.com/track/0URVvPEQafAqfYVBVoWyI0) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Excalibur](https://open.spotify.com/album/0l9LvoGnkAS5xe1KjLT7SU) | 3:08 | 2023-06-07 | 2023-11-09 |
+| [Feel It](https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feel It](https://open.spotify.com/album/5kGOAASVomzriytdsAT08e) | 2:53 | 2024-02-20 |  |
 | [Feel This Way](https://open.spotify.com/track/2s9fS0BJCjluUwZqYljM7R) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Yianna](https://open.spotify.com/artist/051lz9ZMNShdpFP1uQtd9m) | [Feel This Way](https://open.spotify.com/album/196fDVj2YoME2w9185WRNb) | 3:27 | 2023-08-28 | 2023-11-09 |
 | [Feel Ur Touch](https://open.spotify.com/track/2AyS9W5k9vsU6FHHNACWd8) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:21 | 2024-01-26 |  |
 | [Fingertips](https://open.spotify.com/track/6dEGKWFnL2qGzdmS17jSUF) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Sky M.](https://open.spotify.com/artist/0jf2HjwY0PCybGRjkz0qXS) | [Paradise](https://open.spotify.com/album/1Bmtl3EGSjm4ymczWv88PX) | 3:17 | 2023-11-08 |  |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-10 |  |
 | [Flow](https://open.spotify.com/track/1jiPHdx1jxAHxkdWVrmIMY) | [Audioscribe](https://open.spotify.com/artist/1zCwEEtlGUmFFAEvQ9jW6D) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:24 | 2024-01-26 | 2024-02-10 |
 | [Forest Catcher](https://open.spotify.com/track/7yRMwQAGpzLnAUEY6BAATi) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [Forest Catcher](https://open.spotify.com/album/4eYDVMTk2bvJljV85IyODK) | 4:13 | 2023-10-06 |  |
+| [Freak Da Funk](https://open.spotify.com/track/4jUgAf3OoD7TwUyaeSjIaY) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn) | [NOTE KEEPERS AA](https://open.spotify.com/album/6aB9UGE5JOmzBD28s4yfvy) | 4:01 | 2024-02-20 |  |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-26 | 2023-11-09 |
 | [GLITCH](https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [GLITCH](https://open.spotify.com/album/50G2j1uk3yF53mzZjxDeJC) | 3:56 | 2023-11-08 |  |
 | [Gunshot](https://open.spotify.com/track/35umPDaraumKhonFf5uWSF) | [AstroLizard](https://open.spotify.com/artist/3esoQnfDY6M4rgOtkq24Wm) | [Out Of This World](https://open.spotify.com/album/4FnfqAXSPyomOOk6sn5Y4f) | 3:21 | 2024-01-12 |  |

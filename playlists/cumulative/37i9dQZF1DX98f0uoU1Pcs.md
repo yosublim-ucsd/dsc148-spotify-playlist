@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Dehd
 
-624 songs - 1 day 10 hr 16 min
+625 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-05 | 2022-09-20 |
 | [Garbage People](https://open.spotify.com/track/3l0K7EhHhTRTCaaZoBzM43) | [Wimps](https://open.spotify.com/artist/6eNVMKPPp3KDkErLErP98E) | [Garbage People](https://open.spotify.com/album/58WgYLrPjz02XrWj4JXLEf) | 2:17 | 2021-10-07 | 2022-01-26 |
 | [Gettin' In The Way](https://open.spotify.com/track/1roUIc6mekrsZXcTveHhBe) | [Cooper T](https://open.spotify.com/artist/7t6usUnb0OZ2r0pi3nvdmB) | [Gettin' In The Way](https://open.spotify.com/album/3DOtxFD10eo8rhwGyvKjDC) | 3:38 | 2023-02-10 | 2023-07-01 |
+| [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-02-20 |  |
 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-01-19 |  |
 | [Gimme A Call](https://open.spotify.com/track/0TKWSyue1lOfrSPHcFrPKf) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Tom](https://open.spotify.com/album/574vghWwriC6gXna4Hq6bE) | 3:46 | 2022-04-29 | 2023-04-09 |
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2022-04-01 | 2023-04-15 |
@@ -588,7 +589,7 @@
 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 | 2022-06-10 | 2022-07-09 |
 | [True Believers](https://open.spotify.com/track/1Ce3Wqbu4ow4hAphHyb9Rt) | [L.A\. WITCH](https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C) | [True Believers](https://open.spotify.com/album/7t2YX6caga5lPiOXha3gMy) | 2:01 | 2021-10-07 | 2022-03-26 |
 | [Try Try Try](https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:51 | 2022-04-01 | 2022-08-17 |
-| [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 | 2023-10-16 |  |
+| [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 | 2023-10-16 | 2024-02-21 |
 | [Tuff Luck](https://open.spotify.com/track/1otWE0vpz7LDL0TH9qUMYx) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Tuff Luck](https://open.spotify.com/album/0EZ2P9Jnb1EyqL2EE3WSL9) | 2:15 | 2023-04-07 |  |
 | [Tuning In](https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Tuning In](https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y) | 1:55 | 2022-12-09 | 2023-03-11 |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-10-22 | 2022-09-24 |

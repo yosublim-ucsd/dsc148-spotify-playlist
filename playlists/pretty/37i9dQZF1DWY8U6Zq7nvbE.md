@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,698 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,712 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [HURTFUL](https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [HURTFUL](https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8) | 2:26 |
 | 100 | [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 |
 
-Snapshot ID: `MCxlZDQ2OWUzMDNmYmJkZjc2ZmU2NDdlMDY4OGM5ZTQ3NTQ5OTk4Y2Ni`
+Snapshot ID: `MCxjNTZlMjczNmQ1Y2I1ZjY5YmQ3Y2QzZWU3NjlhODczYjA2ZGQyODU3`

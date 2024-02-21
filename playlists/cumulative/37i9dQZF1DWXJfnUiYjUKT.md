@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Karol G & Tiësto
 
-10,955 songs - 24 day 0 hr 48 min
+10,956 songs - 24 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2862,7 +2862,8 @@
 | [Elevator Hum](https://open.spotify.com/track/3MPLwP2T5FQ2vtJiDvn79Q) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Elevator Hum](https://open.spotify.com/album/6fenEkY5qHSMxWKRpObBrb) | 3:55 | 2023-12-01 | 2023-12-09 |
 | [Elk Grove](https://open.spotify.com/track/0AhiwX5iV3gd8IvUUQ4TYQ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Elk Grove](https://open.spotify.com/album/6bSWCDheGUZVfCSKZw4F8I) | 3:35 | 2023-03-17 | 2023-03-25 |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-03 | 2022-03-11 |
-| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 |  |
+| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 | 2024-02-21 |
+| [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 | 2024-02-16 |  |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-05-26 | 2023-06-03 |
 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 | 2022-02-18 | 2022-02-25 |
 | [Email](https://open.spotify.com/track/1LYhf2viBn1zBtwVVJkOhR) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [might.bail](https://open.spotify.com/album/1yILUjt9D5hNNmktCqR3rU) | 4:05 | 2022-08-12 | 2022-08-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 402812,
+  "num_followers": 402830,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjIxMzRjNDY3NzJhYTA1N2IyZmE2OGY4NDIzYjY5YWY4ZmUxODg2",
+  "snapshot_id": "MCxiOGEzYWM3YWVjNmZiMmYxNWZlZDdkM2I5YjZiNTNlYmE3MmVmZDMz",
   "tracks": [
     {
       "added_at": "2023-11-10 18:23:57",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2023-11-10 18:23:57",
-      "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
+    },
+    {
+      "added_at": "2023-11-10 18:23:57",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
     },
     {
       "added_at": "2023-11-10 18:23:57",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/4pY85K7zPSZxlm1uXkrxRF"
+    },
+    {
+      "added_at": "2023-11-10 18:23:57",
+      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
-    },
-    {
-      "added_at": "2023-11-10 18:23:57",
-      "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/4pY85K7zPSZxlm1uXkrxRF"
     },
     {
       "added_at": "2023-11-10 18:23:57",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "Dominando y Controlando",
-        "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "El baile del gavil\u00e1n",
-      "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
-    },
-    {
-      "added_at": "2023-11-10 18:23:57",
-      "album": {
         "name": "Ratle Cha Cha",
         "url": "https://open.spotify.com/album/1hGReQpgvKz0fAJ8PN1vdw"
       },
@@ -2223,18 +2207,34 @@
     {
       "added_at": "2023-11-10 18:23:57",
       "album": {
-        "name": "Reggaeton Hall of Fame, Vol. 1",
-        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
+        "name": "Dominando y Controlando",
+        "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
       },
       "artists": [
         {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
         }
       ],
-      "duration_ms": 157701,
-      "name": "Agarrala",
-      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
+      "duration_ms": 242586,
+      "name": "El baile del gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
+    },
+    {
+      "added_at": "2023-11-10 18:23:57",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/3p21ve9Pt5hSPIZyR0371G"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/13mJJQG0dCvVcunQ4sVFjr"
     }
   ],
   "unique_name": "Fiesta de Barrio",

@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: anaïs
 
-1,306 songs - 2 day 19 hr 50 min
+1,307 songs - 2 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,8 @@
 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 | 2024-02-06 |  |
 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 | 2024-02-06 |  |
 | [Gallery Dept](https://open.spotify.com/track/1yfo1GAi5eQgsv0En0kbwE) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Gallery Dept](https://open.spotify.com/album/7HxfhtYGfk6Gtr74ccp6f2) | 2:16 | 2023-08-01 | 2024-01-10 |
-| [Gangster tanzen nicht](https://open.spotify.com/track/60jHbQpCA3AUi0iAj5HzSt) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Gangster tanzen nicht](https://open.spotify.com/album/1LbrdIsJZmHmxeIQokCR6C) | 2:36 | 2024-02-06 |  |
+| [Gangster tanzen nicht](https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [AMY WINEHOUZE](https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n) | 2:36 | 2024-02-14 |  |
+| [Gangster tanzen nicht](https://open.spotify.com/track/60jHbQpCA3AUi0iAj5HzSt) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Gangster tanzen nicht](https://open.spotify.com/album/1LbrdIsJZmHmxeIQokCR6C) | 2:36 | 2024-02-06 | 2024-02-21 |
 | [Ganze Nacht](https://open.spotify.com/track/362iCxNSaMnqiajLOytxOP) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [Ganze Nacht](https://open.spotify.com/album/2tQzsN70XUFGxk4ZdXavW2) | 3:12 | 2021-12-21 | 2022-01-05 |
 | [Garden Door](https://open.spotify.com/track/14ODk2zkl3L8BPEi7hHdhS) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Garden Door](https://open.spotify.com/album/6JiGziPrnEGosIKunjGJ1T) | 3:57 | 2023-09-05 | 2023-10-04 |
 | [GASOLINA](https://open.spotify.com/track/7zC2vyrgGRvQeFho4sEfyL) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [GASOLINA](https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9) | 2:14 | 2022-11-07 | 2022-12-01 |

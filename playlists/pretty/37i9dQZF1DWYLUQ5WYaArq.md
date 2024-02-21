@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > sad songs for the broken hearted..\. you're not alone
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,693 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,678 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [\(There's Gotta Be\) More To Life](https://open.spotify.com/track/2x5qF66rFO6DERBMNkQAqn) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 3:20 |
 | 50 | [I Bruise Easily](https://open.spotify.com/track/7AYZesFgO8XEXRVUhWo7zu) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:13 |
 
-Snapshot ID: `MCw2Y2U2NjdjZWEzNDA3M2Q2YmI3YTU1YzBlY2E1N2NhMGZiYzE2ZTgy`
+Snapshot ID: `MCw2OWMzYzViZmMzYjU1OWQ1YmExZjIwMjJlN2QyODZlNWRjNjkwOTRh`

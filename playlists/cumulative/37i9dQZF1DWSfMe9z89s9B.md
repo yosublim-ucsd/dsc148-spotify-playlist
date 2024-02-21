@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: serpentwithfeet
 
-1,091 songs - 2 day 10 hr 2 min
+1,092 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,8 @@
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-03 | 2022-10-08 |
 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 | 2021-06-04 | 2022-09-05 |
 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 | 2022-05-20 | 2022-06-14 |
-| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 |  |
+| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 | 2024-02-21 |
+| [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 | 2024-02-16 |  |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-05-26 | 2023-07-01 |
 | [EN ROUTE](https://open.spotify.com/track/3iHtZFKpQ0fChtvIzCTZqt) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [HADJA BANGOURA](https://open.spotify.com/album/4pg5SeMbmioO8Nxl2pnveF) | 2:05 | 2022-11-04 | 2022-12-24 |
 | [END OF DAYS](https://open.spotify.com/track/5L0kF2G7PX0pdRSd278n1g) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [SUNSPOTS](https://open.spotify.com/album/3xEmCstoaxO1p2FmjaIUv7) | 3:05 | 2022-10-07 | 2022-10-13 |

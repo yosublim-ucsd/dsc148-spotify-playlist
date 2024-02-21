@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:0liXA3xwx6pncxYQA30ahT">Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,293 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,393 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [This Year Affirmation](https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [This Year Affirmation](https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh) | 2:00 |
 | 100 | [Attention](https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [ATTENTION](https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG) | 3:23 |
 
-Snapshot ID: `MCw5MjZlODY0NWRmY2MwODdmOGNiMTU5YTFhMzczMmIxZmY2NGUzYWUw`
+Snapshot ID: `MCxjODg3NDFhNWU3NzhiOTM3Zjk3ZTVlYWFhZDFmNzZmNTNkNzFhN2E2`

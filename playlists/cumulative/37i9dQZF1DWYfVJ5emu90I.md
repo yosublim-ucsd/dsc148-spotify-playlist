@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-109 songs - 5 hr 14 min
+110 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Run It Back](https://open.spotify.com/track/1eWlti11pK0nmijVe4kxMG) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG) | [3rd High "Resuscitation" \(mixed by DJ BULLSET\)](https://open.spotify.com/album/67iANbB3iesGmIAlUe79qf) | 3:32 | 2023-01-13 | 2023-06-22 |
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-02-13 |  |
 | [Selfish](https://open.spotify.com/track/1hwqsjPVA3p4KZ09yTglg6) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/2qyP7Wson4vojQNDQqzXD7) | 3:44 | 2022-11-19 |  |
-| [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 | 2022-11-19 |  |
+| [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 | 2022-11-19 | 2024-02-21 |
 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 | 2022-11-19 | 2023-09-27 |
 | [Speedy Freeky](https://open.spotify.com/track/4E2hL0dlVvubXr3T9UbXLb) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Speedy Freeky](https://open.spotify.com/album/4gKphxVmdCNTp17WluW9ZO) | 2:55 | 2023-06-21 | 2023-08-25 |
 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 | 2022-11-19 |  |
@@ -110,6 +110,7 @@
 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 | 2023-06-21 |  |
 | [Unknown](https://open.spotify.com/track/2RlKUJEsr5AuYWsYRpNkEm) | [CC](https://open.spotify.com/artist/0WX1YKSwScnWDRAzleAkRZ), [Wisteror](https://open.spotify.com/artist/2q1j0ftQGCJzwsnFCh6LOV) | [Unknown](https://open.spotify.com/album/7aIa7HAKMEA7uq0Y33MV7D) | 1:48 | 2022-12-22 | 2023-05-24 |
 | [UNSHAKABLE \- DRIFT](https://open.spotify.com/track/7xWTPOJKvYPpS1w0mqRFQ2) | [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU) | [UNSHAKABLE \(DRIFT\)](https://open.spotify.com/album/3DMtemZpCuCt4VQmGeNJvC) | 2:31 | 2022-11-19 |  |
+| [Up It](https://open.spotify.com/track/2QLyZoSwDp8Rt7FwlsM37H) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LIL FOGGY](https://open.spotify.com/artist/2RixT7fx1LpjZXHxTCOTLy) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/71wSyAlJPLhRy8AIqhvNvi) | 2:00 | 2024-02-20 |  |
 | [Wakarimasen](https://open.spotify.com/track/4iGm4d3GHUXHabeTuwxSCW) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Wakarimasen](https://open.spotify.com/album/5yDWfCsK4ezG9DIn1v50KX) | 3:17 | 2022-11-19 |  |
 | [WAR](https://open.spotify.com/track/6oVlyC84w0IvHWuPg6SJZM) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [WAR](https://open.spotify.com/album/5BWTz9IMuwdDMmZvFTM7gu) | 2:12 | 2022-11-19 | 2023-05-24 |
 | [Welcome to Nokey](https://open.spotify.com/track/2fyOsf65B62tZsuUcKjXfm) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [TARONINJA](https://open.spotify.com/artist/3Uxfkj88nsQVzQCPRfgt4V) | [Mine](https://open.spotify.com/album/66CgJ3JfOsSFzApT2YPf7a) | 3:13 | 2022-11-19 | 2023-05-24 |

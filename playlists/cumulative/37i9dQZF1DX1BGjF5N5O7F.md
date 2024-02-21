@@ -4,7 +4,7 @@
 
 > sensual roots & indie folk.
 
-128 songs - 8 hr 27 min
+129 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Making Love on the Mountain \- Sexy Mix](https://open.spotify.com/track/7aFHFN6cvjgKEUGF1SMA8I) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. I](https://open.spotify.com/album/08u46C6UbLfQYhk1lMWmkf) | 3:58 | 2021-03-19 | 2024-01-04 |
 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 | 2021-03-19 | 2024-01-01 |
 | [Middle of the Bed](https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:11 | 2021-03-19 | 2022-11-14 |
+| [Mood Swings](https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I) | 3:25 | 2024-02-09 |  |
 | [Mood Swings](https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/4vrG1J4J6h0Sfmq0YdUWUd) | 3:25 | 2024-02-09 | 2024-02-17 |
 | [Move Together](https://open.spotify.com/track/35Mtg0PFHzDa4weGC4zVok) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Move Together](https://open.spotify.com/album/0sN8m62qTtLAdVRa5YpYDH) | 4:43 | 2021-03-19 | 2022-07-29 |
 | [Move Together \- The Dark Of The Morning Version](https://open.spotify.com/track/3K2YwQn30cfQBWM39XcrXV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm \(Deluxe Edition\)](https://open.spotify.com/album/1wKwGLPJl68zYLaA0Od0vc) | 4:45 | 2021-03-19 | 2023-01-28 |
@@ -118,7 +119,7 @@
 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 | 2024-01-19 |  |
 | [Too Repressed \- Explicit](https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx) | [Sometymes Why](https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU) | [Sometimes Why](https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q) | 5:57 | 2021-03-19 | 2023-01-28 |
 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 | 2021-03-19 | 2023-08-30 |
-| [TRUE](https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v) | 3:06 | 2021-03-19 |  |
+| [TRUE](https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v) | 3:06 | 2021-03-19 | 2024-02-21 |
 | [TRUE](https://open.spotify.com/track/7xKw53dwg7KWWwrF5Cm8gt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2QF8p6fZZoSJArprSJvTPN) | 3:06 | 2021-03-19 | 2022-07-29 |
 | [Uncuff Me](https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ) | [Nikolaj Grandjean](https://open.spotify.com/artist/1ggbWttqLqXwrJTtYMtna9) | [Carrying Stars \(Bonus Version\)](https://open.spotify.com/album/7w1hkVKmKxc01FyHDWnMre) | 3:46 | 2021-03-19 | 2022-11-13 |
 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-06-30 | 2023-08-21 |

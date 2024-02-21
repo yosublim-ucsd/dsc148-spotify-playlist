@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M1RktxUUHG.md) - [plain]
 
 > The biggest songs of the 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,004 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,651 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M1RktxUUHG.md) - [plain]
 | 149 | [Waffle House](https://open.spotify.com/track/4inPxqHrj9VmjLx5JCDCV4) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:25 |
 | 150 | [Remember \(with David Guetta\)](https://open.spotify.com/track/6feiJqgHqeSvkGUzf11AYs) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:41 |
 
-Snapshot ID: `MCwzOTBmNWI0Nzk0MDU2ZTdjNzMxOGY0YjQxNmUzMTA1YmFlMGMwMWEx`
+Snapshot ID: `MCxkYTk2NzhlYWI4MjBiY2M1NTBiODdhYjAzZDcyZGJjNmQwMTk4YjU5`

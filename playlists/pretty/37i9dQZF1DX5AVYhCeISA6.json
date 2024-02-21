@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran \u2728 Cover: KAROL G",
-  "num_followers": 635689,
+  "num_followers": 635685,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2NhZjBkNDYwNWQ1NmQ1ZTEwMTM4NjJkNjU5YTA1YTgzZmZhMjcx",
+  "snapshot_id": "MCw3Mzg5ZjRlZDkxMjVkNzc5MGRkZGRjYjUxYWIzNDkzNGU3MDgxMzM3",
   "tracks": [
     {
       "added_at": "2024-01-12 15:44:26",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-01-12 15:44:26",
       "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+    },
+    {
+      "added_at": "2024-01-12 15:44:26",
+      "album": {
         "name": "Bota Ni\u00f1a",
         "url": "https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 209693,
       "name": "Bota Ni\u00f1a",
       "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
-    },
-    {
-      "added_at": "2024-01-12 15:44:26",
-      "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
     },
     {
       "added_at": "2024-01-12 15:44:26",

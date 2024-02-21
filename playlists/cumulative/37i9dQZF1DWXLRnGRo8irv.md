@@ -4,7 +4,7 @@
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: \(G\)I\-DLE\)
 
-1,065 songs - 2 day 13 hr 21 min
+1,067 songs - 2 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Daydreaming](https://open.spotify.com/track/3b6dZemExfXk9Z69Feto18) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/73lmR1Fx6yF8KdtCRfr6a0) | 3:16 | 2023-04-04 | 2023-04-24 |
 | [Daydreaming](https://open.spotify.com/track/4sMaKBeqInpDVaGZCQHNl4) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/2Xff5qFOIixfs1RyPlM43V) | 3:16 | 2023-04-04 | 2023-04-21 |
 | [Daydreaming](https://open.spotify.com/track/143uhMdnt6VRpHwDKSp4Ks) | [Ryu Sujeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 3:16 | 2023-04-04 | 2024-02-07 |
-| [Daydreaming](https://open.spotify.com/track/4W80wY6lOgQaF87Lgkge4P) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Captivating the King, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0PlncTm32bsU9Q8NnuLUL5) | 3:19 | 2024-02-06 |  |
+| [Daydreaming](https://open.spotify.com/track/4W80wY6lOgQaF87Lgkge4P) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Captivating the King, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0PlncTm32bsU9Q8NnuLUL5) | 3:19 | 2024-02-06 | 2024-02-21 |
 | [Dead Man Runnin’](https://open.spotify.com/track/5eFGkCXi83auDi0bcDBEKD) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:19 | 2022-10-04 | 2022-11-11 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-11-10 | 2022-12-01 |
 | [dear tomorrow](https://open.spotify.com/track/1XpmXuiviEbGEK0tWPh26j) | [Wyne](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [dear tomorrow](https://open.spotify.com/album/4CxHKxvooeHnoItNaWqF8o) | 2:36 | 2022-03-07 | 2022-04-06 |
@@ -284,7 +284,7 @@
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-05-02 | 2023-06-07 |
 | [Fall](https://open.spotify.com/track/5rlLYG2PLe7hYhN3O5zP4y) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Fall](https://open.spotify.com/album/7xguxBGA7Zn3frSMrowLtL) | 2:54 | 2021-12-08 | 2022-01-05 |
 | [Fallin](https://open.spotify.com/track/1CPBoUBdODXm5KxKBndVLg) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM), [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [Emotions](https://open.spotify.com/album/65eCg0hcp4tYPApfaYvL1B) | 2:23 | 2023-06-06 | 2023-07-05 |
-| [Falling in Love is like the Spring Rain, Parting is like the Winter Rain](https://open.spotify.com/track/3ruIFwC4ZPInwM4e5CjsIy) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Falling in Love is like the Spring Rain, Parting is like the Winter Rain](https://open.spotify.com/album/4SmZATHF72c12OFmONqnw0) | 4:31 | 2023-05-02 |  |
+| [Falling in Love is like the Spring Rain, Parting is like the Winter Rain](https://open.spotify.com/track/3ruIFwC4ZPInwM4e5CjsIy) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Falling in Love is like the Spring Rain, Parting is like the Winter Rain](https://open.spotify.com/album/4SmZATHF72c12OFmONqnw0) | 4:31 | 2023-05-02 | 2024-02-21 |
 | [Fantasy](https://open.spotify.com/track/0MKLLzIKHhCoJBuaRccLOn) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [BODY](https://open.spotify.com/album/4OX4JGUfuQXBm1lG2YNBeU) | 2:47 | 2022-01-04 | 2022-02-02 |
 | [Far Away](https://open.spotify.com/track/2cfjq8saHZ3wYOpvKAmos5) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Far Away](https://open.spotify.com/album/0Jiky9Pnla5czvw7JqeOG3) | 4:24 | 2021-12-08 | 2022-01-05 |
 | [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 | 2023-07-04 | 2023-08-04 |
@@ -373,6 +373,7 @@
 | [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 | 2023-02-28 | 2023-04-05 |
 | [Hold me …](https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [The Crush Of Spring OST Part.3](https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji) | 3:44 | 2022-05-31 | 2022-08-03 |
 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 | 2023-05-02 | 2023-05-10 |
+| [Holssi](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:10 | 2024-02-20 |  |
 | [Honest](https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 | 2021-12-08 | 2022-01-05 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-04-05 | 2022-05-05 |
 | [Honey Tea](https://open.spotify.com/track/4H7u20alxuJTXEhPdYECbE) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Honey Tea](https://open.spotify.com/album/4vWJjTl7oF8HzP87GMnmyI) | 3:55 | 2023-07-04 | 2023-08-04 |
@@ -769,6 +770,7 @@
 | [Shining Bright](https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [DELIGHT](https://open.spotify.com/album/7aTLF46tlKvNePZyUIf4e6) | 3:28 | 2023-04-04 | 2024-02-07 |
 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 | 2022-09-06 | 2022-10-05 |
 | [Shiny World](https://open.spotify.com/track/2xc3MkZuDlnfFAWJkOKk2S) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [BASTIONS OST Part.3](https://open.spotify.com/album/7EWXDHXm75gdkpdNtMoBsZ) | 3:08 | 2023-06-06 | 2023-07-05 |
+| [Shopper](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:35 | 2024-02-20 |  |
 | [SHUT DOWN](https://open.spotify.com/track/55nWobiFbQcUSXSP0ZjkfN) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [CLASS IS OVER](https://open.spotify.com/album/0mToIKyUNLglEM7VXqdCt8) | 3:26 | 2022-10-04 | 2022-11-11 |
 | [Shut ur MOUTH](https://open.spotify.com/track/6aQu4FxBiugMq6Gg59XDzI) | [GILME](https://open.spotify.com/artist/1EJ4Vegw2TlS0spCSm0Jm6) | [2 Face](https://open.spotify.com/album/4487kSJNMxWO2u5LNhHLN5) | 2:04 | 2023-10-04 | 2023-11-30 |
 | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:21 | 2022-02-01 | 2022-05-05 |

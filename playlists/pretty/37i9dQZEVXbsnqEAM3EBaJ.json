@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0Njc1NDAsMDAwMDAwMDA5OTY5ZDdkOWM0YjJlODUxMDZhY2E0ZDQ1NDRhN2FkNw==",
+  "snapshot_id": "Mjg0Njc1NDAsMDAwMDAwMDA0ZDc3ZDZjYjg1ZjU3ZWUxOTkxMWU3NjM2Mjg1ZDFmNw==",
   "tracks": [
     {
       "added_at": "2024-02-16 03:00:00",
@@ -87,22 +87,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Ready to Know",
-        "url": "https://open.spotify.com/album/36FkCzpr2BYpfExGEwJ0Iz"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        }
-      ],
-      "duration_ms": 137307,
-      "name": "Ready to Know",
-      "url": "https://open.spotify.com/track/3QMWJClACuYVxBNSWce6x0"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Carry You",
         "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
       },
@@ -131,6 +115,26 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Nu King",
+        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 154376,
+      "name": "Spicy Margarita",
+      "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Beautiful Drug (feat. Avicii) [Remix]",
         "url": "https://open.spotify.com/album/1Svj8dxhfgppS9tU8xnvWo"
       },
@@ -151,22 +155,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Nu King",
-        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
+        "name": "Ready to Know",
+        "url": "https://open.spotify.com/album/36FkCzpr2BYpfExGEwJ0Iz"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
         }
       ],
-      "duration_ms": 154376,
-      "name": "Spicy Margarita",
-      "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"
+      "duration_ms": 137307,
+      "name": "Ready to Know",
+      "url": "https://open.spotify.com/track/3QMWJClACuYVxBNSWce6x0"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -191,26 +191,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Oh Well, Oh Well (Lofi)",
-        "url": "https://open.spotify.com/album/2R5Avt5EYAFd9unDg3uf29"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        },
-        {
-          "name": "Less Gravity",
-          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
-        }
-      ],
-      "duration_ms": 217890,
-      "name": "Oh Well, Oh Well - Lofi",
-      "url": "https://open.spotify.com/track/2RNyI4b0SOmA7PTgNIAX5R"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Pennies from Heaven",
         "url": "https://open.spotify.com/album/1i6vhg06WXON1YfBE9gOHj"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 178773,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/57tzaQqnUsQMqZGwNkeOKH"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Oh Well, Oh Well (Lofi)",
+        "url": "https://open.spotify.com/album/2R5Avt5EYAFd9unDg3uf29"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        },
+        {
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
+        }
+      ],
+      "duration_ms": 217890,
+      "name": "Oh Well, Oh Well - Lofi",
+      "url": "https://open.spotify.com/track/2RNyI4b0SOmA7PTgNIAX5R"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Ansiedad por escribir",
-        "url": "https://open.spotify.com/album/1bV4eY646dU8P7FerspjRR"
-      },
-      "artists": [
-        {
-          "name": "daimonklaroskuro",
-          "url": "https://open.spotify.com/artist/2UidjQc7U8EWac0MLuLhoe"
-        },
-        {
-          "name": "Mente Sabia Cr\u00fa",
-          "url": "https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Ansiedad por escribir",
-      "url": "https://open.spotify.com/track/1BJP0TLvzHD66twOeyA9jt"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Taste It (Youth 12'' Mix)",
         "url": "https://open.spotify.com/album/0ldXBTOnBTGcKDWJJtB62X"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 297279,
       "name": "War/No More Trouble - From \"Bob Marley: One Love\" Soundtrack",
       "url": "https://open.spotify.com/track/060wim4wCw76nHhHr6fDjm"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Ansiedad por escribir",
+        "url": "https://open.spotify.com/album/1bV4eY646dU8P7FerspjRR"
+      },
+      "artists": [
+        {
+          "name": "daimonklaroskuro",
+          "url": "https://open.spotify.com/artist/2UidjQc7U8EWac0MLuLhoe"
+        },
+        {
+          "name": "Mente Sabia Cr\u00fa",
+          "url": "https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Ansiedad por escribir",
+      "url": "https://open.spotify.com/track/1BJP0TLvzHD66twOeyA9jt"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "\u30b5\u30e8\u30ca\u30e9\u306e\u304b\u308f\u308a\u306b",
-        "url": "https://open.spotify.com/album/29CTU8qJbIFZSIxFf9cQNC"
-      },
-      "artists": [
-        {
-          "name": "TUBE",
-          "url": "https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ"
-        },
-        {
-          "name": "Gackt",
-          "url": "https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN"
-        }
-      ],
-      "duration_ms": 228766,
-      "name": "\u30b5\u30e8\u30ca\u30e9\u306e\u304b\u308f\u308a\u306b",
-      "url": "https://open.spotify.com/track/47ANLBqVT2p1X2mvylKg0o"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Already Over / In My Head (Endel Workout Soundscape)",
         "url": "https://open.spotify.com/album/5BtvKnH2n643C4da474Of0"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 247194,
       "name": "Already Over - Endel Cardio 3 (Workout Soundscape)",
       "url": "https://open.spotify.com/track/56LXEyLeUpGevhlHfd9tNW"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "\u30b5\u30e8\u30ca\u30e9\u306e\u304b\u308f\u308a\u306b",
+        "url": "https://open.spotify.com/album/29CTU8qJbIFZSIxFf9cQNC"
+      },
+      "artists": [
+        {
+          "name": "TUBE",
+          "url": "https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ"
+        },
+        {
+          "name": "Gackt",
+          "url": "https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN"
+        }
+      ],
+      "duration_ms": 228766,
+      "name": "\u30b5\u30e8\u30ca\u30e9\u306e\u304b\u308f\u308a\u306b",
+      "url": "https://open.spotify.com/track/47ANLBqVT2p1X2mvylKg0o"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Band On The Run (Underdubbed Mixes)",
-        "url": "https://open.spotify.com/album/6lhPEUxM0mfnA2GNwrHulD"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Jet - Underdubbed Mix",
-      "url": "https://open.spotify.com/track/0G7qdV0Rql4sCe0EcPlwVr"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Lights Out (2024 Remaster)",
         "url": "https://open.spotify.com/album/1CDfQjUxPPszW6PrPUSbgY"
       },
@@ -651,18 +631,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "So Much (For) Stardust [Edit]",
-        "url": "https://open.spotify.com/album/2iUM65V96tt0d1J5IfRQzH"
+        "name": "Band On The Run (Underdubbed Mixes)",
+        "url": "https://open.spotify.com/album/6lhPEUxM0mfnA2GNwrHulD"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 232300,
-      "name": "So Much (For) Stardust - Edit",
-      "url": "https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC"
+      "duration_ms": 252680,
+      "name": "Jet - Underdubbed Mix",
+      "url": "https://open.spotify.com/track/0G7qdV0Rql4sCe0EcPlwVr"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -695,6 +679,22 @@
       "duration_ms": 260700,
       "name": "Who Wants to Live Forever",
       "url": "https://open.spotify.com/track/1OEIhAfgxCwD2xH28BCKro"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "So Much (For) Stardust [Edit]",
+        "url": "https://open.spotify.com/album/2iUM65V96tt0d1J5IfRQzH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 232300,
+      "name": "So Much (For) Stardust - Edit",
+      "url": "https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -780,33 +780,9 @@
           "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
         }
       ],
-      "duration_ms": 178079,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/3yK0UZGl9XxNgl0OkMHBBr"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "The Affliction",
-        "url": "https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        },
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        },
-        {
-          "name": "Samuel Ericsson",
-          "url": "https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L"
-        }
-      ],
-      "duration_ms": 205742,
-      "name": "Outcome",
-      "url": "https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb"
+      "duration_ms": 406584,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/0HdPN94TMhUWe1bbfyNg76"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -847,22 +823,42 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Nothing But The Whole Wide World (with Eric Clapton)",
-        "url": "https://open.spotify.com/album/25cFmqj31yoMiwJ0dUAYiM"
+        "name": "The Affliction",
+        "url": "https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
         },
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        },
+        {
+          "name": "Samuel Ericsson",
+          "url": "https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L"
         }
       ],
-      "duration_ms": 215282,
-      "name": "Nothing But The Whole Wide World (with Eric Clapton)",
-      "url": "https://open.spotify.com/track/434fZ0lHIQv3AsLoGjR7TR"
+      "duration_ms": 205742,
+      "name": "Outcome",
+      "url": "https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Live at HMV Forum, London, UK, 14 December 2010",
+        "url": "https://open.spotify.com/album/06rI2jgE1FJ47te1GiFCBo"
+      },
+      "artists": [
+        {
+          "name": "Asia",
+          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+        }
+      ],
+      "duration_ms": 296440,
+      "name": "Only Time Will Tell (Live at HMV Forum, London, UK, 14 December 2010)",
+      "url": "https://open.spotify.com/track/7s0HpdwTsw7WRS5D0yZOgu"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -887,18 +883,42 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Live at HMV Forum, London, UK, 14 December 2010",
-        "url": "https://open.spotify.com/album/06rI2jgE1FJ47te1GiFCBo"
+        "name": "Los Instrumentales",
+        "url": "https://open.spotify.com/album/4YarnJqzLnjCURMZedM2KQ"
       },
       "artists": [
         {
-          "name": "Asia",
-          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+          "name": "Neblinna",
+          "url": "https://open.spotify.com/artist/7H0rcOJgD1nrdMrH9cdHmL"
+        },
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
         }
       ],
-      "duration_ms": 296440,
-      "name": "Only Time Will Tell (Live at HMV Forum, London, UK, 14 December 2010)",
-      "url": "https://open.spotify.com/track/7s0HpdwTsw7WRS5D0yZOgu"
+      "duration_ms": 206626,
+      "name": "Un \u00c1ngel (Instrumental)",
+      "url": "https://open.spotify.com/track/79ZqiKgDmeHj8zmIuSMTFs"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Nothing But The Whole Wide World (with Eric Clapton)",
+        "url": "https://open.spotify.com/album/25cFmqj31yoMiwJ0dUAYiM"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 215282,
+      "name": "Nothing But The Whole Wide World (with Eric Clapton)",
+      "url": "https://open.spotify.com/track/434fZ0lHIQv3AsLoGjR7TR"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -919,26 +939,6 @@
       "duration_ms": 211200,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Los Instrumentales",
-        "url": "https://open.spotify.com/album/4YarnJqzLnjCURMZedM2KQ"
-      },
-      "artists": [
-        {
-          "name": "Neblinna",
-          "url": "https://open.spotify.com/artist/7H0rcOJgD1nrdMrH9cdHmL"
-        },
-        {
-          "name": "Bascur",
-          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Un \u00c1ngel (Instrumental)",
-      "url": "https://open.spotify.com/track/79ZqiKgDmeHj8zmIuSMTFs"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

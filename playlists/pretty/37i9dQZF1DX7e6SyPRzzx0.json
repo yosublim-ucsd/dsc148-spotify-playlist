@@ -1,18 +1,18 @@
 {
   "description": "Cover: Yeat",
-  "num_followers": 52817,
+  "num_followers": 52891,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2ZkNzk5OGFjZjNhZjkyYzE0MTU3ZDgzNDY5NTRhMTNjNzZkMzdi",
+  "snapshot_id": "MCw0MDAyNTdkZjRiNmM4NmFkNDBjNjJmMDVlNTA1MjI1OGYwNDg4Zjg5",
   "tracks": [
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-02-20 20:08:41",
       "album": {
-        "name": "2093",
-        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+        "name": "2093 (P2)",
+        "url": "https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Stand On It (with Future)",
-      "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"
+      "duration_ms": 240916,
+      "name": "As We Speak (feat. Drake)",
+      "url": "https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -131,6 +131,26 @@
       "duration_ms": 172878,
       "name": "kingtut",
       "url": "https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Stand On It (with Future)",
+      "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -305,26 +325,6 @@
       "url": "https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Lyfe - Instrumental",
-        "url": "https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5"
-      },
-      "artists": [
-        {
-          "name": "teefaygoo",
-          "url": "https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV"
-        },
-        {
-          "name": "prodbysky",
-          "url": "https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh"
-        }
-      ],
-      "duration_ms": 175716,
-      "name": "Lyfe",
-      "url": "https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA"
-    },
-    {
       "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "What It Is?!",
@@ -479,38 +479,6 @@
       "duration_ms": 148687,
       "name": "DIRTY SPOT",
       "url": "https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Mafia Musik",
-        "url": "https://open.spotify.com/album/3S9jhXK2F3LMMKFWFs5MEU"
-      },
-      "artists": [
-        {
-          "name": "D. Savage",
-          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
-        }
-      ],
-      "duration_ms": 134265,
-      "name": "Kome On",
-      "url": "https://open.spotify.com/track/4wC7ol2740ZTBMUX8QCA3J"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "REAL RAW!",
-        "url": "https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "DIVE IN!",
-      "url": "https://open.spotify.com/track/4pXChuim76A52lXVvFSozF"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -835,22 +803,6 @@
       "duration_ms": 233794,
       "name": "how u feel?",
       "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Golden Child, Chapter 3",
-        "url": "https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/4biJZe036GsCFNp2D2SR2j"
     },
     {
       "added_at": "2023-12-01 03:00:00",

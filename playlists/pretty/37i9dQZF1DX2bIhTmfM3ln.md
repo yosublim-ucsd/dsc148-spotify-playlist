@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > Afrobeats love stories have the best beginnings
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,211 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,261 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 79 | [ALL MY LIFE](https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k) | [ALL MY LIFE](https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS) | 2:36 |
 | 80 | [This Must Be Love](https://open.spotify.com/track/6lzjtQ9vuE1Co8ZGTRPFrk) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [This Must Be Love](https://open.spotify.com/album/2puepVbk23pphHzm5cqyEy) | 2:30 |
 
-Snapshot ID: `MCw5ZWI0OWRlOTcxN2E3NzhkNmMxM2U0NDcyZGQ0YTk3YmExZGExZjE2`
+Snapshot ID: `MCxiZjBhY2VlOGQ2NDhlYWM4YTNiOWU5NzM4OGIzZWY1NDRjNmE2MDhl`

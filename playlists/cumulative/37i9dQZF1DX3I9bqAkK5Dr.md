@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-222 songs - 13 hr 38 min
+223 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Chusaane Eevele](https://open.spotify.com/track/5xB8uAKjvql9Hfz84G4z2E) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Chusaane Eevele](https://open.spotify.com/album/2Tg3MXvSWCkJ4tFf40fdLQ) | 3:07 | 2023-05-08 |  |
 | [Daawath](https://open.spotify.com/track/3Bv6Jghbq72NqEqWnkqUOj) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Daawath](https://open.spotify.com/album/2RGBGad3aW0SxVDuMZf4tV) | 4:05 | 2022-07-18 | 2023-10-05 |
 | [Dhom Thana](https://open.spotify.com/track/0tSTu2qPEFmK2QBzKRLuxk) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Dhom Thana](https://open.spotify.com/album/2rrcsYWGUOZ6JxBLHPlXU4) | 3:38 | 2022-07-18 | 2023-05-23 |
-| [Don't Care](https://open.spotify.com/track/5uS1kRmoUBwUQQWNCJfdA8) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0) | [Don't Care](https://open.spotify.com/album/2VsrTgf8EkXamAUJK80dj1) | 3:35 | 2023-09-27 |  |
+| [Don't Care](https://open.spotify.com/track/5uS1kRmoUBwUQQWNCJfdA8) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0) | [Don't Care](https://open.spotify.com/album/2VsrTgf8EkXamAUJK80dj1) | 3:35 | 2023-09-27 | 2024-02-21 |
 | [Dooram](https://open.spotify.com/track/2XU0F3MuaqimD5RJkTaNUw) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt), [Sumukh VR](https://open.spotify.com/artist/4lDFMBYjSpzl8vDN6ooJds) | [Dooram](https://open.spotify.com/album/21KF0H2k3tSylln8od9TnA) | 3:47 | 2023-03-31 | 2023-10-12 |
 | [Dosthi](https://open.spotify.com/track/4ds6oPJGfWaDcTuEAvjAWZ) | [PVR Raja](https://open.spotify.com/artist/6tz2nw9kPvbVmlYZb9XLvV), [Tanvi Manjula Ghantasala](https://open.spotify.com/artist/4m1ehuNqR59FNh5ZEw0pcn), [Thaman Sai Jakkam](https://open.spotify.com/artist/2HsQl6VisUVm3wNAmH2skl), [Prabhath](https://open.spotify.com/artist/2289Y7PfjWzJMtcQ7G4LSk) | [Dosthi](https://open.spotify.com/album/6Y92q7B2qqgQQyRTHAm1bO) | 4:22 | 2023-07-24 | 2023-09-21 |
 | [Drunkard On The Road](https://open.spotify.com/track/7t7nXXkHjaReVvr9plCax3) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Drunkard On The Road](https://open.spotify.com/album/5FVbWIhlp7LSJz08VT08PS) | 2:26 | 2023-02-15 | 2023-05-23 |
@@ -183,6 +183,7 @@
 | [Raagalani](https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8), [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Raagalani](https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1) | 2:38 | 2022-07-18 | 2023-06-21 |
 | [Raagni](https://open.spotify.com/track/1pwHudKnEvILcwRi8L47Uz) | [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Raagni](https://open.spotify.com/album/0UT9YM7CiqpQK8SjwSJJ2M) | 3:24 | 2023-03-09 | 2023-05-23 |
 | [Raane Raava](https://open.spotify.com/track/02sEnHsPSSlyxdRzxpqOJg) | [Siddharth Tanuku](https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Sindhuja Tanuku](https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr) | [Raane Raava](https://open.spotify.com/album/56HGf8gQ64AIT8I1pEKwIX) | 3:47 | 2023-07-24 | 2024-02-15 |
+| [Raava Raava](https://open.spotify.com/track/0zsKh0ggH3rul0d6AAAOYJ) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Priyanka Nath](https://open.spotify.com/artist/7xKgO2AdW8dPHlXrxBNTpE) | [Raava Raava](https://open.spotify.com/album/0ICVIqrfGQNNFVKutHLkrJ) | 2:50 | 2024-02-20 |  |
 | [Raba Raba](https://open.spotify.com/track/1XiHI6xjy82Pkef0EnC8ec) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Megh\-Uh\-Watt](https://open.spotify.com/artist/2UBDp4nIwkdAxlukxa5lbj) | [Raba Raba](https://open.spotify.com/album/05WGgEw9k8SU61WsFU6Ig2) | 4:38 | 2022-07-18 | 2023-08-19 |
 | [Ramaya](https://open.spotify.com/track/1gACI6AAvdUSgfBJ4IattI) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/51ZV12M5Rwx88kZPCksKEs) | 3:35 | 2023-08-05 |  |
 | [Ramaya](https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/0ThcLdv1zgkPsPf0VYVemw) | 3:35 | 2023-08-05 | 2024-01-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 
 > Guitarra cálida e instrumental para un agradable inicio de día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,041 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,047 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 149 | [En Mis Brazos](https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [En Mis Brazos](https://open.spotify.com/album/3wd6e9BvUxKEVZf0LCj56t) | 2:02 |
 | 150 | [Flamingos in solitude](https://open.spotify.com/track/2NjiOmgtfXhx2S0snRhKFE) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Flamingos in solitude](https://open.spotify.com/album/4hDqjsdljJMqgDniYFJzHf) | 2:12 |
 
-Snapshot ID: `MCwwMGY4ODMyZThkNjk4Y2Y5Zjc5ZGY0YTU2OGVmOTkwYzcyNWM5MDdm`
+Snapshot ID: `MCw5ZGQwZTAwNDdiZTgyYWI4NDJiMWNjYjkwYjM3NmE5NDhhMjFkYmRm`

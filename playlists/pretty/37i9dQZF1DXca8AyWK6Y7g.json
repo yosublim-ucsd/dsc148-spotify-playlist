@@ -1,12 +1,12 @@
 {
   "description": "i don't normally like country but now my whole life is line dancing to Dasha \ud83e\udd20\ud83d\udc62\ud83c\udf35\ud83c\udfdc\ud83d\udc34",
-  "num_followers": 1493442,
+  "num_followers": 1493595,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTM2YmRlYWUzY2ZjNjNkMDA4OTkzNWU2ZmZiMWRlMDUyMTFkOTZj",
+  "snapshot_id": "MCxiNzljMzQyZWJlMTZiNDZhM2EwMWM3Yzc0M2UxMDgzMzFhMjFlOWU3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY"
     },
     {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Lonely Dancers",
@@ -399,6 +383,22 @@
       "duration_ms": 149027,
       "name": "Lonely Dancers",
       "url": "https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "What If I Love You",
-        "url": "https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "What If I Love You",
-      "url": "https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "What If I Love You",
+        "url": "https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "What If I Love You",
+      "url": "https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "little miss misogyny",
@@ -1207,6 +1191,22 @@
       "duration_ms": 147205,
       "name": "little miss misogyny",
       "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
     },
     {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "inhale - E.P.",
-        "url": "https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL"
-      },
-      "artists": [
-        {
-          "name": "Lili-Ann De Francesco",
-          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "the girl (that you can't get over)",
-      "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Lose Her",
@@ -1675,6 +1659,22 @@
       "duration_ms": 170515,
       "name": "Lose Her",
       "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "inhale - E.P.",
+        "url": "https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL"
+      },
+      "artists": [
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "the girl (that you can't get over)",
+      "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1793,22 +1793,6 @@
       "url": "https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV"
     },
     {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 163927,
-      "name": "Girl Of Your Dreams",
-      "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "The Thrill Of It",
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
+        "name": "Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 163927,
+      "name": "Girl Of Your Dreams",
+      "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
         "name": "liar",
         "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
@@ -1839,70 +1839,6 @@
       "duration_ms": 134000,
       "name": "liar",
       "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "Someone You Once Had",
-        "url": "https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Someone You Once Had",
-      "url": "https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "If I Don't Laugh I'll Cry",
-        "url": "https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd"
-      },
-      "artists": [
-        {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "If I Don't Laugh I'll Cry",
-      "url": "https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Drunk Tattoo",
-        "url": "https://open.spotify.com/album/09uqsjk8EHwUBxn8uulYmt"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 175124,
-      "name": "Drunk Tattoo",
-      "url": "https://open.spotify.com/track/5l8iEP2tF1uIvNV3l22sui"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/74wbYbvJFwGIuFw5BNuzCQ"
-      },
-      "artists": [
-        {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
-        }
-      ],
-      "duration_ms": 222402,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1923,18 +1859,82 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "swimming pools",
-        "url": "https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN"
+        "name": "Someone You Once Had",
+        "url": "https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67"
       },
       "artists": [
         {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
         }
       ],
-      "duration_ms": 152106,
-      "name": "swimming pools",
-      "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
+      "duration_ms": 192000,
+      "name": "Someone You Once Had",
+      "url": "https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 194262,
+      "name": "Really Mean It",
+      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "If I Don't Laugh I'll Cry",
+        "url": "https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd"
+      },
+      "artists": [
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "If I Don't Laugh I'll Cry",
+      "url": "https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/74wbYbvJFwGIuFw5BNuzCQ"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "duration_ms": 222402,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Drunk Tattoo",
+        "url": "https://open.spotify.com/album/09uqsjk8EHwUBxn8uulYmt"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 175124,
+      "name": "Drunk Tattoo",
+      "url": "https://open.spotify.com/track/5l8iEP2tF1uIvNV3l22sui"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1953,20 +1953,20 @@
       "url": "https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+        "name": "swimming pools",
+        "url": "https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
         }
       ],
-      "duration_ms": 194262,
-      "name": "Really Mean It",
-      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
+      "duration_ms": 152106,
+      "name": "swimming pools",
+      "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -2085,6 +2085,22 @@
       "url": "https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "boy i'd like to kill",
+        "url": "https://open.spotify.com/album/6Gc6cvlf1UpJHF4cp6ZFu7"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "duration_ms": 147023,
+      "name": "boy i'd like to kill",
+      "url": "https://open.spotify.com/track/46upLPyvXHEh4n3Ernt4U6"
+    },
+    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "Tantrum",
@@ -2099,22 +2115,6 @@
       "duration_ms": 151706,
       "name": "Tantrum",
       "url": "https://open.spotify.com/track/2oPZ5C25DHuF4il15vFI3J"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Go Blonde",
-        "url": "https://open.spotify.com/album/2yGuGgNPhuTBqjy2LJnEl2"
-      },
-      "artists": [
-        {
-          "name": "Olivia Knox",
-          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
-        }
-      ],
-      "duration_ms": 144579,
-      "name": "Go Blonde",
-      "url": "https://open.spotify.com/track/4oDVKGJlwEK5aau8qzluRv"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2133,20 +2133,20 @@
       "url": "https://open.spotify.com/track/6sifTEd6ZW5DEJthyxxEmy"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "boy i'd like to kill",
-        "url": "https://open.spotify.com/album/6Gc6cvlf1UpJHF4cp6ZFu7"
+        "name": "Go Blonde",
+        "url": "https://open.spotify.com/album/2yGuGgNPhuTBqjy2LJnEl2"
       },
       "artists": [
         {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+          "name": "Olivia Knox",
+          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
         }
       ],
-      "duration_ms": 147023,
-      "name": "boy i'd like to kill",
-      "url": "https://open.spotify.com/track/46upLPyvXHEh4n3Ernt4U6"
+      "duration_ms": 144579,
+      "name": "Go Blonde",
+      "url": "https://open.spotify.com/track/4oDVKGJlwEK5aau8qzluRv"
     },
     {
       "added_at": "2024-02-16 05:00:00",

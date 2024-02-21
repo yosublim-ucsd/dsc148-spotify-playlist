@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Redferrin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,647 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,010 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Different About You](https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 2:40 |
 | 100 | [Fly On The Wall](https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Introducing: The Heartbreak](https://open.spotify.com/album/7HdNW5sRiuHyje1MWpzpI7) | 3:48 |
 
-Snapshot ID: `MCw1ZjAwMzE1Y2EzNzYwMjNmYWFhYjA4ODc1YzFkNjBkNWM4YTk3OTU3`
+Snapshot ID: `MCxmYThhZmViMjJiMDQ1MDYyOTY1MWU0NGFjMDBkMjYwODk4ZDI4OGE5`

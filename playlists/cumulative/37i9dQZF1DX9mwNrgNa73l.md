@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-167 songs - 19 hr 1 min
+168 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Kalaam, Pt\. 1](https://open.spotify.com/track/0kmx6XKJG768AVMlR1YZcC) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/04bQOP9TC9BMNVm3xQx2Yw) | 5:44 | 2022-06-21 | 2023-03-29 |
 | [Kamli](https://open.spotify.com/track/5su3i7O5h0mn8ckjm3OaiD) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Wajd, Vol\. 1](https://open.spotify.com/album/1avSRwSXzcUpGLtIl90OnY) | 8:42 | 2022-07-18 | 2023-08-01 |
 | [Kamli](https://open.spotify.com/track/04KCgCUQTPCenk5IwASx4s) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Wajd, Vol\. 1](https://open.spotify.com/album/5M92ubLBqNXRwraM3kqjqF) | 8:42 | 2022-06-21 | 2022-07-29 |
-| [Khwaja Mere](https://open.spotify.com/track/4qH7OYUrVQx6NVj3Xp4Q7o) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Suhel Rais Khan](https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B), [Rekha Rao](https://open.spotify.com/artist/25kyMcj5F41jU2t8MNkH33) | [Khwaja Mere](https://open.spotify.com/album/4E4uZ2FtS2llz9e2apVt18) | 4:29 | 2024-01-05 |  |
+| [Khwaja Mere](https://open.spotify.com/track/1983a9FGuZGojA9wz6cHRV) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Suhel Rais Khan](https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B), [Rekha Rao](https://open.spotify.com/artist/25kyMcj5F41jU2t8MNkH33) | [Khwaja Mere](https://open.spotify.com/album/51bBKqCDeUY8dpKAGX2Flt) | 4:29 | 2024-02-06 |  |
+| [Khwaja Mere](https://open.spotify.com/track/4qH7OYUrVQx6NVj3Xp4Q7o) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Suhel Rais Khan](https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B), [Rekha Rao](https://open.spotify.com/artist/25kyMcj5F41jU2t8MNkH33) | [Khwaja Mere](https://open.spotify.com/album/4E4uZ2FtS2llz9e2apVt18) | 4:29 | 2024-01-05 | 2024-02-21 |
 | [Khwaja Mere Khwaja](https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 6:56 | 2022-10-25 |  |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/377rdybAWhu2uj7bNVHvLs) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Love Sufiana](https://open.spotify.com/album/50BCq2H5lHgRFTFVXX4DoJ) | 8:00 | 2022-08-02 | 2023-10-21 |
 | [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 7:50 | 2022-06-21 |  |

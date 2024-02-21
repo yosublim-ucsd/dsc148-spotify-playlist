@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,605 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,623 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Mi Primer Amor](https://open.spotify.com/track/1eANtXo79JIHuG1zvy0OeH) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:32 |
 | 100 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/1mO9On0xaCs0SPPgjmq5v6) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [20 Años](https://open.spotify.com/album/2RuHV8qf5TiCqx6bg4itTj) | 3:11 |
 
-Snapshot ID: `MCwyZGU3YWZjMjgwYTJhOWRjZmNmODc2NmQ2ZDRkMzRmYWI3ZWUzZjVl`
+Snapshot ID: `MCw5ZDIxMzIzNWM1NGYxZTg2MDA5YWZkNGQzZmQ4MzYxY2YyM2E0Yzg3`

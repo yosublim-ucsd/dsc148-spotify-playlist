@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 245787,
+  "2024-02-21": 245787,
   "date_first_scraped": "2023-11-08",
   "description": "\u00a1Es temprano, pero iniciamos con toda la energ\u00eda!",
   "name": "Directo a Clase",
@@ -593,6 +593,28 @@
       "duration_ms": 202204,
       "name": "How Do You Sleep?",
       "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
+    },
+    {
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
     },
     {
       "album": {
@@ -1577,7 +1599,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 217493,
       "name": "Slow Grenade",
       "url": "https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44"

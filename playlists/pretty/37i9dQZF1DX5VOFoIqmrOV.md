@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,414 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,620 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 63 | [Bheemla Nayak Title Song](https://open.spotify.com/track/6BiLK0zV9MULmHcM7G7L2W) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Prithvi Chandhra](https://open.spotify.com/artist/2sXOEThmg7BmZ5qQVI01x7), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Bheemla Nayak](https://open.spotify.com/album/3LDf8zucVQthBeANPECHkk) | 5:10 |
 | 64 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
 | 65 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 |
-| 66 | [Jatha Kalise](https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Srimanthudu](https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS) | 3:44 |
-| 67 | [Emitemitemo](https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK) | [Alphonse](https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 3:23 |
+| 66 | [Emitemitemo](https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK) | [Alphonse](https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 3:23 |
+| 67 | [Jatha Kalise](https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Srimanthudu](https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS) | 3:44 |
 | 68 | [Buttabomma](https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:18 |
 | 69 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 |
 | 70 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 74 | [Nee Kannu Neeli Samudram](https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 5:12 |
 | 75 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |
 
-Snapshot ID: `MCw4OTIxZDBkNjM4N2QwNzIwYmI3NzU0MmFmNTg1YjAwMGVhNjZhNDZh`
+Snapshot ID: `MCw5MjM3ZjlkZDI0N2FkM2YxOGUwY2VhN2NjZWY2OTVjZjBlODE1Mjdm`

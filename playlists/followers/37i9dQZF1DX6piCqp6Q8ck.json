@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 116140,
+  "2024-02-21": 116125,
   "date_first_scraped": "2021-12-28",
   "description": "Uplifting and happy jazz christmas classics.",
   "name": "Feel Good Christmas",
@@ -2225,13 +2225,17 @@
         {
           "name": "Tony Bennett",
           "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie Big Band",
+          "url": "https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO"
         }
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195173,
-      "name": "Silver Bells",
+      "name": "Silver Bells (feat. Count Basie Big Band)",
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,245,155 likes - 750 songs - 1 day 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,246,259 likes - 750 songs - 1 day 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Through Fire](https://open.spotify.com/track/0iqxnHrMDQd1OR0UDj79Oe) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Of Aether](https://open.spotify.com/album/0jkpnvCOk9hm5yCvGzw4YD) | 1:46 |
 | 750 | [twilight](https://open.spotify.com/track/5UWZXZfR9ykb0xVRNeVXsG) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [twilight](https://open.spotify.com/album/2IEsbsH0xw2rxzGTBJSu37) | 1:31 |
 
-Snapshot ID: `MCxhNDdiMmYxMDk2OGJmMTkzZjM0MTg5MjA0Njk4Y2M0YjU2ZDRjMjQy`
+Snapshot ID: `MCw4YWVkYzY3YjRiMzg0MGExMTMwZjMwYjJjN2VjMjA0NmJkZDgwZmY1`

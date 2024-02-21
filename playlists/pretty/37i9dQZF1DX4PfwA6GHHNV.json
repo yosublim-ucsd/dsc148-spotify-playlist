@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 15755,
+  "num_followers": 15762,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODBhNmZlZjM2MjkwNDZmYTZhNTExNmRhZDg3MzYyMDYzMDQyZjdk",
+  "snapshot_id": "MCw0OTU2YjZiMWEzNzIwNmZkNzNlYmQ2ODFhZWI5MWY5NGI1ODg1MTIx",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
+        "name": "Nos Teus Olhos",
+        "url": "https://open.spotify.com/album/2u5GJtcazWSanPzzxXvLU7"
+      },
+      "artists": [
+        {
+          "name": "EHLY",
+          "url": "https://open.spotify.com/artist/4kClroraaHmlZglNiNa1O0"
+        }
+      ],
+      "duration_ms": 191190,
+      "name": "Nos Teus Olhos",
+      "url": "https://open.spotify.com/track/5vrV3s1PC4lUDWj6YOv3K3"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
         "name": "Fatoss\u00edntese",
         "url": "https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3"
       },
@@ -835,18 +851,26 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "Nos Teus Olhos",
-        "url": "https://open.spotify.com/album/2u5GJtcazWSanPzzxXvLU7"
+        "name": "A\u00ed \u00e9 Bom Demais",
+        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
       "artists": [
         {
-          "name": "EHLY",
-          "url": "https://open.spotify.com/artist/4kClroraaHmlZglNiNa1O0"
+          "name": "Garius",
+          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Deagaene",
+          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
         }
       ],
-      "duration_ms": 191190,
-      "name": "Nos Teus Olhos",
-      "url": "https://open.spotify.com/track/5vrV3s1PC4lUDWj6YOv3K3"
+      "duration_ms": 197667,
+      "name": "A\u00ed \u00e9 Bom Demais",
+      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -919,30 +943,6 @@
       "duration_ms": 180512,
       "name": "Que Cal\u00f4",
       "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
-        "name": "A\u00ed \u00e9 Bom Demais",
-        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
-      },
-      "artists": [
-        {
-          "name": "Garius",
-          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
-        },
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Deagaene",
-          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
-        }
-      ],
-      "duration_ms": 197667,
-      "name": "A\u00ed \u00e9 Bom Demais",
-      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
     },
     {
       "added_at": "2024-02-16 03:01:00",

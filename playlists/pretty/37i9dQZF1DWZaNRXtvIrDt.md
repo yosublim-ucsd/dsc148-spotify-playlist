@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,523 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,525 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [Foxes](https://open.spotify.com/track/3WLckRK4Skgl9kl7DYTxxU) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/3LOU5heFdUYrNutyEcHCoB) | 4:15 |
 | 80 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 
-Snapshot ID: `MCxmNTRlZDgwZmUxY2ZiNjBmMGM2MWNhOGQ4OGY4NGViN2MzNjM5NmMz`
+Snapshot ID: `MCw2ZTU3ZDY0YWVkYzA1MmQyNDBjY2U4MWYxNjA4OTM1NTBlYmZjMTAy`

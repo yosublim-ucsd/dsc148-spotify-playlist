@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-141 songs - 13 hr 15 min
+142 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 | 2021-12-01 |  |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 | 2022-07-26 | 2023-07-28 |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 | 2022-11-13 |
-| [Is Kadar Aap](https://open.spotify.com/track/2uVSOIZX1e86caQnmB7xNt) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/27sYpj3X5BGEwhZmwZv7d2) | 5:58 | 2023-12-12 |  |
+| [Is Kadar Aap](https://open.spotify.com/track/17Wa63bXPvwp6ebsZ4wND4) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/3kienetTHzkuMoInDjWAnn) | 5:58 | 2024-02-15 |  |
+| [Is Kadar Aap](https://open.spotify.com/track/2uVSOIZX1e86caQnmB7xNt) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/27sYpj3X5BGEwhZmwZv7d2) | 5:58 | 2023-12-12 | 2024-02-21 |
 | [Is Nahin Ka](https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Lafzon Ke Darmiyaan](https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE) | 4:34 | 2023-10-16 |  |
 | [Ishq mein aalaa](https://open.spotify.com/track/2aFHX0cbXZyy6U0zy3G87s) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/60389M2luybJW1gWNTdj8r) | 4:04 | 2024-02-09 |  |
 | [Ishq mein aalaa](https://open.spotify.com/track/7uTc5irHc0RRnqj1Y7usEJ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/1UwwcjWPAyyiNnQG4FvsZC) | 4:04 | 2023-04-18 | 2024-02-14 |

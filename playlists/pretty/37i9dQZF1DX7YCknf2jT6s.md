@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Christian McBride
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,468 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,535 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Old Man](https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY) | 7:02 |
 | 100 | [A Flower is a Lovesome Thing](https://open.spotify.com/track/1pZ9MJT3kKWTe9WDvfbgdN) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [A Lovesome Thing](https://open.spotify.com/album/47b74rWLSpPJjFfmw3gLUh) | 10:18 |
 
-Snapshot ID: `MCw2N2FjZWIwZDYyNGRjMGM3NGE0MDU4ZWNmNDFhNzdjZWQ2NmIwMzI5`
+Snapshot ID: `MCw2ZDYyOWMxNTkzYzA4MjUxZDUzMjU5ZjY5NDYzOWRmZjI4NGYzY2U3`

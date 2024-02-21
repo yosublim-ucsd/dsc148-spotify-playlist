@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 492476,
+  "2024-02-21": 492442,
   "date_first_scraped": "2023-09-07",
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
   "name": "Wochenende",
@@ -117,6 +117,28 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "album": {
+        "name": "All Good Things",
+        "url": "https://open.spotify.com/album/0Wl4Yf9g9gYZtABnPEz4KH"
+      },
+      "artists": [
+        {
+          "name": "AVA CROWN",
+          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
+        },
+        {
+          "name": "LUCA (DE)",
+          "url": "https://open.spotify.com/artist/30qKpLi7U8MxZyEy3HEW26"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163137,
+      "name": "All Good Things",
+      "url": "https://open.spotify.com/track/1sjliewWkSOKKvEVYHPqUk"
     },
     {
       "album": {
@@ -1315,7 +1337,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 172500,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd"

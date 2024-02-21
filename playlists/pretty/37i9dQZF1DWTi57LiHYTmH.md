@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,256 likes - 120 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,437 likes - 120 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 119 | [Chaconne in sol maggiore : Variazione 9](https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL) | [Lazar Berman](https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ) | [Inedito \(Unpublished\)](https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582) | 1:03 |
 | 120 | [Shostakovich / Arr\. Atovmyan: Suite from the Gadfly, Op\. 97a: VIII\. Romance](https://open.spotify.com/track/7c8EKQLv5ld1uWm1BdGqds) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Tasmin Little](https://open.spotify.com/artist/0yB2SgzCCYb9uhjd4BG4pP), [Piers Lane](https://open.spotify.com/artist/1x1BXaOZgIvaHnafQhuPYB) | [Virtuoso Violin](https://open.spotify.com/album/1uTwzpFq5IXfOS3u9NdeLY) | 3:14 |
 
-Snapshot ID: `MCxmYjY3MjJlMGMwNDJlN2I2N2MyMDc4MzdhOGJmMDRlOWNmYmE5MzY3`
+Snapshot ID: `MCw1NTYxMTk4OWI0YjY2Yzc5Nzc3Y2VlZWIyYjhlYjQ2NWVhMDIwMzE3`

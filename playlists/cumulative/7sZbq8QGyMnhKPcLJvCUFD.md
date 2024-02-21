@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-501 songs - 1 day 1 hr 44 min
+502 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bring It Back](https://open.spotify.com/track/5ShOfO7H7GhaSH3m3UL8pg) | [Polygon](https://open.spotify.com/artist/5BGIoAtF2cwgcydpnUyFkF) | [Bring It Back](https://open.spotify.com/album/0mJoluase48Igg9q7tlDHx) | 3:25 | 2023-02-24 | 2023-12-14 |
 | [Bring Me The Christmas Light](https://open.spotify.com/track/4umzhAz6dEmAyqKC4WXiwc) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Christmas Light](https://open.spotify.com/album/1BbVSrRnQoLZxH5tZkhiDt) | 4:35 | 2022-12-22 | 2022-12-29 |
 | [Bring Me The Light \- Rob Gasser Remix](https://open.spotify.com/track/5i2aGKutUx2keiTqQXAm8j) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Light \(Rob Gasser Remix\)](https://open.spotify.com/album/30gpaJcuO1M6izxV6osZvG) | 4:11 | 2022-03-31 | 2023-04-28 |
+| [Broken](https://open.spotify.com/track/4kBV5yyLDvhlttdtccSP21) | [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Broken](https://open.spotify.com/album/4qqpxg0c0PmM1Mwe0NtHDi) | 4:00 | 2024-02-20 |  |
 | [Broken Love](https://open.spotify.com/track/55q35WjtYGNfsDFjGIFcWA) | [metr](https://open.spotify.com/artist/0RAWgVjsAEhbXPhqPGqd8n), [Adrian Benson](https://open.spotify.com/artist/6pto9yK3v6ju1r8piPps1P), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Broken Love](https://open.spotify.com/album/4SCPz1xCo9H8V2oasW8ST7) | 2:37 | 2022-11-30 | 2023-08-10 |
 | [Burned](https://open.spotify.com/track/3XfD2WZJmaxPOffgQfe88R) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE) | [Burned](https://open.spotify.com/album/2rhiCp8wA2uuERay3UfTIz) | 2:09 | 2023-06-15 | 2023-08-10 |
 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 | 2024-02-02 |  |
@@ -271,7 +272,7 @@
 | [Lost In The Middle](https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Lost In The Middle](https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN) | 4:02 | 2023-05-19 | 2023-08-28 |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 | 2023-04-28 |
 | [Love U](https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Keep](https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr) | 3:58 | 2024-01-16 |  |
-| [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 | 2023-08-08 |  |
+| [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 | 2023-08-08 | 2024-02-21 |
 | [Make Waves](https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Brynja Mary](https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y) | [Make Waves](https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM) | 3:09 | 2023-02-16 | 2023-08-10 |
 | [Marcheur](https://open.spotify.com/track/1sYlEY1HlO9fywssI0siXX) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Marcheur](https://open.spotify.com/album/2tvntXVzem4r9weTdSzrcA) | 4:06 | 2023-12-13 |  |
 | [Maria](https://open.spotify.com/track/0kLgu4axkaJDT84v42hUSg) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Maria](https://open.spotify.com/album/773RSEiOc5qQNJ7ZGdB5FN) | 2:50 | 2023-06-22 | 2023-08-10 |

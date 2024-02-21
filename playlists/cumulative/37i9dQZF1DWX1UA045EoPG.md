@@ -4,7 +4,7 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-72 songs - 3 hr 59 min
+73 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Cool It](https://open.spotify.com/track/063IdJMX78fSgSJnaYwSKh) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Cool It](https://open.spotify.com/album/5VoqRVINQCZpRLvPeSPfmI) | 3:42 | 2018-09-14 | 2022-07-29 |
 | [Cool It](https://open.spotify.com/track/1494vznW7AYTPnJePlyeS5) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Cool It](https://open.spotify.com/album/4agNBWoC6gSKsSPh96zfk7) | 3:42 | 2022-09-27 | 2022-11-13 |
 | [Cool It](https://open.spotify.com/track/6jTJq11wBAeTptcybJHmgJ) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Bits & Pieces](https://open.spotify.com/album/2ORjqBygvY8oyEp6oVm8PB) | 3:42 | 2018-09-14 |  |
-| [Crumbs](https://open.spotify.com/track/0wgElszsos5fWd2lT8AJGG) | [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Crumbs](https://open.spotify.com/album/5nRCPFk5CcyWduE1zgskS0) | 3:13 | 2018-09-14 |  |
+| [Crumbs](https://open.spotify.com/track/0wgElszsos5fWd2lT8AJGG) | [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Crumbs](https://open.spotify.com/album/5nRCPFk5CcyWduE1zgskS0) | 3:13 | 2018-09-14 | 2024-02-21 |
+| [Crumbs](https://open.spotify.com/track/1Lflvh6LhRn1hcoO4ltopM) | [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Crumbs](https://open.spotify.com/album/6M0I3qZLyFBXFSfdGjkuyn) | 3:13 | 2022-09-27 |  |
 | [Dangerous](https://open.spotify.com/track/0aMn1LbfjyhZunY2K7oPLg) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [This Time](https://open.spotify.com/album/0QiYLU8SrwXQAleQaOgTP2) | 3:51 | 2018-09-14 | 2022-07-29 |
 | [Dangerous](https://open.spotify.com/track/0SCcYTx5we9EKTPvEXxld5) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Dangerous \(Touch Sensitive Remix\)](https://open.spotify.com/album/54UxhHBaQwRqvp7SWjrR4N) | 3:51 | 2022-09-27 | 2022-11-13 |
 | [Dangerous](https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [This Time](https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn) | 3:51 | 2018-09-14 |  |

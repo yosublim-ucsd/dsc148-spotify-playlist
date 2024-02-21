@@ -1,12 +1,12 @@
 {
   "description": "Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song. \u6700\u65b0\u4f5c\u300eFFXVI\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 186105,
+  "num_followers": 186143,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTk3NWNkZTdlM2FiMTVmZmQwYmY4MDBkMWYyY2RhZTI0YmQ0YmUw",
+  "snapshot_id": "MCxhZTNjNDBjYjFkZTU1ZmNmOWMwMTM3MzM4NjE4YjZhMWFkMDI5MzRh",
   "tracks": [
     {
       "added_at": "2023-12-21 17:01:01",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Paradigm Shift",
-      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
-    },
-    {
-      "added_at": "2023-12-21 17:01:01",
-      "album": {
         "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
         "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 135186,
       "name": "Why (CCFFVII Mix)",
       "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
+    },
+    {
+      "added_at": "2023-12-21 17:01:01",
+      "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Paradigm Shift",
+      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728 \u5149\u4eba",
+          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+        }
+      ],
+      "duration_ms": 119586,
+      "name": "FFVII REMAKE: \u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b9\u30d1\u30a4\u30e9\u30eb (Midnight Spiral)",
+      "url": "https://open.spotify.com/track/7msxPsfAJSjUWkSi1q3qXS"
+    },
+    {
+      "added_at": "2023-12-21 17:01:01",
+      "album": {
         "name": "FINAL FANTASY XII Original Soundtrack",
         "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 253173,
       "name": "Eruyt Village",
       "url": "https://open.spotify.com/track/0JNorLMJ9CR3wcFp7t2gJM"
-    },
-    {
-      "added_at": "2023-12-21 17:01:01",
-      "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
-      },
-      "artists": [
-        {
-          "name": "\u9234\u6728 \u5149\u4eba",
-          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
-        }
-      ],
-      "duration_ms": 119346,
-      "name": "FFVII REMAKE: \u30b3\u30eb\u30cd\u30aa\u30fb\u30b3\u30ed\u30c3\u30bb\u30aa (Corneo Colosseum)",
-      "url": "https://open.spotify.com/track/7egCvXyzA13lgoXgGS5F0t"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "KOKIA",
-          "url": "https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo"
-        }
-      ],
-      "duration_ms": 260959,
-      "name": "Noel's Theme - Final Journey -",
-      "url": "https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM"
-    },
-    {
-      "added_at": "2023-12-21 17:01:01",
-      "album": {
         "name": "FINAL FANTASY TACTICS Original Soundtrack",
         "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 105960,
       "name": "Character Creation",
       "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
+    },
+    {
+      "added_at": "2023-12-21 17:01:01",
+      "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "KOKIA",
+          "url": "https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo"
+        }
+      ],
+      "duration_ms": 260959,
+      "name": "Noel's Theme - Final Journey -",
+      "url": "https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -992,13 +992,13 @@
       },
       "artists": [
         {
-          "name": "Keiki Kobayashi",
-          "url": "https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc"
+          "name": "\u4e2d\u6751\u4f73\u7d00",
+          "url": "https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv"
         }
       ],
-      "duration_ms": 530733,
-      "name": "FFVII REMAKE: \u30d8\u30ea\u30ac\u30f3\u30ca\u30fc (The Valkyrie)",
-      "url": "https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj"
+      "duration_ms": 87773,
+      "name": "FFVII REMAKE: \u9b54\u6644\u4e2d\u6bd2 (Mako Poisoning)",
+      "url": "https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -1024,13 +1024,33 @@
       },
       "artists": [
         {
-          "name": "\u9234\u6728 \u5149\u4eba",
-          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+          "name": "Keiki Kobayashi",
+          "url": "https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc"
         }
       ],
-      "duration_ms": 119586,
-      "name": "FFVII REMAKE: \u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b9\u30d1\u30a4\u30e9\u30eb (Midnight Spiral)",
-      "url": "https://open.spotify.com/track/7msxPsfAJSjUWkSi1q3qXS"
+      "duration_ms": 530733,
+      "name": "FFVII REMAKE: \u30d8\u30ea\u30ac\u30f3\u30ca\u30fc (The Valkyrie)",
+      "url": "https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj"
+    },
+    {
+      "added_at": "2023-12-21 17:01:01",
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728 \u5149\u4eba",
+          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+        },
+        {
+          "name": "\u571f\u5c90 \u671b",
+          "url": "https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2"
+        }
+      ],
+      "duration_ms": 129546,
+      "name": "FFVII REMAKE: STAND UP",
+      "url": "https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -1059,22 +1079,6 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u4f73\u7d00",
-          "url": "https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv"
-        }
-      ],
-      "duration_ms": 87773,
-      "name": "FFVII REMAKE: \u9b54\u6644\u4e2d\u6bd2 (Mako Poisoning)",
-      "url": "https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU"
-    },
-    {
-      "added_at": "2023-12-21 17:01:01",
-      "album": {
         "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
       },
@@ -1091,18 +1095,18 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+        "name": "FINAL FANTASY XIV Duality ~ Arrangement Album ~",
+        "url": "https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm"
       },
       "artists": [
         {
-          "name": "Joelle",
-          "url": "https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8"
+          "name": "THE PRIMALS",
+          "url": "https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Plains of Eternity",
-      "url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
+      "duration_ms": 315130,
+      "name": "Oblivion - Never Let it Go Version",
+      "url": "https://open.spotify.com/track/4Z2IqPRQ7SWHFQK1J9LrBb"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -1123,6 +1127,22 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "Joelle",
+          "url": "https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Plains of Eternity",
+      "url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
+    },
+    {
+      "added_at": "2023-12-21 17:01:01",
+      "album": {
         "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30101/2\u3011)",
         "url": "https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237"
       },
@@ -1135,22 +1155,6 @@
       "duration_ms": 136320,
       "name": "Shield of the King - Theme of EPISODE GLADIOLUS",
       "url": "https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7"
-    },
-    {
-      "added_at": "2023-12-21 17:01:01",
-      "album": {
-        "name": "FINAL FANTASY XIV Duality ~ Arrangement Album ~",
-        "url": "https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm"
-      },
-      "artists": [
-        {
-          "name": "THE PRIMALS",
-          "url": "https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ"
-        }
-      ],
-      "duration_ms": 315130,
-      "name": "Oblivion - Never Let it Go Version",
-      "url": "https://open.spotify.com/track/4Z2IqPRQ7SWHFQK1J9LrBb"
     },
     {
       "added_at": "2023-12-21 17:01:01",

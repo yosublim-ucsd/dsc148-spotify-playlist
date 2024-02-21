@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 68697,
+  "2024-02-21": 68695,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -2465,7 +2465,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 136374,
       "name": "Toxic (Freestyle)",
       "url": "https://open.spotify.com/track/3KTRve0Kx6ytMtlEWkWcgt"
@@ -2501,7 +2501,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 242277,
       "name": "undrcut",
       "url": "https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej"

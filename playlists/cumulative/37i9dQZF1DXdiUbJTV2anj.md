@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-189 songs - 10 hr 50 min
+190 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Street Trash](https://open.spotify.com/track/1qP2OWFLbP3CHJo5Se0kXB) | [Eight Sins](https://open.spotify.com/artist/5M7auDu0v1IOATDBxQVfIM) | [Street Trash](https://open.spotify.com/album/0MuYBRehP3E7fu9fDLjMdS) | 3:05 | 2023-06-20 |  |
 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 | 2022-09-09 | 2023-03-25 |
 | [Survive](https://open.spotify.com/track/0hZw4WGvobBufZ2rveQST8) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/240wcU9g5CJ8M1iaQTLIZN) | 2:51 | 2023-06-20 | 2024-02-19 |
-| [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 | 2022-12-23 |  |
+| [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 | 2022-12-23 | 2024-02-21 |
+| [Survive](https://open.spotify.com/track/7u4uWBuV6LXLU90rm24vhS) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Fake](https://open.spotify.com/album/6iNYooKRl6R3rtZUiKcLkV) | 2:51 | 2023-06-20 |  |
 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 | 2023-01-27 |  |
 | [Tearing Your Life Away](https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Tearing Your Life Away](https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT) | 3:16 | 2022-12-02 |  |
 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 | 2022-07-29 | 2022-08-27 |

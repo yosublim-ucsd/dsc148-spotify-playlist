@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 192750,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/5hSfzCSdcRmhD0FKYkFUzb"
@@ -16030,6 +16030,28 @@
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/6JsNEh667ctg1Iznj6rdTI"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Sue\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/0dpZO7uwO7sPYUJ3TtxG12"
     },
     {
       "album": {

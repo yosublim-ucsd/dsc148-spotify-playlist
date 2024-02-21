@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-331 songs - 23 hr 52 min
+332 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Déjà La Nuit](https://open.spotify.com/track/4W1Qhn3czQYAwZk9Um6KBd) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Pas Du Chat Noir](https://open.spotify.com/album/4RrIRfJf0HqzlkmMDfBmME) | 5:10 | 2021-12-17 | 2022-07-29 |
 | [Déjà la nuit](https://open.spotify.com/track/73ZGYEqVdoHVd1F4mXok8S) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le pas du chat noir](https://open.spotify.com/album/1Vi1fmvatCuzuASdvUGTuf) | 5:10 | 2022-06-29 | 2022-12-13 |
 | [E Major](https://open.spotify.com/track/29r9wYypw9RMXhapUNJsN5) | [Trio Ramberget](https://open.spotify.com/artist/6OvGm5sTZ04mRQu9eZ3yOJ) | [E Major](https://open.spotify.com/album/7luqhnYe3D7R544KbvOjaX) | 5:40 | 2022-02-17 | 2022-05-31 |
+| [Eclipse Cycles](https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Eclipse Cycles](https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf) | 5:02 | 2024-02-16 |  |
 | [El Suelo Mio](https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t) | [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x) | [El Suelo Mio](https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4) | 3:29 | 2021-12-17 | 2022-09-09 |
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-25 |  |
 | [Eliasong](https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:24 | 2021-12-17 | 2022-11-11 |
@@ -157,7 +158,7 @@
 | [life](https://open.spotify.com/track/1y2hUGD1OpJGxGzhgTiIeO) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [be am](https://open.spotify.com/album/3521kw2vpYybwOFrpz9MGv) | 6:05 | 2022-02-24 | 2022-10-08 |
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2022-12-28 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-11-11 |  |
-| [Liten Jazzballong Revisited](https://open.spotify.com/track/4r5PvENy5EBuslP0KIlsO9) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Revisited](https://open.spotify.com/album/2YrkkjesHFyXvlWDi9ODLh) | 6:11 | 2022-09-21 |  |
+| [Liten Jazzballong Revisited](https://open.spotify.com/track/4r5PvENy5EBuslP0KIlsO9) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Revisited](https://open.spotify.com/album/2YrkkjesHFyXvlWDi9ODLh) | 6:11 | 2022-09-21 | 2024-02-21 |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-01 |  |
 | [Lonely Dreams](https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Lonely Dreams](https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5) | 3:37 | 2022-11-17 |  |
 | [Lonely Shadows](https://open.spotify.com/track/25YYVgOIVdR862zVCSWr13) | [Dominik Wania](https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd) | [Lonely Shadows](https://open.spotify.com/album/2cHI5uX8xjQbAb5LpWAHU6) | 5:59 | 2021-12-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68659,
+  "num_followers": 68666,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWI5NGQ3NGEwNWNhODc1NGYxYzYwNGUwNWYwMTBiNGI2MzVlYTQx",
+  "snapshot_id": "MCxkMzlmMGY0YjUzZjU3YzE0NGYzNDM1N2RhMWJkNjdkMmNlMmFmYmMy",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -159,18 +159,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Come By",
-        "url": "https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG"
+        "name": "N\u00e4r solen g\u00e5r ner",
+        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
       },
       "artists": [
         {
-          "name": "Atso",
-          "url": "https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN"
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 199872,
-      "name": "Come By",
-      "url": "https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v"
+      "duration_ms": 221773,
+      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
+      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -299,22 +303,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "N\u00e4r solen g\u00e5r ner",
-        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
+        "name": "Come By",
+        "url": "https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG"
       },
       "artists": [
         {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Atso",
+          "url": "https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN"
         }
       ],
-      "duration_ms": 221773,
-      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
-      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
+      "duration_ms": 199872,
+      "name": "Come By",
+      "url": "https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Punch of Love",
-        "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
       },
       "artists": [
         {
-          "name": "Daniel Lemma",
-          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 245530,
-      "name": "No Winners",
-      "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
+      "duration_ms": 222000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
     },
     {
       "added_at": "2024-02-08 23:00:00",

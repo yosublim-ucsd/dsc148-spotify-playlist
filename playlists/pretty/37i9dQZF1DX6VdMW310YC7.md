@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,698,792 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,699,094 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw) | 4:18 |
 | 100 | [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 |
 
-Snapshot ID: `MCw4NGZhZTRmY2RjZmUzNTA2ZjJkOGYzZDEwMDlhMDM0YjZiMDczOWJi`
+Snapshot ID: `MCxmYWFlNTE5Njc4NTQzMGQxYzY1NDUwYzljYzI4OWNlYjJlOTkyYTdj`

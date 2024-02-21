@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-2,207 songs - 5 day 0 hr 50 min
+2,208 songs - 5 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1613,6 +1613,7 @@
 | [Sad Techno](https://open.spotify.com/track/4BCAiSHGQt1SmY15KoxPfB) | [Lo Noom](https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION) | [Sad Techno](https://open.spotify.com/album/3sXGYnXJPsKnw8ODBZdd7i) | 1:20 | 2024-01-10 | 2024-01-18 |
 | [Safe](https://open.spotify.com/track/5eKzRLree0eW8vrTmIGAGO) | [Tyrer](https://open.spotify.com/artist/7frgKOQYzrHKVG7Zqemwi6) | [Safe](https://open.spotify.com/album/4ZSH9lQWU0Fam5cFPcffeG) | 2:28 | 2023-08-30 | 2023-10-26 |
 | [Safe Place to Stay](https://open.spotify.com/track/0V99LNM7L1FUmkEQMQp47u) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Safe Place to Stay](https://open.spotify.com/album/3otFGfaSJwchSOiEk5EGrM) | 4:17 | 2024-01-17 | 2024-02-08 |
+| [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 | 2024-02-20 |  |
 | [safety](https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:03 | 2022-11-30 | 2023-01-12 |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-03 | 2022-10-13 |
 | [Sagittarius](https://open.spotify.com/track/05WuERL8BeTzHyKdWfTl9Y) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Sagittarius](https://open.spotify.com/album/4tuD8VMPzIpX6QKgDGHbvN) | 3:42 | 2023-03-01 | 2023-03-23 |
@@ -1921,7 +1922,7 @@
 | [The Line](https://open.spotify.com/track/4uZJ40a5AePzu7aZ1dY9Em) | [Hairpin](https://open.spotify.com/artist/56T7NRvLxhB1iFBbLgWOJ3) | [The Line](https://open.spotify.com/album/19dYt1yxJLFmLdBRuKEW1b) | 3:58 | 2022-10-19 | 2022-12-01 |
 | [The Line](https://open.spotify.com/track/1fO3kzbN4GmH6HDjN53ahE) | [Parker](https://open.spotify.com/artist/3Kxw0i9QHo1vCBzdu8Mvap) | [The Line](https://open.spotify.com/album/6qn3NN9GQX1BxUWDNBBSY7) | 2:53 | 2023-05-24 | 2023-06-28 |
 | [the List](https://open.spotify.com/track/1N7dlofuSwsGLx7XmENhNJ) | [Victor Mucho](https://open.spotify.com/artist/6uV2cOu6PbLzYNQyxPo9iu) | [the List](https://open.spotify.com/album/7DcrA9KZ7ZPsK9ndlee6O8) | 5:19 | 2022-03-30 | 2022-04-13 |
-| [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 | 2024-01-17 |  |
+| [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 | 2024-01-17 | 2024-02-21 |
 | [The Low Land](https://open.spotify.com/track/0nIdgq1KgCBfbmnTdRHtJW) | [Bingo Club](https://open.spotify.com/artist/0nLmmtje0AmaVYALhs9kVv) | [The Low Land](https://open.spotify.com/album/2MXf88ooHiY2p3xkTVrLEv) | 3:25 | 2022-11-09 | 2022-12-01 |
 | [The Man](https://open.spotify.com/track/48OztleOT6GyNUap7kDWew) | [Martha Ffion](https://open.spotify.com/artist/5Hfe2K074kukMOuccDN5Lc) | [The Man](https://open.spotify.com/album/5shXNoxEjAbbqoxMWGmkzO) | 3:05 | 2023-06-14 | 2023-06-28 |
 | [The Man For You](https://open.spotify.com/track/0MBEey00CAc28CSFfszRHA) | [Patriarchy](https://open.spotify.com/artist/6iA1dQ8FgTN96un4zy5eki) | [The Man For You](https://open.spotify.com/album/4AWiEzN4lyGCiTYNRJufpa) | 4:28 | 2022-07-27 | 2022-08-25 |

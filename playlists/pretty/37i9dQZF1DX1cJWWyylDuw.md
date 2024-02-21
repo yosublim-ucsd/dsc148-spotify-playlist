@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Left To Suffer
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,591 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,806 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 41 | [Outrun](https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN) | 3:45 |
 | 42 | [Without End](https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Without End](https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP) | 2:34 |
 | 43 | [Make America Hate Again](https://open.spotify.com/track/2HzQnBbzfJIUYIub2UlccS) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM) | 3:14 |
-| 44 | [Destructo](https://open.spotify.com/track/72dlRtRULviBnoxATyLBjW) | [Hunt the Dinosaur](https://open.spotify.com/artist/0Soz973Ih3ocID7FOktNpv) | [Dankosaurus](https://open.spotify.com/album/0KrXmQksBQFMy68bbi67Je) | 3:21 |
-| 45 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
+| 44 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
+| 45 | [Destructo](https://open.spotify.com/track/72dlRtRULviBnoxATyLBjW) | [Hunt the Dinosaur](https://open.spotify.com/artist/0Soz973Ih3ocID7FOktNpv) | [Dankosaurus](https://open.spotify.com/album/0KrXmQksBQFMy68bbi67Je) | 3:21 |
 | 46 | [Gaslight](https://open.spotify.com/track/49yo9KMW5LEYNvGoh7TEVG) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Fear & Loathing](https://open.spotify.com/album/0odjkD2BkmycwuyJrfg93A) | 3:10 |
 | 47 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 |
 | 48 | [Hellions](https://open.spotify.com/track/2ifhuqHixRseGujnENtfbl) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Hellions](https://open.spotify.com/album/59J4vXs3evRbjxhtSBiztl) | 4:13 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 103 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 |
 | 104 | [Kimo](https://open.spotify.com/track/5AkX89uLg47wse4Z1g6oil) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 3:38 |
 | 105 | [Deathtouch](https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Deathtouch](https://open.spotify.com/album/4lK1lZBV3S2o8XhMvSbvHH) | 3:45 |
-| 106 | [For Whom the Banshee Cries](https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [I Hope We Make It Out of This Alive](https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx) | 6:24 |
-| 107 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
+| 106 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
+| 107 | [For Whom the Banshee Cries](https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [I Hope We Make It Out of This Alive](https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx) | 6:24 |
 | 108 | [Deathmask Divine](https://open.spotify.com/track/22RdGoI0UEZjckg2VX70WC) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Deathmask Divine](https://open.spotify.com/album/6F8ZKgYv9MLtTbw8g885JT) | 4:22 |
 | 109 | [Cut off the Head](https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Cut Off The Head](https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv) | 3:30 |
 | 110 | [From Ruin..\. We Rise](https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [From Ruin..\. We Rise](https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW) | 4:50 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 123 | [Gypsy Disco](https://open.spotify.com/track/3md0vbPVjAthmi7NgQYvcR) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Gypsy Disco](https://open.spotify.com/album/6XlxptF7rFq2zqEX9aFhgg) | 2:01 |
 | 124 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 |
 | 125 | [Voices](https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [How To Live And How To Lose](https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp) | 4:15 |
-| 126 | [Death Magick](https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq) | 7:07 |
-| 127 | [Anti\-Fetish](https://open.spotify.com/track/1DNJEei0Cn2KoUl8U3SyCe) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Negative Energy](https://open.spotify.com/album/30Ggyx6pEhcfLDLJ5mtXEh) | 3:58 |
+| 126 | [Anti\-Fetish](https://open.spotify.com/track/1DNJEei0Cn2KoUl8U3SyCe) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Negative Energy](https://open.spotify.com/album/30Ggyx6pEhcfLDLJ5mtXEh) | 3:58 |
+| 127 | [Death Magick](https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq) | 7:07 |
 | 128 | [The Amygdala Chorus](https://open.spotify.com/track/5tmJCrDqstthNnM4MtWDk9) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [The Amygdala Chorus](https://open.spotify.com/album/5qOPQK5fz14mnJUlTA0Vwe) | 3:50 |
 | 129 | [Dying Life](https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Dying Life](https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX) | 3:20 |
 | 130 | [Tower of Torsos](https://open.spotify.com/track/6RCgSGMboHdokG852OILQm) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Tower of Torsos](https://open.spotify.com/album/2bPi3VonAP6mtglL6iKtfX) | 3:29 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 141 | [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/0qWD1JSQ3NH4bq9ZkRcDbm) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation](https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3) | 3:04 |
 | 142 | [The Bleeding Machine](https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6) | [Tactosa](https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI), [Elysia](https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS) | [The Bleeding Machine](https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo) | 3:43 |
 | 143 | [No One's Above](https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [No One's Above](https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH) | 3:33 |
-| 144 | [Rage](https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:54 |
-| 145 | [Axe of Kindness](https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Axe Of Kindness](https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6) | 4:08 |
+| 144 | [Axe of Kindness](https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Axe Of Kindness](https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6) | 4:08 |
+| 145 | [Rage](https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:54 |
 | 146 | [The Cycle Of Violence : Chapter 1](https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR) | 2:38 |
 | 147 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 |
 | 148 | [Empress](https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Empress](https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM) | 3:53 |
 | 149 | [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 |
 | 150 | [Malediction](https://open.spotify.com/track/0uT6SSzA93yxuWZea8bmxk) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Malediction](https://open.spotify.com/album/5ebvrBFdm6sSF9YPs4vfvy) | 5:40 |
 
-Snapshot ID: `MCw5MmQ4YjljMjc2YTZhMjg5OTZlMDEzMjA4ZWYyODdhMTE3MmVlNWEx`
+Snapshot ID: `MCxjYzA1OTNmZWUzMjliY2QyMjE1NTMzNzMwYmNiNDYzN2YyYzQxZmQz`

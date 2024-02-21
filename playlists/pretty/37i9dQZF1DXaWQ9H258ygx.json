@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 94031,
+  "num_followers": 94107,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2U2ZWNlYmU2YzRlMGRkNGJiMTA0NzA0ZWFmYmJhOWJjYTc5ZDBm",
+  "snapshot_id": "MCwwOTI5MWZhMWFjMTQ1ZTU2ZmQ0NmQ5MjMzYzQ5ZGZkN2I4MWQ3MGFl",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "King Of The Fall",
-        "url": "https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 301594,
-      "name": "King Of The Fall",
-      "url": "https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "No Love Lost",
         "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 154105,
       "name": "Be Alone",
       "url": "https://open.spotify.com/track/7tjtWVu8RsshzPxQm8oT3y"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "King Of The Fall",
+        "url": "https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 301594,
+      "name": "King Of The Fall",
+      "url": "https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm"
     },
     {
       "added_at": "2022-10-03 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 283816,
-      "name": "Club Paradise",
-      "url": "https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 255466,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/6UKb1qcw5jqmoVeln2i3ZL"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 283816,
+      "name": "Club Paradise",
+      "url": "https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w"
     },
     {
       "added_at": "2022-10-03 04:00:00",

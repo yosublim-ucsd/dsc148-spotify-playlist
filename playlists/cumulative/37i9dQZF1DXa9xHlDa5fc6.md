@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-360 songs - 22 hr 15 min
+361 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Hold feat\. Daniela Andrade \- Original Mix](https://open.spotify.com/track/5Kr01FtRG1qf7nHJJoGAX9) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Hold / She Was](https://open.spotify.com/album/5Ar7kiYQjX1l1VEXqKjsCF) | 5:59 | 2019-06-16\* | 2022-01-27 |
 | [Hold on to Your Heart](https://open.spotify.com/track/309SSdFnorhTPt5zIAdr7g) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/2vpzTHAONPRfkg1np7dbjX) | 3:19 | 2019-06-16\* | 2022-06-07 |
 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 | 2020-08-30 |  |
-| [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 | 2019-06-16\* |  |
+| [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 | 2019-06-16\* | 2024-02-21 |
 | [Honey](https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:43 | 2019-06-16\* | 2022-11-14 |
 | [Hoops](https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut) | 2:38 | 2019-06-16\* |  |
 | [Horizon](https://open.spotify.com/track/69pHON1ZVmefKhnPW7cKVn) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Horizon](https://open.spotify.com/album/5JdKVqTVuq6o2tnFuNn4sk) | 3:13 | 2019-06-16\* | 2022-07-29 |
@@ -283,6 +283,7 @@
 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 | 2023-05-26 |  |
 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 | 2020-10-30 |  |
 | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ) | [Alvarez Kings](https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf) | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK) | 3:21 | 2019-06-16\* | 2022-12-17 |
+| [Slow Burn](https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 3:21 | 2024-02-20 |  |
 | [Smoke](https://open.spotify.com/track/1Ncfo3Q2IT4oc3RG719AIz) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/6TUWxFFYv4cPkgU9HuYGCJ) | 3:47 | 2019-06-16\* | 2022-07-29 |
 | [Smoke](https://open.spotify.com/track/35WUQVTAFS9mLNynSnRsAR) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/6B79nTDPvYv9apEMexlJg2) | 3:47 | 2022-09-16 | 2022-10-24 |
 | [Smoke](https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Talking in Circles](https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx) | 3:47 | 2022-10-28 | 2024-02-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,257 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,318 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [GoodSin \(feat\. Reekado Banks\) \- Remix](https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [GoodSin \(feat\. Reekado Banks\) \[Remix\]](https://open.spotify.com/album/6qqlM35C4DXPsTO54i9pku) | 3:53 |
 | 60 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 
-Snapshot ID: `MCxhYjI4MmUxNjI5NDBiYjUxNTkxOWUyNGNkNTk1OTljMTE4ZTM0ZTA4`
+Snapshot ID: `MCw5YzM5ZTMwZjJiNzkyYWUwMDlmYWM3MDc2ZTZhNWI4MzM1YzYxNjhj`

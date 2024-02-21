@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,179 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,189 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 49 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
 | 50 | [Remembranzas](https://open.spotify.com/track/0Rpah08ZeUKzXlIQgXsqMp) | [Edgar Dorantes](https://open.spotify.com/artist/14IDIXsaBbdaQygouydSgK), [Emiliano Coronel](https://open.spotify.com/artist/3o9wZ9Jl3y7LQqUhYva7ZB), [Vladimir Coronel](https://open.spotify.com/artist/1BjvkoxetuVsSBUQ3Y6CtK) | [Remembranzas](https://open.spotify.com/album/1nGaQn6Vh2nneDYgTtMwxK) | 6:13 |
 
-Snapshot ID: `MCw4OWQxZmY1YzE2NTY4NmY0OGEwMjMzM2Q0Mjg0M2FiZjFmYjdhMmJk`
+Snapshot ID: `MCxlYzFjMWMyNDAyNWIzMWY5NDYzOWQ3OTE2OWQ4MzNkYzliMGY2YmU2`

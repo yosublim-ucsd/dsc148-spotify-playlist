@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,620 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,674 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 |
 | 100 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 |
 
-Snapshot ID: `MCw2MjExODU0M2NiYzQ1M2EzZGRlMzcwNjg1Zjg3ZWU0ZmMzN2NiOTBl`
+Snapshot ID: `MCw4Nzg2NTZkMTQ5ZTJhYmRmNWZlY2RlODU2ZTUwNzFlMTkxYmQzYmM0`

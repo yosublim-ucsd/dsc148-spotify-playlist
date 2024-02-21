@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 139822,
+  "num_followers": 139823,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjJhMmIyOTY5ZTgzY2RiMjI0MjgyNzU3OWQ5OTY2MjRhYWU1MmU0",
+  "snapshot_id": "MCw1Y2NkOGNhM2QxOWYxYmFjZDRkYjQ4ZDkwNTI2MjAzYmQyMTYxNmU3",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 309018,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 309018,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Where Is the Love",
-      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Diana Ross & The Supremes Join The Temptations",
         "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
@@ -1507,18 +1487,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
       "artists": [
         {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+      "duration_ms": 166400,
+      "name": "Where Is the Love",
+      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "George McCrae - Disco Pioneer",
         "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Tell It Like It Is - The Par Lo Years",
-        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Bettye Swann",
         "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 226240,
       "name": "Then You Can Tell Me Goodbye",
       "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Essentials: Bloodstone",
-        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
-      },
-      "artists": [
-        {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Natural High - Single Version",
-      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Black Radio",
         "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 307626,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Essentials: Bloodstone",
+        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
+      },
+      "artists": [
+        {
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Natural High - Single Version",
+      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Soul Messin'",
         "url": "https://open.spotify.com/album/5WPhlzl38yomyOqn5MNnMe"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 224000,
       "name": "This Girl",
       "url": "https://open.spotify.com/track/5TJD3o52h1wMDoU0cYGwTv"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Lay It Down",
-        "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Just For Me",
-      "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Acklin",
+          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Am I The Same Girl",
+      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Wake Up!",
         "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 264866,
       "name": "Wake up Everybody (feat. Common & Melanie Fiona)",
       "url": "https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
-      },
-      "artists": [
-        {
-          "name": "Barbara Acklin",
-          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Am I The Same Girl",
-      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2735,22 +2735,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Movin' on a Groove (The Crazy Cajun Recordings)",
         "url": "https://open.spotify.com/album/5AxFLygDQa0lQyQM2O4jIZ"
       },
@@ -2763,6 +2747,22 @@
       "duration_ms": 146023,
       "name": "I'm a Good Woman",
       "url": "https://open.spotify.com/track/4uPhgJrU9MlUy9LLK1Ls5E"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2799,22 +2799,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -2835,18 +2819,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Please Love Me",
-        "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
       },
       "artists": [
         {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb"
+      "duration_ms": 170066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2879,6 +2863,22 @@
       "duration_ms": 416626,
       "name": "Be Thankful for What You've Got - David Todd Remix",
       "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Please Love Me",
+        "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3015,6 +3015,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Wake Up!",
         "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
       },
@@ -3031,22 +3047,6 @@
       "duration_ms": 386866,
       "name": "Compared to What",
       "url": "https://open.spotify.com/track/6HwUwxon7QjBIf75SCz2QD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf"
-      },
-      "artists": [
-        {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Space of You",
-      "url": "https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Hits & Rarities",
         "url": "https://open.spotify.com/album/5Pxfeg7GAycBGJCeJf0XgQ"
       },
@@ -3263,6 +3247,22 @@
       "duration_ms": 156000,
       "name": "Got to Get You Off My Mind",
       "url": "https://open.spotify.com/track/3EdEYvz51HZMhdClyyJFlB"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf"
+      },
+      "artists": [
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Space of You",
+      "url": "https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0"
     },
     {
       "added_at": "2023-08-15 12:19:30",

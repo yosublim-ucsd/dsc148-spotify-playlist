@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 107856,
+  "2024-02-21": 107852,
   "date_first_scraped": "2019-09-29",
   "description": "Obama&#x27;s favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": " Obama\u2019s Summer Playlist 2024 | Favorite Songs of 2023",
@@ -6691,7 +6691,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 225000,
       "name": "Bored",
       "url": "https://open.spotify.com/track/0kpj0uEvAueH685J9iwNFl"
@@ -9481,7 +9481,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 196309,
       "name": "Christmas In July",
       "url": "https://open.spotify.com/track/2t5ibZi5DHaJBJvVOWstOX"
@@ -10481,7 +10481,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 238750,
       "name": "Como Me Sorprendes",
       "url": "https://open.spotify.com/track/6MwAchl4iw5GGsHST7iw2L"
@@ -17357,7 +17357,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 217552,
       "name": "Fire on Cloud 9",
       "url": "https://open.spotify.com/track/7rnfP3Cq6zxXbOW6z6NIC1"
@@ -21866,6 +21866,24 @@
     },
     {
       "album": {
+        "name": "The Renegade and Preacher Man",
+        "url": "https://open.spotify.com/album/4MncIPCAaWR4yciqE4QZqy"
+      },
+      "artists": [
+        {
+          "name": "Azeez Sanusi",
+          "url": "https://open.spotify.com/artist/3u8xZzq1bVqVXhzQM6NbRi"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205682,
+      "name": "Her Groove",
+      "url": "https://open.spotify.com/track/6ax6gl2sldunonkpswlnGT"
+    },
+    {
+      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/4iKgNZBmlBDDi8hXfJq9Q5"
       },
@@ -22477,10 +22495,32 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 240612,
       "name": "Home Is My Heart",
       "url": "https://open.spotify.com/track/3zZjdC4DkVTJuNoV9U9TUo"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/7jsrJcDqYU5rBOfW2ccNqT"
+      },
+      "artists": [
+        {
+          "name": "KATIA",
+          "url": "https://open.spotify.com/artist/67WdSeITH5ZYOuXzqv335b"
+        },
+        {
+          "name": "Paul Aiden",
+          "url": "https://open.spotify.com/artist/2StetEA6xAwZgC0tGICp33"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168230,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/4kqZrcwOkWKq3o2BTIXTYX"
     },
     {
       "album": {
@@ -22739,6 +22779,24 @@
       "duration_ms": 223869,
       "name": "How Far",
       "url": "https://open.spotify.com/track/0OMge2iLljuogYRKzbgB5Y"
+    },
+    {
+      "album": {
+        "name": "How Good",
+        "url": "https://open.spotify.com/album/7HJS4x3SP3U3gzQ91mU7bs"
+      },
+      "artists": [
+        {
+          "name": "Annie Cowan",
+          "url": "https://open.spotify.com/artist/0jbQJHTHqQymeL4ZODEKt6"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "How Good",
+      "url": "https://open.spotify.com/track/14ZwKkQRnwowjLb7oBl8ud"
     },
     {
       "album": {
@@ -27066,6 +27124,24 @@
     },
     {
       "album": {
+        "name": "Knew Better",
+        "url": "https://open.spotify.com/album/0kxVuV8dtuge0jlevFqhiV"
+      },
+      "artists": [
+        {
+          "name": "MALZ",
+          "url": "https://open.spotify.com/artist/3i7Z2zo7dghS1XN0gx2QVE"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176296,
+      "name": "Knew Better",
+      "url": "https://open.spotify.com/track/3Zi4HysszlC31G4xWcY4cb"
+    },
+    {
+      "album": {
         "name": "Lovergirl",
         "url": "https://open.spotify.com/album/3p85u0tI67x88CLMW1Trov"
       },
@@ -28047,7 +28123,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 242898,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/7fnSjcEwcs5VpG4IuLDKTB"
@@ -35289,7 +35365,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 195363,
       "name": "No Te Lo Mereces",
       "url": "https://open.spotify.com/track/3egtBfWrAU4tqbYk4LQ4ox"
@@ -39325,7 +39401,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 178983,
       "name": "Problems",
       "url": "https://open.spotify.com/track/09kEIb3lhZEWMdSSwo5Zeu"
@@ -46205,7 +46281,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 247230,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/0Ng667EptlsKLfPHXkMmLt"
@@ -46227,6 +46303,24 @@
       "duration_ms": 121247,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/5tiXe9KoGmYHHBZwKHhAfD"
+    },
+    {
+      "album": {
+        "name": "Stupid Cupid",
+        "url": "https://open.spotify.com/album/5kGoQQeR1KQxQmE5zmMty8"
+      },
+      "artists": [
+        {
+          "name": "Gemi Dream",
+          "url": "https://open.spotify.com/artist/5SgNqTom9gLElyZ26cD0CI"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162288,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/0vMRZycjJEBQTw5EYeKztq"
     },
     {
       "album": {
@@ -48347,7 +48441,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 198709,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/4I7M8sEbqY1UPbrDtqTwwR"
@@ -54569,6 +54663,24 @@
       "duration_ms": 177611,
       "name": "When I Came Up - Radio Edit",
       "url": "https://open.spotify.com/track/20ne3AZUsCWfCxd8SZ5sUo"
+    },
+    {
+      "album": {
+        "name": "when i think of you",
+        "url": "https://open.spotify.com/album/4Wuy8yZITKjUg5nJS7xitX"
+      },
+      "artists": [
+        {
+          "name": "TEANSH",
+          "url": "https://open.spotify.com/artist/323Gqsf7KGFaRchopjSVDD"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "when i think of you",
+      "url": "https://open.spotify.com/track/0AvCI19l8HiGzDeJpLQeqx"
     },
     {
       "album": {

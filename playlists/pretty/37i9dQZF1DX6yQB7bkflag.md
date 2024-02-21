@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,455 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,466 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 84 | [Pernah Singgah \- From "Layangan Putus The Movie"](https://open.spotify.com/track/5Bch2Q7Y7PxrwX1ziMlkJf) | [Citra Scholastika](https://open.spotify.com/artist/1jWIP5sLhDZttQeR0mPffn) | [Pernah Singgah \(From "Layangan Putus The Movie"\)](https://open.spotify.com/album/7afJVAypn9avb7dfSymkEW) | 3:01 |
 | 85 | [CLOSER](https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [CLOSER](https://open.spotify.com/album/0z0LGO3fqevrJKVodLmLuG) | 2:22 |
 
-Snapshot ID: `MCw5YWY2OTQxZDliYTY1YzU4YjY3NTNlZDY0Yjc1MDU5ZDQ5MzJhNThh`
+Snapshot ID: `MCxiODhhZjBjMDhjMzE5YWIwNzVkY2I4ZGU0NzE0ZTUyZjc3YmFkZDgw`

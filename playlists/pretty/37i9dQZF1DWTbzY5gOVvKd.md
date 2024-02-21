@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,845 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,982 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Don't Take Your Love from Me](https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem on My Mind](https://open.spotify.com/album/4ke3olYfrnMtMkYORPzGO5) | 4:52 |
 | 100 | [Keep Me From The Cold](https://open.spotify.com/track/4gVLzEtFpDafndD1HYxLmU) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/0gyFNKLHDxHubN3Yf10A7K) | 4:43 |
 
-Snapshot ID: `MCw3NTdjMWI0NDZiYTQ5MjgxOGY4ODY0NjNkYTAxNzk1YjU5ZWRmNWM0`
+Snapshot ID: `MCwzMmNmNTQ3NmUwOTczYTdkNmFkMWRmM2FlYWI3YjRkNzRiYzE5MGYw`

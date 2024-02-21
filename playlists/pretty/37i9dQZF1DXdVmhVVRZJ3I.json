@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 278266,
+  "num_followers": 278291,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2Y1Mzc2MjNmMTBlNGNiYTUxZjc4YTQ2YTk5MTg0NGVhNmZjMDhh",
+  "snapshot_id": "MCw1ZTYxYWVlZjE2ZjIzYzE1NmMxZTZhODgyOGUwYmM1MzRhNWVlODJm",
   "tracks": [
     {
       "added_at": "2024-02-16 03:03:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-02-16 03:03:00",
       "album": {
+        "name": "Shingaling Shingaling",
+        "url": "https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Shingaling Shingaling",
+      "url": "https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS"
+    },
+    {
+      "added_at": "2024-02-16 03:03:00",
+      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 159500,
       "name": "The Wall",
       "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
-    },
-    {
-      "added_at": "2024-02-16 03:03:00",
-      "album": {
-        "name": "Shingaling Shingaling",
-        "url": "https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Shingaling Shingaling",
-      "url": "https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS"
     },
     {
       "added_at": "2024-02-16 03:03:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-02-16 03:03:00",
       "album": {
+        "name": "Showing Signs",
+        "url": "https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Showing Signs",
+      "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"
+    },
+    {
+      "added_at": "2024-02-16 03:03:00",
+      "album": {
         "name": "Preacher",
         "url": "https://open.spotify.com/album/0OiCQxj9JxilgP7HVIuBjk"
       },
@@ -1019,18 +1035,22 @@
     {
       "added_at": "2024-02-16 03:03:00",
       "album": {
-        "name": "Showing Signs",
-        "url": "https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS"
+        "name": "Club Zero Cool, Vol. 2",
+        "url": "https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1"
       },
       "artists": [
         {
-          "name": "PRINSH",
-          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Showing Signs",
-      "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"
+      "duration_ms": 142500,
+      "name": "Feels Like Love",
+      "url": "https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP"
     },
     {
       "added_at": "2024-02-16 03:03:00",
@@ -1051,26 +1071,6 @@
       "duration_ms": 165519,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
-    },
-    {
-      "added_at": "2024-02-16 03:03:00",
-      "album": {
-        "name": "Club Zero Cool, Vol. 2",
-        "url": "https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Feels Like Love",
-      "url": "https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP"
     },
     {
       "added_at": "2024-02-16 03:03:00",

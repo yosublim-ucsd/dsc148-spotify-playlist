@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 126467,
+  "2024-02-21": 126478,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -8281,6 +8281,28 @@
       "duration_ms": 180922,
       "name": "No Service",
       "url": "https://open.spotify.com/track/1R2g5R7ckiCczur5kd3BfI"
+    },
+    {
+      "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/1swqPWfvWrpOON97OKZ6Bx"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Brandyn Burnette",
+          "url": "https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM"
     },
     {
       "album": {

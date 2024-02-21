@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 563784,
+  "2024-02-21": 563795,
   "date_first_scraped": "2023-08-25",
   "description": "Se viene el partido, la previa es con m\u00fasica!",
   "name": "Previa Futbolera",
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 185866,
       "name": "Ese Maldito Momento",
       "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"

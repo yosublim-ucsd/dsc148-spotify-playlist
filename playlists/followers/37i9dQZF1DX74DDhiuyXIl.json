@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 73452,
+  "2024-02-21": 73493,
   "date_first_scraped": "2022-06-09",
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
   "name": "\u8fd4\u5bb6\u8f15\u807d",
@@ -39,6 +39,24 @@
       "duration_ms": 228851,
       "name": "11",
       "url": "https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL"
+    },
+    {
+      "album": {
+        "name": "AI",
+        "url": "https://open.spotify.com/album/1QXqnUwBUiY5KFMjwJC5LT"
+      },
+      "artists": [
+        {
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280384,
+      "name": "AI",
+      "url": "https://open.spotify.com/track/6bQ4fk3jjE6F8SLf1QYRTQ"
     },
     {
       "album": {
@@ -277,7 +295,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 241804,
       "name": "Just You and Me",
       "url": "https://open.spotify.com/track/2rQgwJUT8zzyJzOqpxbzme"
@@ -443,6 +461,24 @@
       "duration_ms": 193978,
       "name": "On My Way - \u5f71\u8996\u5287\u300a\u89aa\u611b\u58de\u86cb\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/58FimlHk9xz5UGMOxdSWbf"
+    },
+    {
+      "album": {
+        "name": "P.S.\u6211\u7231\u4f60",
+        "url": "https://open.spotify.com/album/0FZ2dIwuo2dgaTS8TlLFIr"
+      },
+      "artists": [
+        {
+          "name": "\u4e8e\u51ac\u7136",
+          "url": "https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252580,
+      "name": "P.S.\u6211\u7231\u4f60",
+      "url": "https://open.spotify.com/track/6ZQ9qpCZicyLZciOKXb4be"
     },
     {
       "album": {
@@ -1309,7 +1345,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 201363,
       "name": "\u4f60\u5920\u4e86",
       "url": "https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR"
@@ -3087,7 +3123,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 336053,
       "name": "\u5c07\u6545\u4e8b\u5beb\u6210\u6211\u5011",
       "url": "https://open.spotify.com/track/3APYQVgmEDZ6sPbpLo7Hog"
@@ -5945,6 +5981,24 @@
       "duration_ms": 243846,
       "name": "\u85cd\u8272\u5929\u7a7a",
       "url": "https://open.spotify.com/track/2bY4nahVZwOulPuVf2pn2a"
+    },
+    {
+      "album": {
+        "name": "\u85cf\u661f\uff08\u7535\u5f71\u300a\u70ed\u8fa3\u6eda\u70eb\u300b\u70ed\u8fa3\u7efd\u653e\u66f2\uff09",
+        "url": "https://open.spotify.com/album/6NA4mEFm1r8E8RKXdTsG9J"
+      },
+      "artists": [
+        {
+          "name": "Silence Wang",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "\u85cf\u661f\uff08\u7535\u5f71\u300a\u70ed\u8fa3\u6eda\u70eb\u300b\u70ed\u8fa3\u7efd\u653e\u66f2\uff09",
+      "url": "https://open.spotify.com/track/1oCw1EeqkMIoum1FQUgEaj"
     },
     {
       "album": {

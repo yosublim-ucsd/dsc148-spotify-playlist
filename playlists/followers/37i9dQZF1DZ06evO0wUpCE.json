@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 473003,
+  "2024-02-21": 473137,
   "date_first_scraped": "2023-08-09",
   "description": "This is Intocable. The essential tracks, all in one playlist.",
   "name": "This Is Intocable",
@@ -179,7 +179,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 216733,
       "name": "Como Te Atreves",
       "url": "https://open.spotify.com/track/1bg1HuabdLOEfGms2uVqfk"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 207226,
       "name": "Eres Mi Droga",
       "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"

@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-138 songs - 7 hr 18 min
+139 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Flowers](https://open.spotify.com/track/6pYLdl855Ul8ckKKWzCrig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/3OJMNgLFpxJLgTPw3YmNTx) | 3:02 | 2022-10-11 |  |
 | [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 | 2023-09-26 |  |
 | [Frontin' Me](https://open.spotify.com/track/6VqYMjfZsbHrN9BCuW7FXm) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9) | [Frontin' Me](https://open.spotify.com/album/0TD7IObbIeL05ZCzp1yza0) | 3:29 | 2022-10-11 |  |
-| [garden](https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Afterglow](https://open.spotify.com/album/1xgaY66wY1j5WOW8J7orN8) | 3:20 | 2022-10-11 |  |
+| [garden](https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Afterglow](https://open.spotify.com/album/1xgaY66wY1j5WOW8J7orN8) | 3:20 | 2022-10-11 | 2024-02-21 |
 | [Go](https://open.spotify.com/track/6pkcCKeavDKCtv147qcImc) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Go](https://open.spotify.com/album/4Lem57oFsCssMZFFrneeSo) | 3:15 | 2022-10-11 |  |
 | [Good Night](https://open.spotify.com/track/6CTqCqStHM2ji0liLLVJvk) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [Dove](https://open.spotify.com/album/46KM2P8PERBA1CrK5nvIFZ) | 2:37 | 2022-10-11 | 2022-11-16 |
 | [Goodbye Blurry Days](https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [So Long So Blue](https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ) | 3:45 | 2022-10-11 |  |
@@ -111,6 +111,7 @@
 | [School](https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu) | [BLYNE](https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD), [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO) | [This is Our First EP](https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9) | 3:32 | 2022-10-11 |  |
 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-15 |  |
 | [see](https://open.spotify.com/track/6m4SGZgICa4whATqFQXHMJ) | [sorami](https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98) | [see](https://open.spotify.com/album/0eywhLcTdxTE73zpDwFiyx) | 3:27 | 2022-10-11 |  |
+| [SHIBUYA 246](https://open.spotify.com/track/5BGcu5bwV51odilErIUURl) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [SHIBUYA 246](https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U) | 2:51 | 2024-02-20 |  |
 | [Shin](https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Shin](https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf) | 3:45 | 2022-10-11 |  |
 | [Shine](https://open.spotify.com/track/7B0ciDEJ4KuqhLQ4Mib3c1) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [LaVida](https://open.spotify.com/album/1upwSmMlfl1JO2Mmdn1PMV) | 2:11 | 2023-08-15 |  |
 | [Shine](https://open.spotify.com/track/5SgkueQ89lqtDZOlZ31ssy) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [LaVida](https://open.spotify.com/album/2iIDFxLxV185KAwDUByb4w) | 2:11 | 2022-10-11 | 2023-09-03 |

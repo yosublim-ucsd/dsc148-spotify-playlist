@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: EFÉ\. Artwork by Isu Kim.
 
-5,741 songs - 13 day 0 hr 14 min
+5,743 songs - 13 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,7 +825,8 @@
 | [Call Me Monday](https://open.spotify.com/track/6T6XLR2ip1vAvew0aIQvfE) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Call Me Monday](https://open.spotify.com/album/6upnaL4tCzI3zmr2Lj3L2j) | 3:04 | 2023-03-15 | 2023-03-23 |
 | [Call Me Stupid](https://open.spotify.com/track/4fXHEdEmxMsCP4tB3LvZpi) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [Call Me Stupid](https://open.spotify.com/album/2iWoEWnknZLRDWDaLQU3T2) | 2:26 | 2024-02-14 |  |
 | [Call Me Your Hope](https://open.spotify.com/track/12MinAwnBD9uFK2amDeXty) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Call Me Your Hope](https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp) | 1:56 | 2022-01-12 | 2022-01-20 |
-| [Call Me Yours](https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/3BPC42nOK14EoviiHP71Wg) | 2:31 | 2024-02-07 |  |
+| [Call Me Yours](https://open.spotify.com/track/0BhdrTIB5flACZyaLjdzp4) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/4T7MQ3hv0M7lJoO4uONsoh) | 2:31 | 2024-02-20 |  |
+| [Call Me Yours](https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/3BPC42nOK14EoviiHP71Wg) | 2:31 | 2024-02-07 | 2024-02-21 |
 | [Call You Out](https://open.spotify.com/track/0l9yXOQUBqf5JvUGGMrWFc) | [Lévyne](https://open.spotify.com/artist/2Eh0Mfa8jiw9540B3o5P0N) | [Call You Out](https://open.spotify.com/album/2A7GixtEDQqrncyBHMvndY) | 2:59 | 2023-06-21 | 2023-06-29 |
 | [Calling \(feat\. Ell Murphy\) \[Vocal Edit\]](https://open.spotify.com/track/7KcE6hhkk2cy2MHdMf8Xya) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Calling \(feat\. Ell Murphy\)](https://open.spotify.com/album/0rVL75Z6wCeIjjOh6qeMTa) | 3:30 | 2022-03-02 | 2022-03-10 |
 | [Callus](https://open.spotify.com/track/6OJfjKUPww50wSdDNNO67g) | [micelf](https://open.spotify.com/artist/2oJQ6xl9JSTK0jb8I7j5EF) | [Callus](https://open.spotify.com/album/1cNxWN58A93kCMDetEJRFl) | 3:50 | 2023-07-26 | 2023-08-03 |
@@ -3239,7 +3240,7 @@
 | [MI PAPER](https://open.spotify.com/track/7ABS8CmDKujkYK9zF5sdCn) | [Will TOA](https://open.spotify.com/artist/69xjIFoFKUn23lDQAYoDqM) | [MI PAPER](https://open.spotify.com/album/0OB1qnvDpny15yKOBhGSs0) | 3:04 | 2022-03-23 | 2022-03-31 |
 | [Miata Trip](https://open.spotify.com/track/22gODljaZ3jYXfPO73hkgT) | [Boyu](https://open.spotify.com/artist/7eaiR8THwt8A77v0IZQHm9) | [Miata Trip](https://open.spotify.com/album/4vzzMmeuNfNGg9CADAv5HK) | 3:56 | 2022-03-09 | 2022-03-17 |
 | [Mick Jagger](https://open.spotify.com/track/25Qw1j4lkaeCoL62qyn696) | [CRITTER](https://open.spotify.com/artist/7arvE5qBEbW7UgwoaJhpOM) | [Mick Jagger](https://open.spotify.com/album/0QNQa3yLFYk72Tvdya8tfG) | 2:35 | 2022-04-27 | 2022-05-05 |
-| [Microdose](https://open.spotify.com/track/52MUftJPRd3IQJ1q7DAEaY) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [microdose](https://open.spotify.com/album/4XZh11VvoX8ij09p4wN8nK) | 2:59 | 2024-02-14 |  |
+| [microdose](https://open.spotify.com/track/52MUftJPRd3IQJ1q7DAEaY) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [microdose](https://open.spotify.com/album/4XZh11VvoX8ij09p4wN8nK) | 2:59 | 2024-02-14 |  |
 | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv) | 3:57 | 2024-02-14 |  |
 | [Middle of a Heart](https://open.spotify.com/track/1bNPHWCDOGQMrzKHja2927) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Middle of a Heart](https://open.spotify.com/album/5vzJc5UkAhd1GZvJpM0ODL) | 4:00 | 2022-10-19 | 2022-10-27 |
 | [Middle of the Night](https://open.spotify.com/track/0AyFmhZbB8kmjCjcRsc5E0) | [Sinclair](https://open.spotify.com/artist/0IbWNNqUJWp6qjQePARgTp) | [Montage](https://open.spotify.com/album/2yFpkx0KFtL046idXYX0Rc) | 3:31 | 2022-05-11 | 2022-05-19 |
@@ -3887,7 +3888,8 @@
 | [Pink Walls](https://open.spotify.com/track/00JaaBjwbtAudgFT0ZgY7V) | [Elle Lexxa](https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve) | [Pink Walls](https://open.spotify.com/album/3wgQUESrUBNFgUX5kSRHwG) | 2:47 | 2022-02-02 | 2022-02-10 |
 | [Pinto](https://open.spotify.com/track/3OddtSTZ5AA8bqCyeTGkgi) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [Pinto](https://open.spotify.com/album/6MFwWgLxDbXRc61AOuLePn) | 3:00 | 2022-08-24 | 2022-09-01 |
 | [Pisces](https://open.spotify.com/track/0O3CQPuwVdMZdVohfNFBNp) | [gloomy june](https://open.spotify.com/artist/6mEx3BZllandD1ScLebLBW) | [Pisces](https://open.spotify.com/album/3rGjs5nLtKN12JSAnEEm3p) | 2:48 | 2023-04-05 | 2023-04-13 |
-| [Pisces 2](https://open.spotify.com/track/4eKdnaQERFG2KN9BW9Q1nR) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Bad Parts](https://open.spotify.com/album/0yIP1cfqa0I2SY5erTNZ4a) | 2:57 | 2024-02-14 |  |
+| [Pisces 2](https://open.spotify.com/track/4eKdnaQERFG2KN9BW9Q1nR) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Bad Parts](https://open.spotify.com/album/0yIP1cfqa0I2SY5erTNZ4a) | 2:57 | 2024-02-14 | 2024-02-21 |
+| [Pisces 2](https://open.spotify.com/track/5eAoL8TBELQrWBlKmkWImJ) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Pisces 2](https://open.spotify.com/album/3IhNhq3czJxEDLhM9ie5yP) | 2:57 | 2024-02-20 |  |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-04-27 | 2022-05-05 |
 | [Pistas](https://open.spotify.com/track/0aGpXkS9WsMDZEsel6iJ8c) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [Pistas](https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h) | 3:08 | 2023-06-14 | 2023-06-29 |
 | [pitter\-patter and a kick](https://open.spotify.com/track/7hOd7XMTpn9FhWcJfk0FL5) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [pitter\-patter and a kick](https://open.spotify.com/album/4B9oRbCRGSpdLKnuJeQmkf) | 2:11 | 2022-04-27 | 2022-05-05 |

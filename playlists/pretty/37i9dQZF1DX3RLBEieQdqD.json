@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Diego Daza",
-  "num_followers": 124304,
+  "num_followers": 124335,
   "original_name": "Ranchenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGYwYjYyMWQyNDQ5YjIyYWY5M2NiMmFkYjJmMzBlMjIwZTBjYzkw",
+  "snapshot_id": "MCxiMTdiMmU5MWQ1ZTFmYzk5MTJmNjJlZGFmNDhjZDRiMzg0OGQwZDdi",
   "tracks": [
     {
       "added_at": "2024-02-16 06:02:00",
@@ -1131,6 +1131,258 @@
       "duration_ms": 199653,
       "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Poncho Zuleta 45 A\u00f1os",
+        "url": "https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy"
+      },
+      "artists": [
+        {
+          "name": "Poncho Zuleta",
+          "url": "https://open.spotify.com/artist/1FrVJr7a4ZTOCSnKz3Fuq1"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 517960,
+      "name": "Ma\u00f1anita De Invierno (feat. Silvestre Dangond)",
+      "url": "https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 190961,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 193071,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Todo de Mi (Vol. 4)",
+        "url": "https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 200945,
+      "name": "Ya No Mi Amor",
+      "url": "https://open.spotify.com/track/7qbPQqOYYMPdQqRqv7bNin"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 290733,
+      "name": "Como Te Olvido",
+      "url": "https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Dificil de igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Cuatro Rosas",
+      "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "De Regreso al Dolor",
+        "url": "https://open.spotify.com/album/5g86joQp94OGhGhKrzU9Yc"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 181194,
+      "name": "Muy Bandida",
+      "url": "https://open.spotify.com/track/74Q5KgYnmaaD4onOW77Deu"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Cupido Fall\u00f3",
+        "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 197642,
+      "name": "Cupido Fall\u00f3",
+      "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "El \u00daltimo No",
+        "url": "https://open.spotify.com/album/48ScSRTZO4kwZ5U1hEHxCr"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 193578,
+      "name": "El \u00daltimo No",
+      "url": "https://open.spotify.com/track/1B2SstbNJbKveGHr9vcsYZ"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Cenizas",
+        "url": "https://open.spotify.com/album/0gz3EqgAjtMeOxbDWrICS7"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 157824,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/0gxwW503gXlnieaQiusXun"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Muy Nuestro",
+        "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
+      },
+      "artists": [
+        {
+          "name": "Otto Serge",
+          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+        },
+        {
+          "name": "Rafael Ricardo",
+          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6"
+    },
+    {
+      "added_at": "2024-02-16 06:02:00",
+      "album": {
+        "name": "Sin Ropa Eres M\u00eda",
+        "url": "https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 160818,
+      "name": "Sin Ropa Eres M\u00eda",
+      "url": "https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm"
     }
   ],
   "unique_name": "Ranchenato",

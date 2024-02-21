@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,454 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,457 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 20 | [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 |
 | 21 | [Jimotonouta \- Remix](https://open.spotify.com/track/2tNjeh6NFJIEzGFDLi00Gn) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Hannya](https://open.spotify.com/artist/42ptkP1SS9arSLyX0ECcQF) | [Jimotonouta \(Remix\)](https://open.spotify.com/album/7C3Esxnw1fjY0lLDE0Vxxx) | 2:00 |
 | 22 | [stay with me](https://open.spotify.com/track/7AK5kmnPnzugQggJrN7cTS) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [NAGIlab](https://open.spotify.com/artist/0vCDnZ9GxllOyQzbRUlOLP), [YAMATO HAZE](https://open.spotify.com/artist/5Palu02Jsiu9At8C7naFH1), [shootz](https://open.spotify.com/artist/2wXc4SbZCvWVOgRRyRTrRw) | [morijin](https://open.spotify.com/album/3jomNWJajSmKI9sQ8hgd7C) | 4:04 |
-| 23 | [ときめき](https://open.spotify.com/track/6YfFksjNc28hZfcz2xst8k) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [恋愛](https://open.spotify.com/album/4a4n3o292xrmAzsEPauPQO) | 3:14 |
+| 23 | [ときめき](https://open.spotify.com/track/6YfFksjNc28hZfcz2xst8k) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA), [Mario Caldato Jr.](https://open.spotify.com/artist/2zfOOSDsI5BbmpNeu6Usrr) | [恋愛](https://open.spotify.com/album/4a4n3o292xrmAzsEPauPQO) | 3:14 |
 | 24 | [綺麗](https://open.spotify.com/track/1VEsvrQw1j2hVBcqb13m0Y) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [綺麗](https://open.spotify.com/album/4AMhTOFnpqZVUJ8mesBEUj) | 3:56 |
 | 25 | [CKUW](https://open.spotify.com/track/7MsV4nMSadjHqOu9XIGwpg) | [nkn](https://open.spotify.com/artist/01WkECG8TWIx2ReHH10a7m), [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [CKUW](https://open.spotify.com/album/2MVQVneV56SDY6Onh1WiOt) | 3:29 |
 | 26 | [Saint](https://open.spotify.com/track/4nRphJ8cxGio2Ygloo5nMl) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Saint](https://open.spotify.com/album/27QzrPPWPQ4E0Fthf03rx6) | 2:19 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 66 | [風の中で](https://open.spotify.com/track/67NcGPtqj6ZT0dCVK4zjgV) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [風の中で](https://open.spotify.com/album/2WJ1XJ79XYjbPVO7GFZ9Ld) | 4:41 |
 | 67 | [wherever u r \(ft\. V of BTS\) \- Lullaby \[V\-Ron Mix\]](https://open.spotify.com/track/0QKqNIRuEpRefFa6aVCCwj) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [V\-Ron](https://open.spotify.com/artist/1RCzB7atgHhaVH3OkSvs1j) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/1JrQJJbaphONLPqZRW7Hxw) | 3:01 |
 | 68 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 |
-| 69 | [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 |
+| 69 | [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 |
 | 70 | [Daydream Repeat](https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Daydream Repeat](https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK) | 6:08 |
 
-Snapshot ID: `MCxlZTA2NDA2NDUxOTNlYTA3MDFlZmI4MzlkNTg0NTlhMjAwMmIzNTZi`
+Snapshot ID: `MCwzNmMxOGYyNGU2MWRjMzcwNjNjNTlkMGQ1ZTRmY2I5NmM1ZTA3NzVm`

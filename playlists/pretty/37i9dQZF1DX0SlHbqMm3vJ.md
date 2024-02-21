@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Yaadman FKA Yung L
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,361 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,429 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 |
 | 80 | [Enemy](https://open.spotify.com/track/2BpPchBu0QUEWESGox0EXq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body, Soul & Spirit](https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ) | 2:38 |
 
-Snapshot ID: `MCw0NjBhYmI0MDk2OTBlOTA2MzYxNmEzMWY0MDZjZGM1ZDQzNDQyZmQw`
+Snapshot ID: `MCw0M2NkMGI4MTk4MTlkMTE0NzAxNDAzNzNkZmUzODZiYjU0NDA1YzNk`

@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rachel Levin",
-  "num_followers": 94082,
+  "num_followers": 94094,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGRjZDlkOTZlYzRiZjk2YTQwYzM2YzkzZjNjMTVhNjkzZjM4OGMx",
+  "snapshot_id": "MCwwMjA1NDUwMDZiNmQ3ZTNhM2E2YTE1OTdjZjE5ZTlhMDliNTAxNzQ4",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -87,6 +87,22 @@
       "duration_ms": 183021,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
+    },
+    {
+      "added_at": "2024-02-20 16:19:45",
+      "album": {
+        "name": "Love You To Death",
+        "url": "https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Love You To Death",
+      "url": "https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw"
     },
     {
       "added_at": "2024-02-09 05:50:45",
@@ -683,22 +699,6 @@
       "duration_ms": 218220,
       "name": "New Friend",
       "url": "https://open.spotify.com/track/6ypdHshYFvRKxwvk3gV2TC"
-    },
-    {
-      "added_at": "2024-02-09 05:50:45",
-      "album": {
-        "name": "I Know What It Isn't",
-        "url": "https://open.spotify.com/album/0nv0PvvCZ2OrvlUWUxGaj8"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 183057,
-      "name": "I Know What It Isn't",
-      "url": "https://open.spotify.com/track/0AHmkzxAC070F548NHKAM0"
     },
     {
       "added_at": "2024-02-09 05:50:45",

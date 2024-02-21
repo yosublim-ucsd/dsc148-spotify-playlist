@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: serpentwithfeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,368 likes - 150 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,307 likes - 150 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 |
+| 1 | [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 |
 | 2 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
 | 3 | [DNM](https://open.spotify.com/track/67Oq8booO7HDSL4LlmHE4s) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 1:58 |
 | 4 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [Off the Wall](https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Off the Wall](https://open.spotify.com/album/3RO3fuqDbCEGdVY8DsttaB) | 3:32 |
 | 150 | [FWT](https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [FWT](https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1) | 2:57 |
 
-Snapshot ID: `MCxlN2Y1MDE5NjdlMzJkZWQwNDFjYWRhYjcxMTE4ZmZkMDNkM2Y2MGIx`
+Snapshot ID: `MCw0YzkxMmQxNmIzNjVmNWVmODYxODFlZjU3YWZlMTNiNGJkMjg5M2Zh`

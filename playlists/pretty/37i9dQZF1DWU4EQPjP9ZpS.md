@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,324 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,397 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Clarity](https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [24Hrs.](https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI) | 2:25 |
 | 100 | [Ready](https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h) | [Ambientcloud](https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6) | [Ready](https://open.spotify.com/album/38idADPCBOedtHFKSaeMva) | 2:17 |
 
-Snapshot ID: `MCw3MWQ3YjYxMDM2YWJhOGJlNTAyMTMyZmIzNjA2Mjk5MmM4NWNmZDlh`
+Snapshot ID: `MCxjYjRiZjAwYTJlYWNhYjI4YTQxMDJiOTM5YmQ2OTg2YThkYjY2OTE3`

@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2351706,
+  "num_followers": 2351759,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjQ2MjI5NjhmNGRiZTg3Y2FiZWQwOWQwMTI3ZTI5ZGJmN2U2ZDEw",
+  "snapshot_id": "MCxlY2NmM2U5ZjAxMGUzY2JlYzI3M2I0YmNjYzZmZDBkZmVkYmE5MGYx",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Ophelia",
-        "url": "https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz"
-      },
-      "artists": [
-        {
-          "name": "Natalie Merchant",
-          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Kind & Generous",
-      "url": "https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Pieces Of You",
         "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 340666,
       "name": "Foolish Games",
       "url": "https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Ophelia",
+        "url": "https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz"
+      },
+      "artists": [
+        {
+          "name": "Natalie Merchant",
+          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Kind & Generous",
+      "url": "https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr"
     },
     {
       "added_at": "2020-11-18 19:14:53",

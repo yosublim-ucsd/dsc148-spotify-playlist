@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Skifoan und Hüttenabriss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,740 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,832 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Partysau](https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R) | [Malle Kalle](https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP), [Danergy](https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf) | [Partysau](https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI) | 1:55 |
 | 80 | [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 |
 
-Snapshot ID: `MCwwOWY2ZWY4YjZjMzVkYWQ3NjQ1ZmYxYTkyN2ZmODFhOTQ4MmNjNmVk`
+Snapshot ID: `MCwxMDY4N2VmZmFjOGQyYThmN2I2OTEzYjZmZjAyZDY5MTUxOWFkNzlk`

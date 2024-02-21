@@ -2652,10 +2652,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 171486,
       "name": "Survive",
       "url": "https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x"
+    },
+    {
+      "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/6iNYooKRl6R3rtZUiKcLkV"
+      },
+      "artists": [
+        {
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171486,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/7u4uWBuV6LXLU90rm24vhS"
     },
     {
       "album": {

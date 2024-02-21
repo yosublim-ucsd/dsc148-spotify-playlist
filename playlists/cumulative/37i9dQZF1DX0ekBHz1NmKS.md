@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,018 songs - 2 day 5 hr 28 min
+1,020 songs - 2 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [DOM SKA VETA](https://open.spotify.com/track/1pmGoAvlHYVrJHM5TJwshR) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 1:55 | 2021-12-16 | 2022-03-10 |
 | [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 | 2022-10-15 | 2023-02-05 |
 | [Don't Run](https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9) | [Josefine](https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt) | [Don't Run](https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl) | 2:35 | 2023-03-09 | 2023-05-20 |
+| [Don't Tell Me What To Do](https://open.spotify.com/track/66vQCZCKvbXwvGxU9H5H8q) | [Felin](https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP) | [Don't Tell Me What To Do](https://open.spotify.com/album/1sY6OJRWD3PEvApNPxDkLZ) | 2:43 | 2024-02-15 |  |
 | [Don't Want To Know](https://open.spotify.com/track/5sZaLWNPVqcqRv0JFj4uY1) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Don't Want To Know](https://open.spotify.com/album/0bQfhNwmDbFTLpY6EYOJZF) | 2:23 | 2022-03-10 | 2022-04-21 |
 | [Don't You Dare](https://open.spotify.com/track/4pPlZhhuHGACJewIvWNEMG) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Don't You Dare](https://open.spotify.com/album/7jZ5uylJxeg5TA1jHy32LQ) | 2:53 | 2022-05-26 | 2023-01-08 |
 | [Doppio Passo](https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Doppio Passo](https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX) | 3:07 | 2022-11-10 | 2023-02-25 |
@@ -529,7 +530,8 @@
 | [Little Overdue](https://open.spotify.com/track/3Tfu8xQVJH4bJyMcLB7HXY) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [Enough To Get Away](https://open.spotify.com/album/0mvrLSxv6K43Y4uOJshl9k) | 3:21 | 2023-03-09 | 2023-04-07 |
 | [Liv](https://open.spotify.com/track/5HYGRzjxe11pkXMk84f4Mo) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Liv](https://open.spotify.com/album/1Zants8XFd71jUzdEWTkfb) | 3:17 | 2021-12-16 | 2022-03-11 |
 | [Live and Let Live](https://open.spotify.com/track/4GN2qtuJ4a4EbO325Lpf4y) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Live and Let Live](https://open.spotify.com/album/4rNhhdwFHL6qahcOqVY948) | 3:14 | 2022-02-26 | 2022-05-12 |
-| [Ljug för mig](https://open.spotify.com/track/0Yw8WYGz7tY6CvcoH7QKtm) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/0MD40yNkk9Ftdqsg0JzE3L) | 3:14 | 2024-02-15 |  |
+| [Ljug för mig](https://open.spotify.com/track/07EL8zmTSyiatI1e8Q93SK) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/7J7VPIsNWZbe5vgcV4GIrm) | 3:14 | 2024-02-15 |  |
+| [Ljug för mig](https://open.spotify.com/track/0Yw8WYGz7tY6CvcoH7QKtm) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/0MD40yNkk9Ftdqsg0JzE3L) | 3:14 | 2024-02-15 | 2024-02-21 |
 | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/track/2y18WlxpQwH5CMCA0S7Osx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/album/2V9nF6dNZq234xpICGqeuK) | 3:39 | 2021-12-16 | 2022-03-11 |
 | [Long Gone](https://open.spotify.com/track/4vz7ZHKiBy0WcdE5aTRfT1) | [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Long Gone](https://open.spotify.com/album/2H0zi4Ne3mxQY8hYeywMiG) | 3:03 | 2022-06-09 | 2022-07-15 |
 | [Looking For Love \- Spotify Singles](https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Spotify Singles](https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA) | 3:53 | 2023-06-08 | 2023-07-14 |
@@ -738,7 +740,7 @@
 | [SE MIG](https://open.spotify.com/track/0djNuMqEv8KCVE0tUQyyrJ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [SE MIG](https://open.spotify.com/album/1hH4uUsYGsiZBFi9XlzoX9) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Se mig, bara se mig](https://open.spotify.com/track/7qZRHmZgslebCewAQPR3Vz) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Se mig, bara se mig](https://open.spotify.com/album/2JyEteYRpXeV2OddjXnxgt) | 3:00 | 2021-12-16 | 2022-07-28 |
 | [SECONDS 2 SUNRISE](https://open.spotify.com/track/3EZ2wPfs5QpjQejdd6KXVX) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa), [SALTI](https://open.spotify.com/artist/7Ky7z39i1sO85ZQCRBz16e) | [SECONDS 2 SUNRISE](https://open.spotify.com/album/4T7BbFDYDSFMx8TKdsO8Lq) | 2:53 | 2022-06-23 | 2022-07-21 |
-| [See Me Happy](https://open.spotify.com/track/2EaRH0SnLQVb4bmpNrGI4j) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Guidebook](https://open.spotify.com/album/4wb10EDsvCrbcoiVplFz9H) | 3:38 | 2024-02-08 |  |
+| [See Me Happy](https://open.spotify.com/track/2EaRH0SnLQVb4bmpNrGI4j) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Guidebook](https://open.spotify.com/album/4wb10EDsvCrbcoiVplFz9H) | 3:38 | 2024-02-08 | 2024-02-21 |
 | [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 | 2023-10-05 | 2023-11-03 |
 | [Seriously, Let's Ride or Die](https://open.spotify.com/track/2MBs6ryr1ZxW4EpPUwYP9L) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Seriously, Let's Ride or Die](https://open.spotify.com/album/03FPGcycU0XI6DEgGMB8SM) | 3:18 | 2022-02-20 | 2022-05-13 |
 | [Shadowman](https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:57 | 2023-07-06 | 2023-09-09 |

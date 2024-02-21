@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,719 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,732 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Square Kids \- Anton Feine Remix](https://open.spotify.com/track/0efhQX2ijD72A4XHd43eRc) | [Kusht](https://open.spotify.com/artist/1GLyo3Rp9NTc8bJa65xLXg), [Anton Feine](https://open.spotify.com/artist/2IxXoB8qwqS9uwl3z1zt3o) | [Teapot](https://open.spotify.com/album/7vOUJ6FIStKWKhDwiJTbhV) | 6:31 |
 | 70 | [Easy Days](https://open.spotify.com/track/1qKOZtqBV8W0je2pPSpOzA) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn) | [Easy Days](https://open.spotify.com/album/69vUFvbVj2b7oabEiP6h4d) | 5:39 |
 
-Snapshot ID: `MCxmYjc2Yjc4MDM0NGY4YmZjMzI1Yzc0YWIxNDc4MWQ1NThkODJlMTQw`
+Snapshot ID: `MCw3ZWQ1MDg2MTgzN2ZlYTc3YmQzNjU4ZTE1NDc4OWFmZjU4ZWRiMjlk`

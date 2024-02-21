@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,133 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,138 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 45 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 |
 | 46 | [Grace](https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA \(Deluxe\)](https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy) | 4:46 |
 | 47 | [Grateful](https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 3:29 |
-| 48 | [Something To Believe In](https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP) | [Something To Believe In](https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk) | 2:57 |
-| 49 | [You Are \- Live](https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 6:16 |
+| 48 | [You Are \- Live](https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 6:16 |
+| 49 | [Something To Believe In](https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP) | [Something To Believe In](https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk) | 2:57 |
 | 50 | [Better Than I Found It \(feat\. Kierra Sheard\)](https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:09 |
 
-Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDA0MDk0MWFjM2RmZGVkNTliZTQwYTZlM2MxMTMwOWFkNg==`
+Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA3YTZhZjEwZGU5MThiNzg3NTg1Y2UwNjI2YWRiN2UxYw==`

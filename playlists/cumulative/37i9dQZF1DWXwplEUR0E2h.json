@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 144296,
       "name": "MAS RARO",
       "url": "https://open.spotify.com/track/5au1uA1b2hb7NdDdTQvJYW"
@@ -2046,6 +2046,28 @@
       "duration_ms": 131956,
       "name": "SUDARI",
       "url": "https://open.spotify.com/track/16uz1SEv3PuzRNPFeW5er4"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/6JsNEh667ctg1Iznj6rdTI"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Sue\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/0dpZO7uwO7sPYUJ3TtxG12"
     },
     {
       "album": {

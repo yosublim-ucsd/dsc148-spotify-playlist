@@ -1,12 +1,12 @@
 {
   "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: vavava. Artwork: Isu Kim",
-  "num_followers": 8072,
+  "num_followers": 8073,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODQ2ZmU5YTJhYWNkYmRjNTVlZjI2NDk5MjhjYWY3ZDQxOTg3OWFj",
+  "snapshot_id": "MCxlMDE3ZTg1MmFjZjQzZGJiYzBjM2IyNmVmYTY3OTYwMTI2NjkzZTk1",
   "tracks": [
     {
       "added_at": "2024-02-16 08:40:05",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2024-02-16 08:40:05",
       "album": {
-        "name": "\u0e14\u0e35\u0e02\u0e36\u0e49\u0e19",
-        "url": "https://open.spotify.com/album/7M6YeEOFn0rz2kYkukglqr"
-      },
-      "artists": [
-        {
-          "name": "KNzC",
-          "url": "https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh"
-        },
-        {
-          "name": "PA!NX",
-          "url": "https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU"
-        },
-        {
-          "name": "DoubleG",
-          "url": "https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1"
-        }
-      ],
-      "duration_ms": 220677,
-      "name": "\u0e14\u0e35\u0e02\u0e36\u0e49\u0e19",
-      "url": "https://open.spotify.com/track/37ytIcBSOemrR8soaOo8Gi"
-    },
-    {
-      "added_at": "2024-02-16 08:40:05",
-      "album": {
         "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49",
         "url": "https://open.spotify.com/album/19IThxXWC5xD0Zi9jyeYew"
       },
@@ -1423,6 +1399,30 @@
       "duration_ms": 202000,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e1e\u0e39\u0e14\u0e01\u0e35\u0e48\u0e04\u0e23\u0e31\u0e49\u0e07\u0e16\u0e36\u0e07\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08 (Enough)",
       "url": "https://open.spotify.com/track/0wuWRy2PZdxqCr4IQ7wIlX"
+    },
+    {
+      "added_at": "2024-02-16 08:40:05",
+      "album": {
+        "name": "\u0e14\u0e35\u0e02\u0e36\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/6YdvTuxL9HFkolNqLNxzmT"
+      },
+      "artists": [
+        {
+          "name": "KNzC",
+          "url": "https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh"
+        },
+        {
+          "name": "PA!NX",
+          "url": "https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU"
+        },
+        {
+          "name": "DoubleG",
+          "url": "https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "\u0e14\u0e35\u0e02\u0e36\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/1H3zMGRC6Ch5j9XuxpX2hI"
     }
   ],
   "unique_name": "Fresh Finds Thailand",

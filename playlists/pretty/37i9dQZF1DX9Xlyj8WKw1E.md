@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:6AUl0ykLLpvTktob97x9hO">Tee Grizzley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,285 likes - 59 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,308 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 9 | [Belong To You \(feat\. Babyface Ray\)](https://open.spotify.com/track/4qulzmZFfKLVcfpGXXCP9H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
 | 10 | [Moonlight](https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:40 |
 | 11 | [My Mind](https://open.spotify.com/track/1bG7V74gat9FKRHbtmj1HC) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [My Mind](https://open.spotify.com/album/1XsdneRF7uSkckwyt4IX7j) | 2:37 |
-| 12 | [Boohoo \(feat\. Jeremih\)](https://open.spotify.com/track/14DdH1KiZPFBccrJvaXYhz) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:10 |
+| 12 | [Boohoo](https://open.spotify.com/track/14DdH1KiZPFBccrJvaXYhz) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:10 |
 | 13 | [Roll With Me](https://open.spotify.com/track/4MbUtjvqoNZaCC7SdNZm6G) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Roll With Me](https://open.spotify.com/album/6MDeXfz6FV2ssjJj690UXD) | 2:54 |
 | 14 | [All The Parties \(feat\. Chief Keef\)](https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:38 |
 | 15 | [40x](https://open.spotify.com/track/0b8U8Ow5AgqHrWbIjr4aqk) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [40x](https://open.spotify.com/album/2syjdE335q11f2DJ8bhhBo) | 2:28 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 58 | [OUTSIDE ALL SUMMER](https://open.spotify.com/track/4VreDYwSxLuxATdvW975On) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Frsh Waters](https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX), [Tru](https://open.spotify.com/artist/51Y9uMxhciB1I5qIAhJs8q) | [OUTSIDE ALL SUMMER](https://open.spotify.com/album/4vhbtuoynRryWO4M7RTmLk) | 2:44 |
 | 59 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 
-Snapshot ID: `MCwwNGFiNDViNDM2NWI3NjVmYWEyOGMyZDM0ZmFlZjEwYzc0MDQ2Nzc4`
+Snapshot ID: `MCwyM2FkZjhhOGJkZmNhMjFjYTg3MmZhOTc2NTdlNzIzOTQxMWM2YmZm`

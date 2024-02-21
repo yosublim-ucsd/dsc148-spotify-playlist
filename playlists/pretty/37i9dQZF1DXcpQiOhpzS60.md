@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpQiOhpzS60.md) - [plain]
 
 > Ye olde medieval folk to enjoy with one's squire m'lord.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,825 likes - 64 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,911 likes - 64 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpQiOhpzS60.md) - [plain]
 | 35 | [Troubadour](https://open.spotify.com/track/2LnqNMmpotmzwxwPggfnco) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs) | [Medieval Times](https://open.spotify.com/album/70EY2l6bxrIeDoUWb1zcY9) | 3:16 |
 | 36 | [Yule \- Acoustic](https://open.spotify.com/track/6OvmT4ABabLnkYWMBQrHg5) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [SOL](https://open.spotify.com/album/6b3giURddQkyGt9LZZacf7) | 5:22 |
 | 37 | [Lament for Owen Roe O'Neill](https://open.spotify.com/track/0SZlLvjLFLa17f7K6hqnHY) | [Roxane Genot](https://open.spotify.com/artist/4jO41bgpC8DyhIQKU6bL2P), [Nadia Birkenstock](https://open.spotify.com/artist/29zLX4i9z7dl8khJLzLtI7) | [Lament for Owen Roe O'Neill](https://open.spotify.com/album/2W6mE0lW00IxaBonTrexEm) | 2:52 |
-| 38 | [The Friendly Arm Inn \(From "Baldur's Gate"\)](https://open.spotify.com/track/6d5geH3RQrDB7VHDW09pHS) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Fantasy Realms](https://open.spotify.com/album/2Tm5JKQGoiGLJSRWdheM3C) | 1:05 |
+| 38 | [The Friendly Arm Inn \- From "Baldur's Gate"](https://open.spotify.com/track/4yyfssjc5wWyVNluHbtJ2L) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Fantasy Realms](https://open.spotify.com/album/2jjRNp0pjNZ2rBs59HxNjy) | 1:05 |
 | 39 | [Parti De Mal](https://open.spotify.com/track/2LKChQIbkDMaNNUCbXQjp6) | [Richard I of England](https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M), [Trouvere Medieval Minstrels](https://open.spotify.com/artist/4gRxVDZHtUhitbrJgyj1lc) | [Magna Melodia \- Medieval Music From The Time Of The Magna Carta](https://open.spotify.com/album/7u65mWDt4HyrT8M5Au7aCp) | 3:34 |
 | 40 | [Piva](https://open.spotify.com/track/7LAVhnLrNCCGUl5dkH7L7A) | [Joan Ambrosio Dalza](https://open.spotify.com/artist/2Vo7E1wIPn0DnMFvX4H06F), [Ronn McFarlane](https://open.spotify.com/artist/2atTYZEMWeXx8k7q9BUX5a), [Mark Cudek](https://open.spotify.com/artist/3BshzRPl6BrMAkZB7QVd8y) | [The Art of the Lute \(The Best of Ronn McFarlane\)](https://open.spotify.com/album/0wl3723uQRB3g0VyY5aW9k) | 2:10 |
 | 41 | [From Up Here](https://open.spotify.com/track/2DZFVqM1cwT5owTbWvbcNY) | [The Rheingans Sisters](https://open.spotify.com/artist/0n2ar2W5cCKSn4D6brrqRa) | [Receiver](https://open.spotify.com/album/07Ntj2UFKmmve6e7RCKPB8) | 4:50 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpQiOhpzS60.md) - [plain]
 | 55 | [Prophecy](https://open.spotify.com/track/4LDXnOCkx6f7jo23c1zFaV) | [Adrian Von Ziegler](https://open.spotify.com/artist/6qDQ6rJG5TOT7PppxBKhqI) | [The Celtic Collection](https://open.spotify.com/album/4bc12QynMKKIcmnu4Q2sJr) | 5:34 |
 | 56 | [Road to Camelot](https://open.spotify.com/track/48nl5zt51TsK1wX86MjMWL) | [Enaid](https://open.spotify.com/artist/2SCjnxZujs0rLuH1ByLPP1), [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [Avalon \- a Celtic Legend](https://open.spotify.com/album/3Y4Qo7O9n5qCKPuOIQKKaE) | 3:40 |
 | 57 | [Love & Honour](https://open.spotify.com/track/3x8bArT6Kt2J86FaZzgz27) | [Celtic Woman](https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x) | [Ancient Land \(Deluxe\)](https://open.spotify.com/album/6ZOqSYigcCAMN9KTd2mVZK) | 4:04 |
-| 58 | [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 |
+| 58 | [Wild Boar Inn](https://open.spotify.com/track/123dbEu64JKmhfU0fGy0gX) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7BgQqvXcARjxfj1BLC4va1) | 0:50 |
 | 59 | [Quest for the Holy Grail](https://open.spotify.com/track/0Patwsuj4zw4A2ODVMnR7G) | [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [Camelot](https://open.spotify.com/album/3BXgyHIuyxznQsNu0YxWAx) | 3:43 |
 | 60 | [Long Dance from Sollerön](https://open.spotify.com/track/04n6gC7dIHQItWj9puXy0A) | [Aryeh Frankfurter](https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ) | [Celtic Whispers](https://open.spotify.com/album/3141tFodOByHfb41ugMkPV) | 2:39 |
 | 61 | [Lusty Gallant](https://open.spotify.com/track/1w8P9WPxdTZoJcAFHMLmbt) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Paul O'Dette](https://open.spotify.com/artist/50x7umX0AIHNXkSwumHPRg) | [Robin Hood: Elizabethan Ballad Settings](https://open.spotify.com/album/4RmdxdJEocO3Xp4toVblOb) | 1:16 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpQiOhpzS60.md) - [plain]
 | 63 | [Per tropo fede](https://open.spotify.com/track/3a4gWNgXkVHHHzUjeJbKFu) | [Jessica Baran\-Surel](https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Aremorica \- Land of Elves](https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6) | 3:47 |
 | 64 | [Thunderbrew](https://open.spotify.com/track/0Ri1S3IyEhWvwUyPxoy2uO) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [World of Warcraft: Taverns of Azeroth Original Soundtrack](https://open.spotify.com/album/13S74XwQHqT28nOyvwpFKh) | 2:01 |
 
-Snapshot ID: `MCwxMGNmYzhkMDU4ZWIzYjg5OGRhNmUwYTc4ZTc3YzVhNmZlMGZiYTI3`
+Snapshot ID: `MCwyMzcwNzgyODU0ODE3ZDU2NTY1ZDc1NzMxMWRlYWRhOWI2YTEzOTJj`

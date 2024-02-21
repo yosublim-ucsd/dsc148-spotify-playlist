@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar nieuwe songs en hits van dit moment! Cover: Stephen Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,250 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,254 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 |
 | 2 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 3 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 |
-| 4 | [Brothers And Sisters](https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers And Sisters](https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o) | 3:55 |
+| 4 | [Brothers And Sisters](https://open.spotify.com/track/4srsFockSV7zNZjSbvbkML) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers and Sisters](https://open.spotify.com/album/4ZJsUp5BVASSDRKoidrDRU) | 3:55 |
 | 5 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
 | 6 | [Something About It](https://open.spotify.com/track/15gETsZNlhC57aGr8v9bWL) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/2Mo9JLQoIwowlNdx171AUH) | 3:20 |
 | 7 | [Will You Remember](https://open.spotify.com/track/730Yp6xDqRJ5Cjxwz3D76H) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F) | [Will You Remember](https://open.spotify.com/album/0moBXENvUaHNqnWBMMsqHf) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 79 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 | 80 | [Hello](https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:34 |
 
-Snapshot ID: `MCxhNWIxOTA3MTdjNjUxNDU5ZmRkN2IyNjM2MmM0YzFhNjA4MzA1NzNk`
+Snapshot ID: `MCxiYWQ1ZDgyYjE0M2IyY2U5NzIyMTRiNTM1YWRlNmQxOTkzYjYxYjBl`

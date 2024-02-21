@@ -1,12 +1,12 @@
 {
   "description": "your rock/alt cheat sheet | Cover: Crawlers",
-  "num_followers": 441385,
+  "num_followers": 441459,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWZhMjI0ZWEyNjFiZWEyOWE2OGI3NDZmMzJmYzQxYjE0ZjllMjA2",
+  "snapshot_id": "MCxjNDQ2NjYxNDY0ZThkYmM3N2JlMTE1NDllYmRkNTI5NDkxMmY3YmQ4",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 131546,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -189,20 +205,20 @@
       "url": "https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-02-20 02:42:41",
       "album": {
-        "name": "Vampire Disco",
-        "url": "https://open.spotify.com/album/1GhcMv6HGqkPsZxkoMGWIW"
+        "name": "Look At The Time",
+        "url": "https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1"
       },
       "artists": [
         {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+          "name": "Sawyer Hill",
+          "url": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Vampire Disco",
-      "url": "https://open.spotify.com/track/50MENnfIoeGMMmN1NpVZxx"
+      "duration_ms": 260575,
+      "name": "Look At The Time",
+      "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -223,22 +239,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 131546,
-      "name": "Velvet",
-      "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -251,6 +251,38 @@
       "duration_ms": 217500,
       "name": "Fight Club",
       "url": "https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Vampire Disco",
+        "url": "https://open.spotify.com/album/1GhcMv6HGqkPsZxkoMGWIW"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Vampire Disco",
+      "url": "https://open.spotify.com/track/50MENnfIoeGMMmN1NpVZxx"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 187596,
+      "name": "spite",
+      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -283,38 +315,6 @@
       "duration_ms": 193250,
       "name": "WHEN THE MUSIC STOPS",
       "url": "https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "can we start over?",
-        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 187596,
-      "name": "spite",
-      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "keep a window open// (Spotify OUTSIDE Version) - Live from Lake Mills, WI",
-        "url": "https://open.spotify.com/album/4MQ9OhxmmRFMUw91r8bxnP"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 166145,
-      "name": "keep a window open// (Spotify OUTSIDE Version) - Live from Lake Mills, WI",
-      "url": "https://open.spotify.com/track/5tZ4CiFTKrcyT2ZQ9Fnges"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -435,6 +435,22 @@
       "duration_ms": 166522,
       "name": "2 of us",
       "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "keep a window open// (Spotify OUTSIDE Version) - Live from Lake Mills, WI",
+        "url": "https://open.spotify.com/album/4MQ9OhxmmRFMUw91r8bxnP"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 166145,
+      "name": "keep a window open// (Spotify OUTSIDE Version) - Live from Lake Mills, WI",
+      "url": "https://open.spotify.com/track/5tZ4CiFTKrcyT2ZQ9Fnges"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1255,6 +1271,38 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
+    },
+    {
+      "added_at": "2024-02-20 03:27:33",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "u come near",
         "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
       },
@@ -1303,22 +1351,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "We Make Hits",
-        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "I Think You Should Leave",
         "url": "https://open.spotify.com/album/1XsERUmCUSsSnoGCsNpbX3"
       },
@@ -1331,6 +1363,22 @@
       "duration_ms": 163624,
       "name": "I Think You Should Leave",
       "url": "https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/0bkhNIe24XoYr1lDrbxGYT"
+      },
+      "artists": [
+        {
+          "name": "The Thing",
+          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/7psutBuseT6JzAqmwtEw2k"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1356,7 +1404,7 @@
       },
       "artists": [
         {
-          "name": "Greyskiin",
+          "name": "GREYSKIIN",
           "url": "https://open.spotify.com/artist/2A3HWyaY6VSKoPBgEWxtFX"
         },
         {
@@ -1467,6 +1515,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/4DmrNmbr4xIFarAQhWeoQ6"
+      },
+      "artists": [
+        {
+          "name": "Pissed Jeans",
+          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
+        }
+      ],
+      "duration_ms": 268389,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1aXEjtwxeBKGHHc0H1Mbjx"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr"
       },
@@ -1495,6 +1559,22 @@
       "duration_ms": 226188,
       "name": "Trying",
       "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
+    },
+    {
+      "added_at": "2024-02-20 04:02:46",
+      "album": {
+        "name": "Hometown Vampire",
+        "url": "https://open.spotify.com/album/4KybaR7XKX0v6u70W4YpS3"
+      },
+      "artists": [
+        {
+          "name": "Elijah Johnston",
+          "url": "https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T"
+        }
+      ],
+      "duration_ms": 83404,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/56HOxGRg1ICrkBLvWailZx"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1635,22 +1715,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/4DmrNmbr4xIFarAQhWeoQ6"
-      },
-      "artists": [
-        {
-          "name": "Pissed Jeans",
-          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
-        }
-      ],
-      "duration_ms": 268389,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/1aXEjtwxeBKGHHc0H1Mbjx"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Live Like This",
         "url": "https://open.spotify.com/album/7ffD9m9lXrL8zypDSwrDDE"
       },
@@ -1663,22 +1727,6 @@
       "duration_ms": 235967,
       "name": "Live Like This",
       "url": "https://open.spotify.com/track/4sooxHcxso60dEKemBYPBM"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/0bkhNIe24XoYr1lDrbxGYT"
-      },
-      "artists": [
-        {
-          "name": "The Thing",
-          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/7psutBuseT6JzAqmwtEw2k"
     },
     {
       "added_at": "2024-02-16 05:00:00",

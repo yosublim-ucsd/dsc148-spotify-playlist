@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,188 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,568 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 17 | [Bitch Duh](https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Bitch Duh](https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x) | 2:16 |
 | 18 | [Waterfalls](https://open.spotify.com/track/1sstQKxSmP2Z0w0Pm0f87W) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Waterfalls](https://open.spotify.com/album/6LxJlqmx9aiHs3GIqSRMzh) | 2:55 |
 | 19 | [Obsessed](https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Episode 1: Lost](https://open.spotify.com/album/7cEWlOUBq4Fj6J8nEy81ip) | 2:45 |
-| 20 | [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 |
+| 20 | [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 |
 | 21 | [Heartbreak & Alcohol](https://open.spotify.com/track/5GXhlMF4fbI0aJaxtR4ilc) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Heartbreak & Alcohol](https://open.spotify.com/album/2SX2xigSRk1AFQp9MUDgFW) | 2:46 |
 | 22 | [27 CLUB](https://open.spotify.com/track/3uIypzJDJTxj31J313Imgg) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [27 CLUB](https://open.spotify.com/album/7dmsHkOSLwvOVcZGijTeKW) | 2:33 |
 | 23 | [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 |
 | 99 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 |
 
-Snapshot ID: `MCxmYmI0YzU3YmM2NzhkMThkYWQ2ODM0OWQ1NjBkMTk5ZTIzNzZjNGI4`
+Snapshot ID: `MCw5YTUzNjMxZTRmYmE0NjAwNTg0NGJmOWM5YmFkOGM0Yjk3YTI3YjJk`

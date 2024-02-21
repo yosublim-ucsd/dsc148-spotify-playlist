@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Delilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,454 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,463 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 5 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
 | 6 | [Ojos De Estrella](https://open.spotify.com/track/49UYxziMHhV9KHWfE0p89Y) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MMV](https://open.spotify.com/album/0aQOnHAszcOTYoKvjKRCLg) | 2:58 |
 | 7 | [BELICONTENTO](https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [BELICONTENTO](https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7) | 2:31 |
-| 8 | [Un Día Entenderás](https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Día Entenderás](https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB) | 3:26 |
+| 8 | [UN DÍA ENTENDERÁS](https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [UN DÍA ENTENDERÁS](https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB) | 3:26 |
 | 9 | [Ya No Estoy Dolido](https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya No Estoy Dolido](https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g) | 2:59 |
 | 10 | [Saludones a Mi Apá](https://open.spotify.com/track/6XLZ0Z3FpfDgJQpiscs6Au) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Saludones a Mi Apá](https://open.spotify.com/album/0RgOoUb2PLAmL2cnJhDR7o) | 2:32 |
 | 11 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [El Gilbert](https://open.spotify.com/artist/5k5o4kXREvEQ8pgzdBRxGA) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 |
 | 60 | [No Sirven Conmigo](https://open.spotify.com/track/2bnC2O6GypWJSIuyGCcXb2) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [No Sirven Conmigo](https://open.spotify.com/album/4DGGMTZTtxVTLxq0FsWRit) | 2:46 |
 
-Snapshot ID: `MCxmMjM3ODNjZDc3ZjFjOTkyYTU3ZGY4ZGY0MDFjNGM4MjM4NzYwMzMy`
+Snapshot ID: `MCw2MzBkYzFkNWQzMjMwZjliZTlmNWUwOGM3MTU3OTI5YTdmMGIzZTcx`

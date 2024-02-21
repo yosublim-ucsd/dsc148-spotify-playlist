@@ -2791,6 +2791,36 @@
     },
     {
       "album": {
+        "name": "CATCH UP",
+        "url": "https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp"
+      },
+      "artists": [
+        {
+          "name": "CYBER RUI",
+          "url": "https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2"
+        },
+        {
+          "name": "Ash-B",
+          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
+        },
+        {
+          "name": "DLEN",
+          "url": "https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg"
+        },
+        {
+          "name": "DJ FRIP a.k.a Beatlab",
+          "url": "https://open.spotify.com/artist/5cXeZBiqKUUtbuPWy2uoEc"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181823,
+      "name": "CATCH UP",
+      "url": "https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo"
+    },
+    {
+      "album": {
         "name": "Chandler Bing",
         "url": "https://open.spotify.com/album/47fyjjJdkUJrpShiPEjwI7"
       },
@@ -3356,6 +3386,24 @@
       "duration_ms": 265500,
       "name": "Couch potato",
       "url": "https://open.spotify.com/track/0xaw7RO8FbezqjqTDxdvYN"
+    },
+    {
+      "album": {
+        "name": "Cropping",
+        "url": "https://open.spotify.com/album/1vVhayWOCyooUqJSG5uboX"
+      },
+      "artists": [
+        {
+          "name": "Quw",
+          "url": "https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Cropping",
+      "url": "https://open.spotify.com/track/7aAuchtgMb9X5P8cQjlE6X"
     },
     {
       "album": {
@@ -3942,7 +3990,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 206705,
       "name": "Dear",
       "url": "https://open.spotify.com/track/7loS0JATSbmnj6k1oyxirx"
@@ -5206,7 +5254,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 190000,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/2FrtsVTFPEvH77oKfFHgfV"
@@ -6508,7 +6556,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 163746,
       "name": "H.M.D",
       "url": "https://open.spotify.com/track/4Gw7hHRd1PLv3VuNjMYhUz"
@@ -9339,6 +9387,24 @@
     },
     {
       "album": {
+        "name": "Light(n)ing",
+        "url": "https://open.spotify.com/album/3weisOmHMVWetDBg79mlzx"
+      },
+      "artists": [
+        {
+          "name": "STAP Sigh Boys",
+          "url": "https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213435,
+      "name": "Light(n)ing",
+      "url": "https://open.spotify.com/track/6KBkIxXzV6cv3ANyq4KFBS"
+    },
+    {
+      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p"
       },
@@ -10924,7 +10990,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 176586,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/1qtPxolE1txs3mY0941zwq"
@@ -12984,7 +13050,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 195964,
       "name": "Part of me",
       "url": "https://open.spotify.com/track/5KgKtADX8iDLtHL0AOFTsl"
@@ -15704,7 +15770,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 208750,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1Td0MRk0Udpx3tcgkr3a0x"
@@ -16278,7 +16344,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 176133,
       "name": "Star Stuff",
       "url": "https://open.spotify.com/track/2AiYu7b5GZiNfQhHzNjgUX"
@@ -17318,7 +17384,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 222500,
       "name": "Sweet Lemon",
       "url": "https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON"
@@ -18726,7 +18792,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 222320,
       "name": "Trickster",
       "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
@@ -19226,6 +19292,32 @@
       "duration_ms": 269452,
       "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
       "url": "https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k"
+    },
+    {
+      "album": {
+        "name": "Unlikely Soul",
+        "url": "https://open.spotify.com/album/1HvAKivChR8D2AAYgA0j47"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        },
+        {
+          "name": "FORD TRIO",
+          "url": "https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN"
+        },
+        {
+          "name": "Mike Larry Draw",
+          "url": "https://open.spotify.com/artist/28m2L0BKUf95gUM9OXba0k"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Unlikely Soul",
+      "url": "https://open.spotify.com/track/7EP6QYmDP6Y2kLdfTPootp"
     },
     {
       "album": {
@@ -21360,7 +21452,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 194328,
       "name": "\u3068\u304d\u3081\u304d",
       "url": "https://open.spotify.com/track/6YfFksjNc28hZfcz2xst8k"
@@ -21886,6 +21978,24 @@
       "duration_ms": 258236,
       "name": "\u30b5\u30cb\u30fc\u30b5\u30a4\u30c9\u3078\u3088\u3046\u3053\u305d",
       "url": "https://open.spotify.com/track/2zqGqlViqSv9X6czIzsFIq"
+    },
+    {
+      "album": {
+        "name": "2000JPY",
+        "url": "https://open.spotify.com/album/4u9q8xkMZX2kFWjpHQXuaW"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285760,
+      "name": "\u30b5\u30eb\u30b9\u30d9\u30ea",
+      "url": "https://open.spotify.com/track/5g1jQSIo2WDLSNxDh9V9ya"
     },
     {
       "album": {
@@ -22430,6 +22540,28 @@
       "duration_ms": 264566,
       "name": "\u30d1\u30ce\u30e9\u30de (feat. \u5317\u91cc\u5f70\u4e45)",
       "url": "https://open.spotify.com/track/3V5WQGwq4PuaNHetIhTDbp"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30e9\u30c0\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/4j5osgmWRelsfge16wtEi6"
+      },
+      "artists": [
+        {
+          "name": "futures",
+          "url": "https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6"
+        },
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "\u30d1\u30e9\u30c0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/03KcjFIt9f6XIBHEZG6fJm"
     },
     {
       "album": {
@@ -23603,6 +23735,24 @@
     },
     {
       "album": {
+        "name": "\u544a\u3052\u305f\u308b\u4eba",
+        "url": "https://open.spotify.com/album/715Eb62IzXBiDd6UIuGu2g"
+      },
+      "artists": [
+        {
+          "name": "yobai suspects",
+          "url": "https://open.spotify.com/artist/0VSioSaGvQCLyyIISVhCrv"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256155,
+      "name": "\u544a\u3052\u305f\u308b\u4eba",
+      "url": "https://open.spotify.com/track/63kErsGjt011W2sGzQJ2Qi"
+    },
+    {
+      "album": {
         "name": "\u547c\u5fdc",
         "url": "https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU"
       },
@@ -24448,6 +24598,24 @@
       "duration_ms": 234300,
       "name": "\u654f\u611f",
       "url": "https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B"
+    },
+    {
+      "album": {
+        "name": "\u6551\u4e16\u4e3b",
+        "url": "https://open.spotify.com/album/4kb32b8HlLiATmTModYCgf"
+      },
+      "artists": [
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195450,
+      "name": "\u6551\u4e16\u4e3b",
+      "url": "https://open.spotify.com/track/2HpElJe84VQKeiZWpIXzWq"
     },
     {
       "album": {
@@ -25340,7 +25508,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 234288,
       "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
       "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
@@ -25474,7 +25642,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 236166,
       "name": "\u7dba\u9e97",
       "url": "https://open.spotify.com/track/1VEsvrQw1j2hVBcqb13m0Y"

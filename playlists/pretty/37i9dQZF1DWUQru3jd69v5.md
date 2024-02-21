@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Kuremino
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,585 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,596 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Cristiano Rollando](https://open.spotify.com/track/5WqOwUM7AfUPURxpO6O3L5) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Cristiano Rollando](https://open.spotify.com/album/1feR86V6FtyF0PWKVZxqEb) | 2:06 |
 | 50 | [S0LI \(feat\. AURɅ\)](https://open.spotify.com/track/0x3ObDBzWGkZBMdHeU9XxO) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [AURɅ](https://open.spotify.com/artist/5rG9qDNEMkFLFTvDthbnWK) | [S0LI \(feat\. AURɅ\)](https://open.spotify.com/album/0GhWMk4O0IicznO78zYudd) | 2:56 |
 
-Snapshot ID: `MCwxZmUzODU1YjA3MGM1NDExMzQxZDExM2Y5MzlhY2U4M2FkNmU0ZDQ3`
+Snapshot ID: `MCw5NTFjNDhhNDRjOWM3MTZlMDllNDkzMWFmNWM5NmRkYzBiODkxMTg4`

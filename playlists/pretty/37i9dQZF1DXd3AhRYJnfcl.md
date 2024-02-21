@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI?si=xSiV3LOvRJipiJq4EIO0xQ"> شيرين </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,819 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,047 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Omour Basita](https://open.spotify.com/track/1nRCDjARnK6JnGZfo1Vq4t) | [Hisham Gamal](https://open.spotify.com/artist/5SyakrUvLtz9pk4zRDVf0N), [Laila Ahmed Zaher](https://open.spotify.com/artist/5MDRZSRZrKbToJMI4doVmj) | [Omour Basita](https://open.spotify.com/album/2cIrmQTRGdufySLVhHctqM) | 4:22 |
 | 50 | [اللي جاي بتاعنا](https://open.spotify.com/track/1BNhn1lZF39HCgaO1afuE4) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [اللي جاي بتاعنا](https://open.spotify.com/album/5Qcj7F2YKWE8hWEm8ryAPR) | 2:40 |
 
-Snapshot ID: `MCwxY2I0ZDY1YTc5NjAzMWJlZTMyZDVjNjczOWJjM2IzM2YyOWNkNGZk`
+Snapshot ID: `MCwwZGMzZDNhNmVmODNkMzk1MDY3NjFkODA0MDg0MmRmNjc3NmYyMTk4`

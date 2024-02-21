@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:0n4Fao9kbjgM76RmVlfSwr">YG Marley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,491 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,669 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 27 | [Special Ed](https://open.spotify.com/track/1q6iDNRzrKCg96fp7rVDKw) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [Special Ed](https://open.spotify.com/album/4gPd2HqqQZno3xfE15o1eW) | 2:44 |
 | 28 | [slow it down](https://open.spotify.com/track/4IcvZ2lrap90JXQKkHiYrb) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [SUPER BOSS!](https://open.spotify.com/album/6XE8fbG2z1OE5uF4OxWLIM) | 1:46 |
 | 29 | [Broadway](https://open.spotify.com/track/3vZmKHwmyQOMaIyjMo3q1l) | [Quinton Brock](https://open.spotify.com/artist/1abW5Py6b6FSSpirm5Fkqq) | [Broadway](https://open.spotify.com/album/2lKI84ls52lb8IGD3LytkI) | 3:33 |
-| 30 | [Alexithymia](https://open.spotify.com/track/6YJ3xte2WDYvaEPToXDl0F) | [Greyskiin](https://open.spotify.com/artist/2A3HWyaY6VSKoPBgEWxtFX), [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Alexithymia](https://open.spotify.com/album/2UgPOc1dAJRK8LG9j5Ir0l) | 2:56 |
+| 30 | [Alexithymia](https://open.spotify.com/track/6YJ3xte2WDYvaEPToXDl0F) | [GREYSKIIN](https://open.spotify.com/artist/2A3HWyaY6VSKoPBgEWxtFX), [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Alexithymia](https://open.spotify.com/album/2UgPOc1dAJRK8LG9j5Ir0l) | 2:56 |
 | 31 | [an obsessed woman](https://open.spotify.com/track/4CL1l0Upau0intxzHsPiLY) | [jerry](https://open.spotify.com/artist/1AZJhKobUOUAawr0AEmGE4) | [lovemesooner](https://open.spotify.com/album/398Pg5EQy3xSV3mYCBySn0) | 1:59 |
 | 32 | [S.O.M.S\. \(Still Owe Me Something\)](https://open.spotify.com/track/5UZ1CizMmmxlJylxSeGINB) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/2PTlYF3EfRdjlpGjFOKXdc) | 2:01 |
 | 33 | [ScoreGod \(feat\. Luh Tyler\)](https://open.spotify.com/track/3jvUUI68ZxFYosDbQLuSBL) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [ScoreGod](https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9) | 2:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 79 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 |
 | 80 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 
-Snapshot ID: `MCw5MGJkMjBmOTQ2MzE0NGI3YWI5NjdmZTUwMmU1YWUxYmJkZDM3YzQ3`
+Snapshot ID: `MCw1MzZlZmFlYjAwNzFhNmRhMzNhMzFmODNmNmM4OTFkMTRiYjI4YWE2`

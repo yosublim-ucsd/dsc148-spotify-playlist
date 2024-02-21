@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "num_followers": 80856,
+  "num_followers": 80886,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2VhYzhiZDZjMGZhYjQ0ODJjNjZmMDVlMWU1MmNiYTM4NjUzOGM0",
+  "snapshot_id": "MCwzN2JiN2NjODY5Y2VmODI0ZjZlZTI2OGM0NzQ1ZDRlODhkNjVhM2Rj",
   "tracks": [
     {
       "added_at": "2024-02-16 20:13:57",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-02-16 20:13:57",
       "album": {
+        "name": "Conversaciones Ajenas en un Caf\u00e9",
+        "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 211156,
+      "name": "\u00bfA Qu\u00e9 Te Sabe el Caf\u00e9?",
+      "url": "https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ"
+    },
+    {
+      "added_at": "2024-02-16 20:13:57",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 220647,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
-    },
-    {
-      "added_at": "2024-02-16 20:13:57",
-      "album": {
-        "name": "Conversaciones Ajenas en un Caf\u00e9",
-        "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 211156,
-      "name": "\u00bfA Qu\u00e9 Te Sabe el Caf\u00e9?",
-      "url": "https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ"
     },
     {
       "added_at": "2024-02-16 20:13:57",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-02-16 20:13:57",
       "album": {
-        "name": "Amor En Cuarentena",
-        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
+        "name": "La Mudanza",
+        "url": "https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl"
       },
       "artists": [
         {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
         }
       ],
-      "duration_ms": 165586,
-      "name": "Amor En Cuarentena",
-      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
+      "duration_ms": 223691,
+      "name": "La Mudanza",
+      "url": "https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ"
     }
   ],
   "unique_name": "Lento.",

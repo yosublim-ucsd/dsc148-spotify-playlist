@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,130 likes - 250 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,125 likes - 250 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 249 | [Echoes](https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [To The Moon](https://open.spotify.com/album/5LPsflFQLrjq9ymGG4Jpf3) | 2:51 |
 | 250 | [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 |
 
-Snapshot ID: `MCwwN2Q0MTRiMzQ3OTY2MTFkNjAxMDY0NzMxY2UwOTQ3ZGMxMzc4OWM4`
+Snapshot ID: `MCwzZTU4NzdmMTBhZDZiMDE0ZmVlNmNkNThkOWQ5MzkxMTY1Njg3ODlk`

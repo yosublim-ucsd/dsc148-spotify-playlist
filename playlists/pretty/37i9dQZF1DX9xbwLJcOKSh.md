@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,689 likes - 72 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,692 likes - 72 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 32 | [rise](https://open.spotify.com/track/2Uyz4r0IwXlZIVbkTEASPk) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 5:28 |
 | 33 | [Master Blaster](https://open.spotify.com/track/7JSSh4nIKrgg2uCmlJEqlA) | [Anna Tsuchiya](https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2), [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [UNCHAINED GIRL](https://open.spotify.com/album/2ObmAdwAhoXtlcCfssyuEO) | 4:00 |
 | 34 | [Go Tight!](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ Go Tight!](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 |
-| 35 | [lithium flower](https://open.spotify.com/track/6IouGBVgNIsrRko3llWdZ8) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.+](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 3:22 |
+| 35 | [lithium flower](https://open.spotify.com/track/6IouGBVgNIsrRko3llWdZ8) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.＋](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 3:22 |
 | 36 | [エンジの雨 \- Remastered 2018](https://open.spotify.com/track/07lGod0aCGc78p3zlKW3jB) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [九段](https://open.spotify.com/album/5fb7PEDcJIQFflHh7tcbps) | 3:58 |
 | 37 | [雨あがりのステップ](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [雨あがりのステップ](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 |
 | 38 | [Ai No Field](https://open.spotify.com/track/2wRFMxS3HFrp6NmeBSkPdT) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [Brain Powerd \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/0IuZfiSwaDJgIrroLIKhZ9) | 4:21 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 71 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 72 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 ～Tami～](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MCxkYzA3MjE0MGVkODUwMGQxMmMyNjQ3ZjQyYzdjYmM2MjE2NjhlZWZl`
+Snapshot ID: `MCxkOTJjODVlMWJlNGYxOTUwZWZkYjZlYmM5YTQ4NDBkOThmY2Q0NWY2`

@@ -4,7 +4,7 @@
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: vavava\. Artwork: Isu Kim
 
-1,039 songs - 2 day 18 hr 7 min
+1,040 songs - 2 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,8 @@
 | [ดาวที่หายไป \(Lost\)](https://open.spotify.com/track/48DrFXSqDOQG2hAxN7tGiU) | [Tewter Thanawat](https://open.spotify.com/artist/5hsA21twpPdfmZH2j2eU7C), [JIXGO](https://open.spotify.com/artist/1qq12nbjDytZMtyhLOCWhA) | [ดาวที่หายไป \(Lost\)](https://open.spotify.com/album/10Zz80eUmuJcMvctO82LFb) | 4:16 | 2023-09-15 | 2023-10-07 |
 | [ดาวอังคาร](https://open.spotify.com/track/7AZWZ4R7wkFVKqEagzljoT) | [Venus](https://open.spotify.com/artist/4feYmlX06VRoQRWxejDiwT) | [ดาวอังคาร](https://open.spotify.com/album/1RPwPiZ2YmUXU3CsHWesre) | 3:10 | 2022-11-18 | 2022-11-26 |
 | [ดาวเศร้า](https://open.spotify.com/track/6kgyuSbolOmojQJX9IlWxw) | [Owlet](https://open.spotify.com/artist/6ZbW6kb4lV2Jb4q2NAm8Eo) | [ดาวเศร้า](https://open.spotify.com/album/6U6MlkluErGzWCgDlfssYa) | 4:15 | 2023-02-17 | 2023-03-11 |
-| [ดีขึ้น](https://open.spotify.com/track/37ytIcBSOemrR8soaOo8Gi) | [KNzC](https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh), [PA!NX](https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU), [DoubleG](https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1) | [ดีขึ้น](https://open.spotify.com/album/7M6YeEOFn0rz2kYkukglqr) | 3:40 | 2024-02-16 |  |
+| [ดีขึ้น](https://open.spotify.com/track/1H3zMGRC6Ch5j9XuxpX2hI) | [KNzC](https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh), [PA!NX](https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU), [DoubleG](https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1) | [ดีขึ้น](https://open.spotify.com/album/6YdvTuxL9HFkolNqLNxzmT) | 3:40 | 2024-02-16 |  |
+| [ดีขึ้น](https://open.spotify.com/track/37ytIcBSOemrR8soaOo8Gi) | [KNzC](https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh), [PA!NX](https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU), [DoubleG](https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1) | [ดีขึ้น](https://open.spotify.com/album/7M6YeEOFn0rz2kYkukglqr) | 3:40 | 2024-02-16 | 2024-02-21 |
 | [ดีออก \(better off with you\)](https://open.spotify.com/track/4HNxH9HsfXIpereq6bve1b) | [Miya Thongchua](https://open.spotify.com/artist/4ATuJlsULjVBgK1GrEyurD) | [ดีออก \(better off with you\)](https://open.spotify.com/album/5nKp7zSWoW8jhYGQ1T09EL) | 3:22 | 2024-02-16 |  |
 | [ดีใจที่เธอเสียใจ \(Pathetic\)](https://open.spotify.com/track/0IoQG5NSKPUnmx91fS58W0) | [Aran](https://open.spotify.com/artist/7IM6lRoQdr2SLFjcJkO5RV) | [ดีใจที่เธอเสียใจ \(Pathetic\)](https://open.spotify.com/album/5K0SZM0xvxaOiz5cW59kbk) | 3:14 | 2023-11-24 | 2024-01-13 |
 | [ดีใจที่ได้คุย](https://open.spotify.com/track/438L6SP5zlAX17a5AQ86WE) | [อีฟ](https://open.spotify.com/artist/1tcOs2LM0omkroubsIzJre), [โอ๊ต](https://open.spotify.com/artist/2yRzvliaGfjXoQD7WCDZFP) | [ดีใจที่ได้คุย](https://open.spotify.com/album/3YNfhtWksP8XubcANswdYj) | 4:22 | 2023-03-10 | 2023-03-25 |

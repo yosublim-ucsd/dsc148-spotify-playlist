@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,075 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,103 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [4ever](https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:38 |
 | 80 | [Troubling](https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 |
 
-Snapshot ID: `MCxlMjRhMjdhOWU1NmMxODM3M2FhNDM1ZTc4ODA4M2NmOWFhMTA3ZmMy`
+Snapshot ID: `MCxlOWM5MzUwMTM3ZTg4YjNjYmMxMTVjNWQ0ZjQyN2M3YjhmNWEzYzA3`

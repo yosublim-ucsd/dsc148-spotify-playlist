@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM1OWM0OTA5NzgxMmZmZjI1MmJmYmMxY2VmOTFlZmU0YjMzZWRl",
+  "snapshot_id": "MCwwYjdlZWNjMTcyZWZjZDNlMDk0MjgxNjdiYjVkODcwN2RkNWQyYzI5",
   "tracks": [
     {
       "added_at": "2024-02-14 00:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Kleines Bisschen Gr\u00fcn",
-        "url": "https://open.spotify.com/album/5KORifLHbQUu2exzTrRbbB"
-      },
-      "artists": [
-        {
-          "name": "Ellice",
-          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
-        }
-      ],
-      "duration_ms": 167271,
-      "name": "Kleines Bisschen Gr\u00fcn",
-      "url": "https://open.spotify.com/track/7foBCSij76jXHuYteu1kh5"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "My Fantasy",
         "url": "https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 179133,
       "name": "My Fantasy",
       "url": "https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Kleines Bisschen Gr\u00fcn",
+        "url": "https://open.spotify.com/album/5KORifLHbQUu2exzTrRbbB"
+      },
+      "artists": [
+        {
+          "name": "Ellice",
+          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
+        }
+      ],
+      "duration_ms": 167271,
+      "name": "Kleines Bisschen Gr\u00fcn",
+      "url": "https://open.spotify.com/track/7foBCSij76jXHuYteu1kh5"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -219,22 +219,6 @@
       "duration_ms": 188489,
       "name": "BAUM",
       "url": "https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "Gangster tanzen nicht",
-        "url": "https://open.spotify.com/album/1LbrdIsJZmHmxeIQokCR6C"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 156147,
-      "name": "Gangster tanzen nicht",
-      "url": "https://open.spotify.com/track/60jHbQpCA3AUi0iAj5HzSt"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -531,22 +515,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "MONEY BAGS",
-        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
-      },
-      "artists": [
-        {
-          "name": "TRINA",
-          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
-        }
-      ],
-      "duration_ms": 150167,
-      "name": "MONEY BAGS",
-      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "deplatziert",
         "url": "https://open.spotify.com/album/7dHyTpo3DhRwRnX3O98Mti"
       },
@@ -559,6 +527,22 @@
       "duration_ms": 170920,
       "name": "deplatziert",
       "url": "https://open.spotify.com/track/3RydWx9dRmRJmvrEBoCAJK"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "MONEY BAGS",
+        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
+      },
+      "artists": [
+        {
+          "name": "TRINA",
+          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+        }
+      ],
+      "duration_ms": 150167,
+      "name": "MONEY BAGS",
+      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -579,22 +563,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "MONSTER",
-        "url": "https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "MONSTER",
-      "url": "https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "No Good",
         "url": "https://open.spotify.com/album/6xo8ZSYGtlVcSTsw3S8Jom"
       },
@@ -607,6 +575,22 @@
       "duration_ms": 174356,
       "name": "No Good",
       "url": "https://open.spotify.com/track/4fSumqfqyd2NrqI0HoRxWE"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -675,22 +659,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Boo'd Up",
-        "url": "https://open.spotify.com/album/3XwdzmLhKmxRkzfjtwRNSJ"
-      },
-      "artists": [
-        {
-          "name": "zara",
-          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
-        }
-      ],
-      "duration_ms": 114937,
-      "name": "Boo'd Up",
-      "url": "https://open.spotify.com/track/5yNWmUaZWocjYaSsjttrPW"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Schleudertrauma",
         "url": "https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO"
       },
@@ -703,6 +671,22 @@
       "duration_ms": 161806,
       "name": "Schleudertrauma",
       "url": "https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Boo'd Up",
+        "url": "https://open.spotify.com/album/3XwdzmLhKmxRkzfjtwRNSJ"
+      },
+      "artists": [
+        {
+          "name": "zara",
+          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
+        }
+      ],
+      "duration_ms": 114937,
+      "name": "Boo'd Up",
+      "url": "https://open.spotify.com/track/5yNWmUaZWocjYaSsjttrPW"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 187478,
       "name": "Something to Rely On",
       "url": "https://open.spotify.com/track/600ShBW2NpyeTmG2WEs7kM"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "AMY WINEHOUZE",
+        "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
+        }
+      ],
+      "duration_ms": 156147,
+      "name": "Gangster tanzen nicht",
+      "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
     },
     {
       "added_at": "2024-02-14 00:00:00",

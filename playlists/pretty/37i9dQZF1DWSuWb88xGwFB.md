@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,024 likes - 75 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,031 likes - 75 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [We Can Make It \(The ‘I Believe' Dub\)](https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ) | [Moné](https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition \- Unmixed\]](https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz) | 5:34 |
 | 75 | [Keep On Jumpin' \(feat\. Chazzie\) \(Egotrip Mix\)](https://open.spotify.com/track/7kz21a3f03ZDNBGARMCnnM) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE) | 6:21 |
 
-Snapshot ID: `MCxjNWZiN2E5YzY2ZmU0OThlZmFhOTQ1MmNmNDkzZjNlOTc2MzNjNGVl`
+Snapshot ID: `MCwzMTQwNzIxZTRhN2FmYjI3MjNhZGExZjU2MGMxOTMxYWM5M2Q3YWQ4`

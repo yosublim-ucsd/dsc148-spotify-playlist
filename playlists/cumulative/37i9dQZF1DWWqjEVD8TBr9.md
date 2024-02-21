@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-271 songs - 14 hr 56 min
+272 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Levanter](https://open.spotify.com/track/4obrd9niIX70q5At9HURLd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:17 | 2022-03-18 |  |
 | [Levanter \(English Ver.\)](https://open.spotify.com/track/5sPdWGv1MlA0qHzjN9hPPv) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Step Out of Clé \(English Ver.\)](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) | 3:15 | 2022-03-18 |  |
 | [Levanter \- English](https://open.spotify.com/track/55qqNyvwWUn1A3ItPVUOoo) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Step Out of Clé](https://open.spotify.com/album/2dL2D1L2u3kyoOhfOurwgW) | 3:15 | 2022-03-18 | 2022-07-29 |
+| [Like Magic](https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Like Magic](https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm) | 2:44 | 2024-02-20 |  |
 | [Limbo \(Lee Know\)](https://open.spotify.com/track/0nuXhivBOFDiriWCpdyU93) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:17 | 2022-12-21 |  |
 | [Lonely St.](https://open.spotify.com/track/0KtKaZ0jNXOrHb3OxeXz9A) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 2:44 | 2022-03-18 | 2022-07-29 |
 | [Lonely St.](https://open.spotify.com/track/2xo84jGkxFPrZmmBtS3Pkd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 2:44 | 2022-03-18 |  |

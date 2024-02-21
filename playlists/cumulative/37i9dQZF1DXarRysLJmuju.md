@@ -2,7 +2,7 @@
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> The latest pop hits in one playlist\. Cover: Lu Kala
+> The latest pop hits in one playlist\. Cover: LU KALA
 
 1,324 songs - 2 day 19 hr 8 min
 

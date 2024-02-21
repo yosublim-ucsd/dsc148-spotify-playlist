@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,254 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,269 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Den finast eg veit](https://open.spotify.com/track/3NQDZSM47zCMao3GFkcqaV) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [CoolTur](https://open.spotify.com/album/0S2qo4ezoborqQTJnzdsc6) | 4:04 |
-| 2 | [Store Lillebjørn \- Studio](https://open.spotify.com/track/2rqXcMC3EeV5R73asTH2T6) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Store Lillebjørn](https://open.spotify.com/album/2UuRbKeEDHVSYXiH5LkQpR) | 4:12 |
+| 2 | [Store Lillebjørn](https://open.spotify.com/track/2rqXcMC3EeV5R73asTH2T6) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Store Lillebjørn](https://open.spotify.com/album/2UuRbKeEDHVSYXiH5LkQpR) | 4:12 |
 | 3 | [Når himmelen faller ned](https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Mosaikk \(16 Biter\)](https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO) | 3:53 |
 | 4 | [Alt hu treng](https://open.spotify.com/track/2XGCTjbIcQpNizbHANBfeM) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Alt hu treng](https://open.spotify.com/album/3aqmeN6RVHZteNNfIgABEK) | 5:17 |
 | 5 | [For vår jord](https://open.spotify.com/track/7ERi1NHykO7dt8f1lmyCTn) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver Gang Vi Møtes 2023](https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 |
 | 50 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
 
-Snapshot ID: `MCxhMzQ2MzNhNDQ0M2MzYmYwMWM1YzFjMzA5ZmNhNmNkMGVhZmYyMjRh`
+Snapshot ID: `MCwyMzM3NzExOWQ3YzJiZGZmMDlhMGE1OGVkZGE0YmQ3NTVlMDYyN2Ey`

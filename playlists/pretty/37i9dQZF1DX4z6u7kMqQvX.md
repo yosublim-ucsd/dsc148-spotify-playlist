@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,421 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,420 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 |
 | 100 | [Por los Dos](https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe) | [Panda Elliot](https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Por los Dos](https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns) | 3:01 |
 
-Snapshot ID: `MCwyMDI4ZmI0MzEwZjI1NWUyM2MzN2YzYWJmMjQ2NmE1OWEwMDBjZjE4`
+Snapshot ID: `MCxhODMzODEyMzYwNTZjYjJlNDMzYzYwMzY1YTdjOTdmNDFiYmM1ZDFl`

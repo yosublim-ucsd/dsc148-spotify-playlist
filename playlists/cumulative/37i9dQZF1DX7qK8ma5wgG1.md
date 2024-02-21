@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-221 songs - 12 hr 24 min
+223 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2022-09-20 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-18 |  |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 | 2021-12-16 | 2022-04-05 |
+| [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-02-20 |  |
 | [Don't Leave, Don't Go](https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT) | 3:04 | 2022-09-06 | 2023-04-19 |
 | [Down Days](https://open.spotify.com/track/7zbHLUYieIVy0Qb8ciRbmx) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [Down Days](https://open.spotify.com/album/1YINHWS1JRUAxSHX6YrWUA) | 2:52 | 2021-12-16 | 2022-09-07 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-06-27 | 2023-08-16 |
@@ -137,7 +138,7 @@
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2021-12-16 |  |
 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 | 2023-05-05 |  |
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2023-09-12 |  |
-| [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-25 |  |
+| [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-25 | 2024-02-21 |
 | [London's Requiem](https://open.spotify.com/track/0TxJGoYx7racCE2idGNN0O) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [London's Requiem](https://open.spotify.com/album/0GCrz2OgzPwLDGLv26GiAi) | 5:02 | 2021-12-16 | 2022-06-28 |
 | [Lonely](https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:24 | 2022-10-14 | 2023-09-13 |
 | [lose it all](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [lose it all](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 | 2022-10-28 |  |
@@ -169,6 +170,7 @@
 | [Red Hearts](https://open.spotify.com/track/6kLdSLraP7xxZ7MG2whHBM) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Red Hearts](https://open.spotify.com/album/51SibOPo6UKKZ4ffvZ8Snc) | 4:23 | 2021-12-16 | 2022-09-07 |
 | [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2021-12-16 |  |
 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-08-15 |  |
+| [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 | 2024-02-20 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-02-14 | 2023-05-24 |
 | [Runaway](https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 4:08 | 2022-06-27 | 2022-09-07 |
 | [Runaway](https://open.spotify.com/track/1oKhOLQj9kU5W8asB5c1uW) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Runaway \(Piano Version\)](https://open.spotify.com/album/1RMa1zy758lywJmKwI7fAb) | 4:10 | 2021-12-16 | 2022-07-29 |
@@ -178,7 +180,7 @@
 | [Seven](https://open.spotify.com/track/7FRICngbPiyTPEKF7wRC9G) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Seven](https://open.spotify.com/album/0h6H0mvA1LVBjamUATXOM3) | 3:43 | 2021-12-16 | 2022-04-27 |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2021-12-16 | 2022-09-07 |
 | [she's all i wanna be \- Acoustic](https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be \(Acoustic\)](https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ) | 3:18 | 2022-09-06 |  |
-| [Shouldn't Be Thinking About You](https://open.spotify.com/track/3Inj1eHMvEhwUFej1LYR0d) | [Jamie Grey](https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t) | [Songs They Told Me Weren't Singles \- Part 1](https://open.spotify.com/album/0bsjzb3mpaau8nuzfJSPmC) | 2:51 | 2021-12-16 |  |
+| [Shouldn't Be Thinking About You](https://open.spotify.com/track/3Inj1eHMvEhwUFej1LYR0d) | [Jamie Grey](https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t) | [Songs They Told Me Weren't Singles \- Part 1](https://open.spotify.com/album/0bsjzb3mpaau8nuzfJSPmC) | 2:51 | 2021-12-16 | 2024-02-21 |
 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2022-11-22 |  |
 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-21 | 2024-02-14 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2023-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,052 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,169 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Sos Paixão / Ex Namorada / Melhor Amiga da Minha Namorada \- Ao Vivo](https://open.spotify.com/track/0r6UTnQUk4cbvPDnHuXphH) | [Robinho](https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp), [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp) | [Sos Paixão / Ex Namorada / Melhor Amiga da Minha Namorada \(Ao Vivo\)](https://open.spotify.com/album/7ior50Dh3GyG3zXbyDhryV) | 4:31 |
 | 75 | [A Gente Tem Tudo a Ver / Camisa 10 \- Ao Vivo](https://open.spotify.com/track/6irdSpdz9i0h99m1Bzaerz) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Turma do Pagode XV Anos \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq) | 3:58 |
 
-Snapshot ID: `MCxmNjk5Njg2ZWQ5OGUzOWZlMDNhNDcyNjdmYjI1NzA0YmI5YmU0ZmM0`
+Snapshot ID: `MCw4ZDcyYzI3YWE1NWMzN2VkNGI3Y2Q4YjJjODUyNDRmNTRkYjFmNzk4`

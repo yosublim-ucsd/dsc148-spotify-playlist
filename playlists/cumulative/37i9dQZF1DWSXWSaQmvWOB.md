@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: BJ The Chicago Kid
 
-814 songs - 2 day 1 hr 53 min
+815 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Breathe](https://open.spotify.com/track/0NaFye0DFnFhxtR3UxoUge) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [Breathe](https://open.spotify.com/album/1YnboENZ47WP7FYluGiYp2) | 3:37 | 2020-07-18 | 2021-04-17 |
 | [Brighter Day](https://open.spotify.com/track/3dH39d9xqemnGQjfNh7qSi) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Brighter Day](https://open.spotify.com/album/1O07lUmOzGj3kghIXQV9Gs) | 3:42 | 2021-08-06 | 2021-10-29 |
 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 | 2021-04-23 | 2022-01-14 |
-| [Brothers And Sisters](https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers And Sisters](https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o) | 3:55 | 2024-02-09 |  |
+| [Brothers And Sisters](https://open.spotify.com/track/4srsFockSV7zNZjSbvbkML) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers and Sisters](https://open.spotify.com/album/4ZJsUp5BVASSDRKoidrDRU) | 3:55 | 2024-02-15 |  |
+| [Brothers And Sisters](https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers And Sisters](https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o) | 3:55 | 2024-02-09 | 2024-02-21 |
 | [Brown Skin](https://open.spotify.com/track/2UzpyrcjDsdPO8CGcudpoO) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Brown Skin](https://open.spotify.com/album/6hWTRzpAQMGMdVXlGWfICF) | 3:16 | 2023-10-06 | 2023-12-13 |
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-02-10 | 2022-09-30 |
 | [Burning Up](https://open.spotify.com/track/1ZCtCHRB0FG0khp20Oq4hh) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Burning Up](https://open.spotify.com/album/0apr7K3amwjcyrTeRA2fKV) | 3:18 | 2023-07-10 |  |

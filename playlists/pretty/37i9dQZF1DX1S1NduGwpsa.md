@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Maë Defays
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,958 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,990 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [In Heaven](https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Clap!](https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi) | 3:18 |
 | 50 | [Feelings \(Pour toi\)](https://open.spotify.com/track/5V4QQ6HBYAayI204oBnLM1) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 4:20 |
 
-Snapshot ID: `MCxjYTFmZDgzOWZjNDEyYjQ3NTBjZGZjMDdlMDYwNTI4YmQzY2RlN2Yw`
+Snapshot ID: `MCwyZTJiYTEwZDY4Y2UzYjEzNzY5NzNlOWViNDk2MGE2NzhiYWFkMzlk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Senndy, Niink
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,529 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,574 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 19 | [Lenda](https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Mindu](https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 3:12 |
 | 20 | [Deus Guiando](https://open.spotify.com/track/1pk3K9bWcLtNPRhg6VZadX) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Deus Guiando](https://open.spotify.com/album/29Tzls0TFsMS5tW0VmxFZ0) | 2:33 |
 | 21 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
-| 22 | [Nós Tá Pelos Cria](https://open.spotify.com/track/5qw9sM6j1WGR4eYrjEGepY) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Nós Tá Pelos Cria](https://open.spotify.com/album/1SfpGg3qPK8IgyUC9LoNBD) | 2:15 |
+| 22 | [Nós Tá Pelos Cria](https://open.spotify.com/track/5qw9sM6j1WGR4eYrjEGepY) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Nós Tá Pelos Cria](https://open.spotify.com/album/1SfpGg3qPK8IgyUC9LoNBD) | 2:14 |
 | 23 | [Negócios](https://open.spotify.com/track/6bFpc6JpRkBjgba0bES4QV) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Negócios](https://open.spotify.com/album/0NaTmb6Ar7mF9RYefids93) | 2:37 |
 | 24 | [Castelo de Areia](https://open.spotify.com/track/3S0evEGz1esbk9xjsEm6i1) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 3:42 |
 | 25 | [Sem Competição](https://open.spotify.com/track/4cMs4UogHQq5avftmKA3sr) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MT RARO](https://open.spotify.com/artist/6gchtkIzZHW6OTPICIK0pv), [Kyoto.mp3](https://open.spotify.com/artist/0sfIusXkJOp74u87M1NCvP), [K2.icee](https://open.spotify.com/artist/5h91fWdSDnOSAdTg9H5Eee), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Sem Competição](https://open.spotify.com/album/0MLSe7CLxMQ7097eONYcsK) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [VIDA DE UM MENO BANDIDO](https://open.spotify.com/track/5tdIOZxUtzy6eJVMKzFXhC) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [O MUNDO DE UM JOVEM TRALHA](https://open.spotify.com/album/2wasNK4LbD19eHD70au9mL) | 3:06 |
 | 75 | [Só/Sim ou Não](https://open.spotify.com/track/14FjbgbyStHBIK8FMKYdyI) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Só/Sim ou Não](https://open.spotify.com/album/77j6bV8NFDWAx2mObaY9c2) | 3:59 |
 
-Snapshot ID: `MCxmZDcyMjRmZGM4MTAyMTU0OTNmMjg3NmExZDUzZTI0MDVmM2QyMmYw`
+Snapshot ID: `MCw2ODMzZWU1YzcyOTBiYzZhYWY0OGE2MzI1ZTE4NmVkYmYwMjY1NjY0`

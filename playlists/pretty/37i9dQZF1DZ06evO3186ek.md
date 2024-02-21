@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,250 likes - 50 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,308 likes - 50 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [You Keep on Getting Better \(feat\. Majesty Rose\)](https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Majesty Rose](https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 10:29 |
 | 50 | [Cómo Te Amamos \(feat\. Karen Espinosa & Johnny Peña\)](https://open.spotify.com/track/10q6abcYrEB5BBQxN0In72) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 7:42 |
 
-Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDAzNTAxOTk5NTYwNGFmMTFkOTYwYjQyZjI3MTBjNDhmZA==`
+Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDBjNWMxMjkwOWZiMzYzNGIyMjNhM2NjMGMxMDBhYWI5Mg==`

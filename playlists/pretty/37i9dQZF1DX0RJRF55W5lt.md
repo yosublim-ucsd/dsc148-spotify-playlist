@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,487 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,611 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
 | 75 | [Cheque One\-Two](https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:03 |
 
-Snapshot ID: `MCxhMzYwZjJiYWE1MjhjOTgzMzZkMmZjOWUyNDFhMzc4ZGY4Y2IzNWEy`
+Snapshot ID: `MCw2ZGJhOWE2NjljN2JhNTUxYTQyNjA5N2MzYTM1OGZjMDEzNmZkMzRl`

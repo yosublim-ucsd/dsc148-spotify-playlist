@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Martin Garrix, Third Party, Oaks and Declan J Donovan",
-  "num_followers": 466621,
+  "num_followers": 466668,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzYxZjhhNDQ3MDY4M2JmMzI2NDkzMzk4YzI0MDA2ODVkYTVmNDAx",
+  "snapshot_id": "MCw4ZWNmMjU2M2ZlYTE3MWM4NDc1NWQzY2ZlMGRhMTBjNGIxYzU4NTc0",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Jamming (FISHER Rework)",
-        "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 201928,
-      "name": "Jamming - FISHER Rework",
-      "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Dola re Dola",
         "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 125538,
       "name": "Dola re Dola",
       "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Jamming (FISHER Rework)",
+        "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 201928,
+      "name": "Jamming - FISHER Rework",
+      "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Les Dangereux",
-        "url": "https://open.spotify.com/album/0WqJXLO6FiPrIWg7z5WEFv"
-      },
-      "artists": [
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "Kiki Solvej",
-          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
-        }
-      ],
-      "duration_ms": 229161,
-      "name": "Les Dangereux",
-      "url": "https://open.spotify.com/track/4xnYHCRaTpO2fzx6eCmBtv"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX"
       },
@@ -935,42 +915,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Who's Laughing Now",
-        "url": "https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww"
+        "name": "Les Dangereux",
+        "url": "https://open.spotify.com/album/0WqJXLO6FiPrIWg7z5WEFv"
       },
       "artists": [
         {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
         },
         {
-          "name": "Fourfive",
-          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+          "name": "Kiki Solvej",
+          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
         }
       ],
-      "duration_ms": 175448,
-      "name": "Who's Laughing Now",
-      "url": "https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Sure Enough (Nakajin Remix)",
-        "url": "https://open.spotify.com/album/5Rqdpd7umReOX5mn0i8cMj"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        },
-        {
-          "name": "Nakajin",
-          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Sure Enough - Nakajin Remix",
-      "url": "https://open.spotify.com/track/6J0vtu846omqRE6nYmvvgf"
+      "duration_ms": 229161,
+      "name": "Les Dangereux",
+      "url": "https://open.spotify.com/track/4xnYHCRaTpO2fzx6eCmBtv"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -999,6 +959,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Who's Laughing Now",
+        "url": "https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Who's Laughing Now",
+      "url": "https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/7ynfpnl2FL5RPvtq6L5IJj"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 235827,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/68LkCIP3WWHNOiezuG9EAD"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Sure Enough (Nakajin Remix)",
+        "url": "https://open.spotify.com/album/5Rqdpd7umReOX5mn0i8cMj"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        },
+        {
+          "name": "Nakajin",
+          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Sure Enough - Nakajin Remix",
+      "url": "https://open.spotify.com/track/6J0vtu846omqRE6nYmvvgf"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Deep Water (feat. EVAN GIIA)",
-        "url": "https://open.spotify.com/album/0cPAAQbvY34RUjf5J0uFec"
-      },
-      "artists": [
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Deep Water (feat. EVAN GIIA)",
-      "url": "https://open.spotify.com/track/5wHQcpGwuVdpHFwESBeW2w"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Better World",
         "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
       },
@@ -1171,6 +1151,42 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Deep Water (feat. EVAN GIIA)",
+        "url": "https://open.spotify.com/album/0cPAAQbvY34RUjf5J0uFec"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Deep Water (feat. EVAN GIIA)",
+      "url": "https://open.spotify.com/track/5wHQcpGwuVdpHFwESBeW2w"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Make Me",
+        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 224204,
+      "name": "Make Me",
+      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "DUSK",
         "url": "https://open.spotify.com/album/0redwBOaK57PJoSLEl2OMD"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 277714,
       "name": "Television",
       "url": "https://open.spotify.com/track/6R5FZTtyZjkTSI6NQuhMan"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Make Me",
-        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 224204,
-      "name": "Make Me",
-      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/3pzH6jllgnJ6viOtPqxbd4"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3IEPhX1Xk2XlLcLor1whVT"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "DISRESPECT",
         "url": "https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3"
       },
@@ -1331,6 +1311,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/3pzH6jllgnJ6viOtPqxbd4"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3IEPhX1Xk2XlLcLor1whVT"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Go Ghost",
         "url": "https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm"
       },
@@ -1343,26 +1343,6 @@
       "duration_ms": 209490,
       "name": "Go Ghost",
       "url": "https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "High Tides",
-        "url": "https://open.spotify.com/album/6WB9aAmFJuG3AazXf7okw8"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
-        }
-      ],
-      "duration_ms": 241884,
-      "name": "High Tides",
-      "url": "https://open.spotify.com/track/0cmcjHX4zHaqDE06f8JQ5R"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1407,6 +1387,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "High Tides",
+        "url": "https://open.spotify.com/album/6WB9aAmFJuG3AazXf7okw8"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        }
+      ],
+      "duration_ms": 241884,
+      "name": "High Tides",
+      "url": "https://open.spotify.com/track/0cmcjHX4zHaqDE06f8JQ5R"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Te Recorde",
         "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/48bM9Odm50py9VSzXQ93Pk"
-      },
-      "artists": [
-        {
-          "name": "Ferdous",
-          "url": "https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM"
-        }
-      ],
-      "duration_ms": 157209,
-      "name": "Celestial Kiss",
-      "url": "https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Noreaga",
         "url": "https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/48bM9Odm50py9VSzXQ93Pk"
+      },
+      "artists": [
+        {
+          "name": "Ferdous",
+          "url": "https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM"
+        }
+      ],
+      "duration_ms": 157209,
+      "name": "Celestial Kiss",
+      "url": "https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Queen (Dan Kye Remix)",
         "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
       },
@@ -1515,6 +1515,26 @@
       "duration_ms": 327894,
       "name": "Queen - Dan Kye Remix",
       "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/5pZSpQ8xYFlF66qrvuyhfd"
+      },
+      "artists": [
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/5gGxQDVMsSDk3GZv9wONQX"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1543,26 +1563,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/5pZSpQ8xYFlF66qrvuyhfd"
-      },
-      "artists": [
-        {
-          "name": "Marco Lys",
-          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
-        },
-        {
-          "name": "Ben Miller",
-          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/5gGxQDVMsSDk3GZv9wONQX"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Stick Up",
         "url": "https://open.spotify.com/album/7a7I2LsYQRjRt5M7RVy5My"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 124030,
       "name": "Stick Up",
       "url": "https://open.spotify.com/track/1Humc1T8KHmkftPWvnsUyy"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Can't Stop Me",
+        "url": "https://open.spotify.com/album/2pxDxyYUtfpmwBaZ6A4rzE"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Can't Stop Me",
+      "url": "https://open.spotify.com/track/0Of9Hs4sqM83EuNpYxB1Lw"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Can't Stop Me",
-        "url": "https://open.spotify.com/album/2pxDxyYUtfpmwBaZ6A4rzE"
-      },
-      "artists": [
-        {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Can't Stop Me",
-      "url": "https://open.spotify.com/track/0Of9Hs4sqM83EuNpYxB1Lw"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Makes Me (Wanna Move)",
         "url": "https://open.spotify.com/album/6Fn4HePyCt2SS2LNILA1Lv"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 181000,
       "name": "Makes Me (Wanna Move)",
       "url": "https://open.spotify.com/track/55SSeb6371c8N3EcS0oZqD"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/6FIuFUhcv524MtJPkk4cZq"
-      },
-      "artists": [
-        {
-          "name": "Tannergard",
-          "url": "https://open.spotify.com/artist/5SkFO3lmDnuFTMIOMK8Bxj"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/4UgIqdAcjpNOmkAymdJSrB"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1679,26 +1663,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
-        }
-      ],
-      "duration_ms": 169943,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Space Is The Place EP",
         "url": "https://open.spotify.com/album/5viYIzsupOuDCbtCtfv9t3"
       },
@@ -1711,6 +1675,42 @@
       "duration_ms": 365901,
       "name": "Blow My Fuse",
       "url": "https://open.spotify.com/track/0WR2CT3L2h2rTu7W2W3gpS"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/6FIuFUhcv524MtJPkk4cZq"
+      },
+      "artists": [
+        {
+          "name": "Tannergard",
+          "url": "https://open.spotify.com/artist/5SkFO3lmDnuFTMIOMK8Bxj"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/4UgIqdAcjpNOmkAymdJSrB"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Forza",
+        "url": "https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        },
+        {
+          "name": "Estremo",
+          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+        }
+      ],
+      "duration_ms": 192389,
+      "name": "Forza",
+      "url": "https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1739,22 +1739,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Forza",
-        "url": "https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
       "artists": [
         {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
         },
         {
-          "name": "Estremo",
-          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
         }
       ],
-      "duration_ms": 192389,
-      "name": "Forza",
-      "url": "https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb"
+      "duration_ms": 169943,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Believe In The Music",
-        "url": "https://open.spotify.com/album/30m0BJJ5sAXhGyv9s1RcJh"
-      },
-      "artists": [
-        {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Believe In The Music",
-      "url": "https://open.spotify.com/track/469tLgpUzhgg0zmvIFKiaT"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Fokkus",
         "url": "https://open.spotify.com/album/302IupfUSU1Tgpb51RdZyo"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 205976,
       "name": "Fokkus",
       "url": "https://open.spotify.com/track/4DyBYdag56p8QTUJsm5ivs"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Believe In The Music",
+        "url": "https://open.spotify.com/album/30m0BJJ5sAXhGyv9s1RcJh"
+      },
+      "artists": [
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Believe In The Music",
+      "url": "https://open.spotify.com/track/469tLgpUzhgg0zmvIFKiaT"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Cycle EP",
-        "url": "https://open.spotify.com/album/23M8NLT8jW95pdoku73V7q"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        }
-      ],
-      "duration_ms": 280540,
-      "name": "Pink Lambo",
-      "url": "https://open.spotify.com/track/6yvHeE78HMKIih5Ys9gKVr"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Something In My Heart",
         "url": "https://open.spotify.com/album/6Gk4kbd9gVXp5Wbs66yplq"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 454586,
       "name": "Something In My Heart",
       "url": "https://open.spotify.com/track/3S31mY7XlSKzQKfhv9q5Ve"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "The Cycle EP",
+        "url": "https://open.spotify.com/album/23M8NLT8jW95pdoku73V7q"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 280540,
+      "name": "Pink Lambo",
+      "url": "https://open.spotify.com/track/6yvHeE78HMKIih5Ys9gKVr"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "World's Burning / Rainsynth",
-        "url": "https://open.spotify.com/album/2kGI4tlFv8pZNtHbBWZHhZ"
-      },
-      "artists": [
-        {
-          "name": "Next To Blue",
-          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "World's Burning",
-      "url": "https://open.spotify.com/track/0kIi2eeHgIzAjefUlAJepw"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Everytime",
         "url": "https://open.spotify.com/album/0S4w8MbLGBd8Ff08cGplZL"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 140671,
       "name": "Tomala",
       "url": "https://open.spotify.com/track/3J8H0G31LQnI5SAfho46DD"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "World's Burning / Rainsynth",
+        "url": "https://open.spotify.com/album/2kGI4tlFv8pZNtHbBWZHhZ"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "World's Burning",
+      "url": "https://open.spotify.com/track/0kIi2eeHgIzAjefUlAJepw"
     },
     {
       "added_at": "2024-02-16 05:00:00",

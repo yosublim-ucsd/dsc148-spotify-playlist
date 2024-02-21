@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-421 songs - 1 day 0 hr 8 min
+422 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Humansongs](https://open.spotify.com/track/4EbQ4fLF9Z9zFQECyATkuC) | [Po\-uta](https://open.spotify.com/artist/1tyhOQeX7Ey2LbbzEiB9Zv) | [Humansongs](https://open.spotify.com/album/4q72QP5wsuf6xIRTpMRYpT) | 3:36 | 2023-03-10 |  |
 | [Hydra](https://open.spotify.com/track/0KxiHe3uWBIH3pvHV9SFZb) | [F\-777](https://open.spotify.com/artist/4c7ssQj66cEGMq6viiJdTZ) | [Hydra](https://open.spotify.com/album/3g2nMiQ15XBUGQeGTZaONm) | 3:24 | 2023-12-15 |  |
 | [Hypervelocity \(from HARDCORE UTOPIA 2\)](https://open.spotify.com/track/7aSAkpmPssSngNdpuod8Dh) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [Hypervelocity \(from HARDCORE UTOPIA 2\)](https://open.spotify.com/album/5dmR3SVzYAYpn9uss8yA3l) | 4:48 | 2022-01-07 | 2022-07-29 |
-| [I Believe](https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [I Believe](https://open.spotify.com/album/1c9WAYELQyzy1VGwBT1Ftv) | 4:18 | 2022-01-07 |  |
+| [I Believe](https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [I Believe](https://open.spotify.com/album/1c9WAYELQyzy1VGwBT1Ftv) | 4:18 | 2022-01-07 | 2024-02-21 |
 | [I Don’t Think I Can Do This Again \(with Clairo\)](https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [I Don’t Think I Can Do This Again](https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4) | 3:41 | 2022-03-11 | 2023-08-12 |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 | 2022-07-01 | 2023-03-01 |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [i don’t wanna write sad songs anymore \(Acoustic\)](https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS) | 4:01 | 2023-03-10 |  |
@@ -218,6 +218,7 @@
 | [Last Star](https://open.spotify.com/track/4i5McfiyWkcmVhV8A9oTbv) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Last Star](https://open.spotify.com/album/6yTSHTtAlpzDsV03f0D4Ee) | 3:42 | 2022-07-14 | 2022-08-06 |
 | [Leave You](https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 3:54 | 2022-07-14 | 2022-08-06 |
 | [Let Love Win](https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [PARALLAX](https://open.spotify.com/album/1fup3EK4hxpYo0UxxbZiRY) | 3:18 | 2022-01-07 | 2022-09-17 |
+| [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/track/1OMd5V32rn0catWq87yvex) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/album/3ZZ2Fqhmfi1Nz3qOBJ4PbH) | 3:00 | 2024-02-16 |  |
 | [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/track/3VFtHmvmClUSOp9kWrx4RA) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/album/3RIW263kHZvpyYk3ZrCALC) | 3:00 | 2023-12-08 | 2024-02-04 |
 | [Look at the Sky](https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Look at the Sky](https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y) | 5:09 | 2022-01-07 |  |
 | [Lotus](https://open.spotify.com/track/2q5altBBEDUUXJsvZ5gl8t) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Lotus](https://open.spotify.com/album/5vDaVFY1wHoehAqXG7scTN) | 2:43 | 2022-01-07 | 2022-07-29 |

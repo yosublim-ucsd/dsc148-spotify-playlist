@@ -2,9 +2,9 @@
 
 ### [Oyster](https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF)
 
-> the pearls of an oyster\. Cover: Yung Lean
+> the pearls of an oyster\. Cover: Erika de Casier
 
-1,093 songs - 2 day 12 hr 20 min
+1,095 songs - 2 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [Tequila](https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz) | 1:45 | 2023-08-09 | 2023-08-17 |
 | [Terms and Conditions](https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Terms and Conditions](https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5) | 3:29 | 2023-04-06 | 2023-05-19 |
 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-08 | 2023-07-07 |
+| [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 | 2024-02-20 |  |
 | [That's My Baby](https://open.spotify.com/track/0YmhNztwrZtE8Z9dBEhsVy) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [That's My Baby](https://open.spotify.com/album/7sG9uqgduI2WH84fSr5fek) | 2:18 | 2022-10-28 | 2022-12-16 |
 | [The Best](https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [The Best](https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf) | 2:14 | 2023-09-28 | 2023-10-06 |
 | [The Big Boom](https://open.spotify.com/track/52rDZ9pPuVKAQoycR0wqme) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [The Big Boom](https://open.spotify.com/album/28R26xS0sxrdEFCKwSjwKG) | 3:14 | 2023-11-16 | 2023-12-24 |
@@ -1007,6 +1008,7 @@
 | [Tudu Tudu Tu](https://open.spotify.com/track/72UIs3n4aCN6GInoLSNQBV) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Tudu Tudu Tu](https://open.spotify.com/album/1kem3mNe6TQLSUPMQnMxdt) | 2:40 | 2022-10-28 | 2022-11-11 |
 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 | 2023-07-13 | 2023-09-29 |
 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 | 2023-09-14 | 2024-01-05 |
+| [Twice](https://open.spotify.com/track/3U4eW849fjz2U8BF9ghjQb) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:43 | 2024-02-20 |  |
 | [Twin Flame](https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/4rZPUX1MOeZ4XpJSta8Epm) | 3:52 | 2022-10-28 | 2022-11-25 |
 | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 | 2023-02-09 | 2023-03-03 |
 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-01-26 | 2023-04-07 |

@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Trance, House, Techno, Dance, Afro\-House, Melodic Techno \| Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: CID
 
-929 songs - 2 day 1 hr 39 min
+930 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2022-06-09 | 2022-07-29 |
 | [Jack Flip](https://open.spotify.com/track/2yQcHJYJngvxS6L3kH7eRm) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Jack Flip](https://open.spotify.com/album/0Qg4RgceOxpJaLsZ0J3CcU) | 2:35 | 2022-07-08 | 2022-08-18 |
 | [Jazz Club](https://open.spotify.com/track/2g7HR8Q4xsIDaItScB9OqZ) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Jazz Club](https://open.spotify.com/album/3IEbppWLyhaxJpgFIs7Q5d) | 2:28 | 2022-06-09 | 2022-09-16 |
+| [JOI](https://open.spotify.com/track/6X6KFGk20iV8XwxoCDt2N4) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [JOI](https://open.spotify.com/album/7cd8ra3w8pF0z6Qluw7ukv) | 3:52 | 2024-02-20 |  |
 | [Jump](https://open.spotify.com/track/1BnoG2KaNRuf7mZ88bFE0C) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Jump](https://open.spotify.com/album/3CO33y1tZPt41lPMrFDToY) | 2:38 | 2023-08-31 |  |
 | [Jungle Ego](https://open.spotify.com/track/3VzHfnFmyK1s8KCHSD7UTC) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [Jungle Ego](https://open.spotify.com/album/2ZcqNhcbJf0ywc3fxgGHiR) | 4:31 | 2022-06-30 | 2022-08-12 |
 | [Jungle Strike](https://open.spotify.com/track/3zeqre4v8tbWLP2H4pGXzk) | [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [GROOVE FM, Pt\. 2](https://open.spotify.com/album/5Mbt1RTjoiNXNpsCIDzLxk) | 3:28 | 2022-12-16 | 2023-01-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,065 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,104 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Se Rompió la Cadena](https://open.spotify.com/track/22djihsFEnRFJ42k64Sj8w) | [El Super Trio](https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo) | [15 Tesoros Musicales](https://open.spotify.com/album/54k9wS0XdU5p0bQOOgVkjn) | 2:36 |
 | 60 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
 
-Snapshot ID: `MCw0OGNhMjE3MTZjYjkyYTAyMDQwNWE0YmFlMTk0ODViN2NjMmQ4M2I1`
+Snapshot ID: `MCxjNDUxYWIyMWJjMWQ3YzIzMTE0MzBkZDU3NDQzMWJkMjdiMTE1MDQw`

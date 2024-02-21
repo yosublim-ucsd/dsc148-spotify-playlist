@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,469 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,472 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -342,10 +342,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 332 | [Dream Away \- Remastered](https://open.spotify.com/track/465LG7wvrcqgSK3RmBqR7q) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Bobby Boughton](https://open.spotify.com/artist/1xA45Y8FmnDUx45z3LAAOX), [Aidan McGovern](https://open.spotify.com/artist/5OIR6yx6e1qDEIca1MIJHz) | [So Natural](https://open.spotify.com/album/2LD5bvxCjhrtNEFRjfMUjR) | 4:36 |
 | 333 | [Let's Start with Forever](https://open.spotify.com/track/1L7jyNfFhAaBMyyugmL7Kw) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [Time and Chance](https://open.spotify.com/album/5jxSoZ69jIYIPovvbXBgb9) | 4:28 |
 | 334 | [If You Need Somebody Tonight](https://open.spotify.com/track/6zAzkVXskqdvRWwvrfnV0x) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [I Stand Alone](https://open.spotify.com/album/38brv75fH38KBYxhXZelqc) | 3:32 |
-| 335 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
-| 336 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
-| 337 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
-| 338 | [Moonlight Dancing](https://open.spotify.com/track/2gf9zC4QEC7RkFuezVJ8HY) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Some People's Lives](https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb) | 4:39 |
+| 335 | [Moonlight Dancing](https://open.spotify.com/track/2gf9zC4QEC7RkFuezVJ8HY) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Some People's Lives](https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb) | 4:39 |
+| 336 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
+| 337 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
+| 338 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
 | 339 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
 | 340 | [Shine](https://open.spotify.com/track/0v2Qw3hhGhpK07yHYtCaVf) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:40 |
 | 341 | [Show Me The Way Back To Your Heart](https://open.spotify.com/track/55pJM8TMefpyEBnuzoViIU) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 3:57 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg0NzMyNTAsMDAwMDAwMDA4ZjI1ZjU0ZDcwYzBlY2FjMTBiMTU0ZWRlNGEwZmMyNg==`
+Snapshot ID: `Mjg0NzQ2OTAsMDAwMDAwMDBhM2E3YTY5MWRhYjM2YTQ5ZDQ5MWIwYjZmOTg4MThlOA==`

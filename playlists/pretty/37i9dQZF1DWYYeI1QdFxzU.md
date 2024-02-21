@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,724 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,736 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 47 | [Unladder](https://open.spotify.com/track/3zhaGBOyy7IeBoWnxU84lC) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Cave Dog](https://open.spotify.com/album/7cvPRs0Qpipk58u2iVSM9u) | 1:31 |
 | 48 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 | 49 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
-| 50 | [Everything \(feat\. Carmody\)](https://open.spotify.com/track/57YDcLOmB4sezbSAupAQuh) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [Everything \(feat\. Carmody\)](https://open.spotify.com/album/25F05MXydPLvZLyWD2mG4V) | 3:29 |
+| 50 | [Triangular Blue Marina](https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/4kmLGEaHtPuXAkm7FQ9QlB) | 2:21 |
 
-Snapshot ID: `MCxlYTI3NjlkMjdkZGU2MmZhZjQyMDg1MDZmNDA3ZjcxYjQyMjE0MjVh`
+Snapshot ID: `MCxhM2VlYzkxMTAxYjI5Y2EzNzI0NDQ0NGM4Y2EzMTM2ZWUxMGE0YTFk`

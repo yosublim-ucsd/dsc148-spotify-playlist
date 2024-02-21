@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 276776,
+  "num_followers": 276844,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE2MDYxOTU1MjI4MTY4N2Q1MjA0MWJjYzA3NjJjMjM5ZTc0ZTNi",
+  "snapshot_id": "MCxlZGJlOGY0MGMyNzYyNmMxNzhhMTVkNWJkNDg1M2Y5ZjVlYzhhZGJl",
   "tracks": [
     {
       "added_at": "2024-02-07 13:29:49",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-02-07 13:29:49",
       "album": {
+        "name": "If I Ruled The World: Songs For The Jet Set",
+        "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz"
+    },
+    {
+      "added_at": "2024-02-07 13:29:49",
+      "album": {
         "name": "Ella Fitzgerald Sings The Jerome Kern Song Book",
         "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 195666,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
-    },
-    {
-      "added_at": "2024-02-07 13:29:49",
-      "album": {
-        "name": "If I Ruled The World: Songs For The Jet Set",
-        "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz"
     },
     {
       "added_at": "2024-02-07 13:29:49",
@@ -631,8 +631,8 @@
     {
       "added_at": "2024-02-07 13:29:49",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "Sings Sweet Songs For Swingers",
+        "url": "https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 142520,
-      "name": "You Do Something To Me",
-      "url": "https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB"
+      "duration_ms": 184720,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
     },
     {
       "added_at": "2024-02-07 13:29:49",
@@ -787,8 +787,8 @@
     {
       "added_at": "2024-02-07 13:29:49",
       "album": {
-        "name": "Sings Sweet Songs For Swingers",
-        "url": "https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 184720,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
+      "duration_ms": 142520,
+      "name": "You Do Something To Me",
+      "url": "https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB"
     },
     {
       "added_at": "2024-02-07 13:29:49",

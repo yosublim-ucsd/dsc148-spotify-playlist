@@ -5381,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "Hazel",
+        "url": "https://open.spotify.com/album/0kTzgg4yQiJKfDymYvvqh9"
+      },
+      "artists": [
+        {
+          "name": "Stewart Park Quartet",
+          "url": "https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231755,
+      "name": "Hazel",
+      "url": "https://open.spotify.com/track/31xTgQQsM0etDnwb6ziLbW"
+    },
+    {
+      "album": {
         "name": "He Knows I'm Sophisticated",
         "url": "https://open.spotify.com/album/4w9qBQ0YSTsrDXmXmZoNBf"
       },
@@ -9680,7 +9698,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 387372,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2"

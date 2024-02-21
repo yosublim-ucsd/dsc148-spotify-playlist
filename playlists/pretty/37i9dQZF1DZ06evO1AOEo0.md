@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,911 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,918 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You've Already Won \- Radio Version](https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [You've Already Won \(Radio Version\)](https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK) | 4:22 |
 | 2 | [Psalm 46 \(Lord of Hosts\)](https://open.spotify.com/track/6obkbpih6pYSgjPyoI75Xp) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:02 |
-| 3 | [I Will Wait for You \(Psalm 130\) \[Live\]](https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 6:18 |
-| 4 | [Awesome God](https://open.spotify.com/track/1lMG8zOEc89JkZRuPhft7Y) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 2:51 |
+| 3 | [Awesome God](https://open.spotify.com/track/1lMG8zOEc89JkZRuPhft7Y) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 2:51 |
+| 4 | [I Will Wait for You \(Psalm 130\) \[Live\]](https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 6:18 |
 | 5 | [How Great Thou Art](https://open.spotify.com/track/1SnZi2eVU2kcXRNJT6ek4J) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:54 |
 | 6 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 |
 | 7 | [Living Water](https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [He Is Exalted](https://open.spotify.com/track/1hVqIbX3UyHC5gKb8rR6Xw) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Clean](https://open.spotify.com/album/7p00s4Ck6FW4cXMTkCZbah) | 3:30 |
 | 50 | [You Know Everything \(Psalm 139\) \- Live](https://open.spotify.com/track/6en45FpokCU2UHfZqtfKeY) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word \(Live\)](https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ) | 3:28 |
 
-Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDBlYTgyMDQ5ZGIzMTUyZjVkMGI2M2Q3ZDJlZTc3NTE3Zg==`
+Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA0YTgxOTZjY2E2YzNiNjg2NmYwMTM3OWI0MDI4YTA3NQ==`

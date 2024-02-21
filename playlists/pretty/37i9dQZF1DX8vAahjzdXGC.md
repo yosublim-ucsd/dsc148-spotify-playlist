@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,580 likes - 87 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,608 likes - 87 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 86 | [Be Yours](https://open.spotify.com/track/3Jjwrk3xgnJWPTc48GYhWg) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Be Yours](https://open.spotify.com/album/7vM7i3keTw97YelVp8akgg) | 3:04 |
 | 87 | [Nowhere](https://open.spotify.com/track/5d9QunA2YMB6gKQ65fE8cs) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Nowhere](https://open.spotify.com/album/1NgOh8j1ai2Qs67m48gLd9) | 2:46 |
 
-Snapshot ID: `MCwxMWNmZDYwM2JiYjg1MmJiMzJkMWE2OTFmMjA5NjViOGE2YTE0NmVi`
+Snapshot ID: `MCxiYmZiZTJkNDMzMjI2NGQxOGU4NjM2NjY1OGJjNWM3OWMyMGY0OTM2`

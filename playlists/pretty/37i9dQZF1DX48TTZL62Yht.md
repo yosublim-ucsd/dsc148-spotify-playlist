@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: <a href="spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,748 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,788 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 99 | [Bamba \(feat\. Aitch & BIA\)](https://open.spotify.com/track/7nFJSfGvvV0WjatTZN6QYi) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bamba \(feat\. Aitch & BIA\)](https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF) | 3:23 |
 | 100 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 |
 
-Snapshot ID: `MCxlZTFmNGI4NWRjN2UzM2NhNjQxZDA4ODllYzVlMTcxODUxYWUzMWJl`
+Snapshot ID: `MCxlOTM1NWY3YTQxYzY3MTM4YjUwYWE5NjlmNDdlMDgwNjU5MGM3YWQ4`

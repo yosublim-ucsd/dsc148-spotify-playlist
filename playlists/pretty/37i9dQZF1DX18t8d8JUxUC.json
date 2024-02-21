@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Benjam\u00edn Walker",
-  "num_followers": 20362,
+  "num_followers": 20371,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDAzOGM0YzBiOTg4NmJjYjIxYjQ1NTg4ZjE0MTIzZjc3NGM5NTVj",
+  "snapshot_id": "MCw5OWMyODMzYjk4ZWRjZjhjZTc3NjdmY2QzMDZkODM4MTJhMjNkMDFk",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 176106,
-      "name": "Querida Rosa",
-      "url": "https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Sonido C\u00f3smico",
         "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 223427,
       "name": "Sonido C\u00f3smico",
       "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 176106,
+      "name": "Querida Rosa",
+      "url": "https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Hermosa Drive",
+      "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 176844,
       "name": "La Casa de Mis Pap\u00e1s",
       "url": "https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "El Bueno Y El Malo",
-        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Hermosa Drive",
-      "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "Balboa",
         "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 220629,
       "name": "Quiero Sentirlo Todo",
       "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Desaparezca Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf"
-      },
-      "artists": [
-        {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "El Hombre Que Casi Conoci\u00f3 a Michi Panero",
-      "url": "https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "Desaparezca Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "El Hombre Que Casi Conoci\u00f3 a Michi Panero",
+      "url": "https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "Respirar Bajo el Agua",
         "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 165032,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
     },
     {
       "added_at": "2024-02-16 05:01:00",

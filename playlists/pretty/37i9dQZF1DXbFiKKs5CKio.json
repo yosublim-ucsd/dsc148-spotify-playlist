@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55254,
+  "num_followers": 55258,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDg5Y2MyMjJiMjA2YTY4ZGRhMjExNjAzOGU1YTc3MDA1OTVjMjgx",
+  "snapshot_id": "MCw1ZmJlYWE1NTZmYTE0YTJiOWIzN2ZhMjU4MjZiYmNjNTczZjFiOWFm",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Ondina",
-        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
-      },
-      "artists": [
-        {
-          "name": "Jadidi",
-          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Ondina",
-      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "P\u00e2nico",
         "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 183005,
       "name": "P\u00e2nico",
       "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Ondina",
+        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
+      },
+      "artists": [
+        {
+          "name": "Jadidi",
+          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Ondina",
+      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -471,22 +471,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Correria",
-        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
+        "name": "Pulando",
+        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
       },
       "artists": [
         {
-          "name": "Sarah Soul",
-          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
-        },
-        {
-          "name": "Carol Terra",
-          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
         }
       ],
-      "duration_ms": 146769,
-      "name": "Noite em Febre",
-      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
+      "duration_ms": 164000,
+      "name": "Pulando",
+      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -531,18 +527,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Pulando",
-        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
+        "name": "Correria",
+        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
       "artists": [
         {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+          "name": "Sarah Soul",
+          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
+        },
+        {
+          "name": "Carol Terra",
+          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Pulando",
-      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+      "duration_ms": 146769,
+      "name": "Noite em Febre",
+      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Candeia",
         "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 171500,
       "name": "DESLIGA O TELEFONE",
       "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Canela e hortel\u00e3",
-        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Canela e hortel\u00e3",
-      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 177391,
       "name": "Qu\u00edmica Perfeita",
       "url": "https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Canela e hortel\u00e3",
+        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Canela e hortel\u00e3",
+      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2024-02-02 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,697 likes - 500 songs - 19 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,792 likes - 500 songs - 19 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 499 | [the deep sea](https://open.spotify.com/track/1wGGlZgpgyXK3f3VvC4pmY) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [the deep sea](https://open.spotify.com/album/60BoudET7QMDno2pcRrsH5) | 2:11 |
 | 500 | [Fresh 6.8?](https://open.spotify.com/track/3ZMCgSjeIggizyg3820sFy) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Fresh 6.8?](https://open.spotify.com/album/3Me8pah3c60IidZI0R2EFs) | 2:02 |
 
-Snapshot ID: `MCwzNGYxZGEyYmI4NDY0ZmEyZjM0YWFiMDMzMjFmMTc5NjBhYzY0ZjVl`
+Snapshot ID: `MCxjZWJjMTZiNjcxNTAzN2M2MWFlOTkyNDcxMjM2YTI3YjY2MDZhYzMw`

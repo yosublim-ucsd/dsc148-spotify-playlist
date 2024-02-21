@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 64162,
+  "2024-02-21": 64160,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover - Jonita Gandhi",
   "name": "EQUAL India",
@@ -3084,6 +3084,28 @@
     },
     {
       "album": {
+        "name": "Article 370",
+        "url": "https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY"
+      },
+      "artists": [
+        {
+          "name": "Vibha Saraf",
+          "url": "https://open.spotify.com/artist/4aL6PYF766njiW0WELvEzj"
+        },
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332727,
+      "name": "Main Tujhe Phir Miloongi",
+      "url": "https://open.spotify.com/track/0T0dczg8pK5vCsnj8GoRcR"
+    },
+    {
+      "album": {
         "name": "Majnu",
         "url": "https://open.spotify.com/album/0Nh2YR5SASmzVn3nkBUobO"
       },
@@ -5181,7 +5203,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 151578,
       "name": "Shart Lagake",
       "url": "https://open.spotify.com/track/1IffRKiB73SXuSIY216UXK"

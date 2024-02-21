@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,866 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,938 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [On Est Puissant](https://open.spotify.com/track/4mWZwZ51xakJxKs9sMbASX) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [On Est Puissant](https://open.spotify.com/album/6uCH7SU24RiZ1qIlkdsTOO) | 3:25 |
 | 40 | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM) | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ) | 3:58 |
 
-Snapshot ID: `MCw5YTdhY2VkYjEyZDg1NWYzYTU5NDRlNzJjYWM0YzU1M2VkYmUyYTlk`
+Snapshot ID: `MCw4N2EwMjliNWNhMmFlODEzZTIyZmRlMWRiYTc1YWM0MjA2YzhiMzBl`

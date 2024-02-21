@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-687 songs - 1 day 1 hr 55 min
+688 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [AUTOMOTIVO ANGELICAL V4](https://open.spotify.com/track/1vyg1TIfJK409mLL6LaxeG) | [DJ ZK3](https://open.spotify.com/artist/0Z3ZL2hmP2xyr3AyEx7kg2) | [AUTOMOTIVO ANGELICAL V4](https://open.spotify.com/album/3eGmRNMoxVKxkDqyrRbnMP) | 2:33 | 2023-09-22 | 2023-10-28 |
 | [AUTOMOTIVO ASCEND](https://open.spotify.com/track/3LaG4LttHrYRlVTNpstmWw) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [Mc Vuk Vuk](https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx), [DJ Patrick R](https://open.spotify.com/artist/0WL2xTzoE0X3Uu0ewOsxaO), [MC Wender Pqn](https://open.spotify.com/artist/6uY975rkczEz2UjiXxB1vp) | [Automotivo Ascend](https://open.spotify.com/album/7kqxSeLnFqYGOI64PkEW9T) | 2:59 | 2023-11-17 | 2023-12-02 |
 | [AUTOMOTIVO ASSOMBRA LUARA](https://open.spotify.com/track/5WSw7TTalV0Tb7w7yojFjg) | [Prod.Dsr](https://open.spotify.com/artist/06Mv6ITy2MhM1SQ8OFSreF) | [AUTOMOTIVO ASSOMBRA LUARA](https://open.spotify.com/album/6HKiMsilWfHR257IVT8tQX) | 1:21 | 2023-09-08 | 2023-09-23 |
-| [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-07-21 |  |
+| [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-07-21 | 2024-02-21 |
+| [Automotivo Bibi Fogosa](https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO) | 2:09 | 2023-07-21 |  |
 | [Automotivo Blindado](https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO) | [DJ Rossini ZS](https://open.spotify.com/artist/2ue3CASrJMbnfFcE6Pp13G), [DJ MENOR DA Z.O](https://open.spotify.com/artist/7mONoAwA8mRwvz2JYLhABI), [MC Zudo Boladão](https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7), [MC LUIS DO GRAU](https://open.spotify.com/artist/7z92LBe9MQGzZs5VpO8dwX) | [Automotivo Blindado](https://open.spotify.com/album/0coJQdhxjlgLWAsJcC9Dg8) | 3:46 | 2023-06-16 | 2023-10-07 |
 | [AUTOMOTIVO PEGA 1.0](https://open.spotify.com/track/5aaV7gu7LObD7h5crmnssY) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [PHOROMANE](https://open.spotify.com/artist/0rsjzDQH2RbP6RsJk5cvz7), [MC Guto VGS](https://open.spotify.com/artist/62aZgEriKUCni3x4j55BGF) | [AUTOMOTIVO PEGA 1.0](https://open.spotify.com/album/7u2xWRhQHjvi4h947qgDAf) | 1:34 | 2024-02-09 |  |
 | [Autumn Wind](https://open.spotify.com/track/0vwMdWKwS4mjeKiYvEq5Vc) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Autumn Wind](https://open.spotify.com/album/6sJ0X7UrBbVkh0VRuMCzaJ) | 2:09 | 2021-12-03 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,310 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,317 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 33 | [Ride Away](https://open.spotify.com/track/7mbTpKeiHkrxWYQM9pmFWE) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 3:08 |
 | 34 | [Oaxaca Love Song 2](https://open.spotify.com/track/5mpSZYlNOCwd4MjLz7kOmn) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Oaxaca Love Song 2](https://open.spotify.com/album/3pYnmrC0BJmO5xxWGQhR16) | 3:37 |
 | 35 | [I Don't Live In A Dream \- Live](https://open.spotify.com/track/3ho5QaAxckBv9GluIYqLMT) | [Jackie Greene](https://open.spotify.com/artist/5idHaEmJbiGTZ2MBmhmGMV), [Shannon Sanders](https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI) | [I Don't Live In A Dream \(Live\)](https://open.spotify.com/album/295AdcebONhviN3QaEu65K) | 5:45 |
-| 36 | [Sorta Surviving](https://open.spotify.com/track/6oVPXuvV9mfZgIhNYWvcEn) | [Tim Bluhm](https://open.spotify.com/artist/7DvcUPMTX0XfGlO0RexUh0) | [Sorta Surviving](https://open.spotify.com/album/7yCItyB8CBd08cMTiHk0a4) | 3:14 |
+| 36 | [Sorta Surviving](https://open.spotify.com/track/6NZaF6HX1jreJDZTbxrUOX) | [Tim Bluhm](https://open.spotify.com/artist/7DvcUPMTX0XfGlO0RexUh0) | [Sorta Surviving](https://open.spotify.com/album/6sjb92IscCWwySFxIC0Ivc) | 3:14 |
 | 37 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 |
 | 38 | [Sundowner \- 4\-Track Demo](https://open.spotify.com/track/1JGW7bagfkhvli39OuDXuV) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [A Night At The Little Los Angeles \(Sundowner 4\-Track Demos\)](https://open.spotify.com/album/4EINljdbkgBlqatl4h9OeW) | 4:22 |
 | 39 | [Drunken Angel](https://open.spotify.com/track/0Vk5X3h5v1NDQhGzkRrt8m) | [Alynda Segarra](https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow) | [Drunken Angel](https://open.spotify.com/album/2yEUM0Up8mgePFq4MN0bX7) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 59 | [I See It Now](https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb) | 2:53 |
 | 60 | [The Long Goodbye](https://open.spotify.com/track/6gDnRavQGA28VqNb4ESX4c) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu) | 10:02 |
 
-Snapshot ID: `MCwzNGIwNmQyOGI1NTQ1MWYzMDNhNTE2MDBkODYyYmEyMjNiZTcxOTVj`
+Snapshot ID: `MCw2OGVmOTNlZWMwOTFkZGUyZGM0NTYyMmM5N2NiNjczMDEwMDlhODYz`

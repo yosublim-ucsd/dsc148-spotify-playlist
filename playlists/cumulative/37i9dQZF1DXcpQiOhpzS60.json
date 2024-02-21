@@ -1062,10 +1062,28 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 65637,
       "name": "The Friendly Arm Inn (From \"Baldur's Gate\")",
       "url": "https://open.spotify.com/track/6d5geH3RQrDB7VHDW09pHS"
+    },
+    {
+      "album": {
+        "name": "Fantasy Realms",
+        "url": "https://open.spotify.com/album/2jjRNp0pjNZ2rBs59HxNjy"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65637,
+      "name": "The Friendly Arm Inn - From \"Baldur's Gate\"",
+      "url": "https://open.spotify.com/track/4yyfssjc5wWyVNluHbtJ2L"
     },
     {
       "album": {
@@ -1236,10 +1254,28 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 50180,
       "name": "Wild Boar Inn",
       "url": "https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB"
+    },
+    {
+      "album": {
+        "name": "Inns & Taverns",
+        "url": "https://open.spotify.com/album/7BgQqvXcARjxfj1BLC4va1"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50180,
+      "name": "Wild Boar Inn",
+      "url": "https://open.spotify.com/track/123dbEu64JKmhfU0fGy0gX"
     },
     {
       "album": {

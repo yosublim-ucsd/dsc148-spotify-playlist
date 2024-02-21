@@ -1,12 +1,12 @@
 {
   "description": "Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock. ",
-  "num_followers": 43593,
+  "num_followers": 43592,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "NjcyNCw3MjRlOGU2NDJhZTEyOTAzNDQyZDU1MjBlMWEyMTU2NzM4Njk2YWRk",
+  "snapshot_id": "NjczMCxhY2FiY2IwZjRhYTk0YjZiMTAzODg2MGVhYjY0NWU2OWEwZTRmOTg3",
   "tracks": [
     {
       "added_at": "2024-01-19 21:21:00",
@@ -23,6 +23,26 @@
       "duration_ms": 140106,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/76TJAFvcsT53qPU0bAR4an"
+    },
+    {
+      "added_at": "2024-02-20 19:10:56",
+      "album": {
+        "name": "Purple Heart",
+        "url": "https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 165092,
+      "name": "Turnt",
+      "url": "https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R"
     },
     {
       "added_at": "2024-01-19 21:16:13",
@@ -479,6 +499,22 @@
       "duration_ms": 158490,
       "name": "PLATINUM",
       "url": "https://open.spotify.com/track/3oT8T9rCFRY5ApaPubtWSV"
+    },
+    {
+      "added_at": "2024-02-20 19:10:43",
+      "album": {
+        "name": "BEAST OUT THE CAGE",
+        "url": "https://open.spotify.com/album/3xyUv8Z7PWHRakcSM1P0zg"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "BEAST OUT THE CAGE",
+      "url": "https://open.spotify.com/track/5wskdb31Z9aAhtuSkphkF6"
     },
     {
       "added_at": "2024-01-12 20:30:32",
@@ -1111,38 +1147,6 @@
       "duration_ms": 135529,
       "name": "4Lifers",
       "url": "https://open.spotify.com/track/3FYPMqQbbOZ1WzCztLeLBp"
-    },
-    {
-      "added_at": "2023-08-11 17:21:24",
-      "album": {
-        "name": "Slut",
-        "url": "https://open.spotify.com/album/3nAU88uRQbbuT5hlPBtom3"
-      },
-      "artists": [
-        {
-          "name": "Jimbo World",
-          "url": "https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu"
-        }
-      ],
-      "duration_ms": 142011,
-      "name": "Slut",
-      "url": "https://open.spotify.com/track/4y09z2lAF40PebZLUmFdNv"
-    },
-    {
-      "added_at": "2024-02-12 20:21:41",
-      "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 118973,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"
     }
   ],
   "unique_name": "All The Way Up",

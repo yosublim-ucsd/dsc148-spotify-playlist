@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
@@ -3298,7 +3298,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
@@ -3558,6 +3558,24 @@
       "duration_ms": 221596,
       "name": "Proof",
       "url": "https://open.spotify.com/track/3Zgw1DjigjWI5AFPTZYBwZ"
+    },
+    {
+      "album": {
+        "name": "Re-\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u6751\u5321\u7d18",
+          "url": "https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278518,
+      "name": "Re-\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW"
     },
     {
       "album": {
@@ -4270,6 +4288,24 @@
       "duration_ms": 216000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2rOCJ6DFcSUd4HqiRZj7wP"
+    },
+    {
+      "album": {
+        "name": "Thanks again",
+        "url": "https://open.spotify.com/album/24ZQN8pJRxIBPG3WLX4A8t"
+      },
+      "artists": [
+        {
+          "name": "SAKURA FUJIWARA",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "Thanks again",
+      "url": "https://open.spotify.com/track/0diIX9HBaAAoxm1dusWmOk"
     },
     {
       "album": {

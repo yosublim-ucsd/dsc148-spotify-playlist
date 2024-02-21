@@ -1,12 +1,12 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Gonzy",
-  "num_followers": 806745,
+  "num_followers": 806880,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjQ5YzQzYWY5YjljZDVlOTAwNWU1OTQyMTVjOWNiNDE3NDZkNjI4",
+  "snapshot_id": "MCxhOWFhNzczMDQwZjBlMzg0Y2Y4OTlmNDA1OGFlNjJmZjk2OTg1NjBj",
   "tracks": [
     {
       "added_at": "2024-02-19 19:22:33",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-02-19 19:22:33",
       "album": {
-        "name": "Tacos Gucci",
-        "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tacos Gucci",
-      "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
-    },
-    {
-      "added_at": "2024-02-19 19:22:33",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
@@ -203,26 +187,6 @@
     {
       "added_at": "2024-02-19 19:22:33",
       "album": {
-        "name": "Oye BB",
-        "url": "https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 147662,
-      "name": "Oye BB",
-      "url": "https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB"
-    },
-    {
-      "added_at": "2024-02-19 19:22:33",
-      "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
       },
@@ -239,6 +203,26 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "added_at": "2024-02-19 19:22:33",
+      "album": {
+        "name": "Oye BB",
+        "url": "https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 147662,
+      "name": "Oye BB",
+      "url": "https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB"
     },
     {
       "added_at": "2024-02-19 19:22:33",

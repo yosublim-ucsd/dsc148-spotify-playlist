@@ -1,13 +1,41 @@
 {
   "description": "All in us! ITZY is back!",
-  "num_followers": 311821,
+  "num_followers": 311917,
   "original_name": "This Is ITZY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTRlZGNkZWZlNTUxMWIyY2ZlMjZjNTBhMDkxMjk2MDYwOTFlOGFj",
+  "snapshot_id": "MCxlNzc4NWIzMTFhZTNmOGM3MGM0YTY0YjVhMzllNzNlNDg4MWJhMWU1",
   "tracks": [
+    {
+      "added_at": "2024-02-20 09:17:25",
+      "album": {
+        "name": "Like Magic",
+        "url": "https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Like Magic",
+      "url": "https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk"
+    },
     {
       "added_at": "2024-01-08 09:00:00",
       "album": {

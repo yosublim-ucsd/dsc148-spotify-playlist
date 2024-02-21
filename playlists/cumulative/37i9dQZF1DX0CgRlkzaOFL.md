@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-86 songs - 4 hr 55 min
+87 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/00tZj5a6Yv5fXTZUQJyiPb) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Schubert](https://open.spotify.com/album/51e2j0LCoTQafc9wKXd2PE) | 12:38 | 2022-03-25 | 2022-07-29 |
 | [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/2GbzKuTKEjjOSnwcQmr3FV) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Complete Solo Recordings](https://open.spotify.com/album/4TYN0UFkb3dXb2RJmE1rLa) | 12:38 | 2022-04-19 | 2022-11-14 |
 | [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/69wjQMavWgK3aCEeVU5BwL) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Schubert](https://open.spotify.com/album/1krbiT1gkPdIzn1pSscOye) | 12:38 | 2022-04-19 |  |
-| [piece by ten](https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 2:45 | 2022-03-25 |  |
+| [piece by ten](https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX　be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 2:45 | 2022-03-25 |  |
 | [Prelude \(From "Angel's Egg"\)](https://open.spotify.com/track/4DV8T3Ec2VtvsHpkYJ61Um) | [Yoshihiro Kanno](https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/4eF5SAGEWD9UGxOBJZAmio) | 3:25 | 2023-12-01 |  |
 | [Ravel: Daphnis et Chloé, M\. 57, Pt\. 3: Lever du jour](https://open.spotify.com/track/0bHetlK2xHzhOEGPEdp1SI) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Philippe Jordan](https://open.spotify.com/artist/7oRn2Jv3j0f23EjcSSCR9W), [Choeur du Théatre National de l'Opéra de Paris](https://open.spotify.com/artist/2YZN9zFVhkAQFOggweug3X), [Orchestre de l'Opéra National de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) | [Ravel : Daphnis & Chloé, La Valse](https://open.spotify.com/album/2HU1cvBMOFZNqofsWY9bQC) | 5:01 | 2022-03-25 |  |
 | [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 | 2022-04-19 |  |
@@ -76,6 +76,7 @@
 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 | 2022-03-25 | 2022-07-29 |
 | [すずさん](https://open.spotify.com/track/3IJb1ea8z7JI0MGhXEvl2r) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 3:08 | 2022-11-25 |  |
 | [それぞれの居場所は](https://open.spotify.com/track/53qehEsM6WQvVvAN2c8QCv) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b) | [映画「雨を告げる漂流団地」Original Soundtrack](https://open.spotify.com/album/5ByRDSKXANCR64CrrUsppt) | 2:48 | 2022-11-21 |  |
+| [ぼくドラえもん](https://open.spotify.com/track/16sjh1TIXOwVnPX268XjWm) | [今井亮太郎](https://open.spotify.com/artist/1Ogp4yK6RFM50S1RKqU21b) | [藤子・F・不二雄 生誕90年記念 CAFÉ de FUJIKO・F・FUJIO MUSEUM](https://open.spotify.com/album/1UYgLb8yvCv769iwYywT0X) | 3:35 | 2024-02-20 |  |
 | [まったりとした日常](https://open.spotify.com/track/2NHzJwUGKcAIL72WbMETk8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック](https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk) | 2:28 | 2022-03-25 |  |
 | [めぐり](https://open.spotify.com/track/66Tay60xv3SRYCzjwwDFf7) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 1:50 | 2022-03-25 | 2022-07-29 |
 | [ガーシュイン:ラプソディ・イン・ブルー ドラマエンディングロングヴァージョン](https://open.spotify.com/track/0xcemfCcLJt8eftaOXtYI6) | [のだめカンタービレ](https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN) | [のだめカンタービレ スペシャル BEST!](https://open.spotify.com/album/36ClMaSzNcAarTjk2LC3ej) | 1:55 | 2022-03-25 | 2022-07-29 |

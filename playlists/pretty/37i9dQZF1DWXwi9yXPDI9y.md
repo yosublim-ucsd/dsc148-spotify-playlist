@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,011 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,229 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [Time On My Hands](https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 4:18 |
 | 100 | [You Better Go Now](https://open.spotify.com/track/1Qi67EpJAbVzUefw4UGyFq) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Presenting Red Garland](https://open.spotify.com/album/4h7i5B7Q7rRXIwTEulF8d3) | 5:11 |
 
-Snapshot ID: `MCw0MjRjZjZjNThkYjliMDNhN2M5ZjMwNDdjZjRlZmEwNmYyN2ZhYWNh`
+Snapshot ID: `MCxmNDY0ZjE4NDdiYzFkMjMwMjZkZjQ1MTM0NzI0MzlmYzMxYTlkNDRm`

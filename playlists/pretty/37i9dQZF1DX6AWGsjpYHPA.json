@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 140422,
+  "num_followers": 140495,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTNkN2I3ZTIxOTg4OWIwNTNkMWNkMDM1YTliOWFlZTJjZDE1NWNh",
+  "snapshot_id": "MCxhODY4NzAzNDMzMTc3MGRkYThiM2FiODU1MjEzMGE3ZDQ1ZGE5ODRm",
   "tracks": [
     {
       "added_at": "2024-01-03 14:56:32",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
+        "name": "Horizon Unlimited",
+        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
+      },
+      "artists": [
+        {
+          "name": "The Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 318785,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
         "name": "Turn This Mutha Out",
         "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 138760,
       "name": "Another Dose (feat. Mick Jenkins)",
       "url": "https://open.spotify.com/track/3vTkplYptoBlHph3eNeJA1"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
-        "name": "Horizon Unlimited",
-        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
-      },
-      "artists": [
-        {
-          "name": "The Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 318785,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
+        "name": "Doin It!!!!",
+        "url": "https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW"
+      },
+      "artists": [
+        {
+          "name": "The Equatics",
+          "url": "https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
-        "name": "Doin It!!!!",
-        "url": "https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW"
-      },
-      "artists": [
-        {
-          "name": "The Equatics",
-          "url": "https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Model Man",
-        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "Nterini - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 231923,
       "name": "Nterini - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
+        "name": "Trust In The Lifeforce Of The Deep Mystery",
+        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Summon The Fire",
+      "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
         "name": "DREAM SOUP",
         "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
-        "name": "Trust In The Lifeforce Of The Deep Mystery",
-        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
-      },
-      "artists": [
-        {
-          "name": "The Comet Is Coming",
-          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Summon The Fire",
-      "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "Mordechai Remixes",
         "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 195604,
       "name": "Dearest Alfred (MyJoy)",
       "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 217346,
       "name": "Own Me",
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
     },
     {
       "added_at": "2024-01-03 14:56:32",

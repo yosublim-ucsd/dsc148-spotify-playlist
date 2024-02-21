@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,618 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,701 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 149 | [Cold Showers](https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Cold Showers](https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg) | 3:20 |
 | 150 | [what do ya miss?](https://open.spotify.com/track/6TMhaUV5u3LIHzcTGSpEom) | [Matt Storm](https://open.spotify.com/artist/5dWiBOsD2jLvYWUSR9XdaZ) | [what do ya miss?](https://open.spotify.com/album/1jeYMiSSwERFGeqQWUkKfi) | 2:39 |
 
-Snapshot ID: `MCw0MTJjMjExY2ZiMzg3YzU0OTQ1OWQ2Njg3MWY3ZDc1NDMyYWU0MGNh`
+Snapshot ID: `MCwxNmI0MzBlYjYxYWU4MDg1MDgwYzFkZTViZDVmMjMxNTUzNDZjNTAw`

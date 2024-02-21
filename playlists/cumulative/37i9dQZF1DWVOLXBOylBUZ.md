@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Ozuna.
 
-853 songs - 1 day 21 hr 14 min
+854 songs - 1 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-10-13 | 2024-02-03 |
 | [BIOL\-101](https://open.spotify.com/track/5FNAn5k6X5zeTg84chzd6c) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [BIOL\-101](https://open.spotify.com/album/2WKMQLwJ93MxJZiUu9iVfD) | 3:45 | 2022-01-07 | 2022-03-19 |
 | [Bitcoin](https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Bitcoin](https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC) | 3:21 | 2022-04-01 | 2022-05-14 |
-| [Blessings](https://open.spotify.com/track/5hSfzCSdcRmhD0FKYkFUzb) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Zor Beats](https://open.spotify.com/artist/4kjj38CgjaEEPqYyZI9kdT) | [Blessings](https://open.spotify.com/album/1bCujSepuEVltttgBxRzCC) | 3:12 | 2024-01-12 |  |
+| [Blessings](https://open.spotify.com/track/5hSfzCSdcRmhD0FKYkFUzb) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Zor Beats](https://open.spotify.com/artist/4kjj38CgjaEEPqYyZI9kdT) | [Blessings](https://open.spotify.com/album/1bCujSepuEVltttgBxRzCC) | 3:12 | 2024-01-12 | 2024-02-21 |
 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 | 2023-11-17 |  |
 | [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 | 2022-08-19 | 2022-12-02 |
 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 | 2022-12-09 | 2023-04-22 |
@@ -736,6 +736,7 @@
 | [SUAVE](https://open.spotify.com/track/2s3EIACnhisC834QP4LVoW) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [AFROTURRO](https://open.spotify.com/artist/6Avpvfs8Vw73SCW26QLQuk) | [DONDE MACHI](https://open.spotify.com/album/6yTckYed9TrD6hUBL7Rjyl) | 2:08 | 2022-11-04 | 2023-02-25 |
 | [Suelta](https://open.spotify.com/track/6b8ssfeNotmNKa9AzS734T) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Suelta](https://open.spotify.com/album/4ryQ5zgWSHGFuoYO4bmY92) | 3:17 | 2022-02-18 | 2022-09-09 |
 | [Sueltas](https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sueltas](https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe) | 2:43 | 2023-03-17 | 2023-07-01 |
+| [Sueños Perdidos](https://open.spotify.com/track/0dpZO7uwO7sPYUJ3TtxG12) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Sueños Perdidos](https://open.spotify.com/album/6JsNEh667ctg1Iznj6rdTI) | 4:16 | 2024-02-20 |  |
 | [SUKI](https://open.spotify.com/track/3PVuGa5aJe03VwaljEHyDi) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [SUKI](https://open.spotify.com/album/6Md5GqOGlTtNuorAKregDc) | 3:34 | 2023-08-11 | 2023-10-28 |
 | [Sukutubla](https://open.spotify.com/track/0ue1fotUAGcDwl3XWoaxxM) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sukutubla](https://open.spotify.com/album/6mj9hONCkhYoiMtGLwnQ17) | 3:24 | 2022-01-07 | 2022-04-23 |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-19 | 2023-08-19 |

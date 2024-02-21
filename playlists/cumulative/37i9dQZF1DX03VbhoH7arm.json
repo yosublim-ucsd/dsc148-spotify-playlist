@@ -573,6 +573,32 @@
     },
     {
       "album": {
+        "name": "Baby Eu Tava na Rua da \u00c1gua",
+        "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
+      },
+      "artists": [
+        {
+          "name": "TR",
+          "url": "https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu"
+        },
+        {
+          "name": "Mc Menor RV",
+          "url": "https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115846,
+      "name": "Baby Eu Tava na Rua da \u00c1gua",
+      "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
+    },
+    {
+      "album": {
         "name": "Back for More (with Anitta)",
         "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
       },
@@ -766,7 +792,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 200000,
       "name": "Ballena",
       "url": "https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc"
@@ -1152,6 +1178,28 @@
       "duration_ms": 175725,
       "name": "Carinha de Beb\u00ea",
       "url": "https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q"
+    },
+    {
+      "album": {
+        "name": "CAVALINHO",
+        "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Gasparzinho",
+          "url": "https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "CAVALINHO",
+      "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
     },
     {
       "album": {
@@ -2396,7 +2444,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -2696,7 +2744,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 150857,
       "name": "Lancha No Mar",
       "url": "https://open.spotify.com/track/15HxJyDE8KBAeWPyWTYAHn"
@@ -2762,6 +2810,32 @@
       "duration_ms": 187619,
       "name": "LEIL\u00c3O",
       "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+    },
+    {
+      "album": {
+        "name": "Vamo de Nova",
+        "url": "https://open.spotify.com/album/7EO5s1F4RLF6gS3kycvxAt"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "Mc Pelourinho",
+          "url": "https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx"
+        },
+        {
+          "name": "DJ Kennedy OBraboo",
+          "url": "https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125592,
+      "name": "Lembra Aquele Cara",
+      "url": "https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc"
     },
     {
       "album": {
@@ -3221,6 +3295,28 @@
     },
     {
       "album": {
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176247,
+      "name": "Matadinha De Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XqhtjiycwDxCpGqUFTtlW"
+    },
+    {
+      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
@@ -3632,7 +3728,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 120014,
       "name": "Novidade na \u00c1rea",
       "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
@@ -4048,7 +4144,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
@@ -4382,6 +4478,44 @@
       "duration_ms": 124312,
       "name": "recadin no espelho",
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
+    },
+    {
+      "album": {
+        "name": "Rol\u00e9 na Favela de Nave",
+        "url": "https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Didi",
+          "url": "https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi"
+        },
+        {
+          "name": "Dj Lc da Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        },
+        {
+          "name": "MC Smith",
+          "url": "https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Rol\u00e9 na Favela de Nave",
+      "url": "https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh"
     },
     {
       "album": {

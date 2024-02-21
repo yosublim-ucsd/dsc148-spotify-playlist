@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,533 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,591 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,14 +149,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 139 | [Vilan](https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Vilan](https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g) | 2:54 |
 | 140 | [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 |
 | 141 | [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 |
-| 142 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 |
-| 143 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 |
-| 144 | [Swedish sauce](https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Swedish sauce](https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc) | 3:21 |
-| 145 | [Sage](https://open.spotify.com/track/08nsgVrERoxnt6gLsecK62) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Sage](https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z) | 2:47 |
+| 142 | [Sage](https://open.spotify.com/track/08nsgVrERoxnt6gLsecK62) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Sage](https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z) | 2:47 |
+| 143 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 |
+| 144 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 |
+| 145 | [Swedish sauce](https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Swedish sauce](https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc) | 3:21 |
 | 146 | [Soft Moments](https://open.spotify.com/track/0cGUiaeg4Ty9MxXIttAnQB) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Soft Moments](https://open.spotify.com/album/2jqAwZGJu7ymVMmo3qYTKD) | 3:22 |
 | 147 | [Here Comes Friday](https://open.spotify.com/track/2HwC77N8rDxMrW3Ve8RfE2) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Here Comes Friday](https://open.spotify.com/album/6RoLm9qaZtHvLzoLTguwW8) | 2:49 |
 | 148 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 |
 | 149 | [Make good better](https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make good better](https://open.spotify.com/album/1fkpOxRymVjgS47si11Dup) | 3:24 |
 | 150 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 |
 
-Snapshot ID: `MCwzMTg2ZDJmMzFkNDBmYzAzYTAzNzRmZDU3YThiODFjMTZkNDE3YWU2`
+Snapshot ID: `MCxkNTMzYzc5ZDk0ZGM2M2EyNWNhMzI0YjYwMjJkOTIyZmQxNWJmMjM0`

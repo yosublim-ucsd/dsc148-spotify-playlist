@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31034,
+  "num_followers": 31048,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjE2NzhlY2ZjZGVkZDdhMjdiNTJiZWZmYWM4ZGIyZWE2NWFiYmZl",
+  "snapshot_id": "MCwwNDEzZTFmYzU0Mjk3MGU2YjA4NDM1YjVkNzliZDY1Y2IxZWQ5MWRi",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Herrarna I Sandl\u00e5dan",
-      "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Versace Style",
         "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 128080,
       "name": "Punkrockarflicka",
       "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Herrarna I Sandl\u00e5dan",
+      "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -543,8 +543,8 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Med is i magen",
-        "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
+        "name": "Sista Dansen",
+        "url": "https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Psykist Instabil",
-      "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
+      "duration_ms": 199160,
+      "name": "Psykopaten",
+      "url": "https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
-      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Fr\u00e5n Fest Till Arrest",
         "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
+      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Varje ensam natt",
         "url": "https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y"
       },
@@ -675,8 +675,8 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Sista Dansen",
-        "url": "https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz"
+        "name": "Med is i magen",
+        "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Psykopaten",
-      "url": "https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO"
+      "duration_ms": 167480,
+      "name": "Psykist Instabil",
+      "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Parasit",
-        "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 152720,
-      "name": "Parasit",
-      "url": "https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "[emo]",
         "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 192362,
       "name": "Simpel Matematik",
       "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Parasit",
+        "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 152720,
+      "name": "Parasit",
+      "url": "https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Snabbmat F\u00f6r Folk I Farten",
-        "url": "https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw"
+        "name": "Docent D\u00f6d (Mini-LP)",
+        "url": "https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT"
       },
       "artists": [
         {
-          "name": "Hans & Greta",
-          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
+          "name": "Docent D\u00f6d",
+          "url": "https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Sibylla",
-      "url": "https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC"
+      "duration_ms": 147520,
+      "name": "Solglas\u00f6gon",
+      "url": "https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Docent D\u00f6d (Mini-LP)",
-        "url": "https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT"
+        "name": "Snabbmat F\u00f6r Folk I Farten",
+        "url": "https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw"
       },
       "artists": [
         {
-          "name": "Docent D\u00f6d",
-          "url": "https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM"
+          "name": "Hans & Greta",
+          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
         }
       ],
-      "duration_ms": 147520,
-      "name": "Solglas\u00f6gon",
-      "url": "https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N"
+      "duration_ms": 210333,
+      "name": "Sibylla",
+      "url": "https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Borgerlig begravning",
-        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 121510,
-      "name": "Va\u0308gra",
-      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Sex Politik & F\u00e5glar",
         "url": "https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 186800,
       "name": "Grav\u00f6l",
       "url": "https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Borgerlig begravning",
+        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 121510,
+      "name": "Va\u0308gra",
+      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Parasit",
-        "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
+        "name": "P\u00e5 \u00c4ventyr i Historien III",
+        "url": "https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L"
       },
       "artists": [
         {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+          "name": "Kapten Kermit",
+          "url": "https://open.spotify.com/artist/1L835FxGKZLivabIOdzpwS"
         }
       ],
-      "duration_ms": 179440,
-      "name": "Pyramiden",
-      "url": "https://open.spotify.com/track/2GqTG7uvySACF325U0Xh0r"
+      "duration_ms": 114960,
+      "name": "Mellanstadiedisco",
+      "url": "https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "P\u00e5 \u00c4ventyr i Historien III",
-        "url": "https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L"
+        "name": "Parasit",
+        "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
       },
       "artists": [
         {
-          "name": "Kapten Kermit",
-          "url": "https://open.spotify.com/artist/1L835FxGKZLivabIOdzpwS"
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
         }
       ],
-      "duration_ms": 114960,
-      "name": "Mellanstadiedisco",
-      "url": "https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG"
+      "duration_ms": 179440,
+      "name": "Pyramiden",
+      "url": "https://open.spotify.com/track/2GqTG7uvySACF325U0Xh0r"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Vill Ha Mer",
-        "url": "https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4"
-      },
-      "artists": [
-        {
-          "name": "Varnagel",
-          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
-        }
-      ],
-      "duration_ms": 173406,
-      "name": "Trall Punkt Nu",
-      "url": "https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 77334,
       "name": "Europe Must Burn",
       "url": "https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Vill Ha Mer",
+        "url": "https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4"
+      },
+      "artists": [
+        {
+          "name": "Varnagel",
+          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
+        }
+      ],
+      "duration_ms": 173406,
+      "name": "Trall Punkt Nu",
+      "url": "https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Bara skiten avtar",
+        "url": "https://open.spotify.com/album/3UKhCM817uDJGnUum7SeoK"
+      },
+      "artists": [
+        {
+          "name": "Pastoratet",
+          "url": "https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI"
+        }
+      ],
+      "duration_ms": 150647,
+      "name": "Egoist",
+      "url": "https://open.spotify.com/track/4n7JfZvHYznhdzooFTmzAu"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Grabbarna p\u00e5 Stan",
         "url": "https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Bara skiten avtar",
-        "url": "https://open.spotify.com/album/3UKhCM817uDJGnUum7SeoK"
-      },
-      "artists": [
-        {
-          "name": "Pastoratet",
-          "url": "https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI"
-        }
-      ],
-      "duration_ms": 150647,
-      "name": "Egoist",
-      "url": "https://open.spotify.com/track/4n7JfZvHYznhdzooFTmzAu"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Det blir som det blir",
         "url": "https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Bara skiten avtar",
-        "url": "https://open.spotify.com/album/3iBrrZEan24fG7L8gEp6mv"
-      },
-      "artists": [
-        {
-          "name": "Norra Hospitalet",
-          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
-        }
-      ],
-      "duration_ms": 128345,
-      "name": "Tuffa tjejer",
-      "url": "https://open.spotify.com/track/54t6OXb9ULThYhHoluZd1s"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Jane Doe, \u00d6stersund",
         "url": "https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 189010,
       "name": "Jane Doe, \u00d6stersund",
       "url": "https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Bara skiten avtar",
+        "url": "https://open.spotify.com/album/3iBrrZEan24fG7L8gEp6mv"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "duration_ms": 128345,
+      "name": "Tuffa tjejer",
+      "url": "https://open.spotify.com/track/54t6OXb9ULThYhHoluZd1s"
     }
   ],
   "unique_name": "Svensk Punk",

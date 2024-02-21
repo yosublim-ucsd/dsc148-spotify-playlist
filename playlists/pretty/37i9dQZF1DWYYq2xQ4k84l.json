@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 34841,
+  "num_followers": 34854,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2I4ODE1OGVlMGY1ZTg2OGFkMmJmNzhhZWZmYmVkODBlOTVlMmJk",
+  "snapshot_id": "MCw4MGQwZDBjMjBjZGM0NTIzNmFlM2IzOTNjMjkxNWNmNDQzZWU3NTE0",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -579,6 +579,22 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Todo se transforma",
+      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
         "name": "M.I.A.M.I.",
         "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Todo se transforma",
-      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
     },
     {
       "added_at": "2021-12-22 23:41:59",

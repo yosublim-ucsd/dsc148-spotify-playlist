@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 445979,
+  "num_followers": 446018,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njc0MGU2OGNiOTg0MzQ4MjFkYjdkZGFjZTA5YzYxMzJiZGMxZDdm",
+  "snapshot_id": "MCwwYTg5Y2E0NzVhYzNlZDM2NmQxYjA0ODNkZjIyMzg5ZjlhNGY4M2U1",
   "tracks": [
     {
       "added_at": "2024-02-08 09:03:40",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-02-08 09:03:40",
       "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i"
-      },
-      "artists": [
-        {
-          "name": "Philanthrope",
-          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
-        },
-        {
-          "name": "DRWN.",
-          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
-        }
-      ],
-      "duration_ms": 123041,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq"
-    },
-    {
-      "added_at": "2024-02-08 09:03:40",
-      "album": {
         "name": "Snow Rose",
         "url": "https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 191707,
       "name": "Anything Like Her (feat. Tiffi)",
       "url": "https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0"
+    },
+    {
+      "added_at": "2024-02-08 09:03:40",
+      "album": {
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        },
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        }
+      ],
+      "duration_ms": 123041,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq"
     },
     {
       "added_at": "2024-02-08 09:03:40",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-08 09:03:40",
       "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
-      },
-      "artists": [
-        {
-          "name": "Laflov",
-          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
-        }
-      ],
-      "duration_ms": 132260,
-      "name": "Melatonin",
-      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
-    },
-    {
-      "added_at": "2024-02-08 09:03:40",
-      "album": {
         "name": "Stay In Bed",
         "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 124821,
       "name": "Stay In Bed",
       "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
+    },
+    {
+      "added_at": "2024-02-08 09:03:40",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
     },
     {
       "added_at": "2024-02-08 09:03:40",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-08 09:03:40",
       "album": {
-        "name": "Keep On Going",
-        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
-      },
-      "artists": [
-        {
-          "name": "SPEECHLESS",
-          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
-        }
-      ],
-      "duration_ms": 160403,
-      "name": "Keep On Going",
-      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
-    },
-    {
-      "added_at": "2024-02-08 09:03:40",
-      "album": {
         "name": "if you're reading this ily",
         "url": "https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 116918,
       "name": "same stars",
       "url": "https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE"
+    },
+    {
+      "added_at": "2024-02-08 09:03:40",
+      "album": {
+        "name": "Keep On Going",
+        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
+      },
+      "artists": [
+        {
+          "name": "SPEECHLESS",
+          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
+        }
+      ],
+      "duration_ms": 160403,
+      "name": "Keep On Going",
+      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
     },
     {
       "added_at": "2024-02-08 09:03:40",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-08 09:03:40",
       "album": {
-        "name": "memories of u",
-        "url": "https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9"
-      },
-      "artists": [
-        {
-          "name": "drrreems",
-          "url": "https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc"
-        }
-      ],
-      "duration_ms": 116428,
-      "name": "memories of u",
-      "url": "https://open.spotify.com/track/64VWsh5helyoWopibmzXmf"
-    },
-    {
-      "added_at": "2024-02-08 09:03:40",
-      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 144892,
       "name": "Distant",
       "url": "https://open.spotify.com/track/0sUh3Wq1Gf8K47d1E7BrtG"
+    },
+    {
+      "added_at": "2024-02-08 09:03:40",
+      "album": {
+        "name": "memories of u",
+        "url": "https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9"
+      },
+      "artists": [
+        {
+          "name": "drrreems",
+          "url": "https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc"
+        }
+      ],
+      "duration_ms": 116428,
+      "name": "memories of u",
+      "url": "https://open.spotify.com/track/64VWsh5helyoWopibmzXmf"
     },
     {
       "added_at": "2024-02-08 09:03:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Let these contemplative couplets take you away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,344 likes - 73 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,497 likes - 73 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 19 | [Mujhe Tum Nazar Se Gira To Rahe Ho](https://open.spotify.com/track/6D5YqPRZo1OfpD2cy5hUz1) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Strokes Of Sohail Rana](https://open.spotify.com/album/45zJ5AmAvKqBnCsfymVLbV) | 3:55 |
 | 20 | [CHAUDHVI KI RAAT](https://open.spotify.com/track/3RfMPBxBTFpI1aLUdBVShO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [CHAUDHVI KI RAAT](https://open.spotify.com/album/5LeOrQu0YDHEQrCyikAreV) | 4:10 |
 | 21 | [Dilse Teri Nigah](https://open.spotify.com/track/1JqabevonrwVWIEzzuaMDM) | [Mithilesh Patankar](https://open.spotify.com/artist/144JYTsFjgpswjlsqQqpKa) | [Dilse Teri Nigah](https://open.spotify.com/album/57BHkfYeoCMGnCUREonodV) | 5:23 |
-| 22 | [Is Kadar Aap](https://open.spotify.com/track/2uVSOIZX1e86caQnmB7xNt) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/27sYpj3X5BGEwhZmwZv7d2) | 5:58 |
+| 22 | [Is Kadar Aap](https://open.spotify.com/track/17Wa63bXPvwp6ebsZ4wND4) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/3kienetTHzkuMoInDjWAnn) | 5:58 |
 | 23 | [Aaj Jane Ki Zid Na Karo \(Live\)](https://open.spotify.com/track/4alS0xW23tUwqscT8CkPM3) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:29 |
 | 24 | [Haq](https://open.spotify.com/track/5fPHj5LjzN3IIBFldMc05g) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Lafzon Ke Darmiyaan](https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE) | 6:26 |
 | 25 | [Ajab Apna Haal Hota](https://open.spotify.com/track/79w1q2K3Hz22ZFFfdlRYkn) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Deepak Pandit](https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B), [Budapest Symphony Orchestra](https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX) | [Ghazals & Thumris From The Musical Heart of Budapest](https://open.spotify.com/album/230wmWIepyGVyO0OW5ptyM) | 3:48 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 72 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
 | 73 | [Nazar Mujhse](https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz) | [Ahmed Hussain](https://open.spotify.com/artist/2bQv65MFDaU3dRb26fgNr1), [Mohammed Hussain](https://open.spotify.com/artist/2PTznhNEX9D1uSb8ESYrB0) | [The Great Ghazals](https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN) | 7:30 |
 
-Snapshot ID: `MCwxOGFhMDAxNjRkZGRiOTk4OTljYjA0MjYyOTk0MWQxZDJmNDBlMDli`
+Snapshot ID: `MCwyMmI3YjJkZjBiYjQwYTdmYzJkMzg5ZDJlNjQ0YzRlY2Y3YjRmNjk5`

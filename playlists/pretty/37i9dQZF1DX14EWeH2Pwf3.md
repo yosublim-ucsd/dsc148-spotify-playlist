@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,577 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,031 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8) | 3:36 |
-| 2 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
+| 1 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
+| 2 | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8) | 3:36 |
 | 3 | [Calcolatrici](https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:25 |
 | 4 | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/track/2QieMRkH51KbJw4ZauGJfY) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/album/257g998F1JZB1zxKp0CPNd) | 3:06 |
 | 5 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [I GOT IT](https://open.spotify.com/track/1Dvl9M7pTzjsceCqAzChx2) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [I GOT IT](https://open.spotify.com/album/2YuhsuBSpgWQoulletw3U7) | 2:22 |
 | 50 | [Mafia Del Boom Bap](https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 
-Snapshot ID: `MCxlYTQ2YjAzMWU2NzQ1Njk5YWNlZjgyZjJiMmM2YTk2YmVlYzA5MGUw`
+Snapshot ID: `MCw3Njc0NWRiZjNjYzk5MDY3YzE0YWNlNDM2M2U0M2QyYjY2ZDU5Yjk0`

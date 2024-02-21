@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: A\-Lin
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,295 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,361 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [詠愛](https://open.spotify.com/track/3sf2rfLYBuIz0gHOa7Z33h) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [詠愛](https://open.spotify.com/album/58S1PDI3Na9OMklTI19Jjk) | 3:34 |
 | 50 | [小心翻閱 Going Through](https://open.spotify.com/track/3cOhCnSgKFEcEzFPNpsQJe) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [小心翻閱 \(公視旗艦影集《天橋上的魔術師》主題曲\)](https://open.spotify.com/album/5MppO5ufWRVVYMORmnDe2z) | 4:06 |
 
-Snapshot ID: `MCw1NzMxYmM3OTU3NTFlMzliYTM3NDFhMWFmZWY2MzFhNmM3NzI2OWI2`
+Snapshot ID: `MCxhYTdmYmYwM2MwMDJhMzBkOTJlZGNiZTQ3MDRlMGI0MTM3MjQzMmUy`

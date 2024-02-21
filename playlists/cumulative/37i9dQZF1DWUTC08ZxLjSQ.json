@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover:Ghida. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover:Sine. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
+    {
+      "album": {
+        "name": "$1 painting",
+        "url": "https://open.spotify.com/album/00no9OlAzlh4fCv8M5vL7o"
+      },
+      "artists": [
+        {
+          "name": "artistbasm",
+          "url": "https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173217,
+      "name": "$1 painting",
+      "url": "https://open.spotify.com/track/5TiQI883RE9B1XespK6icI"
+    },
     {
       "album": {
         "name": "101",
@@ -383,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Bayaan Estinkari",
+        "url": "https://open.spotify.com/album/37eGVTh98dxjJNZMknzofa"
+      },
+      "artists": [
+        {
+          "name": "Kokym",
+          "url": "https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "Bayaan Estinkari",
+      "url": "https://open.spotify.com/track/3guTIcFQlc76fNN78UlTOs"
+    },
+    {
+      "album": {
         "name": "Beginning of a New Chapter",
         "url": "https://open.spotify.com/album/49TtcdL0qT6JF1zQg6FRbv"
       },
@@ -398,6 +434,42 @@
       "duration_ms": 167971,
       "name": "Beginning of a New Chapter",
       "url": "https://open.spotify.com/track/7HcPxC0zycaBSQxN6jwLVN"
+    },
+    {
+      "album": {
+        "name": "Bent Mbareh",
+        "url": "https://open.spotify.com/album/2HAXkIca4zAK4edXT51cYM"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Atala",
+          "url": "https://open.spotify.com/artist/3JdUFXhNjJufnoXDwK3rjs"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Bent Mbareh",
+      "url": "https://open.spotify.com/track/11K4G3UiaS6kPa829EwkCi"
+    },
+    {
+      "album": {
+        "name": "Benzema",
+        "url": "https://open.spotify.com/album/6W3C2eRSsweoSJ0kn55NyT"
+      },
+      "artists": [
+        {
+          "name": "AB",
+          "url": "https://open.spotify.com/artist/3fRLeiaGIS4o3hgu8OV2MP"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154488,
+      "name": "Benzema",
+      "url": "https://open.spotify.com/track/3qaWo8EFTYcGNIHStUC0Ta"
     },
     {
       "album": {
@@ -770,7 +842,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 201664,
       "name": "Crutches",
       "url": "https://open.spotify.com/track/0OkQtz2Os6iXgEAhOD7ea7"
@@ -1024,7 +1096,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 132900,
       "name": "Es7a | \u0627\u0635\u062d\u0627",
       "url": "https://open.spotify.com/track/01AgIf1EsewkMbYVB3HcZX"
@@ -1152,6 +1224,24 @@
       "duration_ms": 113867,
       "name": "FAR\u00c4GH",
       "url": "https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8"
+    },
+    {
+      "album": {
+        "name": "Fe Dema3'y",
+        "url": "https://open.spotify.com/album/6GhzGk9JZS6QGncolM3HGC"
+      },
+      "artists": [
+        {
+          "name": "Fritz \u0641\u0631\u064a\u062a\u0632",
+          "url": "https://open.spotify.com/artist/2aJZyMlC7mHkvflE6X0m13"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "Fe Dema3'y",
+      "url": "https://open.spotify.com/track/5tTxYBbanUa4vsDtCw8Nbt"
     },
     {
       "album": {
@@ -1442,7 +1532,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 166153,
       "name": "Haram",
       "url": "https://open.spotify.com/track/3gLbNuU4c8Ja41DlkcBEE7"
@@ -1710,6 +1800,24 @@
       "duration_ms": 199680,
       "name": "I DON'T MIND",
       "url": "https://open.spotify.com/track/2yeO5NYsvOJxMSpjpR6LwJ"
+    },
+    {
+      "album": {
+        "name": "I don't want this",
+        "url": "https://open.spotify.com/album/16jBAWLT6PYdctE8zYBweN"
+      },
+      "artists": [
+        {
+          "name": "Delrady",
+          "url": "https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "I don't want this",
+      "url": "https://open.spotify.com/track/1Md8MolYstOXb4gYcTP8sd"
     },
     {
       "album": {
@@ -2006,7 +2114,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 195000,
       "name": "Kitchen",
       "url": "https://open.spotify.com/track/5nRtylSD6JbhoC3DoFkinD"
@@ -2298,7 +2406,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 144516,
       "name": "Lvl Up",
       "url": "https://open.spotify.com/track/1Dy9svL4Bz12Tx9a0vv1xv"
@@ -2858,7 +2966,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 211751,
       "name": "Nowhere To Hide",
       "url": "https://open.spotify.com/track/1sNXgwTc5yfPqTbOgW3Lud"
@@ -2992,6 +3100,24 @@
       "duration_ms": 175794,
       "name": "Oh Julia",
       "url": "https://open.spotify.com/track/6KUfAYSpuZGdb1jPyBMKWS"
+    },
+    {
+      "album": {
+        "name": "Alooly Zaman",
+        "url": "https://open.spotify.com/album/27bb27cywZ60zRnrisU4R8"
+      },
+      "artists": [
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Olly Leh",
+      "url": "https://open.spotify.com/track/5Vzashe2s9EGu9nFwNOfea"
     },
     {
       "album": {
@@ -3331,6 +3457,32 @@
     },
     {
       "album": {
+        "name": "Quick Flex",
+        "url": "https://open.spotify.com/album/3I5pQO3UYPpQZO3xrRox9e"
+      },
+      "artists": [
+        {
+          "name": "NBL",
+          "url": "https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D"
+        },
+        {
+          "name": "Gra",
+          "url": "https://open.spotify.com/artist/4QFDQS3cWdDXIZRaXFvW5B"
+        },
+        {
+          "name": "Chasey the Illest",
+          "url": "https://open.spotify.com/artist/42kTgzgcQLKru8mxK04VLa"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232811,
+      "name": "Quick Flex",
+      "url": "https://open.spotify.com/track/4Xsgdr7McooFSUUGoYvU9g"
+    },
+    {
+      "album": {
         "name": "RAS L'KHEIT",
         "url": "https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y"
       },
@@ -3538,7 +3690,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 205846,
       "name": "Seboni Nayem",
       "url": "https://open.spotify.com/track/309PcbE6Ve1UiPmtrhqoeq"
@@ -3790,7 +3942,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 189183,
       "name": "STEADY",
       "url": "https://open.spotify.com/track/5hypfnnKWAC4GBABJYQgvc"
@@ -3956,6 +4108,24 @@
       "duration_ms": 150857,
       "name": "Taqa",
       "url": "https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN"
+    },
+    {
+      "album": {
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/5jgQXB2zG15VBgEOzGrdff"
+      },
+      "artists": [
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216494,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/7LRzmoO4nCxxWOh9oLiqFN"
     },
     {
       "album": {
@@ -4292,7 +4462,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 118074,
       "name": "way too much",
       "url": "https://open.spotify.com/track/4W64FXQzz1vEvs4xH3wOal"

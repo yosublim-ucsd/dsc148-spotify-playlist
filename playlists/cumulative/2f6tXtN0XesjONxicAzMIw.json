@@ -3835,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3487OYBtnRl82qA6tfyWco"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197906,
+      "name": "Y'all Want a Single",
+      "url": "https://open.spotify.com/track/2WSWm0zlL3CJRACHS5KXbB"
+    },
+    {
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },

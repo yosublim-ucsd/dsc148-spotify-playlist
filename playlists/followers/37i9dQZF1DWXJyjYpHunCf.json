@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 892429,
+  "2024-02-21": 892598,
   "date_first_scraped": "2021-12-21",
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Myles Smith",
   "name": "Folk Pop",
@@ -6491,7 +6491,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 221066,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
@@ -6643,6 +6643,24 @@
       "duration_ms": 207880,
       "name": "Your Needs, My Needs",
       "url": "https://open.spotify.com/track/5S9hlmzNQwZuhynLfxZ8Lg"
+    },
+    {
+      "album": {
+        "name": "Your Town",
+        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306613,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf"

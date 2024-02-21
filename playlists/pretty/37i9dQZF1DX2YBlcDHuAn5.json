@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6894,
+  "num_followers": 6895,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmI5MzM2MjZjMDUxMjEzODM1OGE3OTM4NjlmYzgzMzNjZjY2NmU2",
+  "snapshot_id": "MCwwN2M1Y2FjYzFmZDljYjczZGVmMDk1NTIzYWViMmUxMGRlOTNlOTc5",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+      },
+      "artists": [
+        {
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+        }
+      ],
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
-      },
-      "artists": [
-        {
-          "name": "Rich McFeather",
-          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
-        }
-      ],
-      "duration_ms": 215553,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+        "name": "Gonna Shine",
+        "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "The Georgia Thunderbolts",
+          "url": "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
         }
       ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+      "duration_ms": 241906,
+      "name": "Gonna Shine",
+      "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
     }
   ],
   "unique_name": "Route Americana",

@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-326 songs - 1 day 0 hr 25 min
+327 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bonita](https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:12 | 2023-01-19 |  |
 | [Bonita](https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Bonita](https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00) | 4:13 | 2022-02-18 | 2022-07-29 |
 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2022-07-28 | 2023-01-12 |
-| [But Beautiful](https://open.spotify.com/track/1SZpjQdXuce3k12qfx6xJ1) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [North by Northwest](https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa) | 4:38 | 2023-05-30 |  |
+| [But Beautiful](https://open.spotify.com/track/1SZpjQdXuce3k12qfx6xJ1) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [North by Northwest](https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa) | 4:38 | 2023-05-30 | 2024-02-21 |
 | [But For Now](https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:55 | 2021-12-17 |  |
 | [But Not For Me](https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:15 | 2021-12-17 |  |
 | [Can't Get Out Of This Mood \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/6IXwkkCywEC6IZywMmKiVd) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Can't Get Out Of This Mood \(Duo Version\)](https://open.spotify.com/album/7hjsSGkreKuIQmlz3bmMYY) | 4:14 | 2023-01-19 |  |
@@ -275,6 +275,7 @@
 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 | 2021-12-17 | 2022-07-29 |
 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 | 2022-07-28 | 2022-09-15 |
 | [The Silence](https://open.spotify.com/track/6fE9UEIXyYjyQiq4qnho4S) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [The Silence](https://open.spotify.com/album/0mB59lYkczjRkYpdcZ4dI4) | 4:25 | 2023-02-16 | 2023-07-09 |
+| [The Sound of Music](https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [The Sound of Music](https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL) | 4:05 | 2024-02-16 |  |
 | [The Summer Wind](https://open.spotify.com/track/6T407MUyMd4d0NZrvUNj3q) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/3KniUiE1O3h7CWWJ6eByiY) | 3:54 | 2021-12-17 | 2022-07-29 |
 | [The Summer Wind](https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:55 | 2022-07-28 | 2023-01-26 |
 | [The Two Lonely People](https://open.spotify.com/track/6unBECgGmFBtwNJbtbPTtn) | [Donatella Montinaro](https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G), [Danilo Tarso](https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY) | [Still We Dream](https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l) | 4:22 | 2023-05-30 |  |

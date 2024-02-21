@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-146 songs - 8 hr 6 min
+147 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Too Bad](https://open.spotify.com/track/05oXHNdCHGLEIuX1yJItkl) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/2bqcYctFwySiBiEU4Fk31x) | 3:10 | 2022-08-31 |  |
 | [Too Bad](https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj) | 3:10 | 2021-02-12 | 2023-04-29 |
 | [Too Bad](https://open.spotify.com/track/57pB9r5nTsngcIWivigDxQ) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Too Bad](https://open.spotify.com/album/7JKSnFB0Xl6bkcMfHbQK8n) | 3:10 | 2021-02-12 | 2022-07-29 |
-| [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 | 2022-08-31 |  |
+| [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 | 2022-08-31 | 2024-02-21 |
+| [Under The Big Top](https://open.spotify.com/track/1pP5BPqBK3Mm7PGywnJxP8) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/75r48cAcN4HJeVT7JE6XVN) | 3:47 | 2022-08-31 |  |
 | [Walls](https://open.spotify.com/track/2Dnr5QCVLG0jPrC7XweC7E) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [True Love Is Dead](https://open.spotify.com/album/3iL3BH10DzqzBhmvxjkKhi) | 3:00 | 2023-04-07 | 2023-12-17 |
 | [Walls](https://open.spotify.com/track/3LMiz4T6wBbuGRRGHBo2yv) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 3:00 | 2023-04-07 |  |
 | [Walls](https://open.spotify.com/track/3QFAO7ZN8wxBl5eEEwgZ6a) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Walls](https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I) | 3:00 | 2023-04-07 | 2023-09-15 |

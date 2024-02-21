@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:NUITNUIT\(뉘뉘\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:KIMBUMSOO\(김범수\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,150 songs - 3 day 2 hr 28 min
+1,152 songs - 3 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1130,6 +1130,7 @@
 | [보고 싶은 순간](https://open.spotify.com/track/2OM8UY7YROyhDcgfCEnyux) | [Marmalade Kitchen](https://open.spotify.com/artist/4HgQ22crYOIRhaxRkJKXaf), [전동욱](https://open.spotify.com/artist/18btmeYXREZ1TBpvQznG1u) | [보고 싶은 순간](https://open.spotify.com/album/29Ko3a0Sqbbx6jZWvKEyCr) | 3:37 | 2022-07-07 | 2022-07-27 |
 | [비밀의 화원 the secret garden](https://open.spotify.com/track/37oNX55SMkw6bWjv8BL07C) | [안단테 ANDANTE](https://open.spotify.com/artist/06HP47mq0TcpHMhsOrAIOB) | [안단테 NO.1 The Korea Crossover Andante NO.1 The Korea Crossover](https://open.spotify.com/album/7xSniY5bw35nzJLlyix4MI) | 4:49 | 2021-12-23 | 2022-04-19 |
 | [사계절이 지나 다시 가을이 와도](https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND) | [Sangmin Chu](https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f) | [RAINBOW STATION Episode.4](https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm) | 3:33 | 2022-11-03 | 2023-01-21 |
+| [사랑보다 깊은 상처](https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 4:30 | 2024-02-20 |  |
 | [사랑을 믿어요](https://open.spotify.com/track/3Qxoh4asAlkbzk5QffZjIS) | [JINWOOCHUL](https://open.spotify.com/artist/4xvPog1scf67ui3Lrb5FYZ) | [사랑을 믿어요](https://open.spotify.com/album/1B2UTfGDOuENmhHGnySfrO) | 3:39 | 2022-08-12 | 2022-09-30 |
 | [사랑을 사랑하고 싶어 Love was my song](https://open.spotify.com/track/2VuSetmtz31gOKyHVD1LXg) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [숨을 쉰다 breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:15 | 2023-12-14 |  |
 | [사랑을 하다가 \(While I’m in love\)](https://open.spotify.com/track/0FH2RXfEIJS7enXYoehAgG) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [사랑을 하다가 \(While I’m in love\)](https://open.spotify.com/album/3ZMXJBXHxa5DUt5UVXWqz5) | 3:24 | 2023-11-15 |  |
@@ -1142,6 +1143,7 @@
 | [안개 속 어디로](https://open.spotify.com/track/6EzhxjPONekJoXQbe2u7W0) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [왜 오수재인가 \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/0RbcfAVkoy1nKigpkLmUaC) | 3:51 | 2022-08-01 | 2022-11-02 |
 | [알지 못하는 너에게](https://open.spotify.com/track/3lCdUc9VIBKL527AS3xerq) | [KIM DO HEE](https://open.spotify.com/artist/2u6Q4aqOAeDYSUUwKYo8r4) | [알지 못하는 너에게](https://open.spotify.com/album/4RS2Q5NXRVOrApadj2If3l) | 3:42 | 2023-11-22 |  |
 | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/album/6E7urCzpXOlGAu71563txg) | 4:24 | 2023-04-08 | 2023-08-25 |
+| [여행자](https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven, <집을 나서며...>](https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy) | 4:02 | 2024-02-20 |  |
 | [우리 둘만의 영화가](https://open.spotify.com/track/4WznValRfibE40XCfrR64W) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [A movie just between us](https://open.spotify.com/album/61Anwyk3urEQ5RNz8NE7Te) | 3:44 | 2023-07-17 | 2023-10-28 |
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-07-26 | 2022-10-15 |
 | [이혼해요 \(Divorce\)](https://open.spotify.com/track/12l28wJSPM3ALuF57ApdNl) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [이혼해요 \(Divorce\)](https://open.spotify.com/album/6aXTjKAFSugInjPEFodUMd) | 3:47 | 2023-09-07 | 2023-10-17 |

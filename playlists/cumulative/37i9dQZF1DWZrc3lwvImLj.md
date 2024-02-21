@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-399 songs - 17 hr 27 min
+400 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,11 @@
 | [And There You Were](https://open.spotify.com/track/20PEqypL4QvFNf8vZrEujy) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Close Your Eyes](https://open.spotify.com/album/5uIyKPIeVpqZFAdQPgKSa3) | 2:24 | 2024-01-04 | 2024-02-09 |
 | [And There You Were](https://open.spotify.com/track/2B1QXUUeEdMoZ92ggrA1Rh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And We Eternal](https://open.spotify.com/album/7LNpuu6rkVrWpQ4zZJ8ST5) | 2:24 | 2023-11-14 | 2023-11-29 |
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-14 | 2023-08-31 |
+| [And There You Were](https://open.spotify.com/track/2eejaiVbTHgd3swATb8Ebj) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Midnight Minuet](https://open.spotify.com/album/1jgimzPKjA6PCQ9eGQ98RA) | 2:24 | 2024-02-02 |  |
 | [And There You Were](https://open.spotify.com/track/4pe4ikorUF17h8dplM2JKv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Where Love Is Endless](https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH) | 2:24 | 2023-11-07 | 2023-11-17 |
 | [And There You Were](https://open.spotify.com/track/52jbzZPhldQ7ETBu20S0yr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:24 | 2023-11-14 | 2023-12-13 |
 | [And There You Were](https://open.spotify.com/track/54Z5v1xvglyOEh3KWsNsEr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Dream](https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh) | 2:24 | 2023-12-12 | 2023-12-22 |
-| [And There You Were](https://open.spotify.com/track/5ButPVNvHeDH6yYmYBaka2) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Something Of An Anthem](https://open.spotify.com/album/5UgTu259ooAkRvY1XKKRep) | 2:24 | 2024-02-02 |  |
+| [And There You Were](https://open.spotify.com/track/5ButPVNvHeDH6yYmYBaka2) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Something Of An Anthem](https://open.spotify.com/album/5UgTu259ooAkRvY1XKKRep) | 2:24 | 2024-02-02 | 2024-02-21 |
 | [And There You Were](https://open.spotify.com/track/5qcXvge6W2VFVwH20TNoPA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And Blueberries](https://open.spotify.com/album/5L2Y9P1JFnFirIsk9RbqWp) | 2:24 | 2023-08-14 | 2023-09-13 |
 | [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-18 | 2023-10-25 |
 | [And There You Were](https://open.spotify.com/track/6M7XzlMsertPBhysePSjhL) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Safe In Her Arms](https://open.spotify.com/album/2v0XpYcW0Rj9PyakkzeKUn) | 2:24 | 2023-12-12 | 2024-01-05 |

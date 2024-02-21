@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,846 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,931 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
 | 100 | [Viajera](https://open.spotify.com/track/3XP9XcACZOZl9gtZHo5jqe) | [Emilio Tuero](https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD) | [Antología..\. Emilio Tuero](https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g) | 2:54 |
 
-Snapshot ID: `MCxiOTAyMTYwNzg2YzJjYzQxZmVmZDM4OGM2ZTU3Y2U4YmMyZWY4ZTRk`
+Snapshot ID: `MCw4YjBlZjYzZjIzNTZjODE4YzZjN2I5YjIyOTI2NGMxOTQ0NjBiZDhj`

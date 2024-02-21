@@ -4,7 +4,7 @@
 
 > New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">Wizkid</a>
 
-2,831 songs - 5 day 21 hr 46 min
+2,832 songs - 5 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,7 +771,8 @@
 | [El Shaddai](https://open.spotify.com/track/03M0OHZd8CawF6htmjF0cV) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Glory Hour](https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4) | 3:23 | 2023-11-29 | 2024-01-13 |
 | [Elevate](https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Elevate](https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO) | 2:40 | 2022-08-26 | 2022-09-24 |
 | [Elevator](https://open.spotify.com/track/6EKoqZPIe1Eo4upi8EtgF6) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Dapper Dan Midas](https://open.spotify.com/artist/1axt2M562pllh19zzVpCI4), [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM) | [Queen Of The Beat Reloaded](https://open.spotify.com/album/0uv60MEy5o79jEv6SJdCuz) | 4:00 | 2023-03-03 | 2023-03-18 |
-| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 |  |
+| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 | 2024-02-21 |
+| [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 | 2024-02-16 |  |
 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 | 2022-02-18 | 2022-03-12 |
 | [ELVIRA](https://open.spotify.com/track/5Zzylb0t4kLOGzYw1LDHOg) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [ELVIRA](https://open.spotify.com/album/1TaTRenPe1g6acHgv4gX3q) | 1:51 | 2023-04-28 | 2023-05-13 |
 | [Embarrassed \(feat\. Travis Scott\)](https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:12 | 2023-03-03 | 2023-03-25 |

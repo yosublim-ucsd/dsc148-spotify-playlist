@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 147555,
       "name": "J\u00e1 Sei Namorar",
       "url": "https://open.spotify.com/track/0JwJWbMOceIShN6cXJLxbG"
@@ -3904,6 +3904,24 @@
     {
       "album": {
         "name": "Piseiro Tocando Alto",
+        "url": "https://open.spotify.com/album/6VOKwtYZfHOrw2agENG9jH"
+      },
+      "artists": [
+        {
+          "name": "Forr\u00f3 do HF",
+          "url": "https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108931,
+      "name": "Piseiro Tocando Alto",
+      "url": "https://open.spotify.com/track/5YzDpppJHCB6dbR409n2nh"
+    },
+    {
+      "album": {
+        "name": "Piseiro Tocando Alto",
         "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
       },
       "artists": [
@@ -3914,7 +3932,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 108931,
       "name": "Piseiro Tocando Alto",
       "url": "https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT"
@@ -5026,7 +5044,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 148117,
       "name": "Vai Viver",
       "url": "https://open.spotify.com/track/60ILJutBf3XoAfmNafR8mz"

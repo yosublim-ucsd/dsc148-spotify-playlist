@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,089 likes - 51 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,095 likes - 51 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 2 | [Aa Vasant Rajni](https://open.spotify.com/track/2eiOOMb5V2tPY9VTmBbMME) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Aa Vasant Rajni](https://open.spotify.com/album/5KOiUoOwgiyLQdDQEwR8VW) | 4:49 |
 | 3 | [Akeli Dar Lage](https://open.spotify.com/track/0Fkz1sfYAK6z8Yut4EVD4D) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Ramakant Gaikwad](https://open.spotify.com/artist/4qfbDj4ydFDTxGFklq4Ajj), [Samarth Desai](https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4), [Amit Mishra](https://open.spotify.com/artist/1Cr4oTUz9yoA9FORBlX396) | [Akeli Dar Lage](https://open.spotify.com/album/7gc7BvRVhaXC2r4vtLQLy5) | 4:04 |
 | 4 | [Mangal Din](https://open.spotify.com/track/79XHrJNsROhUxi0UPXor4v) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 4:35 |
-| 5 | [Najariya LoFi Cake Mix](https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 2:36 |
+| 5 | [Najariya LoFi Cake Mix](https://open.spotify.com/track/19lu7zlaFr7EmrlS1OaKPB) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Article 370 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ZyTpDwvVbYT5QHm1hPRCO) | 2:36 |
 | 6 | [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 |
 | 7 | [Jhuki Aayi Badariya](https://open.spotify.com/track/6J14UQWmV5WPTwMv2SPOag) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Jhuki Aayi Badariya](https://open.spotify.com/album/0WBU61Fd1qBsaFWzo8n5w7) | 5:51 |
 | 8 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 50 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
 | 51 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |
 
-Snapshot ID: `MCxiMTEyMTg5NGNmZjM3ZTA4OTNlY2JhNjMwMTM0MjJkOWEwOTEzZGZl`
+Snapshot ID: `MCw3ZTA0OGE3ZGViZmUyNmI4Nzc5NjM5NWU1MTQzZDQxOGQxMDkyN2Nm`

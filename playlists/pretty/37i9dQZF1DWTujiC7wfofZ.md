@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,400 likes - 250 songs - 16 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,433 likes - 250 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 249 | [White Noise](https://open.spotify.com/track/4PPiV0xlKze0D4G93UWLji) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:37 |
 | 250 | [Gronlandic Edit](https://open.spotify.com/track/5boY1VZLXBJojafFINgnJF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ) | 3:24 |
 
-Snapshot ID: `MCw0NWQ1NzQyZTU3YjQ0OGEyMDUxMGY5ZDMzOGI1ZGMzYmFjNzNhZDcz`
+Snapshot ID: `MCxlNDNmZTZmNGIwNzZjODY5OTU0NTJiNWZiZTcwZmNiZWQ1MjMyMTgw`

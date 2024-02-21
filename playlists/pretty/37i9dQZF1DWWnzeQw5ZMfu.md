@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,928 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,932 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Physical \- Live](https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:43 |
 | 100 | [No One \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 6:53 |
 
-Snapshot ID: `MCwxOGJmNWZlMmE0OThiZTQ2YmE5MDg3MjhjYmM4MzJmNTIzZTMwYzcx`
+Snapshot ID: `MCw1YTZkZmIwOWE1YWFiZDE1ZDIxZGNlZmRmMDVhZjE2YzBjN2EyODQx`

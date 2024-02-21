@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Estopa con Fito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,863 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,945 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Uróboros](https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Uróboros](https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9) | 3:37 |
 | 100 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 |
 
-Snapshot ID: `MCxlZjk3NDQ4MzNiNjI0OTVlOTc0MmVhZDQ3ODViOGI4MGU5Y2VlMDY3`
+Snapshot ID: `MCxmZjk3ZGRmNDFjZjVjMTE0ZTNiNDFmNGQwOTFhODQyNjlhZGFlMWY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,586 likes - 169 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,587 likes - 169 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 129 | [Ribbons of Light](https://open.spotify.com/track/1bcSfpjRBRdHiNClmtUTan) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:47 |
 | 130 | [Jack](https://open.spotify.com/track/3UEu97qlpV46BamOF5KI02) | [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [No Romeo \(Deluxe\)](https://open.spotify.com/album/1DYZL9YG6FreyTy0uc0HvJ) | 3:28 |
 | 131 | [All for You](https://open.spotify.com/track/6FxDpqMesj7mdDplzkHHcw) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 4:51 |
-| 132 | [Zion](https://open.spotify.com/track/5FYJwbHkPk6Cb1u4eKZS3Z) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:49 |
-| 133 | [Our Song](https://open.spotify.com/track/4I8dUgcNFZL0VXtDkduu7V) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 3:51 |
+| 132 | [Our Song](https://open.spotify.com/track/4I8dUgcNFZL0VXtDkduu7V) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 3:51 |
+| 133 | [Zion](https://open.spotify.com/track/5FYJwbHkPk6Cb1u4eKZS3Z) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:49 |
 | 134 | [Candy Talk](https://open.spotify.com/track/0Vf3OG5t6Tp6KgeasORmq1) | [October](https://open.spotify.com/artist/6LHsMejRitRuzmfafX0F59) | [Ultra Red](https://open.spotify.com/album/1J446TVAMRiCfER26HXxHQ) | 3:27 |
 | 135 | [Everybody Knows](https://open.spotify.com/track/2vNIaQssHuCb3ZetSoVcRG) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:13 |
 | 136 | [Feed The Birds](https://open.spotify.com/track/2g2ILU6MO1wipY0uf0S0ZL) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:57 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 168 | [Suffocating Slow](https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never \(Australian Version\)](https://open.spotify.com/album/0q0yIvuQStgbwJBA9ml9Ik) | 3:08 |
 | 169 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9) | [Laura Lawson](https://open.spotify.com/artist/0tHvF8kSTxJYfAq8PlwaUA), [Morgan Fox](https://open.spotify.com/artist/6lavva7uEgQhcMSQvOXrDs) | [Pop Hits Anthems](https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2) | 3:11 |
 
-Snapshot ID: `Mjg0NzMyNDAsMDAwMDAwMDA1NWM1YjQ2MGQ1N2VmNGE3NjgwNWE1ZWQ3YjRlYWQzYQ==`
+Snapshot ID: `Mjg0NzQ2ODAsMDAwMDAwMDBhNTk5MDJjZmIyYmE1MDcxOTg2ZjE5NGM4YWYyNjA0Yg==`

@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 120933,
+  "2024-02-21": 121020,
   "date_first_scraped": "2022-03-01",
   "description": "Emerging sounds in worship from everywhere.",
   "name": "New & Bold",
@@ -3209,7 +3209,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 259459,
       "name": "Start With Me",
       "url": "https://open.spotify.com/track/1Sy9CvTLBYvPKqbnSBsn8w"
@@ -3905,7 +3905,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 385294,
       "name": "Your Name - Live",
       "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,777 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,779 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [Stay With You \- Radio Version](https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Stay With You](https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G) | 3:12 |
 | 100 | [Someday \- salute Remix](https://open.spotify.com/track/0cVdMdtrHdCuHQBWjzvQed) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [MIRRORS \(REMIXED\)](https://open.spotify.com/album/3vd7dqateXRTskHSU2CT0v) | 4:49 |
 
-Snapshot ID: `MCxmNzc5YzllZjNkNzZkY2M2ODliNTYyMmUwNjUyNDJjNzM2NDE0MjY3`
+Snapshot ID: `MCw4ODNhOGQyOTU5NTJhNmYxOTVjZWRjMjY5MGE5ZTM4MTNmYTE2MWQx`

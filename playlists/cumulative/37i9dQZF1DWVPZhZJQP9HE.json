@@ -10476,10 +10476,36 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 276702,
       "name": "Veeravanam",
       "url": "https://open.spotify.com/track/1eCmpnUfMsno0j2cNLMj4Y"
+    },
+    {
+      "album": {
+        "name": "Veeravanam",
+        "url": "https://open.spotify.com/album/745ccUUYi14azC9MOCzww0"
+      },
+      "artists": [
+        {
+          "name": "Jerard Felix",
+          "url": "https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "Diwakar",
+          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276702,
+      "name": "Veeravanam",
+      "url": "https://open.spotify.com/track/4P1Qy4eK05sYjTFZ09obxk"
     },
     {
       "album": {

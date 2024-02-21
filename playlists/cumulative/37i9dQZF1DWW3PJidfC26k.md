@@ -4,7 +4,7 @@
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-74 songs - 5 hr 23 min
+75 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Round Rock \(feat\. Michael Cleveland & Jerry Douglas\)](https://open.spotify.com/track/0gKFQJjGgI6QQiihXyLoRN) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [My Bluegrass Heart](https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc) | 6:09 | 2021-09-29 |  |
 | [Roy](https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [on the tender spot of every calloused moment](https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji) | 2:40 | 2021-09-29 |  |
 | [See A Little Light](https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB) | [Bob Mould](https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A) | [Workbook](https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15) | 3:32 | 2021-09-29 |  |
-| [Sorta Surviving](https://open.spotify.com/track/6oVPXuvV9mfZgIhNYWvcEn) | [Tim Bluhm](https://open.spotify.com/artist/7DvcUPMTX0XfGlO0RexUh0) | [Sorta Surviving](https://open.spotify.com/album/7yCItyB8CBd08cMTiHk0a4) | 3:14 | 2021-09-29 |  |
+| [Sorta Surviving](https://open.spotify.com/track/6NZaF6HX1jreJDZTbxrUOX) | [Tim Bluhm](https://open.spotify.com/artist/7DvcUPMTX0XfGlO0RexUh0) | [Sorta Surviving](https://open.spotify.com/album/6sjb92IscCWwySFxIC0Ivc) | 3:14 | 2021-09-29 |  |
+| [Sorta Surviving](https://open.spotify.com/track/6oVPXuvV9mfZgIhNYWvcEn) | [Tim Bluhm](https://open.spotify.com/artist/7DvcUPMTX0XfGlO0RexUh0) | [Sorta Surviving](https://open.spotify.com/album/7yCItyB8CBd08cMTiHk0a4) | 3:14 | 2021-09-29 | 2024-02-21 |
 | [Spanish On The Beach](https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 2:34 | 2021-09-29 |  |
 | [Stay](https://open.spotify.com/track/0sxik8HSqCPADJ3Z9d4khp) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Stay \(Little Dragon Remix\)](https://open.spotify.com/album/58CBjhuHtiy2PEhEgVQxS7) | 3:01 | 2021-09-29 |  |
 | [Sundowner \- 4\-Track Demo](https://open.spotify.com/track/1JGW7bagfkhvli39OuDXuV) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [A Night At The Little Los Angeles \(Sundowner 4\-Track Demos\)](https://open.spotify.com/album/4EINljdbkgBlqatl4h9OeW) | 4:22 | 2021-09-29 |  |

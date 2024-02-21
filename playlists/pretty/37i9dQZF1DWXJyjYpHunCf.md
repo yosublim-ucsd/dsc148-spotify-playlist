@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,429 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,598 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
 | 100 | [Leave It Better Than You Found It](https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Leave It Better Than You Found It](https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8) | 4:45 |
 
-Snapshot ID: `MCw0OWQxMjFhM2U3NjYzNzRmMjYzZTk0MjliODFkYzg5NjFlOTVkOWQ5`
+Snapshot ID: `MCw0OGU3OGRhMmI4M2ZlOTFlOTk1NzdkNWQ4NDZkMWQyMTI5NzcxYzZk`

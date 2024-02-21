@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,719 likes - 101 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,738 likes - 101 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 100 | [All Gone](https://open.spotify.com/track/55NkVwvITV119DkY4zhKEx) | [Micatone](https://open.spotify.com/artist/7yQjOE5dpqtfPCBXaHtrEj) | [The Crack](https://open.spotify.com/album/3VafpZNlfkUkYflCaCukUw) | 4:17 |
 | 101 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 
-Snapshot ID: `MCwwNGRkZTUwNzM5Y2ZkNGQ1YjU3MzU0NzFhNzU1ZmYwNGNiNWFiODll`
+Snapshot ID: `MCxiMDIxYWQ0OTczNDcyMTM4NjEzMDY1MmUxZWZjZTIwZDQ1YjQ5ZTQ1`

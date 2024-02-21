@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The stomping ground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,128 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,319 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 99 | [Tell That Boy](https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Tell That Boy](https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R) | 3:34 |
 | 100 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 |
 
-Snapshot ID: `MCxmYTI3MDJhZjFiNmFlMGVkMmVjMTYyY2FkNDdmMDk5ZDA5NDVkNTc5`
+Snapshot ID: `MCxhYTY5ZWI4MGQxMGU1ODRjYTM4NzZhZDFjNTNmNmE1YzlhMmZkZTVj`

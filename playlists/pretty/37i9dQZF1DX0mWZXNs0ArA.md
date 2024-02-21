@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,885 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,655 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Demain \(Sped up version\)](https://open.spotify.com/track/1H4LfB2sUsoJ1x0zfGBcXU) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Biggie\-Jo](https://open.spotify.com/artist/5D7sERhp1Zl3fZ31tWbLc7) | [Demain \(Sped up version\)](https://open.spotify.com/album/0N5BM7gNz7AMbG2yZhHIPP) | 2:52 |
 | 100 | [Price Tag \- Sped Up](https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Price Tag \(Sped Up\)](https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx) | 3:17 |
 
-Snapshot ID: `MCw5MjdlOGJjZjUzNjQxYmFkZTk2YzQ2MzNjZjNiMTFmNDE0OGNhOTM1`
+Snapshot ID: `MCxlM2U0ZGIzY2FkYzc1ZTRhMzE0YjAyY2EzNzhkZmVmODA1ZDcwODRl`

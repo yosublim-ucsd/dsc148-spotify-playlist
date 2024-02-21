@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,667 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,683 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 8 | [Simplesmente](https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Simplesmente](https://open.spotify.com/album/3ac6zkBEQu4VBuEEZ6A5nZ) | 3:42 |
 | 9 | [Poema](https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Frejat Trio Ao Vivo no Teatro Alcione Araújo](https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS) | 2:50 |
 | 10 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
-| 11 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
+| 11 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/2gherKlc3X6kBvzOdz8jMg) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/34Q4mgQQN0vsEKSZ3c3jE5) | 5:22 |
 | 12 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 |
 | 13 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
 | 14 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [Qualquer Lugar](https://open.spotify.com/track/0chOJa6EheSEbjy3miQn2A) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [MOBILE LAB](https://open.spotify.com/artist/5jGDIZzcLyiXnEDhMkC5Kw) | [Qualquer Lugar](https://open.spotify.com/album/6bib8zqBX9MRfSPZSoixba) | 3:21 |
 | 75 | [acordar](https://open.spotify.com/track/7LxFmCfhILQ0zWFWEqxs09) | [Gabriel Faria](https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3) | [acordar](https://open.spotify.com/album/7H5zUnptzblSjqmu6feq72) | 4:26 |
 
-Snapshot ID: `MCxlNDJmODU3Y2MyYTYzZjE4ZWQ1YzY5NTlhY2U4YWQwMGQ1ZGNmNTQ0`
+Snapshot ID: `MCw3MjM0NDk2NTA1MDllZDE0ZDVlN2ViMGJiYTdhMzJhYTQ3ZGY5NTc2`

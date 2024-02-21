@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 128732,
+  "2024-02-21": 128750,
   "date_first_scraped": "2023-05-19",
   "description": "Pouring Indie tunes for all you bathroom singers.",
   "name": "Indie Shower Tunes",
@@ -451,6 +451,28 @@
       "duration_ms": 242023,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/5i8Nji8F21XK0q7ZdpcTEZ"
+    },
+    {
+      "album": {
+        "name": "Zindagi Jahaan Le Jaaye",
+        "url": "https://open.spotify.com/album/4CQ831WVa61uapP1b2kgK8"
+      },
+      "artists": [
+        {
+          "name": "Faisal Kapadia",
+          "url": "https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR"
+        },
+        {
+          "name": "Ahsan Pervaiz Mehdi",
+          "url": "https://open.spotify.com/artist/7DOompIBVJEHcUxOkpbZon"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "Jaadu",
+      "url": "https://open.spotify.com/track/0h6uNQc9FcSOsjzPuCA6p5"
     },
     {
       "album": {
@@ -1111,7 +1133,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 208000,
       "name": "Shaayad",
       "url": "https://open.spotify.com/track/5bCHdS1G42HA5OpEMXtrp9"

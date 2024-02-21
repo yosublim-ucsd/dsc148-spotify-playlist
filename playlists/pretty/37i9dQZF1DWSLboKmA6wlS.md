@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: vavava\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,072 likes - 85 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,073 likes - 85 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 80 | [Painting in your mind](https://open.spotify.com/track/4dKgEeKwkobhkwYLyGxodI) | [Jesse Mek](https://open.spotify.com/artist/1Wcyt8aTqeOVkd80REXaS0) | [Painting in your mind](https://open.spotify.com/album/0aSvJGhnX5kUjs28ZHZeee) | 4:28 |
 | 81 | [ไฟข้างทาง](https://open.spotify.com/track/4Fp650fZHyuI95DPc1ez1c) | [CK1987](https://open.spotify.com/artist/0YaKWi70EZo5MYCR9M1r2Q) | [ไฟข้างทาง](https://open.spotify.com/album/0jas09KW7K6bAX38HROr4V) | 5:16 |
 | 82 | [PM2.5](https://open.spotify.com/track/30YgixmvqdsLnbMLFwkHJP) | [Her Her Mer](https://open.spotify.com/artist/1m7p0F8uMg3JaDjAIpWlLS) | [PM2.5](https://open.spotify.com/album/4R22OAIG9TQDTWQIiRaQjr) | 5:17 |
-| 83 | [ดีขึ้น](https://open.spotify.com/track/37ytIcBSOemrR8soaOo8Gi) | [KNzC](https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh), [PA!NX](https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU), [DoubleG](https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1) | [ดีขึ้น](https://open.spotify.com/album/7M6YeEOFn0rz2kYkukglqr) | 3:40 |
-| 84 | [ทำได้เพียงร้องไห้](https://open.spotify.com/track/6P7ndQhyt5rRm40SRyV5iI) | [Blackwolf BOY](https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq) | [ทำได้เพียงร้องไห้](https://open.spotify.com/album/19IThxXWC5xD0Zi9jyeYew) | 3:53 |
-| 85 | [ต้องพูดกี่ครั้งถึงเข้าใจ \(Enough\)](https://open.spotify.com/track/0wuWRy2PZdxqCr4IQ7wIlX) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [ต้องพูดกี่ครั้งถึงเข้าใจ \(Enough\)](https://open.spotify.com/album/5LNdWiaz09uwlSp3P5EosW) | 3:22 |
+| 83 | [ทำได้เพียงร้องไห้](https://open.spotify.com/track/6P7ndQhyt5rRm40SRyV5iI) | [Blackwolf BOY](https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq) | [ทำได้เพียงร้องไห้](https://open.spotify.com/album/19IThxXWC5xD0Zi9jyeYew) | 3:53 |
+| 84 | [ต้องพูดกี่ครั้งถึงเข้าใจ \(Enough\)](https://open.spotify.com/track/0wuWRy2PZdxqCr4IQ7wIlX) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [ต้องพูดกี่ครั้งถึงเข้าใจ \(Enough\)](https://open.spotify.com/album/5LNdWiaz09uwlSp3P5EosW) | 3:22 |
+| 85 | [ดีขึ้น](https://open.spotify.com/track/1H3zMGRC6Ch5j9XuxpX2hI) | [KNzC](https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh), [PA!NX](https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU), [DoubleG](https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1) | [ดีขึ้น](https://open.spotify.com/album/6YdvTuxL9HFkolNqLNxzmT) | 3:40 |
 
-Snapshot ID: `MCwyODQ2ZmU5YTJhYWNkYmRjNTVlZjI2NDk5MjhjYWY3ZDQxOTg3OWFj`
+Snapshot ID: `MCxlMDE3ZTg1MmFjZjQzZGJiYzBjM2IyNmVmYTY3OTYwMTI2NjkzZTk1`

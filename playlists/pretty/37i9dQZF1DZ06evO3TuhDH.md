@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,462 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,474 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 |
 | 50 | [What U Want](https://open.spotify.com/track/4wOyrbNG5eEv5ZF5oVqHtX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What U Want](https://open.spotify.com/album/2dHNueuBm0PuI5gF5J5Ubh) | 3:44 |
 
-Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDBlMjE3N2ZkZjQ1MjFkYzY4NDFmMWJjYmMxYmFiNDgyZQ==`
+Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA4M2JhYWExODUyZWZmNGIzYmI0OTk0OWU1MmYxMTE2OA==`

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,214 songs - 3 day 4 hr 26 min
+1,216 songs - 3 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-17 | 2024-01-17 |
 | [Black Crack](https://open.spotify.com/track/50YCh8wL8YVI0W18apljDC) | [葛葉](https://open.spotify.com/artist/2U6KmGMil4ClWZB9vHEwSb) | [Black Crack](https://open.spotify.com/album/2Cmm7oVYSSjY2rsQozUu3b) | 3:04 | 2023-10-12 | 2024-01-05 |
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-28 | 2022-06-08 |
+| [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/04xIuk7yE5S3ucvzd7VNi2) | [Daichi Takenaka](https://open.spotify.com/artist/40kOocaMWxJX2dIYzDAUmB), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/23GffvhwgaUE3p6K3ZCDFT) | 1:58 | 2024-02-20 |  |
 | [Bleed My Heart](https://open.spotify.com/track/3SmAzJCueHFkBw5ufINDkQ) | [Alisa](https://open.spotify.com/artist/27iFGBD5aaJB4GSsfYAoLW) | [Bleed My Heart](https://open.spotify.com/album/4pB3CoMAmxwYAPdRhlF4vi) | 3:10 | 2023-11-21 | 2023-11-29 |
 | [BLESSLESS](https://open.spotify.com/track/1LYGHz2dPrAEsQqizcJRlP) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [BLESSLESS](https://open.spotify.com/album/7GXg1ReGoputlT97XmOyvz) | 4:30 | 2022-06-23 | 2022-07-27 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-06 |  |
@@ -260,6 +261,7 @@
 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 | 2022-06-09 | 2022-06-15 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7) | 4:03 | 2022-07-28 | 2022-10-19 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/1IlMcBvlQlPSd58GxEHX44) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:05 | 2023-01-10 | 2023-04-09 |
+| [HELLO WORLD](https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HELLO WORLD](https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB) | 4:53 | 2024-02-20 |  |
 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2023-10-03 | 2023-12-06 |
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2023-10-24 | 2024-01-10 |
 | [Here I Stand](https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand](https://open.spotify.com/album/6XHLf6XkdhyHJzWSUhh1f0) | 3:49 | 2023-03-31 | 2023-04-02 |

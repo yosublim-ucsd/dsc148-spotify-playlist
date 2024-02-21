@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 46181,
+  "2024-02-21": 46179,
   "date_first_scraped": "2023-11-08",
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
   "name": "Trending Now",
@@ -4687,12 +4687,12 @@
       },
       "artists": [
         {
-          "name": "DIVINE",
-          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
-        },
-        {
           "name": "Karan Aujla",
           "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
         },
         {
           "name": "Jonita Gandhi",

@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "Njg5LDhiZjJmMDJlMWE2OTE5NTI3YTBlMzc5Y2VmNzlmYjBkY2E3ZTAyYmM=",
+  "snapshot_id": "Njk5LDI5ZDMxYTcxNDRjNjJkMWEzMzM3ZDhmNTlmM2YzOGVlMDBkMzRkZTY=",
   "tracks": [
+    {
+      "added_at": "2024-02-20 07:49:12",
+      "album": {
+        "name": "\u6211\u3001\u601d\u3046\u3086\u3048\u306b",
+        "url": "https://open.spotify.com/album/1o8d3p93iqW8wqnLq265Nr"
+      },
+      "artists": [
+        {
+          "name": "nogumi",
+          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 238170,
+      "name": "\u6211\u3001\u601d\u3046\u3086\u3048\u306b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5Bw2uf8VDiHVYHfIcEkY0z"
+    },
+    {
+      "added_at": "2024-02-20 07:45:47",
+      "album": {
+        "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30e9\u30f4\u30a1\u30fc",
+        "url": "https://open.spotify.com/album/2dRuZYftuAyphlaeBHs9gd"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30a4\u30af\u30a2",
+          "url": "https://open.spotify.com/artist/1IPsi5qSsqd9edA8u35S9Z"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 141545,
+      "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30e9\u30f4\u30a1\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0HyiVoburjD639JoOX0LX2"
+    },
+    {
+      "added_at": "2024-02-20 07:46:05",
+      "album": {
+        "name": "\u30d5\u30a9\u30ec\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/5XcwuDfbb2MFAp2rTva1i0"
+      },
+      "artists": [
+        {
+          "name": "dezzy",
+          "url": "https://open.spotify.com/artist/6rdw0kbG9ame8zcTPuyM9Q"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "IA",
+          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
+        }
+      ],
+      "duration_ms": 112285,
+      "name": "\u30d5\u30a9\u30ec\u30b9\u30c8 (feat. \u521d\u97f3\u30df\u30af&IA)",
+      "url": "https://open.spotify.com/track/7tguJMdEDlVOBIMYIVJDaq"
+    },
+    {
+      "added_at": "2024-02-20 07:46:25",
+      "album": {
+        "name": "\u65e5\u4ed8\u5909\u66f4\u7dda",
+        "url": "https://open.spotify.com/album/5WgOJjmRCaB72c5YcxDEIP"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30de\u30b7\u30ed\u30de\u30b7\u30ed",
+          "url": "https://open.spotify.com/artist/2ZQbOmZrcdsqIKA4NaSck8"
+        }
+      ],
+      "duration_ms": 279782,
+      "name": "\u65e5\u4ed8\u5909\u66f4\u7dda",
+      "url": "https://open.spotify.com/track/2adCfkUDD1bS6fcXVPLlTe"
+    },
+    {
+      "added_at": "2024-02-20 07:47:18",
+      "album": {
+        "name": "\u4fc4\u304b\u96e8",
+        "url": "https://open.spotify.com/album/6aQFl3taAOrNibAkgTo76Q"
+      },
+      "artists": [
+        {
+          "name": "imie\u00d7\u5e73\u7530\u7fa9\u4e45",
+          "url": "https://open.spotify.com/artist/7nqS7FNtCcLWL6o0CkK28W"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "\u4fc4\u304b\u96e8",
+      "url": "https://open.spotify.com/track/4nz94ALcwCzRO3NHjyLxVm"
+    },
     {
       "added_at": "2024-02-06 06:38:09",
       "album": {
@@ -643,86 +739,6 @@
       "duration_ms": 230000,
       "name": "\u6d77\u8fba\u306e\u547c\u5438",
       "url": "https://open.spotify.com/track/5wDDvkFQmXNaqE1hQfsebI"
-    },
-    {
-      "added_at": "2023-11-14 06:33:40",
-      "album": {
-        "name": "BLOOM IN THE SAME BOAT",
-        "url": "https://open.spotify.com/album/6IpVPSyR3hFr4ggQ4jC4yf"
-      },
-      "artists": [
-        {
-          "name": "HarryP",
-          "url": "https://open.spotify.com/artist/4dXpZ1dOV2dyad3ev3Cnm5"
-        }
-      ],
-      "duration_ms": 300500,
-      "name": "BRAVE THE WORLD (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6VBkGMWaIYHzE3qQeu4HJU"
-    },
-    {
-      "added_at": "2023-11-14 06:34:17",
-      "album": {
-        "name": "Paradigm Traveller",
-        "url": "https://open.spotify.com/album/5Yr9qFu3vDTKOd6Y38fzMP"
-      },
-      "artists": [
-        {
-          "name": "Niymoriy",
-          "url": "https://open.spotify.com/artist/5zQamOthWOUQpMZBuH1CHq"
-        }
-      ],
-      "duration_ms": 311111,
-      "name": "\u30d1\u30e9\u30c0\u30a4\u30e0\u30fb\u30c8\u30e9\u30d9\u30e9\u30fc",
-      "url": "https://open.spotify.com/track/4sQnPDIoXGaXc318414Vnt"
-    },
-    {
-      "added_at": "2023-11-14 06:34:44",
-      "album": {
-        "name": "\u30d3\u30d3\u30c3\u30c9\u30c7\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/7MSAGWBknTqShDgBKczVoI"
-      },
-      "artists": [
-        {
-          "name": "retasuP",
-          "url": "https://open.spotify.com/artist/38qsTSd0tjdoRxjxtUMJiG"
-        }
-      ],
-      "duration_ms": 305217,
-      "name": "\u30d3\u30d3\u30c3\u30c9\u30c7\u30a4\u30ba",
-      "url": "https://open.spotify.com/track/4le3aG8KafhMpt4ihRCwE1"
-    },
-    {
-      "added_at": "2023-11-14 06:34:31",
-      "album": {
-        "name": "sequence of love / \u3082\u3046\u305d\u3053\u306b\u306f\u306a\u3044\u604b\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/6iFWeg883nrUaXPDost5IT"
-      },
-      "artists": [
-        {
-          "name": "oreginalP",
-          "url": "https://open.spotify.com/artist/0c3N2gPrLGiXCBUDto0W59"
-        }
-      ],
-      "duration_ms": 368400,
-      "name": "sequence of love",
-      "url": "https://open.spotify.com/track/7zBBm1PKHEBmIvrj4nmX98"
-    },
-    {
-      "added_at": "2023-11-14 06:34:02",
-      "album": {
-        "name": "\u30ed\u30fc\u30ea\u30fc\u30ba\u30eb\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/3rbkcBZv4fFxdlVBYvgfYk"
-      },
-      "artists": [
-        {
-          "name": "Scop",
-          "url": "https://open.spotify.com/artist/4MMtKtdKAZ94xazQGVTDzL"
-        }
-      ],
-      "duration_ms": 295685,
-      "name": "\u30ed\u30fc\u30ea\u30fc\u30ba\u30eb\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/4lPQQYllMiTkKOoptoFVXc"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

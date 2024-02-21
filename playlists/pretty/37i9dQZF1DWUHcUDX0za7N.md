@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: <a href="https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA"> Jeriq </a> and <a href="https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw"> PsychoYP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,546 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,598 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Pressure](https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Pressure](https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2) | 2:24 |
 | 70 | [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 |
 
-Snapshot ID: `MCxiMDJmODVjMDQzZTJmZTQ0YTA0NGI5NTU4ZTAxYjI5NTU1ZDFjMmE5`
+Snapshot ID: `MCw4ZTk4ODE5NGFmNDRlYWZiYzY0MjAwNWI2ZmM5MWVhOGQ3ZGU4ZTUy`

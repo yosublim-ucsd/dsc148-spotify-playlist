@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with <a href="spotify:artist:6PvScqSJuICxvoA3UDYPmu">JON VINYL</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,441 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,468 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 |
 | 100 | [Stand Out](https://open.spotify.com/track/0JY257tTobWQ27pW6Yit1p) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Stand Out](https://open.spotify.com/album/3ureOwN5vXUDe136hc76qM) | 2:55 |
 
-Snapshot ID: `MCxlZjcwZWJiYWE5YjgwYTA3YzZhNTI0YjAxN2RhNzhiYmY1MGMwZDZl`
+Snapshot ID: `MCxhM2ZkOTA2NDFjNDQ4OTNlMGMzYTNiOTU0YzNhYmU4MTZkYTZjZTRi`

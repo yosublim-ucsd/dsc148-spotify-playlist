@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12918,
+  "num_followers": 12932,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjFhNDY5NTg0OWFhOTMyNDAwNWFkZmY0NTdhYjNhYWY2N2YyOGZl",
+  "snapshot_id": "MCxjYmQxMjcxOGJmMWQxZTljYTAwYzg3ZTZkYjhjOGFlNTkxMDJlYjgy",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thinking 'Bout Home (Live)",
-        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 245825,
-      "name": "Thinking 'Bout Home - Live",
-      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Brighten The Corner Where You Are (Radio Edit)",
         "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 149545,
       "name": "Brighten The Corner Where You Are - Radio Edit",
       "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Thinking 'Bout Home (Live)",
+        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 245825,
+      "name": "Thinking 'Bout Home - Live",
+      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The Stories We Tell",
-        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
-      },
-      "artists": [
-        {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Good in the Good Times",
-      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 210161,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The Stories We Tell",
+        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Good in the Good Times",
+      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Shut Him Up",
-        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Shut Him Up",
-      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Favorites: On Repeat",
         "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 270840,
       "name": "Favorite Song of All",
       "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Shut Him Up",
+        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Shut Him Up",
+      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "McKamey Legacy",
-        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
-      },
-      "artists": [
-        {
-          "name": "McKamey Legacy",
-          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "God is Still Good",
-      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "In a Moment",
         "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 306462,
       "name": "Every Other Throne",
       "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "McKamey Legacy",
+        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
+      },
+      "artists": [
+        {
+          "name": "McKamey Legacy",
+          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "God is Still Good",
+      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Sings Greatest Country Gospel Hits",
-        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Pass Me Not Oh Gentle Saviour",
-      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 222064,
       "name": "I Bring You Jesus",
       "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Sings Greatest Country Gospel Hits",
+        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Pass Me Not Oh Gentle Saviour",
+      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
     },
     {
       "added_at": "2023-04-14 06:27:38",

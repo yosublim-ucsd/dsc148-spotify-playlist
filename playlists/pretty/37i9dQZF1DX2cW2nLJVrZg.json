@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 261025,
+  "num_followers": 261020,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODE4YjdhYzIwMmJiYmYyOGI1NDMwZTBmMjQ4NWVhMzhkZjE3MmQw",
+  "snapshot_id": "MCw5ODcxNDBiY2QzZTk4OTE3ZTc3OTRjMDY2YzRhNzM3ZTBkNjE1MTY0",
   "tracks": [
     {
       "added_at": "2024-01-23 19:55:12",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Diwali Special Party Songs",
-        "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        }
-      ],
-      "duration_ms": 214207,
-      "name": "Naacho Naacho (From \"Rrr\")",
-      "url": "https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Beauty And The Beast (Special Edition)",
         "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 165186,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Diwali Special Party Songs",
+        "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        }
+      ],
+      "duration_ms": 214207,
+      "name": "Naacho Naacho (From \"Rrr\")",
+      "url": "https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC"
     },
     {
       "added_at": "2024-01-23 19:55:12",

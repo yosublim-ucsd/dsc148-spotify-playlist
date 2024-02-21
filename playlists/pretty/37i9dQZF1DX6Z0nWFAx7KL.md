@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,785 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,791 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [Dreams](https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Dreams](https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ) | 3:09 |
 | 80 | [Lifetime](https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99) | [Lifetime](https://open.spotify.com/album/0MsW5Q0FuA617PpHZG0yaM) | 2:34 |
 
-Snapshot ID: `MCxkNGQwM2Q4MjIzMDEzOGNjZGJhNzE1YjhjNWYxZDMwN2Y2MzRhZTY2`
+Snapshot ID: `MCw0ZGIwNTZjNDQzNWU1YzI5NTcxMzNjMDRlMzljMjNkYTI5Y2QxOGVm`

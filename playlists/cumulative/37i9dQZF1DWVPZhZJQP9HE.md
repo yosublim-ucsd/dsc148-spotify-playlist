@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar & Samyuktha Viswanathan
 
-505 songs - 1 day 5 hr 56 min
+506 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,8 @@
 | [Valimai Kooduthey](https://open.spotify.com/track/0DB2f8fIetpuxtvz4VVHR1) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Valimai Kooduthey](https://open.spotify.com/album/0pMNdeffLwJaVnaPMnStz0) | 3:24 | 2022-06-30 | 2022-07-08 |
 | [Vazhvatha Savatha](https://open.spotify.com/track/6XJKEahOAoz5HJkEHbWDiO) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60), [Deshany AJS](https://open.spotify.com/artist/71iFtU6JCRgIAE8QfNySiV) | [Vazhvatha Savatha](https://open.spotify.com/album/5lN01Il4dJaDNXNmvTVRkU) | 3:03 | 2022-07-21 | 2022-08-10 |
 | [Veeran \- From "Think Originals"](https://open.spotify.com/track/1fC8EY8jDB1cZHkhFhPLFF) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Veeran \(From "Think Originals"\)](https://open.spotify.com/album/2rf47Fe6cNoGWYrTc5SqSv) | 2:57 | 2022-08-04 | 2023-02-22 |
-| [Veeravanam](https://open.spotify.com/track/1eCmpnUfMsno0j2cNLMj4Y) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Veeravanam](https://open.spotify.com/album/3FpsSrTUxc0ElnGgQuJIY6) | 4:36 | 2023-11-06 |  |
+| [Veeravanam](https://open.spotify.com/track/1eCmpnUfMsno0j2cNLMj4Y) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Veeravanam](https://open.spotify.com/album/3FpsSrTUxc0ElnGgQuJIY6) | 4:36 | 2023-11-06 | 2024-02-21 |
+| [Veeravanam](https://open.spotify.com/track/4P1Qy4eK05sYjTFZ09obxk) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Veeravanam](https://open.spotify.com/album/745ccUUYi14azC9MOCzww0) | 4:36 | 2023-11-06 |  |
 | [Vellai Poove](https://open.spotify.com/track/73RJInEfMXw3ZhefZ8C6Ef) | [Balram Iyer](https://open.spotify.com/artist/6niG0dH1fqUvWvM2CsHbjE), [Sruthy Sasidharan](https://open.spotify.com/artist/25yRkdjW9bHSoEQhHMAsT8), [Vishnu Shyam](https://open.spotify.com/artist/6i5YR1tYp6JKF0CT2lQgsF) | [Hi Hello Kaadhal](https://open.spotify.com/album/3IIPrMFgwsWjrJgjJUkt6r) | 3:37 | 2023-01-06 | 2023-03-23 |
 | [Velli Meenum](https://open.spotify.com/track/4M988VyRKdAq26avTTzXDm) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax), [Ratheesh Seenivasagam](https://open.spotify.com/artist/3gbBYzebTn3CcnbiL5QD0h) | [Velli Meenum](https://open.spotify.com/album/4rJ3faxZnNbpc5U2r2tzKe) | 3:58 | 2022-07-25 | 2023-02-07 |
 | [Vena Vena Poo \- From "Valigal"](https://open.spotify.com/track/500jwNLc6tCyJiHvUeIhGG) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Gunaji](https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo) | [Vena Vena Poo \(From "Valigal"\)](https://open.spotify.com/album/1jtMDDSWyUI87iyCmLol3S) | 4:22 | 2022-08-17 | 2023-02-07 |

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Old Yearning\(옛그리움\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:ALEPH\(알레프\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-488 songs - 1 day 5 hr 3 min
+489 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Tropical night](https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk) | [여동생](https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1) | [Tropical night](https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK) | 5:11 | 2022-07-08 | 2022-08-10 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-04-12 | 2022-04-21 |
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-03 | 2022-05-12 |
-| [Twist Calm And Passion](https://open.spotify.com/track/3RyUljsKYUQsLJ3NhwCCja) | [Old Yearning](https://open.spotify.com/artist/1pvExL7XF65L9vFFoBLH1r) | [incomplete two](https://open.spotify.com/album/6KmnjYSHeNQqok12MJf5EM) | 2:46 | 2024-02-13 |  |
+| [Twist Calm And Passion](https://open.spotify.com/track/3RyUljsKYUQsLJ3NhwCCja) | [Old Yearning](https://open.spotify.com/artist/1pvExL7XF65L9vFFoBLH1r) | [incomplete two](https://open.spotify.com/album/6KmnjYSHeNQqok12MJf5EM) | 2:46 | 2024-02-13 | 2024-02-21 |
 | [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-03-04 | 2022-04-15 |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-10 | 2022-07-29 |
 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 | 2022-03-04 |  |
@@ -479,6 +479,7 @@
 | [물감 Paint](https://open.spotify.com/track/1HbRmJsM1oi7zTlKZtMVGS) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [물감 Paint](https://open.spotify.com/album/7j8U1x5nDleP8O6ZLW93Lz) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/0zvzglIwe1ac0OdMaCLSat) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [봄인가 봐 Spring Love](https://open.spotify.com/album/1h5XqsWqZ5Ok53tB3rAHsW) | 3:18 | 2022-03-31 | 2022-05-22 |
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2022-07-08 |  |
+| [사랑의 언어 Love Language](https://open.spotify.com/track/0xqtS4SOVkz42r5Yegp75J) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural I](https://open.spotify.com/album/2G7dMVzpNZMDbhPvULZcE3) | 3:50 | 2024-02-20 |  |
 | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/track/3MOcIiyqd9r14YDIeZqhuj) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/album/27Ies0kxzzilbhfwTrlQJj) | 4:32 | 2022-03-31 | 2022-04-19 |
 | [선인장 \(Vocal By 심규선\)](https://open.spotify.com/track/15nO3s4A5Bl1838kzBT8ym) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [유실물 보관소](https://open.spotify.com/album/5n1NNhLPzFUCxy2gKLjUQc) | 3:30 | 2022-03-31 | 2022-04-21 |
 | [소중한 사람](https://open.spotify.com/track/6fLU2bijVBUZtG3bCY6Ffl) | [한세영](https://open.spotify.com/artist/3UpDjV6j4gsRntwhmDHly5) | [소중한 사람](https://open.spotify.com/album/33YIzft9BfwBVc09lduiIm) | 4:06 | 2024-02-07 |  |

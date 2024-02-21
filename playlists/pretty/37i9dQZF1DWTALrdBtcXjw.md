@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,188 likes - 150 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,205 likes - 150 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [Count On Me](https://open.spotify.com/track/1pQyBAVelwGAMURXVBhpm7) | [Hyuntae Kim](https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS) | [Remembering](https://open.spotify.com/album/2elaIEGm1mApCONikdISZD) | 6:00 |
 | 150 | [Divergence](https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf) | [Alistair Martin](https://open.spotify.com/artist/2fDpiP8x5yGXehZ6WrZFig) | [Oblivion](https://open.spotify.com/album/0ZmP5V1EPnCEVcyy1tV7pF) | 5:43 |
 
-Snapshot ID: `MCxlZTM1OTc0ZDdiMTE1YTQ1YjRlY2I0YTY2NmQ2YmVhOGMyZmJiMmUz`
+Snapshot ID: `MCw5YWRhMDg1NWQ0M2M5NjA2Y2Y5Yzg3YWJiOTczZjczZDIwYjVhY2Qz`

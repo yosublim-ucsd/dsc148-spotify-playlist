@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Beto Vega, Edgardo Nuñez, Antonin Padilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,777 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,855 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 74 | [Zutano \(En Vivo\)](https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Más Vivo Que En Vivo \(Vol\. 3\)](https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs) | 3:28 |
 | 75 | [Bélico X Siempre](https://open.spotify.com/track/7uZ3mZbVE1e7NtYMBAK3hA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre](https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj) | 2:53 |
 
-Snapshot ID: `MCw0OWNjNGI4ZDY1MDY3NDAyMThlNmZjM2YyZmVmOWQ3NzE5ODIwODk4`
+Snapshot ID: `MCw1Yzg2YjdhYzJlMTE2MzFiMWQxNjBkNzRhNzc2OThlZDAwZGIyMjhk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,744 likes - 230 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,876 likes - 230 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 |
 | 230 | [Wild Feelings](https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Wild Feelings](https://open.spotify.com/album/6nOuDvGazEOQ7Oa6Br1dKJ) | 2:41 |
 
-Snapshot ID: `MCxiNGU5NWFiNmUzM2NlODg1MDNmYjFlOGEwNTUwNDQwZWU5Mzg3MjJj`
+Snapshot ID: `MCwxMTFhYWM1MzVmZjU4Y2Q0NTBmMjM0OWMxZThiN2I2NGMwNjFlNTk0`

@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 93266,
+  "num_followers": 93358,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDI5M2YzZmFlMGQ2Y2JkMTRkMDY3MjlhODFlMWZkMGU5MmMzODA1",
+  "snapshot_id": "MCw0ZDUwZTA4ZjM2MzRlNGY4MDZjMzdkYzAzOGY4MDc4OTBhNmUzMWZl",
   "tracks": [
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "We Free Kings",
-        "url": "https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
-        }
-      ],
-      "duration_ms": 280573,
-      "name": "A Sack Full Of Soul",
-      "url": "https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
         "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 286266,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "We Free Kings",
+        "url": "https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+        }
+      ],
+      "duration_ms": 280573,
+      "name": "A Sack Full Of Soul",
+      "url": "https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd Quartet",
-          "url": "https://open.spotify.com/artist/1uVXezA2zuHxGwdKZHDOaj"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Caroline, No",
-      "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
       },
@@ -1779,18 +1763,18 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Charles Lloyd Quartet",
+          "url": "https://open.spotify.com/artist/1uVXezA2zuHxGwdKZHDOaj"
         }
       ],
-      "duration_ms": 417333,
-      "name": "Three Little Words",
-      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
+      "duration_ms": 242560,
+      "name": "Caroline, No",
+      "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1823,6 +1807,22 @@
       "duration_ms": 220933,
       "name": "Bye bye blackbird",
       "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 417333,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1871,6 +1871,26 @@
       "duration_ms": 397306,
       "name": "Prelude And Part 1 - Remastered",
       "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 395440,
+      "name": "Blight of the Fumble Bee",
+      "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1935,26 +1955,6 @@
       "duration_ms": 336680,
       "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 395440,
-      "name": "Blight of the Fumble Bee",
-      "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "The Complete Prestige Recordings",
-        "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 641733,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Tex Book Tenor (Remastered)",
         "url": "https://open.spotify.com/album/0hmnZqB7XUdFhOXqW7Ivgl"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 458560,
       "name": "Den Tex - 2005 Remastered",
       "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "The Complete Prestige Recordings",
+        "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 641733,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Associations",
-        "url": "https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb"
-      },
-      "artists": [
-        {
-          "name": "Milder / Spering / Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS"
-        }
-      ],
-      "duration_ms": 313013,
-      "name": "All of You",
-      "url": "https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Rhythm In Mind (The Carnegie Project)",
         "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 549520,
       "name": "Zec",
       "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Associations",
+        "url": "https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb"
+      },
+      "artists": [
+        {
+          "name": "Milder / Spering / Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS"
+        }
+      ],
+      "duration_ms": 313013,
+      "name": "All of You",
+      "url": "https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "David Liebman Quartet / Quintet Live",
-        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
       },
       "artists": [
         {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
         }
       ],
-      "duration_ms": 799425,
-      "name": "The Last Train",
-      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+        "name": "David Liebman Quartet / Quintet Live",
+        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
       },
       "artists": [
         {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
         }
       ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
+      "duration_ms": 799425,
+      "name": "The Last Train",
+      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2415,22 +2415,6 @@
       "duration_ms": 449293,
       "name": "I Remember You - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Escaping Shadows",
-        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
-      },
-      "artists": [
-        {
-          "name": "Benny Reid",
-          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "New Days",
-      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2455,6 +2439,22 @@
       "duration_ms": 447600,
       "name": "J.E.V.",
       "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Escaping Shadows",
+        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
+      },
+      "artists": [
+        {
+          "name": "Benny Reid",
+          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "New Days",
+      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2024-02-01 09:18:34",

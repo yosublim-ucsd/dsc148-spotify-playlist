@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 59518,
+  "2024-02-21": 59577,
   "date_first_scraped": "2022-05-13",
   "description": "Top Sharqi hits right now. Cover: Assala.",
   "name": "Top Sharqi Hits",
@@ -1785,6 +1785,24 @@
       "duration_ms": 307500,
       "name": "Sa Assiru Yawman",
       "url": "https://open.spotify.com/track/0iIQDfnA9g58xIQiaDtPg2"
+    },
+    {
+      "album": {
+        "name": "Sabran",
+        "url": "https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X"
+      },
+      "artists": [
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Sabran",
+      "url": "https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae"
     },
     {
       "album": {

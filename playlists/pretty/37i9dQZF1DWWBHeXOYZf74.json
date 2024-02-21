@@ -1,12 +1,12 @@
 {
   "description": "Genre-less. Quality first always. Cover: Matt Champion",
-  "num_followers": 1328436,
+  "num_followers": 1328395,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTVlYzlhOGNlY2FhZDVkMDc0NmU2Y2MwN2I1OTYwNzJjMmU0YWM2",
+  "snapshot_id": "MCwxMTQ4NTY1ZTU3NDQ0OTcxY2YwNjZjNmNlMWQ1NDFhMWZhMDRmYjcy",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
     },
     {
+      "added_at": "2024-02-20 16:27:59",
+      "album": {
+        "name": "Desire, I Want To Turn Into You: Everasking Edition",
+        "url": "https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 233416,
+      "name": "Spring Is Coming With A Strawberry In The Mouth",
+      "url": "https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
@@ -99,8 +115,8 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Ellipsis",
-        "url": "https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd"
+        "name": "GRIP",
+        "url": "https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY"
       },
       "artists": [
         {
@@ -114,7 +130,7 @@
       ],
       "duration_ms": 201218,
       "name": "Ellipsis",
-      "url": "https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7"
+      "url": "https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia"
     },
     {
       "added_at": "2024-02-16 05:00:00",

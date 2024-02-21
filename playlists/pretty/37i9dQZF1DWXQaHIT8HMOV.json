@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: $hyli",
-  "num_followers": 1946,
+  "num_followers": 1948,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGQ5MWQ0NGNlMDU2NDkxOTRlNDcxYzgwZmI3ODEzODIyNzFlYWI2",
+  "snapshot_id": "MCxkZWIxNDIxOWZiNGJlMzRmMzQ3ZTY3NjdlNGQwZjkwZDRhOTBlM2Rj",
   "tracks": [
     {
       "added_at": "2024-02-16 11:43:52",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Namulabako",
+        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        }
+      ],
+      "duration_ms": 167816,
+      "name": "Namulabako",
+      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "Fertilizer",
         "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 172965,
       "name": "Gukuba",
       "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Namulabako",
-        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        }
-      ],
-      "duration_ms": 167816,
-      "name": "Namulabako",
-      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Tutamire",
-        "url": "https://open.spotify.com/album/5F3Ahu2jSh25zW4YGm9qQ1"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Tutamire",
-      "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 150000,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Tutamire",
+        "url": "https://open.spotify.com/album/5F3Ahu2jSh25zW4YGm9qQ1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Tutamire",
+      "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruz",
-          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
-        },
-        {
-          "name": "Caspian Marvin",
-          "url": "https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU"
-        }
-      ],
-      "duration_ms": 214073,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "Q'lalea",
         "url": "https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu"
       },
@@ -755,22 +735,42 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB"
       },
       "artists": [
         {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+          "name": "Victor Ruz",
+          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
         },
         {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+          "name": "Caspian Marvin",
+          "url": "https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU"
         }
       ],
-      "duration_ms": 226153,
-      "name": "On my Mind",
-      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
+      "duration_ms": 214073,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Not Safe in the West",
+        "url": "https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic"
+      },
+      "artists": [
+        {
+          "name": "kalibwani",
+          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
+        },
+        {
+          "name": "Nafets",
+          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Not Safe in the West",
+      "url": "https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -787,6 +787,26 @@
       "duration_ms": 216398,
       "name": "Leega",
       "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -863,26 +883,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Not Safe in the West",
-        "url": "https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic"
-      },
-      "artists": [
-        {
-          "name": "kalibwani",
-          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
-        },
-        {
-          "name": "Nafets",
-          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Not Safe in the West",
-      "url": "https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Sida Mukyalo",
-        "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sida Mukyalo",
-      "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "Muntu Wange",
         "url": "https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 189000,
       "name": "Muntu Wange",
       "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Sida Mukyalo",
+        "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sida Mukyalo",
+      "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
     },
     {
       "added_at": "2024-02-16 11:43:52",

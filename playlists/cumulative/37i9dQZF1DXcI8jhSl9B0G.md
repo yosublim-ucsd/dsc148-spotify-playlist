@@ -4,7 +4,7 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-142 songs - 8 hr 31 min
+143 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Home to You](https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Home to You](https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD) | 3:33 | 2022-11-30 |  |
 | [Hunger](https://open.spotify.com/track/0ADe9aTzgOVhEMAY80kUbp) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [Hunger](https://open.spotify.com/album/6wXOGyDnQXfxv0v8PZfM0q) | 4:08 | 2021-11-30 | 2022-12-01 |
 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 | 2021-11-30 | 2023-11-18 |
+| [I BELIEVE](https://open.spotify.com/track/3qyl06mFyrDJ3fdeklnsvV) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p) | 3:26 | 2023-11-30 |  |
 | [Idiot Day](https://open.spotify.com/track/1Sizsyh5IFxCldO3vyNTn4) | [Antony Jeffares](https://open.spotify.com/artist/7iG6YfPIDZS6ZwbnCf56of) | [When Twilight Comes \(I Am Still Yearning\)](https://open.spotify.com/album/3z7s2nqsEcdmQiQzw5qaDm) | 2:36 | 2021-11-30 | 2022-12-01 |
 | [In My Arms](https://open.spotify.com/track/13RNv4OHDHgjlHgYhzzD3O) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A) | 3:03 | 2021-11-30 | 2022-12-01 |
 | [in these bones](https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [nowhere fast](https://open.spotify.com/album/6aISYSR3BEleXOUVOghsl1) | 3:46 | 2023-11-30 | 2024-01-01 |
@@ -76,7 +77,7 @@
 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 | 2022-11-30 |  |
 | [Journey Home](https://open.spotify.com/track/4Hi4jgmaou9tqN1qGmANzS) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [The Songwriting Prize 2020](https://open.spotify.com/album/2tGmEFUAJ6A2Hkkf7UNoQ6) | 4:31 | 2021-11-30 | 2022-11-13 |
 | [Journey Home](https://open.spotify.com/track/5Lo2hiUPj7z32oB3XSHb29) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Journey Home](https://open.spotify.com/album/0eHppmZysZlFDqXqdzr9cM) | 4:31 | 2021-11-30 | 2022-12-01 |
-| [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 | 2022-11-30 |  |
+| [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 | 2022-11-30 | 2024-02-21 |
 | [Kinder](https://open.spotify.com/track/15qbB1N6kGsNyCJp5C282W) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/7re2kB1LFDctQqwQhodsIy) | 3:26 | 2021-11-30 | 2022-12-01 |
 | [Kinder](https://open.spotify.com/track/3laEqX58fkjwQQeftYWtfu) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/4klHqdr3ef7C3XvmUu0Cir) | 3:26 | 2021-11-30 | 2022-10-21 |
 | [Lay In The Sun \- Acoustic](https://open.spotify.com/track/3DhcCcb1Dtio6m7TWtrpXZ) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Lay In The Sun \(Acoustic\)](https://open.spotify.com/album/2Pej2KgeAEZUC0YcsxK81V) | 4:18 | 2021-11-30 | 2022-12-01 |

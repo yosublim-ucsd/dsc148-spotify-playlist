@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,257 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,306 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
 | 60 | [Fallen](https://open.spotify.com/track/71yhzfnnCJGyqASU49wKJO) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Fallen](https://open.spotify.com/album/2lU1O72Qpkh9PFhP5UQM4F) | 3:25 |
 
-Snapshot ID: `MCw5MDQyMjM0ODk3ZjcyZTMzZmM3OTk2MWUxYzAzOTdhMWMwZTM0NzY2`
+Snapshot ID: `MCxhZmIwMWU0ZWEwMGIyOTAzNDA5YTkyZDA1Y2IyNmQ3MGVkNmNjYmZi`

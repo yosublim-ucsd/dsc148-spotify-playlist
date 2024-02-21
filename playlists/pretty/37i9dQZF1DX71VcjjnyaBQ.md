@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,090 likes - 100 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,172 likes - 100 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Oh My](https://open.spotify.com/track/4tW55Nq7uPwHkYWqNx8e6t) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Oh My](https://open.spotify.com/album/2rFOE5zMg2b6nydeMZyIyY) | 4:17 |
 | 100 | [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 |
 
-Snapshot ID: `MCwxZDJmYWZhZjU4ZmJhMTJkM2JkZWY5NmU1NDJlOTlkM2EyZGU5MjVl`
+Snapshot ID: `MCw5MWM4NThkMDM5NzEyZTc3YmFmMWMzOWZlMTc0MTM4YThjNzVkY2Ez`

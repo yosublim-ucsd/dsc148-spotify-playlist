@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,237 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,261 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 12 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
 | 13 | [Jesse](https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Jesse](https://open.spotify.com/album/1z1QZIgQgVOby69R7KjA1Q) | 2:55 |
 | 14 | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B) | 4:38 |
-| 15 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 |
+| 15 | [Under The Big Top](https://open.spotify.com/track/1pP5BPqBK3Mm7PGywnJxP8) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/75r48cAcN4HJeVT7JE6XVN) | 3:47 |
 | 16 | [I See Myself](https://open.spotify.com/track/4TPEq6x5AKefHfLyyyfEu5) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [I See Myself](https://open.spotify.com/album/5ojArqyhIj2WI9z4TBuCgL) | 3:00 |
 | 17 | [Mexico \(I Want You Back\)](https://open.spotify.com/track/0axHK5bsuYwY0ES36dvoHl) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(Good Enough\)](https://open.spotify.com/album/1cjS4Dg6yv2uUD2YqgEYyZ) | 3:10 |
 | 18 | [Walls](https://open.spotify.com/track/3LMiz4T6wBbuGRRGHBo2yv) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `MCxiMmRjODVhZTgxMDA3NDNkMzYwMGJmZDUwZDIxNzk3YmI2ZjMxNTQx`
+Snapshot ID: `MCxiY2YxODI1ZDI5ZTFiYjVmMDk1NmEwMTE0N2RjNDRjZDE2Yjg4OGZj`

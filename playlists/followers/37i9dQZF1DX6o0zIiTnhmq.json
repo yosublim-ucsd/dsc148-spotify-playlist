@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 187267,
+  "2024-02-21": 187315,
   "date_first_scraped": "2022-05-30",
   "description": "Mantras for meditation",
   "name": "Magical Mantras",
@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "Ganesh Stuti",
+        "url": "https://open.spotify.com/album/6yta2A7hXHC2Cmv1eKVUOv"
+      },
+      "artists": [
+        {
+          "name": "Ankita Bramhe",
+          "url": "https://open.spotify.com/artist/1FKFRFij4L7rPTm8J4HPkj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154390,
+      "name": "Ganesh Stuti",
+      "url": "https://open.spotify.com/track/2VkyL7OvkQqABhtM3hyPaf"
+    },
+    {
+      "album": {
         "name": "Ganesh Bhakti Sangrah",
         "url": "https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs"
       },
@@ -143,7 +161,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 154390,
       "name": "Ganesh Stuti",
       "url": "https://open.spotify.com/track/30s5J8ytFaCovIy0rrNPZO"
@@ -263,6 +281,32 @@
     {
       "album": {
         "name": "Gayatri Mantra",
+        "url": "https://open.spotify.com/album/3KuTEH3Gcspp4jz1icbKzi"
+      },
+      "artists": [
+        {
+          "name": "Vibhuti Vaity",
+          "url": "https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx"
+        },
+        {
+          "name": "Rajshree Agarwal",
+          "url": "https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C"
+        },
+        {
+          "name": "Abhinay Jain",
+          "url": "https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2210484,
+      "name": "Gayatri Mantra (108 Times)",
+      "url": "https://open.spotify.com/track/3DsFfzvxc9kHbG1q7l5eZJ"
+    },
+    {
+      "album": {
+        "name": "Gayatri Mantra",
         "url": "https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB"
       },
       "artists": [
@@ -281,7 +325,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 2210484,
       "name": "Gayatri Mantra (108 Times)",
       "url": "https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8"
@@ -2020,6 +2064,24 @@
     },
     {
       "album": {
+        "name": "Suresh Wadkar - Spiritual Collection",
+        "url": "https://open.spotify.com/album/4pE8xstdoCqJEbxPafoKiy"
+      },
+      "artists": [
+        {
+          "name": "Suresh Wadkar",
+          "url": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435915,
+      "name": "Vakratunda Mahakaya",
+      "url": "https://open.spotify.com/track/4RNQ6ZcedmBb7G6OgtyLXh"
+    },
+    {
+      "album": {
         "name": "Ganesh Bhakti Sangrah",
         "url": "https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs"
       },
@@ -2031,7 +2093,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 435915,
       "name": "Vakratunda Mahakaya - Suresh Wadkar",
       "url": "https://open.spotify.com/track/1zJYaxEYpe3A5ioSXS9ZOR"

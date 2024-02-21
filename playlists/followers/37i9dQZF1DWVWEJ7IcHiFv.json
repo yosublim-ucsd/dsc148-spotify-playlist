@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 117598,
+  "2024-02-21": 117625,
   "date_first_scraped": "2022-04-19",
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
   "name": "80s Latino",
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 264826,
       "name": "Come Into My Arms",
       "url": "https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 292200,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59"

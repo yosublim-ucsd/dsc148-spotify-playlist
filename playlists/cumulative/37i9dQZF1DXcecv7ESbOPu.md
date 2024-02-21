@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-11,937 songs - 25 day 18 hr 21 min
+11,938 songs - 25 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6182,7 +6182,8 @@
 | [Living Life Right](https://open.spotify.com/track/76rPAsb8KANsYYyAw8Vnyq) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:12 | 2022-11-03 | 2022-11-11 |
 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 | 2022-09-01 | 2022-09-09 |
 | [Livsstilen](https://open.spotify.com/track/2m77O2S1cYrE1qo3Akqj0T) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Jack](https://open.spotify.com/artist/1nAAfLCQgCSY9KowgqfgU4) | [Livsstilen](https://open.spotify.com/album/43jTX63KglSLqHQM1NVQd9) | 3:02 | 2022-07-29 | 2022-08-05 |
-| [Ljug för mig](https://open.spotify.com/track/0Yw8WYGz7tY6CvcoH7QKtm) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/0MD40yNkk9Ftdqsg0JzE3L) | 3:14 | 2024-02-15 |  |
+| [Ljug för mig](https://open.spotify.com/track/07EL8zmTSyiatI1e8Q93SK) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/7J7VPIsNWZbe5vgcV4GIrm) | 3:14 | 2024-02-15 |  |
+| [Ljug för mig](https://open.spotify.com/track/0Yw8WYGz7tY6CvcoH7QKtm) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/0MD40yNkk9Ftdqsg0JzE3L) | 3:14 | 2024-02-15 | 2024-02-21 |
 | [LL Cool J](https://open.spotify.com/track/7MGPr84RIWHL9Zz9xLHe93) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [LL Cool J](https://open.spotify.com/album/28tjTRoy8DLPOFntXpUxRk) | 3:13 | 2022-03-17 | 2022-03-25 |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-01-26 | 2023-02-03 |
 | [lo siento](https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [lo siento](https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv) | 3:12 | 2023-03-02 | 2023-03-10 |

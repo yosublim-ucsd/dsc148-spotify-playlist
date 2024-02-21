@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Shinedown
 
-1,420 songs - 3 day 6 hr 33 min
+1,421 songs - 3 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -969,6 +969,7 @@
 | [Playlist](https://open.spotify.com/track/14ojT1JUAKgUAfZu7tomIr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/6tSDdE4ynfCuAPjjcIvc87) | 3:19 | 2021-09-18 | 2021-12-11 |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-02 | 2023-04-29 |
 | [Power Over Me](https://open.spotify.com/track/0OGNtqKkjI7FCE9HZ4Khgo) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me](https://open.spotify.com/album/7ohVCsxjU81BfXDGj6W8Ba) | 3:26 | 2019-05-26\* | 2019-06-15 |
+| [Powerful Women](https://open.spotify.com/track/043trFU53vB0CBmFszufZd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Powerful Women](https://open.spotify.com/album/2PfTvrXbda4yPU54eeaazL) | 2:45 | 2024-02-20 |  |
 | [Pretty](https://open.spotify.com/track/0dUIqBRL0Tlw5d4ly8Ahv0) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 2:55 | 2021-12-11 | 2022-02-19 |
 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 | 2023-08-18 | 2023-09-09 |
 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-10-27 | 2024-02-10 |
@@ -1143,7 +1144,7 @@
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-09-18 | 2021-12-09 |
 | [stranger to me](https://open.spotify.com/track/4mvy1Y1k5ICIZjCUoM87tW) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [stranger to me](https://open.spotify.com/album/0V7x1MESYbiouaWZC8vM5r) | 2:15 | 2021-06-26 | 2021-08-21 |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-05 |  |
-| [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-10 |  |
+| [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-10 | 2024-02-21 |
 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 | 2023-02-03 | 2024-02-17 |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/3tAQPcaksoaVhCEMoPxZEJ) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/album/1WAwuDACzHQWEef9ULmE4C) | 2:34 | 2021-08-07 | 2021-09-18 |
 | [Stupid Deep](https://open.spotify.com/track/7cK7hDrE7vAesPf8xd5zmb) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 2:58 | 2019-05-26\* | 2019-06-15 |

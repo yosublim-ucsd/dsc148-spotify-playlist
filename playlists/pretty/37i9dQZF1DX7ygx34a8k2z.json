@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 205346,
+  "num_followers": 205615,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTVlYmZmY2Y0YzFmOTA5ZTViNGQ1NjZlMDZhYmVlYzRlOWM1ZDM1",
+  "snapshot_id": "MCw4N2E3ZTNlNzkxYzEyZmFjMmIxNTk2NTg5MGM3NjliMmJkMzA3MjUw",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Without a Sound",
-        "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Jr.",
-          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Feel the Pain",
-      "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 198666,
       "name": "Iceblink Luck",
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Without a Sound",
+        "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "Feel the Pain",
+      "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Rites Of Passage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
-      },
-      "artists": [
-        {
-          "name": "Indigo Girls",
-          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Sparkle And Fade",
         "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
       },
@@ -1619,18 +1603,34 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+        "name": "Rites Of Passage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
       },
       "artists": [
         {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+      "duration_ms": 252960,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     }
   ],
   "unique_name": "Thrifted",

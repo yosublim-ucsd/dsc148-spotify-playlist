@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 207068,
+  "2024-02-21": 207091,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Denmark.",
   "name": "Top 50 - Denmark",
@@ -7279,7 +7279,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 136016,
       "name": "Et Sted Herude",
       "url": "https://open.spotify.com/track/1JmLigUb2yZUQgX93KbsuX"
@@ -13585,6 +13585,24 @@
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/2dvms4dMRVzFm6sVyropaA"
+      },
+      "artists": [
+        {
+          "name": "Basim",
+          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197055,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/5aCl4cqUHJbKoVn7hIuA0Q"
     },
     {
       "album": {
@@ -21372,6 +21390,24 @@
     },
     {
       "album": {
+        "name": "SAND",
+        "url": "https://open.spotify.com/album/4qvil8kYuHLOnW327paleO"
+      },
+      "artists": [
+        {
+          "name": "SABA",
+          "url": "https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180959,
+      "name": "SAND",
+      "url": "https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -23765,7 +23801,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 182816,
       "name": "STOR MAND (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"

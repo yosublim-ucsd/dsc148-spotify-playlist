@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 112291,
+  "num_followers": 112345,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWRkZmIzNGM3NWZhYWQ2YmUxYmE4MDA1NjhhNmQ1ZGQxZWE0N2Vl",
+  "snapshot_id": "MCw0YjIxYzUyZGI3N2U3NzhlNDQxMmE5OWUyN2ZmYmZjNGQxNmIwYzM2",
   "tracks": [
     {
       "added_at": "2023-12-22 15:53:28",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
-        "name": "Along The Way",
-        "url": "https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ"
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
       "artists": [
         {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 195176,
-      "name": "Meant For Me",
-      "url": "https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD"
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
     },
     {
       "added_at": "2023-12-22 15:53:28",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+        "name": "Along The Way",
+        "url": "https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 264006,
-      "name": "Jesus Christ 2005 God Bless America",
-      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+      "duration_ms": 195176,
+      "name": "Meant For Me",
+      "url": "https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

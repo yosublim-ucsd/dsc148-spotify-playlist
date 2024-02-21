@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,419 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,433 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 47 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
 | 48 | [Bestie](https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Bestie](https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE) | 2:54 |
 | 49 | [Still Believe In Love](https://open.spotify.com/track/4GrOIIi1EJqOmISTAlfFve) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [Still Believe In Love](https://open.spotify.com/album/0N3WiYZJtpKqmIQzIeEI7E) | 4:06 |
-| 50 | [Moments \(feat\. Justin Bieber\)](https://open.spotify.com/track/2WGdMsAZboyOiNhNx4dt82) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:33 |
+| 50 | [Moments](https://open.spotify.com/track/2WGdMsAZboyOiNhNx4dt82) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:33 |
 | 51 | [4am](https://open.spotify.com/track/1yM0dE07jBAkAYKQHzaInk) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [4am](https://open.spotify.com/album/6JEJjc8OLNOPzUnc8AkfVR) | 3:33 |
 | 52 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 |
 | 53 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Call My Name](https://open.spotify.com/track/6PvlwHIjZKFjEvCyZbb86i) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Call My Name](https://open.spotify.com/album/1tdzxoaEx4CBftJrZ06X8B) | 3:37 |
 | 75 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 
-Snapshot ID: `MCw2ZjM5N2IyYzU3Njk3YzgyOTE2MWQwZDNmNWQxMzRmNjk1YzlmZTIy`
+Snapshot ID: `MCxjZDdlZTg3ODRlZjU5NTQ1OWNmMGQ5NDFkOTY0ZjFlMTZlZWQzZGFm`

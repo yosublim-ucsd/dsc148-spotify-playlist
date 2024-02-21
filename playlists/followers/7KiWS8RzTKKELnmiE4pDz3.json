@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 1,
+  "2024-02-21": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -5893,6 +5893,24 @@
       "duration_ms": 192213,
       "name": "Like This (feat. Lil Uzi Vert, Destroy Lonely)",
       "url": "https://open.spotify.com/track/1DypGkTryeH4cPFBVucxo4"
+    },
+    {
+      "album": {
+        "name": "Osama Season",
+        "url": "https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132035,
+      "name": "Lil O",
+      "url": "https://open.spotify.com/track/4XQYw27IBSTWlqedgSBovL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Abby Sage
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,734 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,736 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 |
 | 100 | [While You Wait](https://open.spotify.com/track/6VNsdDlsgWEhGfpeoc1UZW) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [While You Wait](https://open.spotify.com/album/6KyO7Mb9QnUSwm9hxVXWph) | 4:58 |
 
-Snapshot ID: `MCwxYzdlZjhhNDdmMzNkMDk3YTMzM2VlYTQzMjQzOWViNWU5OGQ3OGE5`
+Snapshot ID: `MCwwZDVlNDUzNDdjYjg0MDVkNGM0Nzc0NDM1NjRiYzM2NTY2YmUwMzc0`

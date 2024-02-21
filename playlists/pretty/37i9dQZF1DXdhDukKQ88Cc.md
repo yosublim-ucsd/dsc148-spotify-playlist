@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det største dk rap lige nu.\. <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a>  og <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Jamz</a> har den 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,874 likes - 68 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,893 likes - 68 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 67 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 |
 | 68 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCw1YmYxZmVhYTA1YWQ1Y2VlMTAxNWJjYmQ5ZWIwNmJjYzAwYWUwNTQx`
+Snapshot ID: `MCw1YWU1ZmZhZjU5OThmYzg4N2MzYTU1ZTYwM2E0NDNhODM2MGJiNTVj`

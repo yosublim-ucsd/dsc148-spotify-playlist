@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 62113,
+  "2024-02-21": 62184,
   "date_first_scraped": "2022-10-01",
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
   "name": "Be Lifted ",
@@ -2397,6 +2397,24 @@
       "duration_ms": 446000,
       "name": "I Stand Amazed - Live in Concert",
       "url": "https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX"
+    },
+    {
+      "album": {
+        "name": "I will pray",
+        "url": "https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170631,
+      "name": "I will pray",
+      "url": "https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv"
     },
     {
       "album": {
@@ -4945,7 +4963,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 193890,
       "name": "Tate",
       "url": "https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi"

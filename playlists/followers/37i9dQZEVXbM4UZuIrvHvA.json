@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 4142,
+  "2024-02-21": 4145,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - UAE.",
   "name": "Top 50 - UAE",
@@ -777,7 +777,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -8349,7 +8349,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -12229,7 +12229,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 203520,
       "name": "Koi Si",
       "url": "https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6"
@@ -20797,7 +20797,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -22051,6 +22051,24 @@
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 n\u00e3o dou meu celular",
+        "url": "https://open.spotify.com/album/5Q9X5b2s3zeKjskcXzSs2l"
+      },
+      "artists": [
+        {
+          "name": "Vitor Amaral",
+          "url": "https://open.spotify.com/artist/5BR3g7k0JOUJFIwnJsYpuT"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116818,
+      "name": "S\u00f3 n\u00e3o dou meu celular",
+      "url": "https://open.spotify.com/track/0HBhrMK1qmOKA2ZLFv2YmU"
     },
     {
       "album": {
@@ -25647,7 +25665,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

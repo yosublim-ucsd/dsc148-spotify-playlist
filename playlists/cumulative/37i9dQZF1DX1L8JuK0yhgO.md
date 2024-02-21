@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-3,040 songs - 6 day 23 hr 35 min
+3,041 songs - 6 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,7 +708,8 @@
 | [Electric Shock](https://open.spotify.com/track/771be4lJGzSLoJ0yDOWAAz) | [SNEYAMA69](https://open.spotify.com/artist/2QRkunZSiiab96YPi2J7Gr) | [369](https://open.spotify.com/album/6XHbbRZscJAOIxmT1CJiQs) | 2:06 | 2023-06-12 | 2023-06-19 |
 | [ELECTRONIC FREEEEE!!!](https://open.spotify.com/track/14qoo6TcHkiPjtsyTPJLw0) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [ELECTRONIC FREEEEE!!!](https://open.spotify.com/album/0DN8JKzRWnA16f80Pk1nWr) | 3:17 | 2023-09-04 | 2023-09-11 |
 | [elevator music](https://open.spotify.com/track/1YEjIkXp49l8A313uQrg99) | [aTTn](https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr), [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys), [ji2kia](https://open.spotify.com/artist/3GQDZKgxLoczcwbHY9tgY0) | [A.I\. AI](https://open.spotify.com/album/6m2t3CyOXgxYDX7Hh82Y1E) | 3:01 | 2023-07-02 | 2023-07-10 |
-| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-18 |  |
+| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-18 | 2024-02-21 |
+| [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 | 2024-02-18 |  |
 | [emotion](https://open.spotify.com/track/0uxG3qgAzoTqZkJDA8GGtH) | [aryy](https://open.spotify.com/artist/4Zk5qOGzxR0iPsKTO63VRK) | [emotion](https://open.spotify.com/album/5czQIskXGqIET6MgOzetrF) | 1:41 | 2023-08-28 | 2023-09-04 |
 | [emotion](https://open.spotify.com/track/7vz4LQ7kjQaBnqlVEExvnH) | [okudakun](https://open.spotify.com/artist/68PyDKhJdbocAHfwTKb3t6), [lazydoll](https://open.spotify.com/artist/7D7a6cnpitkgKgz4bJDYy6) | [Ιαπωνία](https://open.spotify.com/album/2YVb778D7h60zdg5LcetUz) | 1:49 | 2023-07-10 | 2023-07-17 |
 | [Emotions](https://open.spotify.com/track/0OFHaWfjf0pHNPJ0WpRwp2) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Emotions](https://open.spotify.com/album/65eCg0hcp4tYPApfaYvL1B) | 3:19 | 2023-06-05 | 2023-06-13 |
@@ -2804,7 +2805,7 @@
 | [それから、どうする](https://open.spotify.com/track/5NmFVMxtf0AXdHdBB56T1h) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [それから、どうする](https://open.spotify.com/album/5wlDqg9Vv7Avd2MoQbDyLV) | 5:11 | 2023-10-30 | 2023-11-06 |
 | [たぶんね](https://open.spotify.com/track/0Ymknc04LIHS5IJHJQrYUE) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [たぶんね](https://open.spotify.com/album/4nwTBq2sJoEHYI1gTGWcsZ) | 2:31 | 2024-02-04 | 2024-02-12 |
 | [だから一枚だけ盗んだ](https://open.spotify.com/track/27WhbKbnTEvasEAQnbKrWk) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [だから一枚だけ盗んだ](https://open.spotify.com/album/7LWER07geEsfs08LcPXzlY) | 2:45 | 2023-04-23 | 2023-05-02 |
-| [ときめき](https://open.spotify.com/track/6YfFksjNc28hZfcz2xst8k) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [恋愛](https://open.spotify.com/album/4a4n3o292xrmAzsEPauPQO) | 3:14 | 2024-02-18 |  |
+| [ときめき](https://open.spotify.com/track/6YfFksjNc28hZfcz2xst8k) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA), [Mario Caldato Jr.](https://open.spotify.com/artist/2zfOOSDsI5BbmpNeu6Usrr) | [恋愛](https://open.spotify.com/album/4a4n3o292xrmAzsEPauPQO) | 3:14 | 2024-02-18 |  |
 | [ときめきを教えて](https://open.spotify.com/track/2e9Xouw2euVfmRuehC6QM6) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [ときめきを教えて](https://open.spotify.com/album/64mQ3crgXIy4yEHFaJlzei) | 4:19 | 2023-08-06 | 2023-08-14 |
 | [とりあえず一本吸ってから考えよう](https://open.spotify.com/track/5eRMXD6gyXjfz6ZpKE2GxK) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [YAMATO HAZE](https://open.spotify.com/artist/5Palu02Jsiu9At8C7naFH1) | [とりあえず一本吸ってから考えよう](https://open.spotify.com/album/3ORuR68C2lOYvtFX0csp0R) | 3:25 | 2023-09-11 | 2023-09-12 |
 | [どこへも行かないで](https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [どこへも行かないで](https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ) | 2:44 | 2023-04-23 | 2023-05-02 |

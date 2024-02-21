@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Belling Cat](https://open.spotify.com/track/4AaUDNce4PKKE2v4IO0ZkF) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [Belling Cat](https://open.spotify.com/album/4yFi2J0Gt55e7E7nhCOrMD) | 3:18 | 2023-11-21 |  |
-| [daydream](https://open.spotify.com/track/7cm4KXmoIs4tTSdUHzvy7l) | [Float 11](https://open.spotify.com/artist/564KJYYv7gvAVCqY7E51VU) | [Daydream](https://open.spotify.com/album/6v4fMr9nZlWJ8xOILVtR4s) | 2:56 | 2023-11-21 |  |
+| [daydream](https://open.spotify.com/track/7cm4KXmoIs4tTSdUHzvy7l) | [Float 11](https://open.spotify.com/artist/5KGGeaVDbMLuJud8ljGpJi) | [Daydream](https://open.spotify.com/album/6v4fMr9nZlWJ8xOILVtR4s) | 2:56 | 2023-11-21 |  |
 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 | 2023-11-21 |  |
 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 | 2023-11-21 |  |
 | [fuwarin](https://open.spotify.com/track/3B7wgtlmTXGfAiMRnq1NmS) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Kamisori Otome](https://open.spotify.com/album/2GatVW3cnHi3riWYrr6rQh) | 3:30 | 2023-11-21 |  |

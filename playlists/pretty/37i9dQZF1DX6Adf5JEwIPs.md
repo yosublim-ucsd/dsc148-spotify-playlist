@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Herencia de Patrones
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,733 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,824 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Te Ves Tan Bien](https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Ves Tan Bien](https://open.spotify.com/album/16iG0rwdDy5fETPFjiDzth) | 2:53 |
 | 50 | [C.H.S.M](https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [C.H.S.M](https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg) | 2:18 |
 
-Snapshot ID: `MCxiMjRjMmNlZWU2ZGE2ZWFiZGYxYWViZDhhZTcxYmI3MTg3MjMxMDNk`
+Snapshot ID: `MCxmYjI4NDE0N2EwNjM5ODBiMGNkYjdhNmFjYWNkOWZjOGQ5YmE5YzY2`

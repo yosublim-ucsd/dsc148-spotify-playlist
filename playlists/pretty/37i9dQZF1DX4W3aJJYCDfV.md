@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dua Lipa, Calvin Harris, IDLES and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,011 likes - 135 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,041 likes - 135 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 134 | [a little love for myself](https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [a little love for myself](https://open.spotify.com/album/1x8VAK3gdCGOrSY1tNCKUN) | 3:29 |
 | 135 | [Powerful Women](https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Trackhouse \(Daytona 500 Edition\)](https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q) | 2:45 |
 
-Snapshot ID: `MCw2ZjExNzkwNDJmZWFiZjA1OWZkZTU4MzFkYWFiZTc0YTFlZjQyZTU2`
+Snapshot ID: `MCw0Y2UxZjI4NWU2ODRiODFmNDhiNTc1YTQwOGM3MTZjNzY5MjlkMzJl`

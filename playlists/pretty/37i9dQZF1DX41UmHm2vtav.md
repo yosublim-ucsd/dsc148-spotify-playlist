@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,889 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,971 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
 | 70 | [Foreplay \- Radio Edit](https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA) | [Flowavez](https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Foreplay \(Radio Edit\)](https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra) | 2:57 |
 
-Snapshot ID: `MCxmOWFmNmJjNmM4YmZhNjExNGI1YjM1ZWE3Mjg5MGQ4NmJkZjQ3OTY5`
+Snapshot ID: `MCxkNDZkMzRmMzU5ZjM2NDQ0ZGE5OGZjNzU5MjJmZGZhOTQwZmVlMWRh`

@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 614670,
+  "2024-02-21": 614703,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Sweden.",
   "name": "Top 50 - Sweden",
@@ -1103,6 +1103,24 @@
       "duration_ms": 207348,
       "name": "Aldrig igen",
       "url": "https://open.spotify.com/track/6uIHeEOcs6h8YORcsjt3fg"
+    },
+    {
+      "album": {
+        "name": "Aldrig mer",
+        "url": "https://open.spotify.com/album/0rAp2vklRXsBHENrw4kmjB"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184276,
+      "name": "Aldrig mer",
+      "url": "https://open.spotify.com/track/6g03qX85qYtyvEsTvEmfqb"
     },
     {
       "album": {
@@ -7113,7 +7131,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 193384,
       "name": "DOPAMIN",
       "url": "https://open.spotify.com/track/23zOf0Zwi7rfIiBgZsi84w"
@@ -10604,6 +10622,24 @@
     },
     {
       "album": {
+        "name": "F\u00f6r Dig",
+        "url": "https://open.spotify.com/album/4MY82UcP4z4ozZqfMRCaSy"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163186,
+      "name": "F\u00f6r Dig",
+      "url": "https://open.spotify.com/track/0IKIz4G3os1faKY3GjLk3C"
+    },
+    {
+      "album": {
         "name": "F\u00f6r Evigt",
         "url": "https://open.spotify.com/album/1nw8NdjGsc5dyfvXedPawH"
       },
@@ -12071,7 +12107,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 142448,
       "name": "G\u00c5RDSB\u00d6G",
       "url": "https://open.spotify.com/track/15bpfAQPFdJqu13tPruMTI"
@@ -13265,7 +13301,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 158918,
       "name": "Hj\u00e4rta",
       "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
@@ -14243,6 +14279,24 @@
       "duration_ms": 172363,
       "name": "I Want to Be Loved",
       "url": "https://open.spotify.com/track/4e5rqBjv4NfpVEeyMuWzFT"
+    },
+    {
+      "album": {
+        "name": "I Won't Shake (La La Gunilla)",
+        "url": "https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC"
+      },
+      "artists": [
+        {
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179798,
+      "name": "I Won't Shake (La La Gunilla)",
+      "url": "https://open.spotify.com/track/1ZZg7lCb29LApbbk8iNmId"
     },
     {
       "album": {
@@ -15729,7 +15783,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 120944,
       "name": "John Snow",
       "url": "https://open.spotify.com/track/6fulMfMC4B5S52YaAhdnmF"
@@ -18405,7 +18459,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -18485,7 +18539,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 133953,
       "name": "LUV",
       "url": "https://open.spotify.com/track/1Po4yqRfd8FywRnbv5XQfR"
@@ -27445,7 +27499,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
@@ -28163,7 +28217,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 166216,
       "name": "Stj\u00e4rnorna",
       "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
@@ -29309,6 +29363,24 @@
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
+    },
+    {
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/08W5cB0Uv3QNij1Lqqo8mk"
+      },
+      "artists": [
+        {
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180127,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/3mSYbKu15KIVRR7NsnagjF"
     },
     {
       "album": {

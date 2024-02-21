@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: ONLEE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,482 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,508 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 15 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 16 | [Over \(feat\. Minna Seo\)](https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [Over \(feat\. Minna Seo\)](https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh) | 3:49 |
 | 17 | [Circle \(Feat\. Demian Love\)](https://open.spotify.com/track/4p3CNPNKYOqzCBd8uQKqA9) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Demian Love](https://open.spotify.com/artist/39ilK8sp48AGEp3Zd3mBf6) | [Circle](https://open.spotify.com/album/2nlTltFuBMgB5dDsuf6dEF) | 2:40 |
-| 18 | [Nightmare \(feat\. Plo6, Stay.d & O RO\)](https://open.spotify.com/track/5gOsBcGDog5XvleJjOFz02) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa), [Stay.d](https://open.spotify.com/artist/2pLNWAWPJJwM2r2zfDinLZ), [O RO](https://open.spotify.com/artist/3bYQBVXWRrgRQpi0BjSy9n) | [The moment I loved](https://open.spotify.com/album/0kGEApRuPVl76yI8cJbXQn) | 2:40 |
+| 18 | [Nightmare \(feat\. Plo6, Stay.d & O RO\)](https://open.spotify.com/track/5gOsBcGDog5XvleJjOFz02) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa), [sdy](https://open.spotify.com/artist/2pLNWAWPJJwM2r2zfDinLZ), [O RO](https://open.spotify.com/artist/3bYQBVXWRrgRQpi0BjSy9n) | [The moment I loved](https://open.spotify.com/album/0kGEApRuPVl76yI8cJbXQn) | 2:40 |
 | 19 | [100th](https://open.spotify.com/track/3gjAdooisgtbRWjte2k80t) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [100th](https://open.spotify.com/album/7thXuFWxXkNrYx6jL0RIPX) | 4:13 |
 | 20 | [Don't Say \(feat\. Kid Milli\)](https://open.spotify.com/track/7r5aWRSv5sUg9uhehASb04) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Don't Say](https://open.spotify.com/album/5fmxVDAV3uX0RmdRZljMox) | 2:31 |
 | 21 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [Mean](https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Mean](https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs) | 3:27 |
 | 51 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
 
-Snapshot ID: `MCw2YzBlODI4M2ZjOWM3MGQ0MDJkMDI0NTU5YTIzMWFjMTcxNjMwMzE2`
+Snapshot ID: `MCxlNTg5YTlkNDcyOGIwOTRjYmZlMzRlZTRlZDNiNjFiODY0NmE5ODJm`

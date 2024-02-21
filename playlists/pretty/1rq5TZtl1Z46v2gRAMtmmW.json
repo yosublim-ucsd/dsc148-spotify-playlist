@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29237,
+  "num_followers": 29246,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzYyNyw0NjFhNTI4OGUxYzk0M2NiMzU3MjBiZWE2ZjViOWUwMTExYzE3MzU0",
+  "snapshot_id": "MzYyOCw3YTljNmY3NTA1NjhiMzkzYTEyMjU0ZTRjZmIzOWVkYjQyNTcwZGU2",
   "tracks": [
     {
       "added_at": "2024-02-02 19:20:30",
@@ -735,6 +735,22 @@
       "duration_ms": 224204,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
+    },
+    {
+      "added_at": "2024-02-20 17:59:46",
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

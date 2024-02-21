@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with UnityTX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,677 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,821 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 |
 | 50 | [It All Comes Down](https://open.spotify.com/track/6LtwJPYUY7NTrN6HxytepY) | [Kaosis](https://open.spotify.com/artist/1G5YCahIziZdTa1YQkVSu7), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2), [SID](https://open.spotify.com/artist/0lXoanKv5FWNS0o73XTGgP) | [It All Comes Down](https://open.spotify.com/album/0TDbRYQYhtWJeXdNxNWoj8) | 4:54 |
 
-Snapshot ID: `MCwwMzE1OTRkNmRkZmFhZTZkMmE4YTE1OTgyZDIwODM1OWUzNTk3MGMw`
+Snapshot ID: `MCw5MjBkNmNjNmQyNzk0N2ZhZTI2NjEwNWU4Yjc2ZGYwYjBmMjc4MjFk`

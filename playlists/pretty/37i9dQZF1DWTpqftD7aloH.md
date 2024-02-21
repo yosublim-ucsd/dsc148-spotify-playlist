@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,129 likes - 120 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,306 likes - 120 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Como Na Primeira Vez](https://open.spotify.com/track/15fLtBpGonhnP1Lxd6fq6v) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol\. 2\)](https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S) | 5:21 |
 | 120 | [Todo Poderoso \- Ao Vivo](https://open.spotify.com/track/7Ko5h3XvOo2u9qr0XkgHdH) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/album/6sjQlKkjVXB4sYYs9Z4gdn) | 5:14 |
 
-Snapshot ID: `MCw0ZjM3OTlmNDUzZTA5YjFlYTZmNTFmMjM0YWEwNjMwYzgyZDQ0ZTgx`
+Snapshot ID: `MCw5Njk3Nzk3NTYzYzI1MDgyYzRjYmMyMTVhZTUzM2I5OTQ0MTllYzZk`

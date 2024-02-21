@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-282 songs - 15 hr 18 min
+283 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [ONTI NANU](https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN) | [ONTI NANU](https://open.spotify.com/album/2iHf6Om8Dd3tBr0u9McvYf) | 4:30 | 2024-02-08 | 2024-02-20 |
 | [Pakshi](https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/6jvpwdvIC7KR6MbD5vEFHl) | 2:57 | 2023-07-14 | 2024-02-15 |
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 | 2024-01-05 |
-| [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 | 2023-11-14 |  |
+| [Parashuram](https://open.spotify.com/track/3I7elSzdAYqPovLgNe5V6D) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/5ZdIgrGncQ7ojJCgfZ4YiN) | 4:09 | 2023-11-14 |  |
+| [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 | 2023-11-14 | 2024-02-21 |
 | [Pataki Cypher](https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Pataki Cypher](https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0) | 2:40 | 2023-11-20 | 2024-02-17 |
 | [Plz Worry](https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Plz Worry](https://open.spotify.com/album/1ioeFt8iKr7I7oWltSw67o) | 5:52 | 2024-02-01 |  |
 | [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 |  |

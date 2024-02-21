@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "Ahenfo Kyiniye",
+        "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        },
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265186,
+      "name": "Gyabi Wu a Gyabi Te Ase",
+      "url": "https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG"
+    },
+    {
+      "album": {
         "name": "Me Ma Afa Wotrim Ne",
         "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
       },

@@ -296,6 +296,24 @@
     {
       "album": {
         "name": "BABY",
+        "url": "https://open.spotify.com/album/3quP6KJkQmzJFgsqs90SQZ"
+      },
+      "artists": [
+        {
+          "name": "Kishore krishnan",
+          "url": "https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241787,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/1eoGNzdH9PaRwcQzUpzg2N"
+    },
+    {
+      "album": {
+        "name": "BABY",
         "url": "https://open.spotify.com/album/7mbfRQQQOPFYdHnPdPcYNM"
       },
       "artists": [
@@ -306,7 +324,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 241787,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7L61JVdJQ5ExbmQ1WSnoPY"
@@ -1812,6 +1830,24 @@
     {
       "album": {
         "name": "Kannadi Kaadhal",
+        "url": "https://open.spotify.com/album/68W8QRoknzyEaCa29pChdZ"
+      },
+      "artists": [
+        {
+          "name": "Sharan Musician",
+          "url": "https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77060,
+      "name": "Kannadi Kaadhal",
+      "url": "https://open.spotify.com/track/0QQFLawqnCCkakWlVjoNH2"
+    },
+    {
+      "album": {
+        "name": "Kannadi Kaadhal",
         "url": "https://open.spotify.com/album/4JrXLB4Hd01QUkT717ZLX6"
       },
       "artists": [
@@ -1822,7 +1858,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 77060,
       "name": "Kannadi Kaadhal",
       "url": "https://open.spotify.com/track/47WrhLnsR1m70M12EVhuiq"
@@ -2152,6 +2188,28 @@
     {
       "album": {
         "name": "Love Rocket",
+        "url": "https://open.spotify.com/album/50bL13u1oYiYzD8YNpz7DP"
+      },
+      "artists": [
+        {
+          "name": "Yokesh Ravilla",
+          "url": "https://open.spotify.com/artist/5AhtI9OadgjCSkFvNpUGsR"
+        },
+        {
+          "name": "Sathish K",
+          "url": "https://open.spotify.com/artist/1A5uByEnQ5Qhim7K8CfPhC"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192017,
+      "name": "Love Rocket",
+      "url": "https://open.spotify.com/track/62ciz7tjMbFcJ362IvYkIq"
+    },
+    {
+      "album": {
+        "name": "Love Rocket",
         "url": "https://open.spotify.com/album/4QRLuH6CpWycgOSdFgCItM"
       },
       "artists": [
@@ -2166,7 +2224,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 192017,
       "name": "Love Rocket",
       "url": "https://open.spotify.com/track/6XGJ92Wy1U8w7KOGJnVSMA"
@@ -2932,6 +2990,28 @@
     {
       "album": {
         "name": "Oh Penne",
+        "url": "https://open.spotify.com/album/3bm1opjPl4lY3EJh8yW9SZ"
+      },
+      "artists": [
+        {
+          "name": "SKN Sona",
+          "url": "https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf"
+        },
+        {
+          "name": "Snehaa Sesh",
+          "url": "https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255999,
+      "name": "Oh Penne",
+      "url": "https://open.spotify.com/track/14VjnMSZqC2hA8dIXMeBzi"
+    },
+    {
+      "album": {
+        "name": "Oh Penne",
         "url": "https://open.spotify.com/album/3LsdoeaD3w9t12wWjQ8Hkr"
       },
       "artists": [
@@ -2946,7 +3026,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 255999,
       "name": "Oh Penne",
       "url": "https://open.spotify.com/track/2ONbOG4fGuX6fS4HhIy3ia"

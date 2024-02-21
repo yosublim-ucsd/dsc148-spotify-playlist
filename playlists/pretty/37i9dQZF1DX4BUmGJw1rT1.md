@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,422 likes - 150 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,434 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,18 +145,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 135 | [The Man I Ought To Be](https://open.spotify.com/track/0iMbe85OzernkDXLzGZ37e) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:46 |
 | 136 | [Feel](https://open.spotify.com/track/5V8ofCBuw6EmhOvmvZc18Z) | [Yasmine Gill](https://open.spotify.com/artist/3lUHHWVDBZVXnh1JCZ8P5I) | [Feel](https://open.spotify.com/album/66k33fj9TsE9XXcipKoSTh) | 3:51 |
 | 137 | [I'll Be There Waiting](https://open.spotify.com/track/2VqS4goWQHF6Gf9H5QykuH) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e) | 3:15 |
-| 138 | [All Afternoon](https://open.spotify.com/track/2bHH3I9iNj9fGJ65v84SmS) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [All Afternoon](https://open.spotify.com/album/2gJjnxF6adR6zRffq45eXy) | 4:07 |
-| 139 | [Lost Count \- Live](https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa) | [Ebba Forsberg](https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk) | [Live](https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2) | 2:29 |
-| 140 | [Mississippi](https://open.spotify.com/track/61afTyjnWQ0q4cQXg4av0f) | [Mitch Grainger](https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G) | [Mississippi](https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC) | 3:28 |
-| 141 | [Oh Betty \- Acoustic](https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty \(Acoustic\)](https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr) | 4:06 |
+| 138 | [Lost Count \- Live](https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa) | [Ebba Forsberg](https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk) | [Live](https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2) | 2:29 |
+| 139 | [Mississippi](https://open.spotify.com/track/61afTyjnWQ0q4cQXg4av0f) | [Mitch Grainger](https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G) | [Mississippi](https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC) | 3:28 |
+| 140 | [Oh Betty \- Acoustic](https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty \(Acoustic\)](https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr) | 4:06 |
+| 141 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 |
 | 142 | [Hear My Prayer](https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:50 |
-| 143 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 |
-| 144 | [Easiest Thing](https://open.spotify.com/track/3Y7yfpUKrXsOfNGTh5ayEF) | [Harrison Kennedy](https://open.spotify.com/artist/3VhLy0vBgFArC1TC71KmBB), [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Thanks for Tomorrow](https://open.spotify.com/album/0aJA4yHrcJvWvr7PNEkMYM) | 3:39 |
-| 145 | [Fault Line](https://open.spotify.com/track/0H6gY8B8XmpFsAvlDwijUQ) | [HeavyDrunk](https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp) | [Fault Line](https://open.spotify.com/album/7fepSBCM3xorBhjlVoXBSs) | 3:44 |
-| 146 | [Just Like New](https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 4:20 |
-| 147 | [West Coast Eyes](https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [West Coast Eyes](https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC) | 4:05 |
-| 148 | [The World's In A Bad Situation](https://open.spotify.com/track/7s2GbffwL8VJd86wYczOM4) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Bob Corritore & Friends: You Shocked Me](https://open.spotify.com/album/7EnTLUXW9ey00eet0higLW) | 3:22 |
-| 149 | [My Skin](https://open.spotify.com/track/4a1LcS2pg4MyF2XaH9NPnZ) | [Ryan Marshall & Jemma O'Neill](https://open.spotify.com/artist/1mJVFLQvZcWtz10bCx88Oq) | [Greener Side E.P.](https://open.spotify.com/album/2Nv5axlrGPVAKusAI2ulPy) | 3:58 |
-| 150 | [Hold On \(Joy Is Coming\)](https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ) | [The Harlem Gospel Travelers](https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft) | [Look Up!](https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK) | 2:52 |
+| 143 | [Easiest Thing](https://open.spotify.com/track/3Y7yfpUKrXsOfNGTh5ayEF) | [Harrison Kennedy](https://open.spotify.com/artist/3VhLy0vBgFArC1TC71KmBB), [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Thanks for Tomorrow](https://open.spotify.com/album/0aJA4yHrcJvWvr7PNEkMYM) | 3:39 |
+| 144 | [Fault Line](https://open.spotify.com/track/0H6gY8B8XmpFsAvlDwijUQ) | [HeavyDrunk](https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp) | [Fault Line](https://open.spotify.com/album/7fepSBCM3xorBhjlVoXBSs) | 3:44 |
+| 145 | [Just Like New](https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 4:20 |
+| 146 | [West Coast Eyes](https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [West Coast Eyes](https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC) | 4:05 |
+| 147 | [The World's In A Bad Situation](https://open.spotify.com/track/7s2GbffwL8VJd86wYczOM4) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Bob Corritore & Friends: You Shocked Me](https://open.spotify.com/album/7EnTLUXW9ey00eet0higLW) | 3:22 |
+| 148 | [My Skin](https://open.spotify.com/track/4a1LcS2pg4MyF2XaH9NPnZ) | [Ryan Marshall & Jemma O'Neill](https://open.spotify.com/artist/1mJVFLQvZcWtz10bCx88Oq) | [Greener Side E.P.](https://open.spotify.com/album/2Nv5axlrGPVAKusAI2ulPy) | 3:58 |
+| 149 | [Hold On \(Joy Is Coming\)](https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ) | [The Harlem Gospel Travelers](https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft) | [Look Up!](https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK) | 2:52 |
+| 150 | [THOUSAND STRINGED INSTRUMENT](https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6) | [THE DAWN LIGHT](https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A) | [THOUSAND STRINGED INSTRUMENT](https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD) | 5:29 |
 
-Snapshot ID: `MCxhNjUxNDg5M2RiYTBmYWRjNjQ1MjZhYzNlN2EwMDA3ZmMyNGEyYzg4`
+Snapshot ID: `MCwwNzUxMDEyZjg3YzgxZTI4MmIxYjcyMGMxZTNiMDZjZTM2NDgyYjg3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,665 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,674 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Noche Temática](https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9) | [Noche Temática](https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX) | 3:39 |
 | 100 | [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 |
 
-Snapshot ID: `MCw4NzgxN2M2MTg4ZTdhZmM1OTg2Y2IwOWYxNTQ0ZDc3M2VjZGVmNzVl`
+Snapshot ID: `MCw0MDZhMjM3ZjExZjkwNzIwNTBiMmI3YjlkMGFlZWNiZmI5YTQ1ZTRi`

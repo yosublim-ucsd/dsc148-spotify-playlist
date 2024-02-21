@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,705 likes - 87 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,750 likes - 87 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 82 | [Collide](https://open.spotify.com/track/0dWy5gz8IwvIyJEHOPKwKU) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 5:38 |
 | 83 | [Paperthin Hymn](https://open.spotify.com/track/6VSmHLLvYAAkzrYFT3LloU) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:17 |
 | 84 | [Cold Cash And Cold Hearts](https://open.spotify.com/track/52eKlQVgqvdSzEUYDi3ihh) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 2:53 |
-| 85 | [Embers and Envelopes](https://open.spotify.com/track/1UEQUcL0XEpX3WLNFvv4uM) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/0KSoZMT7Q7q5nylNQnvtUa) | 4:18 |
+| 85 | [Embers and Envelopes](https://open.spotify.com/track/4z6BGfHtJHIhZi5XwX1gs3) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/0fvnUGEkf0weY58px7azoE) | 4:18 |
 | 86 | [Preacher's Kid](https://open.spotify.com/track/1MYeiUMvuupmhDqMqwM2tN) | [Johnny Q\. Public](https://open.spotify.com/artist/0TLrBAUaGIFgurLKPIPaCi) | [Extra Ordinary](https://open.spotify.com/album/3Ou72BgMUjJImE7s53V8iZ) | 3:59 |
 | 87 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
 
-Snapshot ID: `MCwxODY2MmE3OWRiNTdlNzRjOTJkMzNjY2IzMjA5N2FiNzY3NGNlNGUy`
+Snapshot ID: `MCwyZTQxYzg5MDFhOGQyNTM0MjA3NDI1NDk3YTU2MjcyYzNjZTBmMTVl`

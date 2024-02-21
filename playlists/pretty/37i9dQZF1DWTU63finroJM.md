@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon\. Cover: Blusher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,085 likes - 114 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,099 likes - 114 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 113 | [Assaji](https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 2:10 |
 | 114 | [idk](https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [tbh](https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym) | 2:41 |
 
-Snapshot ID: `MCxiMGJkODFlODkzZmNlMTM3MzYwMmUwYzBkZTNkN2NjYTdhNjIxMjc1`
+Snapshot ID: `MCw5NjlhZjI1NTVmNGMzZTQ5YTgxYTk0NjIwOWFkNWI4Mzg0MmUwNDJm`

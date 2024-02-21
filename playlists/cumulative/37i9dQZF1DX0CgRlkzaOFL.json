@@ -905,7 +905,7 @@
     },
     {
       "album": {
-        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX be Human\u300d",
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX\u3000be Human\u300d",
         "url": "https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7"
       },
       "artists": [
@@ -1354,6 +1354,24 @@
       "duration_ms": 168883,
       "name": "\u305d\u308c\u305e\u308c\u306e\u5c45\u5834\u6240\u306f",
       "url": "https://open.spotify.com/track/53qehEsM6WQvVvAN2c8QCv"
+    },
+    {
+      "album": {
+        "name": "\u85e4\u5b50\u30fbF\u30fb\u4e0d\u4e8c\u96c4 \u751f\u8a9590\u5e74\u8a18\u5ff5 CAF\u00c9 de FUJIKO\u30fbF\u30fbFUJIO MUSEUM",
+        "url": "https://open.spotify.com/album/1UYgLb8yvCv769iwYywT0X"
+      },
+      "artists": [
+        {
+          "name": "\u4eca\u4e95\u4eae\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/1Ogp4yK6RFM50S1RKqU21b"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "\u307c\u304f\u30c9\u30e9\u3048\u3082\u3093",
+      "url": "https://open.spotify.com/track/16sjh1TIXOwVnPX268XjWm"
     },
     {
       "album": {

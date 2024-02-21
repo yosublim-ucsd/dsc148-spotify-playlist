@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 129556,
+  "2024-02-21": 129591,
   "date_first_scraped": "2023-01-14",
   "description": "This is El Tri. The essential tracks, all in one playlist.",
   "name": "This Is El Tri",
@@ -209,6 +209,32 @@
       "duration_ms": 166920,
       "name": "Dif\u00edcil",
       "url": "https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs"
+    },
+    {
+      "album": {
+        "name": "El Blues del Diablo y la Enfermedad",
+        "url": "https://open.spotify.com/album/0OVHD0GuWAKGIlDDp1qVNq"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9 de Brujas",
+          "url": "https://open.spotify.com/artist/39BvzssARgDTZ1Kf0uqNfj"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "El Blues del Diablo y la Enfermedad",
+      "url": "https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d"
     },
     {
       "album": {
@@ -471,7 +497,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 223333,
       "name": "Libertad bajo fianza",
       "url": "https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q"

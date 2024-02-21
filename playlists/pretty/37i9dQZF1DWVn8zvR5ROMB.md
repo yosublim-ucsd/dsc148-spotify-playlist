@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Lainey Wilson, Tyler Hubbard, Warren Zeiders and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,086 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,292 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 58 | [I'd Be Lying](https://open.spotify.com/track/5BRaZzLcPgpRdxCLWCiJs3) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [I'd Be Lying](https://open.spotify.com/album/6lmT7RaunxpWkR5Hz3PtOe) | 2:39 |
 | 59 | [Situationship](https://open.spotify.com/track/6ulv7X7X7Tnr2N5Ahg03YD) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Situationship](https://open.spotify.com/album/2B4uzfndudPlmxxF6db3lz) | 2:50 |
 
-Snapshot ID: `MCxiMmUzYjMyMGUyNGY5NzJlOWQ1ZmFhOWE3YmVkYTY0YWNjN2U0NGU4`
+Snapshot ID: `MCxjMGQ3ZDRjZDE4NWMwYzE4OWVjOWY0NjVjMTlhNGMzNjE1OGIzMzJk`

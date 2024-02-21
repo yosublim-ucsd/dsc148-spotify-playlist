@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 25534,
+  "num_followers": 25667,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDQ0ZTU0ZDI0ZjVjM2Q3MDYyNmZiNWExNzFiMjY2MWJhZGM1Zjgz",
+  "snapshot_id": "MCw5ZjFkZjZjYzNjMDI0ZjcxMjBhOWIyY2RkNWNiNDBmZWQ2M2FkYmY4",
   "tracks": [
     {
       "added_at": "2020-07-23 21:45:59",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Give It To Me Baby",
-      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 252400,
       "name": "Hey Mr. D.J.",
       "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Give It To Me Baby",
+      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "The Gap Band IV",
-        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Outstanding",
-      "url": "https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Word Up",
@@ -1063,6 +1047,22 @@
       "duration_ms": 339933,
       "name": "Candy",
       "url": "https://open.spotify.com/track/0Aj8EagrPfDoOe5OlUdrLC"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "The Gap Band IV",
+        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Outstanding",
+      "url": "https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "The 12\" Collection And More (Funk Essentials)",
-        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "Outstanding - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Straight from the Heart (Remastered)",
@@ -1179,6 +1163,22 @@
       "duration_ms": 319893,
       "name": "Remind Me - Remastered",
       "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "The 12\" Collection And More (Funk Essentials)",
+        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
     },
     {
       "added_at": "2020-07-23 21:45:59",

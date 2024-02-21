@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,437 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,453 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 26 | [In Case of Emergency](https://open.spotify.com/track/3xtlXC1n2GCZR40JJK6Yi1) | [Sunaga T Experience](https://open.spotify.com/artist/3wk47tC10a5UfPokpH6lmj) | [A letter from allnighters](https://open.spotify.com/album/0QbIu0TSMlGnE5iBABtSeP) | 4:41 |
 | 27 | [Sol Levante](https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [Defying](https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq) | 3:28 |
 | 28 | [Sunset Song](https://open.spotify.com/track/50qbI8K3pKGAQcWYRVgGJB) | [Hidetake Takayama](https://open.spotify.com/artist/1g9ljMQR4hwkikhrk8vI2i) | [Asterism](https://open.spotify.com/album/1ZDhcZhZ1lskaJ5WmPIuht) | 5:39 |
-| 29 | [daydream](https://open.spotify.com/track/7cm4KXmoIs4tTSdUHzvy7l) | [Float 11](https://open.spotify.com/artist/564KJYYv7gvAVCqY7E51VU) | [Daydream](https://open.spotify.com/album/6v4fMr9nZlWJ8xOILVtR4s) | 2:56 |
+| 29 | [daydream](https://open.spotify.com/track/7cm4KXmoIs4tTSdUHzvy7l) | [Float 11](https://open.spotify.com/artist/5KGGeaVDbMLuJud8ljGpJi) | [Daydream](https://open.spotify.com/album/6v4fMr9nZlWJ8xOILVtR4s) | 2:56 |
 | 30 | [矛盾律](https://open.spotify.com/track/6HElez4VU04I0pcWYRFP6Z) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [矛盾律](https://open.spotify.com/album/2PeGs50Yd0FqvYZL3rr39d) | 4:53 |
 | 31 | [アブサン](https://open.spotify.com/track/15T8Cgslf1egP4NX3KVmKP) | [Greecelove](https://open.spotify.com/artist/4Tv5ODUYO9KGuLmv2KtJ9A) | [無・無・無・無・無](https://open.spotify.com/album/7r2MtOjyJKmrZjpaUZ59MG) | 3:35 |
 | 32 | [Yin And Yang](https://open.spotify.com/track/3xiQhLKL1MbH7uAZph543m) | [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd) | [freeform jazz](https://open.spotify.com/album/0Fjw0gKbYspFhPTtMVUJe4) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 49 | [Shinko](https://open.spotify.com/track/5re6UiqS8cjhzvEjSoa591) | [ihatemago](https://open.spotify.com/artist/4SMq39eDgIl79a7W2LFcmT), [Senritsu](https://open.spotify.com/artist/3Lgg4fqIYWtC0kYfYwqfMT) | [Shinko](https://open.spotify.com/album/66KVgNa64HVLJhTVmscg2z) | 3:41 |
 | 50 | [still have us MIDORI](https://open.spotify.com/track/2LOvCykYnLq90xaK02H2C2) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [Quarternote 2nd \- THE BEST OF ODANI MISAKO 1996\-2003 \-DIGITAL EDITION](https://open.spotify.com/album/2PlXlcCWNPv60W9TqMYnC9) | 4:12 |
 
-Snapshot ID: `MCxiMGZmZjMwZjYzMDkzNmVmOWNkMDM0YzAyNjBmNTBiNjgwMDkyNzFj`
+Snapshot ID: `MCxlN2I5YTJhMzA5YmMzMzAwMzdhMjBlNWZhNmQ4MWZmZWNhNzFiYjEw`

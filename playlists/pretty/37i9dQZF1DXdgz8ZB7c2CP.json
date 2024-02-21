@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring KU\u010cKA & Flume",
-  "num_followers": 765189,
+  "num_followers": 765204,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWNmOWFmNmUxMmNjNjQ5NzE5YTkzODdhZWZmMjY4ZjY0MWFkZmRk",
+  "snapshot_id": "MCwyZDQ0YzkwYWQ4NTVkZWNlOWI4YWM3MmJiMjliNTYyYzdhZTJhNDlj",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1263,26 +1263,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
         },
         {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
         }
       ],
-      "duration_ms": 231733,
-      "name": "Waiting (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1307,22 +1303,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
       "artists": [
         {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         },
         {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
+      "duration_ms": 231733,
+      "name": "Waiting (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Silver Thread Golden Needle",
-        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 596775,
-      "name": "Silver Thread Golden Needle",
-      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Deadbeats & Brownies - Drum & Bass Compilation",
         "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 217674,
       "name": "It's Our Destiny - IMANU Remix",
       "url": "https://open.spotify.com/track/1hpGoHU1fJDizORjFQIkJp"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Silver Thread Golden Needle",
+        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 596775,
+      "name": "Silver Thread Golden Needle",
+      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 221772,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "anywhere but here",
-        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
-      },
-      "artists": [
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "anywhere but here",
-      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 189517,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "BLEACH [Hi-Fi]",
         "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
       },
@@ -1727,22 +1747,6 @@
       "duration_ms": 180668,
       "name": "RUN INTO MY ARMS",
       "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Sd-2",
-        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1771,22 +1775,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+        "name": "Sd-2",
+        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
       },
       "artists": [
         {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
         }
       ],
-      "duration_ms": 189517,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+      "duration_ms": 128000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1803,26 +1803,6 @@
       "duration_ms": 181998,
       "name": "Skrt",
       "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/20FpYfQM3CE0lZ0hWSKetz"
-      },
-      "artists": [
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        }
-      ],
-      "duration_ms": 239220,
-      "name": "PRISM",
-      "url": "https://open.spotify.com/track/4v4EcZ7Yz50KaiAiDyFnDm"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1847,6 +1827,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/20FpYfQM3CE0lZ0hWSKetz"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "PRISM",
+      "url": "https://open.spotify.com/track/4v4EcZ7Yz50KaiAiDyFnDm"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Nobody Compares",
         "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
       },
@@ -1859,22 +1859,6 @@
       "duration_ms": 244000,
       "name": "Nobody Compares",
       "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "see u",
-        "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "see u",
-      "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1895,6 +1879,22 @@
       "duration_ms": 150909,
       "name": "pullmecloser",
       "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "see u",
+        "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "see u",
+      "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1935,26 +1935,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Aurora (Justin Hawkes Remix)",
-        "url": "https://open.spotify.com/album/7lym9DZABBsuh37cWosYFi"
+        "name": "Exodia",
+        "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
       "artists": [
         {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
         },
         {
-          "name": "Metrik",
-          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
         },
         {
-          "name": "Justin Hawkes",
-          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
         }
       ],
-      "duration_ms": 231232,
-      "name": "Aurora - Justin Hawkes Remix",
-      "url": "https://open.spotify.com/track/1D3aOZY8DLQ5faOuMAgW30"
+      "duration_ms": 175357,
+      "name": "Exodia",
+      "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
     }
   ],
   "unique_name": "creamy",

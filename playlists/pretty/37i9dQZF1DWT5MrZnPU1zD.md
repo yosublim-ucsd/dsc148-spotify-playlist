@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,673,586 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,673,646 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Okay Bet Pt\. 2 \(feat\. Skilla Baby\)](https://open.spotify.com/track/5ULeTthsfnh8av4MiKWHga) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Okay Bet Pt\. 2 \(feat\. Skilla Baby\)](https://open.spotify.com/album/48FhsqFEXciRzwi9cGp8Gz) | 2:39 |
 | 100 | [WTF \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [WTF \(feat\. Polo G\) \[Remix\]](https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL) | 2:53 |
 
-Snapshot ID: `MCxiOTEyMzA4ZGJmOWNjYmFkYjg2ZDg3OTBlOGZlMmNmYWRiNzU1MjY0`
+Snapshot ID: `MCw2OWYwZDliZjhlZjMxYTk0OWI5ZDhhOTFmMjYzYzAyZjU3Njk4NjZh`

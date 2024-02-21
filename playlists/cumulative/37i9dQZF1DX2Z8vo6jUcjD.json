@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "The Brightside",
+        "url": "https://open.spotify.com/album/6rTyh0riZAaLQNjJLKiloy"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216040,
+      "name": "The Brightside",
+      "url": "https://open.spotify.com/track/6WZizYcp3m2JWesnD7gaTE"
+    },
+    {
+      "album": {
         "name": "Come Over When You're Sober, Pt. 1",
         "url": "https://open.spotify.com/album/70LJ28NE9LV93xF2z6PiyN"
       },
@@ -420,7 +438,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 216040,
       "name": "The Brightside",
       "url": "https://open.spotify.com/track/7lbGqBMyCOK43hwY0Kcu7o"

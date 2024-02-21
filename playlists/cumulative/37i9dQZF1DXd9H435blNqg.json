@@ -2600,10 +2600,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 227300,
       "name": "Under the Big Top",
       "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
+    },
+    {
+      "album": {
+        "name": "Color Where You Are",
+        "url": "https://open.spotify.com/album/75r48cAcN4HJeVT7JE6XVN"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227346,
+      "name": "Under The Big Top",
+      "url": "https://open.spotify.com/track/1pP5BPqBK3Mm7PGywnJxP8"
     },
     {
       "album": {

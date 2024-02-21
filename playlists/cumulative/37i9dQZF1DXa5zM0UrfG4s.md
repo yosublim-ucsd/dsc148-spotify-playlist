@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-345 songs - 15 hr 52 min
+346 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 | 2022-07-28 |  |
 | [En Slant Til Trikken Hjem](https://open.spotify.com/track/3Ha6Sri0JqpiI8wb3vIzsY) | [Scandinavia](https://open.spotify.com/artist/5N3xjxgDYbxsAqEeB3OTSm) | [De Aller Beste](https://open.spotify.com/album/6ex4LgCUYXmoSyOUsW8NW7) | 3:34 | 2021-12-16 | 2022-04-20 |
 | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb) | [PAT49](https://open.spotify.com/artist/6p3M0KTYqaOs3aOmQ6iVMs), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO) | 2:09 | 2022-04-14 | 2022-08-25 |
-| [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 | 2021-12-16 |  |
+| [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 | 2021-12-16 | 2024-02-21 |
 | [Et Sted På Montebello](https://open.spotify.com/track/1CLFHU0oSSepQGeVPnaVHq) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Et Sted På Montebello](https://open.spotify.com/album/7kLuZ5vmzHc5i23SANRI6J) | 3:07 | 2021-12-16 | 2022-07-29 |
 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 | 2021-12-16 |  |
 | [Evig Ung](https://open.spotify.com/track/1JW9yOhRC3FKfaxTBcibQF) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Evig Ung](https://open.spotify.com/album/4qTGCjhUEuScaKYoHPq7k5) | 2:57 | 2021-12-16 | 2022-04-20 |
@@ -126,6 +126,7 @@
 | [Första Gången I En EPA](https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Första Gången I En EPA](https://open.spotify.com/album/0DjX2jGILQdifC55byMol6) | 2:35 | 2023-01-26 | 2024-02-16 |
 | [Født til å ragge](https://open.spotify.com/track/45GmUDEid9EZ6YA4nFjY0f) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Født til å ragge](https://open.spotify.com/album/3hHG7LGyNe2lgEsKhbFk9m) | 2:27 | 2021-12-16 | 2022-04-20 |
 | [Gamle helter](https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Gamle helter](https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl) | 3:28 | 2022-03-03 | 2022-07-29 |
+| [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 | 2024-02-15 |  |
 | [Gamlehjem](https://open.spotify.com/track/2RXKklb8MwRhH1nWE3YAha) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/4FZmPKmKFAabBVML03Edei) | 3:01 | 2021-12-16 | 2022-07-29 |
 | [Gamleveien](https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sputnik](https://open.spotify.com/artist/6Wp8wbTITUALiaIWUbfiob) | [Gamleveien](https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf) | 2:17 | 2023-03-30 |  |
 | [Gatebil](https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Gatebil](https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH) | 2:08 | 2022-07-03 | 2023-03-28 |

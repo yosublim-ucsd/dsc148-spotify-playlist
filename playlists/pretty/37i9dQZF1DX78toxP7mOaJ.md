@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,695 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,714 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 6 | [Weak Blood](https://open.spotify.com/track/3TZBWDjAStSMDSLKNxEdq2) | [Raue](https://open.spotify.com/artist/0N3GaGdqGJYLZTa6L04tuI) | [Weak Blood](https://open.spotify.com/album/2W6j6rTLJzlEfx1GuVfBGk) | 3:52 |
 | 7 | [Me and You](https://open.spotify.com/track/4nR1g8s1xK4JZ8FHcWuN5v) | [Vortxz](https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8), [Eucalyption](https://open.spotify.com/artist/52FqH2vaHDWjFwshT3jkjr) | [Me and You](https://open.spotify.com/album/0D8rqlxZRMoblUWXwjy11A) | 3:31 |
 | 8 | [So Long](https://open.spotify.com/track/1mQYvjPXigBBxEyM6VfPPp) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Stupid and Famous](https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0) | 1:54 |
-| 9 | [Microdose](https://open.spotify.com/track/52MUftJPRd3IQJ1q7DAEaY) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [microdose](https://open.spotify.com/album/4XZh11VvoX8ij09p4wN8nK) | 2:59 |
+| 9 | [microdose](https://open.spotify.com/track/52MUftJPRd3IQJ1q7DAEaY) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [microdose](https://open.spotify.com/album/4XZh11VvoX8ij09p4wN8nK) | 2:59 |
 | 10 | [Kids Wanna Dance](https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Kids Wanna Dance](https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS) | 3:24 |
 | 11 | [Trying](https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Trying](https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB) | 3:46 |
 | 12 | [Better Than Me](https://open.spotify.com/track/3Ef2bhdiJBgz8sX9Kd1tCE) | [SOAP](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V) | [Better Than Me](https://open.spotify.com/album/5AaWgbAWhFz72r9Lp5yHsw) | 3:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 100 | [Half Tank](https://open.spotify.com/track/6eeTmM6NgqFKxEyvbN8e5d) | [Wet Nights](https://open.spotify.com/artist/6KfM7n9lgcfBmiz9vrhqF3) | [Half Tank](https://open.spotify.com/album/2cNScKizCqLxWx4REOJ7BF) | 4:06 |
 | 101 | [Plateau](https://open.spotify.com/track/3VBNyssoLrTaLW1NAbibss) | [Hexmaze](https://open.spotify.com/artist/2RaLhh25Ct5KABbL3J332E) | [Plateau](https://open.spotify.com/album/1lVO4AstvS0S7tR1y8t9ko) | 4:42 |
 
-Snapshot ID: `MCxiNGEyYjQ3MGRiMjY0M2UxZDBmNTg5MzY0MTRmODM1YzkwODk2NDEx`
+Snapshot ID: `MCw1MjY1N2JmMTY0MWJkYWY0ZTQ0MDUzYTJkOTIzMWJiZjQyYTU2NGJm`

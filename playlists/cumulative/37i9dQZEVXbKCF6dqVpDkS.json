@@ -10326,7 +10326,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 160133,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
@@ -13166,6 +13166,24 @@
       "duration_ms": 185137,
       "name": "Jammer Dan",
       "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
+    },
+    {
+      "album": {
+        "name": "Jarig",
+        "url": "https://open.spotify.com/album/0VPNBuLYFEhaBv39DpkeXT"
+      },
+      "artists": [
+        {
+          "name": "Yverthug",
+          "url": "https://open.spotify.com/artist/1v2Bdrj3QXcJViY7l9U7QJ"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129868,
+      "name": "Jarig",
+      "url": "https://open.spotify.com/track/2VwWtKwBB0uSuNxUJCFYkH"
     },
     {
       "album": {

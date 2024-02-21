@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 42481,
+  "2024-02-21": 42504,
   "date_first_scraped": "2023-12-19",
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
   "name": "Cancionero Joss Favela",
@@ -2317,7 +2317,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 205146,
       "name": "Si Te Ven Conmigo",
       "url": "https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU"
@@ -2649,7 +2649,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 206928,
       "name": "Vas a Recordarme",
       "url": "https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9"

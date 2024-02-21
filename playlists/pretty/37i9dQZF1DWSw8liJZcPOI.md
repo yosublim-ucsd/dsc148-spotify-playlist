@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,115 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,280 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Familiar](https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Familiar](https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT) | 3:32 |
 | 100 | [Ave](https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [All I Need](https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51) | 4:07 |
 
-Snapshot ID: `MCwwNGMwMjY4NzhmNzk3ZjVkMTM0MGIzNDQ3OTY2YjcxZGEwYTgyYmZl`
+Snapshot ID: `MCwzMTlkMjUzZDA2MjU0ZmY5MGZiNjJjOTRlMTc1ZGRiMWExNjY5MmRk`

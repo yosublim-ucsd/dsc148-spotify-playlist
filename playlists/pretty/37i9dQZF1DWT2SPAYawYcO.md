@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,415 likes - 84 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,461 likes - 84 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 83 | [Foreign Substances](https://open.spotify.com/track/0PAqtNJVgBeoNtD5nwJEIn) | [Obscura Hail](https://open.spotify.com/artist/0p0gv7xNsCw60SPRrgfyTE) | [Foreign Substances](https://open.spotify.com/album/6l78HaKVE2I2Gfs3X8DNc3) | 3:02 |
 | 84 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 
-Snapshot ID: `MCxlNzcwN2Y3YzU1NzRjNzU5NGFkNzkyNTJmZjk3OTEzOTdmYWFiMTg3`
+Snapshot ID: `MCxlNDUzOWM5MTg5ZTJjNjJkNTZlNzY5ZjQ0MzEwY2FkYzI3NDQ3ODIy`

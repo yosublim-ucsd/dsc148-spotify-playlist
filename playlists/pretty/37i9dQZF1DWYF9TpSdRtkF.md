@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,480 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,489 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Manatsu no Dia](https://open.spotify.com/track/4AM1SklPReruWR9A7uNmhd) | [Rio Momose \(CV: Rikako Yamaguchi\)](https://open.spotify.com/artist/4nMZGzn6WqI033nRyHoZvV), [Yukiho Hagiwara \(CV: Azumi Asakura\)](https://open.spotify.com/artist/2QWak9cblhbyzAqz1zmueR), [Kotoha Tanaka \(CV: Risa Taneda\)](https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr), [Mami Futami \(CV: Asami Shimoda\)](https://open.spotify.com/artist/0IfJ1EaeosifZkfLgVtae5) | [THE IDOLM@STER MILLION THE@TER SEASON BRIGHT DIAMOND](https://open.spotify.com/album/0OECGehOOIyFrZceit0Z1S) | 3:51 |
 | 75 | [GR＠TITUDE \- MILLION LIVE! Version](https://open.spotify.com/track/13ZkMneUu4rXa4QAoP0FXF) | [MILLIONSTARS](https://open.spotify.com/artist/5dbz1ohwsTWeBm8flKjaii), [Mirai Kasuga \(CV: Haruka Yamazaki\)](https://open.spotify.com/artist/3JuayHx0kZxDWrUzCslgvn), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [Tsubasa Ibuki \(CV: Machico\)](https://open.spotify.com/artist/10vdoYkSqeOCKyaZLp6Rhb), [Tsumugi Shiraishi \(CV: Saki Minami\)](https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD), [Kaori Sakuramori \(CV: Arisa Kori\)](https://open.spotify.com/artist/7bKxo2ghxiaI6fOEZPk8W6) | [THE IDOLM@STER STARLIT SEASON 00 GR@TITUDE \(Lantis Version\)](https://open.spotify.com/album/5ys3SB9qTxfyBKydm1TqA9) | 4:22 |
 
-Snapshot ID: `MCwzMWJiMjkxYWMzYzZiNGE0OWQyMTY1NmIzY2I2MTE0N2VmNzk4OGQ0`
+Snapshot ID: `MCxkNGQ4NjllNGYwNzJmOWNlZTFhMzM3MDdjZjJlNTNkMjBhOGJjZTUy`

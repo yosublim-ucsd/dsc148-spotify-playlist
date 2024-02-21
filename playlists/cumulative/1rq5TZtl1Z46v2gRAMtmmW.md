@@ -4,7 +4,7 @@
 
 > 
 
-238 songs - 16 hr 15 min
+239 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-04-04 | 2023-10-04 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 | 2023-03-09 |
 | [Lucky You](https://open.spotify.com/track/0E10pZR7dp8QkUjXT57qru) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Lucky You](https://open.spotify.com/album/73kzrMZuaXfa9AT7UviQLZ) | 4:36 | 2022-06-09 | 2022-07-14 |
+| [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-02-20 |  |
 | [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 | 2024-02-15 |  |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-05-31 | 2022-08-26 |
 | [Make You Scream \- Dixon & Trikk “Tri/xon” Rework](https://open.spotify.com/track/2WJQSM4Uoo2FoD3S54b24z) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Make You Scream \(Dixon & Trikk “Tri/xon” Rework\)](https://open.spotify.com/album/2t9qkkA68nFt1Yt4qEUmG7) | 5:52 | 2023-08-17 | 2023-08-23 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 140496,
+  "2024-02-21": 140482,
   "date_first_scraped": "2022-04-20",
   "description": "A look back at tracks from over the past four years. A mixtape of music made for the Class of 2023.",
   "name": "CLASS OF 2023 mixtape",
@@ -281,7 +281,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -7177,7 +7177,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 192470,
       "name": "Pure Water (with Migos)",
       "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"

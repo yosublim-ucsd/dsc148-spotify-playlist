@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 36686,
+  "2024-02-21": 36684,
   "date_first_scraped": "2023-12-14",
   "description": "All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.",
   "name": "christmas songs 2023 \ud83c\udf84holiday music",
@@ -2005,13 +2005,17 @@
         {
           "name": "Tony Bennett",
           "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie Big Band",
+          "url": "https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO"
         }
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195173,
-      "name": "Silver Bells",
+      "name": "Silver Bells (feat. Count Basie Big Band)",
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
     },
     {

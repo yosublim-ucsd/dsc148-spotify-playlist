@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 169632,
+  "num_followers": 169678,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzllNzlmYjMyMmUxODM4ZjliMWIxODI4ZTdlN2FhZjAxYjRjMjll",
+  "snapshot_id": "MCxiMGRmZmJiYjdiZDliODllNzJjNzg5MmE3NWU0MjRmYzVjNWE4MzFj",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 312600,
-      "name": "Mississippi - Version 2",
-      "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 167000,
       "name": "Papa Ain't Salty",
       "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 312600,
+      "name": "Mississippi - Version 2",
+      "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "The Right Time",
-        "url": "https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Down Home Blues",
-      "url": "https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 214320,
       "name": "Dirt Road Blues - 2022 Remix",
       "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "The Right Time",
+        "url": "https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Down Home Blues",
+      "url": "https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Sailin' Shoes",
-        "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "A Apolitical Blues",
-      "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Sailin' Shoes",
+        "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "A Apolitical Blues",
+      "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "His Best 1947 To 1956 - The Chess 50th Anniversary Collection (Reissue)",
         "url": "https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Your Lies",
-        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "Your Lies",
-      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Crackdown",
         "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 211819,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Your Lies",
+        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "Your Lies",
+      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
-      },
-      "artists": [
-        {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 240466,
       "name": "Reconsider Baby - Remastered",
       "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
+      },
+      "artists": [
+        {
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Drifting From Town To Town",
-      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Live At The Cafe Au-Go-Go",
         "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 200266,
       "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
       "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Horrifying Deatheating Bloodspider",
-        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Lovedog",
-      "url": "https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 188697,
       "name": "Laundromat Blues - Mono Mix",
       "url": "https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Lovedog",
+      "url": "https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Rainy Day Blues",
-      "url": "https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Jake's Blues",
         "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 236026,
       "name": "Jake's Blues",
       "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Rainy Day Blues",
+      "url": "https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB"
     },
     {
       "added_at": "2023-10-05 13:18:26",

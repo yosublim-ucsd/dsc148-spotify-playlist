@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,031 likes - 150 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,057 likes - 150 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 149 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 |
 | 150 | [Afterglow](https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao) | [Mike Fields](https://open.spotify.com/artist/6ofXqT4mojrdSwyAzTZYQ8) | [Afterglow](https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb) | 2:55 |
 
-Snapshot ID: `MCwxM2ZmYzEzMDA1YTc2ZmZmNWY2ZTAzNWNlMmVlMDgyNmUwYzgyN2Nm`
+Snapshot ID: `MCwxNTI5NDk1MGE2MTMxMTNiNzA5YTZmMWFhYmE5NDBmOTA3OGM3YzM4`

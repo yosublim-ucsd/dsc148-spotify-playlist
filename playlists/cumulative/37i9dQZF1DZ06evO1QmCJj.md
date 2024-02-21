@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 15 min
+63 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 | 2023-11-10 |  |
 | [Se Luce](https://open.spotify.com/track/4MjAulXpKq3RbOH61sA1vs) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Dial Up](https://open.spotify.com/album/04XyYYmpMUscRLi00KJ16R) | 2:59 | 2023-11-10 | 2023-12-14 |
 | [Se Pega](https://open.spotify.com/track/4WiySU6ohEQpdnbze6D2CH) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Eso Es Mental](https://open.spotify.com/album/4OLHRygJAxYw6GG5qylWAy) | 2:18 | 2023-11-10 | 2023-12-30 |
-| [SI TE VAS](https://open.spotify.com/track/3KKfbG7lkeaQeu14a0RtPa) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mimi](https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:35 | 2023-12-16 |  |
+| [SI TE VAS](https://open.spotify.com/track/3KKfbG7lkeaQeu14a0RtPa) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mimi](https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:35 | 2023-12-16 | 2024-02-21 |
+| [SI TE VAS](https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mimi](https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:35 | 2024-02-20 |  |
 | [Spice Girls](https://open.spotify.com/track/6QibTRZoT2eg0662PMEQk6) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:30 | 2023-11-10 | 2024-01-02 |
 | [Spinelli \[From The Series La Niña \(Amazon Original\)\]](https://open.spotify.com/track/6cvS7yVjST2bkal2hIIK1I) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña XXL](https://open.spotify.com/album/3EcUGvI4ePuIEzzBg1GUSC) | 2:25 | 2023-11-10 |  |
 | [Tamagochi](https://open.spotify.com/track/2SQ1gU5lP0C6yAZQu37iTr) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:46 | 2023-11-10 |  |

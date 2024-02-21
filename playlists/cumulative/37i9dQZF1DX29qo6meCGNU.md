@@ -4,7 +4,7 @@
 
 > Perreo con ❤️‍🔥❤️‍🔥❤️‍🔥
 
-428 songs - 23 hr 11 min
+429 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Dónde estás?](https://open.spotify.com/track/7co0Cq8pS4hCTDydkMGHus) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 2:30 | 2022-08-19 | 2022-10-15 |
 | [El Amor](https://open.spotify.com/track/0JJd397XBxYCCgxWNlvU3Z) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón del Amor](https://open.spotify.com/album/4VGgExwZF1mxWpiwQfR7MM) | 4:06 | 2023-02-15 |  |
 | [EL AMOR DE TU VIDA](https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [EL AMOR DE TU VIDA](https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE) | 2:57 | 2023-06-16 |  |
-| [El Amor de tu Vida \(feat\. Lenny Tavárez & Best\) \- Remix](https://open.spotify.com/track/0e09Q1sQWzAsP2Yo62la9F) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [El Amor de tu Vida \(feat\. Lenny Tavárez & Best\) \[Remix\]](https://open.spotify.com/album/1gOZkfjt7XYXBbfZWWSjPT) | 4:30 | 2024-02-16 |  |
+| [El Amor de tu Vida \(feat\. Lenny Tavárez & Best\) \- Remix](https://open.spotify.com/track/0e09Q1sQWzAsP2Yo62la9F) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [El Amor de tu Vida \(feat\. Lenny Tavárez & Best\) \[Remix\]](https://open.spotify.com/album/1gOZkfjt7XYXBbfZWWSjPT) | 4:30 | 2024-02-16 | 2024-02-21 |
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2022-08-05 | 2022-11-04 |
 | [El Mismo Aire](https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:06 | 2022-01-14 | 2023-07-08 |
 | [el único tema del ferxxo](https://open.spotify.com/track/5CLzTL3KI3xb1SbjE8lNWO) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:02 | 2023-09-29 |  |
@@ -371,6 +371,7 @@
 | [Sonrisa](https://open.spotify.com/track/3MbbbpxLOnWUCpzS6hRN4e) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:32 | 2024-01-19 |  |
 | [Soñé Contigo](https://open.spotify.com/track/3TqRlg6yVni12jgORANsV4) | [Said P.](https://open.spotify.com/artist/7FTaKYmmXrFTUBpwDWAvHe), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Soñé Contigo](https://open.spotify.com/album/69O6X26jC68KhKElCY9w8Q) | 2:38 | 2022-05-12 | 2022-07-19 |
 | [Suelo Pensarte](https://open.spotify.com/track/5swq6T052tEljbGGZ5yKqh) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Suelo Pensarte](https://open.spotify.com/album/2oyapOqRKFSxlKGifzhE4G) | 3:12 | 2022-03-25 | 2022-07-05 |
+| [Sueños Perdidos](https://open.spotify.com/track/0dpZO7uwO7sPYUJ3TtxG12) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Sueños Perdidos](https://open.spotify.com/album/6JsNEh667ctg1Iznj6rdTI) | 4:16 | 2024-02-20 |  |
 | [Tabú](https://open.spotify.com/track/471HeGJPKw07MObixON0Um) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Tabú](https://open.spotify.com/album/4js3JAU4F9I0iBMGHzEOvn) | 2:59 | 2022-03-25 | 2022-04-21 |
 | [Tak Tiki Tak](https://open.spotify.com/track/0aCTSZQTlmnjQucALTF00s) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/7dKHcB3ZLB4fxbSs3Y2Y3O) | 3:32 | 2022-03-25 | 2022-07-09 |
 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 | 2022-07-08 |  |

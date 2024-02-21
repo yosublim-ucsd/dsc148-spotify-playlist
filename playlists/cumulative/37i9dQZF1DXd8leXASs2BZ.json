@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kohjiya",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 999dobby",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 171096,
       "name": "AP",
       "url": "https://open.spotify.com/track/5Uq2Sl7iRceUDkVObQQcCc"
@@ -680,10 +680,40 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 156872,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/1dp66PGJzXhBdfR9M4nX24"
+    },
+    {
+      "album": {
+        "name": "7 (Boss Bitch Edition)",
+        "url": "https://open.spotify.com/album/7wVZvzhAREfRwhVcxi2ik5"
+      },
+      "artists": [
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212553,
+      "name": "Boss Bitch - Remix",
+      "url": "https://open.spotify.com/track/35KNZlorV8tFWaOCGyWa49"
     },
     {
       "album": {
@@ -947,6 +977,46 @@
     },
     {
       "album": {
+        "name": "UNCHAIN",
+        "url": "https://open.spotify.com/album/7hTm6fj4DpPqB0LgLavfsw"
+      },
+      "artists": [
+        {
+          "name": "HAKU",
+          "url": "https://open.spotify.com/artist/5e7WY3osdEKUSJy2LozHqC"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133986,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/2ZIGZwbJGcjFrqimcqMHrf"
+    },
+    {
+      "album": {
+        "name": "Crew up",
+        "url": "https://open.spotify.com/album/0QuDieUt9menSlhCQvf0M6"
+      },
+      "artists": [
+        {
+          "name": "Authority",
+          "url": "https://open.spotify.com/artist/6fY9vo5VWazGw5fZesSB71"
+        },
+        {
+          "name": "ShowyRENZO",
+          "url": "https://open.spotify.com/artist/1DXib0yTufkuTm2KkQIwvi"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Crew up",
+      "url": "https://open.spotify.com/track/4r96S9ST7u1SfNqjvmuTJ6"
+    },
+    {
+      "album": {
         "name": "cuz u just memories",
         "url": "https://open.spotify.com/album/3FkLIyoMGYCSAJxeIfw5cs"
       },
@@ -1156,7 +1226,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 140952,
       "name": "Depressed & Pills",
       "url": "https://open.spotify.com/track/4FStzexb85m932TwWU9KQl"
@@ -1684,7 +1754,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 195942,
       "name": "Friends",
       "url": "https://open.spotify.com/track/77QPBNmjune3Xlj4QfB2M6"
@@ -1874,6 +1944,28 @@
       "duration_ms": 190416,
       "name": "HACKER",
       "url": "https://open.spotify.com/track/3KrpwhS3sq0qQsRsFBpKnx"
+    },
+    {
+      "album": {
+        "name": "DEPRESSION",
+        "url": "https://open.spotify.com/album/2DLYLmxDYNpqziSBJ1AMXE"
+      },
+      "artists": [
+        {
+          "name": "999dobby",
+          "url": "https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc"
+        },
+        {
+          "name": "Miyabi",
+          "url": "https://open.spotify.com/artist/4uiejZ8T3YciiSnHEsEB5q"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194988,
+      "name": "Hana Celeb",
+      "url": "https://open.spotify.com/track/4pj3xcOIRVnCjbFDjayFJ5"
     },
     {
       "album": {
@@ -2195,6 +2287,28 @@
     },
     {
       "album": {
+        "name": "i don't know (that",
+        "url": "https://open.spotify.com/album/1Jx7Rwgjp7tXuFSllcBuCW"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        },
+        {
+          "name": "M-3",
+          "url": "https://open.spotify.com/artist/1ksrAJFSS3cQ2axS9fcMcU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "i don't know (that",
+      "url": "https://open.spotify.com/track/6xP8c14PqOvebGsnS2oZqg"
+    },
+    {
+      "album": {
         "name": "i have a wing",
         "url": "https://open.spotify.com/album/7rLr6RHZ4u7XXNGNsRcu14"
       },
@@ -2345,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "DEPRESSION",
+        "url": "https://open.spotify.com/album/2DLYLmxDYNpqziSBJ1AMXE"
+      },
+      "artists": [
+        {
+          "name": "999dobby",
+          "url": "https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124716,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/7K6eRXTjhBVG3ahlUhZPfm"
+    },
+    {
+      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/5fUyFfI0R6bsuXYJVMGdGg"
       },
@@ -2356,7 +2488,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 125392,
       "name": "Intro",
       "url": "https://open.spotify.com/track/7lFq5rNntI0abNXzINWNt6"
@@ -4930,7 +5062,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 174814,
       "name": "Zoomer",
       "url": "https://open.spotify.com/track/6kopnoNQZMlhuXEdPOyj31"

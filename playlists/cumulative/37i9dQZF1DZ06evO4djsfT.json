@@ -603,6 +603,32 @@
     },
     {
       "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/3vnbIS2AvqaGbE5aiz6ZAu"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "I'll Love",
+      "url": "https://open.spotify.com/track/6yphKxAbj32Dyx6qTl4eGv"
+    },
+    {
+      "album": {
         "name": "IGWT",
         "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
       },

@@ -4915,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191479,
+      "name": "Bravo",
+      "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
+    },
+    {
+      "album": {
         "name": "Bref... (22)",
         "url": "https://open.spotify.com/album/3n9lVvGITEM6DcpoYu5g2B"
       },
@@ -39732,7 +39750,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 183312,
       "name": "Terminer",
       "url": "https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU"

@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3924,
+  "num_followers": 3927,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjdhMmM2OWJkZWY1Njc2NTNmMTMzZmYzMWEzOTJlNTUyNjk0MWU1",
+  "snapshot_id": "MCw4MmE4OTdkYTJmMmJhZWQ5ODZlYjVjMWFiN2JhODBkMDVkMzc0ZTUx",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -979,6 +979,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Catuca",
+        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Catuca",
+      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Bololo (Remixes)",
         "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 143255,
       "name": "Bololo - MichaelBM & Francesco V Remix",
       "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Catuca",
-        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Catuca",
-      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Balan\u00e7a",
         "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
       },
@@ -1191,22 +1211,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
       },
       "artists": [
         {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+      "duration_ms": 176250,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 225116,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Esta Vaina",
-        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
       },
       "artists": [
         {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
         }
       ],
-      "duration_ms": 215699,
-      "name": "Esta Vaina",
-      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1327,18 +1331,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Wimbo",
-        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
+        "name": "Esta Vaina",
+        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
       },
       "artists": [
         {
-          "name": "Miane",
-          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
         }
       ],
-      "duration_ms": 150488,
-      "name": "Wimbo",
-      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
+      "duration_ms": 215699,
+      "name": "Esta Vaina",
+      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "\u00a1Date Prisa!",
-        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+        "name": "Wimbo",
+        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
       },
       "artists": [
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "STO CULTR",
-          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
         }
       ],
-      "duration_ms": 199687,
-      "name": "\u00a1Date Prisa!",
-      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
+      "duration_ms": 150488,
+      "name": "Wimbo",
+      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
+      },
+      "artists": [
+        {
+          "name": "Alex Now (ES)",
+          "url": "https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
-      },
-      "artists": [
-        {
-          "name": "Alex Now (ES)",
-          "url": "https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
     },
     {
       "added_at": "2024-02-16 05:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 3489287,
+  "2024-02-21": 3489570,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Brazil.",
   "name": "Top 50 - Brazil",
@@ -325,6 +325,24 @@
       "duration_ms": 300689,
       "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
       "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
+    },
+    {
+      "album": {
+        "name": "Fortaleza, Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147988,
+      "name": "A Cerveja Abre Sozinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD"
     },
     {
       "album": {
@@ -16675,7 +16693,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,131 likes - 175 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,227 likes - 175 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 5 | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
 | 6 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 |
 | 7 | [Anytime](https://open.spotify.com/track/022Kq0XU4MSYgTS3FbYc4n) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Anytime](https://open.spotify.com/album/47ePKATdL0aSraQhYFmGUi) | 4:54 |
-| 8 | [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 |
+| 8 | [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 |
 | 9 | [Ready](https://open.spotify.com/track/1K1QNaTFU1yhoATzMbcNhr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Ready](https://open.spotify.com/album/7GW4sm8FU01lRMCKRUDxp0) | 3:11 |
 | 10 | [Oh, Wait...](https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 4:10 |
 | 11 | [Just Friends](https://open.spotify.com/track/4fECQCAJRoonwoGXi898an) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Mayila](https://open.spotify.com/artist/0hgXW6IxEjc5qbrvZbiD2O) | [Just Friends](https://open.spotify.com/album/14thQ7BVtbG7elqv2OrumA) | 2:57 |
 | 12 | [Obsessed](https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Episode 1: Lost](https://open.spotify.com/album/7cEWlOUBq4Fj6J8nEy81ip) | 2:45 |
 | 13 | [IS IT WORTH IT](https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [IS IT WORTH IT](https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf) | 3:40 |
-| 14 | [Miss Me Yet? \(Remix\) feat\. Eric Bellinger](https://open.spotify.com/track/7ocVZ6VbuXBntI2ef7IoGw) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Miss Me Yet… Now? \(Deluxe\)](https://open.spotify.com/album/7gnnmNdLEWtlsYFEUKYWY9) | 3:47 |
+| 14 | [Miss Me Yet? \(Remix\) feat\. Eric Bellinger](https://open.spotify.com/track/1PfxTi4Ea4gAU7SD7hdE8y) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Miss Me Yet… Now? \(Deluxe\)](https://open.spotify.com/album/14ehmVW9EiofPxpyHiYbsI) | 3:47 |
 | 15 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 |
 | 16 | [i cry too](https://open.spotify.com/track/7i5ezTMv4FDtN4cOT62cPb) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 2:29 |
 | 17 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 |
 | 175 | [Luv Everybody](https://open.spotify.com/track/0rhdpXHATq8svRh4sQbYFz) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:42 |
 
-Snapshot ID: `MCw0YWM3ZmZhYzc0M2NmN2NjNzcxNWE1MzhiZjA4MDc5MWExNWI0ZDQ0`
+Snapshot ID: `MCw5NDM0ZjBkYzA1NjFiMDc0OTlhY2U0NjA3ZjQzMDYyN2IwYjY2OGJj`

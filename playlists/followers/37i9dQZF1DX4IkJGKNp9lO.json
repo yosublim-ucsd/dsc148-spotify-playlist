@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 31034,
+  "2024-02-21": 31048,
   "date_first_scraped": "2021-12-21",
   "description": "",
   "name": "Svensk Punk",
@@ -2053,7 +2053,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 189010,
       "name": "Jane Doe, \u00d6stersund",
       "url": "https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS"
@@ -3727,7 +3727,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 153053,
       "name": "Sla\u030ass som en tjej",
       "url": "https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa"

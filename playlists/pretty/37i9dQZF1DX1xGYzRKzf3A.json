@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 116730,
+  "num_followers": 116875,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWIzZjY3N2RmNjRmODQ3NWJhOWIxNzU2OTY1ZTczNzI5Mjk4ZWM5",
+  "snapshot_id": "MCwwMjkyZTUwYTlkMjMxNjU0ZjM2M2VmNWE4MDBiMmNmMmY2YzM4Njky",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -215,6 +199,26 @@
       "duration_ms": 190553,
       "name": "Di Que Si",
       "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Ya Me Entere (En Vivo)",
+        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Ya Me Entere - En Vivo",
+      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -283,22 +287,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Ya Me Entere (En Vivo)",
-        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Ya Me Entere - En Vivo",
-      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Las Dos Caras De La Cumbia",
-        "url": "https://open.spotify.com/album/5bkT7Zs72MfeboRvsuYKcg"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Loco Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/7aBemWBoXLlck9VJECqfVx"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "10 A\u00f1os De Historia",
         "url": "https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 283600,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Las Dos Caras De La Cumbia",
+        "url": "https://open.spotify.com/album/5bkT7Zs72MfeboRvsuYKcg"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Loco Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/7aBemWBoXLlck9VJECqfVx"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Cumbias con Garra Vol. IV *",
-        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 342973,
       "name": "Cumbia sobre el r\u00edo / Interludio",
       "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Cumbias con Garra Vol. IV *",
+        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 164040,
-      "name": "Bomboro Qui\u00f1\u00e1 Qui\u00f1\u00e1 (with Rub\u00e9n Albarr\u00e1n)",
-      "url": "https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy"
+      "duration_ms": 181200,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
         }
       ],
-      "duration_ms": 181200,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
+      "duration_ms": 164040,
+      "name": "Bomboro Qui\u00f1\u00e1 Qui\u00f1\u00e1 (with Rub\u00e9n Albarr\u00e1n)",
+      "url": "https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 272953,
-      "name": "Te Ame",
-      "url": "https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Quiero Volar",
         "url": "https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 272953,
+      "name": "Te Ame",
+      "url": "https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Los Caminos de la Vida (Spotify Singles)",
         "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Linda Mujer",
-        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 169471,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1375,6 +1359,22 @@
       "duration_ms": 209440,
       "name": "Insomnio",
       "url": "https://open.spotify.com/track/179kBZK7Vil0uCDJDewswz"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Muchacha Encantadora",
-        "url": "https://open.spotify.com/album/1RQiiNOHONxx63024KO320"
-      },
-      "artists": [
-        {
-          "name": "Los Vallenatos De La Cumbia",
-          "url": "https://open.spotify.com/artist/5UCIvTadkKiXUebOXSNYLn"
-        }
-      ],
-      "duration_ms": 287346,
-      "name": "Muchacha Encantadora",
-      "url": "https://open.spotify.com/track/159c1Rvj1ThYoObWHXTC09"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Cartel De Santa",
         "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 218066,
       "name": "Perros",
       "url": "https://open.spotify.com/track/14qnJ3HKmlKo1hwBQKJaB8"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Muchacha Encantadora",
+        "url": "https://open.spotify.com/album/1RQiiNOHONxx63024KO320"
+      },
+      "artists": [
+        {
+          "name": "Los Vallenatos De La Cumbia",
+          "url": "https://open.spotify.com/artist/5UCIvTadkKiXUebOXSNYLn"
+        }
+      ],
+      "duration_ms": 287346,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/159c1Rvj1ThYoObWHXTC09"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Pura Crema",
-        "url": "https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 227674,
-      "name": "Que Me Toque Una Cumbita (La Cumbita)",
-      "url": "https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Por El Mundo",
         "url": "https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 188640,
       "name": "Sal Y Agua",
       "url": "https://open.spotify.com/track/3ySiLPf1YPmIPvtxRRoXIY"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "La Pura Crema",
+        "url": "https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW"
+      },
+      "artists": [
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        }
+      ],
+      "duration_ms": 227674,
+      "name": "Que Me Toque Una Cumbita (La Cumbita)",
+      "url": "https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Sin Limites",
+        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
+      },
+      "artists": [
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        }
+      ],
+      "duration_ms": 211984,
+      "name": "Mira, Mira, M\u00edrala",
+      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Sin Limites",
-        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Mira, Mira, M\u00edrala",
-      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "En Vivo Desde Monterrey",
-        "url": "https://open.spotify.com/album/2YqXC2fSYZflVMNs3OzI5F"
-      },
-      "artists": [
-        {
-          "name": "La Casetera",
-          "url": "https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM"
-        }
-      ],
-      "duration_ms": 365795,
-      "name": "Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / C\u00f3mo Est\u00e1s T\u00fa - En Vivo Desde Monterrey",
-      "url": "https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Eras",
         "url": "https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 219509,
       "name": "Eras",
       "url": "https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "En Vivo Desde Monterrey",
+        "url": "https://open.spotify.com/album/2YqXC2fSYZflVMNs3OzI5F"
+      },
+      "artists": [
+        {
+          "name": "La Casetera",
+          "url": "https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM"
+        }
+      ],
+      "duration_ms": 365795,
+      "name": "Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / C\u00f3mo Est\u00e1s T\u00fa - En Vivo Desde Monterrey",
+      "url": "https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Cumbia Explosiva",
-        "url": "https://open.spotify.com/album/0b7TqoPbKfYlkqoLKsuXc1"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/7biBFHtSXjeAlSvwTSspX4"
-        }
-      ],
-      "duration_ms": 276240,
-      "name": "Cumbia Explosiva",
-      "url": "https://open.spotify.com/track/0uEhvw1ut1pPyFXeSiMCL6"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Juro Que Es por Ella",
         "url": "https://open.spotify.com/album/4R0zKvzfufpo1ptWhG7tuh"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 250634,
       "name": "Juro Que Es por Ella",
       "url": "https://open.spotify.com/track/20yublwhQkHSiko0ranSlT"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Cumbia Explosiva",
+        "url": "https://open.spotify.com/album/0b7TqoPbKfYlkqoLKsuXc1"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/7biBFHtSXjeAlSvwTSspX4"
+        }
+      ],
+      "duration_ms": 276240,
+      "name": "Cumbia Explosiva",
+      "url": "https://open.spotify.com/track/0uEhvw1ut1pPyFXeSiMCL6"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Tatuajes de P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6fEY0doTao8Nnqb8cP9UPx"
+        "name": "15 exitos pa'gozar",
+        "url": "https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO"
       },
       "artists": [
         {
-          "name": "Cabrito Vud\u00fa",
-          "url": "https://open.spotify.com/artist/3EZgX2cKpabRLqM0WBJJoZ"
+          "name": "Poder Vallenato",
+          "url": "https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Tanto Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4LoQB01RbhL1vdJPxFmqDA"
+      "duration_ms": 212386,
+      "name": "Cumbia de la Sabana",
+      "url": "https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

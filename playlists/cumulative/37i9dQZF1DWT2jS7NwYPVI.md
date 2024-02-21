@@ -4,7 +4,7 @@
 
 > your rock/alt cheat sheet \| Cover: Crawlers
 
-2,161 songs - 4 day 18 hr 6 min
+2,164 songs - 4 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-04-22 | 2022-05-14 |
 | [airplane](https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [airplane](https://open.spotify.com/album/1DeRZ8RuEzvo7pfTzf5mYm) | 3:15 | 2023-01-27 | 2023-03-04 |
 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-06-30 | 2023-08-12 |
-| [Alexithymia](https://open.spotify.com/track/6YJ3xte2WDYvaEPToXDl0F) | [Greyskiin](https://open.spotify.com/artist/2A3HWyaY6VSKoPBgEWxtFX), [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Alexithymia](https://open.spotify.com/album/2UgPOc1dAJRK8LG9j5Ir0l) | 2:56 | 2024-02-16 |  |
+| [Alexithymia](https://open.spotify.com/track/6YJ3xte2WDYvaEPToXDl0F) | [GREYSKIIN](https://open.spotify.com/artist/2A3HWyaY6VSKoPBgEWxtFX), [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Alexithymia](https://open.spotify.com/album/2UgPOc1dAJRK8LG9j5Ir0l) | 2:56 | 2024-02-16 |  |
 | [ALIVE](https://open.spotify.com/track/6oudjrcW0NjYCX71cMJy2c) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [ALIVE](https://open.spotify.com/album/2kqCjpvl8mEJU2GQ64EYGF) | 1:54 | 2022-12-02 | 2023-02-18 |
 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 | 2022-01-07 | 2022-02-26 |
 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 | 2023-02-24 | 2023-04-22 |
@@ -696,6 +696,7 @@
 | [Getting into Trouble w/ the Boss](https://open.spotify.com/track/21WdnLnH0XhCkjD8WmQGx1) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:59 | 2023-06-30 | 2023-09-02 |
 | [gfgf](https://open.spotify.com/track/1g5xGsMhlveEthRWzEahZh) | [baej Lambeaux](https://open.spotify.com/artist/7yB6e34bRQLTSrSh4hFY70) | [gfgf](https://open.spotify.com/album/5CUBzvAPsIr25SjvX7yoWD) | 2:57 | 2023-02-10 | 2023-03-11 |
 | [Ghost](https://open.spotify.com/track/2WSbMaSstjDFlY30mRaRz5) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Ghost](https://open.spotify.com/album/0EkJjzIlZsOtkOablHVy9P) | 2:51 | 2023-03-03 | 2023-04-09 |
+| [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-02-20 |  |
 | [Ghost Brigade](https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Ghost Brigade](https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn) | 3:44 | 2022-11-18 | 2023-01-21 |
 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 | 2023-01-27 | 2023-03-25 |
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2022-02-25 | 2022-05-28 |
@@ -1127,6 +1128,7 @@
 | [Live Like This](https://open.spotify.com/track/5CkNMoWHtL0OxNqZSilmYU) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Live Like This](https://open.spotify.com/album/7w6qO7IK9y49S15hmxDiFq) | 3:56 | 2022-05-06 | 2022-07-16 |
 | [Live, Laugh, Love](https://open.spotify.com/track/6smMEA2Cx1I6QuxNlyZuXt) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Live, Laugh, Love](https://open.spotify.com/album/4s1GKS3gkgUneSgjGI1dnw) | 3:16 | 2022-09-23 | 2022-10-22 |
 | [Long Way Home](https://open.spotify.com/track/1CzkCBVMW5ZzbwaFbtk4ER) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [Long Way Home](https://open.spotify.com/album/3mXRDtSoMDVNKnJLuKBfP4) | 2:51 | 2021-11-19 | 2022-01-22 |
+| [Look At The Time](https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Look At The Time](https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1) | 4:20 | 2024-02-20 |  |
 | [Look Ma, No Brains!](https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Look Ma, No Brains!](https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb) | 2:03 | 2023-11-03 | 2023-11-18 |
 | [Look What You Do to Me](https://open.spotify.com/track/0ayKEMhZY2mCghqvqoPWEE) | [Isla June](https://open.spotify.com/artist/18ioovgcBQpPVcUdRyGCe0) | [Look What You Do to Me](https://open.spotify.com/album/3Iq0sxKgFdS6Bw0KN0HbaN) | 2:37 | 2023-12-18 | 2024-02-17 |
 | [lord](https://open.spotify.com/track/6qChjd3xCRVFylEhH6CJmD) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [Cry Havoc!](https://open.spotify.com/album/6XZpuctNAvmpzxnGfSY2os) | 2:08 | 2022-09-23 | 2022-10-22 |
@@ -1802,6 +1804,7 @@
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2022-05-20 |
 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-18 | 2023-09-23 |
 | [Swoon](https://open.spotify.com/track/6c6GZ9GwIFCrKLXviFKt2e) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Swoon](https://open.spotify.com/album/0o2rQghOwZtxz3OoIf8N08) | 3:17 | 2023-04-28 | 2023-06-03 |
+| [Syrup](https://open.spotify.com/track/56HOxGRg1ICrkBLvWailZx) | [Elijah Johnston](https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T) | [Hometown Vampire](https://open.spotify.com/album/4KybaR7XKX0v6u70W4YpS3) | 1:23 | 2024-02-20 |  |
 | [S’old](https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S'old](https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef) | 2:43 | 2023-09-01 | 2023-09-30 |
 | [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 | 2022-04-08 | 2022-06-11 |
 | [t!mezone](https://open.spotify.com/track/4O8j9RMURUEsdFBtxGKaSZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [t!mezone](https://open.spotify.com/album/7LyemIrA9Xf7ZiiJTDiMvX) | 2:53 | 2023-09-15 | 2023-10-14 |

@@ -1,7 +1,7 @@
 {
-  "2024-02-20": 24494,
+  "2024-02-21": 24538,
   "date_first_scraped": "2023-09-18",
-  "description": "\u00bfXD...? \u00bfTe refieres a Magaly Ch\u00e1vez?",
+  "description": "we ps xd ",
   "name": "XD",
   "tracks": [
     {
@@ -97,6 +97,24 @@
       "duration_ms": 174000,
       "name": "ALV",
       "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
+    },
+    {
+      "album": {
+        "name": "Amarte a la Antigua",
+        "url": "https://open.spotify.com/album/3azRieE0OpPmiiFQDrjp9n"
+      },
+      "artists": [
+        {
+          "name": "Fer de luna",
+          "url": "https://open.spotify.com/artist/1thaiaqjA7bjP0T6UqGYXA"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217524,
+      "name": "Amarte a la Antigua",
+      "url": "https://open.spotify.com/track/6zXxocUMzpPy5Q97xt09eJ"
     },
     {
       "album": {
@@ -449,7 +467,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 208378,
       "name": "Ciudad Gris",
       "url": "https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 237781,
       "name": "Est\u00e1s en M\u00ed Pasado",
       "url": "https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 149360,
       "name": "FATAL FANTASSY",
       "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"

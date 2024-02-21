@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: FEVER 333",
-  "num_followers": 350657,
+  "num_followers": 350731,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzhiOTcxZTY0YmQ2ODUxNTUxODVjZjZmMThmNWM4ZDA0MDcyMzNh",
+  "snapshot_id": "MCxiZGFhYTgyNTBjNzNkMzc0MmU2ZGFhOTlkZDRhNGQ4ZjJkMzcwOGNh",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -297,20 +297,20 @@
       "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-02-20 03:14:20",
       "album": {
-        "name": "Can't Find The Brakes",
-        "url": "https://open.spotify.com/album/3FyROXteyMjOunh3L3gEly"
+        "name": "If The Sky Came Down",
+        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
       },
       "artists": [
         {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
         }
       ],
-      "duration_ms": 194757,
-      "name": "Coming Home (Ballad of the Shire)",
-      "url": "https://open.spotify.com/track/5InVe6JzeFjGaKOW9ggU7J"
+      "duration_ms": 312406,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Can't Find The Brakes",
+        "url": "https://open.spotify.com/album/3FyROXteyMjOunh3L3gEly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 194757,
+      "name": "Coming Home (Ballad of the Shire)",
+      "url": "https://open.spotify.com/track/5InVe6JzeFjGaKOW9ggU7J"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 213066,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "CAST AWAY",
-        "url": "https://open.spotify.com/album/4kcaYHxdp2HqMyUUbQlFpa"
-      },
-      "artists": [
-        {
-          "name": "From Fall to Spring",
-          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "CAST AWAY",
-      "url": "https://open.spotify.com/track/6o0reBUukKomzYBRL6gAr4"
     }
   ],
   "unique_name": "Hard Rock",

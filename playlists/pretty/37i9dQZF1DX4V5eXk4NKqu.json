@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks of today, featuring Dromedarios M\u00e1gicos.",
-  "num_followers": 155929,
+  "num_followers": 155931,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTUwZjE3YjJhMzk2YzIzOTU4MjAyMDdiYzZhYzAxMDk3ZjI4ZWU4",
+  "snapshot_id": "MCw3ZDcwMTUyMmNhMTdhZWFiNTQ5MjlhYzJkMmQxN2VjMzk4NDI1ZDI2",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Fake News + Alba",
-        "url": "https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "Fake News",
-      "url": "https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Una Cosa Lleva a la Otra",
         "url": "https://open.spotify.com/album/48ebpXiKqVAdQnx5fy2WsV"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 212631,
       "name": "Una Cosa Lleva a la Otra",
       "url": "https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Fake News + Alba",
+        "url": "https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 247080,
+      "name": "Fake News",
+      "url": "https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Cortada En La Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada En La Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Siempre Tendr\u00e9 Mi Voz",
         "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 165300,
       "name": "Siempre Tendr\u00e9 Mi Voz",
       "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Cortada En La Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Cortada En La Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2024-02-16 05:00:00",

@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Sophie Faith
 
-519 songs - 1 day 13 hr 4 min
+520 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [High](https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik) | 2:56 | 2023-10-19 |  |
 | [High](https://open.spotify.com/track/7jYF5A0TprR297TCg9MEOO) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/6jqiIg0L9UdADNWA1sCTlu) | 2:56 | 2023-03-08 | 2023-03-09 |
 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 | 2023-12-22 |  |
+| [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 | 2024-02-16 |  |
 | [Hold On, Pt.2](https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [James Chelliah](https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Hold On, Pt.2](https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70) | 2:15 | 2022-02-11 | 2022-11-21 |
 | [Hold On, Pt.2](https://open.spotify.com/track/5t51tJaMToRMbYiNa3y70v) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [James Chelliah](https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Hold On, Pt.2](https://open.spotify.com/album/0BLXLsiAc8aebSCoHwXzYo) | 2:15 | 2022-11-18 | 2023-05-19 |
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-02-25 | 2023-09-29 |
@@ -350,7 +351,7 @@
 | [Pluo](https://open.spotify.com/track/5E6LCQkcEuJW709HAyOUMn) | [Thallo](https://open.spotify.com/artist/18KqjLGyab2PDhaO986hIB) | [Pluo](https://open.spotify.com/album/68wWpQKiRDp2EtS6hbAPl4) | 2:57 | 2023-03-08 | 2023-07-01 |
 | [Portals](https://open.spotify.com/track/0JM57iUyyTFUTnH9n5mvn6) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Portals](https://open.spotify.com/album/3Ed6qp1UbaP1tnK3S1fWzF) | 2:41 | 2023-11-10 | 2023-11-18 |
 | [Portals](https://open.spotify.com/track/0v6uuAzlwd7TytQ7QgkYk3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Portals](https://open.spotify.com/album/6iEPmzzAvno0Zqi41nvYwR) | 2:41 | 2023-06-22 | 2023-07-02 |
-| [Powerful Lady](https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [Powerful Lady](https://open.spotify.com/album/5ij9621I1TcRmDvA89336G) | 4:20 | 2023-03-08 |  |
+| [Powerful Lady](https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [Powerful Lady](https://open.spotify.com/album/5ij9621I1TcRmDvA89336G) | 4:20 | 2023-03-08 | 2024-02-21 |
 | [Pray \- Edit](https://open.spotify.com/track/1BZqxYM0Q365Q62FlvigIq) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Pray](https://open.spotify.com/album/4WkxDBmv1Sd3PnQPt3HNC3) | 4:51 | 2021-12-17 | 2022-11-13 |
 | [Prelude \(Jazz Drill\)](https://open.spotify.com/track/3fbbGDvD3tYaLJAELgLDCZ) | [Xvngo](https://open.spotify.com/artist/5NfAu0hQTsfoDiQajHsply), [Master Mac](https://open.spotify.com/artist/6FPkCzHPEN4Qr7AoAfoSNz) | [Prelude \(Jazz Drill\)](https://open.spotify.com/album/03VVPmXpdYnE0rWKOf2Ozy) | 3:39 | 2021-12-17 | 2022-04-20 |
 | [PROMISE](https://open.spotify.com/track/46KtAhtCoDViV6YoA4vsFh) | [Kemi Ade](https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [PROMISE](https://open.spotify.com/album/3RoLY5Nm0SiWd8zY4dRx8g) | 3:49 | 2022-03-24 | 2022-04-20 |

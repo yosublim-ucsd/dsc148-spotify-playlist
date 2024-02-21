@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-720 songs - 1 day 19 hr 22 min
+721 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Edition](https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18) | 1:55 | 2020-12-21 | 2022-10-13 |
 | [El Oeste](https://open.spotify.com/track/30BKRAZnvByOJWEcYU0L1j) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 3:01 | 2023-05-25 | 2023-11-18 |
 | [Eleven Weeks](https://open.spotify.com/track/6eFV4CnBrdsYlF4s1wdqG0) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Rolling, Driftless North](https://open.spotify.com/album/2yd3o0yEzCGy1p5XhGpeUS) | 3:05 | 2020-12-21 | 2022-04-20 |
-| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 |  |
+| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 | 2024-02-21 |
+| [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 | 2024-02-16 |  |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/4weLEH5Wv8cW7eoRrhkVTF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [19 MASTERS](https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN) | 4:54 | 2023-10-17 | 2023-11-18 |
 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 | 2023-04-25 | 2023-10-24 |
 | [Entertainment](https://open.spotify.com/track/3fzvBbbXUdkqNca8NJe8bb) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Hell](https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3) | 3:58 | 2022-07-20 | 2022-07-29 |
@@ -476,7 +477,7 @@
 | [One Day It'll All Make Sense](https://open.spotify.com/track/41F6Z4ldpPWxy0hr5OUn9z) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [One Day It'll All Make Sense](https://open.spotify.com/album/6MtD3lsWbdX3fVWp5KfzQd) | 1:01 | 2023-08-18 | 2023-10-01 |
 | [One More Try](https://open.spotify.com/track/7MdUPy3vjyCpoRDCXa3JN4) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [breathe.](https://open.spotify.com/album/29l6kAoHxTK5vYF5fsbiRs) | 3:17 | 2023-10-17 |  |
 | [One Step Closer 1.4 \[2021 Export Wav\] feat\. Panda Bear](https://open.spotify.com/track/2QX2AOmSUydpG1IRK4xVR8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:16 | 2023-09-29 | 2023-10-11 |
-| [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 | 2023-08-18 | 2024-01-11 |
+| [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 | 2023-08-18 |  |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2020-12-21 | 2023-08-19 |
 | [Only One](https://open.spotify.com/track/165suvq1v7N0IUK5av3E7z) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/22ex6Jl6wXPt3myCvphAT4) | 4:53 | 2023-05-25 | 2023-11-18 |
 | [Only One](https://open.spotify.com/track/5wlaunvIHcQYdhT23JvRGO) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/7jSJCnwfELIYnTaZcjKWJe) | 4:53 | 2020-12-21 | 2022-04-20 |
@@ -657,7 +658,7 @@
 | [thought for food](https://open.spotify.com/track/4udl0IlYJXxI6XU7ERnyvl) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 3:30 | 2023-10-17 | 2023-11-18 |
 | [threads of colour](https://open.spotify.com/track/1jMy16lAlG2pyTAqqUWeYZ) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [threads of colour](https://open.spotify.com/album/1Cxv9o82Lj7nhnAgXgyWFu) | 3:54 | 2023-05-25 | 2023-05-27 |
 | [threads of colour](https://open.spotify.com/track/2cIpSuX5bmkK7px3t2HmsG) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [threads of colour](https://open.spotify.com/album/3OE6tOnRcLrjeuNAGqUJbo) | 3:54 | 2023-10-17 | 2023-11-18 |
-| [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 | 2023-05-25 |  |
+| [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 | 2023-05-25 | 2024-02-21 |
 | [Time](https://open.spotify.com/track/1cEHGBID7A9CTLUKOWVk5h) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Time](https://open.spotify.com/album/0CDeIgzn8DcJVpFQ55FMbj) | 3:56 | 2020-12-21 | 2022-04-13 |
 | [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 | 2023-11-21 |  |
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2023-05-25 | 2023-10-24 |

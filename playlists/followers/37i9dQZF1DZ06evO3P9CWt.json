@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 274959,
+  "2024-02-21": 274958,
   "date_first_scraped": "2023-10-11",
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
   "name": "This Is Pabllo Vittar",
@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "Equalize",
+        "url": "https://open.spotify.com/album/7xW9I1m2LUQ6xFj8CxMNGf"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/2N8jmZ4Ai3bJwnm3avMAru"
+    },
+    {
+      "album": {
         "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
         "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
       },
@@ -621,7 +639,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 218709,
       "name": "Equalize",
       "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"

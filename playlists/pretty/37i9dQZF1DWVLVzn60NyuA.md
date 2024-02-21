@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,320 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,376 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Day 2 Day](https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Day 2 Day](https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf) | 2:48 |
 | 150 | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy) | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK) | 2:54 |
 
-Snapshot ID: `MCw1ZGEzNTc0OWQ5ZTdjYjFhZWY0OWJjY2YzYzU1YjcxOWM1OTU2ZTM5`
+Snapshot ID: `MCxlOTM1NmJkZTM0OTY3ODVmMDMzNTRiYTMxZDkyMGQyMDUzY2JlNzlh`

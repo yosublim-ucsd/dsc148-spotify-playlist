@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,819 likes - 150 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,176 likes - 150 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [El Repollo](https://open.spotify.com/track/7m63pqOrurvUXIMkVtE6YO) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:26 |
 | 150 | [Lo Que Mas Quería](https://open.spotify.com/track/5owjrItInEpNGHrROUV9LQ) | [Carlos Manuel 'El Zafiro'](https://open.spotify.com/artist/4zonLJKAX1W7yrQZcGxRqo) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:23 |
 
-Snapshot ID: `MCw1YjAzOTIzNzUxMzg2NzFjYjZmMjJhYTJiZjlmMDViYWU5ZjUwMzhj`
+Snapshot ID: `MCw4MjQyZjY1M2JkMjY2NDA1NGVjNTJhMWYwYmRiYTg1NGJkNmNhZTE2`

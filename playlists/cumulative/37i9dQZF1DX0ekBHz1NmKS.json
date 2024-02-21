@@ -3607,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Don't Tell Me What To Do",
+        "url": "https://open.spotify.com/album/1sY6OJRWD3PEvApNPxDkLZ"
+      },
+      "artists": [
+        {
+          "name": "Felin",
+          "url": "https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163466,
+      "name": "Don't Tell Me What To Do",
+      "url": "https://open.spotify.com/track/66vQCZCKvbXwvGxU9H5H8q"
+    },
+    {
+      "album": {
         "name": "Don't Want To Know",
         "url": "https://open.spotify.com/album/0bQfhNwmDbFTLpY6EYOJZF"
       },
@@ -9736,7 +9754,7 @@
     {
       "album": {
         "name": "Brev som inte l\u00e4mnat bordet",
-        "url": "https://open.spotify.com/album/0MD40yNkk9Ftdqsg0JzE3L"
+        "url": "https://open.spotify.com/album/7J7VPIsNWZbe5vgcV4GIrm"
       },
       "artists": [
         {
@@ -9747,6 +9765,24 @@
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194501,
+      "name": "Ljug f\u00f6r mig",
+      "url": "https://open.spotify.com/track/07EL8zmTSyiatI1e8Q93SK"
+    },
+    {
+      "album": {
+        "name": "Brev som inte l\u00e4mnat bordet",
+        "url": "https://open.spotify.com/album/0MD40yNkk9Ftdqsg0JzE3L"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-21",
       "duration_ms": 194501,
       "name": "Ljug f\u00f6r mig",
       "url": "https://open.spotify.com/track/0Yw8WYGz7tY6CvcoH7QKtm"
@@ -13648,7 +13684,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 218040,
       "name": "See Me Happy",
       "url": "https://open.spotify.com/track/2EaRH0SnLQVb4bmpNrGI4j"

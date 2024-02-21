@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,669 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,725 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 4 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 |
 | 5 | [Te Parto RKT](https://open.spotify.com/track/0dsNaKnogOeaoKuObS6c9H) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Te Parto RKT](https://open.spotify.com/album/23NLzaX4G8woKqxO1YkjY3) | 2:53 |
 | 6 | [Cuarteto Sessions \#3](https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Cuarteto Sessions \#3](https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA) | 8:20 |
-| 7 | [No Voy a Llorar Por Ti](https://open.spotify.com/track/6XamCg6wYD7B9o38SB5SH3) | [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Milthon](https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK) | [No Voy a Llorar Por Ti](https://open.spotify.com/album/0DAHo5LXe7Iflr0vfda7Tc) | 2:38 |
+| 7 | [No Voy a Llorar Por Ti](https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Milthon](https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK) | [No Voy a Llorar Por Ti](https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM) | 2:36 |
 | 8 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 |
 | 9 | [FIESTA PUNKY](https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [FIESTA PUNKY](https://open.spotify.com/album/6aBm0V95IJMMUQvWGrM4b8) | 2:24 |
 | 10 | [Sin Querer](https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Sin Querer](https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 99 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 100 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 
-Snapshot ID: `MCw2YjY2M2E0YmRjMTIyMDlkZDMxYzljMzJkODA2Y2IxOTAwZTExMWQw`
+Snapshot ID: `MCxjYTViNDVmZTYxNzJlYTExZDNhMTgwOGNhODI5NmUyNWM3YTc0Y2I5`

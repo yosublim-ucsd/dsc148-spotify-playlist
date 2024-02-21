@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Jordan Mackampa
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,606 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,648 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 14 | [WAIT](https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wait](https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9) | 2:27 |
 | 15 | [Fixations](https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Fixations](https://open.spotify.com/album/3zphZDeM17LCk8RwmJV34t) | 3:13 |
 | 16 | [Jump](https://open.spotify.com/track/2BO6E4fhgNbS2VdrYJdAkq) | [Tommy Love](https://open.spotify.com/artist/1OJevp7blr19zF2ka2rEVT), [Manny Laurenko](https://open.spotify.com/artist/6gpLXhxeNFNiz38dyNqJ1C) | [Jump](https://open.spotify.com/album/1MKC1CSocKPwh4nf1WbWIo) | 2:25 |
-| 17 | [Freaky Toe \(CC Mix feat\. Derrick Taylor\)](https://open.spotify.com/track/1K65rsHQO17mdadr1l3ShZ) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Richie Stevens](https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl), [Mary Pearce](https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg), [Charlotte Kelly](https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4), [Trey Lewd](https://open.spotify.com/artist/6T1ZLCrTSmLviH2wME84tD), [Derrick Taylor](https://open.spotify.com/artist/0hY3bXijW2TBkCLNY2OJem) | [Freaky Toe \(CC Mix feat\. Derrick Taylor\)](https://open.spotify.com/album/3aoz9kCyQCn5wFTha0KbFb) | 4:25 |
+| 17 | [Freaky Toe \- CC Mix](https://open.spotify.com/track/1K65rsHQO17mdadr1l3ShZ) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Richie Stevens](https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl), [Mary Pearce](https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg), [Charlotte Kelly](https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4), [Trey Lewd](https://open.spotify.com/artist/6T1ZLCrTSmLviH2wME84tD), [Derrick Taylor](https://open.spotify.com/artist/0hY3bXijW2TBkCLNY2OJem) | [Freaky Toe \(CC Mix\)](https://open.spotify.com/album/3aoz9kCyQCn5wFTha0KbFb) | 4:25 |
 | 18 | [Sepricon](https://open.spotify.com/track/2FG43kVwZ84Q4o8mbJ2DhC) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [Sepricon](https://open.spotify.com/album/7E49Txc4y7PCfbjDPl5Ctp) | 3:14 |
 | 19 | [Warning Sign](https://open.spotify.com/track/4c0s18ptbeNyaDiepcLe6N) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI) | [Coronation](https://open.spotify.com/album/5OymrKAPQ2iDQ0Oyt8rwKo) | 3:25 |
 | 20 | [Our World \- Kaidi Tatham Remix](https://open.spotify.com/track/0kIPyXEsYWJK0y9xa38p41) | [Detroit Rising](https://open.spotify.com/artist/5L7BJ4rmMF3sd4TkpzJwzU), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Our World \(Kaidi Tatham Remix\)](https://open.spotify.com/album/4NrDRQjlSsfEkF9ulLTg4h) | 5:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 |
 | 100 | [Bad Vibes \- Duss Hagen Remix](https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq) | [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK), [Duss Hagen](https://open.spotify.com/artist/5fMHCBdB7H8fyKwkQuiN9M) | [Bad Vibes \(Duss Hagen Remix\)](https://open.spotify.com/album/7JSqjbgXJIqndFYtLQe8XG) | 2:59 |
 
-Snapshot ID: `MCxkMTlkNjBkNjRjZDBhM2UzMjk1NDI3NGNmODJlOWQ2ZmQ3NDg1Y2Zk`
+Snapshot ID: `MCxlYThjMTliMWE2MTRiNGM3Y2RlNTVlNzkxYTE0NGViYmEzYzY1NWMy`

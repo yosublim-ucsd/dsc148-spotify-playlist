@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 175912,
+  "2024-02-21": 175953,
   "date_first_scraped": "2022-07-17",
   "description": "Dillaz entra na zona. ",
   "name": "Na Zona",
@@ -1471,6 +1471,24 @@
       "duration_ms": 237176,
       "name": "Caix\u00f5es Personalizados Remix",
       "url": "https://open.spotify.com/track/6Aabu9h1GGqwqDN55jBcEG"
+    },
+    {
+      "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143823,
+      "name": "Cantona",
+      "url": "https://open.spotify.com/track/6mobne6wnkwLGDxF9T7D55"
     },
     {
       "album": {

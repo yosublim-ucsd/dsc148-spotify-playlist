@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Emma Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,636 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,638 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 31 | [Baltimore](https://open.spotify.com/track/0nmxB5hmIGopuFjBATeufO) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Baltimore](https://open.spotify.com/album/1qkrANE94Hj9VIUT7qzWZr) | 3:02 |
 | 32 | [\_dec carte de noël](https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_dec carte de noël](https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7) | 2:04 |
 | 33 | [QUAND LA NUIT TOMBE](https://open.spotify.com/track/62FdpcF3fC2IAzQKhJ1saY) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [QUAND LA NUIT TOMBE](https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y) | 3:31 |
-| 34 | [Gospel](https://open.spotify.com/track/1CG1W9ktBwGwptPC7mzbl7) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [Gospel](https://open.spotify.com/album/40enjiQ5fzcVaOZ8Sfpban) | 2:34 |
-| 35 | [Call Me \- Single Edit](https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Call Me](https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi) | 3:22 |
-| 36 | [Quand je regarde](https://open.spotify.com/track/3AE950LbUku1w7r4tnO6VL) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Quand je regarde](https://open.spotify.com/album/2S6J3gQyEHQxcO339TiQ6A) | 3:07 |
-| 37 | [Belek](https://open.spotify.com/track/1K1I5LLhJe3xqJnOHGNIwC) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Belek](https://open.spotify.com/album/1YCTpIGZUrRagjF2hsOVxd) | 3:21 |
-| 38 | [Parler de nous](https://open.spotify.com/track/4lnKexqvLyET91kj0sPdQT) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Train de vie](https://open.spotify.com/album/3iHDgAAhrLAQGb0tTs9a25) | 3:13 |
-| 39 | [DUI](https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [DUI](https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1) | 4:07 |
-| 40 | [Fluo](https://open.spotify.com/track/4jNqvpjAzutWmSfTdcOX1J) | [Irène Drésel](https://open.spotify.com/artist/23bTAvgtZrtRCWgEtqxQwA) | [Fluo](https://open.spotify.com/album/72s8TvGcPDSb5UCOw8J27V) | 9:03 |
-| 41 | [L'angle mort](https://open.spotify.com/track/31nIHzMgas22eRMulfndqF) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:24 |
-| 42 | [Vers le haut](https://open.spotify.com/track/4PZadbTuAUXMYwJ7cX9tQz) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Lumière](https://open.spotify.com/album/4nTcQn4uBbE00aJMgBmoWC) | 2:43 |
-| 43 | [Aller retour](https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [528 HZ](https://open.spotify.com/album/3Sgzvftq9J9oLH66IVnoyd) | 3:18 |
-| 44 | [La mort des amants](https://open.spotify.com/track/3PiLPJI4C9E0sJ7tkb6cnV) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous \(et plus encore\)](https://open.spotify.com/album/2I2dnvenAEBqTghHc50ebK) | 3:26 |
-| 45 | [Nintendo](https://open.spotify.com/track/21OaI5XKCWB7hZbcawR4eW) | [ANGILINAZULI](https://open.spotify.com/artist/2CoGupiCn8QwhrowUqkJTJ), [Lazuli](https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE), [Angie](https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w) | [ANGILINAZULI](https://open.spotify.com/album/29ujaXlT7f6iUcODhf2X2h) | 2:45 |
-| 46 | [Baby](https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:42 |
-| 47 | [BUT](https://open.spotify.com/track/4jVZMTFSjrZXQWHMhILGUI) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [BUT](https://open.spotify.com/album/7DLC4MYYwOjGxGA4X1hoFZ) | 3:09 |
-| 48 | [Baby Love](https://open.spotify.com/track/6N9Ut7goNThhDJFEyX8AZ7) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Baby Love](https://open.spotify.com/album/7a8cOjdx3oL8gQ5NGuw8Ty) | 3:00 |
-| 49 | [J'aimerais tellement](https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [J'aimerais tellement](https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH) | 3:15 |
-| 50 | [Je t'ai cherché](https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Je t'ai cherché](https://open.spotify.com/album/6oEvFXLoWYTyBTMJoELPKB) | 3:31 |
+| 34 | [Call Me \- Single Edit](https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Call Me](https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi) | 3:22 |
+| 35 | [Quand je regarde](https://open.spotify.com/track/3AE950LbUku1w7r4tnO6VL) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Quand je regarde](https://open.spotify.com/album/2S6J3gQyEHQxcO339TiQ6A) | 3:07 |
+| 36 | [Belek](https://open.spotify.com/track/1K1I5LLhJe3xqJnOHGNIwC) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Belek](https://open.spotify.com/album/1YCTpIGZUrRagjF2hsOVxd) | 3:21 |
+| 37 | [Parler de nous](https://open.spotify.com/track/4lnKexqvLyET91kj0sPdQT) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Train de vie](https://open.spotify.com/album/3iHDgAAhrLAQGb0tTs9a25) | 3:13 |
+| 38 | [DUI](https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [DUI](https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1) | 4:07 |
+| 39 | [Fluo](https://open.spotify.com/track/4jNqvpjAzutWmSfTdcOX1J) | [Irène Drésel](https://open.spotify.com/artist/23bTAvgtZrtRCWgEtqxQwA) | [Fluo](https://open.spotify.com/album/72s8TvGcPDSb5UCOw8J27V) | 9:03 |
+| 40 | [L'angle mort](https://open.spotify.com/track/31nIHzMgas22eRMulfndqF) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:24 |
+| 41 | [Vers le haut](https://open.spotify.com/track/4PZadbTuAUXMYwJ7cX9tQz) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Lumière](https://open.spotify.com/album/4nTcQn4uBbE00aJMgBmoWC) | 2:43 |
+| 42 | [Aller retour](https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [528 HZ](https://open.spotify.com/album/3Sgzvftq9J9oLH66IVnoyd) | 3:18 |
+| 43 | [La mort des amants](https://open.spotify.com/track/3PiLPJI4C9E0sJ7tkb6cnV) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous \(et plus encore\)](https://open.spotify.com/album/2I2dnvenAEBqTghHc50ebK) | 3:26 |
+| 44 | [Nintendo](https://open.spotify.com/track/21OaI5XKCWB7hZbcawR4eW) | [ANGILINAZULI](https://open.spotify.com/artist/2CoGupiCn8QwhrowUqkJTJ), [Lazuli](https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE), [Angie](https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w) | [ANGILINAZULI](https://open.spotify.com/album/29ujaXlT7f6iUcODhf2X2h) | 2:45 |
+| 45 | [Baby](https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:42 |
+| 46 | [BUT](https://open.spotify.com/track/4jVZMTFSjrZXQWHMhILGUI) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [BUT](https://open.spotify.com/album/7DLC4MYYwOjGxGA4X1hoFZ) | 3:09 |
+| 47 | [Baby Love](https://open.spotify.com/track/6N9Ut7goNThhDJFEyX8AZ7) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Baby Love](https://open.spotify.com/album/7a8cOjdx3oL8gQ5NGuw8Ty) | 3:00 |
+| 48 | [J'aimerais tellement](https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [J'aimerais tellement](https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH) | 3:15 |
+| 49 | [Je t'ai cherché](https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Je t'ai cherché](https://open.spotify.com/album/6oEvFXLoWYTyBTMJoELPKB) | 3:31 |
 
-Snapshot ID: `MCwxMGE1YTAxYzFjMjRmMWM1OWVmOTUwZDlmYjRhNzY5YzcyY2QyNWM2`
+Snapshot ID: `MCw4MjlhOGM1NjlkMGY2NjFkOGQxOTgwMDIxMGVhMTg0M2M1NDlhNjU2`

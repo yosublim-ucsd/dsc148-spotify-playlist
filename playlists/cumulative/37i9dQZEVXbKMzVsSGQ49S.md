@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,748 songs - 4 day 0 hr 5 min
+1,749 songs - 4 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Bahamas](https://open.spotify.com/track/4wNz1Qb58Ee7L1lI9d5PCX) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [Bahamas](https://open.spotify.com/album/71YLEKusEKGJxdavKXQa4o) | 2:08 | 2022-12-03 | 2022-12-05 |
 | [Bahamas](https://open.spotify.com/track/7zlAx9PHLfDohn0qGch7bI) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [Stjörnulífið](https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE) | 2:08 | 2023-01-07 | 2023-01-09 |
 | [Bahamas Promises](https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:04 | 2023-10-07 | 2023-10-09 |
-| [Bakka ekki út](https://open.spotify.com/track/0EgIa9cIW52lXHIYbkUFR9) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Bakka ekki út](https://open.spotify.com/album/6HBuFlNsfd3hYJRe0dOfxA) | 2:43 | 2023-05-13 |  |
+| [Bakka ekki út](https://open.spotify.com/track/0EgIa9cIW52lXHIYbkUFR9) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Bakka ekki út](https://open.spotify.com/album/6HBuFlNsfd3hYJRe0dOfxA) | 2:43 | 2023-05-13 | 2024-02-21 |
 | [BAKVIÐ GRÍMUNA](https://open.spotify.com/track/4wlgGMyjh9B9zEHKON3Gpt) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Tommyonthetrack](https://open.spotify.com/artist/5GMZVEJOgKu6FesmjSAgcG) | [600](https://open.spotify.com/album/7a0DRJSPe93FoF4GkxrN8d) | 3:34 | 2023-03-25 | 2023-04-06 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-08 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-09-18 |
@@ -483,6 +483,7 @@
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-08-26 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-10-07 | 2023-10-21 |
+| [FISTS OF FURY](https://open.spotify.com/track/4hSMdRQmvKpvgsxs1djUVU) | [Hugh Lee](https://open.spotify.com/artist/7fIUgkNfAw8Yn35LcR6zjk) | [FISTS OF FURY](https://open.spotify.com/album/1RnCNT6QsCpjv7RC1xw267) | 2:00 | 2024-02-20 |  |
 | [Fiðrildi](https://open.spotify.com/track/3Ccz2irf22WtQuoiAObolS) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Bushido](https://open.spotify.com/album/2IB1JhcHO9T94RYr0aO2fv) | 3:06 | 2021-10-17 | 2021-11-05 |
 | [Flakes](https://open.spotify.com/track/1QCyOsEcAzhP5wmvEq6uIH) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG), [Gísli Pálmi](https://open.spotify.com/artist/4Sdxz1flOuRiXXi77nGzhG) | [Stjörnulífið](https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE) | 2:13 | 2023-01-07 | 2023-01-10 |
 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 | 2024-01-06 | 2024-01-14 |

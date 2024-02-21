@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,833 likes - 40 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,492 likes - 40 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 | 40 | [LIE DOWN!](https://open.spotify.com/track/2RPe3OsUu4E4fDtmAlqh20) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [LIE DOWN!](https://open.spotify.com/album/3ENTKZGQ72k4Pyp4sSQ2fj) | 1:00 |
 
-Snapshot ID: `MCxlOTJkYzdhY2JjODhhMzYwNDhmOGVhOWQ0ODJiN2FiYTJiYjMzYjA5`
+Snapshot ID: `MCwyNTEzZTZhZWYyZmFjYTc4NjYyNmFhMWNiNjI5YWI2ZmVlMTA1YWEx`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWM1ZWM3YjA4MTI4MWU0YzJiYWVjNTNhOTljNzlmMzllMTJlNWE3",
+  "snapshot_id": "MCwxNWY4M2Q3M2UzZTVhYzMwZjFjMzVmNDAzNjYxODJkNzBlNGIwMzQz",
   "tracks": [
     {
       "added_at": "2021-06-01 06:00:00",
@@ -367,6 +367,334 @@
       "duration_ms": 209906,
       "name": "Crowded Table",
       "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Southern Curiosity",
+        "url": "https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/4Nzqf2Fx6oIcJOEsRBnjbI"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "E.G.O.",
+        "url": "https://open.spotify.com/album/1VVaCcDi6CDJ86XpyGVUQ0"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 306600,
+      "name": "Black Jeans",
+      "url": "https://open.spotify.com/track/1zHgiJB245RamHyftORKn9"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Chosen Family Tree",
+        "url": "https://open.spotify.com/album/1kTyAvgksFOl4nlogRvTJw"
+      },
+      "artists": [
+        {
+          "name": "Kree Harrison",
+          "url": "https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Make It Easy",
+      "url": "https://open.spotify.com/track/2bCbRVsjMcLwUdlxMvFZ2V"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Neon Cross",
+        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 264181,
+      "name": "Neon Cross",
+      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Blueneck",
+        "url": "https://open.spotify.com/album/26sJLYRYYqSbzX28jkS2Nm"
+      },
+      "artists": [
+        {
+          "name": "Chris Housman",
+          "url": "https://open.spotify.com/artist/6kpQQUxQqxZEXaaWEoFdhY"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Blueneck",
+      "url": "https://open.spotify.com/track/4hsfbnqymyRKixQZJpOiXW"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Remind Me Of You",
+        "url": "https://open.spotify.com/album/26sL1Mhq8kEduQGGeY2jGq"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "Remind Me Of You",
+      "url": "https://open.spotify.com/track/72jf3DDz9utQpLpHs2jfXv"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Illiterate Light",
+        "url": "https://open.spotify.com/album/101nIHm9fdR1wLMgjiLmhT"
+      },
+      "artists": [
+        {
+          "name": "Illiterate Light",
+          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
+        }
+      ],
+      "duration_ms": 220984,
+      "name": "Sometimes Love Takes So Long",
+      "url": "https://open.spotify.com/track/0EJI36CptZJo8y9COiqSu4"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "The Greatest Part",
+        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 163712,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/2sgo2GoNu0Wa7ttKCm8icB"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 236375,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/5WqBxHItzxkS8eYpJCi8qb"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/4yOZivzG8tdyRPXdXooXRP"
+      },
+      "artists": [
+        {
+          "name": "Emily West",
+          "url": "https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA"
+        }
+      ],
+      "duration_ms": 176813,
+      "name": "Battles",
+      "url": "https://open.spotify.com/track/44yKM9BdCTLyuSRWW2twxv"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Younger Me",
+        "url": "https://open.spotify.com/album/1LQ7jQS8wOaIDcHqjcDet2"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "Younger Me",
+      "url": "https://open.spotify.com/track/5vyONuW3HK0kJQBkrSp25B"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "look up",
+      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 227554,
+      "name": "Walk Through Fire",
+      "url": "https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Oh, What A World",
+      "url": "https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Oscar Nominated",
+        "url": "https://open.spotify.com/album/72GYmVYgAJg6bg1nTg4woV"
+      },
+      "artists": [
+        {
+          "name": "James Droll",
+          "url": "https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 204075,
+      "name": "Oscar Nominated",
+      "url": "https://open.spotify.com/track/2lbneLXRIBup57TVfxx3zD"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Kate York & Joe Pisapia",
+        "url": "https://open.spotify.com/album/05pNWaK791JPgmURl9kWRc"
+      },
+      "artists": [
+        {
+          "name": "Kate York",
+          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
+        },
+        {
+          "name": "Joe Pisapia",
+          "url": "https://open.spotify.com/artist/5b3G440uTn9vamEasYG0eH"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "All My Worry",
+      "url": "https://open.spotify.com/track/1MwEsNbSXgpjmfAN3JMzzS"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Mercy Bell",
+        "url": "https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7"
+      },
+      "artists": [
+        {
+          "name": "Mercy Bell",
+          "url": "https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "All Good Cowboys",
+      "url": "https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs"
     }
   ],
   "unique_name": "PRIDE: Nashville",

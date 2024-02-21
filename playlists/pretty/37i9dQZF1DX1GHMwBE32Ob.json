@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: T I Blaze",
-  "num_followers": 45522,
+  "num_followers": 45601,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjQwMmU1Y2NlYjFkYmYzZGMyNTUxOTFhMGYwZmQwM2U0NjcyNjMx",
+  "snapshot_id": "MCxjYWU5ZDQ5ZWI2YTFkODQ0ZDhmZWRmMzUxMTBjMmRkZTA5MWVmZDk3",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Wire",
+      "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Egopiano",
         "url": "https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 151578,
       "name": "Egopiano",
       "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Wire",
-      "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
     },
     {
       "added_at": "2024-02-16 00:01:00",

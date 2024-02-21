@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Ela Taubert
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,030 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,057 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 39 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
 | 40 | [La Mexicana](https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [La Mexicana](https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA) | 2:29 |
 | 41 | [Chistes Malos](https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Chistes Malos](https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba) | 2:51 |
-| 42 | [No Estás](https://open.spotify.com/track/7j9eKuQVUAm4I878E3n2eA) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [No Estás](https://open.spotify.com/album/7gdZQEOFPSZUKj03hqPZnQ) | 3:01 |
-| 43 | [Como Un Sueño](https://open.spotify.com/track/2gK3ynM9On1zehgLJaUKhf) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx), [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Como Un Sueño](https://open.spotify.com/album/0AzuXwKn5iVxzXbvoCIgRX) | 2:56 |
+| 42 | [Como Un Sueño](https://open.spotify.com/track/2gK3ynM9On1zehgLJaUKhf) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx), [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Como Un Sueño](https://open.spotify.com/album/0AzuXwKn5iVxzXbvoCIgRX) | 2:56 |
+| 43 | [No Estás](https://open.spotify.com/track/7j9eKuQVUAm4I878E3n2eA) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [No Estás](https://open.spotify.com/album/7gdZQEOFPSZUKj03hqPZnQ) | 3:01 |
 | 44 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
 | 45 | [fuimos amigos](https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [fuimos amigos](https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr) | 2:48 |
 | 46 | [Anoche](https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Anoche](https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb) | 3:16 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 69 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
 | 70 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 |
 | 71 | [Que Chimbo](https://open.spotify.com/track/3NtJcM9WHnxLlD0stGJmmm) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Que Chimbo](https://open.spotify.com/album/3F5sgJGuvlRmuaV7YQnsvX) | 2:16 |
-| 72 | [Rosita Sakura](https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Rosita Sakura](https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK) | 2:28 |
-| 73 | [FIKSION](https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [FIKSION](https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc) | 2:58 |
+| 72 | [FIKSION](https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [FIKSION](https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc) | 2:58 |
+| 73 | [Rosita Sakura](https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Rosita Sakura](https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK) | 2:28 |
 | 74 | [medio vacío](https://open.spotify.com/track/68bWtlDEUAV5l0bJPUr1sr) | [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [medio vacío](https://open.spotify.com/album/5WLapTTLMjeF2g1bJPcTNy) | 3:05 |
 | 75 | [no quiero olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [no quiero olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 |
 
-Snapshot ID: `MCw1MWM5ODI3ZWY4MTQ3NTNhNzg4NmZmMzk4ZWJkY2NkZmRmMTRhZjM3`
+Snapshot ID: `MCwwYmNjMGI2YmNkZmRjYzI0MjA4NDhhZWY5MjUyZWFmZGJmOGRiYTIz`

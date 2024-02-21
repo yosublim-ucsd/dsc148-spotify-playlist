@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Amanda Cy
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,292 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,297 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 98 | [Exhale](https://open.spotify.com/track/4nhwDQKDuKfMyfKAihTN5W) | [haugust](https://open.spotify.com/artist/07KhVOf8HbWRfk3rkiyUqT) | [Anger Management](https://open.spotify.com/album/399ke7Bcdg609a5s6ETPu6) | 2:57 |
 | 99 | [VDKDV?](https://open.spotify.com/track/5DKc7J0BxFKwYonJgWyU0v) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [VDKDV?](https://open.spotify.com/album/6vHMn2bJ7DggbtHzKZGiPC) | 2:19 |
 
-Snapshot ID: `MCwwZGRjY2Q5MDU0M2Q1NTkwZjk0YWJjNWQwOWI3NTExMzU3MDRiMDU0`
+Snapshot ID: `MCw4Y2QyMWY2YjI4YTkxMGRjNDI5YmU4YzRjMzc2NTU3YTkyYWQyZTE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,597 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,603 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Abandoned](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 |
 | 50 | [All My Worst Ideas](https://open.spotify.com/track/3vFUf6MhUxiy1YtjvxUaV3) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [All My Worst Ideas](https://open.spotify.com/album/4mKxxoVswgNNEp3pCOyiZ2) | 4:33 |
 
-Snapshot ID: `MCw1ODAzYjJhMzdiMDYzZDNmN2E2MTk2MTM2ODMwNjRmZGIzOGM1ZGFj`
+Snapshot ID: `MCxjMTUyMGI0YzkxYTVlNDg1YWYxOWYzYWJkMjAwZmNhMTVjMjM1YzY5`

@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-252 songs - 15 hr 56 min
+253 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [El Llamado](https://open.spotify.com/track/4OgxEP5h38KjRYYPdA0grX) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [El Llamado](https://open.spotify.com/album/53JYiQ2PyJRHAl1nKCP4ap) | 3:41 | 2023-07-25 | 2023-08-31 |
 | [El Llamado](https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:41 | 2023-08-11 |  |
 | [El Rincón \(Chachachá\)](https://open.spotify.com/track/08jLZncRsF8HB2cgzBUTnN) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/4RsOvbDDKueXvQSPHXTMi5) | 3:51 | 2022-01-01 | 2024-02-10 |
+| [El Rincón \(Chachachá\)](https://open.spotify.com/track/1l0ACi45WOGrt9AyEBD1EW) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/1JnidEbuApQKcCzo4HK3Og) | 3:51 | 2024-02-16 |  |
 | [El rincón \(Chachachá\)](https://open.spotify.com/track/53FTMNsJZWS3rnJzHoaugG) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/0QIv2shOFaPcLZpzydG3k0) | 3:51 | 2021-12-09 | 2022-07-29 |
 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 | 2022-01-01 |  |
 | [Electric Boogaloo](https://open.spotify.com/track/4duwdgGjNHJc1uel4SZPya) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/6iXN0n421mEm5R1tpznHkx) | 4:00 | 2021-12-09 | 2022-07-29 |
@@ -107,7 +108,7 @@
 | [Game On](https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Game On](https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG) | 5:01 | 2024-02-09 |  |
 | [Gopher Mambo \- Remastered 2009](https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF) | [Gozzo](https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0), [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq), [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d), [The Rico Mambo Orchestra](https://open.spotify.com/artist/11GPsCMxATNWk1L7OKFLpH) | [Mambo!](https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL) | 2:17 | 2022-01-01 | 2023-03-08 |
 | [Grietas](https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Grietas](https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3) | 5:13 | 2023-10-27 |  |
-| [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 | 2021-12-09 |  |
+| [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 | 2021-12-09 | 2024-02-21 |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-12-09 |  |
 | [Jogando Capoeira](https://open.spotify.com/track/38gAlHeR2U1ptn4mPC1cal) | [Beatfanatic](https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA) | [Latin Concrete: A Modern Latin Beat Suite mixed and compiled by Chris Read](https://open.spotify.com/album/5sImLUIHsB11XCDNHSBfgf) | 6:45 | 2021-12-09 | 2022-07-29 |
 | [Jogando Capoiera](https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi) | [Beatfanatic](https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA) | [Jogando Capoiera / Cookin'](https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi) | 6:50 | 2022-01-01 | 2024-01-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,279 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,283 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 99 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 |
 | 100 | [Guitarra, Dímelo Tú](https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9) | [Suma Paz](https://open.spotify.com/artist/6EINkNkWN74E8LNbTt3pVe) | [Canto de Nadie](https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE) | 3:10 |
 
-Snapshot ID: `MCxjZDhjOTNmMWUwYTE0NjM3YTlmMDI2MzM4ZjAwN2Y3ZDM3Yzk5MmQ4`
+Snapshot ID: `MCxhMDZjZTZiZDk0MDA4Y2UzNTg0ZWExZDQ0YmViZTE1NGJjMTEzM2M0`

@@ -4,12 +4,12 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 37 min
+50 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Santita](https://open.spotify.com/track/4rqrMtxJ20AqKoClzYOrYD) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [A Mi Santita](https://open.spotify.com/album/5KJIuwIZx3lBjCrsJt77cm) | 3:12 | 2024-01-29 |  |
-| [Ace Of Spades](https://open.spotify.com/track/17IMhVVKNTHfiGPn90U9WB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:05 | 2024-01-29 |  |
+| [Ace Of Spades](https://open.spotify.com/track/17IMhVVKNTHfiGPn90U9WB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:05 | 2024-01-29 | 2024-02-21 |
 | [Agradecido Estoy](https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP) | [Grupo Recien](https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Agradecido Estoy](https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG) | 2:45 | 2024-01-29 |  |
 | [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 | 2024-01-29 |  |
 | [Aqui Sigo Chevereando \(En Vivo\)](https://open.spotify.com/track/08QMehyraBMIg42REIm9xs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [En Vivo Desde Tacos Desvelados](https://open.spotify.com/album/2XjhT8SxqQiKmAiYs0nCrF) | 2:52 | 2024-01-29 |  |
@@ -50,6 +50,7 @@
 | [Quien Es Quien](https://open.spotify.com/track/6LfcpjezozJFYAarlGYTs3) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:31 | 2024-01-29 |  |
 | [Richie Rich \- En Vivo](https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Richie Rich \(En Vivo\)](https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi) | 2:52 | 2024-01-29 |  |
 | [Salieron Rumores](https://open.spotify.com/track/0SX9Hs9YY4AP4Z9CR33tAv) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Salieron Rumores](https://open.spotify.com/album/6Fs1Gcj7MrYUMEzOUA7CYB) | 2:19 | 2024-01-29 |  |
+| [Simplemente El P](https://open.spotify.com/track/79E2tjgMIO5PvlbvE8E5DG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [JR Barraza](https://open.spotify.com/artist/0iWFmZPXZ81BaRmXXoTYRw) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:58 | 2024-02-20 |  |
 | [Sin Saber De Mi](https://open.spotify.com/track/2bfDHwOhVLJFRyMV23hiLR) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:26 | 2024-01-29 |  |
 | [Situaciones de la Calle](https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:25 | 2024-01-29 |  |
 | [Soy Chapito Soy Amigo \(En Vivo\)](https://open.spotify.com/track/0Y0lKXho3LtYi6vcEG4Esf) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:22 | 2024-01-29 |  |

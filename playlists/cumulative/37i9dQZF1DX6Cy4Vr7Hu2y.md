@@ -4,14 +4,14 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: \(G\)I\-DLE\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-372 songs - 20 hr 43 min
+373 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Self\_Trip](https://open.spotify.com/track/2I0uCY7VX3XkMx9s6gMM4K) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [mOS 2.74](https://open.spotify.com/album/4vDtSmZdZmkmoqNdh9Lpcv) | 3:01 | 2022-06-01 | 2022-07-28 |
 | [\#tb](https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Hongbi](https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN) | [\#tb](https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp) | 4:35 | 2021-11-21 | 2022-07-29 |
 | [10 years without you…](https://open.spotify.com/track/2pGkjkv2739VQzgP7xaHt0) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [10 years without you…](https://open.spotify.com/album/0lkeN2GvaPlvphgFxFaTPf) | 3:30 | 2022-03-29 | 2022-06-06 |
-| [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-07 |  |
+| [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-07 | 2024-02-21 |
 | [3 Months](https://open.spotify.com/track/2bm7HuBe4qhsVwwbm5rbWZ) | [KASPER](https://open.spotify.com/artist/6N8Wyy7G86YTHz3oIaJZjO) | [3 Months](https://open.spotify.com/album/0OrVANe6ujovAiIjUgDB2I) | 3:02 | 2021-11-21 | 2022-07-15 |
 | [30](https://open.spotify.com/track/2mF0a6QdJY5WDWar4THKyi) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [30](https://open.spotify.com/album/4CzbvSXwAjr7Vs8mghPcbP) | 3:24 | 2021-11-21 | 2022-07-22 |
 | [8%](https://open.spotify.com/track/5b8kLu7ws92PZNztnAfhTr) | [HAIL](https://open.spotify.com/artist/6ay9YyFyAgf6eORHdLKKDf) | [8%](https://open.spotify.com/album/4A2zt7AYTnaI3TMdSKh3TB) | 3:50 | 2021-11-21 | 2022-03-07 |
@@ -95,6 +95,7 @@
 | [Draw you](https://open.spotify.com/track/7bTucaBqXtbXqTMVmn2kqN) | [Lily](https://open.spotify.com/artist/0FkC6ADT1KhZkQe1o3Ykeu) | [Draw you](https://open.spotify.com/album/1OOyY6wBL9d9peHFOCcuDB) | 3:55 | 2022-03-22 | 2022-07-06 |
 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 | 2022-11-30 | 2024-01-03 |
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-11-21 | 2022-09-07 |
+| [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-20 |  |
 | [ELEVATOR](https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [ELEVATOR](https://open.spotify.com/album/54iEiUHiYVeNdKDRZqDsag) | 3:15 | 2021-11-21 | 2022-07-23 |
 | [End of the Story](https://open.spotify.com/track/6vSyVvWdfeynSlmBes22la) | [Kayy](https://open.spotify.com/artist/7dasGffT8yFvCbCvWofM2e) | [End of the Story](https://open.spotify.com/album/5qyGPeflfxlvPE7jZpPvrK) | 3:43 | 2021-11-21 | 2022-07-18 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-08-18 |  |

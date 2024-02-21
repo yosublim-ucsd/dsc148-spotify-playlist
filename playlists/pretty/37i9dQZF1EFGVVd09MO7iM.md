@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,074 likes - 403 songs - 1 day 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,077 likes - 403 songs - 1 day 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 90 | [Move That Dope \(feat\. Pharrell, Pusha T & Casino\)](https://open.spotify.com/track/7GEidxhfGNteiW9n0kLyxH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Casino](https://open.spotify.com/artist/1Q9yutXUVHodDxHIacpEMT) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 5:40 |
 | 91 | [It's On Again \(feat\. Kendrick Lamar\) \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/44EkzAU92xwm30YpD4p31i) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [It's On Again \(feat\. Kendrick Lamar\) \[From The Amazing Spider\-Man 2 Soundtrack\]](https://open.spotify.com/album/2frlfPpDjHfemIPVNGAg7a) | 3:49 |
 | 92 | [Superpower \(feat\. Frank Ocean\)](https://open.spotify.com/track/49sXkAcR5LvOrtq5Qcn5cf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 4:36 |
-| 93 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty: Roc La Familia](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
-| 94 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
+| 93 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
+| 94 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty: Roc La Familia](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
 | 95 | [Life in Technicolor](https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 2:29 |
 | 96 | [Supplies](https://open.spotify.com/track/6jT85s2dZ55HBqjXYi2rfI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 3:45 |
 | 97 | [All Eyes on Me](https://open.spotify.com/track/0gg5h5BgdjVlXTti79TUao) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [All Eyes on Me](https://open.spotify.com/album/2kOw2vtpI2FxttuzfP0rfU) | 4:02 |
@@ -412,4 +412,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 402 | [Chinese New Year](https://open.spotify.com/track/2F38A3ce3ORI7tyi8IPdku) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:54 |
 | 403 | [If](https://open.spotify.com/track/68deyvfivX8kzvFfxJ0BdL) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Da Derrty Versions: The Re\-invention](https://open.spotify.com/album/3cSUd7H22DtZzvSUJkBIlM) | 3:38 |
 
-Snapshot ID: `Mjg0NzMyNjAsMDAwMDAwMDA4MDY2ODU0NWYwNWM3ZTUxMjg5NmRlYTI1YWYxNGFiMg==`
+Snapshot ID: `Mjg0NzQ3MDAsMDAwMDAwMDAzNjg4NmU1NTcyNmEyMmJlZjI4OWMwYWJhYjVhNjFiZA==`

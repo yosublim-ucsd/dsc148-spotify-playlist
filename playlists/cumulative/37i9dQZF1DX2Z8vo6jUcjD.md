@@ -4,7 +4,7 @@
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF?si=0Nmwl3bvRHyUGyKCVacoVQ">ThxSoMch's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-33 songs - 2 hr 14 min
+34 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Red Bottom Sky](https://open.spotify.com/track/7wgnq5xJ4elWgKBASBKbZt) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stranger](https://open.spotify.com/album/10iGXFl7sNkUDjIPLRA8Ym) | 5:03 | 2024-02-09 |  |
 | [Return of the "G"](https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:49 | 2024-02-09 |  |
 | [The Brightside](https://open.spotify.com/track/64oQ8vyugS5Mmm4BFakssO) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/6GkrA9XjOpEFkep0TIfFB8) | 3:36 | 2024-02-09 | 2024-02-14 |
-| [The Brightside](https://open.spotify.com/track/7lbGqBMyCOK43hwY0Kcu7o) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/70LJ28NE9LV93xF2z6PiyN) | 3:36 | 2024-02-09 |  |
+| [The Brightside](https://open.spotify.com/track/6WZizYcp3m2JWesnD7gaTE) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [The Brightside](https://open.spotify.com/album/6rTyh0riZAaLQNjJLKiloy) | 3:36 | 2024-02-09 |  |
+| [The Brightside](https://open.spotify.com/track/7lbGqBMyCOK43hwY0Kcu7o) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/70LJ28NE9LV93xF2z6PiyN) | 3:36 | 2024-02-09 | 2024-02-21 |
 | [The Killing Moon](https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 5:48 | 2024-02-09 |  |
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2024-02-09 |  |
 | [WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 4:11 | 2024-02-09 |  |

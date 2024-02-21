@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,992 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,108 likes - 51 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 | 24 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 25 | [Anxiety](https://open.spotify.com/track/716wcEhWeq3N1Id3L9mp6f) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:38 |
 | 26 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 |
-| 27 | [MUEVELO](https://open.spotify.com/track/6r0bDGDS8JJShneQkMAzj1) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [MUEVELO](https://open.spotify.com/album/1JviwowNAeoLx0kQJ2A2h4) | 4:14 |
-| 28 | [Mami](https://open.spotify.com/track/3bDD7GGvIzAZeHz2TOYD3A) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Mami](https://open.spotify.com/album/069LGoUMDaNgoKStPYdSi8) | 3:49 |
+| 27 | [Mami](https://open.spotify.com/track/3bDD7GGvIzAZeHz2TOYD3A) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Mami](https://open.spotify.com/album/069LGoUMDaNgoKStPYdSi8) | 3:49 |
+| 28 | [MUEVELO](https://open.spotify.com/track/6r0bDGDS8JJShneQkMAzj1) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [MUEVELO](https://open.spotify.com/album/1JviwowNAeoLx0kQJ2A2h4) | 4:14 |
 | 29 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 |
 | 30 | [Shake Ya Boom Boom](https://open.spotify.com/track/1gVZRO8RdxbaUuxKNRcFsd) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Shake Ya Boom Boom](https://open.spotify.com/album/7GHotUAxNYMjGew9Wnz5N4) | 3:21 |
 | 31 | [My Humps \- Single Version](https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps](https://open.spotify.com/album/5gYvt08iJYSGmRnBRpXvUZ) | 4:10 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 | 47 | [DURO HARD](https://open.spotify.com/track/1dqAW18r3tHyy4Ou7PjB9e) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:25 |
 | 48 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 |
 | 49 | [DOUBLE D'Z](https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:20 |
-| 50 | [Boom Boom Guetta \- David Guetta's Electro Hop Remix](https://open.spotify.com/track/4jpQfNAq0qrCVMsswFbES4) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [I Gotta Feeling \(International Version\)](https://open.spotify.com/album/3AZ8syx3I7qwH8yCSZXhou) | 4:01 |
+| 50 | [XOXOXO](https://open.spotify.com/track/0DS7fFqiQhSDzaVVpDvNQv) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 3:45 |
 | 51 | [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 |
 
-Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDBlNDQ5MDRhZGQ5MjY1OTI0NjQ1ZDBkOGJhODlhMzgxZA==`
+Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDAwYzBlZWU3Y2JlZjk0MWMwODdlMjI2NGU0YTk0N2I3OQ==`

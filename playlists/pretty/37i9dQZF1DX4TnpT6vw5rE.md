@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,923 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,954 likes - 120 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Clear moment](https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Elevate](https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh) | 3:44 |
 | 120 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 |
 
-Snapshot ID: `MCw1ZTE4NWIyY2JlMzQ1MjEzOGRhNDQ2ZjZkODlhM2JkMzIzNjMxYTcw`
+Snapshot ID: `MCxiM2I4M2QwYTU1ZjFjYzY0NDM1ZjMzM2VlZDAwZTVmODQ2ZjllYmVm`

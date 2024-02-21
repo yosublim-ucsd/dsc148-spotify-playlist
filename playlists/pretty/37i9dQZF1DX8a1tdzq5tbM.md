@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,481 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,717 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 38 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |
 | 39 | [Baby When the Light \(feat\. Cozi\)](https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Cozi](https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN) | [Pop Life](https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG) | 3:28 |
 | 40 | [Don't Call Me Baby](https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7) | 3:48 |
-| 41 | [The World Is Mine](https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Guetta Blaster](https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn) | 3:39 |
-| 42 | [Destination Calabria \- UK Radio Edit](https://open.spotify.com/track/7pGboneNRAZ5zwT7M3WayC) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:01 |
+| 41 | [Destination Calabria \- UK Radio Edit](https://open.spotify.com/track/7pGboneNRAZ5zwT7M3WayC) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:01 |
+| 42 | [The World Is Mine](https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Guetta Blaster](https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn) | 3:39 |
 | 43 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 |
 | 44 | [The Longest Road \- deadmau5 Remix Edit](https://open.spotify.com/track/77w8cBOdasP7aNcPD9Dec8) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [The Longest Road](https://open.spotify.com/album/2WLFwif81NStLAwtQQtsFs) | 3:59 |
 | 45 | [Go](https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk) | 3:37 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 81 | [Feel Your Love](https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A) | 3:20 |
 | 82 | [Girlfriend \- 2008 Remix](https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Keylime](https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA) | [Girlfriend \(2008 Remix\)](https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9) | 7:15 |
 | 83 | [Heartbreak \- Radio Edit](https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Heartbreak](https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7) | 3:41 |
-| 84 | [Fire](https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 4:31 |
-| 85 | [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 |
+| 84 | [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 |
+| 85 | [Fire](https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 4:31 |
 | 86 | [Tracking Treasure Down](https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U) | [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Molly Bancroft](https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q) | [50 Trance Tunes, Vol\. 28](https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb) | 3:09 |
 | 87 | [Army Of Two \- Radio Version](https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Army Of Two](https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R) | 3:07 |
 | 88 | [Rocker](https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Transphormer](https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7) | 4:48 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/05u4uCA07oXnopEdlZ57Ug) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Awaken \(Pt\. 2\) \[Remixes\]](https://open.spotify.com/album/1ZMzi9pfVDFExVCKiDkYZO) | 3:44 |
 | 120 | [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 |
 
-Snapshot ID: `MCw1OWYyYjQ4ZjhmMzBhY2FlOThlYzQ4MDk0Y2M0ZGMyYTE1MjBhZjQy`
+Snapshot ID: `MCw3MWQ3YTlmOGQ4OTI3MmRmMDBhMDBhYWI0ZTcyMGIyYWZlMzZjMDIz`

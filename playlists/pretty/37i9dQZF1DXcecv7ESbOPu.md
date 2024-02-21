@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,631 likes - 123 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,662 likes - 123 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 13 | [Down](https://open.spotify.com/track/78dsAqvPezU0xkeEJMjlj3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 2:09 |
 | 14 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 |
 | 15 | [MAYDAY \(fjällräddningspatrullen\)](https://open.spotify.com/track/7xlZNVvREW1Fy0RBaJ5tc1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MAYDAY \(fjällräddningspatrullen\)](https://open.spotify.com/album/4WYrYlSAoNz925YqGjajd9) | 2:26 |
-| 16 | [Ljug för mig](https://open.spotify.com/track/0Yw8WYGz7tY6CvcoH7QKtm) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/0MD40yNkk9Ftdqsg0JzE3L) | 3:14 |
+| 16 | [Ljug för mig](https://open.spotify.com/track/07EL8zmTSyiatI1e8Q93SK) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/7J7VPIsNWZbe5vgcV4GIrm) | 3:14 |
 | 17 | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV) | 3:10 |
 | 18 | [Svårt För Mej](https://open.spotify.com/track/3EbMKIDr1MPNkP0eCVGyly) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Svårt För Mej](https://open.spotify.com/album/1x39I8w7GuCTrwYiTZGNzO) | 3:39 |
 | 19 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 122 | [JUSSI](https://open.spotify.com/track/5z7Zc81YRQHchQJXXIj6RE) | [ALVA](https://open.spotify.com/artist/5cutSKNdUWOwGrP7KsdNLU) | [JUSSI](https://open.spotify.com/album/6z5UZcjnwzfKYeXjKprt1i) | 3:23 |
 | 123 | [SOLDAT \- RMX](https://open.spotify.com/track/7MZQoikPpcwneYkKhdRvoe) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SOLDAT \(RMX\)](https://open.spotify.com/album/7d01BzemHy5sO25e3BodoN) | 2:19 |
 
-Snapshot ID: `MCw3NmJjNmFiNjU2MjFhZGE5MTNiN2RhMzVmOTQ4YTE5OTJhODU0MGFj`
+Snapshot ID: `MCw2NTc5NDhiZmNhMmRkZmM2OTcxYzJkMTVmMzMzODEwMjM3ZGNjMTI3`

@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. LUNA KI",
-  "num_followers": 124842,
+  "num_followers": 124844,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQ4MTdmZTI3NmE3NDdmYzk2MDJlOWFmMmFmZWRjYWIxYzdhYTlm",
+  "snapshot_id": "MCw5MWZhZmM5NGNhNzc3YmQ0YzQwYmJhZWQ4MmFiZDk1YzEyYTFmYTZh",
   "tracks": [
     {
       "added_at": "2024-02-15 23:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Abducida",
-      "url": "https://open.spotify.com/track/0CL6YBflR8yZgspVYyhw0F"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "Desde la Luna",
         "url": "https://open.spotify.com/album/189H9UzXywc9F8HeLnlJ9z"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 114869,
       "name": "Desde la Luna",
       "url": "https://open.spotify.com/track/3YUn5SXAbsxkxUWbn9vc2k"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Chupetones",
+        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Abducida",
+      "url": "https://open.spotify.com/track/0CL6YBflR8yZgspVYyhw0F"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "3MMC",
+        "url": "https://open.spotify.com/album/0RZAILXpCvJfk0WOMerEAt"
+      },
+      "artists": [
+        {
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
+        },
+        {
+          "name": "ari llobet",
+          "url": "https://open.spotify.com/artist/2dDhILeat9PZHc1AvpN38g"
+        }
+      ],
+      "duration_ms": 187580,
+      "name": "3MMC",
+      "url": "https://open.spotify.com/track/290lMhjgQgcpCGAxUVov9O"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "no me hables\u30fb\uff9f\u2606\u2727",
         "url": "https://open.spotify.com/album/2aTY48jWWDcS4PyzGKUrlU"
       },
@@ -1267,22 +1287,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "estr333s",
-        "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
-      },
-      "artists": [
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "estr333s",
-      "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "INOCENTE",
         "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
       },
@@ -1295,6 +1299,22 @@
       "duration_ms": 140585,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "estr333s",
+        "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "estr333s",
+      "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "3MMC",
-        "url": "https://open.spotify.com/album/0RZAILXpCvJfk0WOMerEAt"
-      },
-      "artists": [
-        {
-          "name": "Svetlana",
-          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
-        },
-        {
-          "name": "ari llobet",
-          "url": "https://open.spotify.com/artist/2dDhILeat9PZHc1AvpN38g"
-        }
-      ],
-      "duration_ms": 187580,
-      "name": "3MMC",
-      "url": "https://open.spotify.com/track/290lMhjgQgcpCGAxUVov9O"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "Cu\u00e1ntas Veces",
         "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
       },
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "Antipanico",
+        "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        },
+        {
+          "name": "3RIP",
+          "url": "https://open.spotify.com/artist/7sQ4zZZvkVfG6Ecpx1se6v"
+        }
+      ],
+      "duration_ms": 186075,
+      "name": "Antipanico",
+      "url": "https://open.spotify.com/track/70zOMyUetEcZus2MknoWMI"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "oniria",
         "url": "https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 164442,
       "name": "hechizo final",
       "url": "https://open.spotify.com/track/3EvVrRxevFUiuS4ZX1pK7p"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Antipanico",
-        "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
-      },
-      "artists": [
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-        },
-        {
-          "name": "3RIP",
-          "url": "https://open.spotify.com/artist/7sQ4zZZvkVfG6Ecpx1se6v"
-        }
-      ],
-      "duration_ms": 186075,
-      "name": "Antipanico",
-      "url": "https://open.spotify.com/track/70zOMyUetEcZus2MknoWMI"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "Cuando Te Veo Pasar",
-        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 134697,
-      "name": "Cuando Te Veo Pasar",
-      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "EP4 \u00b7 (\u30ce^_^)\u30ce\"",
         "url": "https://open.spotify.com/album/0tIGN2hTEIjaAnxM4qfZ1f"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 200000,
       "name": "mis amigos! \u30fd(\u00b4\u25bd\uff40)\u30ce\"",
       "url": "https://open.spotify.com/track/6UH3GhaBcPyQ4Gs2T66VeS"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Cuando Te Veo Pasar",
+        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 134697,
+      "name": "Cuando Te Veo Pasar",
+      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "Hyperandom.Mp3",
-        "url": "https://open.spotify.com/album/0lIGjZNui4AS8UHVTml2fF"
-      },
-      "artists": [
-        {
-          "name": "cmilo",
-          "url": "https://open.spotify.com/artist/1IhwB9stYiMABWq9qrpn6o"
-        }
-      ],
-      "duration_ms": 97896,
-      "name": "Hyperandom.Mp3",
-      "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "Sangre",
         "url": "https://open.spotify.com/album/09RMX5vSign9TSfm11I18W"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 181092,
       "name": "Sangre",
       "url": "https://open.spotify.com/track/0vh4qde6Oqg7MknExXcGdv"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Hyperandom.Mp3",
+        "url": "https://open.spotify.com/album/0lIGjZNui4AS8UHVTml2fF"
+      },
+      "artists": [
+        {
+          "name": "cmilo",
+          "url": "https://open.spotify.com/artist/1IhwB9stYiMABWq9qrpn6o"
+        }
+      ],
+      "duration_ms": 97896,
+      "name": "Hyperandom.Mp3",
+      "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "no lo volver\u00e9 a hacer",
+        "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        }
+      ],
+      "duration_ms": 120284,
+      "name": "no lo volver\u00e9 a hacer",
+      "url": "https://open.spotify.com/track/61tr8wG7cG1NaB6NQRb7li"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "TikTok",
         "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 128003,
       "name": "TikTok",
       "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "no lo volver\u00e9 a hacer",
-        "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
-      },
-      "artists": [
-        {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
-        }
-      ],
-      "duration_ms": 120284,
-      "name": "no lo volver\u00e9 a hacer",
-      "url": "https://open.spotify.com/track/61tr8wG7cG1NaB6NQRb7li"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "Que m\u00e1s da",
-        "url": "https://open.spotify.com/album/3sJswWpzyKnIuTLv2izMIq"
-      },
-      "artists": [
-        {
-          "name": "Octopvs To The Party",
-          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
-        },
-        {
-          "name": "XhanelBBY",
-          "url": "https://open.spotify.com/artist/0XilNKZaQEvUz3X571uXCW"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "Que m\u00e1s da",
-      "url": "https://open.spotify.com/track/5iwtTGyfu9QzlXiFvCwvnw"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "Pendientes de Corazones",
         "url": "https://open.spotify.com/album/2TgclqeLwL7oSO3d9CRsTB"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 177042,
       "name": "Pendientes de Corazones",
       "url": "https://open.spotify.com/track/2ogpZBBde6xF1eXBugDtLL"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Que m\u00e1s da",
+        "url": "https://open.spotify.com/album/3sJswWpzyKnIuTLv2izMIq"
+      },
+      "artists": [
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        },
+        {
+          "name": "XhanelBBY",
+          "url": "https://open.spotify.com/artist/0XilNKZaQEvUz3X571uXCW"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "Que m\u00e1s da",
+      "url": "https://open.spotify.com/track/5iwtTGyfu9QzlXiFvCwvnw"
     },
     {
       "added_at": "2024-02-15 23:01:00",

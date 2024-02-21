@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Minnal Murali
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,820 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,896 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 74 | [Kamini](https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anugraheethan Antony](https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL) | 3:58 |
 | 75 | [Nilapakshi Happy Version](https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA) | [Maradona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo) | 3:48 |
 
-Snapshot ID: `MCxlNmI5ZGQ0NzVkMGU2MTU0YWVlOWRhMDA0NmI5YjAzNmQ0MDA5MWRj`
+Snapshot ID: `MCxjZmJhZDQzNjc3MzZmNjMwNmZlZDMzYWUwZmIxZjFmYTVhMDgwMzc4`

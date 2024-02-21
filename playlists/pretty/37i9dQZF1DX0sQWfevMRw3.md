@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > I NORRLAND ÄR DET FEST!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,960 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,017 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [LÄPPGLANS FRÅN DIOR \- EPA SATAN & GRETA TUBORG REMIX](https://open.spotify.com/track/04xFlIdZ0HoKIJQsPQ68Bj) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [LÄPPGLANS FRÅN DIOR \(EPA SATAN & GRETA TUBORG REMIX\)](https://open.spotify.com/album/0ncmCdtYBNHVyTRcPs4QVI) | 2:20 |
 | 100 | [LALA](https://open.spotify.com/track/32Sx8IL2UZKecO00G2LWj8) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [LALA](https://open.spotify.com/album/6ZYs4yXaxTKuQVNsHkg2hD) | 2:25 |
 
-Snapshot ID: `MCwzNjRhMjFjOTQ2YjIyNzRhN2JmYzA5ZGJiNjJhYzlhNDA2NDgyN2Fl`
+Snapshot ID: `MCw0YjYxYzJkNThkMjVhMDIwNDkyZDgyYmNiY2I2MTE4YjU5NjE5YjZk`

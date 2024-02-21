@@ -4,7 +4,7 @@
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-109 songs - 6 hr 48 min
+110 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Crash](https://open.spotify.com/track/1FoNbYIeraEqeN46nwNk8a) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/4Dir4ut5xEbGqJC3Pe9HsW) | 3:51 | 2021-07-30 | 2022-07-29 |
 | [Crash](https://open.spotify.com/track/2PQ5qbGvqqaNryS14cSNC9) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/6EXEpRGL3vNulelPB5HZKc) | 3:51 | 2021-07-30 |  |
 | [Definitely Maybe](https://open.spotify.com/track/4dYeLvp1VhtMRBQvSUScoz) | [FM Static](https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV) | [What Are You Waiting For?](https://open.spotify.com/album/3R8Av2tifd2t2KIVnhDAjt) | 2:50 | 2021-07-30 |  |
-| [Embers and Envelopes](https://open.spotify.com/track/1UEQUcL0XEpX3WLNFvv4uM) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/0KSoZMT7Q7q5nylNQnvtUa) | 4:18 | 2021-07-30 |  |
+| [Embers and Envelopes](https://open.spotify.com/track/4z6BGfHtJHIhZi5XwX1gs3) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/0fvnUGEkf0weY58px7azoE) | 4:18 | 2021-07-30 |  |
+| [Embers and Envelopes](https://open.spotify.com/track/1UEQUcL0XEpX3WLNFvv4uM) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/0KSoZMT7Q7q5nylNQnvtUa) | 4:18 | 2021-07-30 | 2024-02-21 |
 | [Embers And Envelopes](https://open.spotify.com/track/4ArUnW8s0cuJLKVFmkCA2F) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/3qdzT7kFqXnAKum9hYXXOz) | 4:18 | 2021-07-30 | 2022-07-29 |
 | [Energy](https://open.spotify.com/track/1YJ6AWU6RPVuHfi0wwOEsC) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 3:56 | 2021-07-30 |  |
 | [Eternally Apart](https://open.spotify.com/track/4pQbusZXoqUyoDiJw06CQR) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [Eternally Apart](https://open.spotify.com/album/3tofs0aeMcHKSgvcD6f8o0) | 5:04 | 2021-07-30 |  |

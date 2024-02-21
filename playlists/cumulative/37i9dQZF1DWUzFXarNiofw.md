@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Jordan Ward
 
-2,065 songs - 4 day 13 hr 55 min
+2,067 songs - 4 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,8 @@
 | [Ego \- Extended Mix](https://open.spotify.com/track/5GhhWK3Ge4JBCJa7S4NTyV) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [vbrtns](https://open.spotify.com/artist/6i0T2zzBRe2OXtPLR8BOvb) | [Ego \(Extended Mix\)](https://open.spotify.com/album/456U2WVAieUGqyrptZM4Yf) | 6:33 | 2022-04-01 | 2022-04-23 |
 | [ego talkin'](https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:54 | 2023-05-05 | 2023-07-22 |
 | [Either Way](https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Either Way](https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv) | 2:55 | 2023-09-01 | 2023-10-21 |
-| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 |  |
+| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 | 2024-02-21 |
+| [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 | 2024-02-16 |  |
 | [emotional](https://open.spotify.com/track/1BMffJnuEsz31KwwSyjbQv) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [KINDA HAPPY, KINDA SAD](https://open.spotify.com/album/3nOrmM1aN9RBB9vpwoSEzl) | 3:50 | 2022-09-02 | 2022-09-24 |
 | [Endless No Mores](https://open.spotify.com/track/1lOtWsnPUdnXn2bcplT02z) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores](https://open.spotify.com/album/0WScYTZpMayaB5X0VjXtdX) | 3:12 | 2023-01-20 | 2023-03-11 |
 | [Energy](https://open.spotify.com/track/4Zghtgj5NOb3wqlBuat3FI) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 4:10 | 2023-08-11 | 2023-10-21 |
@@ -1139,7 +1140,8 @@
 | [Mirage](https://open.spotify.com/track/5YDvCBMjwGYbWLyjsa2GoM) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Mirage](https://open.spotify.com/album/6Pnhk5XBg9Lr4ulGQXixbk) | 3:51 | 2022-02-11 | 2022-03-26 |
 | [Mirage](https://open.spotify.com/track/3tRqKrFc94pUhbN1MCxpYR) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Mirage](https://open.spotify.com/album/3Xq8VGN9DjmjfoTfC7GYbJ) | 2:49 | 2023-09-29 | 2023-11-11 |
 | [Miss Me Yet?](https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/5DHemqn1jvUaxUvvAQpcDG) | 2:54 | 2023-07-21 | 2023-09-16 |
-| [Miss Me Yet? \(Remix\) feat\. Eric Bellinger](https://open.spotify.com/track/7ocVZ6VbuXBntI2ef7IoGw) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Miss Me Yet… Now? \(Deluxe\)](https://open.spotify.com/album/7gnnmNdLEWtlsYFEUKYWY9) | 3:47 | 2024-02-16 |  |
+| [Miss Me Yet? \(Remix\) feat\. Eric Bellinger](https://open.spotify.com/track/1PfxTi4Ea4gAU7SD7hdE8y) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Miss Me Yet… Now? \(Deluxe\)](https://open.spotify.com/album/14ehmVW9EiofPxpyHiYbsI) | 3:47 | 2024-02-16 |  |
+| [Miss Me Yet? \(Remix\) feat\. Eric Bellinger](https://open.spotify.com/track/7ocVZ6VbuXBntI2ef7IoGw) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Miss Me Yet… Now? \(Deluxe\)](https://open.spotify.com/album/7gnnmNdLEWtlsYFEUKYWY9) | 3:47 | 2024-02-16 | 2024-02-21 |
 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2022-09-16 | 2022-10-08 |
 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 | 2022-06-17 | 2022-07-30 |
 | [missin u \- r&b edit](https://open.spotify.com/track/2TpcFRFD5DESYD1JF9nJ9q) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:52 | 2023-07-28 | 2023-09-09 |

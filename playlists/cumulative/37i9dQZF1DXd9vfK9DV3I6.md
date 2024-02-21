@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-286 songs - 21 hr 8 min
+287 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Eibada](https://open.spotify.com/track/2DB1K7RbZbFGACY9yiLLqH) | [Etyen](https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk) | [Yasmine](https://open.spotify.com/album/7o6S5sfdr8dsTL79AjLgQs) | 5:41 | 2020-11-04 | 2023-03-18 |
 | [El Baz](https://open.spotify.com/track/6w8jzsmcF4iYQPNAaBff1F) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Back2B](https://open.spotify.com/artist/6kMMLk9ZluESEiPOltXo4d), [Aziz Ozouss](https://open.spotify.com/artist/5F8YjfBPMkIBUjeYByzC1K) | [Tayri EP](https://open.spotify.com/album/4WTRhimmsPFphkxvJygJ7K) | 4:26 | 2023-09-21 | 2023-10-24 |
 | [El Hawa](https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr), [Hayam Mansour](https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6) | [El Hawa](https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T) | 5:47 | 2022-01-03 |  |
+| [El Hob](https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c) | [Pharonic Electronic](https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA) | [El Hob](https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw) | 3:34 | 2024-02-20 |  |
 | [Eldorado](https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Eldorado](https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc) | 6:21 | 2023-02-01 |  |
 | [End of All Hopes](https://open.spotify.com/track/5RfWujDfoDdKIF70rsqo6N) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [End of All Hopes](https://open.spotify.com/album/5n6HG1bX4f2JT9lgXKps8P) | 3:15 | 2023-03-03 | 2023-07-05 |
 | [Enta Omry Remix 2022](https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Enta Omry Remix 2022](https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG) | 4:38 | 2022-06-27 |  |
@@ -139,7 +140,7 @@
 | [Khayal](https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Khayal](https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO) | 5:13 | 2022-10-27 | 2022-11-26 |
 | [Khayyam](https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn) | [Jugurtha](https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME) | [Khayyam](https://open.spotify.com/album/0hx3o4Hft3utx1kKA9AVcJ) | 11:21 | 2020-10-18\* | 2023-03-04 |
 | [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2022-10-05 |  |
-| [La Blanche](https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN) | [TEHRACH](https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt), [omar](https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd) | [La Blanche](https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ) | 5:32 | 2020-10-18\* |  |
+| [La Blanche](https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN) | [TEHRACH](https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt), [omar](https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd) | [La Blanche](https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ) | 5:32 | 2020-10-18\* | 2024-02-21 |
 | [La rose éternelle](https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [La rose éternelle](https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc) | 4:30 | 2020-10-18\* |  |
 | [Lala](https://open.spotify.com/track/4e8eGYuknZV22JYoOCV2MY) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Lala](https://open.spotify.com/album/6k4FU5NkKbVg64krIS9fjC) | 6:34 | 2020-10-18\* | 2022-07-29 |
 | [Lala](https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Lala](https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6) | 6:34 | 2022-06-27 |  |

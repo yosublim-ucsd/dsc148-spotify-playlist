@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,246 likes - 83 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,248 likes - 83 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 82 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 |
 | 83 | [Shoulda Known Better](https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:46 |
 
-Snapshot ID: `MCwwMzA2MjI0NzM0ZjcyNjJhMDcxOTRlMzk3ZGU0OTQ0MTY5OTU2NGMy`
+Snapshot ID: `MCw0ZDUyNzQ0YjQyYWYzNjM2MTY3N2Y4OTc4ZTk1ODUwZDMyNTJjZDk0`

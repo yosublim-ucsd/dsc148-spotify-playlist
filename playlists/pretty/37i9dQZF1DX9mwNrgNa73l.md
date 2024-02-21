@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,968 likes - 75 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,103 likes - 75 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 68 | [HUSN](https://open.spotify.com/track/1HEaumfum03fcbwwdwm2Pv) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [HUSN](https://open.spotify.com/album/0s04EqGpXZ5iafjqQKpe0y) | 6:20 |
 | 69 | [Aik Alif](https://open.spotify.com/track/1FVMCf8F6RgTVrIaN2R9tV) | [Saieen Zahoor & Noori](https://open.spotify.com/artist/6jVprp3uYRJ6Cr8jTn8lkV), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:09 |
 | 70 | [Allah Hi Reham](https://open.spotify.com/track/5s9a6n2FQaufFDUTTcsaXj) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 4:01 |
-| 71 | [Khwaja Mere](https://open.spotify.com/track/4qH7OYUrVQx6NVj3Xp4Q7o) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Suhel Rais Khan](https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B), [Rekha Rao](https://open.spotify.com/artist/25kyMcj5F41jU2t8MNkH33) | [Khwaja Mere](https://open.spotify.com/album/4E4uZ2FtS2llz9e2apVt18) | 4:29 |
+| 71 | [Khwaja Mere](https://open.spotify.com/track/1983a9FGuZGojA9wz6cHRV) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Suhel Rais Khan](https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B), [Rekha Rao](https://open.spotify.com/artist/25kyMcj5F41jU2t8MNkH33) | [Khwaja Mere](https://open.spotify.com/album/51bBKqCDeUY8dpKAGX2Flt) | 4:29 |
 | 72 | [Allah](https://open.spotify.com/track/1If4nhpAJUVwogpsbitL4M) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Main Kavita Hoon \- Amrita Pritam](https://open.spotify.com/album/4zVSwIq5uplUTpCr6p6sHk) | 4:28 |
 | 73 | [Rang Le](https://open.spotify.com/track/6BW7qbuZba3CoEr1OahhUo) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2OC8Tg8Z4F583hxAyb64tt) | 3:33 |
 | 74 | [O Re](https://open.spotify.com/track/4AHvMLWvuGZn62sCpFEtj7) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 5:21 |
 | 75 | [Ali \(A.S\) Aye Hain](https://open.spotify.com/track/1eg7IqSJ1JHk3goCqLpS60) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ali \(A.S\) Aye Hain](https://open.spotify.com/album/4VALKrlOl0rKJUlDFfRQvx) | 6:56 |
 
-Snapshot ID: `MCw5ZjkxYjliNDMxN2U2YmY1OTM1ZTVkN2Q5MzIwODI5ZTg2NDZmNTU0`
+Snapshot ID: `MCwzN2RlYTNkMTQwZThiNmMwM2Y4OTk5YTIyYTA0NTZlYzkwN2Q3MDI0`

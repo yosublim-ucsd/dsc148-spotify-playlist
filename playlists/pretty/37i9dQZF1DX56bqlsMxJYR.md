@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > Classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,102 likes - 150 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,676 likes - 150 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 149 | [Splish Splash](https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Bobby Darin](https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB) | 2:11 |
 | 150 | [Sugar, Sugar](https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [Sugar, Sugar](https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC) | 2:49 |
 
-Snapshot ID: `MCxjM2NkZjk5MjllZGNmMzQ3MGRkODc5ZjEyZGQwZDA3ZGI0MjgwN2Yw`
+Snapshot ID: `MCw1MDExNWJiYTA4NTkyZjA5YmJmNzQ5ODAyZTNhNjE0NDA3NTQ2Yzg3`

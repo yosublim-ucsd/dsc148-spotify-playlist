@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWiyE9VDkCO.md) - [plain]
 
 > Hits zum Tanzen und Mitsingen \- von damals bis heute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,229 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,240 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWiyE9VDkCO.md) - [plain]
 | 149 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
 | 150 | [Narcotic \- Radio Edit](https://open.spotify.com/track/1H5VQuShs4qfwBXyHF0PeH) | [Liquido](https://open.spotify.com/artist/0wgLwvDNCHdJ9FblyyD4Dc) | [Narcotic](https://open.spotify.com/album/79EDJF2fJnnM7YVKCAeQXj) | 3:56 |
 
-Snapshot ID: `MCw0MjY3MzM3NmYyMTQwYTM4NTFmNTdiNTkzOTU1OTJmMGY1YmQ5MzJl`
+Snapshot ID: `MCw2ZWFlOWNkYzFlYTM3MDM1OGRmMTRmMmIxMzZmMmM2YzQ5YjJmNTI1`

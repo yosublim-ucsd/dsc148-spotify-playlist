@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,128 likes - 50 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,133 likes - 50 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Exaltamos o Cordeiro \- Ao Vivo](https://open.spotify.com/track/4yrnJCazRHqxMgLElZ8c4T) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Renato Mimessi](https://open.spotify.com/artist/7dcHm1I1P2orC6hZms9zTM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Exaltamos o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/1OTcv6gQ4wgsfjb20ftIm8) | 8:46 |
 | 50 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Nathanael Brito](https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ) | 10:02 |
 
-Snapshot ID: `Mjg0NzIzNzQsMDAwMDAwMDAzYzk3YjAzZWFlYjZmMDhiZDc0ZTI5MGJjYmRmZmZmZA==`
+Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDBlZWQwY2M3ODVmZGU3ZmM4Y2NlY2VmYzYyNGJlYzA0Zg==`

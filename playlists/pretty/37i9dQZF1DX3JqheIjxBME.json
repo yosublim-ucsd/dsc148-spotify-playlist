@@ -1,12 +1,12 @@
 {
   "description": "El cancionero que retrata las batalles y personajes que dejaron huella en M\u00e9xico.",
-  "num_followers": 21859,
+  "num_followers": 21865,
   "original_name": "Corridos de la Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDUyZmY5OGQ1ZTJkYzI0ODVhMmMwNGE4Njg3MzU5YzdiZmNkYmQ3",
+  "snapshot_id": "MCwwZTE3MmVmNmEzNjg3ZDliNGRkYWYwNTZkNGE0YzJkNTI1NGVmNjdj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:07:07",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 248737,
-      "name": "La Carga Blanca",
-      "url": "https://open.spotify.com/track/6qbLF6Fll5h6DJ2Znj4HzC"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
         "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 190746,
       "name": "El Muchacho Alegre",
       "url": "https://open.spotify.com/track/7sOiepiSbiyLmWba2TZcT9"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 248737,
+      "name": "La Carga Blanca",
+      "url": "https://open.spotify.com/track/6qbLF6Fll5h6DJ2Znj4HzC"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
         }
       ],
-      "duration_ms": 52360,
-      "name": "Yo Soy el Corrido",
-      "url": "https://open.spotify.com/track/72pO5ynabIQgdvhLHDX1HS"
+      "duration_ms": 141000,
+      "name": "Despierten Ya Mexicanos",
+      "url": "https://open.spotify.com/track/6IsaGX5wUWwPP9w7VlNmTQ"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Despierten Ya Mexicanos",
-      "url": "https://open.spotify.com/track/6IsaGX5wUWwPP9w7VlNmTQ"
+      "duration_ms": 52360,
+      "name": "Yo Soy el Corrido",
+      "url": "https://open.spotify.com/track/72pO5ynabIQgdvhLHDX1HS"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
         }
       ],
-      "duration_ms": 173897,
-      "name": "Benjamin Argumedo",
-      "url": "https://open.spotify.com/track/4zg05LaN2NYsabryLrDgql"
+      "duration_ms": 179252,
+      "name": "Domingo Corrales",
+      "url": "https://open.spotify.com/track/1IQkcYS6q1DgNIsBDJK626"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "Corridos Y Canciones De La Revolucion Mexicana",
+        "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
+      },
+      "artists": [
+        {
+          "name": "Amparo Ochoa",
+          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "Heraclio Bernal",
+      "url": "https://open.spotify.com/track/6DVzTR29873M8sS24PMASu"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
         "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 132960,
       "name": "El Revolucionario",
       "url": "https://open.spotify.com/track/1cUzN2cxJrfPXQ02UdM0yT"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Corridos Y Canciones De La Revolucion Mexicana",
-        "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
-      },
-      "artists": [
-        {
-          "name": "Amparo Ochoa",
-          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Heraclio Bernal",
-      "url": "https://open.spotify.com/track/6DVzTR29873M8sS24PMASu"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1596,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
         }
       ],
-      "duration_ms": 179252,
-      "name": "Domingo Corrales",
-      "url": "https://open.spotify.com/track/1IQkcYS6q1DgNIsBDJK626"
+      "duration_ms": 173897,
+      "name": "Benjamin Argumedo",
+      "url": "https://open.spotify.com/track/4zg05LaN2NYsabryLrDgql"
     },
     {
       "added_at": "2022-08-02 23:07:07",

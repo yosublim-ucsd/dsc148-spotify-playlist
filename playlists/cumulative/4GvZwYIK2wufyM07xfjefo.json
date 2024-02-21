@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 300500,
       "name": "BRAVE THE WORLD (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6VBkGMWaIYHzE3qQeu4HJU"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 368400,
       "name": "sequence of love",
       "url": "https://open.spotify.com/track/7zBBm1PKHEBmIvrj4nmX98"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 311111,
       "name": "\u30d1\u30e9\u30c0\u30a4\u30e0\u30fb\u30c8\u30e9\u30d9\u30e9\u30fc",
       "url": "https://open.spotify.com/track/4sQnPDIoXGaXc318414Vnt"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 305217,
       "name": "\u30d3\u30d3\u30c3\u30c9\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/4le3aG8KafhMpt4ihRCwE1"
@@ -867,6 +867,32 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a9\u30ec\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/5XcwuDfbb2MFAp2rTva1i0"
+      },
+      "artists": [
+        {
+          "name": "dezzy",
+          "url": "https://open.spotify.com/artist/6rdw0kbG9ame8zcTPuyM9Q"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "IA",
+          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112285,
+      "name": "\u30d5\u30a9\u30ec\u30b9\u30c8 (feat. \u521d\u97f3\u30df\u30af&IA)",
+      "url": "https://open.spotify.com/track/7tguJMdEDlVOBIMYIVJDaq"
+    },
+    {
+      "album": {
         "name": "STUDY WITH MIKU part3",
         "url": "https://open.spotify.com/album/20yka0P02QbIY4uhmrlPz7"
       },
@@ -896,7 +922,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 295685,
       "name": "\u30ed\u30fc\u30ea\u30fc\u30ba\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/4lPQQYllMiTkKOoptoFVXc"
@@ -922,6 +948,46 @@
       "duration_ms": 203000,
       "name": "\u30ed\u30fc\u30ec\u30e9\u30a4 (feat. IA)",
       "url": "https://open.spotify.com/track/35MpKVV9p62k9SBpKukyNd"
+    },
+    {
+      "album": {
+        "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30e9\u30f4\u30a1\u30fc",
+        "url": "https://open.spotify.com/album/2dRuZYftuAyphlaeBHs9gd"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30a4\u30af\u30a2",
+          "url": "https://open.spotify.com/artist/1IPsi5qSsqd9edA8u35S9Z"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141545,
+      "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30e9\u30f4\u30a1\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0HyiVoburjD639JoOX0LX2"
+    },
+    {
+      "album": {
+        "name": "\u4fc4\u304b\u96e8",
+        "url": "https://open.spotify.com/album/6aQFl3taAOrNibAkgTo76Q"
+      },
+      "artists": [
+        {
+          "name": "imie\u00d7\u5e73\u7530\u7fa9\u4e45",
+          "url": "https://open.spotify.com/artist/7nqS7FNtCcLWL6o0CkK28W"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237093,
+      "name": "\u4fc4\u304b\u96e8",
+      "url": "https://open.spotify.com/track/4nz94ALcwCzRO3NHjyLxVm"
     },
     {
       "album": {
@@ -998,6 +1064,46 @@
       "duration_ms": 172625,
       "name": "\u5b87\u5b99\u306e\u8e0a\u308a (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5Xb5DjVqrFW3B0o2NkmxH7"
+    },
+    {
+      "album": {
+        "name": "\u6211\u3001\u601d\u3046\u3086\u3048\u306b",
+        "url": "https://open.spotify.com/album/1o8d3p93iqW8wqnLq265Nr"
+      },
+      "artists": [
+        {
+          "name": "nogumi",
+          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238170,
+      "name": "\u6211\u3001\u601d\u3046\u3086\u3048\u306b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5Bw2uf8VDiHVYHfIcEkY0z"
+    },
+    {
+      "album": {
+        "name": "\u65e5\u4ed8\u5909\u66f4\u7dda",
+        "url": "https://open.spotify.com/album/5WgOJjmRCaB72c5YcxDEIP"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30de\u30b7\u30ed\u30de\u30b7\u30ed",
+          "url": "https://open.spotify.com/artist/2ZQbOmZrcdsqIKA4NaSck8"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279782,
+      "name": "\u65e5\u4ed8\u5909\u66f4\u7dda",
+      "url": "https://open.spotify.com/track/2adCfkUDD1bS6fcXVPLlTe"
     },
     {
       "album": {

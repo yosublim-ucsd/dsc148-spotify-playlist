@@ -1166,7 +1166,7 @@
       },
       "artists": [
         {
-          "name": "Greyskiin",
+          "name": "GREYSKIIN",
           "url": "https://open.spotify.com/artist/2A3HWyaY6VSKoPBgEWxtFX"
         },
         {
@@ -12801,6 +12801,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246909,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "album": {
         "name": "Ghost Brigade",
         "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
       },
@@ -20748,6 +20766,24 @@
       "duration_ms": 171380,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1CzkCBVMW5ZzbwaFbtk4ER"
+    },
+    {
+      "album": {
+        "name": "Look At The Time",
+        "url": "https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Hill",
+          "url": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260575,
+      "name": "Look At The Time",
+      "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
     },
     {
       "album": {
@@ -33298,6 +33334,24 @@
       "duration_ms": 197947,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/6c6GZ9GwIFCrKLXviFKt2e"
+    },
+    {
+      "album": {
+        "name": "Hometown Vampire",
+        "url": "https://open.spotify.com/album/4KybaR7XKX0v6u70W4YpS3"
+      },
+      "artists": [
+        {
+          "name": "Elijah Johnston",
+          "url": "https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83404,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/56HOxGRg1ICrkBLvWailZx"
     },
     {
       "album": {

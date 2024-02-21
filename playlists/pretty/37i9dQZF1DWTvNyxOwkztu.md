@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,293 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,654 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 |
 | 100 | [Time to Chill](https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Time to Chill](https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko) | 5:12 |
 
-Snapshot ID: `MCxmODE2MzI5MTJhMTcwZjdhMzdhYjkzM2QyNzU4ZTg0OTUxYzY5NTQ5`
+Snapshot ID: `MCxjZmNmMzNjMTlkN2FjMGY5ODJhYmE0ODA2NGUyOGUxYjM2ZGNkOTNk`

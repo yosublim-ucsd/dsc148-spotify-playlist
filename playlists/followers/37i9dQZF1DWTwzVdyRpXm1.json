@@ -1,7 +1,7 @@
 {
-  "2024-02-20": 785618,
+  "2024-02-21": 786008,
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Anuv Jain",
+  "description": "Best of South Asian Music. Cover: DIVINE, Karan Aujla",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -169,6 +169,36 @@
       "duration_ms": 194906,
       "name": "6 Maheenay",
       "url": "https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD"
+    },
+    {
+      "album": {
+        "name": "UNDISPUTED",
+        "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "8 ASLE",
+      "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
     },
     {
       "album": {
@@ -857,7 +887,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 176428,
       "name": "Bp Up Down",
       "url": "https://open.spotify.com/track/4bLKGyKQ9wKGUYA64Jw4QE"
@@ -1277,6 +1307,24 @@
       "duration_ms": 233630,
       "name": "Choo Lo",
       "url": "https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb"
+    },
+    {
+      "album": {
+        "name": "Chor",
+        "url": "https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR"
+      },
+      "artists": [
+        {
+          "name": "Justh",
+          "url": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Chor",
+      "url": "https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT"
     },
     {
       "album": {
@@ -4106,6 +4154,32 @@
     },
     {
       "album": {
+        "name": "O Maahi (From \"Dunki\")",
+        "url": "https://open.spotify.com/album/011VDmbOf50dqxmLnkdsoC"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233453,
+      "name": "O Maahi (From \"Dunki\")",
+      "url": "https://open.spotify.com/track/0qQ4IdhjzNr0gJhdMTf2n3"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3swSYkClej6IgR1AWPpzbS"
       },
@@ -4255,6 +4329,24 @@
       "duration_ms": 279120,
       "name": "Pablo",
       "url": "https://open.spotify.com/track/4ggG5qVYvi1tzluIU0MXoo"
+    },
+    {
+      "album": {
+        "name": "Pahadon Mein",
+        "url": "https://open.spotify.com/album/42EaMqAVeCVfHf11gVC25d"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231034,
+      "name": "Pahadon Mein",
+      "url": "https://open.spotify.com/track/4mIFaN3SWgBJlLjnyAMeg4"
     },
     {
       "album": {
@@ -4909,6 +5001,32 @@
       "duration_ms": 182348,
       "name": "Saari Duniya Jalaa Denge",
       "url": "https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB"
+    },
+    {
+      "album": {
+        "name": "Sadqay",
+        "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Sadqay",
+      "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
     },
     {
       "album": {
@@ -6096,6 +6214,32 @@
     },
     {
       "album": {
+        "name": "Ve Haaniyaan",
+        "url": "https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5"
+      },
+      "artists": [
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ve Haaniyaan",
+      "url": "https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b"
+    },
+    {
+      "album": {
         "name": "Vikram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
       },
@@ -6173,7 +6317,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 236168,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq"
@@ -6285,6 +6429,32 @@
       "duration_ms": 154554,
       "name": "With You",
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+    },
+    {
+      "album": {
+        "name": "Street Dreams",
+        "url": "https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192315,
+      "name": "Yaad",
+      "url": "https://open.spotify.com/track/0GxXlmjiZNBWi44AUblZsR"
     },
     {
       "album": {

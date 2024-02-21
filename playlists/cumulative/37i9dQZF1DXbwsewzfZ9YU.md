@@ -4,7 +4,7 @@
 
 > the best in hardcore\. open the pit w/ Harms Way.
 
-197 songs - 8 hr 2 min
+198 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Burst](https://open.spotify.com/track/5seDapgh8K6TQ3W1M3BBag) | [Riot Stares](https://open.spotify.com/artist/12cQFjMJf8HYgFqTMwz7Hn) | [Burst](https://open.spotify.com/album/3MycS5QDIKT1HVouCbkbpT) | 2:12 | 2023-02-24 |  |
 | [Chew](https://open.spotify.com/track/3QOg1az5WvUJNT0pVhCI3q) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [Be My Vengeance](https://open.spotify.com/album/1k50Z5L0x3NHXo3aocmSEL) | 2:42 | 2024-01-30 |  |
 | [Chunker](https://open.spotify.com/track/5ifQfvMrCILtMMNTnn7WYA) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Chunker](https://open.spotify.com/album/06E9FCZ7YFqBVgCm1ldauU) | 4:17 | 2023-05-19 | 2023-07-18 |
+| [Clip Your Wings](https://open.spotify.com/track/2ZKIpDOt31WEZ7qBqKOCa3) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Clip Your Wings](https://open.spotify.com/album/77MzQRedEFUdEXzndw6QZV) | 2:54 | 2024-02-20 |  |
 | [Coming Correct Is Cheaper](https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:04 | 2023-02-24 | 2023-08-26 |
 | [Constructing a War Against You](https://open.spotify.com/track/7GislxP58SUMLTBophiSuA) | [Field of Flames](https://open.spotify.com/artist/7vePJsKD0BtKip0yC5Dv8J) | [Constructing a War Against You](https://open.spotify.com/album/18PYpYm7csh6OXUkaLl3AE) | 2:05 | 2023-02-24 |  |
 | [Content](https://open.spotify.com/track/1S5okQvjTYN7WgiuANfmlF) | [Infant Island](https://open.spotify.com/artist/34ZIRrOiowNWuyJYt5crZM) | [Beneath](https://open.spotify.com/album/5ycE4NDRcP3gvnwltM8uiU) | 4:21 | 2023-02-24 |  |
@@ -72,7 +73,7 @@
 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2023-02-24 | 2023-05-20 |
 | [Gassed](https://open.spotify.com/track/08mRGqBA6yfcdZyOiCFxhN) | [Open City](https://open.spotify.com/artist/2a8IfwVYLaWBu8oP5CBjYT) | [Hands In The Honey Jar](https://open.spotify.com/album/7rt4Qre1J0ePPm8AXlUQ6C) | 1:13 | 2024-01-30 |  |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-02-24 | 2023-06-27 |
-| [Good Riddance](https://open.spotify.com/track/0kNPO6bdi3vMlVPhXTQA2T) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Moment Of Violence](https://open.spotify.com/album/50f1iQiiAIznNY2lttY2lT) | 2:15 | 2023-08-11 |  |
+| [Good Riddance](https://open.spotify.com/track/0kNPO6bdi3vMlVPhXTQA2T) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Moment Of Violence](https://open.spotify.com/album/50f1iQiiAIznNY2lttY2lT) | 2:15 | 2023-08-11 | 2024-02-21 |
 | [Grave Dive](https://open.spotify.com/track/0NAF4ywlrLdqUZMJRT23od) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:31 | 2023-02-24 |  |
 | [Halfway](https://open.spotify.com/track/2iQ8BNDGU06JXqVYhOaKY5) | [Bent Blue](https://open.spotify.com/artist/1haOs9zOxraUzXYPEOs125) | [Where Do Ripples Go?](https://open.spotify.com/album/3QrvdDcBeldWqVJ09ADQrS) | 2:49 | 2023-02-24 |  |
 | [Hate Me](https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Hate Me](https://open.spotify.com/album/4bfZJObSINfpyuED5Apz3M) | 2:11 | 2023-04-07 |  |

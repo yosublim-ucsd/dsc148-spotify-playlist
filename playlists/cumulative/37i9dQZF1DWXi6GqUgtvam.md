@@ -4,7 +4,7 @@
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-76 songs - 4 hr 2 min
+77 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Viking Boaters Dancing in Scotland \(feat\. Lana Ross\)](https://open.spotify.com/track/5zZCJsQMWH5dol75UMfO9s) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv), [Lana Ross](https://open.spotify.com/artist/3zT2ihLD0QRkAOCp3Q2XSc) | [Medieval Viking Music Magic Fantasy for Celtic Folk Lute and Classical Guitar](https://open.spotify.com/album/7r1WRowCRvZdZU6RK4RwtM) | 3:02 | 2022-01-25 |  |
 | [Welscher Tantz](https://open.spotify.com/track/26Vz0A7Hffh0Un9hRF7lf8) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [The Triumphs of Maximilian](https://open.spotify.com/album/0hQ5mvkxCZCXjUGHIuPgQa) | 1:59 | 2022-01-25 | 2022-07-29 |
 | [Welscher Tantz](https://open.spotify.com/track/3oytASoqTiWj4BVkEcAZk9) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [The Triumphs of Maximilian](https://open.spotify.com/album/6DYJVAo5Q3qJQq2VxiZLpC) | 1:59 | 2022-07-11 | 2022-08-31 |
-| [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 | 2022-07-11 |  |
+| [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 | 2022-07-11 | 2024-02-21 |
+| [Wild Boar Inn](https://open.spotify.com/track/123dbEu64JKmhfU0fGy0gX) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7BgQqvXcARjxfj1BLC4va1) | 0:50 | 2023-04-21 |  |
 | [Wild Boar Inn](https://open.spotify.com/track/2QTP9Tf3j2fxjFKkrqArNu) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7hFwvU7bZHmH3DY25rlz1s) | 0:50 | 2022-01-25 | 2022-07-29 |
 | [Wild Boar Inn](https://open.spotify.com/track/6IMlRZyvY1CBm56E9PJtJg) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Wild Boar Inn](https://open.spotify.com/album/3eJ9y2YBpfhrjFrKJFozBQ) | 0:50 | 2022-10-03 | 2022-11-14 |
 

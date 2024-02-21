@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 659580,
+  "2024-02-21": 659635,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Lal Salaam",
   "name": "Latest Tamil",
@@ -10365,6 +10365,32 @@
       "duration_ms": 321702,
       "name": "Kannoram",
       "url": "https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ"
+    },
+    {
+      "album": {
+        "name": "Babu (No.1 Bullshit Guy) - Tamil",
+        "url": "https://open.spotify.com/album/5jCaAsJtl2UrNnxQamgCdc"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Madhurakavi",
+          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262228,
+      "name": "Kannu Kazharudhe",
+      "url": "https://open.spotify.com/track/7LOAmhLcmzYer3Wf8P54jg"
     },
     {
       "album": {

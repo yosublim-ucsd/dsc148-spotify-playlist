@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,125 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,196 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 21 | [Fantasia \- Instrumental](https://open.spotify.com/track/3hYHCMkZG7ImrgChQi5PwU) | [Alonso Mudarra](https://open.spotify.com/artist/7vAEvCZlKOLpLqHzfAPdej), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [NPR Milestones of the Millennium: The Renaissance in Music](https://open.spotify.com/album/3Q8GxkzDXMIBtynAbYnqdO) | 1:34 |
 | 22 | [Sonata for Lute No\. 8 in A Major: V\. Ciacona](https://open.spotify.com/track/5dSsnewB866BdN1aOE64Jk) | [Silvius Leopold Weiss](https://open.spotify.com/artist/4bRcNJTLwLZmJM598wTQ3A), [Lee Santana](https://open.spotify.com/artist/61QbO9V1phMYrxDEviA7Gn) | [A Song of Divine Love](https://open.spotify.com/album/33CyyVhT9gvakVlEIPVpYQ) | 3:18 |
 | 23 | [Suite No\. 1 in C Major: II\. Spagnoletta](https://open.spotify.com/track/54zeWeNKZHaNYKY2lHY1gY) | [Michael Praetorius](https://open.spotify.com/artist/0OTPgUKkDp058dC3czXFM2), [The New York Renaissance Band](https://open.spotify.com/artist/68aPYbLK1kJbQcZ3dDAYrz), [Sally Logemann](https://open.spotify.com/artist/6zTV9YLwzBwMzsu2d6yqOt) | [Praetorius: Terpsichore \- Suites Nos\. 1\-4](https://open.spotify.com/album/3HVL2zohtF2lF8y0pgwB47) | 2:59 |
-| 24 | [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 |
+| 24 | [Wild Boar Inn](https://open.spotify.com/track/123dbEu64JKmhfU0fGy0gX) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7BgQqvXcARjxfj1BLC4va1) | 0:50 |
 | 25 | [Suite in G Major: VI\. Chaconne](https://open.spotify.com/track/6AxHPKD67td22BbNBWFp4C) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Yasunori Imamura](https://open.spotify.com/artist/6VGoQUG1oYW9nHgFnQNOVU) | [Visee, R\. De: Suites](https://open.spotify.com/album/3Zc9g2BQCPyuRH0n3AlR5U) | 8:13 |
 | 26 | [Castle Jam](https://open.spotify.com/track/23f1HQw8fnhF9oQVSbl6Gq) | [Robert L\. Euvino](https://open.spotify.com/artist/0uHjX3kKk0lBtFNQreljfR) | [Stronghold \(Original Game Soundtrack\)](https://open.spotify.com/album/2FHAI9AvSlX3aUzPXPGLIz) | 4:19 |
 | 27 | [The Noble man \- Instrumental](https://open.spotify.com/track/7BPdMDvu7Tx1PEHC3AslcI) | [Robert Johnson](https://open.spotify.com/artist/2aCgahfhJEknpgwtVWAs7c), [Nigel North](https://open.spotify.com/artist/3bXYTyOxtKi2xyij1LDCnQ) | [The Rags of Time \- 17th Century English Lute Songs & Dances](https://open.spotify.com/album/4MZmhEIgJu0FUOSJAQtMuZ) | 2:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 50 | [The Master Chef of Gastrobury](https://open.spotify.com/track/0aycbYuLLKP00Vxk8nLXtB) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 2](https://open.spotify.com/album/3DwRaQhxTq7o9a0GAnILbD) | 2:08 |
 | 51 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 
-Snapshot ID: `MCxhODZhMjMwMWZmYWQ5ODA3ZTg5YTIwYWVlNTcwYTE2YWExMDQ5ODVk`
+Snapshot ID: `MCw3OWQwYTBiODQ1NWYyZWM3NzFiNzI3YWI2NzNjZDc5Y2IxYjk2NzEx`

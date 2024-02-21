@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser autêntico vocês já sabem\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,702 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,725 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Viagem Cara](https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1) | [Souffran](https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Viagem Cara](https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV) | 2:16 |
 | 50 | [Centro de São Paulo](https://open.spotify.com/track/0yOc9p0JVvVX5zKBDPZAqm) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 4](https://open.spotify.com/album/3Lf4zUSuZ0ihmvpt72P8bx) | 2:53 |
 
-Snapshot ID: `MCwwYTViZWNjNzQxYTJlNGYzZmYyM2UyNzYxNGM4NzdiODE4ODE3N2Fm`
+Snapshot ID: `MCwyYjA3MDM3NGZlZWUxZWM1NWU1YmIxNGQ0ZThkNzdhMGFiMTM1ODgy`

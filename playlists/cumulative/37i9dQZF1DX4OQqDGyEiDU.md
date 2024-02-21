@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-563 songs - 1 day 7 hr 57 min
+564 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [ゾンビのパンチ](https://open.spotify.com/track/6Nc84h3xB0qkfltNeT9R5Q) | [薄塩指数](https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [ゾンビのパンチ](https://open.spotify.com/album/2onlRbDBllBcz7CeTWZhYD) | 3:00 | 2022-07-19 | 2022-07-23 |
 | [タイニーバニー](https://open.spotify.com/track/7gKiSEjNkB2ecnEL3swpLf) | [youまん](https://open.spotify.com/artist/0kftAOhVPnuakOMGVaMTqA) | [タイニーバニー](https://open.spotify.com/album/634HkE9zY919YnRhu4y9nz) | 3:28 | 2022-06-09 | 2022-07-23 |
 | [タイムマシン feat.GUMI](https://open.spotify.com/track/2Xi2ObkmQ417jsRIo4rcFJ) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [THIS IS VOCAROCK feat.GUMI](https://open.spotify.com/album/0wijdCgAq3tQMfDxbi0BUJ) | 4:08 | 2022-06-14 | 2022-06-21 |
+| [タクシィ](https://open.spotify.com/track/0kREG8eHSj3TCSck77AMnf) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [タクシィ](https://open.spotify.com/album/6glS3KLPXb2MGedjSSjit4) | 3:03 | 2024-02-20 |  |
 | [ターミナル](https://open.spotify.com/track/1eX9qVhcMGAPpmvBVXW9oq) | [Kijibato](https://open.spotify.com/artist/0Nu6ol0k7wvv19hjtMK5f5), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [ターミナル](https://open.spotify.com/album/7lDlYfShmNv6ucZYq0lriV) | 2:15 | 2022-06-28 | 2022-07-07 |
 | [ダウナーウィッチ](https://open.spotify.com/track/2A8iKOvDG8ZCd8rgN6tPmE) | [廉](https://open.spotify.com/artist/7yDJ7xS3dASPaycSUqRy9G) | [ダウナーウィッチ](https://open.spotify.com/album/4suGRNsYYdIruxNhF2yXTP) | 3:33 | 2022-06-09 | 2022-07-28 |
 | [ダメージ!ダメージ!ダメージ!](https://open.spotify.com/track/7lYWkuKy5wbrMX1p6pq6RW) | [雨曇](https://open.spotify.com/artist/040kifXngKOCmBJC2ZRffX) | [ダメージ!ダメージ!ダメージ!](https://open.spotify.com/album/7LGHG815QRONhUpzP06Jyk) | 1:16 | 2023-03-09 | 2023-04-12 |
@@ -359,7 +360,7 @@
 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 | 2022-06-14 |  |
 | [ビバハピ](https://open.spotify.com/track/4QaDgEbUd91TklG65p65JK) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [The Greatest Idol](https://open.spotify.com/album/6vcfg5AQ5Yu31SnUHWVkLV) | 3:35 | 2022-07-10 | 2022-07-13 |
 | [ビートシンカー](https://open.spotify.com/track/1vGOT1kLjpSIpeX1Ttm3P7) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [ミライコレクション](https://open.spotify.com/album/2DzfW4dqIF1J7KCM0y2i2d) | 3:42 | 2022-06-23 | 2022-07-19 |
-| [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 | 2022-06-09 |  |
+| [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 | 2022-06-09 | 2024-02-21 |
 | [フォニイ](https://open.spotify.com/track/5pBIavXhjzTi0u7pkOK71N) | [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 3:09 | 2022-06-09 | 2023-07-08 |
 | [フォニイ](https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2) | [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 3:09 | 2023-07-06 |  |
 | [フラジール](https://open.spotify.com/track/2N1Gc90q9I4bbvpAmxptmw) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:30 | 2022-06-09 | 2022-07-29 |

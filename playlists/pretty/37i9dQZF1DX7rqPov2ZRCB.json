@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 66089,
+  "num_followers": 66092,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWUxMzE0NWMyYzgyMWQ2OTQ0ZWQ1NDEyNjlkNDNjMjFmMjE3MzU0",
+  "snapshot_id": "MCw1NjVlZDgxNDFlYzcyNGFlNjk5OGMxMTE1OGMyYjMwNjlkN2NlYzE0",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -459,18 +459,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "La Caba\u00f1a",
-        "url": "https://open.spotify.com/album/0RdcZm4JIUfIyTfN7exGIV"
+        "name": "Maria Diaz y Luis Vargas",
+        "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
       },
       "artists": [
         {
-          "name": "Julian",
-          "url": "https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI"
+          "name": "Maria Diaz",
+          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
+        },
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 223346,
-      "name": "La Querida Tipica",
-      "url": "https://open.spotify.com/track/7oez5wsiPo24mYY0jzQIxN"
+      "duration_ms": 267493,
+      "name": "La Torera",
+      "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -523,22 +527,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Maria Diaz y Luis Vargas",
-        "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
+        "name": "La Caba\u00f1a",
+        "url": "https://open.spotify.com/album/0RdcZm4JIUfIyTfN7exGIV"
       },
       "artists": [
         {
-          "name": "Maria Diaz",
-          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
-        },
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI"
         }
       ],
-      "duration_ms": 267493,
-      "name": "La Torera",
-      "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
+      "duration_ms": 223346,
+      "name": "La Querida Tipica",
+      "url": "https://open.spotify.com/track/7oez5wsiPo24mYY0jzQIxN"
     },
     {
       "added_at": "2019-09-09 17:49:24",

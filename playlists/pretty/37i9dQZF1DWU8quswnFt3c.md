@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,051 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,994 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [TOKYOITE](https://open.spotify.com/track/6CyZCDqEgRAMjbJrzkpWnT) | [TOMOKO IDA](https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB) | [TOKYOITE](https://open.spotify.com/album/3MtWoSQsfhcelBCzUwaLAB) | 2:48 |
 | 49 | [Cloudy Skies](https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU) | [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ), [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Cloudy Skies](https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc) | 4:13 |
 
-Snapshot ID: `MCxhNWE0NWUxZGZjZjA1ZjNiZjcyOTkwNmM3MDUzZTVkODMyOGUwNDkx`
+Snapshot ID: `MCw2NmI4MjFhYmMxNDJkNjdiZGVjMjFlNGRkNzk5MmU5Y2ZiZTQ4MDk1`

@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
-  "num_followers": 31952,
+  "num_followers": 31957,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTMyYmFhNGE5NjYyNGFjYTY3NDNmODM4MjFjMTQ2MmYwNGUzYjA5",
+  "snapshot_id": "MCw5NGZlODdjZjFmMzk2MjI5MTJhYzU2ZDAyODVkNTYzNzZjYWFiY2E3",
   "tracks": [
     {
       "added_at": "2024-02-19 08:51:27",
@@ -23,6 +23,26 @@
       "duration_ms": 162206,
       "name": "Aata Gaani Aata",
       "url": "https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ"
+    },
+    {
+      "added_at": "2024-02-20 08:13:37",
+      "album": {
+        "name": "Raava Raava",
+        "url": "https://open.spotify.com/album/0ICVIqrfGQNNFVKutHLkrJ"
+      },
+      "artists": [
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "name": "Priyanka Nath",
+          "url": "https://open.spotify.com/artist/7xKgO2AdW8dPHlXrxBNTpE"
+        }
+      ],
+      "duration_ms": 170086,
+      "name": "Raava Raava",
+      "url": "https://open.spotify.com/track/0zsKh0ggH3rul0d6AAAOYJ"
     },
     {
       "added_at": "2024-01-18 12:44:48",
@@ -987,26 +1007,6 @@
       "duration_ms": 114214,
       "name": "Kshanam",
       "url": "https://open.spotify.com/track/3RoOO8Rmx5Wd9a9LrV5Btw"
-    },
-    {
-      "added_at": "2023-09-27 07:10:33",
-      "album": {
-        "name": "Don't Care",
-        "url": "https://open.spotify.com/album/2VsrTgf8EkXamAUJK80dj1"
-      },
-      "artists": [
-        {
-          "name": "Vamsi Kalakuntla",
-          "url": "https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk"
-        },
-        {
-          "name": "Cuvan",
-          "url": "https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0"
-        }
-      ],
-      "duration_ms": 215381,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/5uS1kRmoUBwUQQWNCJfdA8"
     },
     {
       "added_at": "2023-10-06 11:22:08",

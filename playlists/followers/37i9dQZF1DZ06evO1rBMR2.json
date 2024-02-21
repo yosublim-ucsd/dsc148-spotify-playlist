@@ -1,5 +1,5 @@
 {
-  "2024-02-20": 108485,
+  "2024-02-21": 108522,
   "date_first_scraped": "2024-01-30",
   "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Huracanes del Norte",
@@ -251,7 +251,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 205975,
       "name": "El Corrido De Los Perez",
       "url": "https://open.spotify.com/track/4BLxjH7MYEcnf8UuI739mq"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 195000,
       "name": "La Suburban Dorada",
       "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
@@ -615,6 +615,24 @@
       "duration_ms": 132597,
       "name": "La Viudita",
       "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
+    },
+    {
+      "album": {
+        "name": "#",
+        "url": "https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Las Liebres de Chihuahua",
+      "url": "https://open.spotify.com/track/5mNohx0IKu2CMHIYA1b3Ke"
     },
     {
       "album": {
@@ -827,7 +845,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-20",
       "duration_ms": 211493,
       "name": "Que Me Lleve El Diablo - En Vivo",
       "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
